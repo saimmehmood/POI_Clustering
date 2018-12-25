@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "147",
+            "short_name": "147",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1301",
+            "short_name": "1301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">147 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "147 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-9511",
+    "geometry": {
+        "location": {
+            "lat": 40.820877,
+            "lng": -73.9387859
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82213963029149,
+                "lng": -73.93750136970849
+            },
+            "southwest": {
+                "lat": 40.8194416697085,
+                "lng": -73.9401993302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "b4dc64fd81c36037930edc7e72f541cb6c58ebb9",
+    "international_phone_number": "+1 212-234-9511",
+    "name": "Bishop James Roberts Learning",
+    "place_id": "ChIJRVIP_Xj2wokRYmk_0PR_Dd0",
+    "plus_code": {
+        "compound_code": "R3C6+9F New York, United States",
+        "global_code": "87G8R3C6+9F"
+    },
+    "reference": "ChIJRVIP_Xj2wokRYmk_0PR_Dd0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15928528146521876834",
+    "utc_offset": -300,
+    "vicinity": "147 West 144th Street, New York"
+}

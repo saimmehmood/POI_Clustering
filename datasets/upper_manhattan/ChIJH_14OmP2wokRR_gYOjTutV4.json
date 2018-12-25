@@ -1,0 +1,266 @@
+{
+    "address_components": [
+        {
+            "long_name": "515",
+            "short_name": "515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5101",
+            "short_name": "5101",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">515 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "515 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 368-9915",
+    "geometry": {
+        "location": {
+            "lat": 40.82581409999999,
+            "lng": -73.9485627
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82710133029149,
+                "lng": -73.9472593197085
+            },
+            "southwest": {
+                "lat": 40.82440336970849,
+                "lng": -73.94995728029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "d0ed1bb1e823ff997bdb63a4e33e5a6eeba17ff7",
+    "international_phone_number": "+1 212-368-9915",
+    "name": "Hotel Caribe",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAALHmDyZwuWzEX7-XdAg9WV0-RyXL3BOSjHriWmq5AQfaLlTq4sV7QJZtdmXZZhba484SVkRkiejL-xIz4ZT8VPM8uQq1ReEkrRy8LL-Btf2RsI09rH1sZgxxXHtkno1BREhDWirv85wYD5iUo_o9jEf0uGhR9_CFbixqTOX1U1fMf3ABmqgYVoA",
+            "width": 1500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAAcnuGQd6rRLUlzXrUf-NVUQlmSuRZoYonTuOJmKQf0XTzGEF3dIfuETU6wQeF76-gd3CrLOUIDT0r5xYslKdbsu71ZWt_JmTeg41PJWesJxU7UkVuREcaqyfGLFC9B2LcEhB7CqqHYcxBjKbYAMYhJsk0GhQGKxT-10ozoSBm7z6_zv75Wf7u8Q",
+            "width": 1500
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAANVn4SYW9XjyOvIqvz7EqkMIPhc90RjZjuqtMNBTi7a8puy4olf351ICg9pQPpgHFh8P55L34Po6_IbmZigR4ehmpUFlypFegVd4iqobq7ibJdo8Nix9btrY_IsTbAjtBEhCdtFgLgbq4EoKfG3rp3P9kGhQGhXA4CqGouTDktGTdj_pb6z6akQ",
+            "width": 2048
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAA_xarhfMizljzerZ_kFl33-5VUMObIky7rxT2OzwlcWZ9-f4M5ue8nIOp-akA4YzIwmAfGbj_iCvINtuRAb5sip9XD5nfM8mvqlNXuMUVCeU7x4NoPCVSpD-5fIO1nhEtEhAcpNaWsjLs-ApgBZ5iTU99GhTIhHdsvDNu0hnkudgDWy4bjaiEKQ",
+            "width": 1500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAAiz4gKTFwaagYeKGk-5DGZHJnYXOXd9Tyy8gPw3asO30oO2T7JLisuZDwIzpGemOSSFv3BhIXv5PIyeio6Rjh3PUWw0KsoDPQOTy_HtPrviFtl3LzSsUs7iiCF-KRu3swEhAPihobfLVfkJfaAxk2-JLfGhS8MVHu_9BU3HYfXfP6ueC1JrbT2w",
+            "width": 1500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116847420756172389990/photos\">Hotel Caribe</a>"
+            ],
+            "photo_reference": "CmRaAAAA3ECrhq1wt-XhPNshM9CBopWsNFgvrN_yJDcnk32jAAnzTPvWEXxSH-5WQHhvluzeKg1X2U6pNSauN6ZsoeB4_1LU0Qq3vYYtYRW5QlxEe_PTfMuif1I1Y9iBqlvFKwCvEhAB7XJ0Htnpe3WAeP21ZVPBGhQqidfgVT1uwyuRK7-A3f6qlMNd0Q",
+            "width": 1500
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111502192293225280283/photos\">SDLPZ</a>"
+            ],
+            "photo_reference": "CmRaAAAAJbmsLEWm-6kY-XRfuGw4On2rroggVKo_3wWYVQHGKmGyT7dfrPN9ZV_5YzOhYdREMUd5IMGcAsDUUKDxpqzJP-SZizTFyk0Mmc3g_doy-apkaPHfY37dbCaUeztGal_cEhAZNlkOmdVAM2kpVox2R_42GhS7WPTUii5Qb1ef27caaRCmOauKbA",
+            "width": 3024
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112358197693310340013/photos\">Abel Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAkBg7aioqZCUd7NZqekV4x0tbTEXYdRNYoqgKiBCKfltMvYCb2oLsqUbjEoUOPjfcLHOhKZRV4Pl71cGLqU3yv8Sw2tSfI_CfzDeaQ_Q_cXMGOvHWUu8eb6ph3VYV5NWVEhBuYI_iVWVL92j5ptJjUkWSGhQYHmmRczuIAC-_V108nDx_jqosqA",
+            "width": 1200
+        },
+        {
+            "height": 972,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112765095943597116464/photos\">Polito nunez Nunez</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ShsIJKKK8YgUdgR1qtPrahX0RZul-kqqwNPAMfs7hAP5FLTrQ1Mzq7ycffTL6wQ3yDdF2IfUuUgbWi4jVT8hijtapBkE_v9x0Hct6IqNf5xdLiWsfQ34OpNCXoMmDDMEhDnryGXNDf0GVQvQSk-8SEXGhSwp2wqWabrf6s0Uy82nl8ncrJ5cw",
+            "width": 1296
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111605105363332941691/photos\">John McNamara</a>"
+            ],
+            "photo_reference": "CmRaAAAAHXXVm8_ZEy9qUHDdyU9Ol6NTfUJ8BnqcxQzgepJefP48Dw60Q5MsDQ2gTMdsP9kGn28JRdthFbHbD8UrsJPaq7eiC9QveqZgYRM3W2IWv2IwiXM_JpQq-A9z4XNdIKcTEhCE8ukwDoId0UlRNAbHBsExGhTI9xSbrkwordYHSwk1Y50L3dG1UA",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJH_14OmP2wokRR_gYOjTutV4",
+    "plus_code": {
+        "compound_code": "R3G2+8H New York, United States",
+        "global_code": "87G8R3G2+8H"
+    },
+    "rating": 2.9,
+    "reference": "ChIJH_14OmP2wokRR_gYOjTutV4",
+    "reviews": [
+        {
+            "author_name": "Donique McFarlane",
+            "author_url": "https://www.google.com/maps/contrib/107145137224275413219/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-iiNecY17Uh0/AAAAAAAAAAI/AAAAAAAAB2M/91ACH9jNpkA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Honestly I\u2019ve been using Hotel Caribe on and off for almost 4 years now. Never had a outrageous complaint. My only complaints were about the remote and it was fixed. I do wish more overnight rooms are available on the lower floors but honestly it\u2019s a very great motel in a great area. Affordable which is a MAJOR PLUS as a MYC native.",
+            "time": 1541158217
+        },
+        {
+            "author_name": "Robinson Fernandez",
+            "author_url": "https://www.google.com/maps/contrib/105018547365045079252/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-V3g_OcK_BRE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbGT2ENAfirB1_de-b5HZ99mtBF4A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "There are 3 of these hotels in Harlem. Caribe Hotel, Casablanca, and Harlem Vista. Hotel Caribe is by far the worst. The room was too warm, and the AC Units they had in the rooms were defunct so if you\u2019re looking for a sauna experience, this is the place to go. The front desk also tracks who goes into and out of your room and decides who can and cannot go up. \n\nCasablanca is slightly more expensive but doesn\u2019t play these games and Harlem\nVista doesn\u2019t track your guests but lacks WiFi and is the same price as Caribe. \n\nDo yourself a favor and stay elsewhere.",
+            "time": 1543578478
+        },
+        {
+            "author_name": "M Choudhary",
+            "author_url": "https://www.google.com/maps/contrib/103469517489821543985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-J3KsyfVqjO4/AAAAAAAAAAI/AAAAAAAAwfs/R0kDepTdd24/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "\ud83c\udfe9Very cheap ., affordable. Fairly comfortable. There is a very amazing Caribbean restaurant right down stairs \ud83d\ude0b and it\u2019s smacked down a block from \ud83c\udf03broadway \ud83d\ude95. I love it . The area has many stores and restaurants. Complimentary \ud83e\udd50 pastries and coffee \u2615\ufe0f in the morning. No elevator though . And it goes up 4 flights.  Good luck \ud83d\udc4d\ud83c\udffd",
+            "time": 1534012767
+        },
+        {
+            "author_name": "mfalu1987",
+            "author_url": "https://www.google.com/maps/contrib/118323744310616848856/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qsjlyc9nwG8/AAAAAAAAAAI/AAAAAAAAFKU/uUoGuSNF2Jw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "The hotel was pretty cool. In a good location. Pretty clean and the employees were very discreet. The room had a full size bed. You can choose to have a communal bathroom or a room with a bathroom.",
+            "time": 1529719788
+        },
+        {
+            "author_name": "Ricardo Pilger",
+            "author_url": "https://www.google.com/maps/contrib/113161538695383361461/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MhnegLBJaAE/AAAAAAAAAAI/AAAAAAAAAAk/ws2jxUmYSWg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "It's more of a place for hookups , but if you're just looking for somewhere cheap to lay your head it's alright. Although personally I wouldn't go opening doors to strangers , or go to a shared bathroom alone. The people could be a little rude , but it's not that bad for 90 - 95 No matter what time of the night you check in , check out is at 12.",
+            "time": 1543510656
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6824622718430279751",
+    "utc_offset": -300,
+    "vicinity": "515 West 145th Street, New York"
+}

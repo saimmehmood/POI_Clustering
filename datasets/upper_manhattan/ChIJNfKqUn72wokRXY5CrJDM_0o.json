@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82594890000001,
+            "lng": -73.93891940000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8273540302915,
+                "lng": -73.9376155697085
+            },
+            "southwest": {
+                "lat": 40.8246560697085,
+                "lng": -73.94031353029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2f7d0cc2c403b4775d335133bb361cc115533620",
+    "name": "I Am Soul Food Takeout Restaurant",
+    "place_id": "ChIJNfKqUn72wokRXY5CrJDM_0o",
+    "plus_code": {
+        "compound_code": "R3G6+9C New York, United States",
+        "global_code": "87G8R3G6+9C"
+    },
+    "reference": "ChIJNfKqUn72wokRXY5CrJDM_0o",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5404262999605284445",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

@@ -1,0 +1,121 @@
+{
+    "address_components": [
+        {
+            "long_name": "191",
+            "short_name": "191",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1142",
+            "short_name": "1142",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">191 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1142</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "191 Edgecombe Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.822496,
+            "lng": -73.944737
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8238038302915,
+                "lng": -73.94323996970849
+            },
+            "southwest": {
+                "lat": 40.8211058697085,
+                "lng": -73.9459379302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "712dc09db0e9c195293c409e32ae47e9876dc4b6",
+    "name": "Tanya Ellis",
+    "place_id": "ChIJ9Tbxn3v2wokRNglyYfra1No",
+    "plus_code": {
+        "compound_code": "R3C4+X4 New York, United States",
+        "global_code": "87G8R3C4+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJ9Tbxn3v2wokRNglyYfra1No",
+    "reviews": [
+        {
+            "author_name": "Kelly Nguyen",
+            "author_url": "https://www.google.com/maps/contrib/102445776483353785651/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3ZUrl0OPyAk/AAAAAAAAAAI/AAAAAAAAAlc/YYWSeseqUqo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1515806382
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15768468964242491702",
+    "utc_offset": -300,
+    "vicinity": "191 Edgecombe Avenue, New York"
+}

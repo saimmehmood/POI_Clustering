@@ -1,0 +1,271 @@
+{
+    "address_components": [
+        {
+            "long_name": "217",
+            "short_name": "217",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">217 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "217 W 147th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 226-0083",
+    "geometry": {
+        "location": {
+            "lat": 40.823953,
+            "lng": -73.939454
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251308802915,
+                "lng": -73.93822996970849
+            },
+            "southwest": {
+                "lat": 40.8224329197085,
+                "lng": -73.94092793029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "53248b5f54d3fe6dc7dc7aada5396fa6fc302cff",
+    "international_phone_number": "+1 212-226-0083",
+    "name": "National Dance Institute",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAAudjI4TqWwVNFFjHLyHzMpo_HFciV7TCr45JTeQu6bJOpG-pC8-TDb1yvuefC8lpUeRk0frAZsOrmMoBZiwtXzAX0OKzbUaf4XpvzDmcUviPOA6PrrDy704qVtZUCstX1EhBphJTQ-DygqEcEQ727mEuSGhRwi_l7Gj7R6JcO3VgQaviZH3sZzA",
+            "width": 2322
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAA5lqiuafhBcekZLW0cxVdnA-6JPvehJ_Kr5hVZvcNJ8XxRvRyapVttLzP5LvEUaFYAKuC5ez0cjIBl1TJK6Yzc-BQSpERZGsb9HGFO7Fii3Oe7ZZ1f0bVvQ9LGyZ4LYCdEhBtsvLHskkWfJq34Z6WyOcPGhSZdT_ObkL0jeP5RA3FuPx7FBYjPQ",
+            "width": 2048
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAA4mDFpae6DrvRzhy3LI4A7KZgZ7uglz4Lou5VtTTYhZ1enrJ3Squ0CZJu0nY12xv1j_WRu3GuQ1z7zn8WMSwXWVHDIeFg02WN4yPqYJwHlgGDUijuRjJLvd0HF3xub17aEhBCoZIATsXrc_P75bx__7BKGhTZCGFcbICWxsgcs8vo29P1Q0nYAg",
+            "width": 2322
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAAM--no8KUg3nP9BTTXZUhFuDl8SlPoILF38ukiuHf_xBoEAaMtMXMJL-39nVHspTN-NJDYg7J62sejbed1EWABAI4oLvMDC_Plm5sGPxlTqYu9GqnlxSx4aOKLIyomh5xEhBsm1kZnHH13bSGWaUWBoShGhQcAlJPdMuTpgpfbczMrAje0hA5kw",
+            "width": 450
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAA9H4hUoQWeoJVr6x5bEb5TA2TyfQGCTjvGjdnW8Vlop93UZFpIZiz2O3VmctFZp5hFw6bUhn6ohPJMP2Pb0mqAsMJauZi01BMOF3jv6jVuMH69Mm-6a6c18sT_XIPzT6WEhD1CovyfxBIy1xxNkSYrYScGhSW4CxSfI74aejPYZmc6dnyx2HrAA",
+            "width": 2322
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132084458141599475/photos\">Kim Taylor Knight</a>"
+            ],
+            "photo_reference": "CmRaAAAAINCDjNhuSwg0-Yf9E0fAXU4AtpKwOqGe1-90vvAuzDGqJml9WvNowxoR9WWoCq_cWCe1o2jjbwqrsyDrJcs5fgsE7dzb9_9t_xPVgHe6gmMih9vJQNCXYVI6otZd4UCCEhD-AkKKqn5RVRU428NsMdcQGhQVdieDyj0PVDvyPUnhbXFuMk7QIQ",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJI8KG3H72wokREPDJMcYJRS4",
+    "plus_code": {
+        "compound_code": "R3F6+H6 New York, United States",
+        "global_code": "87G8R3F6+H6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJI8KG3H72wokREPDJMcYJRS4",
+    "reviews": [
+        {
+            "author_name": "Menachem Brodie",
+            "author_url": "https://www.google.com/maps/contrib/103514844254200516208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-erKXaj1kv5A/AAAAAAAAAAI/AAAAAAAAgCE/9sOuci9Yalw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Doing big things for the dance world!\nThe staff is incredibly knowledgeable, friendly, and welcoming. The classes were fantastic for the kids....very highly recommended!!",
+            "time": 1544510743
+        },
+        {
+            "author_name": "Michael Schleifer",
+            "author_url": "https://www.google.com/maps/contrib/109230953298761258180/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8LJtd0wbyDw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbpXINhjNXG4MwSjpQzWeJ6URttbQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "My wife worked for NDI in the late 80s & early 90s, and we have been supporters ever since.  No organization I know spreads as much joy and love, and none accomplishes it's mission so well.",
+            "time": 1543582913
+        },
+        {
+            "author_name": "Louise Sandberg",
+            "author_url": "https://www.google.com/maps/contrib/110872146908765096614/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BfNMWrzDZMk/AAAAAAAAAAI/AAAAAAAAABM/yW7Wgdlh9Ts/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great program for disabled kids dancing with able bodied kids. Not a dry eye in the house. 2 times a year, dancers, physical therapists and disabled kids perform their hearts out. Great experience.",
+            "time": 1537276076
+        },
+        {
+            "author_name": "Glen Mosley",
+            "author_url": "https://www.google.com/maps/contrib/105486661018731267468/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-E-wEpZc1Fvc/AAAAAAAAAAI/AAAAAAAARK8/6FSMAhxfAx0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Very robust dance school. They do well teaching the kids advanced choreography and real moves. One of the best",
+            "time": 1532951908
+        },
+        {
+            "author_name": "Kim Taylor Knight",
+            "author_url": "https://www.google.com/maps/contrib/105132084458141599475/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WsESD1s_QXM/AAAAAAAAAAI/AAAAAAAAlTg/gz5kbFtnnZk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Amazing instructors.",
+            "time": 1533559882
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3334081845981212688",
+    "utc_offset": -300,
+    "vicinity": "217 West 147th Street, New York",
+    "website": "http://www.nationaldance.org/"
+}

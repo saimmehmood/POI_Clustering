@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "145",
+            "short_name": "145",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">145 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "145 W 138th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-4285",
+    "geometry": {
+        "location": {
+            "lat": 40.8170771,
+            "lng": -73.94189
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8184411302915,
+                "lng": -73.94052976970849
+            },
+            "southwest": {
+                "lat": 40.8157431697085,
+                "lng": -73.94322773029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fd3dfbc42f8ccd46d3fd89c755850440c776e3d6",
+    "international_phone_number": "+1 212-281-4285",
+    "name": "twains twines",
+    "place_id": "ChIJf6EfOnf2wokRFJ0dL-2kKzQ",
+    "plus_code": {
+        "compound_code": "R385+R6 New York, United States",
+        "global_code": "87G8R385+R6"
+    },
+    "reference": "ChIJf6EfOnf2wokRFJ0dL-2kKzQ",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3759279652575485204",
+    "utc_offset": -300,
+    "vicinity": "145 West 138th Street, New York",
+    "website": "http://www.twainstwines.com/contact.shtml"
+}

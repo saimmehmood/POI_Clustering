@@ -1,0 +1,314 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(917) 275-6975",
+    "geometry": {
+        "location": {
+            "lat": 40.8142028,
+            "lng": -73.9409689
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8155449802915,
+                "lng": -73.9396250697085
+            },
+            "southwest": {
+                "lat": 40.8128470197085,
+                "lng": -73.9423230302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+    "id": "7dad9c4aebd9c823cc2df4c6465d610e744434be",
+    "international_phone_number": "+1 917-275-6975",
+    "name": "The Schomburg Center",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117599244167097619169/photos\">Victor Kolade</a>"
+            ],
+            "photo_reference": "CmRaAAAAU_wKvjxrcjj7Yswhx1iuWn0usp8wgm-bsZUVTxU0w07_3gv4OeLfrD-3ctrILG2ARqjFJ43l11vgsvuzySxaYodSwT2_3Lcs09xx-wnWcQYKCMF4GNH-6u5o1mvb3rc9EhBWFocW3lA771dCNuSQcFXyGhRFyxPiiBxUN9XIsng6hxmU83gzWA",
+            "width": 4048
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101908191355567153859/photos\">Josette Sanders</a>"
+            ],
+            "photo_reference": "CmRaAAAAsyTZFDE-mwQ1ZyVgmhbPRAXBLKRBRVRYgE8Q9uKUPkGpOKJHACOXEV6CtzErd2VnvcezDR6-j6qI9IMQ0W4hb-YipBv8aY1ka4VdyCqqpBrefS488s1ZhPY-GhdrfsLBEhCXofr3re1IwRhsa2VPgiIEGhTkYbWqJClzSk-mcjLHyP1pg4dZmw",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101908191355567153859/photos\">Josette Sanders</a>"
+            ],
+            "photo_reference": "CmRaAAAAoGq-XrOdJfJqIqmI_1Vgpgs1cjkb5SzijA9WujdsckJ26MBp1kcptTQfNueltrQZ5_ZzOChTu8PlhdsRsdUxfoh6sc5bldKNVtWQ9vLMwnhD5yge3ZtvnqRDVWWfsmbhEhDGWuBtjR7s-4kvM-aaHjVIGhQYfRU-0JKQIM97QS28DgGZN43-vQ",
+            "width": 1920
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104733886320044250105/photos\">Racheal J</a>"
+            ],
+            "photo_reference": "CmRaAAAABTigOJXX07YD2WZzNmLf1D3GhIqiWXAxYTT6gPBst0KUmq7nV74pW1WXzZwPeVd6rJMeMXkkg5mIgZaTyDHySszuUMIw5zeYneGBzZxQI6GYM2ByOFHYy_XZfHID_y-WEhC6q4y7lEvxEsoD2kFUU2e0GhSE2wQ0yEDf75Fk5aiCLid8XCAYVQ",
+            "width": 1440
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100238767358298220127/photos\">Victoria H</a>"
+            ],
+            "photo_reference": "CmRaAAAAVrK6_egO2s55Xgz-ZbwveaVk4skMhEngZgBTM4m1m6e9ZhrOYaWTR0vy4aitMZuAVlzcl8QfImtSzafujOagNnXu5BkTczaI79OcLSWKfw_nb0g00Kevqb34TjGdwXW0EhCVLSruEGEPvdzec_Kr3oaqGhQbPjmls6qaFz2OS2wLJedeI4aEhA",
+            "width": 3024
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102341173230266836623/photos\">Therese Nelson</a>"
+            ],
+            "photo_reference": "CmRaAAAAxLmuyAGqoWmIss0JKFOq_WZa8DWYZvt_71WT1E119W4V3js_RyJTBcM902IZGYYPeH54So9R5ITpVQzri8mxroJ2vC8ltzE3su-UMrugFwE2iW0e7Uff3i98ESdXsj_-EhAEJOnVm3Yd8V__OLgfRcEAGhQHrL0oKjWfyeJjT911XGaRQNWHeQ",
+            "width": 1440
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102283869175363284379/photos\">D T</a>"
+            ],
+            "photo_reference": "CmRaAAAAeUT9F5qvF66l0XIqcc4yBfzn55w7IpANfiUWUpgD7ZY6tWwpZJOAo2mNw__lXSByFrFOGSNvB26ah3T7aKpAKEGAJHhjUlR5pkjC4xCWYcBCXs2ACD25nh75DWE49FamEhDd3AHtFCHhTQUu-_oDfrckGhTBIhT0wcvHQf2scHzAY6tUER_NtA",
+            "width": 1536
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101635862830251540845/photos\">VOLPE VOLPE</a>"
+            ],
+            "photo_reference": "CmRaAAAAkfUiPMCDx9OmIK3d_dpYs_pbp7r8aZ3aHkIbWu3deAoDC7P7d1e8Dn1GaC0x2INMZt5TS8_bo4R-x3rSs2HERrb5vzdwgnQV5a42UCSeMvX46RNPrm6kTYoI7XYiZHg5EhB6JWqbe4M798y7oebBlZnaGhRs_DayPvUq9cpAnlBYRo3hIz-JHQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101635862830251540845/photos\">VOLPE VOLPE</a>"
+            ],
+            "photo_reference": "CmRaAAAA1nr3OQEstyCwdvOw0oZCl4DUbGTGuKwJ5nfZLM9jacObDgN-sMtpP8U7_gWpg2ZAIrR-UkZypgTsZjGUra1rJINUI5uZgrid7gJ24wKwqN3blxoUMywuXBifV4_K1l6KEhDraoftyaLthQOIifEY2gCkGhR8Q2xj0_VappiTw0yYwTWklC7wZg",
+            "width": 3024
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101908191355567153859/photos\">Josette Sanders</a>"
+            ],
+            "photo_reference": "CmRaAAAAw3maOeWTGxWh0URg5rC6nw5DZDAMspDJVAM7qB0DSHFQCm87hOrclzMy0RZE0ZJTfYcAqeyc3Ie7y9zs-aY1j0lYl6FM9BtrxDUI5Mca9GYxuvW3gu30UxpzMcUbml6PEhBRWibC9tmaDKD7s81n3d_ZGhRdZXxzlUFf6sfLklp1x8INAp3wCQ",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJG44uunb2wokR84b515cj-wM",
+    "plus_code": {
+        "compound_code": "R375+MJ New York, United States",
+        "global_code": "87G8R375+MJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJG44uunb2wokR84b515cj-wM",
+    "reviews": [
+        {
+            "author_name": "D T",
+            "author_url": "https://www.google.com/maps/contrib/102283869175363284379/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jNF68o17r_U/AAAAAAAAAAI/AAAAAAAAHu8/uF26DRMkiBg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great museum, I did have a great time and learnt few facts. However I was expecting to learn more things about the life of Black people in Harlem back then. I recommend this place, it is worth to visit.",
+            "time": 1537965339
+        },
+        {
+            "author_name": "VOLPE VOLPE",
+            "author_url": "https://www.google.com/maps/contrib/101635862830251540845/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ECmew5xfmWE/AAAAAAAAAAI/AAAAAAAAL0c/kZN6UW34qkM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Not much of a museum, more of a temporary exhibit that spreads across two rooms on two separate floors. Good one on Black Power though I will say this",
+            "time": 1541754857
+        },
+        {
+            "author_name": "Nadine The Queen",
+            "author_url": "https://www.google.com/maps/contrib/108075093693134690330/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--367kheC9qQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZmmqbqH-QdDhcaX7VTsMk9R0PBwg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Absolutely love this place. A visit here is a must",
+            "time": 1544801258
+        },
+        {
+            "author_name": "Josette Sanders",
+            "author_url": "https://www.google.com/maps/contrib/101908191355567153859/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-jpnTPV4XCpg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZCOnFwFjv_pJqyq45QTp1AkP2Juw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Always great to visit the Schomberg. It has changed since my last visit. I took a few photos of what was new for me.",
+            "time": 1534896349
+        },
+        {
+            "author_name": "Victoria H",
+            "author_url": "https://www.google.com/maps/contrib/100238767358298220127/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aY76x1jtCOo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbGyHIYyhdjfNLRXBO4Sy6h0o20iA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I enjoyed learning about the black panther party and seeing items from that era.",
+            "time": 1522978319
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=286862136338646771",
+    "utc_offset": -300,
+    "vicinity": "101 West 135th Street, New York",
+    "website": "https://www.nypl.org/locations/schomburg"
+}

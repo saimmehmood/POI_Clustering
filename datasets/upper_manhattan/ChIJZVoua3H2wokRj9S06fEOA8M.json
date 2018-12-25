@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "2293",
+            "short_name": "2293",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2293 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2293 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(917) 414-9737",
+    "geometry": {
+        "location": {
+            "lat": 40.8149403,
+            "lng": -73.9436546
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163225802915,
+                "lng": -73.9423880697085
+            },
+            "southwest": {
+                "lat": 40.8136246197085,
+                "lng": -73.94508603029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "89c00c541dda0d917bb784366e06af437fe72c3b",
+    "international_phone_number": "+1 917-414-9737",
+    "name": "Jireh Management Group",
+    "place_id": "ChIJZVoua3H2wokRj9S06fEOA8M",
+    "plus_code": {
+        "compound_code": "R374+XG New York, United States",
+        "global_code": "87G8R374+XG"
+    },
+    "rating": 1,
+    "reference": "ChIJZVoua3H2wokRj9S06fEOA8M",
+    "reviews": [
+        {
+            "author_name": "Rebecca Horton",
+            "author_url": "https://www.google.com/maps/contrib/100202457178636027679/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gVGf6y6-ya0/AAAAAAAAAAI/AAAAAAAAAK8/HWAsYZuNogQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "This company left a flyer on my car that literally ruined my windshield. It\u2019s abhorrent to receive marketing materials like this\u2014- a complete waste of marketing dollars.  My car was parked outside my residence in downtown Durham, North Carolina",
+            "time": 1532644226
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14052091694496928911",
+    "utc_offset": -300,
+    "vicinity": "2293 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://www.jirehmanage.com/"
+}

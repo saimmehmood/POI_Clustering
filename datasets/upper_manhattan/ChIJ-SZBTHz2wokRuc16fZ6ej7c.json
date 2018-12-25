@@ -1,0 +1,195 @@
+{
+    "address_components": [
+        {
+            "long_name": "#2r",
+            "short_name": "#2r",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "749",
+            "short_name": "749",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">749 St Nicholas Ave #2r</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "749 St Nicholas Ave #2r, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 289-9077",
+    "geometry": {
+        "location": {
+            "lat": 40.8258222,
+            "lng": -73.9438084
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82711543029149,
+                "lng": -73.94232506970849
+            },
+            "southwest": {
+                "lat": 40.82441746970849,
+                "lng": -73.9450230302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9cc5ac138826a271f1adcfb6f2778d15e5077187",
+    "international_phone_number": "+1 646-289-9077",
+    "name": "New York SEO Company",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: 8:00 AM \u2013 5:00 PM",
+            "Sunday: 8:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "place_id": "ChIJ-SZBTHz2wokRuc16fZ6ej7c",
+    "plus_code": {
+        "compound_code": "R3G4+8F New York, United States",
+        "global_code": "87G8R3G4+8F"
+    },
+    "reference": "ChIJ-SZBTHz2wokRuc16fZ6ej7c",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13226965034157657529",
+    "utc_offset": -300,
+    "vicinity": "749 Saint Nicholas Avenue #2r, New York",
+    "website": "http://newyorkseocompany.org/"
+}

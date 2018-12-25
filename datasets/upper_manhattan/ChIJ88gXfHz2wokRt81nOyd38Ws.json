@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.824032,
+            "lng": -73.944519
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82534543029149,
+                "lng": -73.9431962197085
+            },
+            "southwest": {
+                "lat": 40.82264746970849,
+                "lng": -73.9458941802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "01573dfe191103342a087b5b408f0b954f89aeae",
+    "name": "W 145 St/St Nicholas Av",
+    "place_id": "ChIJ88gXfHz2wokRt81nOyd38Ws",
+    "plus_code": {
+        "compound_code": "R3F4+J5 New York, United States",
+        "global_code": "87G8R3F4+J5"
+    },
+    "reference": "ChIJ88gXfHz2wokRt81nOyd38Ws",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7778129041829645751",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

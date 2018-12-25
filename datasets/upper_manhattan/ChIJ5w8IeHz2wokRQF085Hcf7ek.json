@@ -1,0 +1,137 @@
+{
+    "address_components": [
+        {
+            "long_name": "343",
+            "short_name": "343",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5301",
+            "short_name": "5301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">343 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "343 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 444-8877",
+    "geometry": {
+        "location": {
+            "lat": 40.82404020000001,
+            "lng": -73.9440217
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82527048029149,
+                "lng": -73.9427602197085
+            },
+            "southwest": {
+                "lat": 40.82257251970849,
+                "lng": -73.94545818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6c629d40a4e58e8554c4b7b2d9cacf4373712e44",
+    "international_phone_number": "+1 212-444-8877",
+    "name": "Morris Westfried, MD",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ5w8IeHz2wokRQF085Hcf7ek",
+    "plus_code": {
+        "compound_code": "R3F4+J9 New York, United States",
+        "global_code": "87G8R3F4+J9"
+    },
+    "reference": "ChIJ5w8IeHz2wokRQF085Hcf7ek",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16856163580108365120",
+    "utc_offset": -300,
+    "vicinity": "343 West 145th Street, New York",
+    "website": "http://www.tattoos-removed.com/"
+}

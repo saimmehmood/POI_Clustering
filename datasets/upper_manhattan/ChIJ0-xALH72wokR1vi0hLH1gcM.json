@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "301-325",
+            "short_name": "301-325",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 152nd Street",
+            "short_name": "W 152nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301-325 W 152nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301-325 W 152nd St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8274682,
+            "lng": -73.93918529999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82881718029151,
+                "lng": -73.9378363197085
+            },
+            "southwest": {
+                "lat": 40.82611921970851,
+                "lng": -73.9405342802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9e485ca30ae613a5bf033466f93d9e602dba74e7",
+    "name": "301-325 W 152nd St",
+    "place_id": "ChIJ0-xALH72wokR1vi0hLH1gcM",
+    "reference": "ChIJ0-xALH72wokR1vi0hLH1gcM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=301-325+W+152nd+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67e2c40ecd3:0xc381f5b184b4f8d6",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

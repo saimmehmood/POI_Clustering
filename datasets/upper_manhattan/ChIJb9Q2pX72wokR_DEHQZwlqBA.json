@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2745",
+            "short_name": "2745",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3062",
+            "short_name": "3062",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2745 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3062</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2745 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-3514",
+    "geometry": {
+        "location": {
+            "lat": 40.8239469,
+            "lng": -73.941514
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82523113029149,
+                "lng": -73.94001076970851
+            },
+            "southwest": {
+                "lat": 40.8225331697085,
+                "lng": -73.94270873029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "2453041417cc11c9181d7aba8ab7c1fa5c5a233b",
+    "international_phone_number": "+1 212-491-3514",
+    "name": "Nazareth Inc",
+    "place_id": "ChIJb9Q2pX72wokR_DEHQZwlqBA",
+    "plus_code": {
+        "compound_code": "R3F5+H9 New York, United States",
+        "global_code": "87G8R3F5+H9"
+    },
+    "reference": "ChIJb9Q2pX72wokR_DEHQZwlqBA",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1200250653730353660",
+    "utc_offset": -300,
+    "vicinity": "2745 Frederick Douglass Boulevard, New York"
+}

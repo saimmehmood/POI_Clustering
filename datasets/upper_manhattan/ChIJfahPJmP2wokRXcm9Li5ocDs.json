@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "501-599",
+            "short_name": "501-599",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501-599 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501-599 W 146th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8264868,
+            "lng": -73.9484915
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8278357302915,
+                "lng": -73.94576064999998
+            },
+            "southwest": {
+                "lat": 40.8251377697085,
+                "lng": -73.95122245
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f9f56327f13ba8201733309b6d582272c25d8e21",
+    "name": "501-599 W 146th St",
+    "place_id": "ChIJfahPJmP2wokRXcm9Li5ocDs",
+    "reference": "ChIJfahPJmP2wokRXcm9Li5ocDs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=501-599+W+146th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f663264fa87d:0x3b70682e2ebdc95d",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

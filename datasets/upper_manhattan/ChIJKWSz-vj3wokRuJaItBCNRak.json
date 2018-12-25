@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "350",
+            "short_name": "350",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">350 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "350 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(315) 201-1016",
+    "geometry": {
+        "location": {
+            "lat": 40.8237015,
+            "lng": -73.9443354
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82505048029149,
+                "lng": -73.94298641970849
+            },
+            "southwest": {
+                "lat": 40.8223525197085,
+                "lng": -73.94568438029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c473149839eedba10d7881c3a6560bef7d315c56",
+    "international_phone_number": "+1 315-201-1016",
+    "name": "AskPorter",
+    "place_id": "ChIJKWSz-vj3wokRuJaItBCNRak",
+    "plus_code": {
+        "compound_code": "R3F4+F7 New York, United States",
+        "global_code": "87G8R3F4+F7"
+    },
+    "reference": "ChIJKWSz-vj3wokRuJaItBCNRak",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12197310268690699960",
+    "utc_offset": -300,
+    "vicinity": "350 West 145th Street, New York"
+}

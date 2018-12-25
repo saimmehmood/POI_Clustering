@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "288",
+            "short_name": "288",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Doctor John Henrik Clarke Place",
+            "short_name": "Dr John Henrik Clarke Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">288 Dr John Henrik Clarke Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "288 Dr John Henrik Clarke Pl, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8175052,
+            "lng": -73.94499859999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8188569802915,
+                "lng": -73.94364751970849
+            },
+            "southwest": {
+                "lat": 40.8161590197085,
+                "lng": -73.9463454802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "3527cf5660da6cc6de3dd3232ccfdde4925f6695",
+    "name": "Apartamento",
+    "place_id": "ChIJ0zySln73wokRKUxwAhOcsYQ",
+    "plus_code": {
+        "compound_code": "R394+22 New York, United States",
+        "global_code": "87G8R394+22"
+    },
+    "reference": "ChIJ0zySln73wokRKUxwAhOcsYQ",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9561595089343499305",
+    "utc_offset": -300,
+    "vicinity": "288 Doctor John Henrik Clarke Place, New York"
+}

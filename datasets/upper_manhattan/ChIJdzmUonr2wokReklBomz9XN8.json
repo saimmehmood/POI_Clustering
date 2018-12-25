@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "91",
+            "short_name": "91",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2003",
+            "short_name": "2003",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">91 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "91 Edgecombe Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-1880",
+    "geometry": {
+        "location": {
+            "lat": 40.8196047,
+            "lng": -73.9463935
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8209060802915,
+                "lng": -73.94493056970849
+            },
+            "southwest": {
+                "lat": 40.8182081197085,
+                "lng": -73.94762853029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5151d107e1069a5aca4b4769bfc83e844a7248c6",
+    "international_phone_number": "+1 212-281-1880",
+    "name": "Du-All Plumbing & Heating Contractors",
+    "place_id": "ChIJdzmUonr2wokReklBomz9XN8",
+    "plus_code": {
+        "compound_code": "R393+RC New York, United States",
+        "global_code": "87G8R393+RC"
+    },
+    "reference": "ChIJdzmUonr2wokReklBomz9XN8",
+    "scope": "GOOGLE",
+    "types": [
+        "plumber",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16095017811335793018",
+    "utc_offset": -300,
+    "vicinity": "91 Edgecombe Avenue, New York"
+}

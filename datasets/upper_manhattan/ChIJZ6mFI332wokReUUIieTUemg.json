@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "1768",
+            "short_name": "1768",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1768 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1768 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 368-0100",
+    "geometry": {
+        "location": {
+            "lat": 40.8268732,
+            "lng": -73.9466029
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82819488029151,
+                "lng": -73.9451815197085
+            },
+            "southwest": {
+                "lat": 40.82549691970851,
+                "lng": -73.9478794802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "143efd8b0f024b8c42e008aa911634a57fc4c03b",
+    "international_phone_number": "+1 212-368-0100",
+    "name": "Mumbai Masala",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 10:00 PM",
+            "Tuesday: 11:30 AM \u2013 10:00 PM",
+            "Wednesday: 11:30 AM \u2013 10:00 PM",
+            "Thursday: 11:30 AM \u2013 10:00 PM",
+            "Friday: 11:30 AM \u2013 10:30 PM",
+            "Saturday: 11:30 AM \u2013 10:30 PM",
+            "Sunday: 12:00 \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3361,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105906405099668357604/photos\">Mumbai Masala Indian Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAUE4GPZUegoJxX1mVGbe4jTDgw0YlFspplCDJ92m1CTt4ofaEiDNx9PWRQ8Abr1w6T7gZ7BXZDvAcB-Rfy-zB7qZLH3jYxYeNewqD3W8_1gGyIvPd4lbd7R67C5SZFehNEhAzR88sdhn6GPUWcGqA17ZDGhQybf7va8MmkADEl1IexKTcP3YQUw",
+            "width": 5041
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105906405099668357604/photos\">Mumbai Masala Indian Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAMe1pXMY1CvNp95RUl4mtWzf0C2x8J1rhY87I4vsDFb6T__ZXs4O4BA-T1OVkUXU2X4WmG2o8HuLHNWV1Lf-q2i2EgReAzFzjgsd4nr8ap1ccbIHlH0R5uPH0jBdy3--BEhBcMN_7U6K6bq2ldQUW2Z2QGhRJAs2TUlvXCk6VtxpprxyEFSW5dQ",
+            "width": 1920
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105906405099668357604/photos\">Mumbai Masala Indian Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAyNG5eOhh9I1G9nYd6UQZZb9AuSqup9Yww37j3nB2-To1sBIHGqkZYzIXf5AxpatcIk68Y5LIxovRnmse5KsfsAu25qpmnTlZb1EMDaMulodCNoMs5KL5BKdEGGEEVZaXEhCbN7hydswqCaXGl71Brm-UGhTReclYu0iX9QHYfTuMzhIWP-4AHA",
+            "width": 1920
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116987154127186812367/photos\">Natalia B.</a>"
+            ],
+            "photo_reference": "CmRaAAAABF9-YjtUlL53LLsbDpUbum7VSrS9usPRoL75yacrsCjk2auLh5kJc-zXqAiJQVqvFeNglFtW2BRfd-L0YUsMxTCi-PluZ-QViC9aAhZURfwCbd-O1UBTjatmIjJB2vxBEhDA-byqDsan41ZNke9trAkWGhSk28ttWkcXvrxvVzGxHxroA5Hbqw",
+            "width": 3024
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105906405099668357604/photos\">Mumbai Masala Indian Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAA0AMmlzI3GPiIDKxkRHkVeOEv9iDsGxQSdbIGCPo8ZhZI9ZkDJfmAekOldcXKLaO36Y6Q5OjRTZUZVa78OiNGJGFe_UoJuD1W6ETz7G5EpsXNN4cft4kiyFkoqR0hiQE0EhDprMw0y9JNymh4F6UG5eIJGhS0SCzWPpnrl1-q3NVq997Rga29zA",
+            "width": 1920
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106746757668078436226/photos\">Lin Randolph</a>"
+            ],
+            "photo_reference": "CmRaAAAAM1A6BBMp4PRKYlHrP7ye9HOTgTnkusWupIRYdatMID8GwGMyQQLbF2k9meuyHJxMG3NIR18PzS5zWHSqAcZHrby4cF2cYecoNvnlMN_7YoSi4EM8XL39IRpiyyKtMulbEhAmO1qvrPDVBrA09PcaR6U2GhSAWcQEi9vpKKOa9YrqYMxZWujtGg",
+            "width": 2160
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104474883463719471551/photos\">Carlos Deschamps</a>"
+            ],
+            "photo_reference": "CmRaAAAAswOlCotKKefw9_Z0YQyqRQmL-GzMW-U5q6tK5Uv1nABpw3uqrCyEw_mX9lQay6643b1t-rjA4RG8paScOvISRTX9YzkUSUSwpcfgrC3ZGlaxyo4T9Z06u6iPQcE383POEhDEbdrKpkFS705yrrfVQ9teGhSisyQdaoI1e1aoMOtU0-k0wSvvSg",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113652574851955014949/photos\">Andy Mahkovtz</a>"
+            ],
+            "photo_reference": "CmRaAAAA2dXozvRidCGLOoZ4mmW6eFlpc9JaO4aBIruP0ppPzFVMg4SXhckLAnVEkFiJN7jvh6ObVni7Eu8znBDDLO5IvFLjl9W4OFJcW2WCZl8gORHbMNyppZiE1XiOEtkQa8NjEhDbs1PL916enWymyi2PvAvOGhTZSjDuYuA5BFBspfFWuKZAM3iDpQ",
+            "width": 2988
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106746757668078436226/photos\">Lin Randolph</a>"
+            ],
+            "photo_reference": "CmRaAAAA1Ue8lW-X0rGbrNFySopbb8WHC72TR2hhTEolRRRskBi9hqeAfxpbuaWhmWTbFFhlYo55FZYC95T3HxtFgG66Tpo5ivvZXmK98GbrXZEd1H8m2JQHzCCSzqVHaK3Y8lIuEhBBbXp7NaNACpigsq90-HOGGhRzFEWyCQU8svGVTwApwvtEPKensg",
+            "width": 2160
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105906405099668357604/photos\">Mumbai Masala Indian Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAUFCgRWoMU46ZBbQr_-L_tDoiDgPie5F7SGBucLLlHqaFyGz9HwDeXu-Rvmqn9NPXaJ44RuBYecDWUsUXiMZ_mnD4tKGLR1kF2yg2HEQ0xnosuLUZFgS_g4Fug84EuAl5EhBPgZ8Hw6M_RTguZZbtwpBHGhQbza7RpxC5OZ7SUJCuvIqbf4wV6Q",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJZ6mFI332wokReUUIieTUemg",
+    "plus_code": {
+        "compound_code": "R3G3+P9 New York, United States",
+        "global_code": "87G8R3G3+P9"
+    },
+    "rating": 4.5,
+    "reference": "ChIJZ6mFI332wokReUUIieTUemg",
+    "reviews": [
+        {
+            "author_name": "Edo Mohammed",
+            "author_url": "https://www.google.com/maps/contrib/109986084208589911378/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-10ryJynPgAw/AAAAAAAAAAI/AAAAAAAABzs/u3tjOm8GOpY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The atmosphere is calming, if you're looking for a place to connect with people. It works with every occasion: business or casual. It's very authentic. I recommend Mumbai Masala to anyone looking for a place to eat.",
+            "time": 1537742904
+        },
+        {
+            "author_name": "Warren Jacobi",
+            "author_url": "https://www.google.com/maps/contrib/117658262639785792617/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-w7YLCNlwQOU/AAAAAAAAAAI/AAAAAAAAAxc/gT98NbJ9EQA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "The staff are friendly and accomodating.  I love the atmosphere of the place. The food is fresh.  BYOB.",
+            "time": 1542466349
+        },
+        {
+            "author_name": "I Marie B",
+            "author_url": "https://www.google.com/maps/contrib/107282601068999113930/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Xu7vEFJ6ky4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZgDsztMfq7PpzK7BHYLgSVTujKFA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Fantastic flavor, Chef who knows how to blend seasonings,  pleasant atmosphere and charming host.  Prices aren't bad either. Highly recommended!",
+            "time": 1535685274
+        },
+        {
+            "author_name": "John Eberhard",
+            "author_url": "https://www.google.com/maps/contrib/106476662452486070522/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1I7aq7atc2Q/AAAAAAAAAAI/AAAAAAAAAAA/YcQvENB7PHg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great place to eat great fresh Indian food.  Had to wait a little for the fresh food, but it was worth it.",
+            "time": 1542590801
+        },
+        {
+            "author_name": "david walsh",
+            "author_url": "https://www.google.com/maps/contrib/102642996791855060874/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1ypCE6sUdIQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZxHFeXJ82ylgM2XKgM3giUU63pCA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Food was excellent.vFamily run and everyone is lovely. No rush, great help selecting from the super menu .prices are affordable and great value for quality of adishes served.",
+            "time": 1542547498
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7528563805119858041",
+    "utc_offset": -300,
+    "vicinity": "1768 Amsterdam Avenue, New York",
+    "website": "http://mumbaimasalanyc.com/"
+}

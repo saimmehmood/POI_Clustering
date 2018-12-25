@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "358-300",
+            "short_name": "358-300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">358-300 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "358-300 W 138th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.818722,
+            "lng": -73.9458369
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8200709802915,
+                "lng": -73.9444565
+            },
+            "southwest": {
+                "lat": 40.8173730197085,
+                "lng": -73.9472173
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "2eac796c9e5c49593cacce5db37d85fdbac50b15",
+    "name": "358-300 W 138th St",
+    "place_id": "ChIJldKTdnD2wokRsYVakAzun58",
+    "reference": "ChIJldKTdnD2wokRsYVakAzun58",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=358-300+W+138th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f6707693d295:0x9f9fee0c905a85b1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

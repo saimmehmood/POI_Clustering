@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "358-340",
+            "short_name": "358-340",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">358-340 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "358-340 W 145th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8238486,
+            "lng": -73.94430539999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82520093029149,
+                "lng": -73.94295416970849
+            },
+            "southwest": {
+                "lat": 40.82250296970849,
+                "lng": -73.9456521302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ea49c8c9515372acd461cc2458e50ee4df72c1dd",
+    "name": "358-340 W 145th St",
+    "place_id": "ChIJyVkFeXz2wokRkMKMjVtTo6o",
+    "reference": "ChIJyVkFeXz2wokRkMKMjVtTo6o",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=358-340+W+145th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67c790559c9:0xaaa3535b8d8cc290",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Chisum Place",
+            "short_name": "Chisum Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Chisum Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Chisum Pl, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8168222,
+            "lng": -73.93668319999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8181711302915,
+                "lng": -73.93533416970848
+            },
+            "southwest": {
+                "lat": 40.8154731697085,
+                "lng": -73.9380321302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8a2046e8f743a5e1aad951ab045ec4f62fd1b08d",
+    "name": "Chisum Place",
+    "place_id": "ChIJf56F5Xf2wokR_lz3pL8Dk-U",
+    "reference": "ChIJf56F5Xf2wokR_lz3pL8Dk-U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Chisum+Pl,+New+York,+NY+10037,+USA&ftid=0x89c2f677e5859e7f:0xe59303bfa4f75cfe",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

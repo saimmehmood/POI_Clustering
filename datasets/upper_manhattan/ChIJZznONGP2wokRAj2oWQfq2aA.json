@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "1722",
+            "short_name": "1722",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4645",
+            "short_name": "4645",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1722 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4645</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1722 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 478-7954",
+    "geometry": {
+        "location": {
+            "lat": 40.8255806,
+            "lng": -73.947701
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8268748302915,
+                "lng": -73.9462237697085
+            },
+            "southwest": {
+                "lat": 40.8241768697085,
+                "lng": -73.9489217302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "88599da5623550d01941d93860e760932e3184ab",
+    "international_phone_number": "+1 646-478-7954",
+    "name": "Ali Wireless Inc",
+    "place_id": "ChIJZznONGP2wokRAj2oWQfq2aA",
+    "plus_code": {
+        "compound_code": "R3G2+6W New York, United States",
+        "global_code": "87G8R3G2+6W"
+    },
+    "reference": "ChIJZznONGP2wokRAj2oWQfq2aA",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11590552433304550658",
+    "utc_offset": -300,
+    "vicinity": "1722 Amsterdam Avenue, New York"
+}

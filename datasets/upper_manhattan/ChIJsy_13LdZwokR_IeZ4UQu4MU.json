@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Terrace",
+            "short_name": "Hamilton Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6402",
+            "short_name": "6402",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Hamilton Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6402</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Hamilton Terrace, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 273-0838",
+    "geometry": {
+        "location": {
+            "lat": 40.821839,
+            "lng": -73.9469692
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8232211802915,
+                "lng": -73.9457003197085
+            },
+            "southwest": {
+                "lat": 40.8205232197085,
+                "lng": -73.9483982802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "627e8c9cf851ea73d72033aa258405623ed29628",
+    "international_phone_number": "+1 917-273-0838",
+    "name": "William Geddes Photography",
+    "place_id": "ChIJsy_13LdZwokR_IeZ4UQu4MU",
+    "plus_code": {
+        "compound_code": "R3C3+P6 New York, United States",
+        "global_code": "87G8R3C3+P6"
+    },
+    "reference": "ChIJsy_13LdZwokR_IeZ4UQu4MU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14258447293632579580",
+    "utc_offset": -300,
+    "vicinity": "1 Hamilton Terrace, New York",
+    "website": "http://www.williamgeddes.com/"
+}

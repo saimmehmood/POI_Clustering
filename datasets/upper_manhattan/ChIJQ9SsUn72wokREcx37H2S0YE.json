@@ -1,0 +1,131 @@
+{
+    "address_components": [
+        {
+            "long_name": "26",
+            "short_name": "26",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Macombs Place",
+            "short_name": "Macombs Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1807",
+            "short_name": "1807",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">26 Macombs Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-1807</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "26 Macombs Pl, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8258884,
+            "lng": -73.939043
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82729483029149,
+                "lng": -73.9377402197085
+            },
+            "southwest": {
+                "lat": 40.82459686970849,
+                "lng": -73.94043818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "6bcaeffa579a86b1a790e3c1036aea3caabfea6f",
+    "name": "Cardtronics",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJQ9SsUn72wokREcx37H2S0YE",
+    "plus_code": {
+        "compound_code": "R3G6+99 New York, United States",
+        "global_code": "87G8R3G6+99"
+    },
+    "reference": "ChIJQ9SsUn72wokREcx37H2S0YE",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9354418970561072145",
+    "utc_offset": -300,
+    "vicinity": "26 Macombs Place, New York",
+    "website": "http://www.cardtronics.com/"
+}

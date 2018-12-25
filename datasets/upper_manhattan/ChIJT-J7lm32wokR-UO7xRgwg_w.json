@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.812893,
+            "lng": -73.949051
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8142621302915,
+                "lng": -73.94775171970849
+            },
+            "southwest": {
+                "lat": 40.8115641697085,
+                "lng": -73.9504496802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "7ca9460fb2fb01ef2d34c8abf7beca079fbe112d",
+    "name": "Fred Douglass Blvd/W 129 St",
+    "place_id": "ChIJT-J7lm32wokR-UO7xRgwg_w",
+    "plus_code": {
+        "compound_code": "R372+59 New York, United States",
+        "global_code": "87G8R372+59"
+    },
+    "reference": "ChIJT-J7lm32wokR-UO7xRgwg_w",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18195439802461668345",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

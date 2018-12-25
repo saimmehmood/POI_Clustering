@@ -36,7 +36,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 	y_points = np.arange(y_cords[0], y_cords[1], float(step))
 
 
-	#k = 0 # to keep in check google api limit of 1000 requests per 24h
+	#k = 0 # to keep in check google api limit of 1000 requests per 24h (in case you need it)
 	
 	# traversing through all the latitude and longitude points
 	for i in range(len(x_points)):
@@ -44,7 +44,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		for j in range(len(y_points)):
 			y = y_points[j]		#long
 			
-			#print(x, y)
+			
 
 			# querying google api
 			query_result = google_places.nearby_search(
@@ -70,7 +70,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 					Id_of_places[plId] = False
 				
 
-			# Breaking both loops to avoid reaching limit		
+		# Breaking both loops to avoid reaching limit (in case you need it)		
 		# 	k += 1
 		# 	if (k == 100):
 		# 		print("breaking loop")
@@ -81,18 +81,19 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		# 	break
 
 	Id_of_places = [key for key, value in Id_of_places.items() if value]
-	#pprint(Id_of_places)	
-	
+		
+	# storing fetched POI detail from google api as a json file
 	for i in range(len(place_details)):
 		data = json.loads(json.dumps(place_details[i], default=decimal_default))
 
+		# storing POI detail with ID as a file name.
 		if str(data["place_id"]) in Id_of_places:
 			print(str(data["place_id"]))
-			with open('new_north_york\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+			with open('datasets\\upper_manhattan\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 				json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
-	# store Id_of_places outside loop
+	# store Id_of_places (only) outside loop (in case you need them seperately)
 	# with open('storing_all_ID.json', 'a') as outfile:
 	# 	json.dump(Id_of_places, outfile, indent=2)
 
@@ -100,24 +101,22 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
-# using bigger step value to avoid reaching api limit
-#scanAreaForPOIs(43.739829, -79.514102, 43.726355, -79.481279, 0.001, YOUR_API_KEY)  # north york points
+# (un-comment below function calling line to generate more data sets)
+scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
-def getPOIAroundTrajectory(route):
-	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\new_north_york'
+def getPOIAroundTrajectory(route): # using Euclidean distances
+	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\new_north_york' # relative path to your stored data-sets
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
-	# data = None
-
-	# write_stuff = open("lat_long.txt", "w")
+	
 	for i in range(len(json_files)):
-	#print(json_files[i])
+	
 		with open(path_to_json + '\\' + str(json_files[i])) as file:
 			data = json.load(file)
 			print(data["geometry"]["location"]["lat"], data["geometry"]["location"]["lng"])
-			#write_stuff.write("%d %d \n" % (int(data["geometry"]["location"]["lat"]), int(data["geometry"]["location"]["lng"])))
+			
 	
 	
 
 
 
-getPOIAroundTrajectory(0)
+#getPOIAroundTrajectory(0)

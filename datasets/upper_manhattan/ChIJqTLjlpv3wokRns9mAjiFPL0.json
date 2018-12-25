@@ -1,0 +1,219 @@
+{
+    "address_components": [
+        {
+            "long_name": "520",
+            "short_name": "520",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">520 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "520 W 142nd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 324-8250",
+    "geometry": {
+        "location": {
+            "lat": 40.82379400000001,
+            "lng": -73.95055099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8252108302915,
+                "lng": -73.94915246970848
+            },
+            "southwest": {
+                "lat": 40.8225128697085,
+                "lng": -73.9518504302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cea2f8c1babd423bb4892fef7df18e46cd87a184",
+    "international_phone_number": "+1 917-324-8250",
+    "name": "Siya Healing Spa 2",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2208,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111218086234939588800/photos\">siya wisamon</a>"
+            ],
+            "photo_reference": "CmRaAAAAcJuFSgu7PjI5s9nAGn1ETwfepD0ii2I212xkoASiKRp8ju_uM98O-4FcDM1CiAa9NcfADSsaJufTqfXNqTP5GY-IDkrv8u392puXz4hC4ExNzvS77dSVIV9hcqOIenUiEhAqHSSGEIjLEVPKUHRhCf4TGhQEltcdHJ7iA57mgvB23vMXnJIqKQ",
+            "width": 1242
+        },
+        {
+            "height": 839,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111993434061778815551/photos\">Siya Healing Spa 2</a>"
+            ],
+            "photo_reference": "CmRaAAAAuTqRp5WccUydR6suY5Xn9N8pU7OxWwuA9Wv2lmR0mA84PdS6Oy0GJQ4TK1YMyWM849XiWtq_kkPVxXehzpQj1bmsR0rZEOxmYbpv0FxjD60mIiuGfdlon1fwrOcN01HGEhDxuG3XhfW2mJaEBuMOYloWGhQBnVqBGHy5huoWnycMkThkMq7PFg",
+            "width": 839
+        }
+    ],
+    "place_id": "ChIJqTLjlpv3wokRns9mAjiFPL0",
+    "plus_code": {
+        "compound_code": "R2FX+GQ New York, United States",
+        "global_code": "87G8R2FX+GQ"
+    },
+    "rating": 5,
+    "reference": "ChIJqTLjlpv3wokRns9mAjiFPL0",
+    "reviews": [
+        {
+            "author_name": "ken K",
+            "author_url": "https://www.google.com/maps/contrib/109652433538588025900/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-OYq6hI9EvW4/AAAAAAAAAAI/AAAAAAAAAAA/qbDazJGpba4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Truly an amazing massage!  Siya is very intuitive and warm and exceptionally skilled as a healer.  She has the ability to find the root cause of my pain and tension and uses a combination of stretching and deep tissue massage to relax and reintegrate my body.  I hight recommend her.",
+            "time": 1544293931
+        },
+        {
+            "author_name": "Blondie Brownie",
+            "author_url": "https://www.google.com/maps/contrib/113333866799463519664/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RoNHD7xPFGw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZhRHE33uLU1-jsj6wq-913sKSa2A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Siya is amazing. She is so kind and has lovely grounding energy. I feel like I have a new body! 5 stars.",
+            "time": 1544236121
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13635920247375974302",
+    "utc_offset": -300,
+    "vicinity": "520 West 142nd Street, New York",
+    "website": "http://www.siyahealingspa.com/"
+}

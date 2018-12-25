@@ -1,0 +1,121 @@
+{
+    "address_components": [
+        {
+            "long_name": "195",
+            "short_name": "195",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "521",
+            "short_name": "521",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">521 W 146th St #195</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "521 W 146th St #195, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 862-4858",
+    "geometry": {
+        "location": {
+            "lat": 40.8266682,
+            "lng": -73.9483216
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8279210302915,
+                "lng": -73.9470450197085
+            },
+            "southwest": {
+                "lat": 40.8252230697085,
+                "lng": -73.9497429802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "323eb78764163f27d9bcf9cad93b6106d681ab33",
+    "international_phone_number": "+1 212-862-4858",
+    "name": "NYC Multicultural Festival",
+    "photos": [
+        {
+            "height": 3091,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118331505191448554912/photos\">FATHER GOOSE MUSIC</a>"
+            ],
+            "photo_reference": "CmRaAAAAWIDTBQO9ojn6IBEvdNGacHcBS7QcnUvE98TiOV2hdL4gyBie8f-FNBl3HOmQCsgPtQwhH8peEA46kPBurtrsibFSepD0PKJhNRLUfE_CDSSNJsdqdqgQsQlBBaLi03dwEhDs22WRzYybaY4IikKB2ku3GhRQ1Q3zTiHavdf8LbxU5_c5o-Ho_Q",
+            "width": 6129
+        }
+    ],
+    "place_id": "ChIJrS8pKGP2wokRxJOY0TPKxno",
+    "plus_code": {
+        "compound_code": "R3G2+MM New York, United States",
+        "global_code": "87G8R3G2+MM"
+    },
+    "reference": "ChIJrS8pKGP2wokRxJOY0TPKxno",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8846980841924498372",
+    "utc_offset": -300,
+    "vicinity": "521 West 146th Street #195, New York",
+    "website": "https://www.multiculturalfestival.nyc/"
+}

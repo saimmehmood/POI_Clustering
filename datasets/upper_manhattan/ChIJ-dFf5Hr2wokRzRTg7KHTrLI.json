@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "624",
+            "short_name": "624",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">624 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "624 St Nicholas Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-9805",
+    "geometry": {
+        "location": {
+            "lat": 40.8209951,
+            "lng": -73.9457278
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8224019802915,
+                "lng": -73.9445932197085
+            },
+            "southwest": {
+                "lat": 40.8197040197085,
+                "lng": -73.9472911802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d888906fe0a5e092b10f23c0fbf87c3f42dc32aa",
+    "international_phone_number": "+1 212-281-9805",
+    "name": "Kreative House",
+    "place_id": "ChIJ-dFf5Hr2wokRzRTg7KHTrLI",
+    "plus_code": {
+        "compound_code": "R3C3+9P New York, United States",
+        "global_code": "87G8R3C3+9P"
+    },
+    "reference": "ChIJ-dFf5Hr2wokRzRTg7KHTrLI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12874898127162709197",
+    "utc_offset": -300,
+    "vicinity": "624 Saint Nicholas Avenue, New York",
+    "website": "http://kreative-house.com/"
+}

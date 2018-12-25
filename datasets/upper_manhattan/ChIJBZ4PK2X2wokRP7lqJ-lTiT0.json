@@ -1,0 +1,114 @@
+{
+    "address_components": [
+        {
+            "long_name": "275",
+            "short_name": "275",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">275 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "275 Convent Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8217901,
+            "lng": -73.9480699
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231795302915,
+                "lng": -73.94681806970848
+            },
+            "southwest": {
+                "lat": 40.82048156970851,
+                "lng": -73.9495160302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "e80ee2809e56f728b052e85f566ffe5f9d391df9",
+    "name": "Steinman Hall",
+    "place_id": "ChIJBZ4PK2X2wokRP7lqJ-lTiT0",
+    "plus_code": {
+        "compound_code": "R3C2+PQ New York, United States",
+        "global_code": "87G8R3C2+PQ"
+    },
+    "rating": 5,
+    "reference": "ChIJBZ4PK2X2wokRP7lqJ-lTiT0",
+    "reviews": [
+        {
+            "author_name": "Hojjat Rostami",
+            "author_url": "https://www.google.com/maps/contrib/113747643931963799286/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qSYIfK7YSaM/AAAAAAAAAAI/AAAAAAAAAMM/92ICgBkzORU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1495339524
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4434167568976755007",
+    "utc_offset": -300,
+    "vicinity": "275 Convent Avenue, New York"
+}

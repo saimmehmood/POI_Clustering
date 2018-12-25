@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8278695,
+            "lng": -73.945549
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82924158029149,
+                "lng": -73.94425481970849
+            },
+            "southwest": {
+                "lat": 40.8265436197085,
+                "lng": -73.9469527802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "88b14bd8807269e477d905d21813069b37df968c",
+    "name": "Amsterdam Av/w 149 St",
+    "place_id": "ChIJuzEDbn32wokR6xpTGOFZnPc",
+    "plus_code": {
+        "compound_code": "R3H3+4Q New York, United States",
+        "global_code": "87G8R3H3+4Q"
+    },
+    "reference": "ChIJuzEDbn32wokR6xpTGOFZnPc",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17842234647045675755",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

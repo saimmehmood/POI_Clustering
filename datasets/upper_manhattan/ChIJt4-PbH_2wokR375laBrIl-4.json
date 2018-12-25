@@ -1,0 +1,195 @@
+{
+    "address_components": [
+        {
+            "long_name": "2515",
+            "short_name": "2515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4100",
+            "short_name": "4100",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2515 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4100</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2515 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-6900",
+    "geometry": {
+        "location": {
+            "lat": 40.8219179,
+            "lng": -73.93835399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8233320802915,
+                "lng": -73.93716096970849
+            },
+            "southwest": {
+                "lat": 40.8206341197085,
+                "lng": -73.93985893029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "78e507dfa7eb837028eb7634e68364864c82d55a",
+    "international_phone_number": "+1 212-281-6900",
+    "name": "Boost Mobile of Harlem NY",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJt4-PbH_2wokR375laBrIl-4",
+    "plus_code": {
+        "compound_code": "R3C6+QM New York, United States",
+        "global_code": "87G8R3C6+QM"
+    },
+    "reference": "ChIJt4-PbH_2wokR375laBrIl-4",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17192430118256361183",
+    "utc_offset": -300,
+    "vicinity": "2515 Adam Clayton Powell Junior Boulevard, New York"
+}

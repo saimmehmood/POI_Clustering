@@ -1,0 +1,238 @@
+{
+    "address_components": [
+        {
+            "long_name": "1741",
+            "short_name": "1741",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1741 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1741 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 592-7053",
+    "geometry": {
+        "location": {
+            "lat": 40.8259776,
+            "lng": -73.9467078
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82738403029149,
+                "lng": -73.94549786970849
+            },
+            "southwest": {
+                "lat": 40.82468606970849,
+                "lng": -73.9481958302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ffbc0b983b97cdf96294145f480f561ed3e9e53d",
+    "international_phone_number": "+1 917-592-7053",
+    "name": "FastLife Barber Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 12:00 AM",
+            "Tuesday: 8:00 AM \u2013 12:00 AM",
+            "Wednesday: 8:00 AM \u2013 12:00 AM",
+            "Thursday: 8:00 AM \u2013 12:00 AM",
+            "Friday: 8:00 AM \u2013 12:00 AM",
+            "Saturday: 10:00 AM \u2013 11:00 PM",
+            "Sunday: 10:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1118,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102081771828094191032/photos\">FastLife Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Yhtu3tjXefnoGmG6Cg4GXvzBovYOOCa7v_y1PiYYEqPxWtD9YpCubf7M8Ga5Gu1coEaDlJTIWtMdJ6237oXaKEdf1Hv6FaSNOwXDhyLf-iK7W6J7qCcgeRseYLwiiHoEhCrzSZ2ol4S1UJnRZoM0mdSGhTxroJMn95SV_ZP6zkmO4XA-nR0iw",
+            "width": 1103
+        },
+        {
+            "height": 1119,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102081771828094191032/photos\">FastLife Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAY94UOskjq9UpqXBkgRUmo_szZT95kJfnOFtY9ot6A9LXK58vpwDziRmJu7SgZSZ0ZgHsTOVdoyDyMoUB3uuiny-ESZRwNEq12vtA9Bt5zSFm8RByjZv9MjBN6qwRS_FzEhADQWDmW0ky0A2YfhwckdVkGhRdRILmJTwvv9vtSk0O83IguV1LyA",
+            "width": 877
+        }
+    ],
+    "place_id": "ChIJ7Rex23z2wokRDi0d049uo30",
+    "plus_code": {
+        "compound_code": "R3G3+98 New York, United States",
+        "global_code": "87G8R3G3+98"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ7Rex23z2wokRDi0d049uo30",
+    "reviews": [
+        {
+            "author_name": "Dwayne Blackmon",
+            "author_url": "https://www.google.com/maps/contrib/100882495090946317160/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QiocAIoI7qQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYIC95QM3KHKkJ_gZH1yD725GK_eA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "HARLEM LEGEND! Cut my hair so clean & crispy bruh, great barbers you can't go wrong here, fresh cut every time, if you live here or are around sugar hill get ya haircut here",
+            "time": 1445895619
+        },
+        {
+            "author_name": "Guy Ruffin",
+            "author_url": "https://www.google.com/maps/contrib/100209795429064915639/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uqWFCMtfhQ8/AAAAAAAAAAI/AAAAAAAAC88/q4eU5NEySio/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1534786766
+        },
+        {
+            "author_name": "Marric Strobert",
+            "author_url": "https://www.google.com/maps/contrib/114154797730681924537/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jIf7jrkZGgQ/AAAAAAAAAAI/AAAAAAAAAlk/myfDS9-6tFU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1474304584
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9053201239946112270",
+    "utc_offset": -300,
+    "vicinity": "1741 Amsterdam Avenue, New York"
+}

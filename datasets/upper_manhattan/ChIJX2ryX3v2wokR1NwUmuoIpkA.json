@@ -1,0 +1,151 @@
+{
+    "address_components": [
+        {
+            "long_name": "521",
+            "short_name": "521",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5101",
+            "short_name": "5101",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">521 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "521 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-6770",
+    "geometry": {
+        "location": {
+            "lat": 40.8261434,
+            "lng": -73.9486605
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8273209302915,
+                "lng": -73.9474381197085
+            },
+            "southwest": {
+                "lat": 40.8246229697085,
+                "lng": -73.95013608029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "c0f9473c261d2cd55f9cc73fa5ef34af02968b4f",
+    "international_phone_number": "+1 212-283-6770",
+    "name": "Boys and Girls Club of Harlem",
+    "place_id": "ChIJX2ryX3v2wokR1NwUmuoIpkA",
+    "plus_code": {
+        "compound_code": "R3G2+FG New York, United States",
+        "global_code": "87G8R3G2+FG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJX2ryX3v2wokR1NwUmuoIpkA",
+    "reviews": [
+        {
+            "author_name": "Rayfer Zorrilla",
+            "author_url": "https://www.google.com/maps/contrib/114497442527777161625/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BdXkEQznqA0/AAAAAAAAAAI/AAAAAAAAPOg/Jjl1aPoFWII/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "Idea good ",
+            "time": 1411582295
+        },
+        {
+            "author_name": "Abdul qureshi",
+            "author_url": "https://www.google.com/maps/contrib/109614816746197770790/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Km9A4etxpwE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaxNhnh0bTDbSsYKdiZrkTvbAvDRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1540000045
+        },
+        {
+            "author_name": "chu-pay XD",
+            "author_url": "https://www.google.com/maps/contrib/106149952543195687162/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RNHTeMR3KoU/AAAAAAAAAAI/AAAAAAAAFag/41cSgoC1Izs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1520540746
+        },
+        {
+            "author_name": "Elijah Francis",
+            "author_url": "https://www.google.com/maps/contrib/106282435216294990815/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-W0hjXz9tqNU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaG3FTYiTsZe6PK75fLixCqT8t7-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1512740207
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4658420668261784788",
+    "utc_offset": -300,
+    "vicinity": "521 West 145th Street, New York",
+    "website": "https://www.bgcharlem.org/"
+}

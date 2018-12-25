@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "751",
+            "short_name": "751",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">751 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "751 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(347) 509-8552",
+    "geometry": {
+        "location": {
+            "lat": 40.825866,
+            "lng": -73.9437769
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271591802915,
+                "lng": -73.9422934697085
+            },
+            "southwest": {
+                "lat": 40.8244612197085,
+                "lng": -73.94499143029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "30ae689d79dfed02a68cb44506e197b55915401b",
+    "international_phone_number": "+1 347-509-8552",
+    "name": "uptown classics",
+    "place_id": "ChIJ__9jTHz2wokRvH42bUyFkqo",
+    "plus_code": {
+        "compound_code": "R3G4+8F New York, United States",
+        "global_code": "87G8R3G4+8F"
+    },
+    "reference": "ChIJ__9jTHz2wokRvH42bUyFkqo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12291032896343801532",
+    "utc_offset": -300,
+    "vicinity": "751 Saint Nicholas Avenue, New York",
+    "website": "http://www.uptownclassicsnyc.com/contact/"
+}

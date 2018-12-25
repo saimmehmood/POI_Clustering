@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "562-500",
+            "short_name": "562-500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">562-500 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "562-500 W 139th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82180899999999,
+            "lng": -73.95124659999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82315793029149,
+                "lng": -73.94951974999998
+            },
+            "southwest": {
+                "lat": 40.82045996970849,
+                "lng": -73.95297355000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "19c3e2b72b99d27d472646ef72bfb4264b0d783d",
+    "name": "562-500 W 139th St",
+    "place_id": "ChIJdThjrmX2wokREHNpIgAYXwY",
+    "reference": "ChIJdThjrmX2wokREHNpIgAYXwY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=562-500+W+139th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f665ae633875:0x65f180022697310",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

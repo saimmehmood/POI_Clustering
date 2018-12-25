@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2730",
+            "short_name": "2730",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3054",
+            "short_name": "3054",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2730 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3054</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2730 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-2729",
+    "geometry": {
+        "location": {
+            "lat": 40.8228838,
+            "lng": -73.9415159
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242907802915,
+                "lng": -73.9403077697085
+            },
+            "southwest": {
+                "lat": 40.8215928197085,
+                "lng": -73.9430057302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "109d85a4e7241101b0a66a16df393615f6e48699",
+    "international_phone_number": "+1 212-234-2729",
+    "name": "L & M Builders",
+    "place_id": "ChIJuSlLUXn2wokRtHX2HAzJkwQ",
+    "plus_code": {
+        "compound_code": "R3F5+59 New York, United States",
+        "global_code": "87G8R3F5+59"
+    },
+    "reference": "ChIJuSlLUXn2wokRtHX2HAzJkwQ",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=329828251590882740",
+    "utc_offset": -300,
+    "vicinity": "2730 Frederick Douglass Boulevard, New York"
+}

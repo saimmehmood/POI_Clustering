@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2527",
+            "short_name": "2527",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2527 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2527 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-8319",
+    "geometry": {
+        "location": {
+            "lat": 40.8167804,
+            "lng": -73.9467286
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180682302915,
+                "lng": -73.94523546970849
+            },
+            "southwest": {
+                "lat": 40.8153702697085,
+                "lng": -73.9479334302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3f1f380c756afea798e5193267ef1dde5c745384",
+    "international_phone_number": "+1 212-234-8319",
+    "name": "D & D Financial Consltng Co",
+    "place_id": "ChIJ0et2M3D2wokRdeqAWbxXEFE",
+    "plus_code": {
+        "compound_code": "R383+P8 New York, United States",
+        "global_code": "87G8R383+P8"
+    },
+    "reference": "ChIJ0et2M3D2wokRdeqAWbxXEFE",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5841265183166622325",
+    "utc_offset": -300,
+    "vicinity": "2527 Frederick Douglass Boulevard, New York"
+}

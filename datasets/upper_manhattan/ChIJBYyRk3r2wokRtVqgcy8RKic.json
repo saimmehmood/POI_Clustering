@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "98-116",
+            "short_name": "98-116",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">98-116 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "98-116 Edgecombe Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8199487,
+            "lng": -73.9458465
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8212976302915,
+                "lng": -73.94449751970849
+            },
+            "southwest": {
+                "lat": 40.8185996697085,
+                "lng": -73.9471954802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7fa59ab9e5f62922537442c24996d08a73517f68",
+    "name": "98-116 Edgecombe Ave",
+    "place_id": "ChIJBYyRk3r2wokRtVqgcy8RKic",
+    "reference": "ChIJBYyRk3r2wokRtVqgcy8RKic",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=98-116+Edgecombe+Ave,+New+York,+NY+10030,+USA&ftid=0x89c2f67a93918c05:0x272a112f73a05ab5",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "324-300",
+            "short_name": "324-300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 151st Street",
+            "short_name": "W 151st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">324-300 W 151st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "324-300 W 151st St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8268517,
+            "lng": -73.93963769999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282006802915,
+                "lng": -73.93828876970849
+            },
+            "southwest": {
+                "lat": 40.8255027197085,
+                "lng": -73.9409867302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "972cecc14655625299c19309274357347ad96676",
+    "name": "324-300 W 151st St",
+    "place_id": "ChIJNbWBN372wokRmFIqWLZ0Yk4",
+    "reference": "ChIJNbWBN372wokRmFIqWLZ0Yk4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=324-300+W+151st+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67e3781b535:0x4e6274b6582a5298",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

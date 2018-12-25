@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "506",
+            "short_name": "506",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">506 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "506 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-3620",
+    "geometry": {
+        "location": {
+            "lat": 40.8141107,
+            "lng": -73.9398363
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81560938029151,
+                "lng": -73.93884456970851
+            },
+            "southwest": {
+                "lat": 40.81291141970851,
+                "lng": -73.94154253029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "42ed7cb64bddadfcf283e1c080935716ac637511",
+    "international_phone_number": "+1 212-939-3620",
+    "name": "Harlem Hospital Pathology",
+    "place_id": "ChIJ2TuL6Xb2wokRDphUg5afeSc",
+    "plus_code": {
+        "compound_code": "R376+J3 New York, United States",
+        "global_code": "87G8R376+J3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ2TuL6Xb2wokRDphUg5afeSc",
+    "reviews": [
+        {
+            "author_name": "ronnie green",
+            "author_url": "https://www.google.com/maps/contrib/103523563625047019894/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-cX73TvE7RWA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYdhLg7IHRGz2SsmOjYRxyBNderog/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1376737417
+        },
+        {
+            "author_name": "Jessica Gibson",
+            "author_url": "https://www.google.com/maps/contrib/115573962344754993923/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-o2M2o7ovjaE/AAAAAAAAAAI/AAAAAAAAJtI/MlRc3Ga8Tv8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1361020972
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2844480108458448910",
+    "utc_offset": -300,
+    "vicinity": "506 Malcolm X Boulevard, New York",
+    "website": "http://www.nyc.gov/html/hhc/harlem/html/contact/contact.shtml"
+}

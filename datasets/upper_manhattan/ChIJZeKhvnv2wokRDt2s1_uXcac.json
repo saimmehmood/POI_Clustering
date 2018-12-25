@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "22",
+            "short_name": "22",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">22 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "22 Bradhurst Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 732-6942",
+    "geometry": {
+        "location": {
+            "lat": 40.822093,
+            "lng": -73.94367799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8235026802915,
+                "lng": -73.94244186970849
+            },
+            "southwest": {
+                "lat": 40.8208047197085,
+                "lng": -73.94513983029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b2541c9ede474188c8dae25410109e8e428cb5cb",
+    "international_phone_number": "+1 646-732-6942",
+    "name": "Xpreasion Beauty Salon",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 7:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 7:00 PM",
+            "Thursday: 8:00 AM \u2013 7:00 PM",
+            "Friday: 8:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJZeKhvnv2wokRDt2s1_uXcac",
+    "plus_code": {
+        "compound_code": "R3C4+RG New York, United States",
+        "global_code": "87G8R3C4+RG"
+    },
+    "rating": 3,
+    "reference": "ChIJZeKhvnv2wokRDt2s1_uXcac",
+    "reviews": [
+        {
+            "author_name": "R. Tinsley",
+            "author_url": "https://www.google.com/maps/contrib/106510872878408372035/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fEnNstM6BwM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY3KgAsF-it2HSeP7USs8YCdKezVg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very Good Service \nI will always go there to get anything done no matter the travel\nMakes me very comfortable \nLadies very respectful and Polite ",
+            "time": 1489219215
+        },
+        {
+            "author_name": "Clorox Bleach",
+            "author_url": "https://www.google.com/maps/contrib/111240383005500889092/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-weGn_AMnfg8/AAAAAAAAAAI/AAAAAAAADTA/n22DoSRAA98/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "they overprice",
+            "time": 1514853774
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12065591984613285134",
+    "utc_offset": -300,
+    "vicinity": "22 Bradhurst Avenue, New York"
+}

@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "2234",
+            "short_name": "2234",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2234 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2234 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 283-5335",
+    "geometry": {
+        "location": {
+            "lat": 40.8133005,
+            "lng": -73.9456163
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81459683029149,
+                "lng": -73.9441419697085
+            },
+            "southwest": {
+                "lat": 40.8118988697085,
+                "lng": -73.9468399302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "43f01a99f5fc7c7d0a5d3d0f028e08c36c75846a",
+    "international_phone_number": "+1 212-283-5335",
+    "name": "Harlem Karibe",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 11:00 PM",
+            "Tuesday: 11:00 AM \u2013 11:00 PM",
+            "Wednesday: 11:00 AM \u2013 11:00 PM",
+            "Thursday: 11:00 AM \u2013 11:00 PM",
+            "Friday: 11:00 AM \u2013 11:00 PM",
+            "Saturday: 11:00 AM \u2013 11:00 PM",
+            "Sunday: 11:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115071196836591762143/photos\">Tammy *THE GREAT ONE* Queen</a>"
+            ],
+            "photo_reference": "CmRaAAAAjUqcvowvk4ALxMsUlFzmyEnUlyskk564B4gv9BexrKLUGq2IDn6WFMXHFgDx75aeG6ZXdFeRGQeOCIlUipN6nZMcQc-84d94-qdhpmuyJ9duFUyE_pZnbe460I_HscdJEhB6bbtb4sSQNLDn-162cpk0GhQpfOuldG_xZ_HT2yNZ_ExFjoagmA",
+            "width": 4032
+        },
+        {
+            "height": 1190,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112399412675185674136/photos\">Richard Jeanbaptiste</a>"
+            ],
+            "photo_reference": "CmRZAAAAD_owU6B2g8NDrPp7dm7WfDLz6sJYM1yrJhTAqMBzI17JVTqDAiQBxOkdOKMCrDAOCXvPifbpbCGLPghF2oyR1HZTSt9uwLxNlWS2T_txJiUnP8zojYElG9AVmb77_lPzEhB-GIOVCl6g0UU5jbUVzjhaGhRi992AlQkpHInt0lZKkBzwyns07g",
+            "width": 1798
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107255007380915918291/photos\">James C. Roman</a>"
+            ],
+            "photo_reference": "CmRaAAAAZfXDxCCxdE_n8KBfzgHd1T5Fl-o0uNXNIUSo5WPJrrCqGdESS8u0D2xr9mJINVKe3jiSc6QFrHQ0MkRazA-qcLU0WeYdg06u6eavA5SbII1b2IIFJIiN3oRrF0RgbFzIEhCPeqzV_-hAMh70ary2HQm4GhS_BGIfz_R1ig6lmEiEOLKxGlFIgw",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106305301539622368271/photos\">Rebecca Mir</a>"
+            ],
+            "photo_reference": "CmRaAAAAuw-GRvN1dSLQHCOQrg0VpFSAqXrZE-JtwmxkCiZuAjJuHfspSfcNuJK1lgJyswv6ZMr0VNrE6nTqXZCNR6PXcnqx34-UpitUqMb4x0atmx5YlDL9LaRx-SWJOiMTqGfKEhD8PhAO_5Ma1GfUJzEsXHcYGhSmpMIYeEJTRr3S_YLFD2xFUE1Kog",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107255007380915918291/photos\">James C. Roman</a>"
+            ],
+            "photo_reference": "CmRaAAAAc97RdFe8NmjKLHg-eP1GKeEbm8sssdiDwA53eyMvrb9a01dZfUaaLbz1x8eba6QX44wu3KaMxHtzIaG1c2JPWAA_FmaYBqzSSOHYkbNVinn4mcFKsJpw9Ag15lQ31rVoEhAPAyYt7_HiT-zclFKQFKe6GhTynTSiY3O-JSTL-Vv19cpnIJjCeg",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108541914018912291927/photos\">Tasha Demos</a>"
+            ],
+            "photo_reference": "CmRaAAAAw6SSg9KuIJD2TPs0se2Cyaxre17_zO9fbj_RDbRJ1keDA3c0PgYVAbWtgBExGSDac5ZpbI9V2b5EVXBTuaKEobXdVCJAGS-piHnyhArOpwQQGZ8vllaF_1rp4WeDYUP7EhALDXq_cvU4iG3vlWD563-ZGhS3aImlDYvUSd3qSQGJlaxDAqXKOA",
+            "width": 4032
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111703784494366267194/photos\">Ritha Belizaire</a>"
+            ],
+            "photo_reference": "CmRaAAAADdVSR2ANCKBD2G2qOPXXMSIMOnRzg3J3wotStAyKGdmMQShVd9jtTtTjAjXLwehzPGWQaiq8UccJopKYLymXbKq7PaEC1fWm92Xf9EW5958uoE9SanUNiq-5QM2c399zEhD2-TtrBhWLBRjdWQa9NN0UGhSsZo5_uqK4IfgVDXX3wYB2FEy2Ag",
+            "width": 3264
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107255007380915918291/photos\">James C. Roman</a>"
+            ],
+            "photo_reference": "CmRaAAAAy5IAV5njhNZ5o_z4ylDk6eQZc3bO0HGOdOa3PyFrf7ZtrqQtr_yFPGzNtVAg4qLZHIvT-VtYA-eVkK6scfSIs8k0M2TgXfHOP3w5O00O7q7qmtzE9NpA-xoLIXLAv086EhA4b464t7dWIp1OCmHWhenPGhTIOWeypT3kYfWkZtGbdIditH-CHg",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107255007380915918291/photos\">James C. Roman</a>"
+            ],
+            "photo_reference": "CmRaAAAAjUMdQpFLmTKM2dt35Af8FEVFkTDJIcDi0PPL7vZp9GygiKkjCCsz8sfH24WuRXgN-gibhTc8oRbV1Ey0IM52LsztfblKyUrvSuN0d2hrokgUrhw_1xeLa8hBvb5KkAEnEhCch-QPHQK4y-69NTW45SLQGhRfSqew5TFHNbXbI01d7sCa4j7nug",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107255007380915918291/photos\">James C. Roman</a>"
+            ],
+            "photo_reference": "CmRaAAAAqde2nk0d9GIxbYV4KilM1GLkqWUQHTJSpkBx9W7ftH50ntGDSKgHI591GoDn-o3jdn17I3y9lxUW3Tnfig4v5olUkrSK3hQUes1TZTM0-6pJ1zVYGwDHoiXLI9zbbpVyEhC8y3N4ncZ97CqpzyWbeXltGhQKRAhnlqcxgGQs7Fi7vggH00xSmQ",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJ3x4LMHL2wokRMI71q0KmVQc",
+    "plus_code": {
+        "compound_code": "R373+8Q New York, United States",
+        "global_code": "87G8R373+8Q"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ3x4LMHL2wokRMI71q0KmVQc",
+    "reviews": [
+        {
+            "author_name": "Beatrice Pierre Glaude",
+            "author_url": "https://www.google.com/maps/contrib/115566825869742208789/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7c735btqZxc/AAAAAAAAAAI/AAAAAAAAAIQ/EBl4YZgz1UQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "I actually enjoy their foods. I just wish sometimes my food would not take so long! But other than that.... Great service! They are really nice people!",
+            "time": 1544516367
+        },
+        {
+            "author_name": "Allan James",
+            "author_url": "https://www.google.com/maps/contrib/117205022458334824045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rnswJctNUxA/AAAAAAAAAAI/AAAAAAAAAUw/xtx0lH4yRNg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I Always try to connect and see the difference in food and service, decor is always a financial issue that can improve and has a great effect.",
+            "time": 1545398259
+        },
+        {
+            "author_name": "Thalia Stevenson",
+            "author_url": "https://www.google.com/maps/contrib/100507610065273935010/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ZDzCBbCUOG0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZJWFkzPiogDYjTkUb58EjUYr8y5w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Shut the front door. This place is amazing. Some of the best food I have ever eaten. Gluten free options out the wazoo. Put me here every day. Thank you Harlem Karibe! (I asked the owner about the Google Reviews being less than 4-5, which was very surprising to me. He explained that when he put delivery options online, he was SO swamped right away that he couldnt keep up, so his review average took a hit, sadly. He has now hired multiple 3rd party delivery carriers, they are kicking butt, and this is no longer a problem. Laid back, island time, super friendly service. You will be so glad you visited here!!",
+            "time": 1530324456
+        },
+        {
+            "author_name": "Webster Jean Louis",
+            "author_url": "https://www.google.com/maps/contrib/100740308649541893700/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nW8Qo0zRtY0/AAAAAAAAAAI/AAAAAAAAFkU/Ob-z8Afoco8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "This review is not to put the business down, I want you guys to be successful, I want to see the restaurant open because when I want Haitian food it is the closest to me. What's up with the ceiling over the cash register? I called twenty minutes earlier to order my food because I know they will take longer to get the food ready. I end up spending another twenty minutes waiting for the food, the person who was serving the food did not seem to know what he was doing. The food could be good sometimes, they are no consistency,  it depends on who is cooking that day. Please let's improved, I want to support the business.",
+            "time": 1533478319
+        },
+        {
+            "author_name": "Clyphton Kerr",
+            "author_url": "https://www.google.com/maps/contrib/101811107439443963083/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Aru-XeokFz0/AAAAAAAAAAI/AAAAAAAAKck/tnHHthuB7bs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Best Haitian food around. Definitely recommend this place.",
+            "time": 1543805674
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=528511336568950320",
+    "utc_offset": -300,
+    "vicinity": "2234 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://harlemkaribetakeoutny.com/"
+}

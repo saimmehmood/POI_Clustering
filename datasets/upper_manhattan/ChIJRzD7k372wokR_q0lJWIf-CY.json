@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 5C",
+            "short_name": "# 5C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "2785",
+            "short_name": "2785",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3153",
+            "short_name": "3153",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2785 Frederick Douglass Blvd # 5C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3153</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2785 Frederick Douglass Blvd # 5C, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 694-8074",
+    "geometry": {
+        "location": {
+            "lat": 40.82470479999999,
+            "lng": -73.9408304
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260091302915,
+                "lng": -73.93937551970849
+            },
+            "southwest": {
+                "lat": 40.8233111697085,
+                "lng": -73.9420734802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e64254b8ea98fd42ad85fe748167d7623f97ae0c",
+    "international_phone_number": "+1 212-694-8074",
+    "name": "Gotham Internet Group",
+    "place_id": "ChIJRzD7k372wokR_q0lJWIf-CY",
+    "plus_code": {
+        "compound_code": "R3F5+VM New York, United States",
+        "global_code": "87G8R3F5+VM"
+    },
+    "reference": "ChIJRzD7k372wokR_q0lJWIf-CY",
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2808028874055986686",
+    "utc_offset": -300,
+    "vicinity": "2785 Frederick Douglass Boulevard # 5C, New York"
+}

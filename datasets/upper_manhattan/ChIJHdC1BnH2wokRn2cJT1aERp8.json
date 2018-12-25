@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2b",
+            "short_name": "2b",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "213",
+            "short_name": "213",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">213 W 135th St #2b</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "213 W 135th St #2b, New York, NY 10030, USA",
+    "formatted_phone_number": "(832) 287-5542",
+    "geometry": {
+        "location": {
+            "lat": 40.815951,
+            "lng": -73.944515
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171906302915,
+                "lng": -73.9432464697085
+            },
+            "southwest": {
+                "lat": 40.81449266970851,
+                "lng": -73.9459444302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "08bbb75fcc083ccd9be1ad42c326d8b5f8d2738b",
+    "international_phone_number": "+1 832-287-5542",
+    "name": "theARTistsMOVEment",
+    "place_id": "ChIJHdC1BnH2wokRn2cJT1aERp8",
+    "plus_code": {
+        "compound_code": "R384+95 New York, United States",
+        "global_code": "87G8R384+95"
+    },
+    "reference": "ChIJHdC1BnH2wokRn2cJT1aERp8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11477006206628358047",
+    "utc_offset": -300,
+    "vicinity": "213 West 135th Street #2b, New York",
+    "website": "http://www.theartistsmovement.com/#!contac/cyxy"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "71-89",
+            "short_name": "71-89",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Place",
+            "short_name": "Hamilton Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">71-89 Hamilton Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "71-89 Hamilton Pl, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8228961,
+            "lng": -73.9509114
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242450802915,
+                "lng": -73.9495624197085
+            },
+            "southwest": {
+                "lat": 40.8215471197085,
+                "lng": -73.9522603802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "203d77da9490393899a18af9cc7985e08202d390",
+    "name": "71-89 Hamilton Pl",
+    "place_id": "ChIJfTkJWWT2wokRVP5dnoKun5M",
+    "reference": "ChIJfTkJWWT2wokRVP5dnoKun5M",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=71-89+Hamilton+Pl,+New+York,+NY+10031,+USA&ftid=0x89c2f6645909397d:0x939fae829e5dfe54",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

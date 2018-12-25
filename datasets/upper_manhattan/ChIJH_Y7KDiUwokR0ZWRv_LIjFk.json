@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "2249",
+            "short_name": "2249",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2249 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2249 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 368-5005",
+    "geometry": {
+        "location": {
+            "lat": 40.8135225,
+            "lng": -73.94470570000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8149025802915,
+                "lng": -73.9434314697085
+            },
+            "southwest": {
+                "lat": 40.8122046197085,
+                "lng": -73.9461294302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "153e33e862b83585c9b5d02c1694c1d705e9586d",
+    "international_phone_number": "+1 212-368-5005",
+    "name": "Keur Sokhna",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 2:00 AM",
+            "Tuesday: 9:00 AM \u2013 2:00 AM",
+            "Wednesday: 9:00 AM \u2013 2:00 AM",
+            "Thursday: 9:00 AM \u2013 2:00 AM",
+            "Friday: 9:00 AM \u2013 2:00 AM",
+            "Saturday: 9:00 AM \u2013 2:00 AM",
+            "Sunday: 9:00 AM \u2013 2:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAIHl5PrGjDlHk18_0OZWfXRQjdtxylKy2-WHWdhN9iMPb8levKptXtJbr7F6yKsNClCdm15o1EM9aia-fh0lrNCUF3AqZh_9YePYMF99suYgoesyiiPz2iUOb51-epEmEEhDIPcAP6fY0k7jkmMdBzmwvGhTJktVTZ3ruopCJOevYW7iJgo9NqA",
+            "width": 1152
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115471507316298289639/photos\">Shenaille Beckley</a>"
+            ],
+            "photo_reference": "CmRaAAAA4kEsuc7Svtf4x9kdWmF6rXEREAgclS3m2RMC57nt3Gdk7WY3ZBu3teqfXAUWZyA8pX6-7o_HL0KAH-TqYyQqc2YLGByOMxFzyqxs-qBIdClvvDf0qdbNx-b5EDne9p6lEhCrD2vVDluvElsm4_JVNhWwGhTwkxP2Eq5xnzmbW6mBBctFbQ2p6Q",
+            "width": 4032
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAtWTp0eBmlgKg1kI6Tzz3MyO33uhsCiTzm-jjRmX44KlGIMkuS1UDTocx_r2Gikl33s6D_dgcoywLI_n5WGftwXY8hI5DepihAE3Ch5thGItvOdTNHwf9dciacu1xwG2lEhAQdyU0TFTC6E6AFx4V8zb-GhQzzPgN4sIEzOHKgfy_85yc_-lDQA",
+            "width": 2048
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110427002424674094206/photos\">pharel vanou</a>"
+            ],
+            "photo_reference": "CmRaAAAAMrqL6dUC7hidr01Tedn3_Xac4pSZuMdHsvSiFdKvb5lC8mD29Gxn6bPBQx_UanX1Vx2LLpM7FhGdqMUNhgA6Hs1gMlfGlwWt-FsUdFqB3ugK2HhImMJc5OVlVUipr52uEhBvTP4-zggfye_MLnO6T8GMGhSOMnlTpNwAQfJUDMqMoGOr9QJGpw",
+            "width": 3120
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAm538ZSwaI5cP7Hs0-8Xfu5sYJ9LF7-n4U2BKDabfmRJa7jNw7vRBkqxMqMkRLH88wVT5OJj8tIHw2kRjEjLA7vbHndJVPJinE-P9g-SAHwcFUiSyO27DL-q1kM-PfV43EhBSTGvEWfQ_0EWWq42H_3LJGhS5YwEtQ1MMbzulq_1QoA0XIXUldQ",
+            "width": 1152
+        },
+        {
+            "height": 358,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112013882316208512027/photos\">Shana Manuel</a>"
+            ],
+            "photo_reference": "CmRaAAAAqxOXPkabSScDsHZxuI4wXyERrLRNphdeGVg9zcaxXJ7FQYQ24J7CLRLs63Lz-1v5LUr7ABQi3KcZc2BMOm_Jk1JgJ5Cuj6IXEUbu8KGzfig5t0Oia57rC6mounVivbnoEhCuwD5krfDcbF6pHmF-7ZGoGhTgnUOhgh_h93l5zhl4zmwoTfFG4Q",
+            "width": 540
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAN7O9AWo_D5H9cyUBUACPwSlnrA_jRCvLu2btFQ8R41majeTsapyF1UzznXZB89nRHJ4kqPtg2pqCZMy0H6l6fM4IziQrXOPOirKURmJFqhSNKdWi0j_6AzM9FevCaNC2EhDkf-p2PbXN_MSK4hL4okl-GhQ_V7ZnA0mgOJE_C_efVMgiLf4I6w",
+            "width": 2048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102295960881023747882/photos\">pico ndao</a>"
+            ],
+            "photo_reference": "CmRaAAAAwiw9RCRcilgTkI_h59OyIRpMQYCjYrdM8_PXvx6bzmHthoviww1imgD-5_RBJlA2vk_4s455d2ipfqVnNmCCDKBK575u-ByUcyAivXvRyyXdcNocNKz1Md8UdPyYixIoEhC0W4DcsH2vWu9UYdDOx4iwGhQmpjuAC4z5MfEipdSa0ld0v2m94w",
+            "width": 4032
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA33VEOIVvL4UGTemYejqh3Tpuv0N_RadwAXl24PRvyweCLPb3dbkLS9EP9rk2v3-eSuyQXrV8q6hEg2Tca1nJ6lG5V8fzn_YORsTSulBdlAjOKd6Z7sf_8TUdzus4pV9fEhA81qGgx_vxKQoQHhkUUkE8GhRYu3sFtLd5SA_AR4_sWqfWUN5-Fg",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104165951559980818162/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAABh9cz5MYi9za_wytzXwQzbqAQIC_E0D3zMm5v6AEcXjpuvvM4A5H5pk_TeKC_lx0ZhRylnn_Yh3rAf3CqfG5APFvRNAnpaBYmAqOYxKSN6eqHCpAhaPJ2K7FC7KlewP7EhCROfxtlQ-pRqU33RlhQ8RdGhT_Wx1t2CoGrbdBEGpqpXr3oaTPfQ",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJH_Y7KDiUwokR0ZWRv_LIjFk",
+    "plus_code": {
+        "compound_code": "R374+C4 New York, United States",
+        "global_code": "87G8R374+C4"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJH_Y7KDiUwokR0ZWRv_LIjFk",
+    "reviews": [
+        {
+            "author_name": "Karen McCray",
+            "author_url": "https://www.google.com/maps/contrib/110237521901137391178/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-llUnZs34W4M/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZSIzQPx0LVivq3pNEpOleNgGQE6Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "My go to for Dibi lamb and roasted lamb shank. I enjoy the authenticity of their food and the large portions.  It is a great value for the money. They have improved on the upkeep which is great. I will continue patronizing Keur Sokhna",
+            "time": 1540619497
+        },
+        {
+            "author_name": "yahnna yahnna",
+            "author_url": "https://www.google.com/maps/contrib/115828187517418393654/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-AH03fSwr_30/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYnNivaiUm1fPUPyauM0shekF8uNA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Beautiful African garment & clothing store. All items r original pieces. U wud never regret shopping here.",
+            "time": 1544150253
+        },
+        {
+            "author_name": "clear storm mediagroup",
+            "author_url": "https://www.google.com/maps/contrib/116662221943140177348/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-df2s9yBM6lQ/AAAAAAAAAAI/AAAAAAAAASE/3dXKgQ8Hitw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I love their late hours and good food too.",
+            "time": 1538690584
+        },
+        {
+            "author_name": "FluffyK Fierce",
+            "author_url": "https://www.google.com/maps/contrib/105219051975247587815/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rnWHhia-Y1A/AAAAAAAAAAI/AAAAAAAAAKY/FpvcwQC2sm0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "I really enjoy the Dibi Lamb and Lamb shank..with fried plantains.",
+            "time": 1538283573
+        },
+        {
+            "author_name": "Shenaille Beckley",
+            "author_url": "https://www.google.com/maps/contrib/115471507316298289639/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KliJd90OBmQ/AAAAAAAAAAI/AAAAAAAADrw/kHHzlskPFOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "The service was absolutely horrible. I do not recommend. Upon eating at this restaurant with a friend, I found 2 pieces of hair in my food (I\u2019d ordered the Senegalese Dibi Chicken). I asked the server to replace my meal, she got who I presume to be the restaurant owner from the back. He came to my table and accused me of lying about the hair, wagged his finger our in faces and proceeded to scream and shout saying \u201cYou people always do this. You people don\u2019t want to pay so you do this.\u201d I replied saying I had no problem paying for the food I would not however pay for food that I found two hairs in while I was eating. As I stood, he pushed me back down into my seat and locked the front door saying I would not leave the restaurant until I had paid. \nI proceeded to call the police who took about 25-30 minutes to arrive. After holding is in the store for 20 minutes, one of his servers unlocked the door and 5 minutes later, I received a phone call back because the police had arrived. We explained the dispute to the officers and the officers explained to the owner that he is under no circumstances allowed to lock patrons in his store. Nothing further could be done since he hadn\u2019t harmed us or brandished a weapon. Stay. Away.",
+            "time": 1523195263
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6452753311036708305",
+    "utc_offset": -300,
+    "vicinity": "2249 Adam Clayton Powell Junior Boulevard, New York"
+}

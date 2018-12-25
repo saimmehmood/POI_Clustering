@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "229 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 325-7869",
+    "geometry": {
+        "location": {
+            "lat": 40.82170000000001,
+            "lng": -73.9407812
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8229671302915,
+                "lng": -73.9394922697085
+            },
+            "southwest": {
+                "lat": 40.8202691697085,
+                "lng": -73.94219023029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "04938148b05f83a4992ac3ae1d3540f8fbc5f850",
+    "international_phone_number": "+1 646-325-7869",
+    "name": "Conquering Tabernacle Church",
+    "place_id": "ChIJAQBkaXn2wokRGfPAC2x4srE",
+    "plus_code": {
+        "compound_code": "R3C5+MM New York, United States",
+        "global_code": "87G8R3C5+MM"
+    },
+    "reference": "ChIJAQBkaXn2wokRGfPAC2x4srE",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12804429096016737049",
+    "utc_offset": -300,
+    "vicinity": "229 West 144th Street, New York",
+    "website": "http://www.conqueringtabernaclechurch.org/site/cs/contactus.asp"
+}

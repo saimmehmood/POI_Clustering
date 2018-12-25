@@ -1,0 +1,329 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-5021",
+    "geometry": {
+        "location": {
+            "lat": 40.8232755,
+            "lng": -73.94238969999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82453733029149,
+                "lng": -73.94110831970849
+            },
+            "southwest": {
+                "lat": 40.8218393697085,
+                "lng": -73.9438062802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6477c5f660b7b1fef93c092d68a6112e4f68f307",
+    "international_phone_number": "+1 212-283-5021",
+    "name": "Dollar Tree",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:00 PM",
+            "Tuesday: 7:00 AM \u2013 10:00 PM",
+            "Wednesday: 7:00 AM \u2013 10:00 PM",
+            "Thursday: 7:00 AM \u2013 10:00 PM",
+            "Friday: 7:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113729875092944114793/photos\">Apolonio Rosado</a>"
+            ],
+            "photo_reference": "CmRaAAAAFd13HExPSwzXmPrMdF6plzdiSfHqaVNPOKBe_GG3bnUQMi99npa_cH2fWtdVjkkvsUGu4sPVG1K5CDTD0p9KfZqhUtwWcz6rO9yw6AJVEmVgKDEr7eSzslUT0NekpizFEhAlx5uUY8pUwGiloubYGHkBGhSSO5QW7vIlSxIurPeD63utArV3Qg",
+            "width": 3264
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114623532551906923644/photos\">Dollar Tree</a>"
+            ],
+            "photo_reference": "CmRaAAAAPUTkdIfpvFlMhqxBZOftL4Z14KUTuWaE_L0_0Xl6tC5Vr7nGmJRoLmccWpO3uj5fKKh94XApvg_KUpj1GiMDaQcXCVDkUMPsD3D5WfbSE02sYFubzoFKN3MN3-Ts5E1CEhAbzDls7J6DYX8HmC90IOJaGhQ_t2cse4o79qGRqZi0PJ2lcJb2ZQ",
+            "width": 1080
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109383245582602834543/photos\">TheJPretender</a>"
+            ],
+            "photo_reference": "CmRaAAAA81p8O0LFWcGQRt-Yi0eZyDsJAaxFhR_gqNv7d_e6ts48lAfuq0X4EujFpkOEP1CC6vHCNeAm5jdZewY6DArRA4Acmj1IaxWzcnH1t3EKhiItaRihysCIyO65Ur_j6ZRYEhBXXwFvt1UmaTJConTovX01GhQQUx1l5pZqNbiU0x8jHK0zACVP0Q",
+            "width": 3264
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113729875092944114793/photos\">Apolonio Rosado</a>"
+            ],
+            "photo_reference": "CmRaAAAAbreu2u8i0tZop7QWst1i1QKbtixPAW6H5PsmiRlK79TBxqjFHvV7HK7n-2WeIdPS8VnCDTP-1NjR0Lft4nf_2E7oPCbY0dz1Au8gBHe1NELRPRQu2RhEIwyCT2Ajd7KPEhDxswr2Rjs4nubgi1yFLO4JGhTQ7caMPAt8gLYJ49Npt5mklQ8Hnw",
+            "width": 2448
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117454336363508048982/photos\">Jeanie H</a>"
+            ],
+            "photo_reference": "CmRaAAAAfOTOX66O_19C5k9dVpYJjvXp_c08sretF5o4vDWZ09pxXEKQqih8yAXf8-eeSk6xqPOKxSxsyfttb7EFL6dcN_DJnrpLmbbuS5yEmpf5jAhrYUF35bj-76SXWRr7Nu6JEhDBMYNCLg2N3AAS2gUDfmI9GhR7Rixdu3e60ImFS9cEptoG7RjmXQ",
+            "width": 2048
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105993150000344482469/photos\">Maria Meza</a>"
+            ],
+            "photo_reference": "CmRaAAAASWDqfODsHS0SsX3TSK6rnsadqCqZ_BPvvzFdF7ABRuETmPGEQnwUj2jG6SW7ib8nl0cHZ7Mocey376Lrn3FbjQU4uR4NraM44sFer-BbQMB9rbJvEf8oUdRHb3xVGVoSEhA-AHHoSbljMiVmQ3CIBjLAGhRcLfAHL1iWATm1rIQ1sWOV1iXmjg",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111333334656532077797/photos\">Cody Smith</a>"
+            ],
+            "photo_reference": "CmRaAAAAxSm4yVdbO9d5Zqa03gyGbBuyETXFum7IsfpA033_LYkMXftUG1cUuINcEUio74ygg8Us9yta-nIdt-kG5-k7VwDQYExCLKVioVaDwLxhMnRCQYVeugIk9GZCiKcYSmBMEhDJwP7sXTV2vc8IaF967hDFGhRJedXoERlTOpDvZEEg9yJV_osnqA",
+            "width": 3024
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106064531630162565898/photos\">Hazil R.</a>"
+            ],
+            "photo_reference": "CmRaAAAAjkuctEbYmDgHZ6iXmdwUxGRS4YF2BwjgFbZK9N4ewlKLAkeQXuARlgWeJT96itIrN6lS5h86LS7H6HiBjcBZyqR_3537ju_QVKy7h97yR0YfHfOKhQF1XPAGnuec441fEhBdnqunyi8nVLqlb3cvrTLnGhQD-r0uyFFa_is4S4A8hEszjVYBiw",
+            "width": 2988
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113729875092944114793/photos\">Apolonio Rosado</a>"
+            ],
+            "photo_reference": "CmRaAAAAPxHAF_KngEbQOxjUDJuOros4EKL-Y-i2YYyXMnj36Zz2vzuTj52ZkIxVUXJws6JBuTV_jx2Hj0pQ00gZrugA_Ar1UaMlkIfr-MLcfMGMIUiUcUBCUh8AgGQNK2VDuJG3EhA_nuujYrm5mMKdFdgdL94rGhR9Yfat3op_3tlZAiInsxm0GUKvzg",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113729875092944114793/photos\">Apolonio Rosado</a>"
+            ],
+            "photo_reference": "CmRaAAAAs1r2bfWnYCaLTMZIHdV4AUG1_wgnn5-Gt96JyjLKV_nQhkSxN2IlbFmnKfY7K3d5cwhVt3jfRycT18H36nUS-2RbLo50_zJNpG1RKTZ5p0WnzO69sH8OKS52-u48byLVEhCjk3drVjVoGwH5SLbTGmhPGhSBybki_oPF2RIDHMhx8F4TJh3zaQ",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJO-JQ_nv2wokR-9kAU7dE92I",
+    "plus_code": {
+        "compound_code": "R3F5+82 New York, United States",
+        "global_code": "87G8R3F5+82"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJO-JQ_nv2wokR-9kAU7dE92I",
+    "reviews": [
+        {
+            "author_name": "Frank Good",
+            "author_url": "https://www.google.com/maps/contrib/101370599465169984825/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jtc2WEpehHc/AAAAAAAAAAI/AAAAAAAAAB8/TwHmMcefqQg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Yesterday was my first time visiting the dollar tree 145 location and I was impressed by the staff diligence in meeting the customer needs, besides my own. I witnessed how staff was helpful towards the elderly, the handicap, shopping mothers with strollers, questions asked of location of products, they were meeting each one of the customer needs in a joyfully. AND! and NO complains even though they were short-staffed, they pressed forward creating a positive atmosphere making a 10 minutes waiting line pleasant upon my arrival of the check out counter. Thanks for a wonderful experience.",
+            "time": 1534518650
+        },
+        {
+            "author_name": "Sheril Wray",
+            "author_url": "https://www.google.com/maps/contrib/111135373462382499018/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-yTkHnzbJFLU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbiTcPBTKOaB4SW5XzoMykOu4_mxg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "It was quiet and the cashier were doing their jobs, so was the others.",
+            "time": 1545635287
+        },
+        {
+            "author_name": "Laura Mc Bean",
+            "author_url": "https://www.google.com/maps/contrib/118197326884053588892/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nxu1XJN1T0c/AAAAAAAAAAI/AAAAAAAAJmU/2oeBtMegtTw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great deals ,always a line but a great store.Going when just open avoids the line inmy opinion.",
+            "time": 1542979174
+        },
+        {
+            "author_name": "Anthony Alston",
+            "author_url": "https://www.google.com/maps/contrib/107178191390810897148/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dud24atqnyw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYYtkB7V0m2qaKBMszqLlvgkvnHZA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Plenty of things to buy, well stocked and at a unbeatable price i shop there all the time!!",
+            "time": 1541612699
+        },
+        {
+            "author_name": "Bee Doe",
+            "author_url": "https://www.google.com/maps/contrib/106512516795154509888/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-UqZMGFcxaQA/AAAAAAAAAAI/AAAAAAAADxk/800wA5oZ8cY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This one is much better than the Deals by DollarTrree on 125th st. & St.Nicholas. They have a better selection of items and the staff are nice. \n\nJust avoid perishables on the racks [like chocolates] in summer because there's no AC and these stores get hot!",
+            "time": 1533066128
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "grocery_or_supermarket",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7131244089126738427",
+    "utc_offset": -300,
+    "vicinity": "301 West 145th Street, New York",
+    "website": "https://www.dollartree.com/locations/ny/new-york/5116/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places"
+}

@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "1739",
+            "short_name": "1739",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1739 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1739 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-1060",
+    "geometry": {
+        "location": {
+            "lat": 40.825959,
+            "lng": -73.946888
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8273388802915,
+                "lng": -73.9456138197085
+            },
+            "southwest": {
+                "lat": 40.8246409197085,
+                "lng": -73.9483117802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "fbdb8d04376d5bf65da1a2bd83d3b5d4a18733b0",
+    "international_phone_number": "+1 212-281-1060",
+    "name": "Village Chicken & Burger",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 12:00 AM",
+            "Tuesday: 10:00 AM \u2013 12:00 AM",
+            "Wednesday: 10:00 AM \u2013 12:00 AM",
+            "Thursday: 10:00 AM \u2013 12:00 AM",
+            "Friday: 10:00 AM \u2013 12:00 AM",
+            "Saturday: 10:00 AM \u2013 12:00 AM",
+            "Sunday: 10:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112759598892437071345/photos\">Saiful Islam</a>"
+            ],
+            "photo_reference": "CmRaAAAAFYJW3O2uiH8MC7MuEJEpfu7coWMr6pT-R7nkGbrHuqkqnrj5JW0PVixY2pJ-aHqwZnPNlBigsbtaUzX0-gUtFuHdl6p3pIPMPTPR3B6H2DxO4fnytNegoMkiskTJ9VPNEhDXyaOhjn4W_N2gz8mhVi9TGhQ4u7AU4DYmO8Tkn3a01XeqlCRvjQ",
+            "width": 3024
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116905152391337651902/photos\">Jon\u00e1s Ans\u00f3</a>"
+            ],
+            "photo_reference": "CmRaAAAAWUWY9shMFW4IUz4kydfg6AR1CGUbv2RcVSE3GfFEIMVFOqt7U_YA_bmOPFxnTnT6FwrmeS2WW0a3Y3P3ab6uGvU-HWIwjEon7cIltScvsU4qkkXYy3NTAXhM4chvtvKhEhBZC73tOtGWUrYS4OH8junEGhQaa3YWZ2JHH1KGnGUqsNhUcDOBZg",
+            "width": 3120
+        },
+        {
+            "height": 2432,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106908337931664145220/photos\">k clark</a>"
+            ],
+            "photo_reference": "CmRaAAAA_zyjHdV7YLB7BsZkuBgV9tg4OZHx65mktErQlXrYmmVaVtWFOPFBG8cvknRI3ikKk9NKLKWuW6UG-aQoONxu1fzmSwlZcYcMJLF32ppeJY6h3QibRylmqKFlGIhYIcTYEhAIQ2uaoPxf-GVgFgs2rDhYGhTry-V-z40ruMTf0HyMurBcKH91pQ",
+            "width": 4320
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112368593080038884650/photos\">Kate B</a>"
+            ],
+            "photo_reference": "CmRaAAAAgthvO0-MC3AGIRdhSuNNl8VWmXIsUj21rjahFut5freujOHIuPrXpH91EVvI7XatrONP4Ys3dDgOVXxau-z94Zxn1bpWWMZ8Uaf37NfVXY8-MDNRVf4H1rzRgN_LBSYCEhBGc6IcU8i4SRFLueoDPh1LGhQTuNR9EFmZ0XG7c1fDCci7JEN8pw",
+            "width": 3024
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106249018555084456680/photos\">Village Chicken &amp; Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAWvv1-z9_7UxNywSahzrBX-fc25NJM8dyuGFKU-1KfDkZm4FE4hT4bi3MsGPr8PuOqlzmCkCjiqcT6jE3Hmpsd0gwh7czPTB-JwMbUmlbs28PuFN81Rj7Qh2StqNzr4stEhDO8hqrzZZxpr3MdN1bSh77GhQQg5im0okrMk3hTBU4qM3Y_YqveA",
+            "width": 2048
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105662649875644077167/photos\">Susan Kay</a>"
+            ],
+            "photo_reference": "CmRaAAAARzG6RXm1zuuRDY3uyeYNgRaagTFY4j2De3uh2M_QsSCgZlJ-nt5Dq8lmZHzt4zK1e08Jh4etKVBT0Wuo-jW9RDHM0PJ0jIDnnYEHN8tai-HKDLVy9cQmKNxYHteg01fpEhCL45DeDTraSro3R5ShyEpHGhS-nQH4Rj7S_EpOXuDyWj1KnD0bNw",
+            "width": 2250
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106249018555084456680/photos\">Village Chicken &amp; Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAA0amuHy7ItwA0vfBWCQaINGrKe_Wa6BseTd9dAOL66hgum-xa67yArYH3jdDVVAvka2-aodqF-hwXW7twTSOmFMVTA2rc9-6alKvhg850lWtAfL7Dq4ZWpWZSf5E7BcO-EhAwbAl3UfdL6aZ3XIDRW4zaGhSO6aDmU65wjO1M9Ue6naO1fz2tlg",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106249018555084456680/photos\">Village Chicken &amp; Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAC8ZIBghsEySV8G6R3ojs_gnNwP4JUQKCmE1o7-I7nBDbxJBUw3SlEQokv15jyGNQZH5nhykwmwYauufe_cxyG99cr8tgYKLabIxDR0AcGS8AC4Hx8eQf738MhqbOnrJYEhDBpRBHeLeod7taR9nO0CHSGhS2SCqCiLBmHnNUGsO6vCm4qVqlJw",
+            "width": 1536
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106249018555084456680/photos\">Village Chicken &amp; Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAV89PBKCNNQ1IYKNjIjtCMok3EX-ltD4wBlsJr1VV0JnEB-VC7-sFxdRJeraotOHbQkLjdZeGWkDho7sYIn8DxFuYgaOzsQvbyqNo8VWeoXWC011OFA7onLJ2A1FgNJldEhDBTjYSpO34pj3cXV3ehfucGhQb5rPhLaB1I9NFyxFhuS1iH2Dm4g",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106249018555084456680/photos\">Village Chicken &amp; Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAViSjGHAgCqgrn0BunOpWMdTXI0mrAgGp14Rsh4xMdX1yxoASAyxxVk1jBEwR4W_esYhH4lrIJLBy0-UY7EAdhLvGJoniX2lkyGQNbwcImpX1IEvzevp504kq7Zk6mMqwEhBUvTmxklLOfvKdugJy-YL0GhRZdgz6tQhWr5StftvtmKyGQ0_Tsg",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJLaSw2nz2wokRUFVhXuFXDCY",
+    "plus_code": {
+        "compound_code": "R3G3+96 New York, United States",
+        "global_code": "87G8R3G3+96"
+    },
+    "rating": 4.5,
+    "reference": "ChIJLaSw2nz2wokRUFVhXuFXDCY",
+    "reviews": [
+        {
+            "author_name": "Ericka J Stevens",
+            "author_url": "https://www.google.com/maps/contrib/107694051534573999986/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-mesDzEwGtbk/AAAAAAAAAAI/AAAAAAAAA7s/cFiunIYWNKE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Since they renovated the place, it's much brighter. The new menu boards are clearer to read the prices. The food still taste delicious!!!",
+            "time": 1545632089
+        },
+        {
+            "author_name": "Chacha Cha",
+            "author_url": "https://www.google.com/maps/contrib/104363477253941250217/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-T0tt6-Mzubg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ0-9EXkQ1mC3DBDTXQhN_0P7Io0w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The BEST Chicken and Burger's in Harlem freshly made salad daily. They also have   breyers ICE CREAM and Desserts. Friendly and sense of humor staff's. I'M glad that they have reopened. I take my kids there after school. And they do catering. Long live V.C.B.",
+            "time": 1540596662
+        },
+        {
+            "author_name": "Jerry Ryan",
+            "author_url": "https://www.google.com/maps/contrib/115973007975338987804/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bNyqeWiiu2U/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYooztJTyA1y41Jd68qr5ljLpbmDw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great fried chicken ! So glad they've reopened!",
+            "time": 1539472145
+        },
+        {
+            "author_name": "Scott Allen",
+            "author_url": "https://www.google.com/maps/contrib/103875107098894684577/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--RXKFK1vVQA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca0goPHBFIZ6x9IaaYnx7ZeGyL65Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Went there for some good old fried chicken and strawberry ice cream. Good fast food! On Google it said open until 12am but I went there well after 12am. Someone needs to up date the hours of operation.",
+            "time": 1523114295
+        },
+        {
+            "author_name": "Kate B",
+            "author_url": "https://www.google.com/maps/contrib/112368593080038884650/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-AvLr-t4rd5g/AAAAAAAAAAI/AAAAAAAAA8A/yt-b-R78yzw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "My favorite chicken wings spot uptown. Get the homemade iced tea/lemonade while you\u2019re there too!",
+            "time": 1524423071
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2741662898624484688",
+    "utc_offset": -300,
+    "vicinity": "1739 Amsterdam Avenue, New York"
+}

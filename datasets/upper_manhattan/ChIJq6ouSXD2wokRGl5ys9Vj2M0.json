@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "2548",
+            "short_name": "2548",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2548 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2548 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 236-0955",
+    "geometry": {
+        "location": {
+            "lat": 40.8169202,
+            "lng": -73.94592449999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81832113029149,
+                "lng": -73.94469796970849
+            },
+            "southwest": {
+                "lat": 40.81562316970849,
+                "lng": -73.94739593029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2b1dc14b3bd83edd95a101cc3f6243e65dcb1f1a",
+    "international_phone_number": "+1 646-236-0955",
+    "name": "Saloum Technologies",
+    "place_id": "ChIJq6ouSXD2wokRGl5ys9Vj2M0",
+    "plus_code": {
+        "compound_code": "R383+QJ New York, United States",
+        "global_code": "87G8R383+QJ"
+    },
+    "reference": "ChIJq6ouSXD2wokRGl5ys9Vj2M0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14832715142234529306",
+    "utc_offset": -300,
+    "vicinity": "2548 Frederick Douglass Boulevard, New York",
+    "website": "http://saloumtech.com/contact/"
+}

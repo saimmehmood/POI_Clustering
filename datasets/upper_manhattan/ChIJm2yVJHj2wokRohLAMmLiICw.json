@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "485",
+            "short_name": "485",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2402",
+            "short_name": "2402",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">485 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-2402</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "485 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 926-2559",
+    "geometry": {
+        "location": {
+            "lat": 40.813921,
+            "lng": -73.9415064
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8152021302915,
+                "lng": -73.93999501970849
+            },
+            "southwest": {
+                "lat": 40.8125041697085,
+                "lng": -73.9426929802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e02ea1850de9ffd2f054cb6f9d3e10b0ce815c87",
+    "international_phone_number": "+1 212-926-2559",
+    "name": "Clayton Apartments Inc",
+    "place_id": "ChIJm2yVJHj2wokRohLAMmLiICw",
+    "plus_code": {
+        "compound_code": "R375+H9 New York, United States",
+        "global_code": "87G8R375+H9"
+    },
+    "rating": 5,
+    "reference": "ChIJm2yVJHj2wokRohLAMmLiICw",
+    "reviews": [
+        {
+            "author_name": "Renshi Edwin Crespo",
+            "author_url": "https://www.google.com/maps/contrib/104477407448288263138/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--Jn2tesBQW0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbR8IPg7U9k5dAOkMzWXgg4x1hXBg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Building is very secure due to strict security at desk. Building is kept clean and odor-free. The ONLY Thing it needs is a automatic garage gate opener at the top of the Entrance and Exit. Too MANY vehicles get DAMAGED by the top Exit  and Entrance GATES that SWINGS Open and Close, which is Very Dangerous for any vehicle Entering or Exiting the building. We're Trying to get Management to Fix IT and Make it an Automatic Gate Opener. (REMOTE)\nThank you.",
+            "time": 1505315708
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3179790248309691042",
+    "utc_offset": -300,
+    "vicinity": "485 Malcolm X Boulevard, New York"
+}

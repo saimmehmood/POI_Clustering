@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "298-200",
+            "short_name": "298-200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">298-200 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "298-200 W 150th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8253887,
+            "lng": -73.9380877
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8267376802915,
+                "lng": -73.93561785
+            },
+            "southwest": {
+                "lat": 40.8240397197085,
+                "lng": -73.94055764999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d4c6cee730c9545cbbf4782a42559dbcbc2647f0",
+    "name": "298-200 W 150th St",
+    "place_id": "ChIJb-98qH_2wokRULWafK1ZawU",
+    "reference": "ChIJb-98qH_2wokRULWafK1ZawU",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=298-200+W+150th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67fa87cef6f:0x56b59ad7c9ab550",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

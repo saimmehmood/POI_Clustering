@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "3540-3558",
+            "short_name": "3540-3558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3540-3558 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3540-3558 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8267431,
+            "lng": -73.9501069
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8280920302915,
+                "lng": -73.9487579197085
+            },
+            "southwest": {
+                "lat": 40.8253940697085,
+                "lng": -73.9514558802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "33d3b4b450ae4246864455f3ceddd280cc0fe1cc",
+    "name": "3540-3558 Broadway",
+    "place_id": "ChIJMUK2A2P2wokRYmf9Ztvyxog",
+    "reference": "ChIJMUK2A2P2wokRYmf9Ztvyxog",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3540-3558+Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f66303b64231:0x88c6f2db66fd6762",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,283 @@
+{
+    "address_components": [
+        {
+            "long_name": "641",
+            "short_name": "641",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">641 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "641 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 690-1234",
+    "geometry": {
+        "location": {
+            "lat": 40.8188007,
+            "lng": -73.9377736
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201115802915,
+                "lng": -73.9363277697085
+            },
+            "southwest": {
+                "lat": 40.8174136197085,
+                "lng": -73.9390257302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "f6c4410befcb30276a56c0dbb1edd9b7640bb3bf",
+    "international_phone_number": "+1 212-690-1234",
+    "name": "Harlem Driving School",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:30 PM",
+            "Tuesday: 8:00 AM \u2013 6:30 PM",
+            "Wednesday: 8:00 AM \u2013 6:30 PM",
+            "Thursday: 8:00 AM \u2013 6:30 PM",
+            "Friday: 8:00 AM \u2013 6:30 PM",
+            "Saturday: 8:00 AM \u2013 4:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114262706528453460754/photos\">Douglas Blanco</a>"
+            ],
+            "photo_reference": "CmRaAAAA8q4-bzY_dk3zRwyjAOvsdpBq1NbURD7t-u65XKtiKBkW1Em2DyFPQodkTBq3LzSvApa3gmCHwOauf2vSr_-FSdkYggAD6oGQKC6P7EAG4zKaZ9irBaMmSwWZGDCLI7F3EhBrfkLNdarY_bWFHaT6IyBZGhQwk7pN-HY0Q49YylQ1_t1llJhXFQ",
+            "width": 2336
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111387263402639630950/photos\">David Altman</a>"
+            ],
+            "photo_reference": "CmRaAAAA-kQyv2PafcQn77XVHUhz8Ph3YP6NdDryI2xeFU29j_WX8H2VcOhBEWg1fM72T7qwuD6h4ZTuuR8dmesbQlzPC31asFS_j7mO35WTyp0Cexr2kDMqtlCa28UYLMlBNs6MEhBTwCkgrvYvd30IRuLKQQaAGhTS4e_mdWNbe10POFtm8fx94wzIZQ",
+            "width": 4032
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104481834948661455999/photos\">Harlem Driving School</a>"
+            ],
+            "photo_reference": "CmRaAAAA_b3ZXlXrerHJC6iNVoNknO5TPNhDCnoRDCsAg0oXvpQMtlVavoTNKSmpBjbM2a2AURkecV_WgujoflGAjTqs50nTNnBgQy2CohI3_LYSBR5J74ooOE2C06fKW83IkspVEhDaFKbUrlkSaHc5AfOSimD2GhQuBNN9QgPkc4jKqklx66fdpwLSjg",
+            "width": 623
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104481834948661455999/photos\">Harlem Driving School</a>"
+            ],
+            "photo_reference": "CmRaAAAAlPNxeYjrZ1D0OFyAvx24xO8T7BDik9vZBTDpQwRN5Tf5i1MtBXjy-d6J3MSVUgatX3c2nes4oiDamgUoLE4vNLFCeZ4nDN0HefgixMptiLT-AfIzzqVRHUUnug4Mo9fzEhAKJPn2ZZUuTv_CyWCeVu9PGhT_tHxDnYR4rjK3aKJsGRdhsTqNcA",
+            "width": 623
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104408444206853088896/photos\">Mathias Wallner-Haas</a>"
+            ],
+            "photo_reference": "CmRaAAAAPmfbUaik5XzCYOnn0fVZeLvsZQa6vcfd9SdFjhL2zHuSiJO3Jz_4xWDHbup53muUD7ALO6hff6A3GnOjwEC5hj_08d8HA3a1jRxesv1XORoGMEXdcqyAsidh6nuTJdu3EhA_GhJcflz9kSAq6_S-rhO4GhTwSjLamHkOd8vGfsh0nNZ01oXMnA",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJR0pbPHj2wokRGBTGvajwA2I",
+    "plus_code": {
+        "compound_code": "R396+GV New York, United States",
+        "global_code": "87G8R396+GV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJR0pbPHj2wokRGBTGvajwA2I",
+    "reviews": [
+        {
+            "author_name": "Bachir Djankado",
+            "author_url": "https://www.google.com/maps/contrib/101517284544654949590/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-BL77Budj8jw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbni2XLgeYAx_GukpO10D4nddAKjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "i just pass my road test today with Harlem Driving school 168 st Bronx,I'm very happy,the have very good tecnic to teach the student and very friendly staff too,the great!!!.",
+            "time": 1534190577
+        },
+        {
+            "author_name": "\u68ee\u672c\u771f\u53f2",
+            "author_url": "https://www.google.com/maps/contrib/102036071077628593664/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HQa7BBbXmF0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYVStTQC4u9uAgBSjq20tMeybHKJw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I bought package 8.\nIt costed only $400.\nIt's included 10 lessons, 5hour class, road test.\nAnd they took me to the test place.\nTeachers are awesome.\nPrice is quite reasonable.\nI was scolded by Spanish teacher sometimes though,\nThanks to this school I could pass the road test at first time today.\nI think it is the best driving school in the New York City.\nThank you.",
+            "time": 1525148831
+        },
+        {
+            "author_name": "Stacey-Ann Brown",
+            "author_url": "https://www.google.com/maps/contrib/105618231875834114599/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-HkR8GQtgNCU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZBAFIpskL1Qpo0pJA_4PVO4cEVPw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I don't usually write reviews, but Harlem Driving School really stands out. The staff and instructors are all very polite, patient and accommodating. The instruction was excellent, if you follow their advice, you will pass!!",
+            "time": 1520539615
+        },
+        {
+            "author_name": "karen stewart",
+            "author_url": "https://www.google.com/maps/contrib/102483570529625042980/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fFpDroKQI9Y/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYtm8_Ql0eZBFZ4G8PKiivJABQYmg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I have had a good experience so far... I've learned many driving skills from the different variety of drivers..",
+            "time": 1529399771
+        },
+        {
+            "author_name": "YAM KAERE",
+            "author_url": "https://www.google.com/maps/contrib/100181807759559527379/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rTBYBvj0wA8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZozlx9dDAwd72phuwEDO-hFG2Mag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Excellent driving school ! I recommend it to everyone. I was referred by the manager Mr Sall. I took  package number 4 which is  5h class, 3 lessons: each 45 mns and a road test appointment.  My first lesson didn't go well since my instructor Mr B. was not in a good mood. So, Mr Sall re-scheduled the lesson with an other instructor Mr Price who is excellent and very professional.Mr Jose also is good. They show me all the details in order to pass the road test.  Luckily,I PASSED. Thanks Harlem Driving School !",
+            "time": 1526001881
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7062753248176116760",
+    "utc_offset": -300,
+    "vicinity": "641 Malcolm X Boulevard, New York",
+    "website": "http://www.harlemdrivingschool.com/"
+}

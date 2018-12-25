@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "547",
+            "short_name": "547",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">547 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "547 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 262-0990",
+    "geometry": {
+        "location": {
+            "lat": 40.81595189999999,
+            "lng": -73.9399182
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81725128029149,
+                "lng": -73.93845011970849
+            },
+            "southwest": {
+                "lat": 40.8145533197085,
+                "lng": -73.9411480802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "bfae7419a7c6d5aac92df25207982663b21059c4",
+    "international_phone_number": "+1 917-262-0990",
+    "name": "Callie\u2019s Taqueria & Tequila Bar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 11:00 PM",
+            "Tuesday: 11:00 AM \u2013 11:00 PM",
+            "Wednesday: 11:00 AM \u2013 12:00 AM",
+            "Thursday: 11:00 AM \u2013 12:00 AM",
+            "Friday: 11:00 AM \u2013 12:00 AM",
+            "Saturday: 11:00 AM \u2013 12:00 AM",
+            "Sunday: 11:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116777549035163157860/photos\">Callies Restaurant</a>"
+            ],
+            "photo_reference": "CmRaAAAAgvUO5NNoSKDD1eGCtt9DsSdNrfcGaW0ek4yWpYa1oA28cfM0ag3r1qDsnLZpxHoynKNE2hOQnKaIFZ9WrULHNEPFRO6qpqbNCD2MMXcMdSVCOjkc8aNOo09Sv8FuBshqEhAD5dxivY9g0gTRH1W5oFzPGhSov1bEQ4gyTgNCwOYXqfFfwJFUsQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112566489492407362903/photos\">Willy Gil</a>"
+            ],
+            "photo_reference": "CmRaAAAATQNf5-nUg-RFI1iHeidN8mOFvGi8VZZEQizwjOtBvCIK7VDSPmvfoplWW7BDcRJm_iJSYmB2wuMNJ8fXemKgInzx79zY666Z6OZc0pRIn-O8FeNdTOo4DIK0HpDS-lPdEhB6Sj0ZQZ9F8g_b3RoVz7spGhS0FcKbop2kxUKHJplSKI4voh4YIg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116777549035163157860/photos\">Callies Restaurant</a>"
+            ],
+            "photo_reference": "CmRaAAAAmw7bGh61_RRRAcFJ29QAIOMJPQJIJLOzvP_9qMSfrPWyAO5_KoNxydzGd_keLIoN3Vdl0oIRw4_Zf3601ECMC7v5XWRnf-NvqzIXLRU-Y8WdS1b6wV4rdkWp4pn_xY-iEhAd_-TzD5ZBG3FrafQ9QxJRGhT_RKK9XdIZDiIkM5J7BfuwZyfy7w",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116777549035163157860/photos\">Callies Restaurant</a>"
+            ],
+            "photo_reference": "CmRaAAAA-yaZSgqSNhhYDaWSfyknV0J6uKnRdvBqTaJDUxmYGiXRHAtLJAiKGjmp_05rqeHMwGcNYp32E2JB5z-kb_H6YMlFKXoDjXkf9zzsO1ibwEMEAzyacimQbu1tK22PqzlXEhDa2lHtEJG3VjiWGeies1e0GhS3peoz00K1N3pFrh_RacrW_bbnKQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117922683401180376945/photos\">Jordan Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAW_ul-D8rQw6g0Gvjn6PlkGHh2RJFYlo1MUkvqa5syuObEMsruIMgV6uTkCwat2KpiA45GYi9_3ztIIJV6VcC12t9yetYp87tELKzup3YaDUZZ9ZMPCE0Ze9vc2Yfre3vEhDJb7aGFJ-B7DbRuE_gjhgHGhRpMCb-F1jY-jd2--D3S7D50rlcSg",
+            "width": 3024
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103882069563723255889/photos\">Anita Silva</a>"
+            ],
+            "photo_reference": "CmRaAAAA_Nj6GUxF4bB4c2i6NOFHu3OOhmAdvjZX8GtZHql2rrbK3-RKa-xsWtuDI-kWnkh1GhQs3VpVVSZUIUa28lggnHqqCLrfGOamO6NfzbdsVUbquRiOKaolO-PDup6RmAADEhDTuSqGWLn7L1hVxIIPP1q1GhRBbsUB2z4EqAIatcMCaNovt0B5AA",
+            "width": 4032
+        },
+        {
+            "height": 1615,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103882069563723255889/photos\">Anita Silva</a>"
+            ],
+            "photo_reference": "CmRaAAAA-fp8fSCte5cO2H9BI-HR46cEj5fREvy51V1UXD3OX32JZ2Ro5jfFwC5tIBkjjqNM7yBF90x98SYWkQqrn1MLuLSpGjoU83QpNBY8I55wzP_wxUa4dp3wlC2SUZsyMF_ZEhC527M8KbazZJGxPwa9xp12GhR4wK4N_eHIgHE_hCwMStdZNZoOPQ",
+            "width": 3174
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108938587691667812195/photos\">Choice Royce</a>"
+            ],
+            "photo_reference": "CmRaAAAAkNGqarvTA26EAo6jjq6kmS45Yh0a-iHvUJJWZe2HFwi_zVoEZcEuFVqOWHma6Bqc83wM6dQGsgP63zR4Y_uzWaWDDtid-ff5Xesv_8ly0iwS2meLNHTJp_KcdLSvYV17EhCYbjiMPQ0p5nHAQBwU6YL6GhTltMTTazhHo3RSZ9Z8dxv5bevlDQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116777549035163157860/photos\">Callies Restaurant</a>"
+            ],
+            "photo_reference": "CmRaAAAA4NTqanVFwTBwj5mf9uc4-KqMSxnOUVCVxRhteU3F4ONoAVgkmKqeLIY0jTCoy8xpfhuo7zvmHaTEYx4rRQSFJ5YQmt3cMdk448IeMhpnaqUbpwcreIUui53IHAl-wJTREhCx3gTbABU5SLwMkp3ykjEjGhRAs4EYPbYlyg3oN6xGS6KOOBnP-A",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103882069563723255889/photos\">Anita Silva</a>"
+            ],
+            "photo_reference": "CmRaAAAASNOu4dssm1JQEx3d609c_FxnNLs8OScfrCTWUiOE6UpTeD1nSBOiAkqfifYvWC9ioQDfd2HZ9Wqbpgii8SBbyOSVnyfR6Ia-3dpi5831SzzNxoVWpY_v4U_hRftPkRLLEhCBr7YeN9GiwmPopWK3L9qGGhTG9QqoELPj0GbnbVTxvWAmbO9s1g",
+            "width": 2268
+        }
+    ],
+    "place_id": "ChIJ1UuVZ3T3wokR5lNExJjkwN4",
+    "plus_code": {
+        "compound_code": "R386+92 New York, United States",
+        "global_code": "87G8R386+92"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ1UuVZ3T3wokR5lNExJjkwN4",
+    "reviews": [
+        {
+            "author_name": "Selene Breeden",
+            "author_url": "https://www.google.com/maps/contrib/117283912189017563099/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-W6s7c7Nzwqc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZJmgkKLx1kKZLV2RDVRUzyCgsvTA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Good happy hour drinks and food for a reasonable price.  Close to trtransportation no need to drive.  Train, bus or Uber!\n\nThe manager is great and very accommodating.  The Frozen Sangria is wonderful!",
+            "time": 1545088261
+        },
+        {
+            "author_name": "Anita Silva",
+            "author_url": "https://www.google.com/maps/contrib/103882069563723255889/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-XC5z_hgdUis/AAAAAAAAAAI/AAAAAAAACMg/cb28zd3v4Fk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "I loved the place... the food was great, served so beautifully and in a great time frame. I had a spicy tequila drink that was the perfect kind of spicy and alcohol mix that I could sip on while eating. BUT what makes them shy of 5 stars is that our table was a little small.. and the dishes the food came out on were big for the table. The portion isn't the problem because it was spot on for what you pay but the table maybe needed to be a different style. The whole spot looks wonderful though. And the service was on point. Good looking out to the knowledgeable bartender that even goes the extra mile to help out on the tables and make great recommendations. (Female *of course lol) Check it out.. it's worth it.",
+            "time": 1535854630
+        },
+        {
+            "author_name": "Eric Bissell",
+            "author_url": "https://www.google.com/maps/contrib/115610411121001287640/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WAnQHUBlza0/AAAAAAAAAAI/AAAAAAAAAAk/tbSCAdzTJ5w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "great new addition to the neighborhood. staff was very friendly and drinks were delicious. our bartender Bryna was awesome and makes an extremely tasty margarita. the corn, crispy fish tacos, cheese dip, guac and mashed potatoes are all fantastic. the decor is very cool and the vibe is great inside.",
+            "time": 1535238134
+        },
+        {
+            "author_name": "Kaitlyn Cunningham",
+            "author_url": "https://www.google.com/maps/contrib/101821330206818098579/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fdaIvS3-ndc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbk_dk58ok3_WPfGm-WVBeKeQONHA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Callie\u2019s knows how to deliver. Great staff and even better food. We ordered duck, fish, chicken and pork tacos and all were fantastic. Salsa and guacamole is also on point. Highly recommended.",
+            "time": 1537120203
+        },
+        {
+            "author_name": "Tysha Vulcain",
+            "author_url": "https://www.google.com/maps/contrib/116237356199024256029/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9-Jvt8zw5IU/AAAAAAAAAAI/AAAAAAAAAaY/_o8MhXi80b4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Loved it!! \nThe Happy hr drinks were yummy, strong and cheap. The rice and beans were average but the chicken tacos were soo good! \nAround 7pm some love musicians came on and they were fantastic. A great spot to hangout and enjoy the energy.",
+            "time": 1536987288
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16051080416727421926",
+    "utc_offset": -300,
+    "vicinity": "547 Lenox Avenue, New York",
+    "website": "http://www.calliesharlem.com/"
+}

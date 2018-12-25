@@ -1,0 +1,81 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81409050000001,
+            "lng": -73.940834
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8154258302915,
+                "lng": -73.9394929697085
+            },
+            "southwest": {
+                "lat": 40.8127278697085,
+                "lng": -73.9421909302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "59d5795009266b09281741c7ce3c12b977884e58",
+    "name": "W 135 St/Malcolm X Bl",
+    "place_id": "ChIJO8GZu3b2wokRoYw6VgA6vRk",
+    "plus_code": {
+        "compound_code": "R375+JM New York, United States",
+        "global_code": "87G8R375+JM"
+    },
+    "reference": "ChIJO8GZu3b2wokRoYw6VgA6vRk",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1854702394667601057",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1508",
+            "short_name": "1508",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1508</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 139th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 876-3297",
+    "geometry": {
+        "location": {
+            "lat": 40.8155908,
+            "lng": -73.9370485
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8170453802915,
+                "lng": -73.9356192197085
+            },
+            "southwest": {
+                "lat": 40.8143474197085,
+                "lng": -73.93831718029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "03078e065248eee7e3e3896cfc6e6708a3266d4e",
+    "international_phone_number": "+1 212-876-3297",
+    "name": "Fire Ring Designs",
+    "place_id": "ChIJR_dByXf2wokRc7xQRcT05UY",
+    "plus_code": {
+        "compound_code": "R387+65 New York, United States",
+        "global_code": "87G8R387+65"
+    },
+    "reference": "ChIJR_dByXf2wokRc7xQRcT05UY",
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5108758476135382131",
+    "utc_offset": -300,
+    "vicinity": "34 West 139th Street, New York"
+}

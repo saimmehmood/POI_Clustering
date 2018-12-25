@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "120-106",
+            "short_name": "120-106",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Place",
+            "short_name": "Hamilton Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6818",
+            "short_name": "6818",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120-106 Hamilton Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6818</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "120-106 Hamilton Pl, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82372649999999,
+            "lng": -73.9495013
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8250754302915,
+                "lng": -73.94815226970849
+            },
+            "southwest": {
+                "lat": 40.82237746970851,
+                "lng": -73.95085023029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5aa169d6c125b17c601913a970d28bc722628f67",
+    "name": "120-106 Hamilton Pl",
+    "place_id": "ChIJjWpDl2T2wokRSVh8hdkxuXc",
+    "reference": "ChIJjWpDl2T2wokRSVh8hdkxuXc",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=120-106+Hamilton+Pl,+New+York,+NY+10031,+USA&ftid=0x89c2f66497436a8d:0x77b931d9857c5849",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

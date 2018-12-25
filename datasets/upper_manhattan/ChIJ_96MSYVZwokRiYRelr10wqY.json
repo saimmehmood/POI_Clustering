@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "128",
+            "short_name": "128",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 132nd Street",
+            "short_name": "W 132nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7870",
+            "short_name": "7870",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">128 W 132nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7870</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "128 W 132nd St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 283-5825",
+    "geometry": {
+        "location": {
+            "lat": 40.812615,
+            "lng": -73.943531
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140119802915,
+                "lng": -73.94214691970849
+            },
+            "southwest": {
+                "lat": 40.8113140197085,
+                "lng": -73.94484488029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4d7844fe7f953d63d702354c85daa3e5e38a3400",
+    "international_phone_number": "+1 212-283-5825",
+    "name": "Ayesha Pande Literary Agency",
+    "place_id": "ChIJ_96MSYVZwokRiYRelr10wqY",
+    "plus_code": {
+        "compound_code": "R374+2H New York, United States",
+        "global_code": "87G8R374+2H"
+    },
+    "reference": "ChIJ_96MSYVZwokRiYRelr10wqY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12016295113398322313",
+    "utc_offset": -300,
+    "vicinity": "128 West 132nd Street, New York",
+    "website": "http://pandeliterary.com/"
+}

@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "180",
+            "short_name": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "180 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 912-2100",
+    "geometry": {
+        "location": {
+            "lat": 40.814713,
+            "lng": -73.94301089999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81618288029149,
+                "lng": -73.94157346970849
+            },
+            "southwest": {
+                "lat": 40.81348491970849,
+                "lng": -73.9442714302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "aeaa6794757921260001ef1342fcf1128c92d264",
+    "international_phone_number": "+1 212-912-2100",
+    "name": "YMCA",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0530"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:30 AM \u2013 11:00 PM",
+            "Tuesday: 5:30 AM \u2013 11:00 PM",
+            "Wednesday: 5:30 AM \u2013 11:00 PM",
+            "Thursday: 5:30 AM \u2013 11:00 PM",
+            "Friday: 5:30 AM \u2013 11:00 PM",
+            "Saturday: 6:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101408766508197158193/photos\">Alejandro Lopez</a>"
+            ],
+            "photo_reference": "CmRaAAAArXPImUbYSVX3yMCZHYrGulGoWEEsqgFUWHQjVQ0b9Xy8MYp50pZJqwVil6ZifLwbGwG4rrVixWRBsOSSmLwXj_LMV1w8RSjwZ96ZBL3wDwFVtCCrCbM5OFEBXhbJNwwQEhDbJAQ7lkKRGg18qownhZ28GhS6gJSgFfF-LzldfxOnj9-YMgdM_w",
+            "width": 5184
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109140870724901071982/photos\">Edgar Delgado</a>"
+            ],
+            "photo_reference": "CmRZAAAA57RIbrvyqBq_rVp9mqXgyIckfahoFb5KuAa5USFiWbV6CWBlqk_blYZzQmmY4no2FsOqVj-TWkweeAwFahJc6kkQEkDdU63yZK5V61CoJaFTgj56tlMxxa-64b6eY6kTEhCCnzkYmo-SV413dWNTxM-yGhTBCLIrWlP5Q5_3HxC2lNiVy6MqIw",
+            "width": 1932
+        },
+        {
+            "height": 3136,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115649449634943469330/photos\">Adri\u00e1n RP</a>"
+            ],
+            "photo_reference": "CmRaAAAAvS67BqUjNB7M8IPCeN7W0lc_20YC0SmtQCgud67SbGhaDxqGL4DXviTTF5UeLEn-20aIiFnkPepY6b_GYrOxwJ8G8GvcplsQSraqnHTk6bFUBjOZNGowS54bZTzuyg4DEhA18XJRIdDzo4ARf2P2NVWAGhTcCGFm_YzU2d6aG4HAYfUR4v3GzA",
+            "width": 2542
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102491883152721452592/photos\">J\u00e9r\u00f4me OGER</a>"
+            ],
+            "photo_reference": "CmRaAAAASUxiwxaLh5EUSths2_RXsRowV3udlZHUvMK5eTZ2aQ19S-EDBA1v8fOabqRoWb3CVlWEG7_XUuF4FFVPht00ANoRWG95B6UE5Mk2eIUkVcp72lkz5p4BMmeEVPiwoQ4lEhA8jRGTS1FmL2kj8VLix7zNGhTyEuaKft080hETCh6Ojxn6cHm8cQ",
+            "width": 4032
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116272898722427283765/photos\">Jan Rezek</a>"
+            ],
+            "photo_reference": "CmRZAAAAZJcv9HNueiuHRSP3js4hOi5PWXwR2-CEih-Wrz64MQx0HgS_j5eWQOaqKIPbWtG8DgxU79NPunurLkFbFW-9aFErwg-x5bQ9GIt_CyC-tJP4F8hzXUCPlB40zoN8Xz5eEhDoNaDR3Ln0Vf3WuttLPkc9GhTXQWE2vyBnOSzgrKGUy7fxcfjT_g",
+            "width": 3456
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109140870724901071982/photos\">Edgar Delgado</a>"
+            ],
+            "photo_reference": "CmRZAAAAwnAxFlGxCP16fA_6AJE4nIkJj2J-yx647hTfdT5y-4xgSmxECm3-uBqeMAdJbopmq8cCNapdokDXHwVGg_Eg8_cuMgtdyCrwkG6slzHBOuCku21AXb2yIlQngDpvXzQ8EhCTVeVjWM3dUHZyU5-zECpfGhTMY0gSKJu0JmukGWuWh7MXLZgPZg",
+            "width": 1932
+        },
+        {
+            "height": 1932,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109140870724901071982/photos\">Edgar Delgado</a>"
+            ],
+            "photo_reference": "CmRZAAAARIxt1_Rk_jBKEZFNmJcSUPjC1saKI76U6s6VJW8l0Tf4JIR655AAee-nO03Zf5np7emPXh4xnEkaCunDTamhT-l1vrhOTAS5MU6wnuJKddwo78jiF8YNQXdWvHpbnQhVEhB8_dcHNjj9tqQup0XofygfGhSU-XoKAJh1GYzrz7WTo7e6j5bKdg",
+            "width": 2576
+        },
+        {
+            "height": 336,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116061334238160782689/photos\">Oleksii Tarasenko</a>"
+            ],
+            "photo_reference": "CmRZAAAAiBy86427RC-tBJoqWGClfzTAF6KmMH7wxDH_UbXyr1hChXBIJ7JPfhDDgWoOPX1s-eq7wICh5NUk2c_s5L-7hANq0_qw7SQ9O05oTqxlCEVzTC0ZGKkTHFMy08P4vPenEhAd-Rin2-IX8hysR90789ZfGhQHeMJY9pilF9OHXgQHapCXNvrBVg",
+            "width": 602
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109140870724901071982/photos\">Edgar Delgado</a>"
+            ],
+            "photo_reference": "CmRZAAAA-AzTBsIGZOb2AQR5XXul44XecdXpjBELemU7cxy0VFprqJ2hmgViETcxjEVAwL9leVVy7ZwER1xxDZgpnNx7kdkWH2QXRB84iDlk-8P73mHTpbk54ozSizw6NphX0Y-yEhDE2LwrzU6tgOUeswAoPj95GhRJ0yUkiLWTrG05XjyzbDQJvfHlUg",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100990370644717594645/photos\">Barbara Herrera</a>"
+            ],
+            "photo_reference": "CmRaAAAA-WXAHKpMgYKGjgsDWp0Pm-fIQkw5dGKwpcbHp6sDg5aMYcWCVEWSrAVr60CBwvjR1nPUieZwIq7vyFupay6VjT6jbN0vgnfrNXkQ2J3h1JFrH69_PZ9ARVHOUqOIifzWEhDTwNhGjWP4oZ427YZ_0b3AGhTDXet-ji2ZuayeYSi9TNpEvb5A1Q",
+            "width": 1932
+        }
+    ],
+    "place_id": "ChIJyf_MQHH2wokRL7_YjdVKc78",
+    "plus_code": {
+        "compound_code": "R374+VQ New York, United States",
+        "global_code": "87G8R374+VQ"
+    },
+    "rating": 3.7,
+    "reference": "ChIJyf_MQHH2wokRL7_YjdVKc78",
+    "reviews": [
+        {
+            "author_name": "Gregory Jordan-Detamore",
+            "author_url": "https://www.google.com/maps/contrib/109638409408397904421/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NgH_p-Qaonw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZoZ8nEJhkLgccIVoR1eLsFB30GOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "Do not stay here!! No power in the electrical outlets + no one at the front desk.\n\nWhen I arrived around 10:20pm on a Friday, I waited at the front desk for 20 minutes but no one showed up. I went to the security guard and she said that the front-desk employee would still be on break for another 15min. What?!\n\nAlso, there was no power in the electrical outlets in my room! Either night! Unbelievable. And, I was going to a Saturday all-day event and so went out at 7:40am and the front desk was closed, so I was unable to tell anyone. That's not that early, so there's really no excuse for the desk to be closed then.\n\nAdditionally, if you like to satisfy the human desire of thirst, too bad. They offered no options for drinking water. I went down to the front desk and asked where I could find a cup for tap water and they told me I'd have to go to the corner store to buy a cup. Are you kidding me?!",
+            "time": 1527010123
+        },
+        {
+            "author_name": "Tamika Holmes",
+            "author_url": "https://www.google.com/maps/contrib/110056389362066746362/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WP_2qdXSB-A/AAAAAAAAAAI/AAAAAAAAAGU/205E5Xi1Jjs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Horrible staff! Please if someone knows the CEO or top head person of the YMCA  on 135th street please give me his or her direct contact number. It would be greatly appreciated.  This place needs to be reported!. This place has the worst staff here. Specifically, front desk workers and aquatic director and  head manager for that place on 135th street are not friendly and very mean looking in the face. Their entire misdemeanor and presence were horrible. They don\u2019t know how to talk to people and very belittling and degrading!  This place needs new and better front desk people, aquatic director, and head manager. I think it will make a total difference. Zero stars!!!! Smh",
+            "time": 1535572991
+        },
+        {
+            "author_name": "JB JB",
+            "author_url": "https://www.google.com/maps/contrib/100873294229536788736/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-bz7zaZMAiMg/AAAAAAAAAAI/AAAAAAAAACE/21y2Cu2zY_0/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I used the gym three times and I was highly satisfied. I knew many YMCA gyms in Canada and I had a bad image of this organization because the installations were always overcrowded and the staff was poorly, but this one I had nothing wrong to say.",
+            "time": 1530291800
+        },
+        {
+            "author_name": "Yulchi Fulop",
+            "author_url": "https://www.google.com/maps/contrib/105080840824531212035/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WdPiLwNg8ww/AAAAAAAAAAI/AAAAAAAAEBY/XIHSEFkU4Co/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very friendly place. Yoga classes are awesome! Staff is supernice. Highschool dorm feeling, we loved it. Someone posted below is noisy. Daa. Its Manhattan\ud83d\ude02",
+            "time": 1528595968
+        },
+        {
+            "author_name": "mini rock",
+            "author_url": "https://www.google.com/maps/contrib/117726824924608055329/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8xbQsQEzfZY/AAAAAAAAAAI/AAAAAAAAAG0/AP6JByBpBPE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "They have a lot of winter and summer activites",
+            "time": 1536241068
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13795452364634242863",
+    "utc_offset": -300,
+    "vicinity": "180 West 135th Street, New York",
+    "website": "http://www.ymcanyc.org/harlem"
+}

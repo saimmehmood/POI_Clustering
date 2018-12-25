@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1529",
+            "short_name": "1529",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 139th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1529</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 139th St #1, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 690-7109",
+    "geometry": {
+        "location": {
+            "lat": 40.8155908,
+            "lng": -73.9370485
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8170453802915,
+                "lng": -73.9356192197085
+            },
+            "southwest": {
+                "lat": 40.8143474197085,
+                "lng": -73.93831718029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dbde8579f092b645b5f70d91f96f3cafb514e8af",
+    "international_phone_number": "+1 212-690-7109",
+    "name": "Jewish Board-Family & Children",
+    "place_id": "ChIJR_dByXf2wokRpB1oxQdSdIo",
+    "plus_code": {
+        "compound_code": "R387+65 New York, United States",
+        "global_code": "87G8R387+65"
+    },
+    "reference": "ChIJR_dByXf2wokRpB1oxQdSdIo",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9976689267862674852",
+    "utc_offset": -300,
+    "vicinity": "34 West 139th Street #1, New York",
+    "website": "https://jewishboard.org/"
+}

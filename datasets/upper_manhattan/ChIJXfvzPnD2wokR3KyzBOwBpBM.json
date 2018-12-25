@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "309",
+            "short_name": "309",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2402",
+            "short_name": "2402",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">309 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2402</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "309 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 491-9030",
+    "geometry": {
+        "location": {
+            "lat": 40.81762,
+            "lng": -73.946523
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8188769802915,
+                "lng": -73.94524201970849
+            },
+            "southwest": {
+                "lat": 40.8161790197085,
+                "lng": -73.94793998029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f454e43941bd9cd14f917fbf04a1487bde1a5172",
+    "international_phone_number": "+1 212-491-9030",
+    "name": "Harlem Republican Club",
+    "place_id": "ChIJXfvzPnD2wokR3KyzBOwBpBM",
+    "plus_code": {
+        "compound_code": "R393+29 New York, United States",
+        "global_code": "87G8R393+29"
+    },
+    "reference": "ChIJXfvzPnD2wokR3KyzBOwBpBM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1415258296103972060",
+    "utc_offset": -300,
+    "vicinity": "309 West 136th Street, New York",
+    "website": "http://www.harlemrepublicanclub.org/7.html"
+}

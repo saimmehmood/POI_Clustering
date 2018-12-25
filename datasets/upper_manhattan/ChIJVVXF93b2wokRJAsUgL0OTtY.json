@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "46",
+            "short_name": "46",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">46 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "46 W 137th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-1000",
+    "geometry": {
+        "location": {
+            "lat": 40.8147539,
+            "lng": -73.9389672
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8162031802915,
+                "lng": -73.93754396970849
+            },
+            "southwest": {
+                "lat": 40.8135052197085,
+                "lng": -73.9402419302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "031a60adb0fc2ec32e81f554ec2f079f28ddf26f",
+    "international_phone_number": "+1 212-939-1000",
+    "name": "\ud83c\udfe5 Hosp Clinic",
+    "place_id": "ChIJVVXF93b2wokRJAsUgL0OTtY",
+    "plus_code": {
+        "compound_code": "R376+WC New York, United States",
+        "global_code": "87G8R376+WC"
+    },
+    "rating": 5,
+    "reference": "ChIJVVXF93b2wokRJAsUgL0OTtY",
+    "reviews": [
+        {
+            "author_name": "samuel Coates",
+            "author_url": "https://www.google.com/maps/contrib/113020695486586765227/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--siRvLkWxqs/AAAAAAAAAAI/AAAAAAAAACg/NFc9nByqdIY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1540823940
+        },
+        {
+            "author_name": "Yolie De la Cruz",
+            "author_url": "https://www.google.com/maps/contrib/105604066771727716987/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UI99GDZRZnQ/AAAAAAAAAAI/AAAAAAAAABI/0BiGK2rnU74/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "",
+            "time": 1544722198
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15442296379360414500",
+    "utc_offset": -300,
+    "vicinity": "46 West 137th Street, New York"
+}

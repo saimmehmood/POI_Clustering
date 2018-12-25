@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "1795",
+            "short_name": "1795",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3501",
+            "short_name": "3501",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1795 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3501</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1795 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-6796",
+    "geometry": {
+        "location": {
+            "lat": 40.8275759,
+            "lng": -73.9455222
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8289860802915,
+                "lng": -73.94432091970849
+            },
+            "southwest": {
+                "lat": 40.82628811970851,
+                "lng": -73.94701888029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a92d54857fd9cae0b73155ec37478353bf5a21c5",
+    "international_phone_number": "+1 212-234-6796",
+    "name": "S M H Corporation",
+    "place_id": "ChIJU-5vbX32wokRsqYJxPyUnPk",
+    "plus_code": {
+        "compound_code": "R3H3+2Q New York, United States",
+        "global_code": "87G8R3H3+2Q"
+    },
+    "reference": "ChIJU-5vbX32wokRsqYJxPyUnPk",
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17986414825152554674",
+    "utc_offset": -300,
+    "vicinity": "1795 Amsterdam Avenue, New York"
+}

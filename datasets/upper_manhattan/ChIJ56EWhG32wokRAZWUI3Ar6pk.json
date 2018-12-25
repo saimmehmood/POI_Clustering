@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "235-245",
+            "short_name": "235-245",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 129th Street",
+            "short_name": "W 129th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">235-245 W 129th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "235-245 W 129th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8122389,
+            "lng": -73.94818699999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8135878802915,
+                "lng": -73.9468380197085
+            },
+            "southwest": {
+                "lat": 40.8108899197085,
+                "lng": -73.9495359802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5babbd90c494f4e64a9254255025fe79e5b9c481",
+    "name": "235-245 W 129th St",
+    "place_id": "ChIJ56EWhG32wokRAZWUI3Ar6pk",
+    "reference": "ChIJ56EWhG32wokRAZWUI3Ar6pk",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=235-245+W+129th+St,+New+York,+NY+10027,+USA&ftid=0x89c2f66d8416a1e7:0x99ea2b7023949501",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

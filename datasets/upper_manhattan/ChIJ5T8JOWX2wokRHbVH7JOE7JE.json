@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "140",
+            "short_name": "140",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9127",
+            "short_name": "9127",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">140 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9127</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "140 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-1051",
+    "geometry": {
+        "location": {
+            "lat": 40.8207758,
+            "lng": -73.9486742
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8221916302915,
+                "lng": -73.94747886970849
+            },
+            "southwest": {
+                "lat": 40.8194936697085,
+                "lng": -73.9501768302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c4a224ba903e02d41e514a5b41c790b4a03c1f8f",
+    "international_phone_number": "+1 212-283-1051",
+    "name": "URS",
+    "place_id": "ChIJ5T8JOWX2wokRHbVH7JOE7JE",
+    "plus_code": {
+        "compound_code": "R3C2+8G New York, United States",
+        "global_code": "87G8R3C2+8G"
+    },
+    "reference": "ChIJ5T8JOWX2wokRHbVH7JOE7JE",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10514925000862446877",
+    "utc_offset": -300,
+    "vicinity": "140 Convent Avenue, New York",
+    "website": "http://www.urscorp.com/"
+}

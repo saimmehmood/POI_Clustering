@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "215 West 135th Street, New York, NY 10030, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 West 135th Street, New York, NY 10030, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 694-3500",
+    "geometry": {
+        "location": {
+            "lat": 40.81588139999999,
+            "lng": -73.9446729
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171729802915,
+                "lng": -73.94336611970849
+            },
+            "southwest": {
+                "lat": 40.8144750197085,
+                "lng": -73.9460640802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "86e9acc83b7336c2ca4c85245b34166930afb61d",
+    "international_phone_number": "+1 212-694-3500",
+    "name": "Simon Velez, ICM",
+    "place_id": "ChIJK2nrB3H2wokRmOKEsuTnrHM",
+    "plus_code": {
+        "compound_code": "R384+94 New York, United States",
+        "global_code": "87G8R384+94"
+    },
+    "reference": "ChIJK2nrB3H2wokRmOKEsuTnrHM",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8335291979789558424",
+    "utc_offset": -300,
+    "vicinity": "215 West 135th Street, New York, NY 10030, New York"
+}

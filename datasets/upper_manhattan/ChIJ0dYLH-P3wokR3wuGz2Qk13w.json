@@ -1,0 +1,323 @@
+{
+    "address_components": [
+        {
+            "long_name": "1764",
+            "short_name": "1764",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1764 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1764 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 837-1132",
+    "geometry": {
+        "location": {
+            "lat": 40.8268592,
+            "lng": -73.9468261
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82814423029151,
+                "lng": -73.9453252197085
+            },
+            "southwest": {
+                "lat": 40.82544626970851,
+                "lng": -73.9480231802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "801fc56089062979d4b7aba3e4a930ca8509111a",
+    "international_phone_number": "+1 212-837-1132",
+    "name": "Brisa Dominicana",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 12:00 AM",
+            "Tuesday: 7:00 AM \u2013 12:00 AM",
+            "Wednesday: 7:00 AM \u2013 12:00 AM",
+            "Thursday: 7:00 AM \u2013 12:00 AM",
+            "Friday: 7:00 AM \u2013 12:00 AM",
+            "Saturday: 7:00 AM \u2013 12:00 AM",
+            "Sunday: 7:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 396,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAoQ03ScxY54UWMFIQhb7dzlgJ8fLu8d4CN8LypFbVj58t32LkZ8Rh6WJ8_giAbco19_y0CbgaVkTFARYGQtKsfYmhPf9UBtQXDxssFdwSxFAId9VL6oa1KaOeA2yEGANAEhC5X0AwufZNflCp_2bQaDtEGhQfmVNXjkqQqfesNHAqaH9RW8WlGQ",
+            "width": 396
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAhmChcIjXVeBq-kB9z5ov5_iZ5j0KuaOdgKpOp2o4XKdMbuI8Unod_48MmrIzliY7lKxvLmIQWYzCVwjG69pJhRVkA6PB88fxYetPluN8N5dmfSul0kBV_rcdfaYWtBSoEhD70CWcyqYPvNnPWLNpK8fxGhSb9LHo9ilFeE07sW3smGruIZjrLw",
+            "width": 2560
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAL6lP4s5bY-IL1akzWfDFPAZ65fD_IRfwzHcewMgBnYswvCiNDsba6LDKUBW7rfWeI6yQ4xSsh07JOu3Ok_Vp82io_UnLtROONYWWuMkLG92ms9qSMEe7K-m9y9TfLfx7EhDq2-r7g1mzhzufVbidtCP-GhSXBkeC9-2opGBNwddgig1KQn8srw",
+            "width": 1440
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAhMBQ8lqQVoFYjtGx-BmtG5x8G7hRAMjNShby9WgNUr-hyz7-Nxljb22BYBmA4MQ1cphUpN4-xXYK1ngAr8CpKUWysC1hZdLv_MMiJLPNv5xFzyzD97c5aCxo5--F7gIbEhClp2qjwIZsKPwDeoo5317cGhQHnenlkrnMVffwUVbvt1hgiks3Fw",
+            "width": 1440
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAT9On1lPgMDGtM4uO2E0eSnrXVhaHIz5xi-RMN1ng14zoHmVDuiO4goTZLc-GLY36b5hVc5GaaPVe0HefnjWh6hxNVqkFOrF53w-_Ug41xSp5aZYl0nbCiZOPChIeu4YVEhB0U9kOpJu3ZSztZXs8S4a_GhQgZyUbvVG49VCd_6cKKPk4uelnAg",
+            "width": 1440
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAyM0YoDUiN0IYF8DfSORRA4XHaNNJO--tSm7RwVDdD_phrmseCvAuNCT77TPcFFqgY_rT8bCU_hAB6eMsOZgP-Gs14fADmgcyvoo9WyP-JScpXOW4sj6UGamUgVBRLLm6EhB0PKtVz0SC3h84-6riBOvCGhQxrQ3Q4h8PQn8OspwmAIXWuSyhLQ",
+            "width": 2560
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAmZHnE8EWPWfIUBWV22TyAeEwYYA6NzsxzhzC7rwI7WKpHoSNGqFN4WtAFXsIf6TgCwsf2gMZ_naG4uYKZJK2AHWZGqF732d13ToGdVcWvqaylf7_kNexhqRuYJnIsajaEhCPJ1MjuC4kLTCrxwKcuDyDGhQBWmrZdGPMj0YxC3AIkR9DDSM3CQ",
+            "width": 1440
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAA2H-FbZwk8WXecm-CmFESNtnI28IIT_f5Rvhnd32vOB-fCtcKKosSyX6seGRYyZKzJUYXR7SZD94A9p8iX3RfWD5258umYLjI0PEQDoHHnuajgyoE7PrTc4LiifXOLF4aEhA8Tv_K3ztffhKStoTo6IboGhRMLmLvwpVSHtGwEyBTNw7GtIHsEg",
+            "width": 2560
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAAyO9bUSJ95yMJruS69IFT39ZP4KYvYVLuYeRShShwXQqLW8VFXiVhhrX2Zcu14-f4c4bzI2hTENJ74tFMrSnITn_0AYAb8dajXvRcTJK7xryWZPdNZtX9MVQFzXiCXsKcEhD3AwhXa_yk87ifEDuXpQN6GhTtkQPv0hGAnsj0BpJLeRA4un_fhg",
+            "width": 1440
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104247395761566659033/photos\">Brisa Dominicana</a>"
+            ],
+            "photo_reference": "CmRaAAAA2wvWcReIdEjEI3P0mSUwB-EC4rVxhJplb6ND5ArWt-7xEJM38qjx0ujrhs243b6iJf1bKQwAc_MpttECVc8w1A9yjKj7pWm_59JKKHagjN9mKngpY_RK9ZgFmE7URTkvEhBeWbU0InrlR_7mPZGpDmSSGhQwnvZ2KIQMk3iqj37aL38deu_ibw",
+            "width": 1440
+        }
+    ],
+    "place_id": "ChIJ0dYLH-P3wokR3wuGz2Qk13w",
+    "plus_code": {
+        "compound_code": "R3G3+P7 New York, United States",
+        "global_code": "87G8R3G3+P7"
+    },
+    "rating": 5,
+    "reference": "ChIJ0dYLH-P3wokR3wuGz2Qk13w",
+    "reviews": [
+        {
+            "author_name": "AFK_ Mickey",
+            "author_url": "https://www.google.com/maps/contrib/114704043902483566943/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rG0TB7j_DeE/AAAAAAAAAAI/AAAAAAAAOLg/244I256xhtY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Soooo Good my uncle works here haha follow me on YouTube",
+            "time": 1542425881
+        },
+        {
+            "author_name": "Marlen Rosario",
+            "author_url": "https://www.google.com/maps/contrib/117837901439149522694/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NRGgWRIBp5A/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYJPA6euZ348NgLAAV0L1-HTrMEsQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Amazing!! The best Dominican food",
+            "time": 1540691967
+        },
+        {
+            "author_name": "ivan garcia",
+            "author_url": "https://www.google.com/maps/contrib/101506570122881348740/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-8GYUCzJfyd8/AAAAAAAAAAI/AAAAAAAAcNQ/PgqqOObhzbE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "The Best Dominican Food in the tri state area .",
+            "time": 1527196066
+        },
+        {
+            "author_name": "Joshua St Fleur",
+            "author_url": "https://www.google.com/maps/contrib/109509817442225755107/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-bmhB2e1HGC0/AAAAAAAAAAI/AAAAAAAAAZ8/mMNq4G7tcsc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541909793
+        },
+        {
+            "author_name": "Junior Castro",
+            "author_url": "https://www.google.com/maps/contrib/114493471003397609397/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NNdTSucN1Zw/AAAAAAAAAAI/AAAAAAAAImE/x2NnuaTd3gQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541647003
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8995698796092853215",
+    "utc_offset": -300,
+    "vicinity": "1764 Amsterdam Avenue, New York",
+    "website": "https://www.chamohosting.com/"
+}

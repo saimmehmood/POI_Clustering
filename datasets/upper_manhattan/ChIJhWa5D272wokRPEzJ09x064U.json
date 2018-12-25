@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "440",
+            "short_name": "440",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7629",
+            "short_name": "7629",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">440 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7629</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "440 St Nicholas Ave, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 234-1300",
+    "geometry": {
+        "location": {
+            "lat": 40.8149561,
+            "lng": -73.9486864
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81634528029149,
+                "lng": -73.9474873197085
+            },
+            "southwest": {
+                "lat": 40.81364731970849,
+                "lng": -73.9501852802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6deb179c1361781c975cb1689b7cb93c90dc0691",
+    "international_phone_number": "+1 212-234-1300",
+    "name": "Sinergi Inc",
+    "place_id": "ChIJhWa5D272wokRPEzJ09x064U",
+    "plus_code": {
+        "compound_code": "R372+XG New York, United States",
+        "global_code": "87G8R372+XG"
+    },
+    "reference": "ChIJhWa5D272wokRPEzJ09x064U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9649935118366231612",
+    "utc_offset": -300,
+    "vicinity": "440 Saint Nicholas Avenue, New York"
+}

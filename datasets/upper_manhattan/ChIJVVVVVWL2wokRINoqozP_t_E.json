@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "PO Box 73",
+            "short_name": "PO Box 73",
+            "types": [
+                "post_box"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0073",
+            "short_name": "0073",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"post-office-box\">PO Box 73</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-0073</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "PO Box 73, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 690-4840",
+    "geometry": {
+        "location": {
+            "lat": 40.82702090000001,
+            "lng": -73.9506774
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282884802915,
+                "lng": -73.94913361970849
+            },
+            "southwest": {
+                "lat": 40.82559051970851,
+                "lng": -73.95183158029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fcb94df5ca22602becb98486d96e4efa4ff07e09",
+    "international_phone_number": "+1 212-690-4840",
+    "name": "Avocet Travel",
+    "place_id": "ChIJVVVVVWL2wokRINoqozP_t_E",
+    "reference": "ChIJVVVVVWL2wokRINoqozP_t_E",
+    "scope": "GOOGLE",
+    "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17417670681124592160",
+    "utc_offset": -300,
+    "vicinity": "New York",
+    "website": "https://avocettm.co.uk/"
+}

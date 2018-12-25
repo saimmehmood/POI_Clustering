@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "2541 Adam Clayton Powell Jr Boulevard, New York, NY 10039, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2541 Adam Clayton Powell Jr Boulevard, New York, NY 10039, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 368-0592",
+    "geometry": {
+        "location": {
+            "lat": 40.822895,
+            "lng": -73.936272
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82413633029149,
+                "lng": -73.93466601970849
+            },
+            "southwest": {
+                "lat": 40.8214383697085,
+                "lng": -73.9373639802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dde882206cdbca8939c4da5bb805da12ef1039e2",
+    "international_phone_number": "+1 212-368-0592",
+    "name": "Valerie A. Patterson, LPN",
+    "place_id": "ChIJux_SUH_2wokRFz7AbslJe8g",
+    "plus_code": {
+        "compound_code": "R3F7+5F New York, United States",
+        "global_code": "87G8R3F7+5F"
+    },
+    "reference": "ChIJux_SUH_2wokRFz7AbslJe8g",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14446221359216344599",
+    "utc_offset": -300,
+    "vicinity": "2541 Adam Clayton Powell Jr Boulevard, New York, NY 10039, New York"
+}

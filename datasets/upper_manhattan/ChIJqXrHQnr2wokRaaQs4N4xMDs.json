@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2630-2652",
+            "short_name": "2630-2652",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2630-2652 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2630-2652 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81998830000001,
+            "lng": -73.94400519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82133728029149,
+                "lng": -73.9426562197085
+            },
+            "southwest": {
+                "lat": 40.8186393197085,
+                "lng": -73.9453541802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9418020c7a6c5cf1d38685b133b6065bb9231529",
+    "name": "2630-2652 Frederick Douglass Blvd",
+    "place_id": "ChIJqXrHQnr2wokRaaQs4N4xMDs",
+    "reference": "ChIJqXrHQnr2wokRaaQs4N4xMDs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2630-2652+Frederick+Douglass+Blvd,+New+York,+NY+10030,+USA&ftid=0x89c2f67a42c77aa9:0x3b3031dee02ca469",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

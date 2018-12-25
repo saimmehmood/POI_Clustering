@@ -1,0 +1,240 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-6311",
+    "geometry": {
+        "location": {
+            "lat": 40.81573059999999,
+            "lng": -73.9453588
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171900802915,
+                "lng": -73.94392851970849
+            },
+            "southwest": {
+                "lat": 40.8144921197085,
+                "lng": -73.9466264802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+    "id": "bc0d24db15c006999798f1422eaf248d3503ccde",
+    "international_phone_number": "+1 212-690-6311",
+    "name": "New York City Police Department - 32nd Precinct",
+    "photos": [
+        {
+            "height": 430,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103338677667027585130/photos\">marie kulp</a>"
+            ],
+            "photo_reference": "CmRZAAAA2o462sX8EktwRCl0u58h5k7jk7tM8aWz_6Vair7-NMU-T7OPvmW-nZ0YXFy23E_eYK-0PrVhpCJ_KIQ0CahG5tVZhap7YvYkBGUCj5ft0ENWC22j8XqKc7PE4h67ePiZEhBmo5RAhxhm4zQBwR_LKvoaGhTwKLiK9gyW-9cidvD8Nhp9kahGDw",
+            "width": 800
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103338677667027585130/photos\">marie kulp</a>"
+            ],
+            "photo_reference": "CmRZAAAAZ_t9PkLrm2oD8PgoLX7BJcFfPBCi54JbR_b_cQu0IvjTics7OSWf447BaHfJ2E3yGaLxgFEWSSqwC48UoPc31TCN-orUxUdpP_MZ25ywb5omSmtBewv-2h6ahsBnHRl8EhDppZbS3J3mMfUzf0BgN0yxGhR5InlUlCRL8Zk7NOKQGwysILyTRQ",
+            "width": 1000
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAhT1VMeT9BSPftLVOTePY3NZjIz4Y71uuRrhZaGufEwTxMmGJRx3UaTDxxYDvGKwdhn5BWc-bViRSkrLWYn8eFlxTeT1oz89PLMMCVnJKebUclPsz93jHL8hHrqvkeSl6EhADRVFDIGOfCtV03BGDVBLaGhQEfRkLJvnDCPePeHFxmqYUBW6cyg",
+            "width": 600
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAknjUYwT5pM24pB2tqNTtxmQc3N2BT3VAtXvd-t8JV0Cub_Q_U3KTrW0Yaa7Xd06TazvAp-MR_G5Lrg6Grp_kBaPFHeMo7Wr1N1KzSP0JCO2kiNJtjKn1Fc-2Jvc9iymxEhAzka63bTIBlHA6L3bmEdDbGhRTKe-mn0MOtaZxB1nbSJDCBUj0mg",
+            "width": 360
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103338677667027585130/photos\">marie kulp</a>"
+            ],
+            "photo_reference": "CmRZAAAALL6SupeGADgqMCN1Bod9Uy3f1qquI1cbtjIyWg42BIQtDT4Ody21RrWPV3zgFeeoZWW-7jL3HOqeG0-DgrXNNpnzGHiAVeQAxR3GYiPU2bI4G3V5hfb9PwDe2JXzmRRZEhBupdStaj7p3Op73qOhtEo7GhTKIID0NvO8bWhQIC4FpjqDe6Uk4g",
+            "width": 410
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAADRRNLWF569ID5pNg4yqK9aoIkYg5NMnSGLM6fBIIBlU06KUnybLvU0uf7uzYkEkTes19snJqa1gZG6M1ObiXb09VM-l97ZkPrUqGWXVp3ICJlqE4UFcKfHngQnQ5FfJ9EhBaBrvMXUz8Ihj8kb4-2AyOGhSK16zFkUUFCz-kflBFkBeJM26VHw",
+            "width": 600
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAalohm8D0Z5P-EfV5XfOfjvmI9wiuqkQ5-yQYPreOVh_tcNGyZmf54e9YahTSuYCdtjFu5XDxdmLlBRyhfaFhOj4zS3CKLMIW2fwfZf78H5EdAK15HK0m-f9rhNiSUp7lEhCv6RpISzElExNgGNdlpHEjGhRnWZZDYldZmNw9OqwI92JZOruIdA",
+            "width": 768
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAAbAmMSXj4acXQnaChxsFzzRHLnlBIDhWImkcKoo9174IJvzhEiDcCejw-JNnevV9sNkDDEMDR5-40x8enZWMvkMtcv500dclLTLjQSdS7WDqbcJ4EsoIsKf9oht5DFV3EhCiF9i_uRJ4Gn53HCq7P-HWGhSbgqLn24XXbUqkCOZNFX9fizsxPw",
+            "width": 300
+        },
+        {
+            "height": 530,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\">Ali Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAQhhxIFZDuQx6lm6Xp9YzM54j0OCqToJ8ZvymkVN2HBQS7dsx20VjA1UMSBXc-QnoaFpWCTDebCWrg2GAGagCIJZTFamOs9E44nJRT2VaQ6_t5okxOnp4DZwO9C6ymJu_EhBU6Ub5lONnnf3DJq7YQMU4GhTktA2LgneUwMz8XsmTLAGCu-6x0Q",
+            "width": 450
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103338677667027585130/photos\">marie kulp</a>"
+            ],
+            "photo_reference": "CmRZAAAAhhn0nXBYO2mwckTi_-2sgVnJvKLGwyVy2-T9hN_hFwvpDL7b_8WTjOd6D9JC0l6ps-hx9Jo5ocyz3Xa8Ee2fNWYd6VVK1l82aAX_gqWy2Vkoaj-8hj50mtHxr_9yYZdHEhAhNst_4FXZpRac5Ev7Ua6qGhSvq-ny3ed2mM3VcsIk46aOakuLJw",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJcwi3tHH2wokRRAi0QMEdofQ",
+    "plus_code": {
+        "compound_code": "R383+7V New York, United States",
+        "global_code": "87G8R383+7V"
+    },
+    "rating": 3.2,
+    "reference": "ChIJcwi3tHH2wokRRAi0QMEdofQ",
+    "reviews": [
+        {
+            "author_name": "Cole Gaddis",
+            "author_url": "https://www.google.com/maps/contrib/107427585883378206647/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-TT-Pd8iHCss/AAAAAAAAAAI/AAAAAAAAAEM/-EVLR_TRFKg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Can any officer in this precinct help me identify who this super friendly NYPD police officer with me might be, because I might him in Times Square on July 3rd of last year, because his service and sacrifices are greatly appreciated.",
+            "time": 1536635802
+        },
+        {
+            "author_name": "Ms. Nancy Papa",
+            "author_url": "https://www.google.com/maps/contrib/108190034118022060327/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Tk9KdMBrwd0/AAAAAAAAAAI/AAAAAAAAXOI/o0ZIsYQACuY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Thanks for doing the higher good every single day! Your bravery and honor is admirable!",
+            "time": 1530965806
+        },
+        {
+            "author_name": "022 85 12 NFA",
+            "author_url": "https://www.google.com/maps/contrib/100648148451597025119/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wQet-uNQ2Ps/AAAAAAAAAAI/AAAAAAAAASQ/oxSOqBVk3To/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "PUBLIC NOTICE (A MESSAGE TO THE LANDLORD AND THE COMMUNITY): MORNING MY NAME IS MOSTAFA BADAKHSHAN ADDRESS: 2374 ACP JR. BLVD NYC, NY 10030 USA. IF THERE ARE ANY QUESTIONS AND OR COMPLAINTS BY THE COMMUNITY THAT I NEED TO BE AWARE OF .. PLEASE ADDRESS IT WITH THE NYPD. GOOD DAY! MOSTAFA BADAKHSHAN \u0645\u0635\u0637\u0641\u06cc \u0628\u062f\u062e\u0634\u0627\u0646.\nNON, JE NE PARLE PAS FRAN\u00c7AIS. NO, YO NO HABLO ESPA\u00d1OL. WHAT DO I SPEAK? I SPOKE ENGLISH FOR YOUR CONVENIENCE.",
+            "time": 1524572992
+        },
+        {
+            "author_name": "Yukari Grace Flores",
+            "author_url": "https://www.google.com/maps/contrib/101244460987283841345/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-63C--XJGGAk/AAAAAAAAAAI/AAAAAAAAABc/bbN7ZISmkCs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I Love Love Love Love Torres K.... His Career, His Voice, His Heart... His Body and his Love.... And His Faith.... Love Him\u203c\ufe0e",
+            "time": 1500529135
+        },
+        {
+            "author_name": "Bailey Ball",
+            "author_url": "https://www.google.com/maps/contrib/118139140005840170758/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-v78ILoX8xgA/AAAAAAAAAAI/AAAAAAAACpQ/kUDzZCo3GP8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "that not cool and they be like you going to jail for nothing",
+            "time": 1505488590
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "police",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17627403132356266052",
+    "utc_offset": -300,
+    "vicinity": "250 West 135th Street, New York",
+    "website": "http://www.nyc.gov/nypd"
+}

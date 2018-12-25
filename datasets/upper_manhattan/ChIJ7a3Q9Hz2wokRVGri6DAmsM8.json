@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "448-400",
+            "short_name": "448-400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">448-400 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "448-400 W 146th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8250566,
+            "lng": -73.94510079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8264055302915,
+                "lng": -73.94375186970849
+            },
+            "southwest": {
+                "lat": 40.8237075697085,
+                "lng": -73.94644983029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "54d4ba86a5442f2e34372f910d3a046c6ed4cdcb",
+    "name": "448-400 W 146th St",
+    "place_id": "ChIJ7a3Q9Hz2wokRVGri6DAmsM8",
+    "reference": "ChIJ7a3Q9Hz2wokRVGri6DAmsM8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=448-400+W+146th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67cf4d0aded:0xcfb02630e8e26a54",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

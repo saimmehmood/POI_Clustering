@@ -1,0 +1,275 @@
+{
+    "address_components": [
+        {
+            "long_name": "123",
+            "short_name": "123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">123 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "123 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 852-6918",
+    "geometry": {
+        "location": {
+            "lat": 40.814877,
+            "lng": -73.94197299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81611703029149,
+                "lng": -73.94070571970849
+            },
+            "southwest": {
+                "lat": 40.81341906970849,
+                "lng": -73.9434036802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "94ab1026c045cef1ecf899161c0e1a1f34ad735a",
+    "international_phone_number": "+1 646-852-6918",
+    "name": "Laundry Works",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 10:30 PM",
+            "Tuesday: 7:30 AM \u2013 10:30 PM",
+            "Wednesday: 7:30 AM \u2013 10:30 PM",
+            "Thursday: 7:30 AM \u2013 10:30 PM",
+            "Friday: 7:30 AM \u2013 10:30 PM",
+            "Saturday: 7:30 AM \u2013 10:30 PM",
+            "Sunday: 7:30 AM \u2013 10:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106619433317114312385/photos\">Jackies Phone</a>"
+            ],
+            "photo_reference": "CmRaAAAAYg1K4UZNPSBqMha9qXUWt0fsSbX5Jan8EeARa3E1ZMCzhJ5bkjEmR6db9i0tD6V2pjINKF1lkJetGN5P1RqQllMKk-teEuKb82IACTrOSy9rPt_8WAe-FtBx_ssUG95nEhBQfbmkzjz3z28s-H1wvmOgGhQowRvuzmnrrHxmurFKvMPWFDSZbA",
+            "width": 4032
+        },
+        {
+            "height": 2016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108277994050386640220/photos\">Laundry Works</a>"
+            ],
+            "photo_reference": "CmRaAAAAZUg_7W9UK_9zCubl2UoWrELfVm4XfwU7v9WAupLfGYMptnvxIINv0rZpHyVWLsq2NiGDhyOBCGvuTcNidfhDZ56PhsaOjJ6QW9aBT94lztygMcyfT1nIq8GY-ctTh7YzEhDv8hugT3ruWupJ7yylTYE_GhT0Dg8AlGUzQF8AEOP0WooSrknqPA",
+            "width": 1512
+        },
+        {
+            "height": 2016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108277994050386640220/photos\">Laundry Works</a>"
+            ],
+            "photo_reference": "CmRaAAAAy3ivGOXjl203pGBUrerwiH1Gw0THTR5JUpABBY9LZfhB7XjwvDTdlFzw8MfJUgWcYW2XUtUbax9kvdIICIS_Ij4Ov83T97-OiXr1C_9K0ahLMZsGywbtF5ipcRWE2QpSEhAwlneW_vkvASk7Ssso5g9wGhRFhNhwFHmxuwYxyiNG5kXxGUXnYw",
+            "width": 1512
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108277994050386640220/photos\">Laundry Works</a>"
+            ],
+            "photo_reference": "CmRaAAAAFfNQTP5yjVidrWiZCjj1teIe9N_eq5dRbdlP2g94L1xWTh_PBMKN2-ykJFwRv0An8ed88rfN7D7uVJHZQABQUVVu3wLzDazHNcSdxdxS792t045EcXed9KLe88UG9Im6EhDyZCSfmkPaQTWIsXZVyb-2GhQImhsHcYA0frfWXv7cMAmBmI26cg",
+            "width": 900
+        }
+    ],
+    "place_id": "ChIJKbHoNHH2wokRP48AL3pP3nE",
+    "plus_code": {
+        "compound_code": "R375+X6 New York, United States",
+        "global_code": "87G8R375+X6"
+    },
+    "rating": 4.4,
+    "reference": "ChIJKbHoNHH2wokRP48AL3pP3nE",
+    "reviews": [
+        {
+            "author_name": "S Styne",
+            "author_url": "https://www.google.com/maps/contrib/109751055346940034405/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Lf5kptlqiZ8/AAAAAAAAAAI/AAAAAAAAAEI/Rj7YOiaI3s8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Sam and her colleagues at Laundry works are simply the best. Sam always makes sure that every washer is always rinsed out and ready to go for the next person. I truly believe that laundry works is the best card operated laundty Mat facility in Harlem. It's worth the money!!!\ud83d\ude42\ud83d\ude42",
+            "time": 1539999102
+        },
+        {
+            "author_name": "David R Leazard",
+            "author_url": "https://www.google.com/maps/contrib/112514010309320249470/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-80Z2oSiZG-A/AAAAAAAAAAI/AAAAAAAAABw/Jm9Wra4_LuY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "New modern washing machines, and dryers,cool staff ,and all machines are operated by money cards.Plus free Wi-Fi.",
+            "time": 1542742352
+        },
+        {
+            "author_name": "Jasmine D",
+            "author_url": "https://www.google.com/maps/contrib/116314817142578353077/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FnEMshR0d7k/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbG0bBVSKdgH2sEDrpB7SK1Zb_VGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "The washing machines in this place are amazing. There are at least five laundromats closer to my house but I by pass them all and walk 4 blocks out to this place. And when their machines go out of service they don\u2019t stay that way for long. My only critiques are there is no restroom and the place is a little to small.",
+            "time": 1520952338
+        },
+        {
+            "author_name": "Elease 10",
+            "author_url": "https://www.google.com/maps/contrib/106733917991325328391/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VKtgY5UPJnw/AAAAAAAAAAI/AAAAAAAAERA/ZIG3qoxssFU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very clean and the workers are helpful and friendly",
+            "time": 1540355851
+        },
+        {
+            "author_name": "Jackies Phone",
+            "author_url": "https://www.google.com/maps/contrib/106619433317114312385/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iTU2nzap-L0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbyh9yKQ03zF7azByqISCXJ2cv3qA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Blessing!!!!! I waited too long to do laundry before having company come over... Didn't have quarters and the bank was closed, needed to do 4+ loads. Found this place on Yelp bc they do laundry cards (but you DO need cash to buy one). \n\nAwesome perk: you can \"program\" your laundry card to match your phone number, so if you leave and can't make it back for the dry cycle, they'll just call you and do it for you!\n\nMachines are $7.25/60 lbs, $5.00/30lbs, $3.00/18lbs plus $0.60 extra for soaking/extra rinse cycle. Dryers are 8 min for $0.50-$0.70 (large/xl).\n\nIt's new so nobody comes here yet and only 3 other people in here on a Saturday (!!!!) means I got 4 washers all at once. Sam, the employee working, was SO NICE and helpful, even said they can do same day wash & fold and gave me a coupon for next time. Honestly, I took a $12 cab 23 blocks up here bc of how desperate I was and it was totally, completely worth it. If you're new to NYC and think laundry is overwhelming, this place will ease your mind.",
+            "time": 1529788118
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8205082957308792639",
+    "utc_offset": -300,
+    "vicinity": "123 West 135th Street, New York"
+}

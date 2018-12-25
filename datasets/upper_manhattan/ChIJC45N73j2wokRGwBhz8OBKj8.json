@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "2313",
+            "short_name": "2313",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2313 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2313 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-2714",
+    "geometry": {
+        "location": {
+            "lat": 40.8155897,
+            "lng": -73.9430773
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169898802915,
+                "lng": -73.9418428197085
+            },
+            "southwest": {
+                "lat": 40.8142919197085,
+                "lng": -73.9445407802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "772a2857aa57d0343067f761bda38cfc7b3d8ca2",
+    "international_phone_number": "+1 212-281-2714",
+    "name": "Lemor Realty Corporation",
+    "place_id": "ChIJC45N73j2wokRGwBhz8OBKj8",
+    "plus_code": {
+        "compound_code": "R384+6Q New York, United States",
+        "global_code": "87G8R384+6Q"
+    },
+    "reference": "ChIJC45N73j2wokRGwBhz8OBKj8",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4551593051409154075",
+    "utc_offset": -300,
+    "vicinity": "2313 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "https://www.lemorrealty.com/"
+}

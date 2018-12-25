@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "356",
+            "short_name": "356",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3008",
+            "short_name": "3008",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">356 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3008</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "356 W 145th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8237539,
+            "lng": -73.9444765
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251665302915,
+                "lng": -73.94308061970848
+            },
+            "southwest": {
+                "lat": 40.8224685697085,
+                "lng": -73.94577858029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a59e2f872435c602a4857a8c728aadf3a3a3c118",
+    "name": "A & F Tobacco & Grocery",
+    "place_id": "ChIJY-Y2f3z2wokRxuC9bL8Cxzk",
+    "plus_code": {
+        "compound_code": "R3F4+G6 New York, United States",
+        "global_code": "87G8R3F4+G6"
+    },
+    "reference": "ChIJY-Y2f3z2wokRxuC9bL8Cxzk",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4163299401713705158",
+    "utc_offset": -300,
+    "vicinity": "356 West 145th Street, New York"
+}

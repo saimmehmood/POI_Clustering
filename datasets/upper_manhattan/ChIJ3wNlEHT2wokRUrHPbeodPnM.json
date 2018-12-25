@@ -1,0 +1,323 @@
+{
+    "address_components": [
+        {
+            "long_name": "Ste 1D",
+            "short_name": "Ste 1D",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Malcolm X Blvd Ste 1D</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Malcolm X Blvd Ste 1D, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 283-4800",
+    "geometry": {
+        "location": {
+            "lat": 40.812642,
+            "lng": -73.940977
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140227302915,
+                "lng": -73.9396842197085
+            },
+            "southwest": {
+                "lat": 40.8113247697085,
+                "lng": -73.9423821802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0e8a33a3230288a66c86d779b218929ccb08ac07",
+    "international_phone_number": "+1 212-283-4800",
+    "name": "Harlem Center for Aesthetic Dentistry",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1300"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 1:00 \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 11:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 1:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAE0sSAZLfmjBJOVytd3oXAddfmpWnh8T3LV2pTxACrqugyaswnqDUcIZYBomGbpJqiye5fWL2xU-JPVVAyIzgjPFzSEwKit0rt-XoTLotkmP4LA2ISLzAHLYkvemcPx9vEhAE_dNusq0hSkxp0JCzf5yoGhQYGImApWolXzkdwqfmU2c8dAqaMA",
+            "width": 547
+        },
+        {
+            "height": 565,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115436133668630222989/photos\">Dennis Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAA4OknVKoRy7mOsHvI9xs_WU62A47RDN4u0xz2pwk2PrdVCUbOJ39GPDOnGfWXM7HrRUPYk54LL3sI2fRDeHDn52KKZ4kgkq6tDPR2KBdL8eMnCs94K3vg1nK4emAQBC-3EhA61UJ7nBI0I6OjBJ4W3TcXGhRl3zVyejuxegnvfNT7b3qJoP2SRQ",
+            "width": 848
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115436133668630222989/photos\">Dennis Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAANVs6zYt_MYeO522jbAX-VcWDpWlMIKzS9X-JPxOK_DYwo5J736NJRWtYHIdiKhRqboxmNQ5wP-EbzKhkwZ08r-fPRv2FVQK_SgdvrFOaEgpgyZHhJPbXVxACw88oOlLvEhCHE8D9kN4yKlbtW_r-7-KMGhQITd47a2vqXTq-KWjS9s3TSJZ9Ew",
+            "width": 2048
+        },
+        {
+            "height": 414,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAhzc_acHB1NENs4sbvKWHYDigE-kjDwH4moTL1ot_80iPPwTqQmqSTtw1mkyRNOAnPixfHhU9FQ_PpYOHD25PPzHr0d2sdjxZZbGh4_bG6-7CPLhF-QHrLIwVx-Gw1Zh3EhDksEwPbdSde4xrSD69kqHiGhSZrKxzx7r1sOefv4PAR-juXPabyw",
+            "width": 574
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115436133668630222989/photos\">Dennis Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAAu0UpWWu1G101JuQ8aF0seJAr0YSbgpmbLMygeAXLBsXTmndZqtvdB0WoA0jqFQytFFML4b-y9YjmznOV-yipQzyWgN3Ww0qzqlcs7ThYpdTLC5DD0fhurAnuoKmnoN8XEhCGBW7SQXkQD7JDOjd2qzOyGhS4IdXL9XpAVl37QtkWPT5SEwRiZg",
+            "width": 940
+        },
+        {
+            "height": 603,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAA2vjVv6lRO3pdV9m0snOccARiRic2AkM_qoSTFMhzRg0RWdIeRkkEFagutd8x3dSNLfsC0CpyFWB4cKJ2DW8xLDyw4eAta0m1JB0sgZdeBNGVBMLDcIw1zvgA57oNKSE-EhDNVlI7e5jhog6z9VK_8NlJGhTkFomuA-MQHj-A3frFrezEjX0gSw",
+            "width": 560
+        },
+        {
+            "height": 308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAa6_bTqZdjSyW1-l_SWtNJknkONB6Grkl-DenOtGxRaxAFd5dzLUAzzh613GwpUiO6q3Wm2Jh6Z-Q2TFQt_AynfD51QxLkGdIuHRhKPRzjhwt6KqXB9O76n741wtAK8O7EhDCdFjXrfRFC14p0SDgm1eBGhRO3VFC0xu52IYKXpMxksE6HhdXSg",
+            "width": 758
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAjWkSbULNUJc944v9JjUNCIWVtGz-j36sdh_DSLF-IODtHK1qBnd6vXTrOdCNwE2HlhOEtime3ozKAFG--xp2YG-peXMedIj2i2Bwc9e492FPc9M3PKv7uj23lTFy2IemEhCUyOGZYhcl8zAwcITjpyPGGhTLUexcZ-Ez8deUXbMszpD5dChLBQ",
+            "width": 463
+        },
+        {
+            "height": 602,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106741998875840535012/photos\">Harlem Center for Aesthetic Dentistry</a>"
+            ],
+            "photo_reference": "CmRaAAAAw_up4m079R8-NlekIo5_WJtHbC5A8GmS3VXh8JD1_ODS446wobNE4Ecgt3SAaSBAd6fw0E6H9P54SvunBBZM6ej6QoBoCf7VSO_wXryoMHGYI-1wPgbalzd0671vJAvyEhCX63wv2Dpr2u2_xzmZdHGeGhTXSmoSQGrRhfhorP3-kpIZr0Wejg",
+            "width": 494
+        },
+        {
+            "height": 267,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115436133668630222989/photos\">Dennis Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAAsAiL2wMkrhL2t5j7OcPg-mdd3j8nocne5g7JgclWoTvTfJfpVVy7c7L9V3opnviLB3RtKUIxL0b-UYU0SjvQPcyiKc0mrk6e0Zjqn8c_dqxFcSN6OVEPZTyCqiwUer3KEhALUlrac3OTWLYWBLQQl4MdGhTzBKzH9JUBvHNDbgHmHQm2w5BQoQ",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJ3wNlEHT2wokRUrHPbeodPnM",
+    "plus_code": {
+        "compound_code": "R375+3J New York, United States",
+        "global_code": "87G8R375+3J"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ3wNlEHT2wokRUrHPbeodPnM",
+    "reviews": [
+        {
+            "author_name": "Happy Belly",
+            "author_url": "https://www.google.com/maps/contrib/110423172989448650870/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zDiT0UYQ8zE/AAAAAAAAAAI/AAAAAAAAAAg/mwkoCHhvqvk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best Dental office EVER! I NEVER wait longer then five mins. the doctor is amazing he took his time to explain everything. the staff are so sweet the called me after the procedure to make sure i was okey !! love them i will definitely recommend this place to everyone.",
+            "time": 1540834359
+        },
+        {
+            "author_name": "DR.guzman danny",
+            "author_url": "https://www.google.com/maps/contrib/108465067220125016744/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-68WAllqG5kg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ3KlnRMTi31XSpnc5f-Gp0DnoZ8A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "i just got a got a root canal and OMG, I thought this was going to be so scary. i did not feel not one thing. DR. is soo amazing he was so patient with me and explained every step while he was doing it",
+            "time": 1542146725
+        },
+        {
+            "author_name": "alex ali",
+            "author_url": "https://www.google.com/maps/contrib/109563674144538758996/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YxXvOuIBW8A/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcan_74dcHR0FXTvkE_Rb72QSVAqZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The best Doctor in town. i never been to a dental office where everyone cares and tries to help you.",
+            "time": 1542146147
+        },
+        {
+            "author_name": "imane a",
+            "author_url": "https://www.google.com/maps/contrib/113206220573384223009/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_-Yb5GYTQpM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYwexD7cv_vk8t8PWSXQ-QcS-Oryg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "front desk is very understanding and sweet. i love the office its clean with up to date technology plus the doctor is amazing. highly recommend this office.",
+            "time": 1536617316
+        },
+        {
+            "author_name": "Lala Sims",
+            "author_url": "https://www.google.com/maps/contrib/112043257073837331241/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CfDkMmtwMVw/AAAAAAAAAAI/AAAAAAAAIOA/xLQ5gpAQCm0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "My appointment for root canal was at 10 am or is now 11am, and I have not been called as yet. If they are overlooking appointments they need to anticipate the overlap of time and adjust schedules accordingly\n This is ridiculous\u00b0!!!!!",
+            "time": 1534950118
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8304107655619653970",
+    "utc_offset": -300,
+    "vicinity": "470 Malcolm X Boulevard Ste 1D, New York",
+    "website": "http://www.harlemdentistry.com/"
+}

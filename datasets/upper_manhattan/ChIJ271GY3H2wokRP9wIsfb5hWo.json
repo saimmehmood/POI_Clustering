@@ -1,0 +1,308 @@
+{
+    "address_components": [
+        {
+            "long_name": "171",
+            "short_name": "171",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 133rd Street",
+            "short_name": "W 133rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">171 W 133rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "171 W 133rd St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 390-1650",
+    "geometry": {
+        "location": {
+            "lat": 40.8139547,
+            "lng": -73.9440158
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8152296302915,
+                "lng": -73.9427216197085
+            },
+            "southwest": {
+                "lat": 40.8125316697085,
+                "lng": -73.9454195802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "dedfe6ad7010dc657ab41cc85b3f7da01254e05f",
+    "international_phone_number": "+1 212-390-1650",
+    "name": "Rejuvenate Juice bar",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:30 PM",
+            "Tuesday: 8:00 AM \u2013 6:30 PM",
+            "Wednesday: 8:00 AM \u2013 6:30 PM",
+            "Thursday: 8:00 AM \u2013 6:30 PM",
+            "Friday: 8:00 AM \u2013 6:30 PM",
+            "Saturday: 9:00 AM \u2013 6:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113137435206345989012/photos\">fatimate traore</a>"
+            ],
+            "photo_reference": "CmRaAAAA-poDicM2smuH_O29v-XZXEj2m3BXqBDmL33YLl1pCLmBum184StcRT7ENXg5sOhiCgW1hN3eVr1tertnIbsVAo4JbeRwnjyMyCd3m4B4LbSpL01vV7yrny3XA1JcI6kTEhCayqmN4fZmlML2f-0rvbNvGhTNRTJOp6T1Gasj_DZG669sjD4e8A",
+            "width": 5312
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAAVBcB9TXHo2AUL4owcuaZQhNI3c8fvtwhubaxyqdIGTDJLfmeQ3vHdDugz122ZlGx_9d5q2N3d2_Z4rul0t48F8act4I1Nb4tUvKgwhJwUSS0tbxU9bB-1S3rEyejYtg-EhDy1jizfcRh0Z3Kef3yLt-mGhQeNRxpMCLwS4hL0ZhbAotXubBqLQ",
+            "width": 2448
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110867873342523124707/photos\">Rinske Staal</a>"
+            ],
+            "photo_reference": "CmRaAAAAmHRqdxLvGzlPPo8DG_D8itr7ipZvQDpzini_X0nG3kHKZfjc3HnGA6J1tWy5NrS1kAt0xg1axPPsfwoekHYqeMvnTvTSDFD2-h2UeHEN-VBR5Mc8sxr84R-wk_BY3KWNEhBvVGyfmmWQSs7-bhvyQnakGhQlVL_ctMyap77gVRHdKCV0D-30tQ",
+            "width": 3024
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100710422922626788305/photos\">Tchiyuka Cornelius</a>"
+            ],
+            "photo_reference": "CmRaAAAAZUjIYJSOMoKZjZtTfo5ynqoHjrmydLQz_Kez3VFc_fpxv5c98WAk8MeevEzOg8fgLkNut_Xb4l8mxUUtTxXlRRDrFkXcDJ-M4TS7ftIxMC7kMxAxphz5GF2AHWfIiHF1EhDEqXczDRHe1mXBw2gGiIQ-GhSy2kjtyKMmaSnRgIAt1He1R24FkQ",
+            "width": 2592
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAA0SLgneqdicRyFaN01chdv4IQ4wn6vGyZ8od26Df76M4HaVwPp-zgHzGSxBbZRJeDvAA27i_Tl2bfagAn-FUGza7WIsZr6mfR0rWgQsrv0rvnIPlSaSD71KY5iQCbNC6gEhD_44GdqamQwdMbA5hj-P5IGhRU6neGPfWkFawIS7WHLJh-CyKAtw",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAAWUkAplVLi1w-_kIxLs8qs-pyItvComRt5Hx6Rj_9SAgNIXP2NnCgUdsrXc0g9A329j2bZHBzdO0MfUnQPKPtbX25opK1-NV1MTDZUNxloo2bMmijE5Rm0iyEvp9Tnpq3EhCFSD9ZmzvAeD8MqGLvLIU-GhThas4almYrBIiq2IxSXJmmcjgwww",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAAVufkP7RqThrl5xi66Dg348TmsN1MvhQ_vKT0scANoyJDPFEIEz-skO2Q9-shnJJnpsXRKe1nR3M6t5b5lxYFXZt_72rbZls-q5eOhlUlgFl4sRQ-XdIDgy4Hj7RNJtKCEhDo_7S2QDacF8eF32J2h7vtGhRPccnqCP9J9AErbhKBB1-eo0jinA",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112687896851136376092/photos\">Anna Hamilton</a>"
+            ],
+            "photo_reference": "CmRaAAAAc8Hhm0zdh7xNbzKAWHzNgUqF0cFtvNMXy_jfMIbYV0c6SJ7iav1s7cjJiDmqeT39mFpI0aKdrHbVSFdsAt9MKLwppOz_wrZnnheD16xRnPba7wt3iaM_VoXtsZ381HASEhCdknOoJXoLhr3HNPBS6V71GhR2SP3JFTBfvhceCdJfvT4_BOgdUA",
+            "width": 1836
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118073062899337669229/photos\">MoneyInDaBank MGMT &amp; Talent Agency</a>"
+            ],
+            "photo_reference": "CmRaAAAAQa58dSR83LZfeb7B1Lz6eo017vBZn9yzpDMVvW87DfZOyUA9k3q1L_igINc2IHRfu_yFOFPXn_TOvVtmJWm4GmXMyvOFYEWgqL7mL1uVdTvl1OOi105YKQk1k71uVEWlEhCxETFt1LsCqPM_4v2Hzi-rGhTV9G9CCFdmmnr3CBJ-HjHwjIKWug",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ271GY3H2wokRP9wIsfb5hWo",
+    "plus_code": {
+        "compound_code": "R374+H9 New York, United States",
+        "global_code": "87G8R374+H9"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJ271GY3H2wokRP9wIsfb5hWo",
+    "reviews": [
+        {
+            "author_name": "Brenda Meade",
+            "author_url": "https://www.google.com/maps/contrib/104629275973722073603/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Z5Jg5wZrblc/AAAAAAAAAAI/AAAAAAAAAAk/DPtqdlCuNhQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Very friendly atmosphere and great a\u00e7a\u00ed bowls. I like how creative are the combinations of base and toppings for a\u00e7a\u00ed. Staff is prompt and organized. Music was also pretty nice.",
+            "time": 1539769487
+        },
+        {
+            "author_name": "Laticia Saint Aime",
+            "author_url": "https://www.google.com/maps/contrib/118054664264130179473/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-A4zDKRYH8gg/AAAAAAAAAAI/AAAAAAAAABo/e_ZFM3aXlM8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great variety of juices and smoothies and they taste great! The prices here are very reasonable too",
+            "time": 1536884442
+        },
+        {
+            "author_name": "Vernon Sims",
+            "author_url": "https://www.google.com/maps/contrib/117268802301873114789/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JJQbYTlvx8A/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaZ0g5E1GuE53C8UUJJEeul_3aN-w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "They are always super friendly and the drinks are great Nigel the owner is always ready with a smile joke or both I highly recommend stopping by",
+            "time": 1535588025
+        },
+        {
+            "author_name": "jonathan maycock",
+            "author_url": "https://www.google.com/maps/contrib/111185829785019439182/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iYjGDduxEUk/AAAAAAAAAAI/AAAAAAAAAKg/nd0gp9gSs4Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Unbelievably delicious and healthy smoothies. I was constantly handed samples, and every one was happy.",
+            "time": 1535245333
+        },
+        {
+            "author_name": "Samuel Cresant",
+            "author_url": "https://www.google.com/maps/contrib/117386361945836013592/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JRdRJdcWgMg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZGwCcFgR2PhW6yH9TVGLsNH9sE5Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Best smoothies ever they have up to date machine's that make your smoothie just right .\nAn the cheffs take there time n make it just right for your satisfaction no regrets after seen it and believe it  .",
+            "time": 1531005789
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7675815977850297407",
+    "utc_offset": -300,
+    "vicinity": "171 West 133rd Street, New York",
+    "website": "https://rejuvenatejuicebar.wordpress.com/"
+}

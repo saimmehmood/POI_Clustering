@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.823629,
+            "lng": -73.948866
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249687802915,
+                "lng": -73.9474948697085
+            },
+            "southwest": {
+                "lat": 40.8222708197085,
+                "lng": -73.95019283029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "6fca444b9a0736c3148a95e77512afd3d4dbd88e",
+    "name": "Amsterdam Av/W 143 St",
+    "place_id": "ChIJUYewvGT2wokRoCciCPNSTjM",
+    "plus_code": {
+        "compound_code": "R3F2+FF New York, United States",
+        "global_code": "87G8R3F2+FF"
+    },
+    "rating": 5,
+    "reference": "ChIJUYewvGT2wokRoCciCPNSTjM",
+    "reviews": [
+        {
+            "author_name": "ernest crump",
+            "author_url": "https://www.google.com/maps/contrib/107496408733679753463/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-vD6-72d1hk4/AAAAAAAAAAI/AAAAAAAAAlE/L4733wdof9o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It's works real good ",
+            "time": 1487602480
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3696983547884742560",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

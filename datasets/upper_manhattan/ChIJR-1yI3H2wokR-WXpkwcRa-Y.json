@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2313",
+            "short_name": "2313",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2642",
+            "short_name": "2642",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2313 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2642</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2313 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 707-3140",
+    "geometry": {
+        "location": {
+            "lat": 40.81559679999999,
+            "lng": -73.9430847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169948302915,
+                "lng": -73.94184541970849
+            },
+            "southwest": {
+                "lat": 40.8142968697085,
+                "lng": -73.94454338029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0e27235c40baea4426f306927093a99ff40952b1",
+    "international_phone_number": "+1 646-707-3140",
+    "name": "Peter H Bernard Law Offices",
+    "place_id": "ChIJR-1yI3H2wokR-WXpkwcRa-Y",
+    "plus_code": {
+        "compound_code": "R384+6Q New York, United States",
+        "global_code": "87G8R384+6Q"
+    },
+    "reference": "ChIJR-1yI3H2wokR-WXpkwcRa-Y",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16603383175475455481",
+    "utc_offset": -300,
+    "vicinity": "2313 Adam Clayton Powell Junior Boulevard, New York"
+}

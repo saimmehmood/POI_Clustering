@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "419",
+            "short_name": "419",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">419 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "419 W 141st St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-4615",
+    "geometry": {
+        "location": {
+            "lat": 40.8217518,
+            "lng": -73.9467626
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8230264802915,
+                "lng": -73.9454676197085
+            },
+            "southwest": {
+                "lat": 40.8203285197085,
+                "lng": -73.9481655802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "dba89789d0efed8ba69b79855877b19a5834b2e4",
+    "international_phone_number": "+1 212-283-4615",
+    "name": "Manhattanville School for Tailoring and Fashion Arts",
+    "place_id": "ChIJAQDtJnv2wokRuwdnCqGJ1ic",
+    "plus_code": {
+        "compound_code": "R3C3+P7 New York, United States",
+        "global_code": "87G8R3C3+P7"
+    },
+    "reference": "ChIJAQDtJnv2wokRuwdnCqGJ1ic",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2870633137252534203",
+    "utc_offset": -300,
+    "vicinity": "419 West 141st Street, New York",
+    "website": "http://www.manhattanvilletailors.com/contact.html"
+}

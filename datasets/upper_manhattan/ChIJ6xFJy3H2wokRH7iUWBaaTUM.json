@@ -1,0 +1,263 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2715",
+            "short_name": "2715",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "2nd fl,, <span class=\"street-address\">301 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2715</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2nd fl,, 301 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(872) 222-9484",
+    "geometry": {
+        "location": {
+            "lat": 40.81680300000001,
+            "lng": -73.9467707
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180777802915,
+                "lng": -73.9454760697085
+            },
+            "southwest": {
+                "lat": 40.8153798197085,
+                "lng": -73.94817403029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7034eedfc63ce1c6cb58397d3a9f5ed96974ccd3",
+    "international_phone_number": "+1 872-222-9484",
+    "name": "Work Hard Train Harder Fitness Center",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 8:30 PM",
+            "Tuesday: 6:00 AM \u2013 8:30 PM",
+            "Wednesday: 6:00 AM \u2013 8:30 PM",
+            "Thursday: 6:00 AM \u2013 8:30 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116529892956848336895/photos\">Ofunneamaka O</a>"
+            ],
+            "photo_reference": "CmRaAAAAKKNkycdTE9blwzgfpLm0W4i7mPuoRmorGeI6Y8rhsGuXXNBQftAFXA007mr98Tr6Vzt9V3oqpJc3bwqfuHQCHFeOO3AAjgqHpnNnDQyUaEPPgvk8eEyhnHI1s0Sw9j2jEhDBmlrfRdJe_EzMzol2Lc7DGhSoMJySmb4vinjKF4hT656LgpMB2A",
+            "width": 3000
+        },
+        {
+            "height": 5333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116529892956848336895/photos\">Ofunneamaka O</a>"
+            ],
+            "photo_reference": "CmRaAAAA5q-Gr2JGWBrOxmaO9AnBLzzKNcniy1YAkYAgeZTy3wJeencVcdpyKuu-KcrxoMq5vGrAldbzK7VHnyMaDUj4fqiOkOJjA10QdB92rF_6IuGxbOZQAbuetKHKcyDrWtUQEhBOAoL6JtlH4HJczCtqymOxGhQ1119CIm6Fr6BJ_JaxLNeH8aFQcg",
+            "width": 3000
+        },
+        {
+            "height": 5333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116529892956848336895/photos\">Ofunneamaka O</a>"
+            ],
+            "photo_reference": "CmRaAAAAoWfsUDLZWPoRljQyhd80G09b7N9K_Qwd3VzDJsQmknGUqc55aNRB1lwDP0JvmUBzn4l5P4Aa7d3o-TTcm2XpIxA-5XP9YR0jHdhgKJbNtQWQtW3wAfGpPZyeZTLJOeIXEhCd6vXtIQ_OYyo3oGjXPxzjGhQWhaKFbRZV0a40GjacEgk0pA8AeQ",
+            "width": 3000
+        }
+    ],
+    "place_id": "ChIJ6xFJy3H2wokRH7iUWBaaTUM",
+    "plus_code": {
+        "compound_code": "R383+P7 New York, United States",
+        "global_code": "87G8R383+P7"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6xFJy3H2wokRH7iUWBaaTUM",
+    "reviews": [
+        {
+            "author_name": "Ofunneamaka O",
+            "author_url": "https://www.google.com/maps/contrib/116529892956848336895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zJ7Jti6-Umg/AAAAAAAAAAI/AAAAAAAAglA/YzAIhODyvrU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "What can I say about the WHTH family. PJ and the rest of the staff are truly wonderful individuals to be around. The skills that each member brings to the table is amazing. I started their early morning boot camp in September because of a Groupon special they were having and have not looked back since. I'm seeing definition I never thought I would see. They push hard. But it is worth it. Summer 2018, here I come. Lol. You will not be disappointed joining this place.",
+            "time": 1507176127
+        },
+        {
+            "author_name": "Kimberly Guzman",
+            "author_url": "https://www.google.com/maps/contrib/113620691772947229620/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-O0vFTJUolK8/AAAAAAAAAAI/AAAAAAAAElg/vn7eK-ivft8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Love this gym. The trainers there really care about your progress.",
+            "time": 1508630236
+        },
+        {
+            "author_name": "Richard McLymont",
+            "author_url": "https://www.google.com/maps/contrib/105171881123243146104/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DWA6SVXReSg/AAAAAAAAAAI/AAAAAAAAEHk/AvVz12GPIH0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great staff. Hard working, passionate  and dedicated trainers. Great programs and classes. Clean space and great equipment.",
+            "time": 1489758426
+        },
+        {
+            "author_name": "Shan Johnson",
+            "author_url": "https://www.google.com/maps/contrib/109179137288836128044/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HA-aL0etFk8/AAAAAAAAAAI/AAAAAAAAM80/hY2SrpN1USg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "",
+            "time": 1543715549
+        },
+        {
+            "author_name": "cooltolaughbros",
+            "author_url": "https://www.google.com/maps/contrib/100253327147322028385/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0i41UPxD18g/AAAAAAAAAAI/AAAAAAAAAQY/NDPfvLBVkR4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1528932696
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4849701794513991711",
+    "utc_offset": -300,
+    "vicinity": "2nd fl,, 301 West 135th Street, New York",
+    "website": "http://workhardtrainharder.com/"
+}

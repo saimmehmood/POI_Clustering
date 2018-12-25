@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "1750",
+            "short_name": "1750",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1750 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1750 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 927-8611",
+    "geometry": {
+        "location": {
+            "lat": 40.8264766,
+            "lng": -73.94745759999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8277064802915,
+                "lng": -73.94582016970848
+            },
+            "southwest": {
+                "lat": 40.8250085197085,
+                "lng": -73.9485181302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "e2a61f2bbcf4aefb652682cf82e35e73541115c5",
+    "international_phone_number": "+1 212-927-8611",
+    "name": "Adam Clayton Powell Jr. Elementary School",
+    "place_id": "ChIJ8WDA1Xz2wokREFFZVzYaPsA",
+    "plus_code": {
+        "compound_code": "R3G3+H2 New York, United States",
+        "global_code": "87G8R3G3+H2"
+    },
+    "reference": "ChIJ8WDA1Xz2wokREFFZVzYaPsA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13852538324534251792",
+    "utc_offset": -300,
+    "vicinity": "1750 Amsterdam Avenue, New York",
+    "website": "http://ps153.org/"
+}

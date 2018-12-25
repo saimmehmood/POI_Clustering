@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "244",
+            "short_name": "244",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">244 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "244 5th Ave, New York, NY 10001, USA",
+    "formatted_phone_number": "(646) 596-4211",
+    "geometry": {
+        "location": {
+            "lat": 40.8279608,
+            "lng": -73.9490201
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8293404302915,
+                "lng": -73.94774291970849
+            },
+            "southwest": {
+                "lat": 40.8266424697085,
+                "lng": -73.9504408802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "097c2bb5ea11d7cc5a202f9834afc219396481e1",
+    "international_phone_number": "+1 646-596-4211",
+    "name": "Jorge Nowell",
+    "place_id": "ChIJR1dZFaZZwokRmyC3JXkrmxI",
+    "plus_code": {
+        "compound_code": "R3H2+59 New York, United States",
+        "global_code": "87G8R3H2+59"
+    },
+    "reference": "ChIJR1dZFaZZwokRmyC3JXkrmxI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1340713113396650139",
+    "utc_offset": -300,
+    "vicinity": "244 5th Avenue, New York",
+    "website": "http://usingwaterasfuel.blogspot.com/"
+}

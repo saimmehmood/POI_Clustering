@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "2879-2851",
+            "short_name": "2879-2851",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2147",
+            "short_name": "2147",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2879-2851 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-2147</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2879-2851 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8275683,
+            "lng": -73.9384656
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8289172302915,
+                "lng": -73.9371165697085
+            },
+            "southwest": {
+                "lat": 40.8262192697085,
+                "lng": -73.9398145302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "2cb66c0c808a3415b254b6ea4d824675ab018f98",
+    "name": "2879-2851 Frederick Douglass Blvd",
+    "place_id": "ChIJEy-N1n_2wokRw6Q_HEYhyCI",
+    "reference": "ChIJEy-N1n_2wokRw6Q_HEYhyCI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2879-2851+Frederick+Douglass+Blvd,+New+York,+NY+10039,+USA&ftid=0x89c2f67fd68d2f13:0x22c821461c3fa4c3",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

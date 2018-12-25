@@ -1,0 +1,270 @@
+{
+    "address_components": [
+        {
+            "long_name": "2730",
+            "short_name": "2730",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2730 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2730 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-6835",
+    "geometry": {
+        "location": {
+            "lat": 40.82303290000001,
+            "lng": -73.94154759999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82441783029151,
+                "lng": -73.94028591970849
+            },
+            "southwest": {
+                "lat": 40.82171986970851,
+                "lng": -73.94298388029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fc338fce44cfbbe613028f679ba60c50841a517c",
+    "international_phone_number": "+1 212-234-6835",
+    "name": "T-Mobile",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112355812267657416102/photos\">Corey Alexander</a>"
+            ],
+            "photo_reference": "CmRaAAAAcDWMuhyRGAXsniM9LrF0xDMDz18nRhNMHusmv4I_AujQcimqcYV5JAmb50zNgcECOQZnxotA0VwcWtUusdXsYv9spJCRahRUzdmRmgEYIo0FMMcj3uv6k0DB8Rr0rrLeEhAX2igiP_Mq4E26j4xGJ5biGhQHNpWF7ptqTsTcl8YP3_dQ38cphA",
+            "width": 4032
+        },
+        {
+            "height": 674,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101219046991984780544/photos\">T-Mobile</a>"
+            ],
+            "photo_reference": "CmRaAAAA8oJixDXeeOXCg6Mq17evTSBJLO2wD5ATWyyvyGrvruuiKx8fLSqipPVzxvnr2BT7yOAha5P5hlXReq8Apvj_qxanZEhQ65D26JWtHqq49REr47lm7BuvU-hdfrvYXBE3EhDet6PbmHySHgMRR9KrkmLPGhR5BeiAPSG5VosXoYyemmLlUzCNqg",
+            "width": 1200
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101219046991984780544/photos\">T-Mobile</a>"
+            ],
+            "photo_reference": "CmRaAAAAQMoghqg7akrUgJXPx-dgaajkWMTiZlM6RzNu7GR8msHv50RL1yEt-MUF2Go4NqI3IpoyqpjIqXk7qyf8iYsAxTT-sseDA80wmOAe0w0tuQcu5F-e8srQrwh1m0gaHMDnEhD2QwMVpVJZ45YkYqXGSVwQGhQikY8qrmZwfmBogOd84inW1LKVgw",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJxSpLUXn2wokRef_7Dpb7ZK4",
+    "plus_code": {
+        "compound_code": "R3F5+69 New York, United States",
+        "global_code": "87G8R3F5+69"
+    },
+    "price_level": 2,
+    "rating": 2.4,
+    "reference": "ChIJxSpLUXn2wokRef_7Dpb7ZK4",
+    "reviews": [
+        {
+            "author_name": "Peiwen Lee",
+            "author_url": "https://www.google.com/maps/contrib/113929201690815478929/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-IgrazBySoEo/AAAAAAAAAAI/AAAAAAAAAZQ/_rRV28Dx3Lc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Service was actually pleasant but you have to know what you want before stepping in \u2014 both times staff tried to sell a more expensive plan by giving false information.  Beware!!!",
+            "time": 1522290125
+        },
+        {
+            "author_name": "Imani",
+            "author_url": "https://www.google.com/maps/contrib/103602910852135566895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FFNQdwemAK0/AAAAAAAAAAI/AAAAAAAAAq8/A3ZgriuQkgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I recently purchased my first iPhone around mid February this year (iPhone 6s plus rose gold) and the service and help was AMAZING!!! Super willing to thoroughly walk me through the process from setting up my own line to paying off this gorgeous case and screen protector that I purchased. The lady who helped me even put together my screen protector and my case for me!!! Loved it will always be my #1 spot for as long as I have a T-Mobile line!!",
+            "time": 1502828213
+        },
+        {
+            "author_name": "Geury Ramos",
+            "author_url": "https://www.google.com/maps/contrib/107676948164622455321/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6rWpTjXp0QI/AAAAAAAAAAI/AAAAAAAAUPI/JXdrTYRDnmc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Please avoid this store. Horrible service, very rude an unprofessional workers.\n\n When the iPhone 8 plus first came out all T-mobile stores were short on stock. I went to around 9 stores in the Bronx and Manhattan looking for the iPhone 8 Plus until I finally found this store that had plenty of this devices on stock. I told them I wanted an iPhone 8 Plus and the guy told me he couldn\u2019t sell me the device because it was only for customer who are opening a new line. I explained to them that I lost my cell phone and I need one badly and they still refused. Then I told them I would open another line to my plan and they still refused to sell me the device because they expeculated that I would cancel the new line. I was without a phone for three days thanks to these greedy people. \n\nVery bad customer service!\nDon\u2019t go here!",
+            "time": 1509595012
+        },
+        {
+            "author_name": "Clever Comics",
+            "author_url": "https://www.google.com/maps/contrib/108452591185662631735/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LcfOcsgyG1Q/AAAAAAAAAAI/AAAAAAAAZPo/7pL5j5NWL98/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "I will say that when I came here with my girlfriend yesterday, the associate here did an effective job at satisfying our basic needs. The only issue is that the associate was not inviting or attentive. (I don't want to reveal his/her name) but yesterday on July 18th around 5:00 my girlfriend and I went to an this location to activate a phone the associate did his/her job but she said \"this is the worst phone ever why would you want this?\" We were switching from virgin mobile to T mobile.\n1. The associate was not helpful in helping us retrieve our account number (I've been to locations where T mobile associates actually help us with that. When we told him/her we don't know our account number the associate rudely said \"well um you just gonna have to call virgin mobile and go get that\"\n2. When we greeted this associate and said goodbye after our needs were met the associate just ignored us and we were on our way. \n3. I will say that there was another associate there was friendly but this associate was not directly helping us this associate was on lunch break but still was more positive than the associate helping us.\nIn conclusion we went to this location because it's the closest to our home but in the future I think its worth a trip to go to another t mobile location where associates are respectful.",
+            "time": 1500482352
+        },
+        {
+            "author_name": "Iam BigBlood",
+            "author_url": "https://www.google.com/maps/contrib/101922722633514843892/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8uRy1ATN9fY/AAAAAAAAAAI/AAAAAAAAKMY/TWus8lB3FYw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Disgusting Customer Service.\nAlso a rep Left my phones I traded in on the bill because I complained about his attitude to the supervisor who did nothing but defend his actions",
+            "time": 1521605777
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12566445482185588601",
+    "utc_offset": -300,
+    "vicinity": "2730 Frederick Douglass Boulevard, New York",
+    "website": "https://www.t-mobile.com/store-locator/ny/new-york/frederick-douglass-blvd-145th-st"
+}

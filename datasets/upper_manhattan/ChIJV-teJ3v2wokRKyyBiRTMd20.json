@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "401-433",
+            "short_name": "401-433",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401-433 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "401-433 W 141st St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8215373,
+            "lng": -73.9467122
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8228862802915,
+                "lng": -73.9453632697085
+            },
+            "southwest": {
+                "lat": 40.8201883197085,
+                "lng": -73.9480612302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bbe5baebeaac0857cd0d9230ea6697392d0d87af",
+    "name": "401-433 W 141st St",
+    "place_id": "ChIJV-teJ3v2wokRKyyBiRTMd20",
+    "reference": "ChIJV-teJ3v2wokRKyyBiRTMd20",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=401-433+W+141st+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67b275eeb57:0x6d77cc1489812c2b",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "680-690",
+            "short_name": "680-690",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1000",
+            "short_name": "1000",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">680-690 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1000</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "680-690 St Nicholas Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8238867,
+            "lng": -73.9448656
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8252323302915,
+                "lng": -73.94350641970848
+            },
+            "southwest": {
+                "lat": 40.8225343697085,
+                "lng": -73.9462043802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f11e3674206d974a436a338f5f5359ae5faa6b3c",
+    "name": "680-690 St Nicholas Ave",
+    "place_id": "ChIJUcuBgHz2wokR3qc4pG_37Nw",
+    "reference": "ChIJUcuBgHz2wokR3qc4pG_37Nw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=680-690+St+Nicholas+Ave,+New+York,+NY+10030,+USA&ftid=0x89c2f67c8081cb51:0xdcecf76fa438a7de",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

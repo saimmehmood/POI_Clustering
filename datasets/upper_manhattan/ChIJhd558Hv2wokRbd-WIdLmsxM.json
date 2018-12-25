@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 360-4780",
+    "geometry": {
+        "location": {
+            "lat": 40.8227447,
+            "lng": -73.9426178
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242415802915,
+                "lng": -73.94115406970849
+            },
+            "southwest": {
+                "lat": 40.8215436197085,
+                "lng": -73.9438520302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0bd3be658aee0b9e58f94a46f0ac84d4fdf0c21c",
+    "international_phone_number": "+1 212-360-4780",
+    "name": "Western Union",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114044040300251375058/photos\">Western Union</a>"
+            ],
+            "photo_reference": "CmRaAAAAX3_2Y8ucVqyIWFP_CXXNacXTwXCHgUEafp_XHBUWXFKX5B2oOiTV-cHzQdg2S1fv7YOJs2ZoiPIobZaQObPvTkBNAJHtN0icMuZfWCrlO98w2-BllrRrkJ-AqMb9ESXpEhALSRP_8ZEWaqJjAJCygqULGhTwqwfn-2TXFwY867l4FwWBOmaJgw",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJhd558Hv2wokRbd-WIdLmsxM",
+    "plus_code": {
+        "compound_code": "R3F4+3X New York, United States",
+        "global_code": "87G8R3F4+3X"
+    },
+    "reference": "ChIJhd558Hv2wokRbd-WIdLmsxM",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1419732097732894573",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York",
+    "website": "http://locations.westernunion.com/us/ny/new-york/b4eae70321f3cc1a10edf124392ddd56?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib"
+}

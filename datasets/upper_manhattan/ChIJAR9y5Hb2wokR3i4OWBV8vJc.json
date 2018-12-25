@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "530",
+            "short_name": "530",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">530 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "530 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-8005",
+    "geometry": {
+        "location": {
+            "lat": 40.815008,
+            "lng": -73.9397809
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8164074302915,
+                "lng": -73.9385589697085
+            },
+            "southwest": {
+                "lat": 40.81370946970851,
+                "lng": -73.9412569302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fcd1f304aa77f4837ca192e950d9bc79da518d72",
+    "international_phone_number": "+1 212-939-8005",
+    "name": "Dr. Beatriz Lourdes B. Marfori, MD",
+    "place_id": "ChIJAR9y5Hb2wokR3i4OWBV8vJc",
+    "plus_code": {
+        "compound_code": "R386+23 New York, United States",
+        "global_code": "87G8R386+23"
+    },
+    "reference": "ChIJAR9y5Hb2wokR3i4OWBV8vJc",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10933750426462203614",
+    "utc_offset": -300,
+    "vicinity": "530 Malcolm X Boulevard, New York"
+}

@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "506 Malcolm X Boulevard, New York, NY 10037, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "506 Malcolm X Boulevard, New York, NY 10037, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-3620",
+    "geometry": {
+        "location": {
+            "lat": 40.8142287,
+            "lng": -73.9396101
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8156541802915,
+                "lng": -73.93815831970849
+            },
+            "southwest": {
+                "lat": 40.8129562197085,
+                "lng": -73.9408562802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a039fed0666417229bc3ddbfa1d1b9ac791416d",
+    "international_phone_number": "+1 212-939-3620",
+    "name": "Dr. Helen S. Richards, MD",
+    "place_id": "ChIJ2TuL6Xb2wokR5vsXapgA-vs",
+    "plus_code": {
+        "compound_code": "R376+M5 New York, United States",
+        "global_code": "87G8R376+M5"
+    },
+    "reference": "ChIJ2TuL6Xb2wokR5vsXapgA-vs",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18156825502312561638",
+    "utc_offset": -300,
+    "vicinity": "506 Malcolm X Boulevard, New York, NY 10037, New York"
+}

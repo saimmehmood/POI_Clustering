@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "2777 West",
+            "short_name": "2777 West",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2777 West Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2777 West Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-7444",
+    "geometry": {
+        "location": {
+            "lat": 40.8245528,
+            "lng": -73.94105669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82583873029149,
+                "lng": -73.93955821970849
+            },
+            "southwest": {
+                "lat": 40.8231407697085,
+                "lng": -73.9422561802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9615d20373664667892b268915a949dc984e0f91",
+    "international_phone_number": "+1 212-234-7444",
+    "name": "A2Z Hardware",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 7:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 7:00 PM",
+            "Thursday: 8:00 AM \u2013 7:00 PM",
+            "Friday: 8:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJl8h71XL3wokRLfZw2YQ8aHA",
+    "plus_code": {
+        "compound_code": "R3F5+RH New York, United States",
+        "global_code": "87G8R3F5+RH"
+    },
+    "rating": 1,
+    "reference": "ChIJl8h71XL3wokRLfZw2YQ8aHA",
+    "reviews": [
+        {
+            "author_name": "Mark Canavera",
+            "author_url": "https://www.google.com/maps/contrib/100011947487396056803/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sNNJEYhVuyc/AAAAAAAAAAI/AAAAAAAAFgI/_5C1jiKrdN0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "I'm done patronizing a store that has little selection, high prices, misguided customer service (the store is always right, even when it's not), and an unacceptable return policy.",
+            "time": 1543701566
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8099790471107245613",
+    "utc_offset": -300,
+    "vicinity": "2777 West Frederick Douglass Boulevard, New York"
+}

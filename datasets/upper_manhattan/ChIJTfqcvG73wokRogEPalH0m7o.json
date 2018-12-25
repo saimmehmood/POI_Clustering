@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "454",
+            "short_name": "454",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">454 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "454 St Nicholas Ave, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81539739999999,
+            "lng": -73.9484961
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8167846302915,
+                "lng": -73.94728971970848
+            },
+            "southwest": {
+                "lat": 40.8140866697085,
+                "lng": -73.94998768029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6ffea00cb248b5a00c1a9ef31e76f6b2c48607d3",
+    "name": "The Less Ter",
+    "place_id": "ChIJTfqcvG73wokRogEPalH0m7o",
+    "plus_code": {
+        "compound_code": "R382+5J New York, United States",
+        "global_code": "87G8R382+5J"
+    },
+    "reference": "ChIJTfqcvG73wokRogEPalH0m7o",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13446609742953644450",
+    "utc_offset": -300,
+    "vicinity": "454 Saint Nicholas Avenue, New York"
+}

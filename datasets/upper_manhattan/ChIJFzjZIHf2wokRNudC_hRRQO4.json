@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "113",
+            "short_name": "113",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">113 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "113 W 137th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.815872,
+            "lng": -73.9406924
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171738802915,
+                "lng": -73.9393782697085
+            },
+            "southwest": {
+                "lat": 40.8144759197085,
+                "lng": -73.9420762302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ef34d558cfe1fefa48158e5b836a263322127e5e",
+    "name": "The Belle",
+    "place_id": "ChIJFzjZIHf2wokRNudC_hRRQO4",
+    "plus_code": {
+        "compound_code": "R385+8P New York, United States",
+        "global_code": "87G8R385+8P"
+    },
+    "reference": "ChIJFzjZIHf2wokRNudC_hRRQO4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17167810930143323958",
+    "utc_offset": -300,
+    "vicinity": "113 West 137th Street, New York"
+}

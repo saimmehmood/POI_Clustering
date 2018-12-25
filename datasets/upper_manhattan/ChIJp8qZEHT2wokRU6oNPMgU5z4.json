@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1d",
+            "short_name": "1d",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Malcolm X Blvd #1d</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Malcolm X Blvd #1d, New York, NY 10037, USA",
+    "formatted_phone_number": "(646) 663-1133",
+    "geometry": {
+        "location": {
+            "lat": 40.8126384,
+            "lng": -73.9408617
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140238302915,
+                "lng": -73.9396236697085
+            },
+            "southwest": {
+                "lat": 40.8113258697085,
+                "lng": -73.94232163029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d8661478a6d84031223e3c25c6a2e00099b8de2a",
+    "international_phone_number": "+1 646-663-1133",
+    "name": "For Invisalign",
+    "place_id": "ChIJp8qZEHT2wokRU6oNPMgU5z4",
+    "plus_code": {
+        "compound_code": "R375+3M New York, United States",
+        "global_code": "87G8R375+3M"
+    },
+    "reference": "ChIJp8qZEHT2wokRU6oNPMgU5z4",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4532614400205236819",
+    "utc_offset": -300,
+    "vicinity": "470 Malcolm X Boulevard #1d, New York"
+}

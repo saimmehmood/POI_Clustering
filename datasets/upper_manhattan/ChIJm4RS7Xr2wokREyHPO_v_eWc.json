@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "116",
+            "short_name": "116",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1999",
+            "short_name": "1999",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">116 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1999</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "116 Edgecombe Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-1658",
+    "geometry": {
+        "location": {
+            "lat": 40.82000780000001,
+            "lng": -73.9454736
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8214094302915,
+                "lng": -73.94425141970848
+            },
+            "southwest": {
+                "lat": 40.8187114697085,
+                "lng": -73.9469493802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "ff0c175d08966a73acdfe87f7fc4544660f0e446",
+    "international_phone_number": "+1 212-281-1658",
+    "name": "Mt Calvary Methodist Church",
+    "photos": [
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104001420166455120741/photos\">Jon Gelb</a>"
+            ],
+            "photo_reference": "CmRaAAAAaVmNORqT6PxJwcjGNxFMXWbFlyAmzU52l5YeVGjH1aY6w7ldxb4g6jqX1ab01yVX8y80Z9XRVEVL9h-IiNXVg9xNeA_6hveAd8q_eiaCf4jTbcNZA8M4ADiOkzabte3xEhAmpQd-pvGoHDHXku-5HkhiGhQAY4W8XLPjFtFvf9akjJuLGtEgkg",
+            "width": 3456
+        },
+        {
+            "height": 3568,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115649449634943469330/photos\">Adri\u00e1n RP</a>"
+            ],
+            "photo_reference": "CmRaAAAA0tauNaa3M5f57D35aMNVNTNKN5CdqFXMT-UxEWyMMbLGqN1weai6K6vhZEQrcneyzzStcfqzjs5zXLQLkfoRSaqXJ8LMwbLF1frXTWCwwZYAizg4Gbh7kFKuzgg2yh8TEhA9Lo61IxRn4Zx6JPjKs3ZVGhQukT-toieNcMhtLf7mdgwOS0QRow",
+            "width": 2566
+        }
+    ],
+    "place_id": "ChIJm4RS7Xr2wokREyHPO_v_eWc",
+    "plus_code": {
+        "compound_code": "R3C3+2R New York, United States",
+        "global_code": "87G8R3C3+2R"
+    },
+    "reference": "ChIJm4RS7Xr2wokREyHPO_v_eWc",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7456272112593871123",
+    "utc_offset": -300,
+    "vicinity": "116 Edgecombe Avenue, New York"
+}

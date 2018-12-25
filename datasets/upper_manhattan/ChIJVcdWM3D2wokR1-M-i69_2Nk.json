@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.816605,
+            "lng": -73.94665499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8179485802915,
+                "lng": -73.9453096697085
+            },
+            "southwest": {
+                "lat": 40.8152506197085,
+                "lng": -73.9480076302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "05f8b259166952c7ec7a3b39dc2e3fa30fb81bdc",
+    "name": "W 135 St/Fred Douglass Blvd",
+    "place_id": "ChIJVcdWM3D2wokR1-M-i69_2Nk",
+    "plus_code": {
+        "compound_code": "R383+J8 New York, United States",
+        "global_code": "87G8R383+J8"
+    },
+    "rating": 3,
+    "reference": "ChIJVcdWM3D2wokR1-M-i69_2Nk",
+    "reviews": [
+        {
+            "author_name": "Christian Cajas",
+            "author_url": "https://www.google.com/maps/contrib/100134555671813217420/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-u6rscvk2NdQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYDED-8pqAPCMDOEXfoMh6I-Ph-9A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1499398209
+        },
+        {
+            "author_name": "Shakim Lebeau",
+            "author_url": "https://www.google.com/maps/contrib/108396431717218698091/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-v68fu6t7ULw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY8BjmvJbpe0fu6NN2KzjRZQ3roLg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1497089277
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15697436893132022743",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

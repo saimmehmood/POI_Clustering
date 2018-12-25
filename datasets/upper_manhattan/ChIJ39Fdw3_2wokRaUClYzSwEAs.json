@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "255",
+            "short_name": "255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 152nd Street",
+            "short_name": "W 152nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">255 W 152nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "255 W 152nd St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8269783,
+            "lng": -73.9377718
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282838802915,
+                "lng": -73.93645456970849
+            },
+            "southwest": {
+                "lat": 40.8255859197085,
+                "lng": -73.93915253029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7112ffd9af8272bea41aae224d3f3946ba00c1de",
+    "name": "D'felicia's Beauty Salon",
+    "place_id": "ChIJ39Fdw3_2wokRaUClYzSwEAs",
+    "plus_code": {
+        "compound_code": "R3G6+QV New York, United States",
+        "global_code": "87G8R3G6+QV"
+    },
+    "rating": 5,
+    "reference": "ChIJ39Fdw3_2wokRaUClYzSwEAs",
+    "reviews": [
+        {
+            "author_name": "Lakeisha Perryman",
+            "author_url": "https://www.google.com/maps/contrib/108334436803249913006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2hw2iSJJTcA/AAAAAAAAAAI/AAAAAAAAA_Q/r99L722ZHak/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I love coming here. They do an excellent job on your hair and they\u2019re very affordable.",
+            "time": 1526761059
+        },
+        {
+            "author_name": "Tiffany Evans",
+            "author_url": "https://www.google.com/maps/contrib/108045518270418343827/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-LLcuCiBB-6U/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYlnOa7uhBM3YAV1_FXwAn_OAA0Ww/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1528412218
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=797330873101140073",
+    "utc_offset": -300,
+    "vicinity": "255 West 152nd Street, New York"
+}

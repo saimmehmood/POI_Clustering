@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 457-1087",
+    "geometry": {
+        "location": {
+            "lat": 40.8229863,
+            "lng": -73.94278059999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8244202302915,
+                "lng": -73.94136571970849
+            },
+            "southwest": {
+                "lat": 40.8217222697085,
+                "lng": -73.9440636802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "772fdb316eeafac88ffd7d7a4d28afa14fb9e946",
+    "international_phone_number": "+1 212-457-1087",
+    "name": "The Young Designers Club",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110389815266675050375/photos\">The Young Designers Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAUdq-XGPJ5Vxm1Ml1Pj3C_6faInintug-yCpQMeiaR19g2GnyGiVMp4zt1JkFIh0fXtHj2hrRJuVgscW3P6R3HIaNiqyJW3vZLHtU3TroKCpU8s08v1o7sywomFDUmPEHEhCjA608S9FHYWatxKW_mPbFGhT08eWn53qZCoue71vu9XnoJ2afNQ",
+            "width": 250
+        },
+        {
+            "height": 567,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110389815266675050375/photos\">The Young Designers Club</a>"
+            ],
+            "photo_reference": "CmRaAAAA93-BYfGKemPkLTEnD9pKV5E2yqDiDkZGcb_ZxSsB_AVf9u1T9vdvCVkoGvTdJ0FSJJg6spQgpKW6lTIodXDMv6juHWecHD5ROtWR1aHxXNMxEpCH94TRh1Ye3F7MaTTsEhCib6BtMw2RsVHyF8yrdw6LGhTsDRXEg7HqtosITymXcXENbxlxwA",
+            "width": 567
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110389815266675050375/photos\">The Young Designers Club</a>"
+            ],
+            "photo_reference": "CmRaAAAABsLmNxVR3W1aQ1Z6vm2WCcX7EOygjeKZZgPYYhMF12K9OtS35LbuviqqzQ4R8A7WrdD2y-4-gxMpPStTWI686Rh3dIqyLLas8r0O0hjfsdxBELORUTB1n8AEb8ugvuEcEhB-Bpe0a248ZRHP5C_fVSF6GhRjfs7JOU9OvJDixTThwcLd6z6qsw",
+            "width": 250
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110389815266675050375/photos\">The Young Designers Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAo3oRPFF55IMGPHa-XxMBSq9CB9Y86fVgn1xIizqB_QUrK5_nFhwOfFtoHGda713NbMpGJmhvk959Ub26LrfI2qlWedURTjRWsPBET-trTDJ3SCNGOhqDanZqrNM6mvNBEhCMtSh1c91CF_2LYOd2ugupGhRwSAHsBDy6ZShn2Et2UHeOx9XrMQ",
+            "width": 250
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110389815266675050375/photos\">The Young Designers Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAVbS2jrA2qLz8gpTrhRwdsBjHT59SkNBO73zhUq-MNLhF0PPh_PZMfibOXfiNKKQ7T86SINMErxz3jS-s4sWQNK1c1QxsnztIy2jXRsyyOnlEe-XazKNwY5ohQL4ISQ0HEhDCwG3HE1R583Kgnx7idjAPGhSRsffI_hWXody9MwTgHTf9MIjj8g",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJPd3mn4r3wokR3SwBuMWn0LM",
+    "plus_code": {
+        "compound_code": "R3F4+5V New York, United States",
+        "global_code": "87G8R3F4+5V"
+    },
+    "reference": "ChIJPd3mn4r3wokR3SwBuMWn0LM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12957040595582397661",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York",
+    "website": "http://www.theyoungdesignersclub.com/"
+}

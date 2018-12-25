@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "505-599",
+            "short_name": "505-599",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505-599 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505-599 W 142nd St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.824046,
+            "lng": -73.95072990000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82539498029151,
+                "lng": -73.94865965
+            },
+            "southwest": {
+                "lat": 40.82269701970851,
+                "lng": -73.95280025000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7bf7db2d09dd1b216a6f369058d7cfddc2447cd9",
+    "name": "505-599 W 142nd St",
+    "place_id": "ChIJSZAFfWT2wokRgVIDKHTK3Js",
+    "reference": "ChIJSZAFfWT2wokRgVIDKHTK3Js",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=505-599+W+142nd+St,+New+York,+NY+10031,+USA&ftid=0x89c2f6647d059049:0x9bdcca7428035281",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "2518",
+            "short_name": "2518",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2518 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2518 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(800) 627-3999",
+    "geometry": {
+        "location": {
+            "lat": 40.8159846,
+            "lng": -73.946626
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81738208029149,
+                "lng": -73.94539396970849
+            },
+            "southwest": {
+                "lat": 40.8146841197085,
+                "lng": -73.9480919302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "75ec6edfdccef40aefcdc0dd214e36ff76f01f57",
+    "international_phone_number": "+1 800-627-3999",
+    "name": "Harlem Loan Center",
+    "place_id": "ChIJmxekz3H2wokRmNaRAkJ5ed4",
+    "plus_code": {
+        "compound_code": "R383+98 New York, United States",
+        "global_code": "87G8R383+98"
+    },
+    "reference": "ChIJmxekz3H2wokRmNaRAkJ5ed4",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16030977673019905688",
+    "utc_offset": -300,
+    "vicinity": "2518 Frederick Douglass Boulevard, New York"
+}

@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "139",
+            "short_name": "139",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">139 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "139 W 138th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8166502,
+            "lng": -73.94090779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180201302915,
+                "lng": -73.93954316970849
+            },
+            "southwest": {
+                "lat": 40.8153221697085,
+                "lng": -73.94224113029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "9dc621f8652916a9e71e853cca8027b58c08338a",
+    "name": "Samuel J Proctor Houses for Families",
+    "place_id": "ChIJldTRO3f2wokRYxxDbl3Wr1o",
+    "plus_code": {
+        "compound_code": "R385+MJ New York, United States",
+        "global_code": "87G8R385+MJ"
+    },
+    "rating": 2.5,
+    "reference": "ChIJldTRO3f2wokRYxxDbl3Wr1o",
+    "reviews": [
+        {
+            "author_name": "Angelica Mendoza",
+            "author_url": "https://www.google.com/maps/contrib/107748579304797186694/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rg96LfqKJd8/AAAAAAAAAAI/AAAAAAAAI8M/bKjvybHfDl0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1503159936
+        },
+        {
+            "author_name": "Michael Manning",
+            "author_url": "https://www.google.com/maps/contrib/111689179463670037436/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7-SZss67Qbg/AAAAAAAAAAI/AAAAAAAAAAA/UtRfeOZBt3k/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1496705139
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6534677281108073571",
+    "utc_offset": -300,
+    "vicinity": "139 West 138th Street, New York"
+}

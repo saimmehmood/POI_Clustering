@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.827465,
+            "lng": -73.9498368
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288139302915,
+                "lng": -73.94848781970849
+            },
+            "southwest": {
+                "lat": 40.8261159697085,
+                "lng": -73.9511857802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f1cfe04ec25b06360dba77c8b2e9df43c017bcd0",
+    "name": "Broadway",
+    "place_id": "ChIJQeqf5WL2wokRsTcGQ8EZvFk",
+    "reference": "ChIJQeqf5WL2wokRsTcGQ8EZvFk",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f662e59fea41:0x59bc19c1430637b1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

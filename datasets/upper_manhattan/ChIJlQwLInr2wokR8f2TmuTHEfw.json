@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1707",
+            "short_name": "1707",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1707</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 141st St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8197165,
+            "lng": -73.94240289999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8210654302915,
+                "lng": -73.9396567
+            },
+            "southwest": {
+                "lat": 40.8183674697085,
+                "lng": -73.94514910000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "123d36063facd25d6470624ba0483dc75c819aa4",
+    "name": "201-299 W 141st St",
+    "place_id": "ChIJlQwLInr2wokR8f2TmuTHEfw",
+    "reference": "ChIJlQwLInr2wokR8f2TmuTHEfw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+141st+St,+New+York,+NY+10030,+USA&ftid=0x89c2f67a220b0c95:0xfc11c7e49a93fdf1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2768-2788",
+            "short_name": "2768-2788",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2768-2788 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2768-2788 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8244476,
+            "lng": -73.9407423
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8257965802915,
+                "lng": -73.93939331970849
+            },
+            "southwest": {
+                "lat": 40.8230986197085,
+                "lng": -73.9420912802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5d70f7319860520fcf40e9d3cdad52440e19d0fa",
+    "name": "2768-2788 Frederick Douglass Blvd",
+    "place_id": "ChIJMezglX72wokRHlgW2diVdik",
+    "reference": "ChIJMezglX72wokRHlgW2diVdik",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2768-2788+Frederick+Douglass+Blvd,+New+York,+NY+10039,+USA&ftid=0x89c2f67e95e0ec31:0x297695d8d916581e",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

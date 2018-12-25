@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Marshak Science Building, <span class=\"street-address\">ROOM 16, 160 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Marshak Science Building, ROOM 16, 160 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 740-6868",
+    "geometry": {
+        "location": {
+            "lat": 40.8196311,
+            "lng": -73.9505155
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208805802915,
+                "lng": -73.94893021970849
+            },
+            "southwest": {
+                "lat": 40.8181826197085,
+                "lng": -73.95162818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4c48ce9d59f5ad1321a31da4c7013767f914091f",
+    "international_phone_number": "+1 646-740-6868",
+    "name": "New York Army National Guard ROTC",
+    "photos": [
+        {
+            "height": 335,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110779277308342117923/photos\">CUNY ROTC</a>"
+            ],
+            "photo_reference": "CmRaAAAAj4zPfpdxfG_x8543FaTcAxukj90M6unYFfwB1bfxY_IZtyzS_xfE0pcyM1XlDvzIRAtXywlhNKUFVa9B6KE5j0ozAeVSRgUPWKJwvmrzIHITzu23by-S1jj9f4UxxAWdEhDBf5KmWkRGNFCKcT1xyFIXGhRnZFJmf_Qr3QGbFKlSWB9XSY3nCg",
+            "width": 730
+        },
+        {
+            "height": 851,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110779277308342117923/photos\">CUNY ROTC</a>"
+            ],
+            "photo_reference": "CmRaAAAAlxFURVrWNbo97KlRakIdfqdzbRJ7Nhe6v1wcK_h-O4Gvtq97XQlNlpcye7a6KwcZ3JO7jZMiYxFFoQJC4vUJaQ7lW0E2UjPaigOLSudZ7NuuiaomRzwKldNgjL-w04sREhCJXFh2hK83AbGeoWHopMuxGhRX19MYspRElU9HZfQZiJog8jilsA",
+            "width": 850
+        }
+    ],
+    "place_id": "ChIJ4SHSf2X2wokRGhd6zg8vY20",
+    "plus_code": {
+        "compound_code": "R29X+VQ New York, United States",
+        "global_code": "87G8R29X+VQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ4SHSf2X2wokRGhd6zg8vY20",
+    "reviews": [
+        {
+            "author_name": "Emoniel Mulokandov",
+            "author_url": "https://www.google.com/maps/contrib/114106391058300177090/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JdyuTvOri2I/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcar14lY5dGaHy-Ny-YHC2kcR_LwcQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1527782431
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7882195517763622682",
+    "utc_offset": -300,
+    "vicinity": "Marshak Science Building, ROOM 16, 160 Convent Ave, New York"
+}

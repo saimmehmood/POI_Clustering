@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "471-499",
+            "short_name": "471-499",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">471-499 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "471-499 W 145th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8249563,
+            "lng": -73.94691139999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82630528029149,
+                "lng": -73.94551435
+            },
+            "southwest": {
+                "lat": 40.8236073197085,
+                "lng": -73.94830855
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "72233bcdba2402881286f8f41c3a4ae6d4408a6d",
+    "name": "471-499 W 145th St",
+    "place_id": "ChIJDbj0uXz2wokR7FPhesZUcIc",
+    "reference": "ChIJDbj0uXz2wokR7FPhesZUcIc",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=471-499+W+145th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67cb9f4b80d:0x877054c67ae153ec",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

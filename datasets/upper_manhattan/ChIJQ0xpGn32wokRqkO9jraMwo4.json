@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3833",
+            "short_name": "3833",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3833</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 W 148th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8268823,
+            "lng": -73.9457828
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82826353029149,
+                "lng": -73.9444102697085
+            },
+            "southwest": {
+                "lat": 40.8255655697085,
+                "lng": -73.9471082302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "31b1653a6be983738172b556b292c712658c11fe",
+    "name": "A Baby's Dream Day Care",
+    "place_id": "ChIJQ0xpGn32wokRqkO9jraMwo4",
+    "plus_code": {
+        "compound_code": "R3G3+QM New York, United States",
+        "global_code": "87G8R3G3+QM"
+    },
+    "reference": "ChIJQ0xpGn32wokRqkO9jraMwo4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10286939214574338986",
+    "utc_offset": -300,
+    "vicinity": "470 West 148th Street, New York"
+}

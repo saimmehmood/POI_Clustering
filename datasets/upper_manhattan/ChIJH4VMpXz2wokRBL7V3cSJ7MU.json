@@ -1,0 +1,247 @@
+{
+    "address_components": [
+        {
+            "long_name": "454",
+            "short_name": "454",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4701",
+            "short_name": "4701",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">454 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4701</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "454 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-3489",
+    "geometry": {
+        "location": {
+            "lat": 40.8247606,
+            "lng": -73.9468629
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261766802915,
+                "lng": -73.94546481970849
+            },
+            "southwest": {
+                "lat": 40.8234787197085,
+                "lng": -73.9481627802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0babfbc236a54187924867701d4ea087caa655d1",
+    "international_phone_number": "+1 212-234-3489",
+    "name": "145th Street Animal Hospital",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 4:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 4:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109358047069040154787/photos\">Julian Chokkattu</a>"
+            ],
+            "photo_reference": "CmRaAAAAFr1u0ECoPtApeUGaM9TZmGM_uPQ4VqgoqOFNGTA19txgrdpLUVpy-ztjJPXVUXyGVQTQrQRjNz7o4-dT6L5hsNY_aidaX7FoaL3RjvTjHI9j6dv9yLa_KTC_EPGT6RnEEhBtmptVThZnWs_LIkGI_u-fGhRgl16rA947Pn0XrqDNon2pLeZG0g",
+            "width": 5333
+        },
+        {
+            "height": 2051,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112754739507634925567/photos\">Jimmie Lee Patterson</a>"
+            ],
+            "photo_reference": "CmRaAAAAURKnnHi9ZLdJwhKjsQmbdcixg1Ru23TiNUzoHoVXVbv8FBfEllzE3cdVzaP-a1ukA-82eXO9d4mqolfWIivsKLH215U88yYa4hlFUjBSBlxlcJ6akZ7-NPm3l4YI-JgoEhDZWB_05MX--nj-Ivn6Ch9oGhQUcFOcvWwArSskOqdYslUzu-REqg",
+            "width": 1410
+        }
+    ],
+    "place_id": "ChIJH4VMpXz2wokRBL7V3cSJ7MU",
+    "plus_code": {
+        "compound_code": "R3F3+W7 New York, United States",
+        "global_code": "87G8R3F3+W7"
+    },
+    "rating": 3.7,
+    "reference": "ChIJH4VMpXz2wokRBL7V3cSJ7MU",
+    "reviews": [
+        {
+            "author_name": "luis perez",
+            "author_url": "https://www.google.com/maps/contrib/100973185441959918570/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-E7De0NtWCxo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbXU4YxkAoY-aXIc8PdUCAhGQDu-w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I have known Dr Butler for over 25 years ....She is the  best doctor in the whole area. i took My daughter's doggie there to remove a large tumor in his leg . Dr. Butler successfully removed the mass tumor with great care and precision. And the price EXTREMELY AFFORDABLE compared to other equally qualified Vets. I highly recommend DR. BUTLER !!!!!",
+            "time": 1540833721
+        },
+        {
+            "author_name": "becca letourneau",
+            "author_url": "https://www.google.com/maps/contrib/112942974506880303484/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2N4B8pVj_ic/AAAAAAAAAAI/AAAAAAAAAcI/bxpDh_a3jyo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I was hesitant to bring my cat in for a checkup after going about 3 years without one. He was having issue with his feet and I was expecting a huge vet bill and some scratches as he\u2019s a nervous cat. Dr. Butler is a genius with animals, he instantly felt comfortable with her and barely needed to be held for his exam. She was thorough, explained everything to me, and genuinely seemed to care for him. She even gave me lists of products to avoid and cat foods. It was a great experience overall. I\u2019ll be taking both my cats there from now on to see Dr Butler",
+            "time": 1537640731
+        },
+        {
+            "author_name": "Alvin Whitley",
+            "author_url": "https://www.google.com/maps/contrib/111603332756720131238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UUpsm0XRqns/AAAAAAAAAAI/AAAAAAAAAEo/Hzs1S4dbvJw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I have been taking my dog Rod there untill his death last year at 14 yrs old and that's where I took him when he left this earth. So I've been going there for almost 14 yrs. And now I take my new kitten there.  I love Dr Butler as a person and my vet.  I can't say enough good things.  5 STARS",
+            "time": 1536161688
+        },
+        {
+            "author_name": "Erick Durantt",
+            "author_url": "https://www.google.com/maps/contrib/117411336778794296091/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3kJM6tn-4IY/AAAAAAAAAAI/AAAAAAAABIM/FOmtLIoyCFw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Waited over an hour after my scheduled appointment time.  Told them it was unacceptable and left.  Nice and friendly staff but they can't expect customers and pets to wait so long.  Just schedule people for a later time.",
+            "time": 1538073473
+        },
+        {
+            "author_name": "Doris Phinizy",
+            "author_url": "https://www.google.com/maps/contrib/103611047359156704061/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-p4GuQGMbHr8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca4nOi6E3ON7vABoYKvJwCOBj1sJA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Friendly staff. Dr.very professional, explains pet's illness in layman's language, and reasonably priced.",
+            "time": 1543802850
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "veterinary_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14261925598603886084",
+    "utc_offset": -300,
+    "vicinity": "454 West 145th Street, New York",
+    "website": "http://www.harlemvet.com/"
+}

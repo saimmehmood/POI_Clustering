@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "515",
+            "short_name": "515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">515 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1801</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "515 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 275-6975",
+    "geometry": {
+        "location": {
+            "lat": 40.8145872,
+            "lng": -73.94092599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8158845802915,
+                "lng": -73.9394517197085
+            },
+            "southwest": {
+                "lat": 40.8131866197085,
+                "lng": -73.94214968029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "61be6eef3a913e24bc9e990cb1e6447e7913dee4",
+    "international_phone_number": "+1 917-275-6975",
+    "name": "Schomburg Center for Research in Black Culture",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3511,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114496177827785062907/photos\">Schomburg Center for Research in Black Culture</a>"
+            ],
+            "photo_reference": "CmRaAAAA3lWOcP18kFdML2KFefe-lZ8iJvnDi5Bkl2RMP5yquAmen6uuAVnormo3a4Lvpfm2XDH1wCJ4yEJpIDAHyMGS1BwJM2aqlkOqR1C6wDB89-KEMXeBrnbOBU0JGwj8yWi1EhALwIPPwyzb6NY1XO6A5FAjGhS17OzfcYXrauC7t94MX9H5T0ljwA",
+            "width": 5256
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112712499291620116325/photos\">Jack Daise</a>"
+            ],
+            "photo_reference": "CmRaAAAAwuyqcPprFjq-lGVrqOBqCMY6sdFRnGbYSJEGHA6-NcbLjUAloefgyzN2blx0RkmdA5dYi6yMOyxUYNRDk57guNJxLvN4TZiO8rwU3mx6D9ZPpL3YWbSEydBVWerq2NrREhDOIucUf8Pmlkz_L6j4mLI-GhRD_WweMdXtVRy27dxm44Vx9yiXLQ",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAABt4bOAacdodNQpHLh8-sHm90cK0VpMeiDCWJXAbwlc398hj5y5stgOQXBmg0d1a1qtPVHyQE8zfw36U0Wozekv7SN-X3LbtA1R6jlfRecCAhsAc8Ev6p5HGC3VTD6LAjEhBtC81cuNauZccrLKUAwprvGhQ7GjFzf9NhY-75aX8XMSdXoKm3Lg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAzKAe5tNHhBf7aTI4pgKcdzAuNzcmA1f-1tELF3mlT4lLayPyliZHyspYIoUEBv2J04NbbdLen6F0iI-zu9MJn0FPwiDwyyiOaq8MoRL6MSEd_3ZOBqnrlZDLbyO6DYK6EhCy27kS3ZTKBtBN6OJSuF-nGhTG1mFT51GrhwgV-5B2q5-BURskaQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112712499291620116325/photos\">Jack Daise</a>"
+            ],
+            "photo_reference": "CmRaAAAA5wTWmyfUmEv3bv-QYugPnDZi_GSMHptreDMDOKYpntmy9q3WmCvjKKwNBi5orbJzgoDySE2sQNZqW_sfYibb5Bdxc21mzspyxjCl7nV_KKjtQchS7Wf8x9aTSFgp1AaOEhABimp9FbSiqbgmaCkHpkslGhSNJ3Eyz2UlWNGcTXs_7J948dYvgQ",
+            "width": 4032
+        },
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108483543945650864601/photos\">Kalam Chowdhury, MD.</a>"
+            ],
+            "photo_reference": "CmRaAAAAPmV5n2eki0YxDYGiAA8t9U4KC_0SHGPMpQlgiWMtUZ-fJnJO9HaJMDwSi-hca_Os5NRNVT1iFIcSxesArLAtFWOw0N_iJXDfuibgsqNUM8sikfHlcICtFP0myR17qRUvEhCG7aOMrLIPmTO40x_SRfDPGhRyBKultXa9EfbkGjJ2FX1m7vo2Rw",
+            "width": 4128
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112712499291620116325/photos\">Jack Daise</a>"
+            ],
+            "photo_reference": "CmRaAAAAZzLttugxNqVYHvVzQN_6V27SpdGvjgnifR8l4IBdAm3s51M7AIUENXQG8klObq_NjRvTzhENrqXl9Y1FApcmPAnsdM0_VYDBhSqMkwe2BI7r13teDVaRvmhTk_pnVCIWEhApwz-Yl-VzqjkYldG2B8ByGhQVILs1wq3D2QcxymdRbB8GP4pRJQ",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105897151842583622160/photos\">Clihi</a>"
+            ],
+            "photo_reference": "CmRaAAAATrBmQRcpAXx4Vyxs-_yjrvG595tgpDWQ6hoCrb0pLXhqOYAnJxfSMfMdgPA1lMMNUVUlE-8DSFuDX1wzSRIrxpJQwOmL4bTgNVRpJFaaqh-3R8rO2etwtvm3wwYsrh7jEhCkaR_uIC0gfSD7ehYKhXeXGhRLcGmxDi-Vn9KBF2grf0krGbO1gg",
+            "width": 3036
+        },
+        {
+            "height": 3888,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110935058437880985407/photos\">Dallas Plummer</a>"
+            ],
+            "photo_reference": "CmRaAAAAZhsObDJtPQzUr06_iPt1wFU8rPaAqzZS-FZ5BSK0PaaewLVn66uf_F7FWd_IlBZx2TsWXSnaKCmUGZiP_pSOBcmqdR5kX96bKlOl9mpCZtrc9JLMFdSSxLtg3aRsLE8kEhDbLhF2VehIJlpeFRw2zqRYGhSJMzj3SQ-HdelsDSxh1GELL6SWhg",
+            "width": 5184
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112712499291620116325/photos\">Jack Daise</a>"
+            ],
+            "photo_reference": "CmRaAAAAyj8hSMNnVbN-xhpT6z_NdQcofs323_gdO0B3trP5hUYNA72QXgdpHm4LCYGHs2vnVktFDgsCpZih2fQeFF-tHtfsSs9G6tF4VyY0L39G095STdfzPCLP8ACAL7PU3M55EhC1tnKztYAk9S4MiviWHinAGhTGLHsoFHgHBkJ_7r9Zf0wldC-FYw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ7etix3b2wokRKN_Pd9RLRHQ",
+    "plus_code": {
+        "compound_code": "R375+RJ New York, United States",
+        "global_code": "87G8R375+RJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ7etix3b2wokRKN_Pd9RLRHQ",
+    "reviews": [
+        {
+            "author_name": "Meseka Hayes",
+            "author_url": "https://www.google.com/maps/contrib/103188689966766269874/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-b8okhU9dpmI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ2JOdgLK9mFe622ujffyZiITrHag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "This research center needs more improvement is customer service. I have been going their every Saturday with my same purse and jacket that's equivalent to a shirt. I was rudely approached and  prevented from going downstairs. I explained to the old female security guard that she allows me in every week with my purse and that my shirt jacket I bought with me because I was ill and cold. She pointed to the sign. I requested a Supervisor who was so rude and unprofessional. She said go home and get a sweater or don't come here. That's it I'm not going to go back and forth with you. I will never give another contribution to this place and will inform anyone else not too. I deserve an apology as medical conditions should be accommodated in any environment with good reason.",
+            "time": 1539557214
+        },
+        {
+            "author_name": "Marybeth Tamborra",
+            "author_url": "https://www.google.com/maps/contrib/111262644117673318238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jmxc0UyRJwM/AAAAAAAAAAI/AAAAAAAAzJI/wF-EbLSKWg4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "What a disappointment! The New York Public Library is one of the city's greatest Civic institutions. Having frequented many other branches, albeit in more affluent neighborhoods, the library experience here at the Schomburg center is completely different. Here at this branch you are accosted by security as if one's presence in the library is questioned rather than welcomed. Unlike the other branches, it feels more disciplinary, controlled, and unwelcoming. Why is that? I am disappointed at the New York Public Library system does not offer the same Stellar service and welcoming spirit as it's other branches to encourage learning. All branches deserve this. Wealthy or not.",
+            "time": 1540940085
+        },
+        {
+            "author_name": "Jon Yazer",
+            "author_url": "https://www.google.com/maps/contrib/116485624834225060699/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iENPRNbD_20/AAAAAAAAAAI/AAAAAAAAD6k/gQqrgmK3a-M/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "Wonderful place, great Black Power exhibit. Leaving a two star review because we were rudely pushed out by staff 10 min before the stated closing time because \u201cwe want to be out of here at 6.\u201d But you should get there earlier and check out the amazing exhibits!",
+            "time": 1532324018
+        },
+        {
+            "author_name": "Cherishe Cumma",
+            "author_url": "https://www.google.com/maps/contrib/108492738181551111937/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_lVvzIZ-3AM/AAAAAAAAAAI/AAAAAAAALhw/cGSAOfZfgn8/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "The Schomburg is a wonderful place with exhibits that provide history of people of African Descent. There are amazing images and paintings which decorate the walls , but also draw the visitor in and force them to recognize the parts of the past they may not have been aware of. I was lucky enough to attend a workshop at this center where the students were given a tour of the facility, as well as presented with the opportunity to examine some historical documents and objects from the archives. All in all this experience was very enlightening and I would suggest that anyone interested in the history of people of African descent, and their contributions to the world we live in take a trip to this center. P.S. be careful of how you conduct yourself within the facility . My classmates and I were confronted by older woman who told us that we weren't behaving appropriately , and that we should \"have fun but not too much fun.\"",
+            "time": 1515940592
+        },
+        {
+            "author_name": "Alice Adamczyk",
+            "author_url": "https://www.google.com/maps/contrib/110715462253230238249/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fYPeBhtliFg/AAAAAAAAAAI/AAAAAAAAAiI/jq0_IeEMqn4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Good library service and interesting public programs.",
+            "time": 1539957536
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8377904582731226920",
+    "utc_offset": -300,
+    "vicinity": "515 Malcolm X Boulevard, New York",
+    "website": "http://www.nypl.org/locations/schomburg"
+}

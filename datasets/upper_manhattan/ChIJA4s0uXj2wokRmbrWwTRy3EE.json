@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "198-100",
+            "short_name": "198-100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3802",
+            "short_name": "3802",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">198-100 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3802</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "198-100 W 146th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8217108,
+            "lng": -73.9371535
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8230597802915,
+                "lng": -73.93447565000001
+            },
+            "southwest": {
+                "lat": 40.8203618197085,
+                "lng": -73.93983144999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b558d94a1652ba4ba6705a6398b4efa3f40a5d1e",
+    "name": "198-100 W 146th St",
+    "place_id": "ChIJA4s0uXj2wokRmbrWwTRy3EE",
+    "reference": "ChIJA4s0uXj2wokRmbrWwTRy3EE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=198-100+W+146th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f678b9348b03:0x41dc7234c1d6ba99",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

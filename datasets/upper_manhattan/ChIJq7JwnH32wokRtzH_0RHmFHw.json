@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "460",
+            "short_name": "460",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2707",
+            "short_name": "2707",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">460 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-2707</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "460 W 150th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-6336",
+    "geometry": {
+        "location": {
+            "lat": 40.82779000000001,
+            "lng": -73.94445499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8292352302915,
+                "lng": -73.94303496970849
+            },
+            "southwest": {
+                "lat": 40.82653726970851,
+                "lng": -73.94573293029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "de365b8b4861f1f2807c691ef841795a0340abaa",
+    "international_phone_number": "+1 212-234-6336",
+    "name": "Carmen Denise P MD",
+    "place_id": "ChIJq7JwnH32wokRtzH_0RHmFHw",
+    "plus_code": {
+        "compound_code": "R3H4+46 New York, United States",
+        "global_code": "87G8R3H4+46"
+    },
+    "reference": "ChIJq7JwnH32wokRtzH_0RHmFHw",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8941024124449272247",
+    "utc_offset": -300,
+    "vicinity": "460 West 150th Street, New York"
+}

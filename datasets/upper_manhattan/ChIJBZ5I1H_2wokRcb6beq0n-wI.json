@@ -1,0 +1,163 @@
+{
+    "address_components": [
+        {
+            "long_name": "2859",
+            "short_name": "2859",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2147",
+            "short_name": "2147",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2859 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-2147</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2859 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 694-8890",
+    "geometry": {
+        "location": {
+            "lat": 40.8277714,
+            "lng": -73.9385428
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8290845802915,
+                "lng": -73.93710751970849
+            },
+            "southwest": {
+                "lat": 40.8263866197085,
+                "lng": -73.9398054802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "352a8bdd420d2c668dcfac41867bd28b0bb14a85",
+    "international_phone_number": "+1 212-694-8890",
+    "name": "Lace Masters",
+    "place_id": "ChIJBZ5I1H_2wokRcb6beq0n-wI",
+    "plus_code": {
+        "compound_code": "R3H6+4H New York, United States",
+        "global_code": "87G8R3H6+4H"
+    },
+    "rating": 4.2,
+    "reference": "ChIJBZ5I1H_2wokRcb6beq0n-wI",
+    "reviews": [
+        {
+            "author_name": "Toni Salley",
+            "author_url": "https://www.google.com/maps/contrib/109675497040511366278/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yAvfY_JENwA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca3XTJOO4qOSBm81gafujUZ-5XfNQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Fast service and a neighborhood comfortable barber shop atmosphere",
+            "time": 1526076932
+        },
+        {
+            "author_name": "Jason Keith Davis",
+            "author_url": "https://www.google.com/maps/contrib/118004721762416506592/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-W5hJhUwqpjM/AAAAAAAAAAI/AAAAAAAAkzg/aokTuVETTsc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Very nice barber.",
+            "time": 1519057533
+        },
+        {
+            "author_name": "aaron Jackson",
+            "author_url": "https://www.google.com/maps/contrib/113538965319165014364/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-PHonYxMn_qI/AAAAAAAAAAI/AAAAAAAAC90/bProTo2xp6w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "One of Harlem's best barber shops!",
+            "time": 1489513726
+        },
+        {
+            "author_name": "Randy Hamilton",
+            "author_url": "https://www.google.com/maps/contrib/118256005336792191803/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YXisxT58zIM/AAAAAAAAAAI/AAAAAAAAE98/vOVkmEuaMUo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1531562518
+        },
+        {
+            "author_name": "Larry Rhodes",
+            "author_url": "https://www.google.com/maps/contrib/109687168659834019041/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-J_CqqsH5gbc/AAAAAAAAAAI/AAAAAAAAAA0/Awv030pt1qo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1492089212
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=214809033270083185",
+    "utc_offset": -300,
+    "vicinity": "2859 Frederick Douglass Boulevard, New York"
+}

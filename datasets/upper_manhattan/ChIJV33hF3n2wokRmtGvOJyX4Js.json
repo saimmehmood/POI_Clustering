@@ -1,0 +1,122 @@
+{
+    "address_components": [
+        {
+            "long_name": "210",
+            "short_name": "210",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4104",
+            "short_name": "4104",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">210 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4104</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "210 W 145th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8217496,
+            "lng": -73.939725
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231604302915,
+                "lng": -73.93833066970849
+            },
+            "southwest": {
+                "lat": 40.8204624697085,
+                "lng": -73.9410286302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a6871e73ddf890c3b728be8a44e77ef355105fa5",
+    "name": "New Renaissance Barber Shop",
+    "place_id": "ChIJV33hF3n2wokRmtGvOJyX4Js",
+    "plus_code": {
+        "compound_code": "R3C6+M4 New York, United States",
+        "global_code": "87G8R3C6+M4"
+    },
+    "rating": 5,
+    "reference": "ChIJV33hF3n2wokRmtGvOJyX4Js",
+    "reviews": [
+        {
+            "author_name": "Abad Morel",
+            "author_url": "https://www.google.com/maps/contrib/112499190414062002237/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-xqgI-1JO0yQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYYLQodCiSZRJN-D_HdnJzX61EcMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541545486
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11232144167883755930",
+    "utc_offset": -300,
+    "vicinity": "210 West 145th Street, New York"
+}

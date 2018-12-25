@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1A",
+            "short_name": "# 1A",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "294",
+            "short_name": "294",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3610",
+            "short_name": "3610",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">294 W 147th St # 1A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3610</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "294 W 147th St # 1A, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-0708",
+    "geometry": {
+        "location": {
+            "lat": 40.8238381,
+            "lng": -73.94048219999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8252246802915,
+                "lng": -73.9391057197085
+            },
+            "southwest": {
+                "lat": 40.8225267197085,
+                "lng": -73.9418036802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a7b3000af2273ab3df0eed1f08ad2ea0f64573d8",
+    "international_phone_number": "+1 212-491-0708",
+    "name": "Ng Renovation",
+    "place_id": "ChIJGzpnuH72wokRRPgcTexBI48",
+    "plus_code": {
+        "compound_code": "R3F5+GR New York, United States",
+        "global_code": "87G8R3F5+GR"
+    },
+    "reference": "ChIJGzpnuH72wokRRPgcTexBI48",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10314160054770399300",
+    "utc_offset": -300,
+    "vicinity": "294 West 147th Street # 1A, New York"
+}

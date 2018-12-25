@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2533",
+            "short_name": "2533",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3816",
+            "short_name": "3816",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2533 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3816</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2533 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-1900",
+    "geometry": {
+        "location": {
+            "lat": 40.8226507,
+            "lng": -73.9380236
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8240348302915,
+                "lng": -73.93675351970849
+            },
+            "southwest": {
+                "lat": 40.8213368697085,
+                "lng": -73.9394514802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "48959fdfc880a694fb5f6ce09c907eaa09fa6082",
+    "international_phone_number": "+1 212-281-1900",
+    "name": "Classic Tax Preparation",
+    "place_id": "ChIJF6Jv0nj2wokREvspJYmQ-MU",
+    "plus_code": {
+        "compound_code": "R3F6+3Q New York, United States",
+        "global_code": "87G8R3F6+3Q"
+    },
+    "reference": "ChIJF6Jv0nj2wokREvspJYmQ-MU",
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14265310738404473618",
+    "utc_offset": -300,
+    "vicinity": "2533 Adam Clayton Powell Junior Boulevard, New York"
+}

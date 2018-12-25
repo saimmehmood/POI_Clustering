@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "465",
+            "short_name": "465",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6201",
+            "short_name": "6201",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">465 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "465 W 141st St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 280-6881",
+    "geometry": {
+        "location": {
+            "lat": 40.822634,
+            "lng": -73.948739
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8238896802915,
+                "lng": -73.94745676970851
+            },
+            "southwest": {
+                "lat": 40.8211917197085,
+                "lng": -73.95015473029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aad5736efdc009e1be8f4bbe5d0621b483b06bf1",
+    "international_phone_number": "+1 212-280-6881",
+    "name": "Building Bridges to the Future Foundation",
+    "place_id": "ChIJx05CxGT2wokRk7wVKR_Ma8U",
+    "plus_code": {
+        "compound_code": "R3F2+3G New York, United States",
+        "global_code": "87G8R3F2+3G"
+    },
+    "reference": "ChIJx05CxGT2wokRk7wVKR_Ma8U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14225688282185186451",
+    "utc_offset": -300,
+    "vicinity": "465 West 141st Street, New York",
+    "website": "http://www.bbffoundation.org/about-us.html"
+}

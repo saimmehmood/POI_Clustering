@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "2312",
+            "short_name": "2312",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2312 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2312 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(718) 703-2260",
+    "geometry": {
+        "location": {
+            "lat": 40.8159871,
+            "lng": -73.94367179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172805802915,
+                "lng": -73.94218951970849
+            },
+            "southwest": {
+                "lat": 40.8145826197085,
+                "lng": -73.94488748029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5e51bbc1f2776ee1d19f3fc7f494f0a10a823144",
+    "international_phone_number": "+1 718-703-2260",
+    "name": "Walker International Communications Group",
+    "place_id": "ChIJTUa-MDhbwokRMjkZhlr3iLE",
+    "plus_code": {
+        "compound_code": "R384+9G New York, United States",
+        "global_code": "87G8R384+9G"
+    },
+    "reference": "ChIJTUa-MDhbwokRMjkZhlr3iLE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12792746709714811186",
+    "utc_offset": -300,
+    "vicinity": "2312 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://walkercommunicationsgroup.com/website/contact/"
+}

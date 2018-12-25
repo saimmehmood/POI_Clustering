@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 139th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8184647,
+            "lng": -73.94331989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8198125802915,
+                "lng": -73.9405565
+            },
+            "southwest": {
+                "lat": 40.81711461970851,
+                "lng": -73.94608490000002
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9da8d315c7f4b6aa3c0a5cc71079787ff13e9d00",
+    "name": "201-299 W 139th St",
+    "place_id": "ChIJ5VRPoHD2wokRHOHDEvR4s0c",
+    "reference": "ChIJ5VRPoHD2wokRHOHDEvR4s0c",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+139th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f670a04f54e5:0x47b378f412c3e11c",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

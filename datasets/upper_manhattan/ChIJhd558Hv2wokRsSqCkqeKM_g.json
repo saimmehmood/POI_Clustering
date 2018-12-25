@@ -1,0 +1,262 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-3480",
+    "geometry": {
+        "location": {
+            "lat": 40.8227886,
+            "lng": -73.9425765
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242623302915,
+                "lng": -73.94113071970851
+            },
+            "southwest": {
+                "lat": 40.8215643697085,
+                "lng": -73.94382868029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cca4cef4f6765a509989b6abe41cff28f9ed4a5f",
+    "international_phone_number": "+1 212-281-3480",
+    "name": "145th St Pharmacy",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 1:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117711592183800030968/photos\">145th St Pharmacy (Inside Super Foodtown)</a>"
+            ],
+            "photo_reference": "CmRaAAAASbbpBBxiGCMWT-tHm3RCa3p9eJxo9ZY-g3PGDmOYX7XnnaiBzwnDQaSWwQ1pIfKgIF8nj0EEdr6JvhBqNbl9QKDDWaavgtGe8Suc9TT0zKs-i5S78KyhSB9goXb_RP3REhDWJ_c6abSY3i7pPu_Vmw3GGhReIzkop1Edpnjseo8BXELtxSBCuQ",
+            "width": 1024
+        },
+        {
+            "height": 495,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117711592183800030968/photos\">145th St Pharmacy (Inside Super Foodtown)</a>"
+            ],
+            "photo_reference": "CmRaAAAAWMPqLRDpk0PnUyjXK0JbMl0pidO2LTNS53azgDEg6FWO7cRNW0LE-yxBrhyaBpV-NKK2jPpTEsVr7-J9ID0LoDnoXTMrCOwbtJXZ6BE2cn8XKHM0fWLQbfA5OHuXfe6tEhD1lVlJYyT_uH-KqdwHdli0GhRLmhOBcPeu7cOlGx57_sygdPvRew",
+            "width": 537
+        }
+    ],
+    "place_id": "ChIJhd558Hv2wokRsSqCkqeKM_g",
+    "plus_code": {
+        "compound_code": "R3F4+4X New York, United States",
+        "global_code": "87G8R3F4+4X"
+    },
+    "rating": 2.6,
+    "reference": "ChIJhd558Hv2wokRsSqCkqeKM_g",
+    "reviews": [
+        {
+            "author_name": "Isa Ba",
+            "author_url": "https://www.google.com/maps/contrib/107504501748246727382/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PflY_rpZRKA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYvcKrOgXlI38K5LVjin9a9nPg1bQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "I was with this pharmacy for about 2 years and a half and I have seen them change complete staffing 3 times. It has only been getting worse. Today I finally gave up and took my business elsewhere. I was treated with so much disrespect that even my Medicare plan staff who at the time was trying to explain to the new pharmacist that there must be a mistake on her side that I should report the incident to Medicaid. They gave me the number and will try to briefly explain the situation. I got my Medicaid recently reaciviatated and my health first. My health first will kick in next month and my only current active insurance is Medicaid. I explained to her since last week, Friday to verify that it was working and she added more drama then needed to the point that where I renewed said it was active and no need to come again or keep calling. Then the final straw, the pharmacist tried to scam me by saying that i had to pay for my medication that the \"system\" said that was reported on her end. I called Medicaid and they even spoke to her and said NO. I am fully covered and my medication is FULLY covered. She couldn't even explain these charges were appearing when we BOTH told her to charge Medicaid only and the same card info was kept. The pharmacist in front of the Medicaid employee over the phone was interrupting us both and talking over me several times. Was calling me the lier and ignored questions to continue ranting over her own case. It was so poorly addressed from her end that i was urged to go elsewhere. When i went over to the pharmacy she was only slightly more polite, i made it clear I did not want to get into things again and I was only here for a pickup of my info to go elsewhere. She started talking again, getting into things and i told her if she has just calmed down and listen to the information given she would do her job better. She asked me for my card again to try and prove her point that it was on OUR end the error but failed. She said it was not only working now but it was fully covering the medication...... you got to be kidding me... I told her that the Medicaid lady explained to her that it was and they NEVER got the request for my medication coverage payment. This means the pharmacist didnt even check and now that she does she wants to now provide me with the service. I refuse because of how poorly I was treated and how unprofessional she was. At the end of the day i went elsewhere to a nearby pharmacy who gave me no issues with my insurance. Gace me my medication in under 10mins and said everything with my insurance went through fine within the first attempt. I would suggest if you are being charged for medications to be informed ahead of time if they are covered because like the lady from Medicaid said these pharmacies do these sorta things often that they get a lot of these situations. This was my first and lucky I only have 1 but what of the seniors and those that take several more meds? How much do they get scammed? Be informed and never settle for mediocre customer service. The new pharmacist name is Julie Jeong. Do not let her belittle, harass or intimidate you because she has this miss know it all rude attitude. In person she is slightly more time down but over the phone she is one of those who feels she can do and say what she wants like a street thugs and does not behave like a medical professional at all. First time seeing this level of maturity in a pharmacist.",
+            "time": 1533605268
+        },
+        {
+            "author_name": "Luis Miranda",
+            "author_url": "https://www.google.com/maps/contrib/104206447110519013000/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-WP-wV-GbtFY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYfQR75n6-uLHMhf7wM5mhrQiqoXg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Caring staff deliveries on time",
+            "time": 1534937712
+        },
+        {
+            "author_name": "LUIS MENDOZA",
+            "author_url": "https://www.google.com/maps/contrib/116430766917958664157/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Et4pkJRFlUM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ29Pgu-rvWUSjJqmfYwVuuhejX4w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "GARBAGE PHARMACY, NO GOOD !",
+            "time": 1542652291
+        },
+        {
+            "author_name": "David Kittelberger",
+            "author_url": "https://www.google.com/maps/contrib/102569968127892003200/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XwFczOY0G5k/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZJbiqLuLUSg9ANfqjaAAX5UvlhRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "I would not  recommend.",
+            "time": 1508948558
+        },
+        {
+            "author_name": "Dominique Roman",
+            "author_url": "https://www.google.com/maps/contrib/102659833032747121119/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CO5n9sXxyAo/AAAAAAAAAAI/AAAAAAAAH38/laFA1Y46R-4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "New supermarket with health food n Pharmacy inside the store",
+            "time": 1486348906
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17884790997540547249",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York",
+    "website": "https://www.foodtown.com/stores/foodtown-of-bradhurst"
+}

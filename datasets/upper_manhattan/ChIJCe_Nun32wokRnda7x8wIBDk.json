@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "416",
+            "short_name": "416",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 149th Street",
+            "short_name": "W 149th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2801",
+            "short_name": "2801",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">416 W 149th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-2801</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "416 W 149th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-8224",
+    "geometry": {
+        "location": {
+            "lat": 40.826806,
+            "lng": -73.944045
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82825373029149,
+                "lng": -73.9426233697085
+            },
+            "southwest": {
+                "lat": 40.82555576970849,
+                "lng": -73.9453213302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "29dba83c648be07f0c6480af8cd67314451daff2",
+    "international_phone_number": "+1 212-281-8224",
+    "name": "Developmental Disabilities Services",
+    "place_id": "ChIJCe_Nun32wokRnda7x8wIBDk",
+    "plus_code": {
+        "compound_code": "R3G4+P9 New York, United States",
+        "global_code": "87G8R3G4+P9"
+    },
+    "reference": "ChIJCe_Nun32wokRnda7x8wIBDk",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4108418435686061725",
+    "utc_offset": -300,
+    "vicinity": "416 West 149th Street, New York",
+    "website": "https://opwdd.ny.gov/"
+}

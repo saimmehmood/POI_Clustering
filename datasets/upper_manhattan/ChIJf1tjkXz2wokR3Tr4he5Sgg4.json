@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "421",
+            "short_name": "421",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5203",
+            "short_name": "5203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">421 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "421 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 690-7798",
+    "geometry": {
+        "location": {
+            "lat": 40.82479209999999,
+            "lng": -73.94584689999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82602978029148,
+                "lng": -73.9445800197085
+            },
+            "southwest": {
+                "lat": 40.82333181970849,
+                "lng": -73.9472779802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "ee48c5e1fa9d3efcbd7a6334f48a9d8d412795ab",
+    "international_phone_number": "+1 212-690-7798",
+    "name": "Harlem International Community",
+    "place_id": "ChIJf1tjkXz2wokR3Tr4he5Sgg4",
+    "plus_code": {
+        "compound_code": "R3F3+WM New York, United States",
+        "global_code": "87G8R3F3+WM"
+    },
+    "reference": "ChIJf1tjkXz2wokR3Tr4he5Sgg4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1045489247906708189",
+    "utc_offset": -300,
+    "vicinity": "421 West 145th Street, New York"
+}

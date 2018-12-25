@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "123",
+            "short_name": "123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">123 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "123 W 135th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8148546,
+            "lng": -73.9419752
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161034802915,
+                "lng": -73.9407013197085
+            },
+            "southwest": {
+                "lat": 40.8134055197085,
+                "lng": -73.9433992802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "95a268ffe7ca2f03c71a79d9d1c248a1de094d55",
+    "name": "Access to Money",
+    "place_id": "ChIJo7YPNXH2wokRiHuPcj6eXZQ",
+    "plus_code": {
+        "compound_code": "R375+W6 New York, United States",
+        "global_code": "87G8R375+W6"
+    },
+    "rating": 4,
+    "reference": "ChIJo7YPNXH2wokRiHuPcj6eXZQ",
+    "reviews": [
+        {
+            "author_name": "Dakari Irby",
+            "author_url": "https://www.google.com/maps/contrib/113620696603719953508/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gKv3MwDKNWk/AAAAAAAAAAI/AAAAAAAAAEc/4ImPZFEuCNM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1460247637
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10690875081494592392",
+    "utc_offset": -300,
+    "vicinity": "123 West 135th Street, New York",
+    "website": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=321125"
+}

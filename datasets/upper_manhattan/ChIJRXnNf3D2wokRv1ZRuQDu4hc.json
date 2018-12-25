@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.818645,
+            "lng": -73.944847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8200169302915,
+                "lng": -73.9435530697085
+            },
+            "southwest": {
+                "lat": 40.8173189697085,
+                "lng": -73.9462510302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "614a4772b027c8c02b0c4bda815649eb0071b887",
+    "name": "Fred Douglass Blvd/W 138 St",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112100413372737254520/photos\">Hugo 1133</a>"
+            ],
+            "photo_reference": "CmRaAAAA4mzOmAXadx25bj3-Qb-pC3-GNYHjJ8t81_3EzR4n7x4wdSMamLNjYb2zJpJpoGAc3SxTg9ySJqH0FFbrWacCeDD31EQ_bLR1DXGNTirqvX5Wk7_lWzD3XQk4BDrrA8ASEhBcclsgHZXnnniMYCn7ZevRGhSmZWBk3X5ybDs657EQyCAiqHpq5Q",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJRXnNf3D2wokRv1ZRuQDu4hc",
+    "plus_code": {
+        "compound_code": "R394+F3 New York, United States",
+        "global_code": "87G8R394+F3"
+    },
+    "reference": "ChIJRXnNf3D2wokRv1ZRuQDu4hc",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1721199694485477055",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

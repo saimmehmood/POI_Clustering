@@ -1,0 +1,190 @@
+{
+    "address_components": [
+        {
+            "long_name": "2255",
+            "short_name": "2255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2255 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2255 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(917) 464-5252",
+    "geometry": {
+        "location": {
+            "lat": 40.8136356,
+            "lng": -73.9444733
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8150396802915,
+                "lng": -73.94325671970849
+            },
+            "southwest": {
+                "lat": 40.8123417197085,
+                "lng": -73.94595468029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e027bc03498acb607c3d5833e8c14a3615e47369",
+    "international_phone_number": "+1 917-464-5252",
+    "name": "University Specialty pharmacy",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2374,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106934775148302656992/photos\">Chirag Pandya</a>"
+            ],
+            "photo_reference": "CmRaAAAACtScNxZxrPl3gCt_NvdSF3CbSSuj2GEF2LNBtOwRlKb4qe2LvwVa_TGXyb_VlEShEX1Q4kOGHwHQlJLSbEhQoLYknQfxKiFZott8TrqXLYAgDBQrWHCMSSUW0gMd-cJTEhAhEj-ZEF0RbF3pJBwV4nI5GhQpk6trl5-Khr9qGX0S9_tFo3TBoQ",
+            "width": 2647
+        }
+    ],
+    "place_id": "ChIJwXMTRUH3wokR4L5CsjBL03I",
+    "plus_code": {
+        "compound_code": "R374+F6 New York, United States",
+        "global_code": "87G8R374+F6"
+    },
+    "reference": "ChIJwXMTRUH3wokR4L5CsjBL03I",
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8274039612930965216",
+    "utc_offset": -300,
+    "vicinity": "2255 Adam Clayton Powell Junior Boulevard, New York"
+}

@@ -1,0 +1,114 @@
+{
+    "address_components": [
+        {
+            "long_name": "321",
+            "short_name": "321",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 152nd Street",
+            "short_name": "W 152nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">321 W 152nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "321 W 152nd St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8276134,
+            "lng": -73.93947779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82897758029149,
+                "lng": -73.93811711970848
+            },
+            "southwest": {
+                "lat": 40.82627961970849,
+                "lng": -73.9408150802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "1b58a87e488006dd55743d46b18ff258265df1a8",
+    "name": "Bradhurst Avenue Tenants Association",
+    "place_id": "ChIJRzXWKH72wokRdv7pXv0oRSc",
+    "plus_code": {
+        "compound_code": "R3H6+26 New York, United States",
+        "global_code": "87G8R3H6+26"
+    },
+    "rating": 5,
+    "reference": "ChIJRzXWKH72wokRdv7pXv0oRSc",
+    "reviews": [
+        {
+            "author_name": "Tawanna Yards",
+            "author_url": "https://www.google.com/maps/contrib/109608085287356729104/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zunbw1hhsdo/AAAAAAAAAAI/AAAAAAAAGFE/TbnLFMae-lg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1533318002
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2829713009556455030",
+    "utc_offset": -300,
+    "vicinity": "321 West 152nd Street, New York"
+}

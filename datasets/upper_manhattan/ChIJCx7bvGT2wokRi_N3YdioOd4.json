@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1662",
+            "short_name": "1662",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6105",
+            "short_name": "6105",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1662 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1662 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 491-6378",
+    "geometry": {
+        "location": {
+            "lat": 40.8236293,
+            "lng": -73.9489992
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249447302915,
+                "lng": -73.9475697197085
+            },
+            "southwest": {
+                "lat": 40.8222467697085,
+                "lng": -73.9502676802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5205cee92a3644f041b1638be65de1eeebdeb0d1",
+    "international_phone_number": "+1 212-491-6378",
+    "name": "Ministry Eagles Nest Restoration",
+    "place_id": "ChIJCx7bvGT2wokRi_N3YdioOd4",
+    "plus_code": {
+        "compound_code": "R3F2+FC New York, United States",
+        "global_code": "87G8R3F2+FC"
+    },
+    "reference": "ChIJCx7bvGT2wokRi_N3YdioOd4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16013015597394162571",
+    "utc_offset": -300,
+    "vicinity": "1662 Amsterdam Avenue, New York"
+}

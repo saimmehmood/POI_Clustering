@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "253",
+            "short_name": "253",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2605",
+            "short_name": "2605",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">253 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2605</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "253 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 283-2244",
+    "geometry": {
+        "location": {
+            "lat": 40.81696699999999,
+            "lng": -73.9449829
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8182236802915,
+                "lng": -73.9437024697085
+            },
+            "southwest": {
+                "lat": 40.8155257197085,
+                "lng": -73.94640043029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5a36fcd3b185e44686f4b5802caa8b7cc66342a9",
+    "international_phone_number": "+1 212-283-2244",
+    "name": "Kinks Development",
+    "place_id": "ChIJr9IqWHD2wokRVJrieucmAHM",
+    "plus_code": {
+        "compound_code": "R384+Q2 New York, United States",
+        "global_code": "87G8R384+Q2"
+    },
+    "reference": "ChIJr9IqWHD2wokRVJrieucmAHM",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8286666090002684500",
+    "utc_offset": -300,
+    "vicinity": "253 West 136th Street, New York"
+}

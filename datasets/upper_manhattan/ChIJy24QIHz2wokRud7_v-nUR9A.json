@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-8768",
+    "geometry": {
+        "location": {
+            "lat": 40.8247564,
+            "lng": -73.9415389
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261475802915,
+                "lng": -73.9402938697085
+            },
+            "southwest": {
+                "lat": 40.82344961970851,
+                "lng": -73.9429918302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6dc221f49132a883ec6ae6a3bc6dcdf5a3ad1827",
+    "international_phone_number": "+1 212-281-8768",
+    "name": "Cindy Yan, MS",
+    "place_id": "ChIJy24QIHz2wokRud7_v-nUR9A",
+    "plus_code": {
+        "compound_code": "R3F5+W9 New York, United States",
+        "global_code": "87G8R3F5+W9"
+    },
+    "reference": "ChIJy24QIHz2wokRud7_v-nUR9A",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15008198383649152697",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

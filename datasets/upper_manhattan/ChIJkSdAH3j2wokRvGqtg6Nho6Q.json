@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 4F",
+            "short_name": "# 4F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "630",
+            "short_name": "630",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1250",
+            "short_name": "1250",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">630 Malcolm X Blvd # 4F</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1250</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "630 Malcolm X Blvd # 4F, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 348-7963",
+    "geometry": {
+        "location": {
+            "lat": 40.8179218,
+            "lng": -73.9375408
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8192415802915,
+                "lng": -73.93602146970849
+            },
+            "southwest": {
+                "lat": 40.8165436197085,
+                "lng": -73.9387194302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "38c066778d00ee30ab0b6fbe83426bdab22900cb",
+    "international_phone_number": "+1 917-348-7963",
+    "name": "Applewhite Hospitality Academy",
+    "place_id": "ChIJkSdAH3j2wokRvGqtg6Nho6Q",
+    "plus_code": {
+        "compound_code": "R396+5X New York, United States",
+        "global_code": "87G8R396+5X"
+    },
+    "rating": 5,
+    "reference": "ChIJkSdAH3j2wokRvGqtg6Nho6Q",
+    "reviews": [
+        {
+            "author_name": "The Legendary Will",
+            "author_url": "https://www.google.com/maps/contrib/117556784487891242366/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-JuJwJnS_1xk/AAAAAAAAAAI/AAAAAAAAAIA/80FJTjQ5raQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "",
+            "time": 1543188618
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11863433198340762300",
+    "utc_offset": -300,
+    "vicinity": "630 Malcolm X Boulevard # 4F, New York"
+}

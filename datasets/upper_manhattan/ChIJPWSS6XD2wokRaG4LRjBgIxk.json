@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "207",
+            "short_name": "207",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2425",
+            "short_name": "2425",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">207 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2425</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "207 W 137th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-9402",
+    "geometry": {
+        "location": {
+            "lat": 40.81708099999999,
+            "lng": -73.9433169
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8183358302915,
+                "lng": -73.94203746970848
+            },
+            "southwest": {
+                "lat": 40.8156378697085,
+                "lng": -73.94473543029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1c2a430d5fda08e1a338000feaddc1ea3e735636",
+    "international_phone_number": "+1 212-234-9402",
+    "name": "Right Way Construction",
+    "place_id": "ChIJPWSS6XD2wokRaG4LRjBgIxk",
+    "plus_code": {
+        "compound_code": "R384+RM New York, United States",
+        "global_code": "87G8R384+RM"
+    },
+    "reference": "ChIJPWSS6XD2wokRaG4LRjBgIxk",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1811397235582922344",
+    "utc_offset": -300,
+    "vicinity": "207 West 137th Street, New York"
+}

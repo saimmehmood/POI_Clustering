@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2478",
+            "short_name": "2478",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7704",
+            "short_name": "7704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2478 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2478 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 426-8877",
+    "geometry": {
+        "location": {
+            "lat": 40.8149952,
+            "lng": -73.94761849999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81633573029151,
+                "lng": -73.9462495697085
+            },
+            "southwest": {
+                "lat": 40.81363776970851,
+                "lng": -73.9489475302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "23b89450f0c885234ff46deeff3479fcc7f55b48",
+    "international_phone_number": "+1 212-426-8877",
+    "name": "Zukoff Seth",
+    "place_id": "ChIJhTzy4nH2wokR5llL480PfkM",
+    "plus_code": {
+        "compound_code": "R372+XX New York, United States",
+        "global_code": "87G8R372+XX"
+    },
+    "reference": "ChIJhTzy4nH2wokR5llL480PfkM",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4863342024562792934",
+    "utc_offset": -300,
+    "vicinity": "2478 Frederick Douglass Boulevard, New York",
+    "website": "http://nycpiattorney.com/"
+}

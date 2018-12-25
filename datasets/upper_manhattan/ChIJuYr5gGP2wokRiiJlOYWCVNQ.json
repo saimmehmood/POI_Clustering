@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "536",
+            "short_name": "536",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">536 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "536 W 143rd St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8247042,
+            "lng": -73.95088369999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261414302915,
+                "lng": -73.94946851970849
+            },
+            "southwest": {
+                "lat": 40.8234434697085,
+                "lng": -73.9521664802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "2dd2f465e1f065853f6caf9ad13414297c4eb41d",
+    "name": "Hamilton Heights Beauty",
+    "place_id": "ChIJuYr5gGP2wokRiiJlOYWCVNQ",
+    "plus_code": {
+        "compound_code": "R2FX+VJ New York, United States",
+        "global_code": "87G8R2FX+VJ"
+    },
+    "rating": 1,
+    "reference": "ChIJuYr5gGP2wokRiiJlOYWCVNQ",
+    "reviews": [
+        {
+            "author_name": "Daistainbach@gmail.com Stainbach",
+            "author_url": "https://www.google.com/maps/contrib/118061288812908206154/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Ln2mowCm_i4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ-riaatRRROfnWKV1yrBkNKCrcqw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Muy feo y malo todo, hasta hab\u00eda una laucha en el departamento, todo sucio, sin dudas no lo recomiendo",
+            "time": 1530213869
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15299997342789608074",
+    "utc_offset": -300,
+    "vicinity": "536 West 143rd Street, New York"
+}

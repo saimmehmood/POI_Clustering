@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1",
+            "short_name": "# 1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1732",
+            "short_name": "1732",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4619",
+            "short_name": "4619",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1732 Amsterdam Ave # 1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4619</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1732 Amsterdam Ave # 1, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-4850",
+    "geometry": {
+        "location": {
+            "lat": 40.8258874,
+            "lng": -73.9474927
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271783302915,
+                "lng": -73.9460077197085
+            },
+            "southwest": {
+                "lat": 40.8244803697085,
+                "lng": -73.94870568029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "67352d7557d861c3bd3f91e55cfcc902118f23af",
+    "international_phone_number": "+1 212-234-4850",
+    "name": "Willkayra Multiservices Inc",
+    "place_id": "ChIJ3bDbzXz2wokRO0o84XClUAI",
+    "plus_code": {
+        "compound_code": "R3G3+92 New York, United States",
+        "global_code": "87G8R3G3+92"
+    },
+    "reference": "ChIJ3bDbzXz2wokRO0o84XClUAI",
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=166815090446453307",
+    "utc_offset": -300,
+    "vicinity": "1732 Amsterdam Avenue # 1, New York"
+}

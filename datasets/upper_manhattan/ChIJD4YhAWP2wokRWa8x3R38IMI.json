@@ -1,0 +1,295 @@
+{
+    "address_components": [
+        {
+            "long_name": "3549",
+            "short_name": "3549",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3549 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3549 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 491-0927",
+    "geometry": {
+        "location": {
+            "lat": 40.8269278,
+            "lng": -73.9505813
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82822163029149,
+                "lng": -73.9491003697085
+            },
+            "southwest": {
+                "lat": 40.8255236697085,
+                "lng": -73.95179833029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5e4af4f0c8fac31a95bf115cb6dcf86fa497a00e",
+    "international_phone_number": "+1 212-491-0927",
+    "name": "Foot Locker",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118198122851075346043/photos\">Alexis Caldwell</a>"
+            ],
+            "photo_reference": "CmRZAAAAccIX2pYcrwceDqg7XvuHMXXcz2L33g9-B7XnsASdA3rkP7xcBl5yQ68V7L6X0LQ2tb6CIaLsn5YAxr4Xe-di5uhRHXN0SqPc8XmdsLkZKU3HDDNM72oAbpZythLVP4wGEhANI8QuTnM_QAZ_iPOlUxpCGhSZe1lyHNO0vHUEU8TercbljzNluA",
+            "width": 4032
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112429145603518313300/photos\">Sat P</a>"
+            ],
+            "photo_reference": "CmRZAAAAfVML4yVftLvYxtnEXeTg0CeYKcRoPc6bk6kCt9jYPxLHzNfuNFacdfQUzzC-HyPbTay_lsNqFfjuFgw0EgbhAqTFAzd9F5qKWZ9ZBDxHzQEQlV-VvsN9XPVhbl6UuJ7WEhAYBBpOgOgh08x0uHS-Cwl-GhT1yVnLWPoTCFYleY8aXIjtJiFW0A",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118198122851075346043/photos\">Alexis Caldwell</a>"
+            ],
+            "photo_reference": "CmRZAAAAExO9rHreepPpNWMYEKBxClBJ-7VlBsrJXCj_sIS-A25W83Q2cLSAGw36rUbFnMQQpBU2hGcCmymsNcDTFDbFUo-p_AE07YbDhiVS53YvlWOjrzT_M9tzJgP6SvJzzedjEhBEJcqzTp7lqOy2qTZ19EvwGhQ0AY6s51N740qSPZI-Gsor5NVqbA",
+            "width": 4032
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107107504098344321655/photos\">mundo del video juego peralta</a>"
+            ],
+            "photo_reference": "CmRaAAAAe4W6byZQ5Xya1WqkMcKZ7lxi8SiI0ebAwZNP3bLUUqN_XWh7xby8j-gh5bVhbM32ixjsm7AQOmk9ARIAhuCuArW9ZkNOq-bOW32kEP6GFYhJNdRVl-MD7saxM4jBh5z-EhBxhIl6OGYP7dcm67PYpjSsGhSeM13uS9xQ2vffILcBjy2PpifOZQ",
+            "width": 4160
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110021111959581615438/photos\">Bielka Estrella</a>"
+            ],
+            "photo_reference": "CmRaAAAA6rL3oGd5SKpy1JEw_XmQN9Keb3X6d58LTO5jsg0OLKOKvcEIT_sukNaPxZz53CDaixn-qI-lnB6RrlWY9w8UVdGk9fg8W6_Dyeu_AzHm872Nf3JXQRPWJWfs2NyueJ4JEhAHPFfkOM9X9ZDsC-jZF5AtGhTaEzdN7EICUfyLCub3AI1fXP8e3Q",
+            "width": 1836
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109791750752727649448/photos\">J Rose</a>"
+            ],
+            "photo_reference": "CmRaAAAAbcxUjEEciSFugiuw0LO0hQjiN7AYbs-bzk-v4G-CdugHrXeZEZN3tQ75AA4u1CURrm9JEzZCkxvaae8Stwa79zYZStKY5KCt7fHG9sBCGagBPG99rv6OSOmyWMKNzSIXEhANZ0stpSri2Jpq13Z6y_AyGhS9FcsrPEeVWqDW_blQ8QyiphA-_Q",
+            "width": 450
+        }
+    ],
+    "place_id": "ChIJD4YhAWP2wokRWa8x3R38IMI",
+    "plus_code": {
+        "compound_code": "R2GX+QQ New York, United States",
+        "global_code": "87G8R2GX+QQ"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJD4YhAWP2wokRWa8x3R38IMI",
+    "reviews": [
+        {
+            "author_name": "A Hott",
+            "author_url": "https://www.google.com/maps/contrib/107379094474351641405/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-QepI3-Ez2nI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbhoQ3774-btPlxbK35r_h9PkOuEw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Tried to return a shoe that I bought from another location here, They came up with the most absurd excuses not to process a simple return. \nWill never buy from foot locker again.",
+            "time": 1536935899
+        },
+        {
+            "author_name": "Audrey Rose Young",
+            "author_url": "https://www.google.com/maps/contrib/110308156849014694506/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-l5chnTL6tBk/AAAAAAAAAAI/AAAAAAAABIQ/5AG_WlQ-vRs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "I have never been into the store, and I don\u2019t know if I ever will. I tried calling six times, and no one picked up. This does not bode well for their in-store behavior. I wanted to call to ask about stock before heading in, but no one picked up the phone.",
+            "time": 1511733976
+        },
+        {
+            "author_name": "Staggolee Howard",
+            "author_url": "https://www.google.com/maps/contrib/107100665466678194491/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-F-foCxLS53o/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaVMD3RckbuG-KaFK5SZKyHBF-m5g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Gave false information and does not like to help people",
+            "time": 1537161425
+        },
+        {
+            "author_name": "Steve Santiago",
+            "author_url": "https://www.google.com/maps/contrib/102952763751362940661/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-hcljAgjssSM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ2jhJlIcgBfjPPA8tdJXeYIYTljA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Horrible they didn\u2019t carry have sizes.",
+            "time": 1536276071
+        },
+        {
+            "author_name": "Chanel Page",
+            "author_url": "https://www.google.com/maps/contrib/111900775005664727989/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zGyARByJBxU/AAAAAAAAAAI/AAAAAAAAAAc/vydsg-MPRpg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Our local footlocker service is good people are helpful love this spot.",
+            "time": 1512133637
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13988457647808032601",
+    "utc_offset": -300,
+    "vicinity": "3549 Broadway, New York",
+    "website": "https://stores.footlocker.com/ny/new-york/3549-broadway.html"
+}

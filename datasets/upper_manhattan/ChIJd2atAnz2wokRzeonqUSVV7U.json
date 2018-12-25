@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "305",
+            "short_name": "305",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">305 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "305 W 146th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 862-2219",
+    "geometry": {
+        "location": {
+            "lat": 40.8239063,
+            "lng": -73.94192919999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82518708029149,
+                "lng": -73.94063056970849
+            },
+            "southwest": {
+                "lat": 40.82248911970849,
+                "lng": -73.9433285302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "6304603e1235500840b24ca82d459e8eec4966f6",
+    "international_phone_number": "+1 212-862-2219",
+    "name": "Strickland Flossie",
+    "place_id": "ChIJd2atAnz2wokRzeonqUSVV7U",
+    "plus_code": {
+        "compound_code": "R3F5+H6 New York, United States",
+        "global_code": "87G8R3F5+H6"
+    },
+    "reference": "ChIJd2atAnz2wokRzeonqUSVV7U",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13067076965967063757",
+    "utc_offset": -300,
+    "vicinity": "305 West 146th Street, New York"
+}

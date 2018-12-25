@@ -1,0 +1,296 @@
+{
+    "address_components": [
+        {
+            "long_name": "3594",
+            "short_name": "3594",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3594 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3594 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 491-2990",
+    "geometry": {
+        "location": {
+            "lat": 40.82800799999999,
+            "lng": -73.9489743
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82938933029149,
+                "lng": -73.9477011197085
+            },
+            "southwest": {
+                "lat": 40.8266913697085,
+                "lng": -73.9503990802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "f28c28d3247aca6dafd84c26583975387b522b11",
+    "international_phone_number": "+1 212-491-2990",
+    "name": "Jumbos Pizza",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 10:00 PM",
+            "Tuesday: 8:00 AM \u2013 10:00 PM",
+            "Wednesday: 8:00 AM \u2013 10:00 PM",
+            "Thursday: 8:00 AM \u2013 10:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 8:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111975543672082453726/photos\">Sudhir Bhargava</a>"
+            ],
+            "photo_reference": "CmRaAAAAQvzApI1Uic_Ts-CgfhHzlVHJMNiNtVoJn_KTIZxX8V6WgGFqJRfqaEX9DeQHefONp_WEIjOOvWyM3nnObgv-on_GiDUiK4SeY6Dr1P_xiuLnfHzhOnKl39IzaNhVhErqEhAfTI1cxGNEDy728Q-ua34OGhQzeGOZcmMa6SZyb5St9WT35K-fCQ",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108700446003974290383/photos\">hugo gutierrez</a>"
+            ],
+            "photo_reference": "CmRZAAAA5nW68zdDgPYMFkE_PEAZcvgbmMgwCDFUhGzAtNDmPgfmyQZsw-BJlqtRgYK0yRbUbyCb3mC33mihqYNDjrTgXceVn6BMCLf-iLD_WZbDyYFMO4JDEAhIIy3_3anGqykbEhCJjTj-1otlVYMrXuT5ycSqGhSfptiQYDk6az58dr2qT4i-IpkpEg",
+            "width": 4160
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111975543672082453726/photos\">Sudhir Bhargava</a>"
+            ],
+            "photo_reference": "CmRaAAAAAbXg2_yW77y9ovmXxrq6fEZItxFAqEIE7oXgjsGgc0nUxBy1K-o8KnzILB_TnxG2RjzKt3_mfheQWVSv9tlU3sBq0Ya7aVC-2qIxqYkF--vv1jzn1THEmoWEsmkUmpWiEhAbwR9Vf9BhwQPyKBuogB3vGhTAesQve5SxgDb9NY-OKp34EJ56Vw",
+            "width": 4160
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111975543672082453726/photos\">Sudhir Bhargava</a>"
+            ],
+            "photo_reference": "CmRaAAAAUP7RoTEjkS_HFkGmiijSHAtZ3zsjTEO2_iqQvuQm8N4NiidM_z1OMl58L6LFsM2d8zsjy098nM1Dh0-zRVeR1MwZMsd1m8XaUdlFyx-Eifj4QboY-ppxZ-lAte885LTsEhABgIV_5n49zRbtO_iw88DEGhTBtnjX3IMpXfI6mO4wGrz3pT9ckQ",
+            "width": 4160
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100777584772311376568/photos\">Anthony Escoto</a>"
+            ],
+            "photo_reference": "CmRaAAAADAV8CoYbMM6AL789BEzptXUGGlqUsiTm-xCnNn2MlgKB3TL4m0zuAvYWNq6Vzqa3LIDrM2aA29p00uso2LX5VDkv_E3uWLwy__M-IsSG8gFPIXz2d5dYsJfc7LapIExREhC8Pc3vJJLhce4VNlaex-6uGhSvAxTe48B7Tm2BhdJBURaUryLA4A",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107096158007478200721/photos\">SuperElevator Man3000</a>"
+            ],
+            "photo_reference": "CmRaAAAAoKdDfzH4JMl9jJLL1MOb4GLnwjdrwpQrGC9JrGxp3E8iXWFUJzQDdj2W_DPVvyM-Ix2xPMGGk98mu1rG9A13Rg4IPdHsiUZm5C6KFPwKyJu_IzmnfpZtssU6EIXErJuEEhDJj1eO9WYQmZlKk9PbufDmGhQDywvI1lHSpaHxKQPQo4m13XKe4Q",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJe4ujVyP2wokRukFP2hyg_co",
+    "plus_code": {
+        "compound_code": "R3H2+6C New York, United States",
+        "global_code": "87G8R3H2+6C"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJe4ujVyP2wokRukFP2hyg_co",
+    "reviews": [
+        {
+            "author_name": "Sudhir Bhargava",
+            "author_url": "https://www.google.com/maps/contrib/111975543672082453726/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-oBrJmRdQXdY/AAAAAAAAAAI/AAAAAAAAEBU/oJ44hLXCixs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Really nice food, good prices and extremely good service. Makes it easy to come here. I actually have not had the Pizza here, but have had the other food. Very fresh. The steak ans salad is really good. There'as basic chairs and tables on one side, and I find it easy to eat in with the food just cooked.",
+            "time": 1539991560
+        },
+        {
+            "author_name": "Chester R",
+            "author_url": "https://www.google.com/maps/contrib/104862461005262184081/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lHAyZm3xd1A/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYC-KigKo-l2zkKWkXp2xC5dUkcTg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I waited for almost twenty minutes for a burger while like 6 people who ordered after me got their orders before me. The burger was pretty mediocre. You\u2019re better off going to a local bodega or a McDonald\u2019s.",
+            "time": 1541644628
+        },
+        {
+            "author_name": "James Chilemi",
+            "author_url": "https://www.google.com/maps/contrib/104603885409271878443/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KRjifL_jH0M/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaQXOojcjNDtEBTHX0VF9e0DJP54Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Awesome pizzeria, the best in upper manhattan in my opinion. Definitely try their margherita pies, you won\u2019t be disappointed. Also, they serve Pite, a type of pizza that is originally from Greece, Albania, and Sicily. Really nice guys behind the counter too.",
+            "time": 1543888909
+        },
+        {
+            "author_name": "FOCKS PLAYS",
+            "author_url": "https://www.google.com/maps/contrib/112308336408865392124/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SrcFHrAGgw8/AAAAAAAAAAI/AAAAAAAAAHU/sTt0-gf4sBE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Best slice uptown, if not in the city. Worth the trek",
+            "time": 1544194554
+        },
+        {
+            "author_name": "Zaira Franco",
+            "author_url": "https://www.google.com/maps/contrib/110141620897359727887/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CTb1_prWLfE/AAAAAAAAAAI/AAAAAAAAGN8/lN85eAcwNek/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "The reviews had me hoping for something good, but pizza here disappoints. I was looking forward to it as I haven't had a great pizza pie uptown yet (other than Koronet, but they don't deliver). \n\nThe ingredients are below average - the cheese used has no taste and the bread is bland. The tomato sauce is passable, but all in all, it's a pie disappointment.",
+            "time": 1532993559
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14627023210551394746",
+    "utc_offset": -300,
+    "vicinity": "3594 Broadway, New York",
+    "website": "http://jumbospizzany.com/"
+}

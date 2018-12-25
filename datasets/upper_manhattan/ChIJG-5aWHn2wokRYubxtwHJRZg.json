@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "2726",
+            "short_name": "2726",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1239",
+            "short_name": "1239",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2726 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1239</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2726 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 694-5007",
+    "geometry": {
+        "location": {
+            "lat": 40.8226224,
+            "lng": -73.94182719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8240104802915,
+                "lng": -73.94057171970849
+            },
+            "southwest": {
+                "lat": 40.8213125197085,
+                "lng": -73.9432696802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bb7bd0fda491fa6025c0dddb01554a340d135acd",
+    "international_phone_number": "+1 212-694-5007",
+    "name": "2726 Realty Corporation",
+    "place_id": "ChIJG-5aWHn2wokRYubxtwHJRZg",
+    "plus_code": {
+        "compound_code": "R3F5+27 New York, United States",
+        "global_code": "87G8R3F5+27"
+    },
+    "reference": "ChIJG-5aWHn2wokRYubxtwHJRZg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10972397076376315490",
+    "utc_offset": -300,
+    "vicinity": "2726 Frederick Douglass Boulevard, New York"
+}

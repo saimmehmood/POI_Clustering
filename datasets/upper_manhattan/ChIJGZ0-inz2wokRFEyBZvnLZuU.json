@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "402 West 146th Street, New York, NY 10031, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "402 West 146th Street, New York, NY 10031, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 926-5031",
+    "geometry": {
+        "location": {
+            "lat": 40.824716,
+            "lng": -73.944906
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261653302915,
+                "lng": -73.9434847697085
+            },
+            "southwest": {
+                "lat": 40.8234673697085,
+                "lng": -73.94618273029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9781b36cd2c31cc832d59a1e4ba4622cafe35906",
+    "international_phone_number": "+1 212-926-5031",
+    "name": "Claudiene King, LPN",
+    "place_id": "ChIJGZ0-inz2wokRFEyBZvnLZuU",
+    "plus_code": {
+        "compound_code": "R3F4+V2 New York, United States",
+        "global_code": "87G8R3F4+V2"
+    },
+    "reference": "ChIJGZ0-inz2wokRFEyBZvnLZuU",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16530123754337029140",
+    "utc_offset": -300,
+    "vicinity": "402 West 146th Street, New York, NY 10031, New York"
+}

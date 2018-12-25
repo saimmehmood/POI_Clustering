@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "2217-2241",
+            "short_name": "2217-2241",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2217-2241 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2217-2241 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(305) 902-8704",
+    "geometry": {
+        "location": {
+            "lat": 40.8127479,
+            "lng": -73.9451249
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81414978029149,
+                "lng": -73.94390451970848
+            },
+            "southwest": {
+                "lat": 40.8114518197085,
+                "lng": -73.9466024802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6e61819e70a3023bcc07fde9c92e9367e78fc39c",
+    "international_phone_number": "+1 305-902-8704",
+    "name": "Ammar Bahr Real Estate",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJl4BzY1H3wokRs88GkEL39es",
+    "plus_code": {
+        "compound_code": "R373+3X New York, United States",
+        "global_code": "87G8R373+3X"
+    },
+    "reference": "ChIJl4BzY1H3wokRs88GkEL39es",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17002767833463443379",
+    "utc_offset": -300,
+    "vicinity": "2217-2241 Adam Clayton Powell Junior Boulevard, New York"
+}

@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2611",
+            "short_name": "2611",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3496",
+            "short_name": "3496",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2611 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3496</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2611 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 643-9993",
+    "geometry": {
+        "location": {
+            "lat": 40.81958950000001,
+            "lng": -73.94459479999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208902302915,
+                "lng": -73.94313216970849
+            },
+            "southwest": {
+                "lat": 40.8181922697085,
+                "lng": -73.9458301302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4f1f2c99b6adef5c31a1abca43b241f352c2c084",
+    "international_phone_number": "+1 646-643-9993",
+    "name": "J E Florist",
+    "place_id": "ChIJITzbYnr2wokR2jmHRDyAYcA",
+    "plus_code": {
+        "compound_code": "R394+R5 New York, United States",
+        "global_code": "87G8R394+R5"
+    },
+    "reference": "ChIJITzbYnr2wokR2jmHRDyAYcA",
+    "scope": "GOOGLE",
+    "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13862502124359203290",
+    "utc_offset": -300,
+    "vicinity": "2611 Frederick Douglass Boulevard, New York"
+}

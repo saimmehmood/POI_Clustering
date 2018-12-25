@@ -1,0 +1,168 @@
+{
+    "address_components": [
+        {
+            "long_name": "260",
+            "short_name": "260",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">260 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "260 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(347) 903-0237",
+    "geometry": {
+        "location": {
+            "lat": 40.82177129999999,
+            "lng": -73.94866569999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82306773029149,
+                "lng": -73.94719046970847
+            },
+            "southwest": {
+                "lat": 40.8203697697085,
+                "lng": -73.9498884302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4705f97a036578d3be2cd0160145b43c482cf13b",
+    "international_phone_number": "+1 347-903-0237",
+    "name": "Chris DaSilva Design",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJBZp_J2X2wokRuFIbMnJHJ_0",
+    "plus_code": {
+        "compound_code": "R3C2+PG New York, United States",
+        "global_code": "87G8R3C2+PG"
+    },
+    "reference": "ChIJBZp_J2X2wokRuFIbMnJHJ_0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18241627371479978680",
+    "utc_offset": -300,
+    "vicinity": "260 Convent Avenue, New York",
+    "website": "http://chrisdasilvadesign.com/"
+}

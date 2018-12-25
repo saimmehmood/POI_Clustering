@@ -1,0 +1,146 @@
+{
+    "address_components": [
+        {
+            "long_name": "112",
+            "short_name": "112",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Place",
+            "short_name": "Hamilton Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">112 Hamilton Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "112 Hamilton Pl, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8237524,
+            "lng": -73.949722
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8250528302915,
+                "lng": -73.9483234197085
+            },
+            "southwest": {
+                "lat": 40.8223548697085,
+                "lng": -73.95102138029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "677d9e1afe540dd2c0cb7ff7cecc1d370ce16bb3",
+    "name": "Laundry",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117036719661657118965/photos\">Humberto Mas</a>"
+            ],
+            "photo_reference": "CmRaAAAAXcL4T-Yqgqdl3fFsSSHWg68rWtGahUP2OGzJn5mOTDScGdSGGJgaFhp2R5hj2dU5Dei3YEKlXTH0CHDbW0myHAdhcLmyNMblkbknBUyLkr1KseIy68zzszvlQJtGS8BgEhAnacmOXpyhy5opfnfDeVeMGhTZclR8zdNyBtvZpWTfdfrx2F0B7g",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJY58-KTf3wokRuCAYX1jNECY",
+    "plus_code": {
+        "compound_code": "R3F2+G4 New York, United States",
+        "global_code": "87G8R3F2+G4"
+    },
+    "rating": 4,
+    "reference": "ChIJY58-KTf3wokRuCAYX1jNECY",
+    "reviews": [
+        {
+            "author_name": "Humberto Mas",
+            "author_url": "https://www.google.com/maps/contrib/117036719661657118965/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-WMlHaDVteK8/AAAAAAAAAAI/AAAAAAAAISE/vJcZltwaDVc/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice",
+            "time": 1541182524
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2742917952504864952",
+    "utc_offset": -300,
+    "vicinity": "112 Hamilton Place, New York"
+}

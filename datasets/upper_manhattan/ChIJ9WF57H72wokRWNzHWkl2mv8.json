@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "255",
+            "short_name": "255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3139",
+            "short_name": "3139",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">255 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3139</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "255 W 148th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-5811",
+    "geometry": {
+        "location": {
+            "lat": 40.8247261,
+            "lng": -73.94011490000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260216302915,
+                "lng": -73.9388054197085
+            },
+            "southwest": {
+                "lat": 40.8233236697085,
+                "lng": -73.94150338029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c1b99e6f67d6e5fb6e3b126ca8ca3c748f9ed5ce",
+    "international_phone_number": "+1 212-234-5811",
+    "name": "Site 14 Apartment Corporation",
+    "place_id": "ChIJ9WF57H72wokRWNzHWkl2mv8",
+    "plus_code": {
+        "compound_code": "R3F5+VX New York, United States",
+        "global_code": "87G8R3F5+VX"
+    },
+    "reference": "ChIJ9WF57H72wokRWNzHWkl2mv8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18418163683512802392",
+    "utc_offset": -300,
+    "vicinity": "255 West 148th Street, New York"
+}

@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-6804",
+    "geometry": {
+        "location": {
+            "lat": 40.8229091,
+            "lng": -73.942641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243486802915,
+                "lng": -73.94122171970848
+            },
+            "southwest": {
+                "lat": 40.82165071970851,
+                "lng": -73.94391968029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ce03ee56f080e075067382da66fd40d82f8a76d",
+    "international_phone_number": "+1 212-234-6804",
+    "name": "Evans & Al-Shabazz LLP",
+    "place_id": "ChIJ5R1VV3n2wokRlNYJ7F-bNmk",
+    "plus_code": {
+        "compound_code": "R3F4+5W New York, United States",
+        "global_code": "87G8R3F4+5W"
+    },
+    "rating": 1,
+    "reference": "ChIJ5R1VV3n2wokRlNYJ7F-bNmk",
+    "reviews": [
+        {
+            "author_name": "Mark Taylor",
+            "author_url": "https://www.google.com/maps/contrib/104292899889155573315/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-v2DT28VRFbE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbBCSxa5ypepVMhs9OIAMzn4DImvA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "run the worst  unethical firm ever i bet by the time this hits the review the firm should be closed. hires off the books do not pay people ,takes clients money and do not do the job , so many poor and troubled clients and they are to uneducated to defend themselves  and report these 2 lawyers to the bar ,they work and take from crocked clients. as fees knowing they are crooked.\n",
+            "time": 1434466088
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7581417859009074836",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York"
+}

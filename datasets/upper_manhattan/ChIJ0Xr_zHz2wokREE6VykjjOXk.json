@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "1730",
+            "short_name": "1730",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1730 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1730 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 665-3906",
+    "geometry": {
+        "location": {
+            "lat": 40.8258267,
+            "lng": -73.9475219
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271202302915,
+                "lng": -73.9460430197085
+            },
+            "southwest": {
+                "lat": 40.8244222697085,
+                "lng": -73.9487409802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "57b51e09c56b4040fc9711dacf1f9e67d01f05e9",
+    "international_phone_number": "+1 646-665-3906",
+    "name": "The Monkey Cup",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101514793841069666327/photos\">Perla Bisono</a>"
+            ],
+            "photo_reference": "CmRaAAAAEFwerxZv2shpjjMsn9Z7yHghILDY8FxD3FGmE1mVbuZZ9SxzuFLYneUwPyC4GNXNzFfv7he3ReADCTUC1_-s8TIN5cvDe534KJDJmbXqbnGLNl3QMtpUJuTbhLuVE1GWEhA2Wi4_7l5X-_wXxDkni-noGhS-aRHzEaLj-j-ilJctxUVc5c3fOA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103603162447616798982/photos\">Maria Armistead</a>"
+            ],
+            "photo_reference": "CmRaAAAAzuvvygfNV2M7DlFZ9_kOBXInI8ogoLEiY4V6a5MnExsmSTiUmXLVAxkTdN0ZmmxPEvhugZ31YjwDkAYKwRmyED4JaPKyKEuw2jvHn_GuPtY05bf31cZ32YT75y6eX0YiEhAHOaiDDSoq2ffw22cN6nAOGhRsbFvln8AqhcYEwFJoPVRHdiqyeQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101514793841069666327/photos\">Perla Bisono</a>"
+            ],
+            "photo_reference": "CmRaAAAAzL9_ESjUV3JFNKUqxnkAlVmoBRIeklTw-fLAhewRm8Xc5PSnjbZjP-UsaOM8OgaNLNMhwmys5ZMeVMeNwdvCXV8iq4Vn3R1uqdzQOO-k-K8dUGle_1Ejg4Z4Q0EeoDnMEhB2lQxO_NhPi-zHz0ozHWvHGhTC5iSv2uJ6nYRfzBWWbj9U_UrnSg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104485926123293826275/photos\">Luis V. Betances Sansur</a>"
+            ],
+            "photo_reference": "CmRaAAAAYGH1uRMBh6IAK6iC-BgItZQ-7dpssFFeLVSQKD6fWRAX1hNcI0vwmkbx33DvKjvoKTsFjVLfam27a2DDhx5Pyuj9T--VJ98puDCeauCFITAJMIGwbXmtW3nnLJ8rpzUMEhAiItSihg_2aIWBaaSi-ZKAGhQYzaYp8Bu2ELgvuhxPExsHdKXaww",
+            "width": 4032
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103228519422540832489/photos\">Marcus Withers</a>"
+            ],
+            "photo_reference": "CmRaAAAAM55uoSzuTbtO09s4BTfc262wcvhBwDpZvhueYxqX-r-q-UMCjLzJeRyD1b-KncwHnd1AfesH9Vn6yXLLYgyyZTFoVxJc2I-34vd-TeT3BuBnBxCRimgsraj1NtcKpxjpEhCzAaJ7V5-s7YPwGeodyWtkGhRUHCf5-fMRp8fzKH8zQFZiWoM3YQ",
+            "width": 1620
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111141027634159598434/photos\">Oliver Holt</a>"
+            ],
+            "photo_reference": "CmRaAAAA7sNdTJPByQ4EhCeMt08plJLK6nhc56cfajdDbIY3eWT8W1aU8iE0X-1uqrZion-3jpoQWZE-UFcXiuFDUyx_un9n955puSanE7CA7re3lNV47d8tw9CzoEhxB8SJ1hAEEhB0SsC49dl_GZao8R3rk47aGhQw2ozNT-fCOpfAfxVHWu1NuHjQzA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114707656177875382272/photos\">Antonio D&#39;souza</a>"
+            ],
+            "photo_reference": "CmRaAAAAil9McR00whas584V9v4fdJHKEze86UamhJTTuHF5GextqLRlrS8PGSRv45fjDCfzwbTJe9mh4JYGCXWWI1UM3LIoLrP3a9r-dEw156hqnWampZxFFbxQsAVbZ0d6l6rAEhCEFhX0jawSp7zwnAVcgvNuGhSimbn5kI8qRccOL7jxhUdForr-tQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101514793841069666327/photos\">Perla Bisono</a>"
+            ],
+            "photo_reference": "CmRaAAAAxkDwGwXteGbUfvAdiFQtKZ6AaCtvohVosZ1_02MqmtORCFM9FcME8_a9nDOUHw9OfSRZgau78w-iq0SoAC3Rt5909jdSSNZANuljJIbH9HsABwUaBxJnVxxcamgVGNkmEhAhOmqVqxN-ItPpz_YgDwt6GhTZP-_CLiqtaygZH9xm9Px48uwMBg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103603162447616798982/photos\">Maria Armistead</a>"
+            ],
+            "photo_reference": "CmRaAAAA6W7t61kCSLweT1VK_qAZdPG5kcJbB2oucV8sgao4qRB0Hghyq_HMH01CgrbSJtTp4Q4UwwW2c9GqQBvEGEM48avHgIncEnlRLzK2LkGlraB2rxa9x67RVVBDqOKHb_ZfEhChBREqDOHl0b07GyXiBnlPGhSkLAL0T_YbywGaoj1w02WjjaB1Iw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103351290564221594125/photos\">Kissy T.</a>"
+            ],
+            "photo_reference": "CmRaAAAAwbeEUgZ5FTz9W37HjY_TFPSyrjpaKmDT7j1YOCVuVEPyyyjNoabZurP1bV_6S6SXNKDAAG9dxGGNhiPn4O9aQiFGFr4VgHEOiiLo35YtAXRTFaFLVhpEffEYmwXy4cEuEhA-0FootiSnmJ67S_PLjl75GhT58J5b1JFdCdxUBxwGwqemqFzTVw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ0Xr_zHz2wokREE6VykjjOXk",
+    "plus_code": {
+        "compound_code": "R3G2+8X New York, United States",
+        "global_code": "87G8R3G2+8X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ0Xr_zHz2wokREE6VykjjOXk",
+    "reviews": [
+        {
+            "author_name": "Michael Prado",
+            "author_url": "https://www.google.com/maps/contrib/100884758962644661542/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0AvIUJwOxRg/AAAAAAAAAAI/AAAAAAAAAGY/6_wPeZ15Ugw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Delicious coffee. The Kyoto Monkey is delicious. The baristas are also very nice and helpful. Only reason why this fine establishment gets four stars is the prices. Little expensive for the neighborhood. But, if you\u2019re a coffee fan, don\u2019t let the prices deter you.",
+            "time": 1538839201
+        },
+        {
+            "author_name": "Alex Frizzell Drums",
+            "author_url": "https://www.google.com/maps/contrib/104721623188729894045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KJ83ll4M_78/AAAAAAAAAAI/AAAAAAAABF8/M9iMH5n_SN4/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Absolutely amazing! Such lovely and kind employees make everyone feel welcome. Plus their coffee is off the hook! Try their traditional cold brew, it\u2019s smooth and strong! I also had a cheese danish which was incredibly delicious. It\u2019s easy to miss, so be sure to keep a watchful eye open. But please do yourself a favor, check this place out.",
+            "time": 1536702921
+        },
+        {
+            "author_name": "Jon Horvitz",
+            "author_url": "https://www.google.com/maps/contrib/115811674435094924303/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BjyNutrv1C4/AAAAAAAAAAI/AAAAAAAABZc/NiZYjQdJYI0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Nice, cozy, friendly. Delicious almond croissant.  Wish there were a few more tables.",
+            "time": 1544110548
+        },
+        {
+            "author_name": "oscar bleetstein",
+            "author_url": "https://www.google.com/maps/contrib/103890951127861700285/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-j6OLdt8WAz4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYpzgPoZ5w3aHv2AiAS1kzF459Flg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Terrific vibe and some of the best coffee anywhere in NYC.  \n\n Separately, these folks took over a dingy storefront that had been empty for at least a decade,  turned it into a lovely place where everyone is welcome and employed local people... Really great all around.",
+            "time": 1536856978
+        },
+        {
+            "author_name": "alyssa Turner",
+            "author_url": "https://www.google.com/maps/contrib/117040061433873141074/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8kw52XtYhCI/AAAAAAAAAAI/AAAAAAAAAWI/VExeOT7P8mI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Their matcha latte is the best I\u2019ve ever tasted. Love this cozy & small atmosphere they have created. Best coffee shop in Hamilton Heights...or even nyc.",
+            "time": 1541973188
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8735262854037720592",
+    "utc_offset": -300,
+    "vicinity": "1730 Amsterdam Avenue, New York",
+    "website": "https://themonkeycup.com/"
+}

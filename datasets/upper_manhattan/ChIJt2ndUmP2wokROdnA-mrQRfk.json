@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "1701",
+            "short_name": "1701",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4655",
+            "short_name": "4655",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1701 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4655</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1701 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-6044",
+    "geometry": {
+        "location": {
+            "lat": 40.8246431,
+            "lng": -73.94780920000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82602893029149,
+                "lng": -73.94655041970849
+            },
+            "southwest": {
+                "lat": 40.82333096970849,
+                "lng": -73.94924838029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b25b385bad3cf0ba298196c3695a6b84f1c340db",
+    "international_phone_number": "+1 212-281-6044",
+    "name": "Rona Clothing",
+    "place_id": "ChIJt2ndUmP2wokROdnA-mrQRfk",
+    "plus_code": {
+        "compound_code": "R3F2+VV New York, United States",
+        "global_code": "87G8R3F2+VV"
+    },
+    "rating": 3,
+    "reference": "ChIJt2ndUmP2wokROdnA-mrQRfk",
+    "reviews": [
+        {
+            "author_name": "Diane Thomas",
+            "author_url": "https://www.google.com/maps/contrib/114891892347220344204/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-tmTPXadeZ9Y/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZmi1cW-M2mXhUrJRyWeRwwJZkRHQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "It is good I like it",
+            "time": 1517426729
+        },
+        {
+            "author_name": "Wayne Jason Gilbert",
+            "author_url": "https://www.google.com/maps/contrib/111252702472750621927/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6ngVYYjQG80/AAAAAAAAAAI/AAAAAAAAIt8/yX5K-sLb4qk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Not much to see plus the racks of clothes outside of the store.",
+            "time": 1509848024
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17961991846729144633",
+    "utc_offset": -300,
+    "vicinity": "1701 Amsterdam Avenue, New York"
+}

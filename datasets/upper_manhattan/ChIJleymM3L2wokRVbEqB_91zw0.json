@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8130556,
+            "lng": -73.9449999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8144422302915,
+                "lng": -73.9437424697085
+            },
+            "southwest": {
+                "lat": 40.8117442697085,
+                "lng": -73.9464404302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "2d90d04a55148804bf2abc1abdbbaa8f1c192c16",
+    "name": "Williams Christian Methodist Episcopal Church",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116443389476743789173/photos\">Cassandra Perry</a>"
+            ],
+            "photo_reference": "CmRaAAAA4Sbm_TwWasRlN1MsWnKsrLoubhdRNLgnjGpV9HdNBVQ1CzE6ZxsYCRi8YSf7XFJ_bYKToFM7TV6Hyo9_ErnNWOxO6hyrnMJAzCQ0dX6NECtwnioXfekz0C8CsBvAMHclEhDnqiykMQz80No4K0W24VrqGhQe8egj99Jr-qd-for9zrt8nMUf7A",
+            "width": 2268
+        }
+    ],
+    "place_id": "ChIJleymM3L2wokRVbEqB_91zw0",
+    "plus_code": {
+        "compound_code": "R374+62 New York, United States",
+        "global_code": "87G8R374+62"
+    },
+    "reference": "ChIJleymM3L2wokRVbEqB_91zw0",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=995143780869517653",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8186811,
+            "lng": -73.9415748
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81999718029149,
+                "lng": -73.9401401697085
+            },
+            "southwest": {
+                "lat": 40.8172992197085,
+                "lng": -73.9428381302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ec34525ee56283c74a9418d97aa17eeb0d6c6df6",
+    "name": "A&D Express Grocery",
+    "place_id": "ChIJ-alH-Xn2wokRTmI38j_gb8c",
+    "plus_code": {
+        "compound_code": "R395+F9 New York, United States",
+        "global_code": "87G8R395+F9"
+    },
+    "rating": 5,
+    "reference": "ChIJ-alH-Xn2wokRTmI38j_gb8c",
+    "reviews": [
+        {
+            "author_name": "D140",
+            "author_url": "https://www.google.com/maps/contrib/100017234536899941232/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MRChLnwWzrc/AAAAAAAAAAI/AAAAAAAAACY/UIe2UnP1QeE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1534891228
+        },
+        {
+            "author_name": "JERRY GRACE",
+            "author_url": "https://www.google.com/maps/contrib/103848822748188009325/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RNMAzAk8rJg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ3s7ZHyEaXcVEDgkj_LOJAtz6ZXw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1484213460
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14370951501213819470",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

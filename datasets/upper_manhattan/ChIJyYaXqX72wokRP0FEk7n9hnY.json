@@ -1,0 +1,271 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 146th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(917) 300-8246",
+    "geometry": {
+        "location": {
+            "lat": 40.8237436,
+            "lng": -73.94166779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82504428029151,
+                "lng": -73.9403544697085
+            },
+            "southwest": {
+                "lat": 40.82234631970851,
+                "lng": -73.9430524302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b9d1c67b17bd3b1a1467a86680b16ac1e437f7d5",
+    "international_phone_number": "+1 917-300-8246",
+    "name": "Queen of NY Nails",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 4:00 PM",
+            "Wednesday: 10:00 AM \u2013 4:00 PM",
+            "Thursday: 10:00 AM \u2013 4:00 PM",
+            "Friday: 10:00 AM \u2013 8:30 PM",
+            "Saturday: 10:00 AM \u2013 8:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116144600143493686691/photos\">Queen of NY Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAARqicCjw_cwY70BVdkxWmplZ3xYFxwVKFoc-UaT4qSDYRqyH_2XA9JslN5QjWKiLdn7yT2c2L057nTBokbo9_ynyeoQtV_LNEMjzqwTLmWPR--K-8-7jJlSNBRixHCj6hEhDSQv80Q5Zx57X99ltMKyfHGhRDZg2J6J2Ol2yzOyqszgTkLNoM4A",
+            "width": 1536
+        },
+        {
+            "height": 3037,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116144600143493686691/photos\">Queen of NY Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAFdwf6DLqLaMr0B8cOhBPZz1jLZvKRrWfK-v1pJZSBeMYfnEJw3ixslmNm4BwvgFx8htVVWJGMusRMmcNbjiTEHvG2YQuSQJNK40akQ2wQOTZmz2oOfBsA1rNQzxKdskTEhAEZdzHd59iAwEwZh7erGqtGhSsusJNDljZzwhCCtQ3MXvYDu3jTg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116144600143493686691/photos\">Queen of NY Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAGNh2n96RaEh70nYOWtF5H53LNlyrfbBp08K3dP8ewzILMOHm5kVwtMuyn9-51hAFoOfUGY5WCn9dE9qkR_RJl5bzLIT34Oxy0RGOjppJjAUeeoKwwN87OoK-5VoCBGqOEhD4lg_rsQEf5qWbjpj_rnI0GhSaZp1dbYLtP1XHjalNFKWcdRLiRQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116144600143493686691/photos\">Queen of NY Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAAVkD-vD6NX18ZzP7bjjvwBFQg5-yl7d58_uOo0a8Qn28KD9GNHwcr6wut8nnEFqQEmxabUJFv7tjik1Et-eCNB7SqIB82lFVLq1L86H7M1sZlBeO8qsrWtde7-eyRjWgEhAzewnO1PtdJX5OuevDwfRgGhSXkaQOWz1OLuI2knO-WKfAJ6ekEQ",
+            "width": 3024
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105641869838273604788/photos\">Desiree Kelly</a>"
+            ],
+            "photo_reference": "CmRaAAAA2408AwMKsCPHHx8rLuP0E9pmtlNCNUNG0bbQVYZrAvLwFOO77-0vr7gTxF0dg2oSDOE_3jzCdRJgL9eTLNTyObHdSP4EhuAf0l6uBXXM4IysVRKPKVbFuEleGYKkBzrwEhCFIb-NY7t-6rDybB77umOwGhS1O7rtV_JH0TzlYY_cP5DEswbmHw",
+            "width": 2610
+        },
+        {
+            "height": 3724,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100554897886356553293/photos\">Crystal Ann</a>"
+            ],
+            "photo_reference": "CmRaAAAARhUmuimCt6oy1fWVUSUOgDnCcM7qR3SbGlmvmjl48d7T_4BkhQXxvNI4lP2rYhuEA5pAGYISPx-aZZ_bsnyZhKQJDeV3TM9c23KVlbsqDxgH9vH8gLatrv0HPw_GJzjLEhBzVnJng_B9885YtXsjU_bVGhTI6Qr-gzilfUiEEDBpido9JnxxRg",
+            "width": 2095
+        }
+    ],
+    "place_id": "ChIJyYaXqX72wokRP0FEk7n9hnY",
+    "plus_code": {
+        "compound_code": "R3F5+F8 New York, United States",
+        "global_code": "87G8R3F5+F8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJyYaXqX72wokRP0FEk7n9hnY",
+    "reviews": [
+        {
+            "author_name": "Katherine Garcia",
+            "author_url": "https://www.google.com/maps/contrib/114072934742512722016/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-C328bCeUZnI/AAAAAAAAAAI/AAAAAAAAACM/FWkKRIm0vI8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Denise Is A perfectionist. You will not be disappointed! She's the best at what she does",
+            "time": 1541883318
+        },
+        {
+            "author_name": "Desiree Kelly",
+            "author_url": "https://www.google.com/maps/contrib/105641869838273604788/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vmI3ptO4LwI/AAAAAAAAAAI/AAAAAAAAAOM/pSG8GLQRil4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Very nice and professional nail tech. Love my nails simple and classic.",
+            "time": 1544129675
+        },
+        {
+            "author_name": "Crystal Ann",
+            "author_url": "https://www.google.com/maps/contrib/100554897886356553293/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lWcpSHam5TE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY8IdJ5PJzyQQv6_DxI9lE7sK2N7Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "My nails are perfection! I\u2019m telling you now Denise never disappoints! I will forever be going to her to get my nails done. She slays EVERY TIME! She can take all my money!!",
+            "time": 1532099204
+        },
+        {
+            "author_name": "jaytubes Freddie",
+            "author_url": "https://www.google.com/maps/contrib/116984268784809837598/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-r45ddRlWVeU/AAAAAAAAAAI/AAAAAAAAACo/Ik7lYTL66j4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I followed Queen of NY Nails for 4 months before I took the plunge and I wish I would\u2019ve went sooner! Denise is awesome. Down to earth, makes every appointment comfortable and very knowledgeable about her craft. I often have people from other establishments asked me \u201cwhere do you get your nails done at?! They\u2019re gorgeous \u201c\n\nCrystal S.\nJ.A.I.M E&T LLC",
+            "time": 1532093052
+        },
+        {
+            "author_name": "Mercedes Rivera",
+            "author_url": "https://www.google.com/maps/contrib/103572783333118497379/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GmgG7gZEPUU/AAAAAAAAAAI/AAAAAAAAAAw/YzXQvdO6iM4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541839927
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8540792716836225343",
+    "utc_offset": -300,
+    "vicinity": "301 West 146th Street, New York",
+    "website": "http://www.queenofnynails.pro/"
+}

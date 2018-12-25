@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8158936,
+            "lng": -73.93885329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81719633029149,
+                "lng": -73.93753936970849
+            },
+            "southwest": {
+                "lat": 40.8144983697085,
+                "lng": -73.9402373302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "bcbd183966610983732aafc898fa801a79d14b80",
+    "name": "Saint Mark's Roman Catholic Church",
+    "place_id": "ChIJHVHkqXf2wokRs00dn8owXMQ",
+    "plus_code": {
+        "compound_code": "R386+9F New York, United States",
+        "global_code": "87G8R386+9F"
+    },
+    "reference": "ChIJHVHkqXf2wokRs00dn8owXMQ",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14149237776102280627",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

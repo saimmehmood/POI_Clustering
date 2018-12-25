@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "7",
+            "short_name": "7",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Terrace",
+            "short_name": "Hamilton Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6412",
+            "short_name": "6412",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">7 Hamilton Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6412</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "7 Hamilton Terrace, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 862-1186",
+    "geometry": {
+        "location": {
+            "lat": 40.821929,
+            "lng": -73.94683289999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8233225302915,
+                "lng": -73.94559141970849
+            },
+            "southwest": {
+                "lat": 40.82062456970851,
+                "lng": -73.9482893802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "871630bf774652cba0032cebe673570eed301c45",
+    "international_phone_number": "+1 212-862-1186",
+    "name": "Broadway Spanish Baptist Church",
+    "photos": [
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111793281148483537299/photos\">Warren Sze</a>"
+            ],
+            "photo_reference": "CmRaAAAAs44YS4IpMSuI4eoMd_U12DRCpayihp2P5EZmYvj9l6CoQ_qKvGPlLyNimppO3_xRe3yrsAGZYD_j8CneJrFGccL6MRl4Wdi410UMf9s3nGcWC3GFpdElPwdna_xWaf71EhCf2wtOzRTVgHlEiC01-rHSGhQZ8N0g-zzdcFPbsEnqe-m4zDOFRA",
+            "width": 3456
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111793281148483537299/photos\">Warren Sze</a>"
+            ],
+            "photo_reference": "CmRaAAAAghuTxtqD8qjaQtBjFxSL8YjEYeRdV2H6UrtRQBUfv0PJUTUfe1otvh_NyaIzPNgU76HZg6m7_pO-_QbvKagYHWMLZmEphOa6xFPn6wd6fkQYflUvcz5Z5iytZQH2X2qEEhB54oAEdPM8hjRjghzi12sUGhT7SU-LaDDpfKDnK7gq2pBBrJggEw",
+            "width": 3456
+        }
+    ],
+    "place_id": "ChIJ85u1JXv2wokRSDtcLsMH-9E",
+    "plus_code": {
+        "compound_code": "R3C3+Q7 New York, United States",
+        "global_code": "87G8R3C3+Q7"
+    },
+    "reference": "ChIJ85u1JXv2wokRSDtcLsMH-9E",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15130695907959126856",
+    "utc_offset": -300,
+    "vicinity": "7 Hamilton Terrace, New York"
+}

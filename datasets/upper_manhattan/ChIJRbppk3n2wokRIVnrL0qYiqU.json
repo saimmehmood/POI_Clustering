@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.819534,
+            "lng": -73.94081899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208705302915,
+                "lng": -73.9394404697085
+            },
+            "southwest": {
+                "lat": 40.8181725697085,
+                "lng": -73.94213843029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "bc5f42ba1e71f7171eca253d6b95fd7c836da45a",
+    "name": "Adam C Powell Blvd/W 142 St",
+    "place_id": "ChIJRbppk3n2wokRIVnrL0qYiqU",
+    "plus_code": {
+        "compound_code": "R395+RM New York, United States",
+        "global_code": "87G8R395+RM"
+    },
+    "rating": 5,
+    "reference": "ChIJRbppk3n2wokRIVnrL0qYiqU",
+    "reviews": [
+        {
+            "author_name": "Abdoul balde",
+            "author_url": "https://www.google.com/maps/contrib/117934874343903487605/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aTrAMGSAxU4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYIYd7rEmEyD09fzP6O-nyN42edOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1525173532
+        },
+        {
+            "author_name": "william chisem",
+            "author_url": "https://www.google.com/maps/contrib/116784075026879608721/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-N62XDLbUg3Y/AAAAAAAAAAI/AAAAAAAAAP0/i3dqKcivM0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1500386370
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11928514007443134753",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

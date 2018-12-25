@@ -1,0 +1,257 @@
+{
+    "address_components": [
+        {
+            "long_name": "169",
+            "short_name": "169",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 133rd Street",
+            "short_name": "W 133rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3301",
+            "short_name": "3301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">169 W 133rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "169 W 133rd St, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 762-4950",
+    "geometry": {
+        "location": {
+            "lat": 40.8139109,
+            "lng": -73.9439488
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8151916802915,
+                "lng": -73.94265031970849
+            },
+            "southwest": {
+                "lat": 40.8124937197085,
+                "lng": -73.9453482802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c8e17e8985c0ca8954b476d19b66803ad7ccf5a7",
+    "international_phone_number": "+1 646-762-4950",
+    "name": "Harlem United's The Nest Community Health Center",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAAOg9uwq4K2niKB35UCKHeSZW_oxVfSy9V4F4_1LPicq7wNddYnssJYuv1hzAhuCK2Mtl_0vz6O22FLwVKRe8Yl6RD9Zc9oviGv_cJg0ccb3j66mnKQq1ieAERinHPzguUEhDwoeMTjyIfSBC-f7-SPs0JGhQLpj74ocFh4sryahnU6GH_IwK44A",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102817946998530967150/photos\">Donna Williams</a>"
+            ],
+            "photo_reference": "CmRaAAAAfi3ILkyAuL5IigImSlpQS2iZir6QtS2S52kjX3BK7Fz1eCojJidnOlvVkWAkOG09mkQECErr__H_9q-6TGwph6eywmz5FQTyMbyeg__xuZt2vmq3IAdE4e3HyGUbK4i6EhD1hkUOheBYU_Ri8rErNvt0GhT_Efwwd4IXZZI78ypXtitSV_INtw",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJ_3ndYnH2wokRy3rUHI3GHxE",
+    "plus_code": {
+        "compound_code": "R374+HC New York, United States",
+        "global_code": "87G8R374+HC"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ_3ndYnH2wokRy3rUHI3GHxE",
+    "reviews": [
+        {
+            "author_name": "Andrew Betz",
+            "author_url": "https://www.google.com/maps/contrib/117358993906257665504/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fiY1H-4Oxn4/AAAAAAAAAAI/AAAAAAAAASk/Sc9u1FJVQ68/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "I was ten minutes early to my appointment and taken in to have my vitals taken 40 minutes late.  I had to leave before the doctor came in because all I had budgeted was 45 minutes as all I needed was a short conversation, some questions answered.  The assistant who took my vitals was great but had to ask me questions from memory because the system was down(?!).  When the assistant informed the doctor I had to leave, the doctor said it was \"alright\" if I had to \"reschedule.\"  I did nothing wrong and required no permission to leave or reschedule, but I insist it's not alright to be so behind schedule when people have lives to attend to.  This was the infectious disease doctor--how irresponsible to not take more care when offering a vital service to folks who are trying to manage their health and thereby the health of those around them.  My time was wasted, and I will avoid this practice in the future.",
+            "time": 1543430280
+        },
+        {
+            "author_name": "Monroe Steele",
+            "author_url": "https://www.google.com/maps/contrib/113558065227434187230/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VDiZle4Tfuw/AAAAAAAAAAI/AAAAAAAACpI/v-0DRhzsa1Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I love Harlem Nest. I've gone for their dental services and primary care services and both experiences were exceptional. The doctors are attentive and informative and thorough. My every complaint was addressed. The staff and everyone who works here is very upbeat and friendly. You can tell everyone loves their jobs here, no attitudes or anything. I'd recommend this facility.",
+            "time": 1535625400
+        },
+        {
+            "author_name": "raymond perez",
+            "author_url": "https://www.google.com/maps/contrib/106546522831507917907/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-13budLaxPvk/AAAAAAAAAAI/AAAAAAAAjwA/M3W03Y2PvmA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "In the beginning the overall experience was satisfactory.... lately everything seems so much of a hassle ...... no one picks up the phones and there is always some sort of interdepartmental confusion leaving the patient to navigate and sort it out! SMH!  I'll b looking for another health center immediately",
+            "time": 1530897624
+        },
+        {
+            "author_name": "monroe steele",
+            "author_url": "https://www.google.com/maps/contrib/100786071408586657166/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--KsYSqHOFZs/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbeHiE_ud8iHfGa1OnBHCzD9VwTJw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "This experience was specifically for Doctor Pamela Mamoud. I have BV and I know thats what I have because I've gotten it several times. I usually go to Planned Parenthood see the doctor get a quick test, perhaps a pap smear, get tested for all STI's, get my medication and leave. It's a lengthy process there but super thorough. I'm surprised at how bad this experience was in stark contrast to Planned Parenthood. I came told the MD and Nurse why I was there. I got my pap, which was the most painful pap smear I've ever had. I've never bleed before but I bleed for two days afterward. She was not gentle at all and basically assaulted my cervix. Even when i expressed that is was extremely painful she just said its almost over. After that she was done. She never inuired to whether I wanted to be tested for STI's or anything. Which should have been standard being that BV can present like other STIs. I never got a prescription for BV which she could have tested for via PH right then but didn't. I had to go home and wait several days without a call or a prescription. I ended up just going back to Planned Parenthood a few days later and got everything I needed. What I waste. I won't be returning for womens health, atleast not to her. Doctor Kang is wonderful but wasn't available that day.",
+            "time": 1535626294
+        },
+        {
+            "author_name": "Chad Walton",
+            "author_url": "https://www.google.com/maps/contrib/104879905404892353995/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-H5sQx0ZQYcw/AAAAAAAAAAI/AAAAAAAAAGI/Xh-BuXYQ2CU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "The intake employee was obsessed over my sexual orientation and what gender i identify as instead of my overall health even more reason we need less liberal politicians",
+            "time": 1532208484
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1233923132299180747",
+    "utc_offset": -300,
+    "vicinity": "169 West 133rd Street, New York",
+    "website": "http://www.harlemunited.org/"
+}

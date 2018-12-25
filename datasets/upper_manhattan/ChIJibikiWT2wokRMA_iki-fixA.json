@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "518",
+            "short_name": "518",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6701",
+            "short_name": "6701",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">518 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6701</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "518 W 142nd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(347) 726-9797",
+    "geometry": {
+        "location": {
+            "lat": 40.8237615,
+            "lng": -73.9505092
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251841302915,
+                "lng": -73.9491064697085
+            },
+            "southwest": {
+                "lat": 40.8224861697085,
+                "lng": -73.9518044302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "31c9191147a6216d4cf0f352982ee9f0b90faee0",
+    "international_phone_number": "+1 347-726-9797",
+    "name": "Scissors Paper Roxbury Scssrs",
+    "place_id": "ChIJibikiWT2wokRMA_iki-fixA",
+    "plus_code": {
+        "compound_code": "R2FX+GQ New York, United States",
+        "global_code": "87G8R2FX+GQ"
+    },
+    "reference": "ChIJibikiWT2wokRMA_iki-fixA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1192221553046196016",
+    "utc_offset": -300,
+    "vicinity": "518 West 142nd Street, New York"
+}

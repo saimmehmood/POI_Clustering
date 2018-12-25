@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2295",
+            "short_name": "2295",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2870",
+            "short_name": "2870",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2295 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2870</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2295 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 491-3115",
+    "geometry": {
+        "location": {
+            "lat": 40.8149372,
+            "lng": -73.94357099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163329302915,
+                "lng": -73.9423378697085
+            },
+            "southwest": {
+                "lat": 40.8136349697085,
+                "lng": -73.9450358302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5c5892940d44487005641ca806e0c624417d22f0",
+    "international_phone_number": "+1 212-491-3115",
+    "name": "Salon Flor Unisex",
+    "place_id": "ChIJ7dvVFHH2wokRn-DBNDQC4YE",
+    "plus_code": {
+        "compound_code": "R374+XH New York, United States",
+        "global_code": "87G8R374+XH"
+    },
+    "reference": "ChIJ7dvVFHH2wokRn-DBNDQC4YE",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9358763923899277471",
+    "utc_offset": -300,
+    "vicinity": "2295 Adam Clayton Powell Junior Boulevard, New York"
+}

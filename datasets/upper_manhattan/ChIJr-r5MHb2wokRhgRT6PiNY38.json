@@ -1,0 +1,159 @@
+{
+    "address_components": [
+        {
+            "long_name": "10",
+            "short_name": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1765",
+            "short_name": "1765",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1765</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "10 W 138th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 368-5363",
+    "geometry": {
+        "location": {
+            "lat": 40.81470909999999,
+            "lng": -73.9368059
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161259802915,
+                "lng": -73.93540476970848
+            },
+            "southwest": {
+                "lat": 40.8134280197085,
+                "lng": -73.93810273029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b90f67a9ecf3b8767fa2622a4d4875f092d63941",
+    "international_phone_number": "+1 212-368-5363",
+    "name": "Chauncey Hooper Towers Inc",
+    "place_id": "ChIJr-r5MHb2wokRhgRT6PiNY38",
+    "plus_code": {
+        "compound_code": "R377+V7 New York, United States",
+        "global_code": "87G8R377+V7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJr-r5MHb2wokRhgRT6PiNY38",
+    "reviews": [
+        {
+            "author_name": "Leighton Pitters",
+            "author_url": "https://www.google.com/maps/contrib/114484175469414015888/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1xI8e-k2vZk/AAAAAAAAAAI/AAAAAAAADbI/7pQdbgjTJes/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Nice environment to live in",
+            "time": 1499348764
+        },
+        {
+            "author_name": "C.Angeli Walker",
+            "author_url": "https://www.google.com/maps/contrib/106071090720942836782/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xEPE6xpMMlQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ0WL8Psu7WBFNY4wBfT2f2uvgshw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1524311488
+        },
+        {
+            "author_name": "Rosalind Weinland",
+            "author_url": "https://www.google.com/maps/contrib/117071934601392857446/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sfN_dPCdJ50/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZnV4ky45uKd0seBdgaHQtRq9n51A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1507858722
+        },
+        {
+            "author_name": "Johnny Vega",
+            "author_url": "https://www.google.com/maps/contrib/116175800080045490535/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cH84ikaF1sU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbgJ5RHxlnk5FJMEXOa-Ymdt7xIiA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1505272666
+        },
+        {
+            "author_name": "Cherokee Plummer",
+            "author_url": "https://www.google.com/maps/contrib/106521669539657350090/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FZaK6ulNEKU/AAAAAAAAAAI/AAAAAAAABUU/Y3rr_VhnzAg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1502093566
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9179336565700363398",
+    "utc_offset": -300,
+    "vicinity": "10 West 138th Street, New York"
+}

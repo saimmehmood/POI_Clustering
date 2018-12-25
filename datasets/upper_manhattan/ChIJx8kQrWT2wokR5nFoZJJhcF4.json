@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "451-499",
+            "short_name": "451-499",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">451-499 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "451-499 W 143rd St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8236567,
+            "lng": -73.9478711
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249957302915,
+                "lng": -73.94651900000001
+            },
+            "southwest": {
+                "lat": 40.8222977697085,
+                "lng": -73.94923859999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bb2a4f1b73356b50e13a1f59ac89d68d210c4b0f",
+    "name": "451-499 W 143rd St",
+    "place_id": "ChIJx8kQrWT2wokR5nFoZJJhcF4",
+    "reference": "ChIJx8kQrWT2wokR5nFoZJJhcF4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=451-499+W+143rd+St,+New+York,+NY+10031,+USA&ftid=0x89c2f664ad10c9c7:0x5e706192646871e6",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

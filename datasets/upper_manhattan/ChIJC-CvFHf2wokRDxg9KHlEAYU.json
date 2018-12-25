@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "110",
+            "short_name": "110",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2287",
+            "short_name": "2287",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">110 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2287</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "110 W 139th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 222-3706",
+    "geometry": {
+        "location": {
+            "lat": 40.81689280000001,
+            "lng": -73.9400464
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8183160302915,
+                "lng": -73.93864256970849
+            },
+            "southwest": {
+                "lat": 40.81561806970851,
+                "lng": -73.9413405302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "d576f71283d7b6c4a392065c3ffd2892d5c2de20",
+    "international_phone_number": "+1 212-222-3706",
+    "name": "New York City Housing Authority's Frederick E. Samuel II M.H.O.P.",
+    "place_id": "ChIJC-CvFHf2wokRDxg9KHlEAYU",
+    "plus_code": {
+        "compound_code": "R385+QX New York, United States",
+        "global_code": "87G8R385+QX"
+    },
+    "reference": "ChIJC-CvFHf2wokRDxg9KHlEAYU",
+    "scope": "GOOGLE",
+    "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9584016769177950223",
+    "utc_offset": -300,
+    "vicinity": "110 West 139th Street, New York"
+}

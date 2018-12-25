@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "60",
+            "short_name": "60",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">60 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "60 W 142nd St, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 238-0403",
+    "geometry": {
+        "location": {
+            "lat": 40.8173564,
+            "lng": -73.93667099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8189872802915,
+                "lng": -73.9351106197085
+            },
+            "southwest": {
+                "lat": 40.8162893197085,
+                "lng": -73.9378085802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "707ccde53e2074ebb117b1a099117968034d0736",
+    "international_phone_number": "+1 917-238-0403",
+    "name": "Daniel GIttelman",
+    "photos": [
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104859266438840473193/photos\">Daniel GIttelman</a>"
+            ],
+            "photo_reference": "CmRaAAAANB_X0IHqKtuhT3FtqTX9OQfDz6DujF_ExnJvW8-9fSK3XPJerkcbth5g6OxDLsYrmIlaIxLIVdJ0nLR2DRnUdu4TeJdhO1QjTExDWz4IBrf6dgk6bfh8TSFufT9f9odIEhCW-2b9eRUdbb8iVX-84v_tGhRTkv8gkwScmoVtuFylWrtEuw52SA",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJvaDf-Xf2wokRDdIjCGNZDkw",
+    "plus_code": {
+        "compound_code": "R387+W8 New York, United States",
+        "global_code": "87G8R387+W8"
+    },
+    "reference": "ChIJvaDf-Xf2wokRDdIjCGNZDkw",
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5480416078429671949",
+    "utc_offset": -300,
+    "vicinity": "60 West 142nd Street, New York"
+}

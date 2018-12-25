@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "54",
+            "short_name": "54",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Macombs Place",
+            "short_name": "Macombs Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1808",
+            "short_name": "1808",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Macombs Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-1808</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "54 Macombs Pl, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-2571",
+    "geometry": {
+        "location": {
+            "lat": 40.8267806,
+            "lng": -73.9376941
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8281514802915,
+                "lng": -73.93636371970848
+            },
+            "southwest": {
+                "lat": 40.8254535197085,
+                "lng": -73.9390616802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "321aba92fc1d566c00138b8d6ef26e84226e6fbe",
+    "international_phone_number": "+1 212-491-2571",
+    "name": "Copy Box Net",
+    "place_id": "ChIJfxJKwX_2wokRBxMvmCYDzcU",
+    "plus_code": {
+        "compound_code": "R3G6+PW New York, United States",
+        "global_code": "87G8R3G6+PW"
+    },
+    "reference": "ChIJfxJKwX_2wokRBxMvmCYDzcU",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14253051859994350343",
+    "utc_offset": -300,
+    "vicinity": "54 Macombs Place, New York"
+}

@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "3c",
+            "short_name": "3c",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "507",
+            "short_name": "507",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">507 W 139th St #3c</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "507 W 139th St #3c, New York, NY 10031, USA",
+    "formatted_phone_number": "(315) 323-5659",
+    "geometry": {
+        "location": {
+            "lat": 40.821928,
+            "lng": -73.950948
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231835302915,
+                "lng": -73.94966731970851
+            },
+            "southwest": {
+                "lat": 40.8204855697085,
+                "lng": -73.95236528029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eaa345d74a23e569de287697319716674484c0b0",
+    "international_phone_number": "+1 315-323-5659",
+    "name": "William Young Photography",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJXWq9q2X2wokRCSTO9p-SisY",
+    "plus_code": {
+        "compound_code": "R2CX+QJ New York, United States",
+        "global_code": "87G8R2CX+QJ"
+    },
+    "reference": "ChIJXWq9q2X2wokRCSTO9p-SisY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14306408382033961993",
+    "utc_offset": -300,
+    "vicinity": "507 West 139th Street #3c, New York"
+}

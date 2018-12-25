@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.828129,
+            "lng": -73.93791999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82949978029149,
+                "lng": -73.93662236970849
+            },
+            "southwest": {
+                "lat": 40.82680181970849,
+                "lng": -73.9393203302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "c7f0bbbe25c3dde9edeb0fc7cbd052333b8208ff",
+    "name": "Fred Douglass Blvd/W 153 St",
+    "place_id": "ChIJO40KcYD2wokR456ZgkzzUCs",
+    "plus_code": {
+        "compound_code": "R3H6+7R New York, United States",
+        "global_code": "87G8R3H6+7R"
+    },
+    "reference": "ChIJO40KcYD2wokR456ZgkzzUCs",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3121262051701923555",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

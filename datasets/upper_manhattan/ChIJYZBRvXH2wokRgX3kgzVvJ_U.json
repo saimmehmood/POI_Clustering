@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 134th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8152561,
+            "lng": -73.94566859999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8166050802915,
+                "lng": -73.94292915
+            },
+            "southwest": {
+                "lat": 40.8139071197085,
+                "lng": -73.94840815
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e0b481276ab311162cfca7286024d923861c37fd",
+    "name": "201-299 W 134th St",
+    "place_id": "ChIJYZBRvXH2wokRgX3kgzVvJ_U",
+    "reference": "ChIJYZBRvXH2wokRgX3kgzVvJ_U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+134th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f671bd519061:0xf5276f3583e47d81",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

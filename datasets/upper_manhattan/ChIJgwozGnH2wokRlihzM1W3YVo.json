@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-0013",
+    "geometry": {
+        "location": {
+            "lat": 40.81567090000001,
+            "lng": -73.9437615
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81698678029151,
+                "lng": -73.9423330197085
+            },
+            "southwest": {
+                "lat": 40.81428881970851,
+                "lng": -73.9450309802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c9541e25166806e35b769b05a31bf22e09eb55a",
+    "international_phone_number": "+1 212-690-0013",
+    "name": "Last Style Beauty Salon",
+    "place_id": "ChIJgwozGnH2wokRlihzM1W3YVo",
+    "plus_code": {
+        "compound_code": "R384+7F New York, United States",
+        "global_code": "87G8R384+7F"
+    },
+    "reference": "ChIJgwozGnH2wokRlihzM1W3YVo",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6512688112717736086",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

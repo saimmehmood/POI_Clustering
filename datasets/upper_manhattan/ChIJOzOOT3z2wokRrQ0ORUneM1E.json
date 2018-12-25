@@ -1,0 +1,305 @@
+{
+    "address_components": [
+        {
+            "long_name": "#1",
+            "short_name": "#1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "741",
+            "short_name": "741",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4915",
+            "short_name": "4915",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">741 St Nicholas Ave #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4915</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "741 St Nicholas Ave #1, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 926-0133",
+    "geometry": {
+        "location": {
+            "lat": 40.82562110000001,
+            "lng": -73.9438495
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269310302915,
+                "lng": -73.9424063697085
+            },
+            "southwest": {
+                "lat": 40.82423306970851,
+                "lng": -73.9451043302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "e40c6ba7ac4b108030ee6034d03793002dc081c4",
+    "international_phone_number": "+1 212-926-0133",
+    "name": "Texas Star Snack Bar Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM",
+            "Tuesday: 7:00 AM \u2013 6:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 6:00 PM",
+            "Friday: 7:00 AM \u2013 6:00 PM",
+            "Saturday: 7:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112384290098233427976/photos\">Shuichi Aizawa</a>"
+            ],
+            "photo_reference": "CmRaAAAADhrAVZDOpTIPXWu6fSJzE3hDkFA9cu3X42W707Um2JYDTM7S-02_BGcbjpEFrwfru8oSC_oZKVjp2wyoI1uPkoKqNqKcCLwIRhQgPhKQCwrcIgeA_CCcW5by_3Fn0RZsEhAiqzwVw0PrmzGZCbfhrvx9GhQdhmT-9dDUmCBPR1bTasOd-SMkBQ",
+            "width": 4000
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112384290098233427976/photos\">Shuichi Aizawa</a>"
+            ],
+            "photo_reference": "CmRaAAAAXv0czzM2S6ycYQNCD9xDLSgh72BZsUqb6yrdX-zFchJGnG76icLbyb_U7gnFPzWlXzVSwWnmIQMjIQxWD6NrWOuBJCR5PLX2pWMe9bGta7_P4S1l1wcjphRiE1TnL_0jEhCIHvt9QNfRmFh3f2Rz_EosGhQYV1irFHZFKyFlMJgYQ1-bCtY8qQ",
+            "width": 4000
+        },
+        {
+            "height": 648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109271181368862987927/photos\">Walkertwentytwo NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA1LYe8SqzzwURz2gRm3kAbhf3nRgQhYgU8cH2-LJ4zNVsCl2OpngXxk7l1MkGxH6Z06QCiyezuDdAXUs_0yYPrFKG4NDotzjM88U0k3APbv01K1qqIIbiPz5FKe84cKgWEhBdoKt9oP2dOcmgA1nI-Og9GhQ5oihzA8ZRyGs0Naoac4VLX_Pg1Q",
+            "width": 1152
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115202212088223106988/photos\">Bell Bouba</a>"
+            ],
+            "photo_reference": "CmRaAAAAuyK2S44_do-jn6S4cTnYAuNOdhbvkQuf259PSZaPiAv510KS0m8_MaAjgQhARLP5ZdKGTwpAxu8Zi_nBsWeA6atbzPI1qmCPcf_hukh5k_n6jsLE2-ifvZmsWDhlgRChEhB-eDmx2JHg0tjp6rjxLN52GhR4-G39aSg_PExyTRDEnzHtw2nXmA",
+            "width": 4032
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115202212088223106988/photos\">Bell Bouba</a>"
+            ],
+            "photo_reference": "CmRaAAAAUyggpd9k7Wqtfews-bAMnJXPUoKjbT_24klGjgzywVYk13lhH-DJVpgZwNVTy05et6UlWyQ388lI5NbG3vMrEZ45W1Vtr8f-R1BdxLATsnXWhaHTrP4JOzAs4DWjPylAEhC8NC6uzAsZVfm0wCtv6gWiGhT3WOw-5zaDyqg5s2vzdLAa2UlxoQ",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115202212088223106988/photos\">Bell Bouba</a>"
+            ],
+            "photo_reference": "CmRaAAAAItk_Gff6D_4G767im8VJsjCJmJcEqxlTu4cIiCUvi6wdbLMO13NkKbELI7-T5jTJkDUtHA7w-jDq13BgW8XFu7Q4KTHoVW5x8-qtL2728hOws8GZq4oNgBTN9vp62KO2EhCV5oVIpdtjL7aXVqLLOEl1GhT-37tkcGeWoITQeUND1EFpS1Ibkg",
+            "width": 1920
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112526533024340829355/photos\">\u0411\u043e\u0433\u0434\u0430\u043d \u041b\u0435\u0432\u043a\u0456\u0432</a>"
+            ],
+            "photo_reference": "CmRaAAAAkwO0I0kPTfbw_xs166wogO8blPOnSauDWZjXND2oBA9jZNxeOE2uhAp4Jb6X7T9V3w_k-fHQ0GtzeYZ2h379Aw3Kdn5W_cLtqRWBbsFvJ2ydbq0P3BAAzlQMXAI3RlMREhBP-gxKraR3FqRlGnXKTPllGhTDGq2x6_k7oOVQuIYLlWJrBMwQPQ",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJOzOOT3z2wokRrQ0ORUneM1E",
+    "plus_code": {
+        "compound_code": "R3G4+6F New York, United States",
+        "global_code": "87G8R3G4+6F"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJOzOOT3z2wokRrQ0ORUneM1E",
+    "reviews": [
+        {
+            "author_name": "inPHAMEus",
+            "author_url": "https://www.google.com/maps/contrib/115514207372876577807/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6LDKQOEncK4/AAAAAAAAAAI/AAAAAAAApXE/-ly5JTHZl-I/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Good greasy spoon diner spot. Good food, priced cheap. Fast service. Get the half & half ice tea, whatever u do!",
+            "time": 1541870958
+        },
+        {
+            "author_name": "Devone Fowler",
+            "author_url": "https://www.google.com/maps/contrib/114940248322262140321/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-A5mGAeOvHgM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYgOdx2YdTH5E8pHiXz0g8_WEj-pg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great food at an affordable price. Not the biggest place but the food is worth the wait. Friendly owner and staff. Turkey Burger Delux always hits the spot. Nice breakfast menu as well served all day.",
+            "time": 1540834404
+        },
+        {
+            "author_name": "Aaron Blackshear",
+            "author_url": "https://www.google.com/maps/contrib/115487898443630709637/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0X6towhaXjQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYWhvwoko1U1bwOsjVrN1e8aEU6aw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I've been eating here for the past 30 yrs ..as a kid growing up.. .its apart of my life....everyone has are hear from the Great AZ of paid and full to tge late great rich porter....we call it the UN...cause when u go to eat.. Run into everyone I grew up with or may have known for years....the food has that straight out of the pan taste    ....like home   great prices....and humble staff....\nMy wish is for them to expand...and make it bigger  ...but that's wishful thinking for this landmark    ...my home diner...the greasy spoon...but I love it",
+            "time": 1540146858
+        },
+        {
+            "author_name": "Al Haqq Bishop",
+            "author_url": "https://www.google.com/maps/contrib/106992014683323019902/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-d6UxbhEaEvY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaAoY_dzdlNBbAaGPttQ7IqRDYjMg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "One of Harlem's best kept secrets I love this place.",
+            "time": 1523812296
+        },
+        {
+            "author_name": "hardy baskerville",
+            "author_url": "https://www.google.com/maps/contrib/105816215870628916492/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-H4m_8i7JDMk/AAAAAAAAAAI/AAAAAAAAh_c/3aXXAzsYNHc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "i  been going to this place since my childhood when the original owner was named Steve food was always great and very friendly",
+            "time": 1516372444
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5851264747156934061",
+    "utc_offset": -300,
+    "vicinity": "741 Saint Nicholas Avenue #1, New York"
+}

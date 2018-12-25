@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2243-2259",
+            "short_name": "2243-2259",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2243-2259 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2243-2259 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8136768,
+            "lng": -73.9447883
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81502573029149,
+                "lng": -73.94343931970849
+            },
+            "southwest": {
+                "lat": 40.81232776970849,
+                "lng": -73.94613728029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5a505de5c564ed2169990b880a8e9e8029dbfa1c",
+    "name": "2243-2259 Adam Clayton Powell Jr Blvd",
+    "place_id": "ChIJxaggK3L2wokRV6km8vRGKW0",
+    "reference": "ChIJxaggK3L2wokRV6km8vRGKW0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2243-2259+Adam+Clayton+Powell+Jr+Blvd,+New+York,+NY+10027,+USA&ftid=0x89c2f6722b20a8c5:0x6d2946f4f226a957",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

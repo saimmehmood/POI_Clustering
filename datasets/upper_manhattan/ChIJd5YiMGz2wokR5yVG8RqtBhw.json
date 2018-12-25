@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2729",
+            "short_name": "2729",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-2729</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "49 St Nicholas Terrace, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 280-1745",
+    "geometry": {
+        "location": {
+            "lat": 40.81412700000001,
+            "lng": -73.95131599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8154101802915,
+                "lng": -73.9498083697085
+            },
+            "southwest": {
+                "lat": 40.8127122197085,
+                "lng": -73.95250633029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "752398046b1687c3581affe706097b96cc87c25f",
+    "international_phone_number": "+1 212-280-1745",
+    "name": "49 Terrace Corporation",
+    "place_id": "ChIJd5YiMGz2wokR5yVG8RqtBhw",
+    "plus_code": {
+        "compound_code": "R27X+MF New York, United States",
+        "global_code": "87G8R27X+MF"
+    },
+    "reference": "ChIJd5YiMGz2wokR5yVG8RqtBhw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2019491814150907367",
+    "utc_offset": -300,
+    "vicinity": "49 Saint Nicholas Terrace, New York"
+}

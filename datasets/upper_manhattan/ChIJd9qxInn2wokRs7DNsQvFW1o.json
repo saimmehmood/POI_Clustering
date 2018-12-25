@@ -1,0 +1,114 @@
+{
+    "address_components": [
+        {
+            "long_name": "200A",
+            "short_name": "200A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">200A W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "200A W 145th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82178740000001,
+            "lng": -73.9396245
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231676302915,
+                "lng": -73.9382526197085
+            },
+            "southwest": {
+                "lat": 40.8204696697085,
+                "lng": -73.94095058029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "918061ac484fc7495d84baeed672181eee588460",
+    "name": "Tryp",
+    "place_id": "ChIJd9qxInn2wokRs7DNsQvFW1o",
+    "plus_code": {
+        "compound_code": "R3C6+P5 New York, United States",
+        "global_code": "87G8R3C6+P5"
+    },
+    "rating": 3,
+    "reference": "ChIJd9qxInn2wokRs7DNsQvFW1o",
+    "reviews": [
+        {
+            "author_name": "Silvia Wehner",
+            "author_url": "https://www.google.com/maps/contrib/100815954415297095492/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ETmjZzvzW7E/AAAAAAAAAAI/AAAAAAAAgL4/_5t0Whhldq0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1534770218
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6511014340312543411",
+    "utc_offset": -300,
+    "vicinity": "200A West 145th Street, New York"
+}

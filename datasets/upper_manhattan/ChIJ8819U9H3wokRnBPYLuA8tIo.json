@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "501w",
+            "short_name": "501w",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501w W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501w W 139th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8215939,
+            "lng": -73.9504919
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8229042302915,
+                "lng": -73.9491711697085
+            },
+            "southwest": {
+                "lat": 40.8202062697085,
+                "lng": -73.95186913029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3207695d32d730b5e19e16b1225d0b98ac785db2",
+    "name": "Grameen Am\u00e9rica",
+    "place_id": "ChIJ8819U9H3wokRnBPYLuA8tIo",
+    "plus_code": {
+        "compound_code": "R2CX+JR New York, United States",
+        "global_code": "87G8R2CX+JR"
+    },
+    "reference": "ChIJ8819U9H3wokRnBPYLuA8tIo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9994680406598226844",
+    "utc_offset": -300,
+    "vicinity": "501w West 139th Street, New York"
+}

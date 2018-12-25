@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 133rd Street",
+            "short_name": "W 133rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3203",
+            "short_name": "3203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 133rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 133rd St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-3296",
+    "geometry": {
+        "location": {
+            "lat": 40.8146289,
+            "lng": -73.946724
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8160789802915,
+                "lng": -73.9452997697085
+            },
+            "southwest": {
+                "lat": 40.8133810197085,
+                "lng": -73.9479977302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "32c00f64a5470aae4962aae0f6fa3efdbb770de2",
+    "international_phone_number": "+1 212-281-3296",
+    "name": "S & C Typing Services",
+    "place_id": "ChIJd-mX8XH2wokRbQ0XjsZiZwE",
+    "plus_code": {
+        "compound_code": "R373+V8 New York, United States",
+        "global_code": "87G8R373+V8"
+    },
+    "reference": "ChIJd-mX8XH2wokRbQ0XjsZiZwE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=101158121566047597",
+    "utc_offset": -300,
+    "vicinity": "220 West 133rd Street, New York"
+}

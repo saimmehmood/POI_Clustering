@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1721-1737",
+            "short_name": "1721-1737",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4611",
+            "short_name": "4611",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1721-1737 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4611</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1721-1737 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8255737,
+            "lng": -73.94736809999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82692263029149,
+                "lng": -73.94601906970848
+            },
+            "southwest": {
+                "lat": 40.82422466970849,
+                "lng": -73.94871703029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8c856073a5613df30a2e5db7bb8775e58e3a87df",
+    "name": "1721-1737 Amsterdam Ave",
+    "place_id": "ChIJYVpYyXz2wokRmKtGbjGSPxM",
+    "reference": "ChIJYVpYyXz2wokRmKtGbjGSPxM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1721-1737+Amsterdam+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67cc9585a61:0x133f92316e46ab98",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

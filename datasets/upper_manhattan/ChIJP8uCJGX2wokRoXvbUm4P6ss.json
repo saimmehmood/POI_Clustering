@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "240",
+            "short_name": "240",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9130",
+            "short_name": "9130",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">240 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9130</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "240 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-6490",
+    "geometry": {
+        "location": {
+            "lat": 40.8213947,
+            "lng": -73.9488459
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8227057302915,
+                "lng": -73.94740941970849
+            },
+            "southwest": {
+                "lat": 40.8200077697085,
+                "lng": -73.9501073802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "cb56e34d5e00554d5fa27b6250a8cbcb01a5187d",
+    "international_phone_number": "+1 212-281-6490",
+    "name": "HSMSE",
+    "place_id": "ChIJP8uCJGX2wokRoXvbUm4P6ss",
+    "plus_code": {
+        "compound_code": "R3C2+HF New York, United States",
+        "global_code": "87G8R3C2+HF"
+    },
+    "reference": "ChIJP8uCJGX2wokRoXvbUm4P6ss",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14693573700760599457",
+    "utc_offset": -300,
+    "vicinity": "240 Convent Avenue, New York",
+    "website": "http://www.hsmse.org/"
+}

@@ -1,0 +1,173 @@
+{
+    "address_components": [
+        {
+            "long_name": "503",
+            "short_name": "503",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7515",
+            "short_name": "7515",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">503 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-7515</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "503 W 139th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(718) 999-2000",
+    "geometry": {
+        "location": {
+            "lat": 40.8218743,
+            "lng": -73.9507981
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82312638029149,
+                "lng": -73.94951996970849
+            },
+            "southwest": {
+                "lat": 40.82042841970849,
+                "lng": -73.9522179302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "d77cfb3c5cae79f06074ba53bc5ac86ef92c63b3",
+    "international_phone_number": "+1 718-999-2000",
+    "name": "FDNY Engine 80/Ladder 23",
+    "photos": [
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106567476090342776170/photos\">Ricardo Larenas</a>"
+            ],
+            "photo_reference": "CmRaAAAAX-sQf_BKARynCQVLMU0qIkeeTmWbCaKxVMsEZRIzUZhmHUF9hueTiYX2wusBUC292esvgCoSYMBqfOFpqT7SvctaDsSSovhyb1U1c9neaIWhehVmDrQc9fQrUlGIw14qEhDQ_h0k_MxX2IFAM3GHo7S6GhQYokZ7iQpsud9wCVN-ELiBfnVksA",
+            "width": 719
+        }
+    ],
+    "place_id": "ChIJZ91_qWX2wokR4BLSFfd16nA",
+    "plus_code": {
+        "compound_code": "R2CX+PM New York, United States",
+        "global_code": "87G8R2CX+PM"
+    },
+    "rating": 4,
+    "reference": "ChIJZ91_qWX2wokR4BLSFfd16nA",
+    "reviews": [
+        {
+            "author_name": "Donna Forber",
+            "author_url": "https://www.google.com/maps/contrib/116709692042158564658/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Y6xVPY5zkKY/AAAAAAAAAAI/AAAAAAAAABg/zklKgcZjIcY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Just Love and respect all the men and women who make up the NYFD!!",
+            "time": 1480301720
+        },
+        {
+            "author_name": "Shadie Ferland",
+            "author_url": "https://www.google.com/maps/contrib/112044052003824504700/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kDfdp5hn_Hg/AAAAAAAAAAI/AAAAAAAAABk/xX0QDUwec4g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 years ago",
+            "text": "FDNY gta\n",
+            "time": 1392997604
+        },
+        {
+            "author_name": "Ricardo Larenas",
+            "author_url": "https://www.google.com/maps/contrib/106567476090342776170/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-TuuLu41JJKw/AAAAAAAAAAI/AAAAAAAAAAA/fKISHT_1dNQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Saludos desde 1 compa\u00f1ia bomberos concpecion chile",
+            "time": 1433006376
+        },
+        {
+            "author_name": "Ethan Wolvek",
+            "author_url": "https://www.google.com/maps/contrib/116426018164102927934/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qdqmSNyF0Q4/AAAAAAAAAAI/AAAAAAAAAGU/VTOl9c0dbno/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1504232504
+        },
+        {
+            "author_name": "Fabio Andrighetti",
+            "author_url": "https://www.google.com/maps/contrib/118336560737846671107/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fScGcrdxE14/AAAAAAAAAAI/AAAAAAAAACI/nGeCXtikEE0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1420656333
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "fire_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8136445380881683168",
+    "utc_offset": -300,
+    "vicinity": "503 West 139th Street, New York",
+    "website": "http://www.nyc.gov/fdny"
+}

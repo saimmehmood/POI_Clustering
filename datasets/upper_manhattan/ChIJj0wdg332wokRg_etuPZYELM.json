@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "455-499",
+            "short_name": "455-499",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">455-499 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "455-499 W 150th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8281108,
+            "lng": -73.9446164
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8294597302915,
+                "lng": -73.94324535000001
+            },
+            "southwest": {
+                "lat": 40.8267617697085,
+                "lng": -73.94598755
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "08e625196cb8b1d80d5abc18967ac843347cbdf0",
+    "name": "455-499 W 150th St",
+    "place_id": "ChIJj0wdg332wokRg_etuPZYELM",
+    "reference": "ChIJj0wdg332wokRg_etuPZYELM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=455-499+W+150th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67d831d4c8f:0xb31058f6b8adf783",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

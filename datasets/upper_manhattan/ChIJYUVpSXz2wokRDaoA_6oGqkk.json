@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "740-754",
+            "short_name": "740-754",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4002",
+            "short_name": "4002",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">740-754 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "740-754 St Nicholas Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8256431,
+            "lng": -73.94358869999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82699203029149,
+                "lng": -73.94223971970848
+            },
+            "southwest": {
+                "lat": 40.82429406970849,
+                "lng": -73.9449376802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0565c21a34667ba7790871e13ba90e0982261895",
+    "name": "740-754 St Nicholas Ave",
+    "place_id": "ChIJYUVpSXz2wokRDaoA_6oGqkk",
+    "reference": "ChIJYUVpSXz2wokRDaoA_6oGqkk",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=740-754+St+Nicholas+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67c49694561:0x49aa06aaff00aa0d",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

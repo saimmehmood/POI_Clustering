@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "530",
+            "short_name": "530",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">530 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "530 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-1000",
+    "geometry": {
+        "location": {
+            "lat": 40.8149586,
+            "lng": -73.9396356
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163859302915,
+                "lng": -73.9384840697085
+            },
+            "southwest": {
+                "lat": 40.8136879697085,
+                "lng": -73.9411820302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "02261166fca9a7c655a269be1156fb8341269264",
+    "international_phone_number": "+1 212-939-1000",
+    "name": "Dr. Diane A. Ferran, MD",
+    "place_id": "ChIJ2TuL6Xb2wokRysapb2r6VCE",
+    "plus_code": {
+        "compound_code": "R376+X4 New York, United States",
+        "global_code": "87G8R376+X4"
+    },
+    "reference": "ChIJ2TuL6Xb2wokRysapb2r6VCE",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2401819836342191818",
+    "utc_offset": -300,
+    "vicinity": "530 Malcolm X Boulevard, New York",
+    "website": "http://www.nyc.gov/"
+}

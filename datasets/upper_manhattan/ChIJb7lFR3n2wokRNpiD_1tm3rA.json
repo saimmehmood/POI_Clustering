@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "298-200",
+            "short_name": "298-200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">298-200 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "298-200 W 145th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8222561,
+            "lng": -73.9405465
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8236050802915,
+                "lng": -73.93780285
+            },
+            "southwest": {
+                "lat": 40.8209071197085,
+                "lng": -73.94329025
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d567419c56d8d8ce5266be838af1eceafc4a5bb6",
+    "name": "298-200 W 145th St",
+    "place_id": "ChIJb7lFR3n2wokRNpiD_1tm3rA",
+    "reference": "ChIJb7lFR3n2wokRNpiD_1tm3rA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=298-200+W+145th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f6794745b96f:0xb0de665bff839836",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "35-96",
+            "short_name": "35-96",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">35-96 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "35-96 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8281355,
+            "lng": -73.9488381
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8295234802915,
+                "lng": -73.94758056970849
+            },
+            "southwest": {
+                "lat": 40.8268255197085,
+                "lng": -73.9502785302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3798e7d5ae6200cb0f1f7164df97cd44daf8145c",
+    "name": "xcel brands",
+    "place_id": "ChIJw9DUuGL2wokRHTs8WpJ1fHE",
+    "plus_code": {
+        "compound_code": "R3H2+7F New York, United States",
+        "global_code": "87G8R3H2+7F"
+    },
+    "reference": "ChIJw9DUuGL2wokRHTs8WpJ1fHE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8177540294837549853",
+    "utc_offset": -300,
+    "vicinity": "35-96 Broadway, New York",
+    "website": "https://www.xcelbrands.com/"
+}

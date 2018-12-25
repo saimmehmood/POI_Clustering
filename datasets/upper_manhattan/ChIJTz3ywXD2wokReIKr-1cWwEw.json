@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "205",
+            "short_name": "205",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2406",
+            "short_name": "2406",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">205 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2406</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "205 W 137th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-8700",
+    "geometry": {
+        "location": {
+            "lat": 40.81705599999999,
+            "lng": -73.943258
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81831083029149,
+                "lng": -73.94197851970848
+            },
+            "southwest": {
+                "lat": 40.8156128697085,
+                "lng": -73.9446764802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4e4cca1ff84de3f2ef637bcbde271c9e672d09e8",
+    "international_phone_number": "+1 212-862-8700",
+    "name": "Greenup Jeff L",
+    "place_id": "ChIJTz3ywXD2wokReIKr-1cWwEw",
+    "plus_code": {
+        "compound_code": "R384+RM New York, United States",
+        "global_code": "87G8R384+RM"
+    },
+    "reference": "ChIJTz3ywXD2wokReIKr-1cWwEw",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5530444909551256184",
+    "utc_offset": -300,
+    "vicinity": "205 West 137th Street, New York"
+}

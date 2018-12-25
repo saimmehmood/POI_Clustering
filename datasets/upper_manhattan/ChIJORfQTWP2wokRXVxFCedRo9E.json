@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "1706",
+            "short_name": "1706",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1706 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1706 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(929) 428-1492",
+    "geometry": {
+        "location": {
+            "lat": 40.8249182,
+            "lng": -73.9480631
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8262328802915,
+                "lng": -73.9466300697085
+            },
+            "southwest": {
+                "lat": 40.8235349197085,
+                "lng": -73.94932803029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "52faea2d6c2af308e678beb72e9e64f034c9b48d",
+    "international_phone_number": "+1 929-428-1492",
+    "name": "MoneyGram",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:30 PM",
+            "Tuesday: 9:00 AM \u2013 9:30 PM",
+            "Wednesday: 9:00 AM \u2013 9:30 PM",
+            "Thursday: 9:00 AM \u2013 9:30 PM",
+            "Friday: 9:00 AM \u2013 9:30 PM",
+            "Saturday: 9:00 AM \u2013 9:30 PM",
+            "Sunday: 9:00 AM \u2013 9:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105923201148224892955/photos\">MoneyGram</a>"
+            ],
+            "photo_reference": "CmRaAAAAc4PfbpzIcgT6pGepdGldzLjYy6APaJvKBLmn6OmbNbenLmouXyL9p3FWHMksGttZ7QOG46XghOdbAbCVZuSYZWUmK6T15iqVtSfqNI6EgV-h56Vgr97Lt56OocMHDNBiEhA80X7bP0gLKVBBqWxwVGoDGhRbte2yGXArLC2NnoHbc4p77Yzh-g",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJORfQTWP2wokRXVxFCedRo9E",
+    "plus_code": {
+        "compound_code": "R3F2+XQ New York, United States",
+        "global_code": "87G8R3F2+XQ"
+    },
+    "reference": "ChIJORfQTWP2wokRXVxFCedRo9E",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15106007627865611357",
+    "utc_offset": -300,
+    "vicinity": "1706 Amsterdam Avenue, New York",
+    "website": "http://locations.moneygram.com/ny/new-york/291241699/"
+}

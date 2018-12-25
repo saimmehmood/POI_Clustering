@@ -1,0 +1,131 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2810",
+            "short_name": "2810",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 135th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2810</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 135th St #1, New York, NY 10030, USA",
+    "formatted_phone_number": "(347) 577-7791",
+    "geometry": {
+        "location": {
+            "lat": 40.8156487,
+            "lng": -73.9440224
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169244802915,
+                "lng": -73.9427272697085
+            },
+            "southwest": {
+                "lat": 40.8142265197085,
+                "lng": -73.9454252302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0a19c2e31e9e9582c6e0a0cb230bc9e81924152a",
+    "international_phone_number": "+1 347-577-7791",
+    "name": "Girlfriends Salon",
+    "place_id": "ChIJ1wxMBXH2wokRh88jRQOP-hE",
+    "plus_code": {
+        "compound_code": "R384+79 New York, United States",
+        "global_code": "87G8R384+79"
+    },
+    "rating": 5,
+    "reference": "ChIJ1wxMBXH2wokRh88jRQOP-hE",
+    "reviews": [
+        {
+            "author_name": "Tiffany Fogle",
+            "author_url": "https://www.google.com/maps/contrib/116558497170638066106/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Wa2fy30BJiI/AAAAAAAAAAI/AAAAAAAAABc/rBZx8t2r4Qo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Awesome",
+            "time": 1428133514
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1295505087030087559",
+    "utc_offset": -300,
+    "vicinity": "201 West 135th Street #1, New York"
+}

@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "2439",
+            "short_name": "2439",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2439 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2439 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 862-5183",
+    "geometry": {
+        "location": {
+            "lat": 40.8138958,
+            "lng": -73.9486762
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81530368029149,
+                "lng": -73.9472875197085
+            },
+            "southwest": {
+                "lat": 40.81260571970849,
+                "lng": -73.9499854802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "69bb766fe96c55b1ac70124943891149b04ee633",
+    "international_phone_number": "+1 212-862-5183",
+    "name": "New Betty Brite Cleaners",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ4RKm5W32wokRCSizwb2LaS4",
+    "plus_code": {
+        "compound_code": "R372+HG New York, United States",
+        "global_code": "87G8R372+HG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ4RKm5W32wokRCSizwb2LaS4",
+    "reviews": [
+        {
+            "author_name": "Corey Right",
+            "author_url": "https://www.google.com/maps/contrib/109777807971303870768/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZPg1f5zqWPc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ2EqkcVk0qvPDZqvI8SJ1RzvZVHQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1499184919
+        },
+        {
+            "author_name": "Sang Lee",
+            "author_url": "https://www.google.com/maps/contrib/109138785695697839440/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Uw-WrE2zAI8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbENJG1LPEFY7Sc0grhFn0cQHwSnQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1453557469
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3344357845414127625",
+    "utc_offset": -300,
+    "vicinity": "2439 Frederick Douglass Boulevard, New York"
+}

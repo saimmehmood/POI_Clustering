@@ -1,0 +1,137 @@
+{
+    "address_components": [
+        {
+            "long_name": "102",
+            "short_name": "102",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">102 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "102 Bradhurst Ave, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 348-8361",
+    "geometry": {
+        "location": {
+            "lat": 40.8245474,
+            "lng": -73.941532
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8257783802915,
+                "lng": -73.9400976197085
+            },
+            "southwest": {
+                "lat": 40.8230804197085,
+                "lng": -73.9427955802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1feb10908347a0dfaf538cbe145204107ab287e9",
+    "international_phone_number": "+1 212-348-8361",
+    "name": "NYC Parking 102 Bradhurst Ave. Corp.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJt0KYn372wokRewITHXLM5uw",
+    "plus_code": {
+        "compound_code": "R3F5+R9 New York, United States",
+        "global_code": "87G8R3F5+R9"
+    },
+    "rating": 2,
+    "reference": "ChIJt0KYn372wokRewITHXLM5uw",
+    "reviews": [
+        {
+            "author_name": "Alex Campbell",
+            "author_url": "https://www.google.com/maps/contrib/112253635780083124763/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5A52iueVj7I/AAAAAAAAAAI/AAAAAAAADTI/UxOM2TXFMsc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541297807
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17070556228080566907",
+    "utc_offset": -300,
+    "vicinity": "102 Bradhurst Avenue, New York",
+    "website": "http://www.ipark.com/"
+}

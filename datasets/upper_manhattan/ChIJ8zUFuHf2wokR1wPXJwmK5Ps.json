@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1534",
+            "short_name": "1534",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1534</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "50 W 139th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 234-4418",
+    "geometry": {
+        "location": {
+            "lat": 40.815925,
+            "lng": -73.9375094
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81732798029149,
+                "lng": -73.93612096970848
+            },
+            "southwest": {
+                "lat": 40.8146300197085,
+                "lng": -73.93881893029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "57e0489f05f6f77bf61975f9483b574411f46b47",
+    "international_phone_number": "+1 212-234-4418",
+    "name": "MHR Management",
+    "place_id": "ChIJ8zUFuHf2wokR1wPXJwmK5Ps",
+    "plus_code": {
+        "compound_code": "R386+9X New York, United States",
+        "global_code": "87G8R386+9X"
+    },
+    "reference": "ChIJ8zUFuHf2wokR1wPXJwmK5Ps",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18150784170137682903",
+    "utc_offset": -300,
+    "vicinity": "50 West 139th Street, New York"
+}

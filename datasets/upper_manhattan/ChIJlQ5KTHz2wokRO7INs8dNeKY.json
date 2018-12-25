@@ -1,0 +1,194 @@
+{
+    "address_components": [
+        {
+            "long_name": "749",
+            "short_name": "749",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">749 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "749 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-9800",
+    "geometry": {
+        "location": {
+            "lat": 40.8257826,
+            "lng": -73.94372419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270938302915,
+                "lng": -73.9422842697085
+            },
+            "southwest": {
+                "lat": 40.8243958697085,
+                "lng": -73.9449822302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "aa904f21bfac7ec066c3c14fc4c2957b36d31305",
+    "international_phone_number": "+1 212-234-9800",
+    "name": "21 Plumbing & Heating LLC",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: 8:30 AM \u2013 5:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJlQ5KTHz2wokRO7INs8dNeKY",
+    "plus_code": {
+        "compound_code": "R3G4+8G New York, United States",
+        "global_code": "87G8R3G4+8G"
+    },
+    "rating": 5,
+    "reference": "ChIJlQ5KTHz2wokRO7INs8dNeKY",
+    "reviews": [
+        {
+            "author_name": "Andre Mendoza",
+            "author_url": "https://www.google.com/maps/contrib/117365651960685447614/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qdbHfX9CR6s/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcabBgBO8Ypo0beCSe_t-iXodm35Zg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Love this company. Very sweet men. Family oriented business. I called them when i decided to re- model my kitchen. I was nervous because i didnt have a huge budget to work with. gladly they were able to work within my budget. I now love my kitchen and have dinner parties all the time.. I had a great experience",
+            "time": 1458856495
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "plumber",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11995423127599166011",
+    "utc_offset": -300,
+    "vicinity": "749 Saint Nicholas Avenue, New York",
+    "website": "http://21plumbingheatinginc.com/"
+}

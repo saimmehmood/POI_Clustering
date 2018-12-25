@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "3596",
+            "short_name": "3596",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3201",
+            "short_name": "3201",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3596 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3596 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-2337",
+    "geometry": {
+        "location": {
+            "lat": 40.8281344,
+            "lng": -73.9488382
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8295225302915,
+                "lng": -73.9475809197085
+            },
+            "southwest": {
+                "lat": 40.8268245697085,
+                "lng": -73.9502788802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "741b1cf4440935317e2723f0cb7c1b175b19685c",
+    "international_phone_number": "+1 212-234-2337",
+    "name": "148 Food Plaza Inc",
+    "place_id": "ChIJBwv0vmL2wokRn7HjAbOBKk4",
+    "plus_code": {
+        "compound_code": "R3H2+7F New York, United States",
+        "global_code": "87G8R3H2+7F"
+    },
+    "rating": 4.2,
+    "reference": "ChIJBwv0vmL2wokRn7HjAbOBKk4",
+    "reviews": [
+        {
+            "author_name": "miguel bisono",
+            "author_url": "https://www.google.com/maps/contrib/106885093725842393551/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1V8Z5P9daIs/AAAAAAAAAAI/AAAAAAAACcs/v9yqDBO1OxA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great variety",
+            "time": 1460514092
+        },
+        {
+            "author_name": "Mynor Osorio",
+            "author_url": "https://www.google.com/maps/contrib/116455994093501677140/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fvC23a2l1Lo/AAAAAAAAAAI/AAAAAAAAACQ/tUe5GJTKYAg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Excelente, se encuentra de todo",
+            "time": 1483121505
+        },
+        {
+            "author_name": "Sre Skww",
+            "author_url": "https://www.google.com/maps/contrib/103008429817189080747/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PyHvWm_JMHc/AAAAAAAAAAI/AAAAAAAAAA0/asjkv6yWUaM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1501895446
+        },
+        {
+            "author_name": "Abed Abdel",
+            "author_url": "https://www.google.com/maps/contrib/112077155092902531402/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JAlV8UI60cw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbAYt7sLSuy0JulTFJjc5rihklojw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1440096721
+        },
+        {
+            "author_name": "Jose Noriega",
+            "author_url": "https://www.google.com/maps/contrib/105721446377521888523/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3kzKp22X_TM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbDo01MV9wmZPE5iiGK8cZHaVcn5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1459704428
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "meal_delivery",
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5632456889811055007",
+    "utc_offset": -300,
+    "vicinity": "3596 Broadway, New York"
+}

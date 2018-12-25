@@ -1,0 +1,304 @@
+{
+    "address_components": [
+        {
+            "long_name": "632",
+            "short_name": "632",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4318",
+            "short_name": "4318",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "4318, <span class=\"street-address\">632 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4318</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "4318, 632 W 147th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-5678",
+    "geometry": {
+        "location": {
+            "lat": 40.828,
+            "lng": -73.95074199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8294432302915,
+                "lng": -73.9493230697085
+            },
+            "southwest": {
+                "lat": 40.8267452697085,
+                "lng": -73.9520210302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0a76428c6b5f1971ecbbea920091c62ebb787475",
+    "international_phone_number": "+1 212-234-5678",
+    "name": "Abel F. Hendy, DDS",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 9:30 AM \u2013 5:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 9:30 AM \u2013 5:00 PM",
+            "Friday: 9:30 AM \u2013 5:00 PM",
+            "Saturday: 9:30 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106870756907991260063/photos\">Abel Hendy</a>"
+            ],
+            "photo_reference": "CmRaAAAAxXlJon-AREc8lq5zXR3Sd7lj8TNLzrdkvnw-8iJrnwRn8r-Onqw4CUFLUa-jfRw39f5mwmiLkHYV2xmvH03rydw66rR7XSlB--hNot6uNF2pGcKqnsR0bLtPNM6yy8_wEhAPhIpUGfFofL6hpRsGN17EGhTKXevAYWY-uiCPcZ0wu3-KOOLZYQ",
+            "width": 2048
+        },
+        {
+            "height": 666,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAA-qUGxgC-nZEDGErNcLsPAt6D3m8_IUITqxutwBogl3zdUmCbbZCAzY-43IeZPBdU0KvpwISAjwZlk3wKZXMx7p2N_krAYoXkQVJcUU86xSNnB_iGP4cDvTNFv3Ixq1iYEhB_AvzDyz7eX-pMF48HG485GhSZGsf6_1WZiWQLu9Tjsxq8RNNZNA",
+            "width": 1000
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106870756907991260063/photos\">Abel Hendy</a>"
+            ],
+            "photo_reference": "CmRaAAAAR2ok3LT1bNQ_s4bzoeywhRf35S5h8wH-1ViAyPRQ2E9_-whWdw8Q0nmoNcS2ixEBErr3gTPB3EcKjrIeHqH-56V4TiEXG03RVCmFp8GC5DhJrPD2-9UNrQvsvBWarNw8EhDQKWC409dAJh8-cJ836YC4GhRmPBdl6uePDroYO46ymMWBhu3U-A",
+            "width": 2048
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAAZbaTiKTZ3fVu5gyNl922keBFpFktexSXUoXY31Ioi51ku7P1qeajdaUZfqEe90OoUtr3E1wKkNsrpxr1GLv8OZ9Psv-c0iwoVpu-sk7dt9OCnAYyGiKn0qE4uEyvqjD6EhA7D3KrT41GyHCM-ZVh2iv9GhQe_LXez3IcYmOixD7PONaehq8PFQ",
+            "width": 3456
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAANWn6rsxGeRhjT7SQaebUxe0yuSWenK2qUYp-1-7IqHYHmJ8CnqVsz3Stg1ZFoe18Ysj156S26fv7zN1mT1CJ8NZBawWmxR92K8Mz20dWVLHczWpZjMYZLFRgEY5qn9wqEhBYj5JujoXQIxLuEPMsxTscGhSBvr1OJr2RJ3Q8hl2P5I4imBo1iQ",
+            "width": 5184
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106870756907991260063/photos\">Abel Hendy</a>"
+            ],
+            "photo_reference": "CmRaAAAACXdEwKk6sQOol2n77zYdu2eVrhBaxAhp6PSHx-MXDip0V_wQoF9ah4kgl-q5ij5wyKehcY_VRjkxLtQDvSc8ZujnffWA8RuyGrzb9fCOxxXxGk51ynm090ZOGKrvahkgEhDSmuQeu7BAPtxZATrw3VVOGhSAUqZbAE4bJtGOkdAXmeCOQu9jYw",
+            "width": 2048
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106870756907991260063/photos\">Abel Hendy</a>"
+            ],
+            "photo_reference": "CmRaAAAAgsyGxkygNHf88JmEHheNa9NRCfrWi9insuDAk3amFqzaS5kwQ52cFzTa5vtplqE6Pj6WEL8vJA_Y03TviLqLFIRVb3kaFkKSE93ZTHHmkDZb9-dPBZ6fXSD-AmK_493mEhAUpX3DUjnFXGnbaBOcmQCHGhSz8GQU9zuyKwd2ZSCiq-SncByJ9A",
+            "width": 2048
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAA8RhohyhWOEqWXQY1oNKkhccRHBSV2gC6styN7aI6wmzP7SLc46CDf_rkuJMQxht9ZW-4XcJWfzs40XJSsloBObVJygTA28w2-m4xM8rNN3Hgx-pIUF2HqL8WHRI9CHiXEhCNmpE_OIPNxuS1u7tzcXtbGhSABfn9r7wj1vkK2eu2AIaXp5zMCA",
+            "width": 3456
+        },
+        {
+            "height": 666,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAA4_kJc-P46CgoDFFbAAKk0HKKfLmIrBDnJ2gqzIuZWNBIdnI7DO4y48FA5Qqa4PH-LSTflXcHtb3kpq4hqaF5q4i8HoVEzb5Mr--Mzt1GafyEwzg3TtL8oEtw5aJpxvCuEhDYCk5tT4mAIkM2uKUyt--yGhQxneAqxqaIr7qcr4cPAyKtZRyEfg",
+            "width": 1000
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105915847290967693480/photos\">Abel F. Hendy, DDS</a>"
+            ],
+            "photo_reference": "CmRaAAAAsXjc6FZEUQcYXxvVAIn7UeU-2MTaULCUVL1HA2C5u51AdT5EM-U3ZvsG_KEWBTKdVy0p9MnBIgE6c9LpbJ6Hu6_--h2oGk1-qc_htEUo8vMTKP9cSDmN8684Nhr1CXktEhB3hZWnD9LwJtgruhNHGrZdGhQa_gsyDmckv_1bzx4yK_IHcexmsA",
+            "width": 5184
+        }
+    ],
+    "place_id": "ChIJIcRFX2L2wokRbHxd-qNa41k",
+    "plus_code": {
+        "compound_code": "R2HX+6P New York, United States",
+        "global_code": "87G8R2HX+6P"
+    },
+    "rating": 4.6,
+    "reference": "ChIJIcRFX2L2wokRbHxd-qNa41k",
+    "reviews": [
+        {
+            "author_name": "Chris Blanco",
+            "author_url": "https://www.google.com/maps/contrib/111703548333048014803/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-eSaaRGjW3iE/AAAAAAAAAAI/AAAAAAAAAF4/QMO2n8b8Ark/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "My fathers teeth look great. They are coming along very well since starting this process with Dr Hendy in 2018 (Hector Soto is the patients name)",
+            "time": 1544498067
+        },
+        {
+            "author_name": "Wayne Gore",
+            "author_url": "https://www.google.com/maps/contrib/111207134521019075569/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kL8nE4vND8Y/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcapQvb2Idrwi5l9tzxKaJA0ROvreA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Dental work was not painful at all, the staff is very friendly and helpful with any questions. The dentist is very gentle and will ask you questions to help you choose the best options for your dental care step by step and very quick being seen once you arrive for your appointment.",
+            "time": 1540502953
+        },
+        {
+            "author_name": "Daniele E",
+            "author_url": "https://www.google.com/maps/contrib/100550859393144994235/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Jz09aIv-2mw/AAAAAAAAAAI/AAAAAAAAAvk/INL6CwD4Yaw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "He\u2019s been my family dentist since I was a kid. Really great dentist and bedside manner to match. Quality work and great staff.",
+            "time": 1516213286
+        },
+        {
+            "author_name": "Alexa Donaphin",
+            "author_url": "https://www.google.com/maps/contrib/102855872022979902679/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tOc9WQNBC04/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcayibeFjzo67_FrvvPW_YlWpQImSw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Easy and painless!! Highly recommend.",
+            "time": 1524840753
+        },
+        {
+            "author_name": "Hector Soto",
+            "author_url": "https://www.google.com/maps/contrib/108068681504448403137/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FG_2t5EWi9Y/AAAAAAAAAAI/AAAAAAAAByk/mgcSdeQL4n0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "BEYOND WORD'S",
+            "time": 1544501839
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "insurance_agency",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6477120349415505004",
+    "utc_offset": -300,
+    "vicinity": "4318, 632 West 147th Street, New York",
+    "website": "http://hendydds.com/"
+}

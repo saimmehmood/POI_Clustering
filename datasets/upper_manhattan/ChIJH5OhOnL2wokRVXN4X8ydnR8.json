@@ -1,0 +1,169 @@
+{
+    "address_components": [
+        {
+            "long_name": "2234",
+            "short_name": "2234",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2234 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2234 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 330-4835",
+    "geometry": {
+        "location": {
+            "lat": 40.8133004,
+            "lng": -73.9456162
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81459673029151,
+                "lng": -73.9441419197085
+            },
+            "southwest": {
+                "lat": 40.81189876970851,
+                "lng": -73.9468398802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "8b375e02ffd503024cd4e06e1bcf77807950eeee",
+    "international_phone_number": "+1 646-330-4835",
+    "name": "Mischelle's Catering",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 8:00 PM",
+            "Wednesday: 12:00 \u2013 8:00 PM",
+            "Thursday: 12:00 \u2013 8:00 PM",
+            "Friday: 12:00 \u2013 10:00 PM",
+            "Saturday: 12:00 \u2013 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJH5OhOnL2wokRVXN4X8ydnR8",
+    "plus_code": {
+        "compound_code": "R373+8Q New York, United States",
+        "global_code": "87G8R373+8Q"
+    },
+    "reference": "ChIJH5OhOnL2wokRVXN4X8ydnR8",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2278150487619957589",
+    "utc_offset": -300,
+    "vicinity": "2234 Adam Clayton Powell Junior Boulevard, New York"
+}

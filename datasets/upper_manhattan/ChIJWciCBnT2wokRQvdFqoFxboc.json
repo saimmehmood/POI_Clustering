@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "17j",
+            "short_name": "17j",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Malcolm X Blvd #17j</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Malcolm X Blvd #17j, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 748-5499",
+    "geometry": {
+        "location": {
+            "lat": 40.8130245,
+            "lng": -73.94132189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81429213029151,
+                "lng": -73.9399698197085
+            },
+            "southwest": {
+                "lat": 40.81159416970851,
+                "lng": -73.9426677802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "58015f9b0225261640b8f72c06fd6b39c3e3ce20",
+    "international_phone_number": "+1 917-748-5499",
+    "name": "Rockstar Student",
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113126259291640739837/photos\">Rockstar Student</a>"
+            ],
+            "photo_reference": "CmRaAAAA-XPUxEkPfvvYwIZD-T4q46QFM0a0DKdLFZK2rTH9jBrE4m_H46sR_ZVhw8yQvbEprIN_ErAcL2AgiihRI9aSVzgzSZHrtUVTUqO3oPg8_6KuFCQAZdIpobiAoqAAABEJEhAAVkwxLEe2PDXPSel8Z1mdGhTmvmtGm-xc-XPPh9P9Rr_kH2XEDg",
+            "width": 1360
+        }
+    ],
+    "place_id": "ChIJWciCBnT2wokRQvdFqoFxboc",
+    "plus_code": {
+        "compound_code": "R375+6F New York, United States",
+        "global_code": "87G8R375+6F"
+    },
+    "rating": 5,
+    "reference": "ChIJWciCBnT2wokRQvdFqoFxboc",
+    "reviews": [
+        {
+            "author_name": "alejandro ramirez",
+            "author_url": "https://www.google.com/maps/contrib/115764628340618160684/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-uvL5-HNGvJs/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca5tW8dctTArjEkfj9WqHe_kCyxhQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1454118008
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9758862244279875394",
+    "utc_offset": -300,
+    "vicinity": "470 Malcolm X Boulevard #17j, New York",
+    "website": "http://www.rockstarstudent.com/home.html"
+}

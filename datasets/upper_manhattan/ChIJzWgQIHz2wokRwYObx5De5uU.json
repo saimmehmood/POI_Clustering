@@ -1,0 +1,182 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 810",
+            "short_name": "# 810",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "102",
+            "short_name": "102",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3323",
+            "short_name": "3323",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">102 Bradhurst Ave # 810</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3323</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "102 Bradhurst Ave # 810, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-6144",
+    "geometry": {
+        "location": {
+            "lat": 40.824665,
+            "lng": -73.9415389
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82606638029149,
+                "lng": -73.9403190197085
+            },
+            "southwest": {
+                "lat": 40.8233684197085,
+                "lng": -73.9430169802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "592b8e02f20c4453631f76b5614fa7a03fc2cf14",
+    "international_phone_number": "+1 212-281-6144",
+    "name": "Andrew D Lewis Coaching",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJzWgQIHz2wokRwYObx5De5uU",
+    "plus_code": {
+        "compound_code": "R3F5+V9 New York, United States",
+        "global_code": "87G8R3F5+V9"
+    },
+    "reference": "ChIJzWgQIHz2wokRwYObx5De5uU",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16566172992734462913",
+    "utc_offset": -300,
+    "vicinity": "102 Bradhurst Avenue # 810, New York"
+}

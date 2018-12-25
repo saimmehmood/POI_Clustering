@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3149",
+            "short_name": "3149",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 148th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3149</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 148th St #1, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 926-3836",
+    "geometry": {
+        "location": {
+            "lat": 40.82385589999999,
+            "lng": -73.93779049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82510818029149,
+                "lng": -73.93651296970849
+            },
+            "southwest": {
+                "lat": 40.8224102197085,
+                "lng": -73.9392109302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dc463902a2a3749c8fc10c9eab42e0479d410764",
+    "international_phone_number": "+1 212-926-3836",
+    "name": "Tioga Democratic Club",
+    "place_id": "ChIJ8WxYPH_2wokR1MJ9_8CJILc",
+    "plus_code": {
+        "compound_code": "R3F6+GV New York, United States",
+        "global_code": "87G8R3F6+GV"
+    },
+    "reference": "ChIJ8WxYPH_2wokR1MJ9_8CJILc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13195698370208711380",
+    "utc_offset": -300,
+    "vicinity": "201 West 148th Street #1, New York",
+    "website": "http://manhattandemocrats.org/about/manhattan-democratic-clubs/"
+}

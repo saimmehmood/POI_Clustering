@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "101-199",
+            "short_name": "101-199",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101-199 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101-199 W 134th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8140347,
+            "lng": -73.9427666
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81538363029149,
+                "lng": -73.9400636
+            },
+            "southwest": {
+                "lat": 40.81268566970849,
+                "lng": -73.94546960000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f1abad816b54a2afcd991310ad3474b02c2a3dd0",
+    "name": "101-199 W 134th St",
+    "place_id": "ChIJySQCW3H2wokR2A7MaveBbTE",
+    "reference": "ChIJySQCW3H2wokR2A7MaveBbTE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=101-199+W+134th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f6715b0224c9:0x316d81f76acc0ed8",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

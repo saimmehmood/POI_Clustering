@@ -1,0 +1,137 @@
+{
+    "address_components": [
+        {
+            "long_name": "3571",
+            "short_name": "3571",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3571 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3571 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-1021",
+    "geometry": {
+        "location": {
+            "lat": 40.82756,
+            "lng": -73.94998869999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288731802915,
+                "lng": -73.94855511970849
+            },
+            "southwest": {
+                "lat": 40.8261752197085,
+                "lng": -73.9512530802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c5604194f6e0a7c074b0a628ea01329b6f6729f",
+    "international_phone_number": "+1 212-234-1021",
+    "name": "Total Looks Threading Salon",
+    "place_id": "ChIJZd3S72L2wokRY23Zb9OQE8M",
+    "plus_code": {
+        "compound_code": "R3H2+22 New York, United States",
+        "global_code": "87G8R3H2+22"
+    },
+    "rating": 2.3,
+    "reference": "ChIJZd3S72L2wokRY23Zb9OQE8M",
+    "reviews": [
+        {
+            "author_name": "Kiara Rojas",
+            "author_url": "https://www.google.com/maps/contrib/112496039192554020226/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ScBVvWkPAEY/AAAAAAAAAAI/AAAAAAAAACU/GaCO2Jwp6zw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I paid 20$ for eyelash extensions and right when i got home not even an hour later they all started to fall off. WORST place ever. Not the first time this happened either",
+            "time": 1540899669
+        },
+        {
+            "author_name": "leticia cruz",
+            "author_url": "https://www.google.com/maps/contrib/102998494934673994070/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-p78xyMuVtGw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcavkkeA6Hy1AvGplB4C3jK3dUFI5g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Went in in need of a wax and got out with Brazilian burns and bleeding worst and most painful wax ever I've been doing this for 3 years \n",
+            "time": 1499131652
+        },
+        {
+            "author_name": "anashuya shrestha",
+            "author_url": "https://www.google.com/maps/contrib/113301083028878039808/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FyP1sYjGocM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZKo9FHFEqahsTEnRjpZo-tjhdWAA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1501024718
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14056738099742469475",
+    "utc_offset": -300,
+    "vicinity": "3571 Broadway, New York",
+    "website": "https://www.totallooksthreading.com/"
+}

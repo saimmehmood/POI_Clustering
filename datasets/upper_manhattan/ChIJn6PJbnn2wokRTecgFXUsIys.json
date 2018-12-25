@@ -1,0 +1,188 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "229 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(805) 500-8096",
+    "geometry": {
+        "location": {
+            "lat": 40.82170000000001,
+            "lng": -73.9407812
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8229671302915,
+                "lng": -73.9394922697085
+            },
+            "southwest": {
+                "lat": 40.8202691697085,
+                "lng": -73.94219023029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "67c34f97692aefcfec9aee540687212d5bd5920b",
+    "international_phone_number": "+1 805-500-8096",
+    "name": "JtecX Computers - Cisco Experts",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 11:30 PM",
+            "Tuesday: 9:00 AM \u2013 11:30 PM",
+            "Wednesday: 9:00 AM \u2013 11:30 PM",
+            "Thursday: 9:00 AM \u2013 11:30 PM",
+            "Friday: 9:00 AM \u2013 11:30 PM",
+            "Saturday: 9:00 AM \u2013 11:30 PM",
+            "Sunday: 9:00 AM \u2013 11:30 PM"
+        ]
+    },
+    "place_id": "ChIJn6PJbnn2wokRTecgFXUsIys",
+    "plus_code": {
+        "compound_code": "R3C5+MM New York, United States",
+        "global_code": "87G8R3C5+MM"
+    },
+    "reference": "ChIJn6PJbnn2wokRTecgFXUsIys",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3108377049193047885",
+    "utc_offset": -300,
+    "vicinity": "229 West 144th Street, New York",
+    "website": "http://www.jtecx.com/"
+}

@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 512-6285",
+    "geometry": {
+        "location": {
+            "lat": 40.8270211,
+            "lng": -73.9506766
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282887802915,
+                "lng": -73.94913306970848
+            },
+            "southwest": {
+                "lat": 40.8255908197085,
+                "lng": -73.9518310302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2c902e9f437f4458ef2f99c95dd03623940645dd",
+    "international_phone_number": "+1 917-512-6285",
+    "name": "BareSoul Photography",
+    "place_id": "ChIJVVVVVWL2wokRw85-2xCNX5g",
+    "plus_code": {
+        "compound_code": "R2GX+RP New York, United States",
+        "global_code": "87G8R2GX+RP"
+    },
+    "rating": 5,
+    "reference": "ChIJVVVVVWL2wokRw85-2xCNX5g",
+    "reviews": [
+        {
+            "author_name": "david xerem",
+            "author_url": "https://www.google.com/maps/contrib/108738595523986951560/reviews",
+            "language": "pt",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1f7yu_EPkuM/AAAAAAAAAAI/AAAAAAAAA5Y/4-AYV3faRds/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "muito bom",
+            "time": 1541301879
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10979649520094072515",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

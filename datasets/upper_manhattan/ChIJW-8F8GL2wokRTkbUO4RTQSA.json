@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "3571",
+            "short_name": "3571",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3208",
+            "short_name": "3208",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3571 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3208</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3571 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-3800",
+    "geometry": {
+        "location": {
+            "lat": 40.8275631,
+            "lng": -73.9499778
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288776802915,
+                "lng": -73.9485474697085
+            },
+            "southwest": {
+                "lat": 40.8261797197085,
+                "lng": -73.95124543029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1239c61bb656aed4195a99b6c8ce5943129246d1",
+    "international_phone_number": "+1 212-283-3800",
+    "name": "Rapid Envio Inc",
+    "place_id": "ChIJW-8F8GL2wokRTkbUO4RTQSA",
+    "plus_code": {
+        "compound_code": "R3H2+22 New York, United States",
+        "global_code": "87G8R3H2+22"
+    },
+    "reference": "ChIJW-8F8GL2wokRTkbUO4RTQSA",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2324230710104442446",
+    "utc_offset": -300,
+    "vicinity": "3571 Broadway, New York"
+}

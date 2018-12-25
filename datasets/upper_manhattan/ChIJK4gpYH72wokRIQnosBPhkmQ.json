@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "301-325",
+            "short_name": "301-325",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 149th Street",
+            "short_name": "W 149th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301-325 W 149th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301-325 W 149th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8255848,
+            "lng": -73.94055519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82693373029149,
+                "lng": -73.93920626970849
+            },
+            "southwest": {
+                "lat": 40.82423576970849,
+                "lng": -73.9419042302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7032312a94bf98db769ac4133aa65b784feda4e7",
+    "name": "301-325 W 149th St",
+    "place_id": "ChIJK4gpYH72wokRIQnosBPhkmQ",
+    "reference": "ChIJK4gpYH72wokRIQnosBPhkmQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=301-325+W+149th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67e6029882b:0x6492e113b0e80921",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

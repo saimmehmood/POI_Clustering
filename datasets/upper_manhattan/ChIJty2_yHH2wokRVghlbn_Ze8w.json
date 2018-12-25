@@ -1,0 +1,293 @@
+{
+    "address_components": [
+        {
+            "long_name": "2520",
+            "short_name": "2520",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2520 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2520 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(917) 295-3563",
+    "geometry": {
+        "location": {
+            "lat": 40.81602090000001,
+            "lng": -73.9465664
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8174236802915,
+                "lng": -73.9453472197085
+            },
+            "southwest": {
+                "lat": 40.8147257197085,
+                "lng": -73.94804518029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1e3d04195827834c154e7cf858f7674b5187bfde",
+    "international_phone_number": "+1 917-295-3563",
+    "name": "YSB Salon NYC",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: 10:30 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 473,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAQaZWm0dB_9dzTW5S9h0RVUlXgKiS7cvFQmSxQhbJjHT2GMQqqFYox88dfhdRp1oxGnn7ECI1M-yzdFmrOijW29CQyiTQOBPXkSQK2nLp9SnMN1J0Y6E1dOs-t5ASFNGSEhD5NTIa25l_Qqvgss_zD4f8GhQyzafNE1gr1doDhx5DV8Iv8L9xnw",
+            "width": 634
+        },
+        {
+            "height": 427,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA3IwiEVwMmrUk3ipwhBmWBko7JaBTlgrQnklyA7iyiJEcjrKLdTDo14-C69qj1Q0dP4g3lC1cGlhkHNEkOX5W4U1Jlr8fM9DGm5PYNSdGmPylQDso4g-GnuBZZ8Azu74jEhCYXqekS5-lt32tVakAa6rbGhSJQQbattzU5MPQE6Q9uwGDwy7nUg",
+            "width": 790
+        },
+        {
+            "height": 1136,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAALW2_4LS41jEMMnPKTOHaPLHQsWkPlUkTMW8s6pujA5mtPpsWzoDvECaQNuvi9vMmzd4hn36bRWRweFYOpkExutVYAKAZ5-eGXD8PiSKYUst-GYjE0Eo_G35ILLW4uJbzEhDKSGA5Cy_iiFMzZe5r5v8HGhSjAZnrgNxSIJLMqVwIPFDSZmxJLw",
+            "width": 640
+        },
+        {
+            "height": 9975,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA5WoxneMUtOJzRFghIkxhbhfxgMPo3DMOD8uNnx4-W8OZI8-B6tmAadYWrqDtrYNHbJ-UtnJF4RozFEGSLRXvQKb9Q-r-oPX6n_Ni2IVvEymPwAuQk-qV3_k5FZniyPFsEhDTHliSD1pmqhayk7KMhUYRGhRGAdzXexIindYPlm_wIguZrGBPcw",
+            "width": 6975
+        },
+        {
+            "height": 5125,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA5wSKmz6plG44Hjgx-v9V0FR1ks5diYtYJsu_iuVmKlf4KfpphdyvmZo1Vp_FKtWH1iDifSeZLUG_pWORfDKc6mLA8HGqy03ifxxlB1rNI5tF2YZKeC19Rio3lcYKoggdEhBo1yjKm1vf18db_sd01m3bGhRsWAPc8sZhhfOTzUbqzYt_59KjZA",
+            "width": 3304
+        },
+        {
+            "height": 351,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114232837372319309665/photos\">YSB Salon NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAMiE1S0OrC7QxF7yDk7I4E95ofwWMqM6yGPe_b84v_lsEQbDzb5YLAn01gqX3kRVBVIAwqwTIXeZ0GxCDV5Pkv4m9UKPXcr5zS9YEuASVuz6VhikDU0ZG8XkF7ZjxOjVDEhBFvGj2jLxzgYjbLwdy-u_XGhS_GX_OCBnOo7iAV7_fJkkUdPBtpw",
+            "width": 351
+        }
+    ],
+    "place_id": "ChIJty2_yHH2wokRVghlbn_Ze8w",
+    "plus_code": {
+        "compound_code": "R383+C9 New York, United States",
+        "global_code": "87G8R383+C9"
+    },
+    "rating": 3.9,
+    "reference": "ChIJty2_yHH2wokRVghlbn_Ze8w",
+    "reviews": [
+        {
+            "author_name": "Jack Mack",
+            "author_url": "https://www.google.com/maps/contrib/102870187072418848619/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zcwQBfGcWCo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYuiplPRdNYd_HJHIL_2p8u2F11OA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I was looking for a hair salon to dye and layer my extensions. Juana is such a sweetheart this my first time every going there. She treated me with so much respected and really listen to what I wanted. I love how she didn't rush and took her time to make sure I was happy with my service. If you go there I recommend Juana she did a wonderful job I was impressed I will see her again. Thanks Juana for all your help from Angelina.",
+            "time": 1532975678
+        },
+        {
+            "author_name": "Jhertira Chandler",
+            "author_url": "https://www.google.com/maps/contrib/115243087168608471394/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-G_M29bGKA1c/AAAAAAAAAAI/AAAAAAAACng/imIUwTT0aNU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Love Betty. She remembered me. The sweetest lady. Come here.",
+            "time": 1544838225
+        },
+        {
+            "author_name": "Kyra Briggs",
+            "author_url": "https://www.google.com/maps/contrib/110030020289927841006/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-VKBjwfOuaA0/AAAAAAAAAAI/AAAAAAAACsE/Cfqh6_GHOMI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I asked for curls in perm rods and it took 5 hours to that. It didn't come out right. Costed me 80 bucks and I ended up tying it up by the end of the day. They hardly speak English too which I'm surprised since being in a primarily African American neighborhood. The lady who I scheduled to do my hair didn't even show up for the appointment at 9 am. The other ladies in the salon said she was off. So why book the appointment if you were going to be off? Terrible experience. If you're in Harlem, don't waste your time here.",
+            "time": 1535730448
+        },
+        {
+            "author_name": "Tamie Tamie",
+            "author_url": "https://www.google.com/maps/contrib/115475894296643951386/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-DSrhFwl4KBE/AAAAAAAAAAI/AAAAAAAAs-A/MiCe7oiKqj0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Set appointment but, it first come first serve. And they take for ever. I've never sat 5 hrs in a salon for a simple wash. Decided to give them another shot, after again waiting forever. I paid over $80 to get a proper hairdo. Only, I got tired of waiting another 5 plus hrs. Got a treatment which I did NOT NEED. As I already got one a week from my visit. Still wanted to give them a shot. But, my Hope's was quickly dashed. I went there super early, first in line and it was freezing. After being there for over 3 hrs waiting for the shop to open, shop was not open @10. To my dismay, they forgot that the time has changed. So, shortly after 11:30 I got an uber, then they showed up, and asking to come sit for another 3 hrs. Hell no! Did not cancelled my uber, and went home.",
+            "time": 1527137174
+        },
+        {
+            "author_name": "Sh L",
+            "author_url": "https://www.google.com/maps/contrib/104265999497089384119/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--Sb4LBv8rVU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbwfeK-uXiYtC6Im_XeuLuBymnbqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Best Dominican Hair Salon in Harlem.",
+            "time": 1537706067
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14734609747208898646",
+    "utc_offset": -300,
+    "vicinity": "2520 Frederick Douglass Boulevard, New York",
+    "website": "http://www.ysbsalon.com/"
+}

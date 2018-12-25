@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "206",
+            "short_name": "206",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3127",
+            "short_name": "3127",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">206 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3127</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "206 W 148th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 996-6006",
+    "geometry": {
+        "location": {
+            "lat": 40.82375870000001,
+            "lng": -73.9386415
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251851802915,
+                "lng": -73.9372352197085
+            },
+            "southwest": {
+                "lat": 40.8224872197085,
+                "lng": -73.9399331802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8e1bcec0dec59c323a4a2a03384bb99e42381c43",
+    "international_phone_number": "+1 212-996-6006",
+    "name": "Bronx Community News",
+    "place_id": "ChIJ87RjIX_2wokRzHJkBk6TQZ0",
+    "plus_code": {
+        "compound_code": "R3F6+GG New York, United States",
+        "global_code": "87G8R3F6+GG"
+    },
+    "reference": "ChIJ87RjIX_2wokRzHJkBk6TQZ0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11331500100764857036",
+    "utc_offset": -300,
+    "vicinity": "206 West 148th Street, New York"
+}

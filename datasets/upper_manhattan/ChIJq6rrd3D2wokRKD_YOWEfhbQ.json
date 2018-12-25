@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "309",
+            "short_name": "309",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">309 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "309 W 138th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(914) 340-4079",
+    "geometry": {
+        "location": {
+            "lat": 40.81883239999999,
+            "lng": -73.94561449999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201034802915,
+                "lng": -73.9443230197085
+            },
+            "southwest": {
+                "lat": 40.8174055197085,
+                "lng": -73.94702098029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "df6dc6866ad47c44bd327e5870601e67d9630964",
+    "international_phone_number": "+1 914-340-4079",
+    "name": "Clear Look Services",
+    "place_id": "ChIJq6rrd3D2wokRKD_YOWEfhbQ",
+    "plus_code": {
+        "compound_code": "R393+GQ New York, United States",
+        "global_code": "87G8R393+GQ"
+    },
+    "reference": "ChIJq6rrd3D2wokRKD_YOWEfhbQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13007837601172307752",
+    "utc_offset": -300,
+    "vicinity": "309 West 138th Street, New York",
+    "website": "http://www.clearlookservices.com/index.php/contact"
+}

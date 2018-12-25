@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1768",
+            "short_name": "1768",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4104",
+            "short_name": "4104",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1768 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4104</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1768 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 502-9862",
+    "geometry": {
+        "location": {
+            "lat": 40.8268929,
+            "lng": -73.94661810000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282073802915,
+                "lng": -73.94518716970849
+            },
+            "southwest": {
+                "lat": 40.8255094197085,
+                "lng": -73.9478851302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4a0a52d86b2a01323066c44383e3a6108e8b2034",
+    "international_phone_number": "+1 646-502-9862",
+    "name": "5 Men Inc",
+    "place_id": "ChIJCQJ5I332wokRF-XPWTwN68Q",
+    "plus_code": {
+        "compound_code": "R3G3+Q9 New York, United States",
+        "global_code": "87G8R3G3+Q9"
+    },
+    "reference": "ChIJCQJ5I332wokRF-XPWTwN68Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14189449603816875287",
+    "utc_offset": -300,
+    "vicinity": "1768 Amsterdam Avenue, New York"
+}

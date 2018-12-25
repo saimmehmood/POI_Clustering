@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "417",
+            "short_name": "417",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6400",
+            "short_name": "6400",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">417 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6400</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "417 W 141st St, New York, NY 10031, USA",
+    "formatted_phone_number": "(202) 423-6315",
+    "geometry": {
+        "location": {
+            "lat": 40.82174200000001,
+            "lng": -73.9466937
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8230094302915,
+                "lng": -73.9454039697085
+            },
+            "southwest": {
+                "lat": 40.8203114697085,
+                "lng": -73.94810193029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "164f91da9d3b7e7f5f521656b427b1e9efca678e",
+    "international_phone_number": "+1 202-423-6315",
+    "name": "Jennifer G. Jagger, CNM",
+    "place_id": "ChIJJxmkJ3v2wokRBPIG84zE_Og",
+    "plus_code": {
+        "compound_code": "R3C3+M8 New York, United States",
+        "global_code": "87G8R3C3+M8"
+    },
+    "reference": "ChIJJxmkJ3v2wokRBPIG84zE_Og",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16788509620582150660",
+    "utc_offset": -300,
+    "vicinity": "417 West 141st Street, New York"
+}

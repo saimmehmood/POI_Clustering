@@ -1,0 +1,266 @@
+{
+    "address_components": [
+        {
+            "long_name": "721",
+            "short_name": "721",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4401",
+            "short_name": "4401",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">721 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4401</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "721 Malcolm X Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 878-7000",
+    "geometry": {
+        "location": {
+            "lat": 40.8219489,
+            "lng": -73.936781
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8234289,
+                "lng": -73.9348968
+            },
+            "southwest": {
+                "lat": 40.8204533,
+                "lng": -73.93839439999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "99a3368a35b40ed933ea0bcb0a3b88a1f4e126c3",
+    "international_phone_number": "+1 212-878-7000",
+    "name": "MTA New York City Transit - Mother Clara Hale Bus Depot",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117216433699167170371/photos\">Agatha C. Melvin</a>"
+            ],
+            "photo_reference": "CmRaAAAA35vvewPl-6Ig7u0C48NGBDplI745-A2h6vKnMD4LJxrktd3N7lQbldiRdji_kZDtpDGnKkX6m3uyahRBEdMhrnGIPUfQ8x7vD9jX9wxHCya7G1PLkiYEdKq2msc1vxykEhCa7Fq9HZZtiKz_Q7Z8veeMGhRkJQGhqjx5AmNABiSvtYwTFpveYA",
+            "width": 3024
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213/photos\">Jay Kindell</a>"
+            ],
+            "photo_reference": "CmRZAAAAX_xN-AiWrhSn8CUtjXP0PXqkfijzTi7oyV7uSQSCHxVAxl33aXk2NSBxMub-Lv1xEGVrN23atSevVl-gg732ow3gwuAONlDj447RwlMFhLxK6XpEIMLajNHThA_jEhzOEhC3riOq6YX4zAp0r_Q3KkcIGhQ1oeMn8Yaj-rjsxHLvLG6tiWQNhQ",
+            "width": 4608
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105264428777645817094/photos\">Celestino Rivera</a>"
+            ],
+            "photo_reference": "CmRaAAAAhCJOK6tgBlAYbdFrd8RdeRBDcPKNphdfvnq9JcgswL5rg_9jlmENdWjgbNwjoMjrkw8NBk7fG_8yy4g0SPvMmsJ_l-rBUtdVjHVZy6J73xw9ks84qLAd7OWsTRNTBBy2EhCQtoM-T689L2Y8dTEPQJgQGhSH9PkuYEXtKsDzNLOCEHWA7Ymuwg",
+            "width": 5312
+        },
+        {
+            "height": 3280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117959241991509944145/photos\">Elijah Zu Bailey</a>"
+            ],
+            "photo_reference": "CmRaAAAA5BwuCySoBUWSVpPI1ymXTe3Dv5Kff7famaFtxygsCsh32tu2ueenu-W0IUCelEC69UOPxfNWKVP9BcrfafMvUce0dSyUCPNLmxpk2ljN6p5d8wT3_jcaDmSyCSF1ibpVEhACw7i5N61W5BBID3_z4zYEGhTMwkhix5hUHOg7JWlJ66vmvovKAA",
+            "width": 4948
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117216433699167170371/photos\">Agatha C. Melvin</a>"
+            ],
+            "photo_reference": "CmRaAAAA_l4NYpBWyQVg1RFgjGL37UWNV-kvVmiJzTZfkE93D2mKo9OUmU8xZ0NnywYpWoe5X7__vP09WJaX1KgVNWgFRWkBE2wSXQlgj1C7hMCr1HIoZv0WxNUpAQnSdsLJLAK7EhDcZR2W1axQRS7muB904sCSGhRDyZwKCWzv-VeTrdU9Zy4y4pyopA",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109241441342242263569/photos\">robin elysee</a>"
+            ],
+            "photo_reference": "CmRaAAAA-OZU44OkHdD34NynXwNKUck1p89R0uqLQqsFw18XVC1z7CeW46BVO6R2bK11YyFxVjOPPc4HMJzlZEACqXemsp0EpJgBZhEzmmzWyhAzjjZxSyDp-EaM716lANPMKStdEhDnD5S8cD8aeZawzDKchoPwGhS25jA6ckEZl6mXHAm8Y1FuFg075g",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117216433699167170371/photos\">Agatha C. Melvin</a>"
+            ],
+            "photo_reference": "CmRaAAAASSlC3-JrkduGHceAXtOnuW6b2MReRG5Tn4FximolftfT9u-VS-ofvX9-heDeyXf0CrsgbwzWA8sTnNYPUYjYGNex7UtOZqzCLLkdfK0FGB9bzbyGJQvQlDo6RgXrWrbVEhD66TArCeW9aYE2JKA1AlOfGhSrNAPPjfCI2Lth3mUJ-eb871-j9Q",
+            "width": 3024
+        },
+        {
+            "height": 2204,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118356377033145226165/photos\">Ismael Souza Silva</a>"
+            ],
+            "photo_reference": "CmRaAAAA9ujniS2E-X94DVtwQK-ki2krRZGW0h0SJ2oAiI6nOYog24I0q9yh6xC9ZhjLomiVxqcyiVe6jqgVFlyzMHmiBXp6Xs62F4JrZozruFmo_IN0ONKDJDNY727oFXy2MkPjEhBZcuSKyipzd3JvO_8S3uwUGhRcBC7YH2RuIviV-zg6S1gGsYfPIg",
+            "width": 3920
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105264428777645817094/photos\">Celestino Rivera</a>"
+            ],
+            "photo_reference": "CmRaAAAAX4ihISsTkaLmqJDnIMQ4KSKsCrxmpsjIa5tvel3YUFBAs-GIHArIs-8JNqIUv_2_-Lf5DIC77EHTRWBLTTjNRvgUQ3OmhatiXBeDu09leC-5R1s3dcj7_bu-F593YQatEhASYxflW93Rh7Z-M027xraRGhRqOUits3_kvXDW8En7uw2YuXdTtA",
+            "width": 5312
+        },
+        {
+            "height": 2272,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389/photos\">Aaron Johnson</a>"
+            ],
+            "photo_reference": "CmRaAAAADkMsq6rqGKXk3eQDAbXaKSr0FLIy8MdfY11uSQXVG8kRhY09uSHhtbproYceMiWW7iDv4T2NtAZXoTJe06otz2W_EnQSbhj26TGODiNOaWqnfKD8sD8yr4Xv4YA99olxEhCvD_4i8P2742xYsED04S1aGhSJoHC4_Jf6KF_sQAFPNW6NXA5hTQ",
+            "width": 3643
+        }
+    ],
+    "place_id": "ChIJEd-munj2wokR0_USIdYxKg4",
+    "plus_code": {
+        "compound_code": "R3C7+Q7 New York, United States",
+        "global_code": "87G8R3C7+Q7"
+    },
+    "rating": 3.9,
+    "reference": "ChIJEd-munj2wokR0_USIdYxKg4",
+    "reviews": [
+        {
+            "author_name": "Agatha C. Melvin",
+            "author_url": "https://www.google.com/maps/contrib/117216433699167170371/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uRrhLl06EvQ/AAAAAAAAAAI/AAAAAAAAFgA/lFxFRkDJwIQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "OHNY featured this location for the first time in 2018. Was impressed by their sustainability program, innovation, leadership and cohesive labor force. Very mindful of their role in the community. MTA Bus business is heading in the right direction!",
+            "time": 1539652697
+        },
+        {
+            "author_name": "Aurelio Lopez",
+            "author_url": "https://www.google.com/maps/contrib/110023598714158782404/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TQ0ztMLdcOQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY7OgWz-o9bWX2m7hU1FdsISUraMw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "It's a bus depo what you want me to say",
+            "time": 1544584690
+        },
+        {
+            "author_name": "GEORGE A STAMP",
+            "author_url": "https://www.google.com/maps/contrib/112111353983346480712/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-T1gXld6Oev4/AAAAAAAAAAI/AAAAAAAAH7E/7PTR23rr5uY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "My favorite transportation center",
+            "time": 1544751672
+        },
+        {
+            "author_name": "gina lighty",
+            "author_url": "https://www.google.com/maps/contrib/106793070355362821261/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8uCaBJfNOCg/AAAAAAAAAAI/AAAAAAAAAto/l0HKjYnqZmk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22I love this place and the ppl I have adapted to & work with! UNFORTUNATELY the uion division has separated our consolidation agreement and now im way out in Queens, away from the ppl I enjoy working with best! We were a united family & TWU 100 took that away.",
+            "time": 1517356294
+        },
+        {
+            "author_name": "fiydo 23",
+            "author_url": "https://www.google.com/maps/contrib/109527109800069799606/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-yqX_KU7odSg/AAAAAAAAAAI/AAAAAAAAAX8/fH0qfklAPVg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A nice depot always kind enough to stop the buses so you can go past",
+            "time": 1514082503
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1020683061300491731",
+    "utc_offset": -300,
+    "vicinity": "721 Malcolm X Boulevard, New York",
+    "website": "http://mta.info/"
+}

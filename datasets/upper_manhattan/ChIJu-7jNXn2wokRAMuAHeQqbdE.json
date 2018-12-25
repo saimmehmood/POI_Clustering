@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "234",
+            "short_name": "234",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">234 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "234 W 146th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82274779999999,
+            "lng": -73.9400926
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8241580802915,
+                "lng": -73.9386427697085
+            },
+            "southwest": {
+                "lat": 40.8214601197085,
+                "lng": -73.9413407302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cff53cb8f20201d968f775697318ff17a90d0433",
+    "name": "Robert L. Clinkscales Playground and Community Garden",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 9:00 PM",
+            "Tuesday: 6:00 AM \u2013 9:00 PM",
+            "Wednesday: 6:00 AM \u2013 9:00 PM",
+            "Thursday: 6:00 AM \u2013 9:00 PM",
+            "Friday: 6:00 AM \u2013 9:00 PM",
+            "Saturday: 6:00 AM \u2013 9:00 PM",
+            "Sunday: 6:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1198,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105151482897447524563/photos\">Robert L. Clinkscales Playground and Community Garden</a>"
+            ],
+            "photo_reference": "CmRaAAAAyVlgGqbdRlqmlQpv2ua5f-WVBZfxiYfUbWLhfkF5E2eXy7i6-ilsASO7SguEJ0tsIvZh1XP-0A2J8wlP2h47FmUfzr9opRTiXSknD0sP5AvYjCVLhYy1k67m55136mhdEhAWoT6P4LPNoGyYu4OxZYckGhQ6h8Wof8UmoKp2EGlRI39JLlnM-Q",
+            "width": 1800
+        },
+        {
+            "height": 1198,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105151482897447524563/photos\">Robert L. Clinkscales Playground and Community Garden</a>"
+            ],
+            "photo_reference": "CmRaAAAAl0hfg4h70oAl4T4rd5OSZjyj5Jd3omYu_0OT9EbcbctDJJ4-AIJOpu1VZA3PW2allBKsttKDatdK2PNXGPlD0td7e6Elq51gmM4nCK8mApzbJ1ahHWS2pUN7_WYFs2kqEhDr71Zxuo4wxEkH8qQP8CBBGhTj6wM4BxhHyFApeKlzmOIobQFLpQ",
+            "width": 1800
+        },
+        {
+            "height": 1198,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105151482897447524563/photos\">Robert L. Clinkscales Playground and Community Garden</a>"
+            ],
+            "photo_reference": "CmRaAAAAv1cOZlzfvJkHpbTDY8U4n3DTwmqNIxSbCN2_S0S-xJs9xNtjnX2a-RsjOFqh83MP7xNBPgOiuCJxYKWfZRKS41W3EoTQsO870i_B5a8lXClicFINgOF7WpDwj_pSjVpNEhD4sQQuBCWcGby4zCKLd90LGhSwrspfhJxW7h4eanLnK3kXKeMlgw",
+            "width": 1800
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990128577707659218/photos\">Jon Ernsberger</a>"
+            ],
+            "photo_reference": "CmRaAAAA7UQjLKshmiCNo-Swx_d37_rUqM7Pi9M0IHZg1ClcL2t13oyoeJv6msoCsCrTBha2hgqmhaTwjhL1iXMRrksn5UoYSsUfBktuisdAlg_6tC8O0XmAdjfnxc6rXBSPMgmYEhCRu2boDSEC92hIldrzTQ9lGhR_S01CBbZUx6_rcxSCQhnu2gCihA",
+            "width": 3264
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990128577707659218/photos\">Jon Ernsberger</a>"
+            ],
+            "photo_reference": "CmRaAAAAeMNm0QWUS9vGC0PfXcTZSDHVDRvGdrPP5rlcc3K5civj2ya9V7CyIm9QQQBAwtB8AVsVZAeKsAz-U3NgNtZLWHCLmqmbz66pinT6zi2ejpKdGkGdwFOHehGaY7oTaQvhEhBcZSvIoen3hcv0EJCbn4x8GhRlq46NRSf4SxT3uuj3mXbcTbAgwA",
+            "width": 2736
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105151482897447524563/photos\">Robert L. Clinkscales Playground and Community Garden</a>"
+            ],
+            "photo_reference": "CmRaAAAAHt6zyEQNmHN5ox8jYlWQU1H6VBedUywlff4O1NBIaWnzE4ctcexCkgiPxIQeaUtI-bohXPI461P6bIPGjNxblx-tb-OgCpfB7ZDNAjXzSjhCMuFb5DAnEZPRSZ_SCTOUEhD74e8k1AZ8kxQ3BIOdSLNHGhSWnqqj1OxfPGl9ZI1uOt6gCw0b3w",
+            "width": 799
+        },
+        {
+            "height": 1198,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105151482897447524563/photos\">Robert L. Clinkscales Playground and Community Garden</a>"
+            ],
+            "photo_reference": "CmRaAAAAWjlfiOAdo3aYYleFWcnBE3j9ALx2Q0Hd1VfGQIHPERtj1vspRWmzncR3zVKMHmnzIVQVjQvEpjuCQCwP7Hr18BeirUDTWwWQaPBn7qV4gjfCrfXq1cWJtX2tzASJy97vEhATxjoRcy8GE2pkcajkWgENGhS631qYOPEloCJMaCkIPuZKt2nxPg",
+            "width": 1800
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990128577707659218/photos\">Jon Ernsberger</a>"
+            ],
+            "photo_reference": "CmRaAAAA5f9xJv4yHou5LlF0GFWnXiYS6GwcRbZcxGN4LqogHm8NplrV-vtz-b66Tfjn7Ou83t82obvJshHiaCYRcAfR8g52EK0XcOPTRw_dCOEdFLO1aSRHHrR0_1MdttU9i3ooEhCGFEp-MiLKH4h8L1TR5NDMGhSe8w7ld8GoWhHuSTgorrh0q5B_Fw",
+            "width": 3264
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990128577707659218/photos\">Jon Ernsberger</a>"
+            ],
+            "photo_reference": "CmRaAAAAMxOwaW_qx6GKwEOCZdlyq-Jz94x1y0JDL4SUG-F8NbOn36hi58h4ndlLehDSSMeOvx_IG7_nOcHB9OnxNKevYcr3eR-M_nlRs5bYb_PNnZWyGWEcDJkcvWuLO1F_Y1FFEhBAeYpjoojqQesZBOk8z8R1GhQPSWv-msUoOdiIxzYCV2PzOpm_Vw",
+            "width": 2736
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990128577707659218/photos\">Jon Ernsberger</a>"
+            ],
+            "photo_reference": "CmRaAAAAVq18CkxTRd1xwbCgQ57Bt12wBp7WzcJYjKsIfUpUGdf8vM2MCxQ4tceNBHJBPPKdszpgqPbrLS2OXn1_D2VErXPH_UcOVpc-xjK2hJTwIoEdcQO_HSh6C5UDAJnxvFnvEhCoDndYJmAknKRUz1oer-XJGhRVq8hD-EA5RdPbRU3smMfw53gFdA",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJu-7jNXn2wokRAMuAHeQqbdE",
+    "plus_code": {
+        "compound_code": "R3F5+3X New York, United States",
+        "global_code": "87G8R3F5+3X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJu-7jNXn2wokRAMuAHeQqbdE",
+    "reviews": [
+        {
+            "author_name": "Fabiola Barrios-Landeros",
+            "author_url": "https://www.google.com/maps/contrib/107517664670281082232/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1gNt8pqgcus/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZC5qBR8RvfsRnZOXxBGznhj7LW6A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Large community garden. Cute modern playground. Needs some maintenance.",
+            "time": 1496143284
+        },
+        {
+            "author_name": "Aldo Lauria Santiago",
+            "author_url": "https://www.google.com/maps/contrib/103795139070662976372/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-d9YhJ9RJnfc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZtI5cOHAE_nTNGeFOMdzGz796BkA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "New and underused park.  Kind of hidden ...playground too",
+            "time": 1473434234
+        },
+        {
+            "author_name": "Kenneth Dellaquila",
+            "author_url": "https://www.google.com/maps/contrib/105483011223887378258/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_id7Ii-pjzw/AAAAAAAAAAI/AAAAAAAAGc4/vVqyYOBGCNQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1532901960
+        },
+        {
+            "author_name": "Theodore Black",
+            "author_url": "https://www.google.com/maps/contrib/107883099348685282063/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-W9G-bIBjJVI/AAAAAAAAAAI/AAAAAAAACdI/hXuxqhJOJl8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1517316235
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15090765085624290048",
+    "utc_offset": -300,
+    "vicinity": "234 West 146th Street, New York",
+    "website": "https://www.nycgovparks.org/parks/robert-l-clinkscales-playground-and-community-garden"
+}

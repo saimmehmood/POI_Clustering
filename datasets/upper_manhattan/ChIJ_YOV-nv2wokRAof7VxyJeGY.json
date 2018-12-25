@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3142",
+            "short_name": "3142",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3142</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.822906,
+            "lng": -73.9426115
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82434188029149,
+                "lng": -73.9411951197085
+            },
+            "southwest": {
+                "lat": 40.82164391970849,
+                "lng": -73.9438930802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "990e12eef60b628ed8ad41fd685c87935dd72255",
+    "name": "Hamilton",
+    "place_id": "ChIJ_YOV-nv2wokRAof7VxyJeGY",
+    "plus_code": {
+        "compound_code": "R3F4+5X New York, United States",
+        "global_code": "87G8R3F4+5X"
+    },
+    "reference": "ChIJ_YOV-nv2wokRAof7VxyJeGY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7383802343902119682",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York"
+}

@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "1707",
+            "short_name": "1707",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4621",
+            "short_name": "4621",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1707 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4621</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1707 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82478130000001,
+            "lng": -73.94774439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261617802915,
+                "lng": -73.94647256970849
+            },
+            "southwest": {
+                "lat": 40.8234638197085,
+                "lng": -73.9491705302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7a76fb32fc834ce9ddfe0ec9d825c6eca8ad74a9",
+    "name": "Ksr Store For Rent",
+    "place_id": "ChIJSR9TTWP2wokR1gu9gxMJNAE",
+    "plus_code": {
+        "compound_code": "R3F2+WW New York, United States",
+        "global_code": "87G8R3F2+WW"
+    },
+    "reference": "ChIJSR9TTWP2wokR1gu9gxMJNAE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=86704272246115286",
+    "utc_offset": -300,
+    "vicinity": "1707 Amsterdam Avenue, New York"
+}

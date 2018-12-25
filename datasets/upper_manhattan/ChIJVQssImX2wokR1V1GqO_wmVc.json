@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 Convent Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8215257,
+            "lng": -73.94904149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8227885802915,
+                "lng": -73.9474940697085
+            },
+            "southwest": {
+                "lat": 40.8200906197085,
+                "lng": -73.9501920302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "17cefc00b7441d6aca711b8ba00eef2626581b09",
+    "name": "Baskerville Hall",
+    "place_id": "ChIJVQssImX2wokR1V1GqO_wmVc",
+    "plus_code": {
+        "compound_code": "R3C2+J9 New York, United States",
+        "global_code": "87G8R3C2+J9"
+    },
+    "reference": "ChIJVQssImX2wokR1V1GqO_wmVc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6312341264847494613",
+    "utc_offset": -300,
+    "vicinity": "250 Convent Avenue, New York",
+    "website": "http://hsmse.org/"
+}

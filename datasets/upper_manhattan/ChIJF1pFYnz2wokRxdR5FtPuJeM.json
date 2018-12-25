@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "713",
+            "short_name": "713",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4905",
+            "short_name": "4905",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">713 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4905</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "713 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-6960",
+    "geometry": {
+        "location": {
+            "lat": 40.824534,
+            "lng": -73.944749
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82582868029149,
+                "lng": -73.9432699197085
+            },
+            "southwest": {
+                "lat": 40.8231307197085,
+                "lng": -73.9459678802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bb0b1f2b2d93678d14a93d0d74a3d60a47492256",
+    "international_phone_number": "+1 212-234-6960",
+    "name": "Vargas Douglas M DDS",
+    "place_id": "ChIJF1pFYnz2wokRxdR5FtPuJeM",
+    "plus_code": {
+        "compound_code": "R3F4+R4 New York, United States",
+        "global_code": "87G8R3F4+R4"
+    },
+    "reference": "ChIJF1pFYnz2wokRxdR5FtPuJeM",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16367751011130528965",
+    "utc_offset": -300,
+    "vicinity": "713 Saint Nicholas Avenue, New York"
+}

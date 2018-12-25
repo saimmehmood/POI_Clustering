@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "2628",
+            "short_name": "2628",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2628 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2628 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8257878,
+            "lng": -73.9364919
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270813802915,
+                "lng": -73.93501231970849
+            },
+            "southwest": {
+                "lat": 40.8243834197085,
+                "lng": -73.93771028029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bf52600ccd5597ca9c6a0ed38df758e1599a4844",
+    "name": "Doja Construction Corp",
+    "place_id": "ChIJRUbxS_L3wokRc8xVDjjlO2U",
+    "plus_code": {
+        "compound_code": "R3G7+8C New York, United States",
+        "global_code": "87G8R3G7+8C"
+    },
+    "reference": "ChIJRUbxS_L3wokRc8xVDjjlO2U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7294676050378083443",
+    "utc_offset": -300,
+    "vicinity": "2628 Adam Clayton Powell Junior Boulevard, New York"
+}

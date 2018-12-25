@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "126",
+            "short_name": "126",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Place",
+            "short_name": "Hamilton Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">126 Hamilton Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "126 Hamilton Pl, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-1154",
+    "geometry": {
+        "location": {
+            "lat": 40.8239963,
+            "lng": -73.9493451
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8252894302915,
+                "lng": -73.9479390697085
+            },
+            "southwest": {
+                "lat": 40.8225914697085,
+                "lng": -73.9506370302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "ccddd2e8715cd0eff9a1dd3b40f2e2ba19fa9b2d",
+    "international_phone_number": "+1 212-234-1154",
+    "name": "Hogshead Tavern",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 4:00 PM \u2013 4:00 AM",
+            "Tuesday: 4:00 PM \u2013 4:00 AM",
+            "Wednesday: 4:00 PM \u2013 4:00 AM",
+            "Thursday: 4:00 PM \u2013 4:00 AM",
+            "Friday: 4:00 PM \u2013 4:00 AM",
+            "Saturday: 12:00 PM \u2013 4:00 AM",
+            "Sunday: 12:00 PM \u2013 4:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108258590706343440244/photos\">Enrico Zanardo</a>"
+            ],
+            "photo_reference": "CmRaAAAAtv-IIYI8JlcY74uos2_rBvkmFrTZec9K94JkznBeFAfgvDVjQ-7Qf1pAyUzv08g-tPktmhaMYpQn1nAly3Vv47ui2xmEFwJzv7WD5Sla2zHJFpNnyvaVoLO_oXOFZLnAEhCK1YM1rSKUepuXDT0k36cjGhSLsKQ6L2fH08F4glGYyszPGQ2JZg",
+            "width": 4032
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105007059704548133681/photos\">Prof. A Molina</a>"
+            ],
+            "photo_reference": "CmRaAAAADZ6cY0hOfWUqDOitGnK6-q5g85U__3NcAWIr4TpbVC9XFAMe4zLqvHQI6Px6C8lYZDS1Ayc7_C2q2rfzW2JTTJ2rtX9WDXDk8cKJ7DzvTTnpGkGlUqTpxGkS2BfKy1usEhAzWCUpwdqKyP8il3T-oueyGhTvxN1xTUQruOzUu8CBBzq3_34wrQ",
+            "width": 3120
+        },
+        {
+            "height": 3006,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942933420927260769/photos\">Marta Kulberg</a>"
+            ],
+            "photo_reference": "CmRaAAAA84savMJIPBD13iCby5bTL0fsiP2o7JpYNa5BTde_l21wmJemdo6gvgi5kaddhLInLA29_keEBGgJzvVcsO3VnBjmS-v2FDuKEvRVVVC6uzDFeQUa3vc_tNCmtW1pKqcAEhDlGpklK5vvzTbbBSuMszDVGhSWY9eAk6CjvyVK8YsjgdvZDJdGTQ",
+            "width": 5344
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105007059704548133681/photos\">Prof. A Molina</a>"
+            ],
+            "photo_reference": "CmRaAAAAfwBgRFTO-KQH_-imO7c_yxw3Fd22PqC8JpLSE9EWpXPDGAr1SnJkV9N1fAlZ7arKhlQN0quXGSHGwn_ffR2nDU5XMJkEcV8SWwN_MRGcwHvGaGON-Di9AYOLS2iBbLsNEhCPIVge0Uz9TS5RGT-6KoXUGhTyodpe99pa8M7Vt2WtOeuIOQwrGA",
+            "width": 3120
+        },
+        {
+            "height": 3464,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111463990348096093090/photos\">Chad Zepeda</a>"
+            ],
+            "photo_reference": "CmRaAAAABMqqNdCXJ5_L3W46PK-n9EejjRfULUG5hYpQ9iCVz5ysVSXu5rm5K51RENoF7w3f6fnNuKFySdSAeMrktN0r00oa6aviOvw4LUJDH0PA77N7ULgxjDVuwpSvlZVKRbuwEhCP2J_RcdYbJf654ZMX4XN1GhR8PcPa_p62Z8hl9fCZ6XAXYTRzEw",
+            "width": 4618
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105007059704548133681/photos\">Prof. A Molina</a>"
+            ],
+            "photo_reference": "CmRaAAAAxN4_cjDlB0773to9ytXZJLa2-111pSm3_yya5jfkB1XtbeFqBXUACBw7-AhlS8hhT0TeesrP5mQ26IsJAB6VLZH09o-u9nyAkzDnlC55SfFDaX3I8bnp_7w5I95q4gb8EhAf2UjTTBGx2BiuQBKhCbwUGhR1KC0Dn7kek79YpUn7NDXwYydW2g",
+            "width": 3120
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108881855205781666601/photos\">Sarah Hess</a>"
+            ],
+            "photo_reference": "CmRZAAAAJGXgLHJRmgCAzm29h5WlR3YNtwXAYV-lAMWamoudmGyk9icBpXKEVVaQ0NEgJY4aLUU4YvZXqVT8f1LlSRpnVY6uTwm8kvBmQfdS4AUiQmhjWVW6n7w0AOH7D591TiHYEhD2o0MfUJlhNzYdgqB_nl6CGhR_qtawlacqzruinXFDCvM2BoVSTw",
+            "width": 3024
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110361686476085266914/photos\">Paul Haverkamp</a>"
+            ],
+            "photo_reference": "CmRaAAAA5U9PXTkIMpC5a3ini_TbpilCx8BC61LNfIzDLrwm0SosjMCvib9VS_gAG2MLTMQ3dL6NAfR-QM9fEiN0IuP1JVckHVdclfjNOLxEJ5Wcq-Txbxkv1JC3F50lcAd-syzBEhDhF9pZDurmNapwzQ1Qi6g4GhRXcHF8clJ8-qGOZjDLakMsNXwG6Q",
+            "width": 4000
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101932326936279984512/photos\">Dan Flores</a>"
+            ],
+            "photo_reference": "CmRaAAAAuL6qQGUnkAByateM8apGWgRzjTDir0uh3xgtm5UeTWc7l69lQ5mOb0uoITpZMS2IuRbZ1tDYBTaACpDcYQskFfx0HYDIAvXjJ4_8wgkqq50w5d56iNoWLOLkYrebdLjREhBG2cVCYdcBBI8uzFl4XzdmGhRLSwB10dj4AD4lHhxgx_eOkEaxVQ",
+            "width": 4048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108447304650007613827/photos\">Alba Peralta</a>"
+            ],
+            "photo_reference": "CmRaAAAAKu9BoPn5vxbN64CwJTh9B1wURMeuSg3BPnr7D0daINj135UmUFr5CKchPJZpNQ1nK9nZjK4a_OsEinr-vRUiWXJsPBDmRThHXFk3g2TnJ6zNrsVlyjTSV-ydz-df7SyvEhAhj_0UWIhnNcvqC7DciiFsGhSyjaIfWLvarLz9HSkvKKEqp9vpuQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJGeMxn2T2wokRdeEOxtpZUSA",
+    "plus_code": {
+        "compound_code": "R3F2+H7 New York, United States",
+        "global_code": "87G8R3F2+H7"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJGeMxn2T2wokRdeEOxtpZUSA",
+    "reviews": [
+        {
+            "author_name": "Jack Dunlevy",
+            "author_url": "https://www.google.com/maps/contrib/105518975571723773154/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-lHLBla582AM/AAAAAAAAAAI/AAAAAAAAATo/TwxQviNe2xE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "I used to think of this place as decent beer bar but on my last visit their numbers were all out of whack.  They must be having money problems because they serve all beers  6.1% and higher in 10 oz. glasses. At any other self respecting craft beer bar, beers in the low 7's come in pint glasses. Their kegs are consistently good but not super rare and they don't rotate them often enough. I can forgive this because there aren't too many bars like it near me, but I'm honestly offended by their prices/percentages/pours on my last visit.",
+            "time": 1539398518
+        },
+        {
+            "author_name": "Robert Brink",
+            "author_url": "https://www.google.com/maps/contrib/105542381073825055117/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-YLWBNWFp8IE/AAAAAAAAAAI/AAAAAAAAhBs/wH-Eh7Y3HGA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Has good strong drinks and good vibes.  A highly inclusive place but still urban and edgy.",
+            "time": 1543298185
+        },
+        {
+            "author_name": "Jorge Ure\u00f1a",
+            "author_url": "https://www.google.com/maps/contrib/100666305891708448908/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-r8gGebX9jAE/AAAAAAAAAAI/AAAAAAAAIog/EWRD0Ot3R_g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Excellent place. Everything right. The BBQ pork belly is to die for.",
+            "time": 1544015102
+        },
+        {
+            "author_name": "Shaker Krit",
+            "author_url": "https://www.google.com/maps/contrib/100550663927245418181/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bZ8AdSW_rww/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZoyoPHtppuFTpneWkmt_PI06TqAQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Pizza is good, so are the beers. Staff was friendly and helpful. Great atmosphere.",
+            "time": 1538511352
+        },
+        {
+            "author_name": "Andrew Kunesh",
+            "author_url": "https://www.google.com/maps/contrib/115049526588191018338/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Yw8gAwuNy1k/AAAAAAAAAAI/AAAAAAAADP8/r5sh2rSVbNw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Good selection of craft beers at a reasonable price. Will definitely come back.",
+            "time": 1538927131
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2328741278487863669",
+    "utc_offset": -300,
+    "vicinity": "126 Hamilton Place, New York",
+    "website": "http://www.hogsheadharlem.com/"
+}

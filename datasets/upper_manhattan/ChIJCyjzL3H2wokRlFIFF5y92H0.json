@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "162",
+            "short_name": "162",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2601",
+            "short_name": "2601",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">162 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2601</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "162 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-1150",
+    "geometry": {
+        "location": {
+            "lat": 40.8155197,
+            "lng": -73.9425182
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81693058029149,
+                "lng": -73.9411239697085
+            },
+            "southwest": {
+                "lat": 40.81423261970849,
+                "lng": -73.9438219302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "71832f3367fb7a9cec5d6d277a13b9775c2f314e",
+    "international_phone_number": "+1 212-281-1150",
+    "name": "Wainwright & Son Funeral Home",
+    "place_id": "ChIJCyjzL3H2wokRlFIFF5y92H0",
+    "plus_code": {
+        "compound_code": "R384+6X New York, United States",
+        "global_code": "87G8R384+6X"
+    },
+    "reference": "ChIJCyjzL3H2wokRlFIFF5y92H0",
+    "scope": "GOOGLE",
+    "types": [
+        "funeral_home",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9068206327809266324",
+    "utc_offset": -300,
+    "vicinity": "162 West 136th Street, New York"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "2622",
+            "short_name": "2622",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2601",
+            "short_name": "2601",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2622 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-2601</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2622 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8256644,
+            "lng": -73.9364585
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269781302915,
+                "lng": -73.93502641970849
+            },
+            "southwest": {
+                "lat": 40.8242801697085,
+                "lng": -73.93772438029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "34b6442d8a3a2b7898ab44ec3f0959167e0401b6",
+    "name": "Gordons Fashion",
+    "place_id": "ChIJUwZTj3_2wokRVkdmA7jPacs",
+    "plus_code": {
+        "compound_code": "R3G7+7C New York, United States",
+        "global_code": "87G8R3G7+7C"
+    },
+    "reference": "ChIJUwZTj3_2wokRVkdmA7jPacs",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14657474851491956566",
+    "utc_offset": -300,
+    "vicinity": "2622 Adam Clayton Powell Junior Boulevard, New York"
+}

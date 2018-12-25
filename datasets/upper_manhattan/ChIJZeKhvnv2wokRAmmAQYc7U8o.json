@@ -1,0 +1,303 @@
+{
+    "address_components": [
+        {
+            "long_name": "22",
+            "short_name": "22",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">22 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "22 Bradhurst Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-0010",
+    "geometry": {
+        "location": {
+            "lat": 40.8221119,
+            "lng": -73.9436743
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8235190302915,
+                "lng": -73.9424335197085
+            },
+            "southwest": {
+                "lat": 40.8208210697085,
+                "lng": -73.94513148029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c879a8cfdd70ab9e6e3b53a4bddd23e827215da6",
+    "international_phone_number": "+1 212-690-0010",
+    "name": "WANDA'S PET GROOMING L.L.C.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 8:30 AM \u2013 5:00 PM",
+            "Thursday: 8:30 AM \u2013 5:00 PM",
+            "Friday: 8:30 AM \u2013 5:00 PM",
+            "Saturday: 8:30 AM \u2013 5:00 PM",
+            "Sunday: 10:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1148,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109922649542055038933/photos\">WANDA&#39;S PET GROOMING L.L.C.</a>"
+            ],
+            "photo_reference": "CmRaAAAAhvQt5lyEVcblgB8mM2HbgV3uvvgeyLW5W-tV0XOjAlQiY77lLd588RE7m-HImKa9dT8AEAmWHYLSwc36e_fFPI5x3Cf5YkIG8dAWR_kXPkl4JY9dy2_oOpCASlR0P3Y9EhD88Tdaa02oHWaLp1ikR6x6GhRisdc5aLGrH17eM7V8ekogEj4PyA",
+            "width": 1530
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104811271920664645096/photos\">Elbrick Lupy</a>"
+            ],
+            "photo_reference": "CmRaAAAAe-DYE8qyIId7XOck6PnDxRWIUaPNBbZ05gHsvYvlk9oqmb4s1FLvKCxgOGVrRHtyIyiBvtd3PgxXnIhOjvCpazaqMWdBdsnwyilzFhpVhmGXe24OCc1Jn5AuG68ZqyoTEhDtwyRekPoKjmeGqBHPY5uBGhQJd3sIYOdK1FWshgrLwb_zN48owg",
+            "width": 3264
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114544004083479248241/photos\">Thomas Malloy</a>"
+            ],
+            "photo_reference": "CmRaAAAAk-fnBtF1ewpmR37IFazvvrVH_3xKzhv38Y9XE-rPLsPQQvZcrn3vx547SdeB6Ad1vgdhYZg4tU0CXKxC_AMgZtQomnid5lYrYRmDbd7Phzx8-GWbASNbt3_pzaOX0p8JEhD4oaf_Op6KazlUB2fHPxdVGhRsnLBanOmQmqpQOtjErPOJ2X5NJg",
+            "width": 2988
+        },
+        {
+            "height": 2659,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112879747514511813982/photos\">JuJu &amp; Robin</a>"
+            ],
+            "photo_reference": "CmRaAAAAPhqXJg6gFIIJ4FB8qmZ8dMcVvViQ15f4xazOiDiAiQRC45XBbj0OwM-1o_CaDR5A6WURZHBcAh_7ECcijkH85eto1mgsOzvseELBgFgloHuAIyValyNG1rUZPBqm8bGqEhDdyUE0CofmaCes2wlw4pJrGhQuxqq7ZZeIc71oJeBQEE2wqUTT2g",
+            "width": 4032
+        },
+        {
+            "height": 1778,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109922649542055038933/photos\">WANDA&#39;S PET GROOMING L.L.C.</a>"
+            ],
+            "photo_reference": "CmRaAAAAVuKo7BHcrjiVUKt_e5VBUCiyCUNbKmM7dbeRjLgOUUsE-Iu8oGh63Tfnly3owO6C1rcXaTaAZJEn0kd90jIQYa3uwLQ5hPsf90pVtaynVTT2J_qDD3sn60jFYj-V2DFKEhCrWyD2j9eMoSWrhUvl_AR9GhQ8WPeN8gbkH681OxpxFLc0tp8d2g",
+            "width": 1059
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114544004083479248241/photos\">Thomas Malloy</a>"
+            ],
+            "photo_reference": "CmRaAAAAcQEe8Lq2FL2SQ7FdxWXathrgXuaR7luP-EBVUauhpymU5rBIjpXxKTNg31SQxqTp1s2o-ixxOrbGZVa4qCTMo7H--2KWKON2DWuCjpyVmOZ_6ulLEmchnP9CTENl_t3XEhCI9JOzazkE6rOb2OicH9ueGhRqr1Dsd6DdxZ0WZAE7C8nOhV4pJw",
+            "width": 5312
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111834544719342655716/photos\">Yael Read</a>"
+            ],
+            "photo_reference": "CmRaAAAAzqYCwQoaO4zDw0xd8bTjzyk2DP9ZjXYamVGZGoEO0Osknu_pLQU-GxHVXKc4nJdX5yfP3TvKmtUduoBekfzseNe0GOF5EB9YNB2jw4N9ssMFK8Cfeyh-73NGknWlYofoEhAZfd8hBSzqTUXHgS6gA7q0GhTmqbL8BpwHVfwT7irG5pVRnTkxsg",
+            "width": 1536
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100396792404212517850/photos\">Mari Polanco</a>"
+            ],
+            "photo_reference": "CmRaAAAAFZU_Ru_xnZra4MPlTXXJviONwPaoeJtqqtw6XYvEUEHeKrvQ8FIclD11c7uaMORTZ0tBE5SQryO1zcXWegy-g8BQhIeslU-Ce9LCe7c8_0LF6EMGygsz8dqZkoQw63PmEhB-VFWPtC57JYo0WEptYLIhGhTOSl17bSujJ-Y1dhIglT61CreWdA",
+            "width": 4032
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104811271920664645096/photos\">Elbrick Lupy</a>"
+            ],
+            "photo_reference": "CmRaAAAAmCsMSvAPwfDp_QMvOezQL9zs8yfKSVBCOTqHpcRCXcoiMXY5_JTBdfjD9loiAExjENdSVggqQdJ7tPnJzNAecV-47fCYiS4YxuS32fYZe8ulXZAPiE30WbyNm91e2KSEEhAKqZ4SG30_Ai3ZxB4XzEcoGhRKfX_IUexDpsF0-XA2aC7AxmWeqQ",
+            "width": 3264
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111834544719342655716/photos\">Yael Read</a>"
+            ],
+            "photo_reference": "CmRaAAAAxn_DPamJG9xM2juK-EasBIh1GxrxOH_n2itRaAtOmLWzG5RiRpKPGAK3fHHP99GWUg4gtVft8ykG75g4tyEQYnPtikqJIGQgN-bmXjvMv-I5v6H68gdJhfMicG5l7bJlEhCOx5_BKB5IuixA3XhTMQ8kGhRO9KIDGPe_XSTGNH949w6kVDB7Ig",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJZeKhvnv2wokRAmmAQYc7U8o",
+    "plus_code": {
+        "compound_code": "R3C4+RG New York, United States",
+        "global_code": "87G8R3C4+RG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJZeKhvnv2wokRAmmAQYc7U8o",
+    "reviews": [
+        {
+            "author_name": "Amy Moore",
+            "author_url": "https://www.google.com/maps/contrib/109337370739749872550/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-jtF0lafYDHE/AAAAAAAAAAI/AAAAAAAAAEI/1quGZ8T89Vo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Lovely place, so clean and friendly the owner is such a beautiful loving woman. Great prices and the jobs performed on each dog is spectacular. She did a wonderful job on my Feisty loved it and so did my baby Feisty.",
+            "time": 1536904245
+        },
+        {
+            "author_name": "Blair Dishon",
+            "author_url": "https://www.google.com/maps/contrib/112605046773972813112/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--VgUUUTckG8/AAAAAAAAAAI/AAAAAAAAAQk/ZgKISMb-r_M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wanda and her team were accommodating enough to make an appointment before normal hours to treat my flea-ridden cat. Despite 3 treatments she was still suffering but after 2 hours with Wanda she came back fluffy and clean. We found a few fleas on her face some days after but haven't seen any since 4 days now after her bath. While my cat loudly protested during the bath and grooming she didn't commit the usual revenge acts in our home like she often does when she feels angry after a vet visit. That goes a long way to show how well Wanda treated Kimora my japanese bobtail. I highly recommend her services, its worth the cost.",
+            "time": 1541616512
+        },
+        {
+            "author_name": "JuJu & Robin",
+            "author_url": "https://www.google.com/maps/contrib/112879747514511813982/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-sY8-svN_Ft4/AAAAAAAAAAI/AAAAAAAAACo/Z7kL0YpivfY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "She Did An AMazing Job on Our Family Pet Mia Highly Recommended \ud83d\udc4d\ud83c\udffb",
+            "time": 1543171619
+        },
+        {
+            "author_name": "Demonica Mars",
+            "author_url": "https://www.google.com/maps/contrib/109879349000079690861/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jHBXhvSqtq0/AAAAAAAAAAI/AAAAAAAAAKU/ERwPz37eKAo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "While Wanda was professional, the day I took my two dogs, the person doing the washing and grooming was not her, but a large man.  When we went to pick up our dogs, the first thing he yelled out to us from the back of the store was \"your dog bit me!\". First of all, my dog is a teacup shih tzu weighing about 7lbs,. I have never seen him bite anyone, but since he was in a place were two strangers are dealing him and possibly hurt him while he was being de-tangled/groomed, I'm not sure why he is in that line of work. My brother in law is a vet and has been bitten many times by dogs, but he doesn't cry like a big baby or yell at the customer. Thankfully he understands it's part of the job.  This man behaved as if we offended him, or the dog attacked him for no reason, but based on his size, one would think a nip from a tiny dog wouldn't ruin his life. I also hated his cut. I asked her to keep most of his beard full, but the way they shaped it, he ended up with a thin long beard (about 1\" wide) that almost touched the floor.  I have not been back to Wanda's since, and don't plan to ever patronize that business again.  There's just certain ways customers should be treated, so I give this place 2 stars.",
+            "time": 1539122727
+        },
+        {
+            "author_name": "Glorylu Treece",
+            "author_url": "https://www.google.com/maps/contrib/117568590572709585720/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-CvvDztuQNBA/AAAAAAAAAAI/AAAAAAAAALM/tvF5GLJzHRw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Ace has been going to Wanda since birth, that's  2 1/2 years.  She is a friendly,  professional and a perfectionist.  She takes her time and this doggie parent is happy.  The prices are reasonable.  We love You Wanda  for your dedication to the Pets and helping them look their best.",
+            "time": 1523538563
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14579061870833985794",
+    "utc_offset": -300,
+    "vicinity": "22 Bradhurst Avenue, New York",
+    "website": "http://wandaspetgrooming.com/"
+}

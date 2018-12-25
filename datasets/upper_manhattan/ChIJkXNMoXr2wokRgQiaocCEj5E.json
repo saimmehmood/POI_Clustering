@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 6D",
+            "short_name": "# 6D",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "337",
+            "short_name": "337",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2015",
+            "short_name": "2015",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">337 W 138th St # 6D</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2015</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "337 W 138th St # 6D, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-2592",
+    "geometry": {
+        "location": {
+            "lat": 40.8192949,
+            "lng": -73.94662
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82055168029149,
+                "lng": -73.9453389697085
+            },
+            "southwest": {
+                "lat": 40.81785371970849,
+                "lng": -73.94803693029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "24141fbe9f45ecfbd7e3b699137cf786abe05732",
+    "international_phone_number": "+1 212-281-2592",
+    "name": "International Communication",
+    "place_id": "ChIJkXNMoXr2wokRgQiaocCEj5E",
+    "plus_code": {
+        "compound_code": "R393+P9 New York, United States",
+        "global_code": "87G8R393+P9"
+    },
+    "reference": "ChIJkXNMoXr2wokRgQiaocCEj5E",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10488748020048988289",
+    "utc_offset": -300,
+    "vicinity": "337 West 138th Street # 6D, New York"
+}

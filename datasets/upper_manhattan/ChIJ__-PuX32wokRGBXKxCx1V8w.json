@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "404",
+            "short_name": "404",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 149th Street",
+            "short_name": "W 149th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2835",
+            "short_name": "2835",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">404 W 149th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-2835</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "404 W 149th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8267471,
+            "lng": -73.9436405
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82815223029149,
+                "lng": -73.94225016970849
+            },
+            "southwest": {
+                "lat": 40.8254542697085,
+                "lng": -73.94494813029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "519e7b264d3178ad4b999464e6fa4476c8995a95",
+    "name": "Bed-Stuy Restoration Plaza",
+    "place_id": "ChIJ__-PuX32wokRGBXKxCx1V8w",
+    "plus_code": {
+        "compound_code": "R3G4+MG New York, United States",
+        "global_code": "87G8R3G4+MG"
+    },
+    "reference": "ChIJ__-PuX32wokRGBXKxCx1V8w",
+    "scope": "GOOGLE",
+    "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14724366341851714840",
+    "utc_offset": -300,
+    "vicinity": "404 West 149th Street, New York"
+}

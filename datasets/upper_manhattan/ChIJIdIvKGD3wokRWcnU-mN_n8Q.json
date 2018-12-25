@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "2310",
+            "short_name": "2310",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2310 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2310 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(718) 795-7671",
+    "geometry": {
+        "location": {
+            "lat": 40.8159446,
+            "lng": -73.9436743
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172426302915,
+                "lng": -73.94220291970849
+            },
+            "southwest": {
+                "lat": 40.8145446697085,
+                "lng": -73.9449008802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2e3750dc3b0dde8abddb6dc92037d509e2cfc95b",
+    "international_phone_number": "+1 718-795-7671",
+    "name": "Harlem Dog Walking",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJIdIvKGD3wokRWcnU-mN_n8Q",
+    "plus_code": {
+        "compound_code": "R384+9G New York, United States",
+        "global_code": "87G8R384+9G"
+    },
+    "reference": "ChIJIdIvKGD3wokRWcnU-mN_n8Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14168183020117608793",
+    "utc_offset": -300,
+    "vicinity": "2310 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://www.harlemdogwalking.us/"
+}

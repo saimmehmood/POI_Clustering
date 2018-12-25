@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "15 W 136th St, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8138701,
+            "lng": -73.9381673
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8152396302915,
+                "lng": -73.9368032197085
+            },
+            "southwest": {
+                "lat": 40.8125416697085,
+                "lng": -73.9395011802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "c8d708b50453dba78cb7c115ef571a886d011df4",
+    "name": "FDNY Station 16",
+    "place_id": "ChIJdxymaHb2wokRMv-SKpJnp4w",
+    "plus_code": {
+        "compound_code": "R376+GP New York, United States",
+        "global_code": "87G8R376+GP"
+    },
+    "rating": 5,
+    "reference": "ChIJdxymaHb2wokRMv-SKpJnp4w",
+    "reviews": [
+        {
+            "author_name": "Demarius Mayes",
+            "author_url": "https://www.google.com/maps/contrib/116365687014750661870/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zYvdIkXhQVE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYkOb4Unlk8crjRRpt4C4abyqiqaQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I called for Captain Diman, and was unable to leave a message on his voicemail. So I came on here to give my review of the customer service that I received on yesterday July 10,2018. The EMS workers I will not leave there names but only there badge number, because this is public. But if Captain Diman sees this badge#2689 and bashe# 2552. They showed me great caring and hospitality towards me. They was concerned about my wellbeing and wanted me to know that they will take care of me. I am well pleased with the both of them and I just wanted to let Captain Diman know I give them both 10 gold stars for what they did for me.. \nThanks again guys \u263a",
+            "time": 1531318456
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10135183363897753394",
+    "utc_offset": -300,
+    "vicinity": "15 West 136th Street, New York"
+}

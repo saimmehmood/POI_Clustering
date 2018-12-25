@@ -1,0 +1,160 @@
+{
+    "address_components": [
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3579-B, <span class=\"street-address\">Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3579-B, Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(800) 622-8731",
+    "geometry": {
+        "location": {
+            "lat": 40.82776069999999,
+            "lng": -73.94984459999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8290732302915,
+                "lng": -73.94840941970848
+            },
+            "southwest": {
+                "lat": 40.8263752697085,
+                "lng": -73.9511073802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "d79d24f50d6629e56d4189fe024688ec5913d803",
+    "international_phone_number": "+1 800-622-8731",
+    "name": "Bank of America ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3240,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105170431124683218627/photos\">Marc Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAQoCrcBYHbS80VUP2dUiADr0uZd5ZSU12bAau4uk5LYICDBtTGgsvpzlGYyqavI15aXQfZwqgfIytLcQIDBV4uW-xUjpi1GVid90UPklCwr0Ty4WVJKYMsKDmnVs7t-8OEhDGnOuen4cjkflWzQp7FHn6GhTzO2SPCac40ZHjCmEc4vHp-7vicQ",
+            "width": 2401
+        }
+    ],
+    "place_id": "ChIJBUyu7mL2wokR5PKaZqQ-Akc",
+    "plus_code": {
+        "compound_code": "R3H2+43 New York, United States",
+        "global_code": "87G8R3H2+43"
+    },
+    "rating": 5,
+    "reference": "ChIJBUyu7mL2wokR5PKaZqQ-Akc",
+    "reviews": [
+        {
+            "author_name": "yanelis DE LA Cruz",
+            "author_url": "https://www.google.com/maps/contrib/116116468129577738539/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--r9JOp5EOLQ/AAAAAAAAAAI/AAAAAAAAU34/cT4XxDs4TjU/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Very good",
+            "time": 1423075410
+        },
+        {
+            "author_name": "James C. Davis",
+            "author_url": "https://www.google.com/maps/contrib/105365996783727927443/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vy3cyrlaWpA/AAAAAAAAAAI/AAAAAAAAABI/yQu5KPXccnE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1512785279
+        },
+        {
+            "author_name": "Willie Walker",
+            "author_url": "https://www.google.com/maps/contrib/110044424461603653086/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FNAfDgbvA0o/AAAAAAAAAAI/AAAAAAAAALU/pKrgPRvE2wY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1489639002
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5116721002463294180",
+    "utc_offset": -300,
+    "vicinity": "3579-B, Broadway, New York",
+    "website": "https://locators.bankofamerica.com/ny/newyork/atm-new-york-102836.html?utm_source=GMBlisting&utm_medium=organic"
+}

@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "2441",
+            "short_name": "2441",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2441 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2441 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(800) 836-6666",
+    "geometry": {
+        "location": {
+            "lat": 40.8140204,
+            "lng": -73.9489783
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81536538029149,
+                "lng": -73.9476178197085
+            },
+            "southwest": {
+                "lat": 40.8126674197085,
+                "lng": -73.9503157802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "86695d961260666e9920c2c55bf975c34f21ae9c",
+    "international_phone_number": "+1 800-836-6666",
+    "name": "SP+ Parking",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 10:00 PM",
+            "Tuesday: 6:00 AM \u2013 10:00 PM",
+            "Wednesday: 6:00 AM \u2013 10:00 PM",
+            "Thursday: 6:00 AM \u2013 10:00 PM",
+            "Friday: 6:00 AM \u2013 10:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105687116303045543773/photos\">SP+ Parking</a>"
+            ],
+            "photo_reference": "CmRaAAAAtwDNhBlKeM_kUmCRVhHpvyWbSM4hUg-VTUXBHaRFMV12IqVA5w--VrHuNxdCJ14PudEE0uYMCPy2upbKlF8syyGkLBFjq8LOXlirRulF7uZdNTcE-d-ddmQGVCEbF6RwEhDWC4abZhLXF3R_UJxM1hjnGhTowM6dEqPWt2beVAEc95zlSG42gQ",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJ_6WD7sT3wokRfQyScFHzqpI",
+    "plus_code": {
+        "compound_code": "R372+JC New York, United States",
+        "global_code": "87G8R372+JC"
+    },
+    "reference": "ChIJ_6WD7sT3wokRfQyScFHzqpI",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10568527006684810365",
+    "utc_offset": -300,
+    "vicinity": "2441 Frederick Douglass Boulevard, New York",
+    "website": "https://parking.com/nyc/lot/fdb-lot?utm_source=Yext&utm_medium=Yext&utm_campaign=Yext-NY"
+}

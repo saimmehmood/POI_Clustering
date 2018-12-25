@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "394-378",
+            "short_name": "394-378",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4203",
+            "short_name": "4203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">394-378 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "394-378 Convent Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8256403,
+            "lng": -73.9455139
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82698923029149,
+                "lng": -73.9441649197085
+            },
+            "southwest": {
+                "lat": 40.8242912697085,
+                "lng": -73.9468628802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "36af1418ccb8605c08d367cfebadff9d3e5ef7d5",
+    "name": "394-378 Convent Ave",
+    "place_id": "ChIJi5YD8Hz2wokRXdA7x8Bo1m0",
+    "reference": "ChIJi5YD8Hz2wokRXdA7x8Bo1m0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=394-378+Convent+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67cf003968b:0x6dd668c0c73bd05d",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

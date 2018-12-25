@@ -1,0 +1,323 @@
+{
+    "address_components": [
+        {
+            "long_name": "541",
+            "short_name": "541",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">541 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "541 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 348-7388",
+    "geometry": {
+        "location": {
+            "lat": 40.8157461,
+            "lng": -73.9400026
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8170564802915,
+                "lng": -73.93855836970849
+            },
+            "southwest": {
+                "lat": 40.8143585197085,
+                "lng": -73.94125633029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6b02fbd9603902f516be26798f5b575726a4d24d",
+    "international_phone_number": "+1 917-348-7388",
+    "name": "PJ nails & spa inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 7:30 PM",
+            "Tuesday: 10:30 AM \u2013 7:30 PM",
+            "Wednesday: 10:30 AM \u2013 7:30 PM",
+            "Thursday: 10:30 AM \u2013 7:30 PM",
+            "Friday: 10:30 AM \u2013 7:30 PM",
+            "Saturday: 10:30 AM \u2013 7:30 PM",
+            "Sunday: 11:30 AM \u2013 5:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108929082846366250000/photos\">Hung Vuong</a>"
+            ],
+            "photo_reference": "CmRZAAAA7nodwDb91K2T1YpE-Z1lXad0kGvp5EvRY4hbsKoleJYgZ7jIzjwhPVZSVnn9V8DLI2PlhamJ9TeJk64OrM-rRmUBmKIPn7rnw9RVf6w3fi_DM9wm0GluMEoI-nbU3OVvEhCjPXXW25hhLdjixfrzB2zCGhSC2AeDUAYCxXLl_vb9xEK87BWa1g",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108929082846366250000/photos\">Hung Vuong</a>"
+            ],
+            "photo_reference": "CmRZAAAARDCOnu83fXC5GAq2HHvontf1MYIM3W5HkSv7WOads4FGNaWfdbBfM2Yw1J6See4Zr6cj5RT2S5bMKYTZLKlu4R4clHVXfDRm5V8izc4EiRiXaAA4q40SBM2jGl688kG7EhCxHyxrOpCEe7Jcecq2ypmAGhTC3Inq5sOmpSBsnSPpNO04pdhL8g",
+            "width": 3024
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA7ZcyZWjhg5fBshtjJYxDNWW4CYBMq-RogCMolV2N81Un66w2y0S0w2Do8hW0yoyRdDjUgaH6ZoqGFZc04hQhneaZUH0lqzqgnH6HKKgrAeCgYzCAChrP1TSgUobDsmqnEhCYhvcUZF-LPVZNoFmhxx0CGhR462ZNfaIqKLnTv0__FojQqLNeXA",
+            "width": 2880
+        },
+        {
+            "height": 1537,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA9eEJtHzu0sCq5xZcwcAFXkovKf843VwyNT07lXUb9o40iBSIMT0hrh4AYXBtZo6NFcBgB2_WQAPuAQxR3eCJwL8NeMeqsG5l3IWagEDjpRbnF76Bgd1phAS3S8BQTp4PEhAi8defo8k7qM-j20d2PMwFGhSh1LpLy4LleduZ0ASEL0puvpOuEw",
+            "width": 1537
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAF-Z0CvKJ9NTGWJwRAcXvIYfN4dFEn2LRl9NanHfV4VcvCctTuCyuVGrd6VgElcx7vxoKuZTFnUixpp3HiaqoPoZsjiiuVaFBMQTQEaXMnFzl_HrpKdM0RX0WXl12eW5iEhBy_1KVXVMRqLCF5C_9AFesGhTHrlukTEUCZHTHMOkYXhRL2PtkcQ",
+            "width": 3024
+        },
+        {
+            "height": 512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAKOV54iSYAuW1XoiSIgDfm46knOARyjLuSssMMudjaqiY20l08Ut5PauKKOqPvhde3HUUpdYcky1ryIEfHgtjVqE6W7uF7CvdFY5cLifBgW-huaY8wi4lTblukgPwIkpMEhA2CDTOxybRO6VQ0ziP_PB9GhTUY0PROzKrAYFxwJtGV4d75zlwgw",
+            "width": 512
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA-DszyTJ-w9XdUcIxbJD_V5sppaGPjYvrtlzS0C_AJpsy29iGtAZAdTag4hPUFO4fkt7hNYOwkdsm5BvdBfknarte563G8QgqGRkncRapjpgOLzttdHB4R_i9h5ttFeqeEhAN3kF19j6Ow4Dj6Yyg8qKKGhR4qgjTxT5PRajODqnR3PSIUTF7DA",
+            "width": 1960
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118043075878139596495/photos\">J Lewis</a>"
+            ],
+            "photo_reference": "CmRaAAAAA5KRNSlmuaQl7huxz6JC660Jp55Rf7wdP1n2gLkhmUGvyTkARDLtN_5eq8u8m6pSEVoHFjBMkvDVwp3KWogpRjgMR3_ePOvUhQ_aM4J75yLvnU2FV6ODO7209L3wk0MJEhAfGdw0NGnZHkF4zTnHE6VNGhS5wWOQlA-fGyhsW5t8jRVydV21og",
+            "width": 2448
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111151549566684035978/photos\">PJ nails &amp; spa inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAFPhspMnmGG3ElzDlUdTJIBaHHT9RRina2P4i707NtwR-IhZ4Hz5KXXA9tKL3_jwYZKO1lkEuMSo7Ga9G_iieISJvGh3k6hlzMlWsgn-nw0TL__OggGBDJGyAMUESdOoREhB54sCGl19kQqKMjk6y810pGhSpCdRuT6d1XxXmkWDUVlsufK0JAw",
+            "width": 1960
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111961046056002942503/photos\">Melinda Saldivar</a>"
+            ],
+            "photo_reference": "CmRaAAAAQONy_rdlpSLIiABBfx6Qwnnm1-JtGHm1ugfDkMlqoOvInNQ2Rcmr6i2fcPE6SE-z-Nfa7ypcYqqM1jeYg-NYTsoZT5Xw4eOJE6zEB5WXFelsPT6iL8rZXkNtVKIw9YSJEhD4895nCh7QU4hXukyao7nJGhSV8SaBtcgLvZumqt-doRYCyPOXtQ",
+            "width": 1440
+        }
+    ],
+    "place_id": "ChIJsRB2HXf2wokRV6RGUP_Hji8",
+    "plus_code": {
+        "compound_code": "R385+7X New York, United States",
+        "global_code": "87G8R385+7X"
+    },
+    "rating": 3.8,
+    "reference": "ChIJsRB2HXf2wokRV6RGUP_Hji8",
+    "reviews": [
+        {
+            "author_name": "Phylicia M",
+            "author_url": "https://www.google.com/maps/contrib/112804729903672932498/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MbTjww-fQuo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbyFznO-uBF9zoDscSSjWEwnpo4ew/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "Been in the neighborhood 3 months and today was my fourth time getting nails done here. I completely agree with others. Paul and Julie do nails the best! The man who did mine today seemed new and gel came out sloppy. The woman who did my pedi rushed. I know they were busy but taking time to do a good job isn\u2019t too much to ask. I\u2019ll go back but learned my lesson and see why people will wait for Paul or Julie.",
+            "time": 1534466443
+        },
+        {
+            "author_name": "S T",
+            "author_url": "https://www.google.com/maps/contrib/114301789381132231709/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yesbS5uEL8I/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYaom2i4qUtp0ygbP2gO-i1Vxo50w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Have been coming to this salon for quite some time. Went in for a pedicure Saturday around 6, Julie asked me to come back \"around 7\". I came back at 7:05 and she advised they were closed - interesting when SHE suggested the time for me to come back as she was fixing a poor job she previously did with my IBD gel and even google says they close at 7:30. AND I previously tried to come Wednesday and they were already closed at 6 - guess they just do what they want. Extremely poor service considering how long I've been going there and the level of services I get. The salon is definitely not impressive (could stand to be cleaned etc) but given that it's close by I continued to go. I will not, however, tolerate poor service. Will definitely be taking my business elsewhere.",
+            "time": 1533425327
+        },
+        {
+            "author_name": "J Lewis",
+            "author_url": "https://www.google.com/maps/contrib/118043075878139596495/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-4UrsyQRDjmY/AAAAAAAAAAI/AAAAAAAAAFs/Yu9qjFOlMeA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "ZERO STARS!!!\nHORRIBLE \nHORRIBLE \nFILTHY \nRUDE\nHORRIBLE AGAIN!\nDon't go to this place!!\nI went there to get a mani and pedi. When I went inside,  I asked if they would be able to  and I was told i would only have to wait 10 minutes. No problem.\nAfter 30 minutes of waiting I got up to leave and the owner ran in front of the door and told me \"we take you now\".\nI was hesitant to go but against my better judgment decided to take a chance as I was flying out of town early the next morning and wouldn't have time otherwise.\nThe person who told me she would do my nails didn't properly clean up after the person before me. I asked politely if she would use the plastic covering to make sure I didn't get anything. She smiled and said something in another language. (Rude) she saw my reaction and quickly mentioned that she asking her fellow coworker for towels. \ud83d\udc40\nAll the polishes are behind the work stations so you can't choose you color until they give you the color pallets. waste of time.\nShe cut my toe nails without asking.\nShe has to repaint 2 Nails was very messy with lots of clean up.\nI told her not to bother to do my finger nails will pay and leave. (With a tip) because I was raised that way. \nAnother employee approached and told\nMe she would do my nails. \nThis person manages to apply the top coat without error.\nShe tell me she will do my fingers and again I agreed thinking she would do a decent job.\nNO SHE DIDN't\nIt was HORRIBLE! \nI told  her how I wanted my nails and she agreed and did something else. \nI will upload pictures of the place and my nails. \nYou guys be the judge. \nBut I'm warning you guys don't not go to this place!!!",
+            "time": 1533382614
+        },
+        {
+            "author_name": "Normisha Gregg",
+            "author_url": "https://www.google.com/maps/contrib/116092370095310822206/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0K9kKtEpXBE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZBQ55GXJScGh_D3Y2w02qgLR6Fnw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I had an amazing experience with pj Nails I did the crome nails and when I tell you the compliments I've gotten about my nails was overwhelming\ud83d\ude02\ud83d\ude02\ud83d\ude02julie did them and I will be going back",
+            "time": 1532362185
+        },
+        {
+            "author_name": "Dianne crencher",
+            "author_url": "https://www.google.com/maps/contrib/105455506896416041994/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Tc3wgaNfhvQ/AAAAAAAAAAI/AAAAAAAAG8U/0NozTokqHII/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I Love My Nail Tech. Ppl are always admiring My Nails I go No other Place But PJ Nails they are Da Bomb!",
+            "time": 1530297083
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3426896265852920919",
+    "utc_offset": -300,
+    "vicinity": "541 Lenox Avenue, New York"
+}

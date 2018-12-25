@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "241",
+            "short_name": "241",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4001",
+            "short_name": "4001",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">241 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4001</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "241 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-6847",
+    "geometry": {
+        "location": {
+            "lat": 40.8226512,
+            "lng": -73.9409648
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82391623029149,
+                "lng": -73.93967736970849
+            },
+            "southwest": {
+                "lat": 40.8212182697085,
+                "lng": -73.9423753302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fb73181b4d490443603c322004e2424cbc93666c",
+    "international_phone_number": "+1 212-491-6847",
+    "name": "Galaxy Hair Salon",
+    "place_id": "ChIJw68JRXn2wokRG7IlPeU9_h0",
+    "plus_code": {
+        "compound_code": "R3F5+3J New York, United States",
+        "global_code": "87G8R3F5+3J"
+    },
+    "reference": "ChIJw68JRXn2wokRG7IlPeU9_h0",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2161232925967102491",
+    "utc_offset": -300,
+    "vicinity": "241 West 145th Street, New York"
+}

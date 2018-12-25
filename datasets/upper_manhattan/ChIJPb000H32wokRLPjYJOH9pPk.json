@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "772",
+            "short_name": "772",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4012",
+            "short_name": "4012",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">772 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "772 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-5720",
+    "geometry": {
+        "location": {
+            "lat": 40.826471,
+            "lng": -73.94261809999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8278780302915,
+                "lng": -73.9413964197085
+            },
+            "southwest": {
+                "lat": 40.8251800697085,
+                "lng": -73.9440943802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "af7ba78dc37cc7bee6f5adb820a111eb1c38a696",
+    "international_phone_number": "+1 212-281-5720",
+    "name": "Evita Realty Corporation",
+    "place_id": "ChIJPb000H32wokRLPjYJOH9pPk",
+    "plus_code": {
+        "compound_code": "R3G4+HX New York, United States",
+        "global_code": "87G8R3G4+HX"
+    },
+    "rating": 1,
+    "reference": "ChIJPb000H32wokRLPjYJOH9pPk",
+    "reviews": [
+        {
+            "author_name": "Beatrice walker",
+            "author_url": "https://www.google.com/maps/contrib/107489111076325856366/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kOvNsccxGJ4/AAAAAAAAAAI/AAAAAAAAAD8/GRn0TfpvmSU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Terrible management company, very hard to get a hold of considering the business hours are only open from 10-2 so if you have any issues after or before those hours you're basically screwed. Hardly ever get a response back when you leave messages. The building itself and apartments are very old. Mice, roaches, bad plumbing, problems with the heat and hot water. Consider living elsewhere.",
+            "time": 1470173975
+        },
+        {
+            "author_name": "Vicky Colon",
+            "author_url": "https://www.google.com/maps/contrib/108858384202217466483/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ipWljy_nz1w/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYOlHF-eJDZwNCsdTJMntudYDzzCw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Yo,visit\u00e9 ese lugar para una pregunta si son bien atento.",
+            "time": 1534180634
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17988781955052271660",
+    "utc_offset": -300,
+    "vicinity": "772 Saint Nicholas Avenue, New York"
+}

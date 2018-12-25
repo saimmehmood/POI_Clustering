@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8228205,
+            "lng": -73.94193299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8241827302915,
+                "lng": -73.94061556970848
+            },
+            "southwest": {
+                "lat": 40.8214847697085,
+                "lng": -73.94331353029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "09738293bc4432fc84ca80fcb0e06798a7f460c0",
+    "name": "Fred Douglass Bl/w 145 St",
+    "place_id": "ChIJj8Vz_Xv2wokROv_Kep2AFXk",
+    "plus_code": {
+        "compound_code": "R3F5+46 New York, United States",
+        "global_code": "87G8R3F5+46"
+    },
+    "reference": "ChIJj8Vz_Xv2wokROv_Kep2AFXk",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8725021266958548794",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

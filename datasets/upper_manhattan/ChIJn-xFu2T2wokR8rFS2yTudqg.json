@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1682-1656",
+            "short_name": "1682-1656",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6105",
+            "short_name": "6105",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1682-1656 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1682-1656 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8236392,
+            "lng": -73.9487822
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249881802915,
+                "lng": -73.94743321970849
+            },
+            "southwest": {
+                "lat": 40.8222902197085,
+                "lng": -73.95013118029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "165b793a092ddcf351eaff9b182f4e7272316122",
+    "name": "1682-1656 Amsterdam Ave",
+    "place_id": "ChIJn-xFu2T2wokR8rFS2yTudqg",
+    "reference": "ChIJn-xFu2T2wokR8rFS2yTudqg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1682-1656+Amsterdam+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f664bb45ec9f:0xa876ee24db52b1f2",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "2218",
+            "short_name": "2218",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2706",
+            "short_name": "2706",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2218 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-2706</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2218 5th Ave, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8127038,
+            "lng": -73.9379374
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140151802915,
+                "lng": -73.9364979197085
+            },
+            "southwest": {
+                "lat": 40.81131721970851,
+                "lng": -73.9391958802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "f659bf21873c3a883e2caba3a8ce4d150a8e315e",
+    "name": "JPMorgan Chase",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJYy0M33X2wokRZmSOd8IJ9qg",
+    "plus_code": {
+        "compound_code": "R376+3R New York, United States",
+        "global_code": "87G8R376+3R"
+    },
+    "rating": 4,
+    "reference": "ChIJYy0M33X2wokRZmSOd8IJ9qg",
+    "reviews": [
+        {
+            "author_name": "Madeline Ines Hunter",
+            "author_url": "https://www.google.com/maps/contrib/106816404097521222161/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8MJX15yTMR4/AAAAAAAAAAI/AAAAAAAAMn0/sIWIx8GT18E/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1501994053
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12174929373476840550",
+    "utc_offset": -300,
+    "vicinity": "2218 5th Avenue, New York",
+    "website": "https://www.chase.com/"
+}

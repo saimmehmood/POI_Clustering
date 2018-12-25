@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "520",
+            "short_name": "520",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5805",
+            "short_name": "5805",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">520 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5805</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "520 W 144th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 368-5465",
+    "geometry": {
+        "location": {
+            "lat": 40.8248366,
+            "lng": -73.94927679999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8262722802915,
+                "lng": -73.94786371970848
+            },
+            "southwest": {
+                "lat": 40.8235743197085,
+                "lng": -73.9505616802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e0e181912dc04efcfb01053d4c58f27376a08eb9",
+    "international_phone_number": "+1 212-368-5465",
+    "name": "Mae Contractor Services",
+    "place_id": "ChIJZ4VBXWP2wokRJutREQMvKwg",
+    "plus_code": {
+        "compound_code": "R3F2+W7 New York, United States",
+        "global_code": "87G8R3F2+W7"
+    },
+    "reference": "ChIJZ4VBXWP2wokRJutREQMvKwg",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=588615866523970342",
+    "utc_offset": -300,
+    "vicinity": "520 West 144th Street, New York"
+}

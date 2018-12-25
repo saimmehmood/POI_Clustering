@@ -1,0 +1,207 @@
+{
+    "address_components": [
+        {
+            "long_name": "3592",
+            "short_name": "3592",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3201",
+            "short_name": "3201",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3592 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3592 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-0485",
+    "geometry": {
+        "location": {
+            "lat": 40.8279862,
+            "lng": -73.9489888
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8293678302915,
+                "lng": -73.94771631970849
+            },
+            "southwest": {
+                "lat": 40.8266698697085,
+                "lng": -73.9504142802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8aefd30419503bc18ae69c1c8f733dc2139bd07b",
+    "international_phone_number": "+1 212-283-0485",
+    "name": "Jose Frias Brokerage",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:30 AM \u2013 6:00 PM",
+            "Tuesday: 11:30 AM \u2013 6:00 PM",
+            "Wednesday: 11:30 AM \u2013 6:00 PM",
+            "Thursday: 11:30 AM \u2013 6:00 PM",
+            "Friday: 11:30 AM \u2013 6:00 PM",
+            "Saturday: 12:00 \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ4axKlWL2wokRHseSceuufFA",
+    "plus_code": {
+        "compound_code": "R3H2+5C New York, United States",
+        "global_code": "87G8R3H2+5C"
+    },
+    "rating": 5,
+    "reference": "ChIJ4axKlWL2wokRHseSceuufFA",
+    "reviews": [
+        {
+            "author_name": "Alberto Ledesma",
+            "author_url": "https://www.google.com/maps/contrib/116031714194552929823/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-K8Yq2_UuNfM/AAAAAAAAAAI/AAAAAAAAADY/qC_vv9xStXs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": " Bueno me siento como en mi casa hay con parto y  juego de domino",
+            "time": 1471961570
+        },
+        {
+            "author_name": "Guillermina morel",
+            "author_url": "https://www.google.com/maps/contrib/113199032566212819884/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ktCtpU4YPYc/AAAAAAAAAAI/AAAAAAACqkw/N3PPyZQnih4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1517091388
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5799702746392348446",
+    "utc_offset": -300,
+    "vicinity": "3592 Broadway, New York"
+}

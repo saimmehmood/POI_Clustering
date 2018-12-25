@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "180",
+            "short_name": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "180 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(215) 886-2173",
+    "geometry": {
+        "location": {
+            "lat": 40.81463490000001,
+            "lng": -73.9429877
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161309802915,
+                "lng": -73.9415311197085
+            },
+            "southwest": {
+                "lat": 40.8134330197085,
+                "lng": -73.9442290802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "abbb8bf255132603c334cb18d819a3e0acf02271",
+    "international_phone_number": "+1 215-886-2173",
+    "name": "Word of Life",
+    "place_id": "ChIJVVVVVUD2wokR9ggMUmkXNic",
+    "plus_code": {
+        "compound_code": "R374+VR New York, United States",
+        "global_code": "87G8R374+VR"
+    },
+    "reference": "ChIJVVVVVUD2wokR9ggMUmkXNic",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2825471557337090294",
+    "utc_offset": -300,
+    "vicinity": "180 West 135th Street, New York"
+}

@@ -1,0 +1,145 @@
+{
+    "address_components": [
+        {
+            "long_name": "142",
+            "short_name": "142",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 132nd Street",
+            "short_name": "W 132nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">142 W 132nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "142 W 132nd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.812834,
+            "lng": -73.94387499999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8141940302915,
+                "lng": -73.9425179697085
+            },
+            "southwest": {
+                "lat": 40.8114960697085,
+                "lng": -73.94521593029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "0625647b7051731b541cff261807bece07e4b014",
+    "name": "NY Appt",
+    "place_id": "ChIJ75cyxHP2wokRy3f43klaDCc",
+    "plus_code": {
+        "compound_code": "R374+4F New York, United States",
+        "global_code": "87G8R374+4F"
+    },
+    "rating": 4,
+    "reference": "ChIJ75cyxHP2wokRy3f43klaDCc",
+    "reviews": [
+        {
+            "author_name": "Jo smith",
+            "author_url": "https://www.google.com/maps/contrib/116150169820153780557/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ZkR7oUJIF3w/AAAAAAAAAAI/AAAAAAAAO7w/1_OsHek0uhY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "There is some minor work that needs to be done but overall this place was great. Because our group is centered around good fun and fellowship we were a little disappointed that the oven didn't work. But in New York there are more than enough restaurants to choose from and that's what we did....the food was amazing.",
+            "time": 1526757693
+        },
+        {
+            "author_name": "Rose Davis",
+            "author_url": "https://www.google.com/maps/contrib/112625612238739340986/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zNogH5cpuZM/AAAAAAAAAAI/AAAAAAAAABA/yvIuaWGxHqM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "8 months ago",
+            "text": "Accommodations are nice. Not as clean as it  could have been: stains/spills on wall, bathroom was not wiped down well. It took 30-45 minutes for water to START to warm up. The customer service was excellent though. The people at the front desk and breakfast area were welcoming and the manager compensated us for the things that were not up to par. Great walking distance to restaurants and shopping.",
+            "time": 1523824541
+        },
+        {
+            "author_name": "Bush Angelo",
+            "author_url": "https://www.google.com/maps/contrib/109066913576034217013/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zxLKfRPfBgM/AAAAAAAAAAI/AAAAAAAAAF8/MsQJtxbh-A4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I'm glad to be apart of a new team.",
+            "time": 1522769438
+        },
+        {
+            "author_name": "Orlando raba\u00e7a",
+            "author_url": "https://www.google.com/maps/contrib/106645523735117939746/reviews",
+            "language": "pt",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MHW-PYdhweE/AAAAAAAAAAI/AAAAAAAAAVs/gqUkqaXZzDs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Agentes nativos mal educados",
+            "time": 1525193309
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2813723140519655371",
+    "utc_offset": -300,
+    "vicinity": "142 West 132nd Street, New York"
+}

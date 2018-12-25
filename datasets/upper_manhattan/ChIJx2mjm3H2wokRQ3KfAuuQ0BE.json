@@ -1,0 +1,137 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.814718,
+            "lng": -73.9452127
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161986302915,
+                "lng": -73.9437665697085
+            },
+            "southwest": {
+                "lat": 40.8135006697085,
+                "lng": -73.94646453029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "68c6f1604c9cbb1ebb37df7d1e5d3a69e73b752b",
+    "name": "Saint Philip's Episcopal Church",
+    "photos": [
+        {
+            "height": 4612,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104596856248078658268/photos\">Rouslan Valonen</a>"
+            ],
+            "photo_reference": "CmRaAAAAlfFUeu4tja2QG7If-VJQDUCzxaSZmp3kcdJmVibTA36SNfT1jGNLjYBgJNahGm0HzE60x26l3WWxoVZpR6-xgKMD1Y9Na9cw4Mlomk7LqkHSQlYGtZO9Betkda26SvV7EhAOd8BwcC9pl04gLHaBkotUGhRWHkquraPGqCkKBo3HrPyUyh_nCA",
+            "width": 2933
+        },
+        {
+            "height": 1456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116180706869936952489/photos\">John Bryant</a>"
+            ],
+            "photo_reference": "CmRaAAAAzEZQHn-wwcuWAxPN7fwWpdSqHzeTKhQfEA_32cVDwug9iljs150D-FZ1rkj9DhTDRRLJ7yNz8VLCAoBXIRGCbiIZtfykjYj-Y6gYXOhB1wLMhGUERln-t7qde2Pm4bRSEhDAPqWVPZcEd0ZyIkwpazCxGhQzWuCQuiYyNOij-YPrr5BQQS9xtg",
+            "width": 2592
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116180706869936952489/photos\">John Bryant</a>"
+            ],
+            "photo_reference": "CmRaAAAAND2kIKNIzAg9Gb0aJ7T_QMai0jCp6bkhxnvdscqDsI97VDL1_Bv6fqlLLktelXfz6f9vztEcmS2V7vg2Z6nvSyKXa1lHqOEogDeFy1dAAgUe-6AH1-GX_FGtLs53k8uwEhCkS2-dRUlWbObi4-K2IARJGhRJppWZXRZxHgwP-kKzjLys3gTUFQ",
+            "width": 3120
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116180706869936952489/photos\">John Bryant</a>"
+            ],
+            "photo_reference": "CmRaAAAAdskY_jN2gLXolSNKNBuEb55uHg5zQeX_U05K_s9pbop9VSUl7Ggsp9a4euAGioQDV9xdNtE2FbKZrQmua1gXO7PWH96CZ9qbMcyiNcoLktJwACldn3fso9WT_ckTFJN4EhCVGpdzieJWRLd9JS4EqA2nGhQzHfBZUUuR30V4ODQ_anyrjFChCQ",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJx2mjm3H2wokRQ3KfAuuQ0BE",
+    "plus_code": {
+        "compound_code": "R373+VW New York, United States",
+        "global_code": "87G8R373+VW"
+    },
+    "rating": 5,
+    "reference": "ChIJx2mjm3H2wokRQ3KfAuuQ0BE",
+    "reviews": [
+        {
+            "author_name": "Suk Hyun Hahm",
+            "author_url": "https://www.google.com/maps/contrib/107504402057201635565/reviews",
+            "language": "ca",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Ab6C9Ktgr9c/AAAAAAAAAAI/AAAAAAAAAuw/dp2m-r3ehMk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Cap 600",
+            "time": 1490387875
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1283685232836309571",
+    "utc_offset": -300,
+    "vicinity": "New York",
+    "website": "http://stphilipsharlem.org/"
+}

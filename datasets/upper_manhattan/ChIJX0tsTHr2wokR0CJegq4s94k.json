@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "2655 Frederick Douglass Boulevard, New York, NY 10030, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2655 Frederick Douglass Boulevard, New York, NY 10030, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 271-0202",
+    "geometry": {
+        "location": {
+            "lat": 40.820885,
+            "lng": -73.9437202
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82230833029151,
+                "lng": -73.9423146697085
+            },
+            "southwest": {
+                "lat": 40.81961036970851,
+                "lng": -73.9450126302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "13d2745215434705930cf662515866ddd6c7f86f",
+    "international_phone_number": "+1 646-271-0202",
+    "name": "Claretta S. Whyte, LMSW",
+    "place_id": "ChIJX0tsTHr2wokR0CJegq4s94k",
+    "plus_code": {
+        "compound_code": "R3C4+9G New York, United States",
+        "global_code": "87G8R3C4+9G"
+    },
+    "reference": "ChIJX0tsTHr2wokR0CJegq4s94k",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9941463830466798288",
+    "utc_offset": -300,
+    "vicinity": "2655 Frederick Douglass Boulevard, New York, NY 10030, New York"
+}

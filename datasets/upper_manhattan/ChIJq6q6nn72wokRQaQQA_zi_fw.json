@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "102",
+            "short_name": "102",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">102 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "102 Bradhurst Ave, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 804-7353",
+    "geometry": {
+        "location": {
+            "lat": 40.8247564,
+            "lng": -73.9415389
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261475802915,
+                "lng": -73.9402938697085
+            },
+            "southwest": {
+                "lat": 40.82344961970851,
+                "lng": -73.9429918302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a80afd4943887ee0a2376f299340a344d5de6da9",
+    "international_phone_number": "+1 212-804-7353",
+    "name": "Custom Collaborative",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 3:00 PM",
+            "Tuesday: 9:00 AM \u2013 3:00 PM",
+            "Wednesday: 9:00 AM \u2013 3:00 PM",
+            "Thursday: 9:00 AM \u2013 3:00 PM",
+            "Friday: 9:00 AM \u2013 3:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJq6q6nn72wokRQaQQA_zi_fw",
+    "reference": "ChIJq6q6nn72wokRQaQQA_zi_fw",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18229976438676694081",
+    "utc_offset": -300,
+    "vicinity": "102 Bradhurst Avenue, New York"
+}

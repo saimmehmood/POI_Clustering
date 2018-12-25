@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8136575,
+            "lng": -73.9446066
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8150377302915,
+                "lng": -73.94333271970848
+            },
+            "southwest": {
+                "lat": 40.8123397697085,
+                "lng": -73.9460306802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "85def9f71dd09b9804bffcb5c6c9170ceb105ca6",
+    "name": "Sisters Hair Braiding",
+    "place_id": "ChIJ76hV1HP2wokR8Q295F485Mk",
+    "plus_code": {
+        "compound_code": "R374+F5 New York, United States",
+        "global_code": "87G8R374+F5"
+    },
+    "rating": 5,
+    "reference": "ChIJ76hV1HP2wokR8Q295F485Mk",
+    "reviews": [
+        {
+            "author_name": "Nicole Sally",
+            "author_url": "https://www.google.com/maps/contrib/115728175868964799033/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-M9XuHCnzI9U/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYVwDDhXp9ShmfOUJacYh9FmvZ3vA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "they are nice n clrean n they do hair varygood",
+            "time": 1521821854
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14547819074575732209",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

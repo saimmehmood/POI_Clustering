@@ -1,0 +1,315 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 W 146th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 675-6666",
+    "geometry": {
+        "location": {
+            "lat": 40.825979,
+            "lng": -73.9474886
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8273564302915,
+                "lng": -73.9461182197085
+            },
+            "southwest": {
+                "lat": 40.8246584697085,
+                "lng": -73.9488161802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "f81c8c56ff62fb88931ca521561b27600580c530",
+    "international_phone_number": "+1 917-675-6666",
+    "name": "Chopped Parsley",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 4:00 \u2013 10:00 PM",
+            "Tuesday: 4:00 \u2013 10:00 PM",
+            "Wednesday: 4:00 \u2013 10:00 PM",
+            "Thursday: 4:00 \u2013 10:00 PM",
+            "Friday: 4:00 \u2013 11:00 PM",
+            "Saturday: 4:00 \u2013 10:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106536075734705804822/photos\">Angel Arzola</a>"
+            ],
+            "photo_reference": "CmRaAAAAKIMgcMHfvopE8U0KCnFXSNdpqPRAcTCyNleQu9uopK1wsVqZ6WB90YvkVmeQERQNY25AZKiwgPv0jXdtocgtMrgymxlthBaf-yccTdMpwNvyGMnAQibP3P-eT9yxED6tEhDabWU3wnwCJLvVnFveOvUZGhQaXpzsBaFBcjhux6kwdxyRGDx6hQ",
+            "width": 4032
+        },
+        {
+            "height": 2572,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109984215685422930917/photos\">Chopped Parsley</a>"
+            ],
+            "photo_reference": "CmRaAAAAN6EeasWxlzg7543kyxobCCsAkBBhq5w4GR338nASgHqGvDd-CEuKKIrmGDU9PDJHOt8ezNFi1yZvHOFt_hlPSudEWkSbuC8XP1zgNx4IJn3DbtEwuSuolLInRnGWjkEIEhAACE8Hd_GiOirqxuKtakgpGhRHKMRemrBWJq_TFMpDbBcAUqv84A",
+            "width": 3429
+        },
+        {
+            "height": 4008,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108700383114513216875/photos\">Luis Ortiz</a>"
+            ],
+            "photo_reference": "CmRaAAAAzhrAKqVPP06hqVKNjywwy9B9m2LchI2b9FkqHniUryMbrD0mz5bNTnmfVnkbIeCYp23l6USyGY2dMWUcck9GWjUB92_0TjYmxtUCsnnLeGJFZqEgFn4-m0RxzIeqPqToEhCwYg_e8SY0vKeDqObKCbLzGhTHLEusub3YtdRp22midOF45ZlAgA",
+            "width": 5344
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106584534307748749122/photos\">Kat Jensen</a>"
+            ],
+            "photo_reference": "CmRaAAAAR8qn8whQdI5xu4t8m86OHqErybT-6Er_cNGRisXfk5auNv411lFuwRg3JKUZReTsGFTujrJba-uGiF1l8G91PnoDVfYcZj6SV6KoC_5ICR13DwUl72g1G8ng_sb4oOMTEhBkxblMHkOcPAlEkAw0oYDHGhRcrxNih7Z-ZLYvxVe1bolj2LQ3XQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114707656177875382272/photos\">Antonio D&#39;souza</a>"
+            ],
+            "photo_reference": "CmRaAAAAEWL9raPCtbIA7mGZquJkdP3AO_hBm-9kdr5hKa7kjuQ5k7Z5ZXzgv5s-WPJnbzjOKThsyFxuDYwDaicxcubaemROoyrSvUvPQiyWEgbLeQQcsWYeYDKbUGDSBcinU20HEhApdUPfkbZBAZq3k_kmPCmmGhTMRdw1GZ5AvK2Z8VMPjWMAP_Z2uA",
+            "width": 4032
+        },
+        {
+            "height": 624,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109984215685422930917/photos\">Chopped Parsley</a>"
+            ],
+            "photo_reference": "CmRaAAAA9ufhT9F1C-UcJTTYej1xKcSaXsUHOR6xKD-O5-wZWzJF0W1vsbdEZCfOk5lZtI-dKuLxVkseqRoDz4OKdjk5e8ftHR65UVMJtK7KqqahGZPN49bgH_tbkDgkcfmBXHnfEhCkw9AmliIQG2Vi07suwKoAGhQ8s-o-qZzbaRe_tyX-JFdjNgD0tw",
+            "width": 624
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914531629451681391/photos\">Jessica Schnell</a>"
+            ],
+            "photo_reference": "CmRaAAAAXM5268d-Dsj5coFXS0kO_GDoVJeeNl-MjzK9YRcMCGK_3jmY2KxcuciyB6oX7Unrq0ZRZnV5kSowvBN6fWsuY3S6wrfabIBJ7UEyvivcZ_z0R3F_o8jT0_WkudHrGuRAEhCBE0KDZmqUBLjl1O-LZ4GuGhTQ6PLfIGF9HKK141xG8AlykAkHmQ",
+            "width": 4048
+        },
+        {
+            "height": 1520,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106026620149751010145/photos\">Farouk Chemam</a>"
+            ],
+            "photo_reference": "CmRaAAAA2_NZ0DbkdKybjsSwMOTiQ3IG8od3y3J3e3shg_q4VlgbBgQK5CDlZjqMEPI71MMKfQuHSZk3bI8_Da16FZ2Yhv-eVE5y7Rh4-y_FR8t2IiBxY-at-S6AWuaD2JH-bYahEhAkWn1cwjoVLLdDePiMgazyGhRd4iS2SU_YsgEN-75PkJlhJalqYw",
+            "width": 1977
+        },
+        {
+            "height": 1740,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102542617049109301171/photos\">Morris Dickens</a>"
+            ],
+            "photo_reference": "CmRaAAAAHnlKt9HKf7uX8IdoLolMlzhTpn-MJcuLGqzWM6uUwnHJ_TVGMuifE9t1gV2vS9dP4vrX_FDQutuThVHDcGpbgPMZdcwZ3xbXc9shUELBq4deQg9rJQiyr51HXMI1UiOfEhDuHzu7u2SHh-8W-0Sysj5CGhRQW0DkS_X6olAdSTS6rB2zXCX-5g",
+            "width": 2268
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108230965180565314385/photos\">Qahtan AL-Jammali</a>"
+            ],
+            "photo_reference": "CmRaAAAAjocfbD3X1vuFM78Y3OQE8Gb1-ENUIuJYDuBpgMGw1-AyMMQ7M5tCvQYkfEFnBBjWhaRrJMLvx2CJYYTKrd84Fg4Wp3QNB0KiLzre7kIHfTHYp4MFX5hwxyqe25Oc5k_aEhCL3E38VPtHW1eEHdx7b9jzGhQG5Z4M8dTySJAOPdteXtJEMeBl9A",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJM3HWz3z2wokR0ktkaSf5gSw",
+    "plus_code": {
+        "compound_code": "R3G3+92 New York, United States",
+        "global_code": "87G8R3G3+92"
+    },
+    "rating": 4.7,
+    "reference": "ChIJM3HWz3z2wokR0ktkaSf5gSw",
+    "reviews": [
+        {
+            "author_name": "alyssa Turner",
+            "author_url": "https://www.google.com/maps/contrib/117040061433873141074/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8kw52XtYhCI/AAAAAAAAAAI/AAAAAAAAAWI/VExeOT7P8mI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love love love this place. Cozy and such yummy food. Cooked Salmon Roll is my favorite. The owner & staff are always friendly and welcoming :)",
+            "time": 1541972516
+        },
+        {
+            "author_name": "Ben Lilyestrom",
+            "author_url": "https://www.google.com/maps/contrib/107101714007238835541/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-v74yopuMsY8/AAAAAAAAAAI/AAAAAAAAABA/HrgolpKW9j0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Amazing dishes.  The staff is so friendly and helpful.  I had the spicy vegan ramen and it was absolutely incredible.   If you\u2019re looking for food that will make you feel good, this is it.",
+            "time": 1542578509
+        },
+        {
+            "author_name": "Michael El Koubi",
+            "author_url": "https://www.google.com/maps/contrib/117556744215746586383/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AhDuUIgXI-g/AAAAAAAAAAI/AAAAAAAAMVA/epppQhvZP24/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This place is fantastic. Amazingly good food; an awesome playlist of classic hip hop, R&B, and reggae; and an owner who genuinely cares about her customers\u2019 experiences. Definitely worth the trip from downtown.",
+            "time": 1537972290
+        },
+        {
+            "author_name": "The Random Kids Plus Full Moon",
+            "author_url": "https://www.google.com/maps/contrib/118085255396121729081/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JVt86wZqN34/AAAAAAAAAAI/AAAAAAAAAHA/e09xozMxZG0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "One of the tables i had the misfortune of getting is super narrow and far from the seat and cant be adjusted. HOWEVER food is amazing, server is nice, atmosphere is good. They only had 2 chefs for so many customers which kind of backed up the service but it was worth it.",
+            "time": 1539655813
+        },
+        {
+            "author_name": "Morris Dickens",
+            "author_url": "https://www.google.com/maps/contrib/102542617049109301171/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RPe7yr5k2OI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaMnVlp2RCfhlNwdD6idG6sNgCNEQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice cozy place ..staff is friendly and interactive with the guest... food is very good",
+            "time": 1540678709
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3207118357331725266",
+    "utc_offset": -300,
+    "vicinity": "500 West 146th Street, New York",
+    "website": "https://m.facebook.com/choppedparsley146/"
+}

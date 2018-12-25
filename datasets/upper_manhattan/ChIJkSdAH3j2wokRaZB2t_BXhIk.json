@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# D",
+            "short_name": "# D",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "630",
+            "short_name": "630",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1248",
+            "short_name": "1248",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">630 Malcolm X Blvd # D</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1248</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "630 Malcolm X Blvd # D, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 862-8800",
+    "geometry": {
+        "location": {
+            "lat": 40.81792189999999,
+            "lng": -73.9375408
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8192416802915,
+                "lng": -73.93602146970849
+            },
+            "southwest": {
+                "lat": 40.81654371970851,
+                "lng": -73.9387194302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "42ea9eb54c4aa0fbec2047414d0cfc9acf906690",
+    "international_phone_number": "+1 212-862-8800",
+    "name": "Sussman Jason DC",
+    "place_id": "ChIJkSdAH3j2wokRaZB2t_BXhIk",
+    "plus_code": {
+        "compound_code": "R396+5X New York, United States",
+        "global_code": "87G8R396+5X"
+    },
+    "reference": "ChIJkSdAH3j2wokRaZB2t_BXhIk",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9909141771503702121",
+    "utc_offset": -300,
+    "vicinity": "630 Malcolm X Boulevard # D, New York"
+}

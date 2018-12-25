@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "109",
+            "short_name": "109",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2606",
+            "short_name": "2606",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">109 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2606</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "109 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-6330",
+    "geometry": {
+        "location": {
+            "lat": 40.8147539,
+            "lng": -73.9389672
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8158904302915,
+                "lng": -73.93777431970848
+            },
+            "southwest": {
+                "lat": 40.8131924697085,
+                "lng": -73.9404722802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b7cc2c2c87cbcb8e53d70775b286e8676a63082a",
+    "international_phone_number": "+1 212-281-6330",
+    "name": "Briggs & Young Real Estate",
+    "place_id": "ChIJa1792nb2wokRAniLU2ihNF0",
+    "plus_code": {
+        "compound_code": "R376+WC New York, United States",
+        "global_code": "87G8R376+WC"
+    },
+    "reference": "ChIJa1792nb2wokRAniLU2ihNF0",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6716170413766572034",
+    "utc_offset": -300,
+    "vicinity": "109 West 136th Street, New York"
+}

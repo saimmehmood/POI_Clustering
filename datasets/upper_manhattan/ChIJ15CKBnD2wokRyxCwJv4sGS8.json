@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10032",
+            "short_name": "10032",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10032</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "St Nicholas Ave, New York, NY 10032, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8188719,
+            "lng": -73.9472004
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8202208302915,
+                "lng": -73.94585136970849
+            },
+            "southwest": {
+                "lat": 40.8175228697085,
+                "lng": -73.9485493302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "41ec1cc985294cc09df662ea882ff0d772b6d501",
+    "name": "Saint Nicholas Avenue",
+    "place_id": "ChIJ15CKBnD2wokRyxCwJv4sGS8",
+    "reference": "ChIJ15CKBnD2wokRyxCwJv4sGS8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=St+Nicholas+Ave,+New+York,+NY+10032,+USA&ftid=0x89c2f670068a90d7:0x2f192cfe26b010cb",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

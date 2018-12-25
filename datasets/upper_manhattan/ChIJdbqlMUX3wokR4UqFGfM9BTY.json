@@ -1,0 +1,200 @@
+{
+    "address_components": [
+        {
+            "long_name": "1707",
+            "short_name": "1707",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1707 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1707 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 852-8803",
+    "geometry": {
+        "location": {
+            "lat": 40.8247687,
+            "lng": -73.9476858
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82616498029149,
+                "lng": -73.9464365197085
+            },
+            "southwest": {
+                "lat": 40.8234670197085,
+                "lng": -73.9491344802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5268ed31e47a3024b435b7e3e087dd5628024455",
+    "international_phone_number": "+1 646-852-8803",
+    "name": "Metro by T-Mobile",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115758270604031766205/photos\">Metro by T-Mobile</a>"
+            ],
+            "photo_reference": "CmRaAAAAfttE-3y0Rzt1P6fEfLOX_XaepAK-YKC0DhpzYcGZyPc6AYYl0dOp6TB6SZ-ijGI6q_USlgXCw8zgCFEIDHYeVev-cvinwRSi56dXwEITg6LhoH3qS4izS9n89AkLkAmxEhAlr-JvAs-KvWgiFoe5pq1GGhSdcyJb4nUeHczSZ8dg0A0gxvuooQ",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJdbqlMUX3wokR4UqFGfM9BTY",
+    "plus_code": {
+        "compound_code": "R3F2+WW New York, United States",
+        "global_code": "87G8R3F2+WW"
+    },
+    "reference": "ChIJdbqlMUX3wokR4UqFGfM9BTY",
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3892585567246174945",
+    "utc_offset": -300,
+    "vicinity": "1707 Amsterdam Avenue, New York",
+    "website": "http://www.metrobytmobile.com/"
+}

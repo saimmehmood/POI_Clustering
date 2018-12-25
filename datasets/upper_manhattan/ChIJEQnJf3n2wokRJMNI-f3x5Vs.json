@@ -1,0 +1,163 @@
+{
+    "address_components": [
+        {
+            "long_name": "248",
+            "short_name": "248",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1520",
+            "short_name": "1520",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">248 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1520</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "248 W 143rd St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8209494,
+            "lng": -73.9417809
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82234923029149,
+                "lng": -73.9403947197085
+            },
+            "southwest": {
+                "lat": 40.8196512697085,
+                "lng": -73.9430926802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "99176dfae944d90668966a8aebabb31432bc2ddc",
+    "name": "FDNY Engine 69/Ladder 28/Battalion 16",
+    "place_id": "ChIJEQnJf3n2wokRJMNI-f3x5Vs",
+    "plus_code": {
+        "compound_code": "R3C5+97 New York, United States",
+        "global_code": "87G8R3C5+97"
+    },
+    "rating": 4.6,
+    "reference": "ChIJEQnJf3n2wokRJMNI-f3x5Vs",
+    "reviews": [
+        {
+            "author_name": "POSTAL BOY CINCINNATI",
+            "author_url": "https://www.google.com/maps/contrib/116047978928963809421/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BPLD4JBj8-g/AAAAAAAAAAI/AAAAAAAAAPU/DC0Z0HSylmM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A busy outfit that lives up to it's reputation......",
+            "time": 1537140915
+        },
+        {
+            "author_name": "5615725153 Connolly",
+            "author_url": "https://www.google.com/maps/contrib/100262857184493320177/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-djB8x0UoDzI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZiZdoJXJNZab7o1EFz9Qt2A5RJqg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Risking Lives Daily ! Thank You isn't EVER enough But GOD BLESS YOU ALL",
+            "time": 1521810428
+        },
+        {
+            "author_name": "Amanda Reno",
+            "author_url": "https://www.google.com/maps/contrib/104070455232712857012/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-p8J-XB4-5Z8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZXN1hi_2Vyx4o-qwxdU0sO8vbiCw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "How someone could give a firehouse a 1 star rating is disgusting.",
+            "time": 1521799814
+        },
+        {
+            "author_name": "Neil Collins",
+            "author_url": "https://www.google.com/maps/contrib/114428439884241747111/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Z_wNhXUsXbY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcamAm3OVSLx8NENbbuJ7Eq1u9TS-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Generous bunch of brave firefighters. More than happy to show the kids around when not busy.",
+            "time": 1492203799
+        },
+        {
+            "author_name": "Theodore Black",
+            "author_url": "https://www.google.com/maps/contrib/107883099348685282063/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-W9G-bIBjJVI/AAAAAAAAAAI/AAAAAAAACdI/hXuxqhJOJl8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Great",
+            "time": 1517315843
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "fire_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6621964900229497636",
+    "utc_offset": -300,
+    "vicinity": "248 West 143rd Street, New York",
+    "website": "http://www.nyc.gov/fdny"
+}

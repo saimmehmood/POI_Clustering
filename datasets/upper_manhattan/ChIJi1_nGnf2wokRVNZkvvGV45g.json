@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "551",
+            "short_name": "551",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1806",
+            "short_name": "1806",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">551 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1806</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "551 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 368-0327",
+    "geometry": {
+        "location": {
+            "lat": 40.8160464,
+            "lng": -73.9397725
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8173580802915,
+                "lng": -73.9383339697085
+            },
+            "southwest": {
+                "lat": 40.8146601197085,
+                "lng": -73.9410319302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "777b29f280b059a6444b00ca7903cf63eb1241c2",
+    "international_phone_number": "+1 212-368-0327",
+    "name": "551 Deli Corporation",
+    "photos": [
+        {
+            "height": 2365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111387263402639630950/photos\">David Altman</a>"
+            ],
+            "photo_reference": "CmRaAAAAXFiJbvx6S9YSVkRo6Q5GyWx-sZ8gCIn5EbMoG2wHdMeHxjIJsFkkwk2B_KAb7r1jW0RyBQEa3kQsjkVpwOfe5Es-0Jvq0176nB4VfDz23GHztbW_0NkO1GLO8Iq8HDvqEhC61LwNrvtu22k1UMu85_9HGhQE4tFW_KMQMiDr1lp1UralhGSFAw",
+            "width": 3148
+        }
+    ],
+    "place_id": "ChIJi1_nGnf2wokRVNZkvvGV45g",
+    "plus_code": {
+        "compound_code": "R386+C3 New York, United States",
+        "global_code": "87G8R386+C3"
+    },
+    "rating": 3,
+    "reference": "ChIJi1_nGnf2wokRVNZkvvGV45g",
+    "reviews": [
+        {
+            "author_name": "Alexandra Folders",
+            "author_url": "https://www.google.com/maps/contrib/101568931195854686292/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ktpKLd4Ov4c/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZcRBTo8WgRebT12Y4v8peP9ffAvA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1511743184
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11016813978992301652",
+    "utc_offset": -300,
+    "vicinity": "551 Malcolm X Boulevard, New York"
+}

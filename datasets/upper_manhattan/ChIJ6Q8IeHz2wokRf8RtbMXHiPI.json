@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "343",
+            "short_name": "343",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5301",
+            "short_name": "5301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">343 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "343 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 684-3938",
+    "geometry": {
+        "location": {
+            "lat": 40.82404020000001,
+            "lng": -73.9440217
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82527048029149,
+                "lng": -73.9427602197085
+            },
+            "southwest": {
+                "lat": 40.82257251970849,
+                "lng": -73.94545818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "136bc029ed41b47646810dc702d79e7e7c864611",
+    "international_phone_number": "+1 646-684-3938",
+    "name": "Sugar Hill Medical Management LLC",
+    "place_id": "ChIJ6Q8IeHz2wokRf8RtbMXHiPI",
+    "plus_code": {
+        "compound_code": "R3F4+J9 New York, United States",
+        "global_code": "87G8R3F4+J9"
+    },
+    "rating": 1,
+    "reference": "ChIJ6Q8IeHz2wokRf8RtbMXHiPI",
+    "reviews": [
+        {
+            "author_name": "Inna Korzhovska",
+            "author_url": "https://www.google.com/maps/contrib/117329148410377794424/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UhGfZnHfIVg/AAAAAAAAAAI/AAAAAAAAACY/h6LaFQTagaE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "If you are willing to wait an hour for the doctor that is not even in the office that's the place. No one even told me that unless I bugged them after 1 hour of waiting in the chair.  ",
+            "time": 1439563892
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17476438004752827519",
+    "utc_offset": -300,
+    "vicinity": "343 West 145th Street, New York"
+}

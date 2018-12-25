@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "530",
+            "short_name": "530",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6501",
+            "short_name": "6501",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">530 W 143rd St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6501</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "530 W 143rd St #1, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-5603",
+    "geometry": {
+        "location": {
+            "lat": 40.8245999,
+            "lng": -73.950716
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260493302915,
+                "lng": -73.94929166970849
+            },
+            "southwest": {
+                "lat": 40.8233513697085,
+                "lng": -73.9519896302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e6ae46ebea8d396c837871a4327cb8e7fba047ef",
+    "international_phone_number": "+1 212-234-5603",
+    "name": "Art In Commerce",
+    "photos": [
+        {
+            "height": 5248,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102451436276019395389/photos\">renato abbate</a>"
+            ],
+            "photo_reference": "CmRaAAAAUyqSQBY9qLQLs1DYlReUAPUcK3DWLWImVxJa3bI9r722sjDIdo-EdomMych_AQmHbNZyVaxy0X_5CLuIcp2LBw4QxWgmvywPN01NJBZarQ2RVLRuvpNiVpeVg3YdGcGaEhD-0EAA2VSw8QCmvFh_7YyyGhTdZ9vL21evZ9aXIl7mh3T5Z-MbmA",
+            "width": 2952
+        }
+    ],
+    "place_id": "ChIJ0c4agGP2wokR4N1yYX2YpqM",
+    "plus_code": {
+        "compound_code": "R2FX+RP New York, United States",
+        "global_code": "87G8R2FX+RP"
+    },
+    "reference": "ChIJ0c4agGP2wokR4N1yYX2YpqM",
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11792280338589474272",
+    "utc_offset": -300,
+    "vicinity": "530 West 143rd Street #1, New York"
+}

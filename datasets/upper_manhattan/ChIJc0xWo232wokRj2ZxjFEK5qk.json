@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2407",
+            "short_name": "2407",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1823",
+            "short_name": "1823",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2407 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-1823</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2407 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 666-2269",
+    "geometry": {
+        "location": {
+            "lat": 40.8127246,
+            "lng": -73.9496551
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140159302915,
+                "lng": -73.9481699697085
+            },
+            "southwest": {
+                "lat": 40.8113179697085,
+                "lng": -73.95086793029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e6d89ef7b6054f14d6663c471ffe267c8e82c263",
+    "international_phone_number": "+1 212-666-2269",
+    "name": "Suschetto Rocco",
+    "place_id": "ChIJc0xWo232wokRj2ZxjFEK5qk",
+    "plus_code": {
+        "compound_code": "R372+34 New York, United States",
+        "global_code": "87G8R372+34"
+    },
+    "reference": "ChIJc0xWo232wokRj2ZxjFEK5qk",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12242483982418142863",
+    "utc_offset": -300,
+    "vicinity": "2407 Frederick Douglass Boulevard, New York"
+}

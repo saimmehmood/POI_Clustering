@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "260",
+            "short_name": "260",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9103",
+            "short_name": "9103",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">260 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9103</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "260 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 215-5305",
+    "geometry": {
+        "location": {
+            "lat": 40.8217515,
+            "lng": -73.948706
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8230437802915,
+                "lng": -73.9472208197085
+            },
+            "southwest": {
+                "lat": 40.8203458197085,
+                "lng": -73.94991878029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "564388c3cc4a06327e7c25db53599cc47bcc3ab4",
+    "international_phone_number": "+1 646-215-5305",
+    "name": "Ltd Heron",
+    "place_id": "ChIJBZp_J2X2wokRgRHwC2R9wiU",
+    "plus_code": {
+        "compound_code": "R3C2+PG New York, United States",
+        "global_code": "87G8R3C2+PG"
+    },
+    "reference": "ChIJBZp_J2X2wokRgRHwC2R9wiU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2720874993535684993",
+    "utc_offset": -300,
+    "vicinity": "260 Convent Avenue, New York",
+    "website": "https://www.dec.ny.gov/animals/61491.html"
+}

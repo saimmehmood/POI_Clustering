@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "245",
+            "short_name": "245",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2605",
+            "short_name": "2605",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">245 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2605</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "245 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 283-2106",
+    "geometry": {
+        "location": {
+            "lat": 40.81687700000001,
+            "lng": -73.9447689
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8181332802915,
+                "lng": -73.94348881970849
+            },
+            "southwest": {
+                "lat": 40.8154353197085,
+                "lng": -73.9461867802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7e69496ee56a4056929ccdc5db7c476373f9010d",
+    "international_phone_number": "+1 212-283-2106",
+    "name": "Weddings By Amelia",
+    "place_id": "ChIJa-wO-HD2wokRX9tvcSekj0U",
+    "plus_code": {
+        "compound_code": "R384+Q3 New York, United States",
+        "global_code": "87G8R384+Q3"
+    },
+    "reference": "ChIJa-wO-HD2wokRX9tvcSekj0U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5012405399600487263",
+    "utc_offset": -300,
+    "vicinity": "245 West 136th Street, New York"
+}

@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 131st Street",
+            "short_name": "W 131st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2019",
+            "short_name": "2019",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 131st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-2019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 131st St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 368-3100",
+    "geometry": {
+        "location": {
+            "lat": 40.81307839999999,
+            "lng": -73.9460169
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81437538029149,
+                "lng": -73.94470581970849
+            },
+            "southwest": {
+                "lat": 40.8116774197085,
+                "lng": -73.9474037802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cdc6711106b7b52d5075eee1c93c0037774cbd36",
+    "international_phone_number": "+1 212-368-3100",
+    "name": "Sarah Deli Grocery",
+    "place_id": "ChIJQQAcPHL2wokRZ4OOGLoNUHg",
+    "plus_code": {
+        "compound_code": "R373+6H New York, United States",
+        "global_code": "87G8R373+6H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJQQAcPHL2wokRZ4OOGLoNUHg",
+    "reviews": [
+        {
+            "author_name": "Trina S",
+            "author_url": "https://www.google.com/maps/contrib/104479452251138266469/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-B5Z_eRHSOng/AAAAAAAAAAI/AAAAAAAADtM/r_y3fABlQ24/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Great store and great people",
+            "time": 1505345301
+        },
+        {
+            "author_name": "bear adams",
+            "author_url": "https://www.google.com/maps/contrib/106603476030838823979/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KgDWzb650OI/AAAAAAAAAAI/AAAAAAAADlg/g1exBJ_WUnY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1516772439
+        },
+        {
+            "author_name": "Ricket Jones",
+            "author_url": "https://www.google.com/maps/contrib/114681741271183918507/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jRxj8shgmN8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYSUtYNH3IfOuQxn5hILlix8Z-KHw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1515240118
+        },
+        {
+            "author_name": "Saudia Mohammed",
+            "author_url": "https://www.google.com/maps/contrib/115882258293968127166/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0e4FVidDgk8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbQtxhKBRa777baWpE-n5OIDWSSSg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1511402293
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8669444375615275879",
+    "utc_offset": -300,
+    "vicinity": "201 West 131st Street, New York"
+}

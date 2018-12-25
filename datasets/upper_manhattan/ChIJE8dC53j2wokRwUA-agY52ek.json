@@ -1,0 +1,242 @@
+{
+    "address_components": [
+        {
+            "long_name": "167",
+            "short_name": "167",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">167 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "167 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-0400",
+    "geometry": {
+        "location": {
+            "lat": 40.8215408,
+            "lng": -73.9384682
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8228344802915,
+                "lng": -73.93716021970849
+            },
+            "southwest": {
+                "lat": 40.8201365197085,
+                "lng": -73.93985818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6cbe119b72b9c6edc199b86e306b1711f51eb44b",
+    "international_phone_number": "+1 212-283-0400",
+    "name": "Joe Eady's Fashion City",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAmIYzCn2M3KXtJVvqNVaAUEyzm5FHANEfCuKawN4ojkMUvbR4SDpOmfSRk0xiT4nwtC3bedhTfWR3kH1jCf8zKwHCjll6g0bhVNb670YqYWHTkOgCSOwAB1PykjxEjDIVEhAGaykOwvV_5WrUye9p4cAuGhQpdu6rp7hXAomsWiOSQMeqkbcNWg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAC3N_7QVAWbOqO3mxsHWp1zwHE3kBVyCKTHYapasow4jY7lfcidLUyAIgDTODFdeJ-_AJnZ1dSr1AJuEAB5I5hIXkHS9WOEqUgHZIwfa-vSVg_8CvudgNdzt5SKbUiG-8EhBL14uHYLDeH0cnnOMrNbG3GhTX1zhX0yrVcifGsBY7r6Xv656r-Q",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAVzmnJCHqPjynt_2r6N_utvRvA1Asie-gj7UEL-vWihezX4lV54JkmolgfUUXYrs9Q1W6RyABQb7HDwoEVXvM9hgIGWGGobQsW2dPhVrBZUXmXqr3pEYgWOazDMpxDvG3EhBS-bSJ73coHIQJrzVh__OWGhSvxyCQWPB7G1SeFwsQS3vzdsRhGw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAZpxPWn9W7T16z51JU8qoL_2U_Gd3AFsxRKCK9mAZq7TVgopmqezRl5jFqYVOeq38k1uvLmiuPoqmtGW1kJIoSRdqgkzS1To74Pj4u1262YpUqmN8p-9x9wOVnpYwgcNMEhC6WHm6ScTS162xUwEGR1AJGhSGTOtR0w2gnSs98J8UKfaayJWxUA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAdOW2e7q2wIP2KY2XyTjtVUVo9v-8s9d_EQVxD16M7IfTlNYwvyO4HkbHURN1TeYSW3UtJ8jNutPcLYmXDCJ2cKae0obTMNq1U4TZ6YoRpCjEu-p5p98FPa41McOs9kjYEhAKIyHZkr4do0hRNcP0yvBnGhShXmTBq1JILFNytvGZc0EpJ6u-Xg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAdAmz5rs1bPBZTOya6x1-q6tTYu5qZQNDNEmrrPjo7wKp3bA5AVYKpo_nJJPW8FIHTFwgsLUFcaK9ul58wHHPFH7MoRZBFcm8T_o0QZnu1DwqlJn3YvFARjjahe6fFwBlEhAty0uPIn-CwnViLl1Gaaj1GhSbHfYykRrGoRXKVqjQiCeAm95rOQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJE8dC53j2wokRwUA-agY52ek",
+    "plus_code": {
+        "compound_code": "R3C6+JJ New York, United States",
+        "global_code": "87G8R3C6+JJ"
+    },
+    "rating": 5,
+    "reference": "ChIJE8dC53j2wokRwUA-agY52ek",
+    "reviews": [
+        {
+            "author_name": "Pavel Push",
+            "author_url": "https://www.google.com/maps/contrib/115249705305889734883/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-E8TMBq6ID4w/AAAAAAAAAAI/AAAAAAAACU0/aAvg1Jf8UD0/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Very small clothing store run by the Joe Eady and his family. The store offering different services: repair, dry cleaning, fur storage and the most unusual - public notary (just for $2). \n\nJoe is pretty friendly and customer-oriented guy. The store is open all days except Sunday and business hours from 10 AM till 6 PM. But call first, make sure the owner in the store and operating.",
+            "time": 1544475509
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16850562180498473153",
+    "utc_offset": -300,
+    "vicinity": "167 West 145th Street, New York"
+}

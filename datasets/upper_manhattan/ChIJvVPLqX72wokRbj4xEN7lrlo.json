@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 2C",
+            "short_name": "# 2C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3077",
+            "short_name": "3077",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 146th St # 2C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3077</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 146th St # 2C, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-6663",
+    "geometry": {
+        "location": {
+            "lat": 40.82374350000001,
+            "lng": -73.9416677
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8250441802915,
+                "lng": -73.9403543697085
+            },
+            "southwest": {
+                "lat": 40.8223462197085,
+                "lng": -73.94305233029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2c0e827576d5eabdcd7beb894d443952446b4f7f",
+    "international_phone_number": "+1 212-491-6663",
+    "name": "Johnson Jefferson",
+    "place_id": "ChIJvVPLqX72wokRbj4xEN7lrlo",
+    "plus_code": {
+        "compound_code": "R3F5+F8 New York, United States",
+        "global_code": "87G8R3F5+F8"
+    },
+    "reference": "ChIJvVPLqX72wokRbj4xEN7lrlo",
+    "scope": "GOOGLE",
+    "types": [
+        "plumber",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6534412851278331502",
+    "utc_offset": -300,
+    "vicinity": "301 West 146th Street # 2C, New York"
+}

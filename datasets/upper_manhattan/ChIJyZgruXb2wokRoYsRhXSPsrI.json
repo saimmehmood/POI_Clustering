@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "515-499",
+            "short_name": "515-499",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">515-499 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "515-499 Lenox Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8143377,
+            "lng": -73.94078069999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81568668029149,
+                "lng": -73.93943166970851
+            },
+            "southwest": {
+                "lat": 40.8129887197085,
+                "lng": -73.94212963029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0db9cd400b605d84951aa476809d6f64ea87e87e",
+    "name": "515-499 Lenox Ave",
+    "place_id": "ChIJyZgruXb2wokRoYsRhXSPsrI",
+    "reference": "ChIJyZgruXb2wokRoYsRhXSPsrI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=515-499+Lenox+Ave,+New+York,+NY+10030,+USA&ftid=0x89c2f676b92b98c9:0xb2b28f7485118ba1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

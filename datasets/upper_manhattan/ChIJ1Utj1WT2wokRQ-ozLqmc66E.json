@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "160 Convent Ave NAC R/5143, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "160 Convent Ave NAC R/5143, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 650-6219",
+    "geometry": {
+        "location": {
+            "lat": 40.8217036,
+            "lng": -73.9478748
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231764302915,
+                "lng": -73.9464316697085
+            },
+            "southwest": {
+                "lat": 40.8204784697085,
+                "lng": -73.94912963029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "0b818f18ffb45d81a976f33a7abb664d88767a50",
+    "international_phone_number": "+1 212-650-6219",
+    "name": "Urban Scholars Program",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 7:00 PM",
+            "Tuesday: 10:30 AM \u2013 7:00 PM",
+            "Wednesday: 10:30 AM \u2013 7:00 PM",
+            "Thursday: 10:30 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 1:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ1Utj1WT2wokRQ-ozLqmc66E",
+    "plus_code": {
+        "compound_code": "R3C2+MV New York, United States",
+        "global_code": "87G8R3C2+MV"
+    },
+    "reference": "ChIJ1Utj1WT2wokRQ-ozLqmc66E",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11667591510071962179",
+    "utc_offset": -300,
+    "vicinity": "160 Convent Ave NAC R/5143, New York",
+    "website": "http://uspny.org/"
+}

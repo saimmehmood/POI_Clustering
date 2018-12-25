@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "2283",
+            "short_name": "2283",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2283 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2283 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8146517,
+            "lng": -73.9437317
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81605383029149,
+                "lng": -73.94251436970849
+            },
+            "southwest": {
+                "lat": 40.8133558697085,
+                "lng": -73.9452123302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "866c83e55f89856f7985888c0ed3a613c50bdb36",
+    "name": "adam clayton powell boulevard",
+    "place_id": "ChIJqU8EcnH2wokRMsmp3C_Srn4",
+    "plus_code": {
+        "compound_code": "R374+VG New York, United States",
+        "global_code": "87G8R374+VG"
+    },
+    "reference": "ChIJqU8EcnH2wokRMsmp3C_Srn4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9128464597733984562",
+    "utc_offset": -300,
+    "vicinity": "2283 Adam Clayton Powell Junior Boulevard, New York"
+}

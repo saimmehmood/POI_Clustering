@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "415",
+            "short_name": "415",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2833",
+            "short_name": "2833",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">415 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-2833</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "415 W 150th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 862-5400",
+    "geometry": {
+        "location": {
+            "lat": 40.827786,
+            "lng": -73.943252
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82904508029149,
+                "lng": -73.94196866970849
+            },
+            "southwest": {
+                "lat": 40.82634711970849,
+                "lng": -73.9446666302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7b0103ea91a3a2d56c3b2191e0f306b406f586a2",
+    "international_phone_number": "+1 212-862-5400",
+    "name": "Glasgall Roofing and Sheetmetal Works Inc",
+    "place_id": "ChIJFRLWkn32wokR0ieVtAIdvhQ",
+    "plus_code": {
+        "compound_code": "R3H4+4M New York, United States",
+        "global_code": "87G8R3H4+4M"
+    },
+    "reference": "ChIJFRLWkn32wokR0ieVtAIdvhQ",
+    "scope": "GOOGLE",
+    "types": [
+        "roofing_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1494664023790397394",
+    "utc_offset": -300,
+    "vicinity": "415 West 150th Street, New York"
+}

@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "515",
+            "short_name": "515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">515 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1801</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "515 Malcolm X Blvd, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8146271,
+            "lng": -73.9409189
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8159210302915,
+                "lng": -73.9394363197085
+            },
+            "southwest": {
+                "lat": 40.8132230697085,
+                "lng": -73.94213428029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+    "id": "932e8ff3b57e6ffe86dde1688a6d78777b3c2d9c",
+    "name": "M\u00f8de Harlem",
+    "place_id": "ChIJPWAguXb2wokR3WuAqaL0Z58",
+    "plus_code": {
+        "compound_code": "R375+VJ New York, United States",
+        "global_code": "87G8R375+VJ"
+    },
+    "reference": "ChIJPWAguXb2wokR3WuAqaL0Z58",
+    "scope": "GOOGLE",
+    "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11486418354097384413",
+    "utc_offset": -300,
+    "vicinity": "515 Malcolm X Boulevard, New York"
+}

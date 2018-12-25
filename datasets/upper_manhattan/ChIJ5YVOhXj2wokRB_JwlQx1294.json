@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-7017",
+    "geometry": {
+        "location": {
+            "lat": 40.8206865,
+            "lng": -73.9366579
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82202403029149,
+                "lng": -73.93531731970847
+            },
+            "southwest": {
+                "lat": 40.8193260697085,
+                "lng": -73.9380152802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1a5804344ae2cd188d7fda5935bceb53014d23b6",
+    "international_phone_number": "+1 212-234-7017",
+    "name": "Ping Family Residence Inc",
+    "place_id": "ChIJ5YVOhXj2wokRB_JwlQx1294",
+    "plus_code": {
+        "compound_code": "R3C7+78 New York, United States",
+        "global_code": "87G8R3C7+78"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ5YVOhXj2wokRB_JwlQx1294",
+    "reviews": [
+        {
+            "author_name": "Charlotte ba",
+            "author_url": "https://www.google.com/maps/contrib/106717532775592911248/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-qvHcR1ZwXCg/AAAAAAAAAAI/AAAAAAAANoU/Mtwy6Glvvpo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Thank you Ms Lucy Pe\u00f1a.",
+            "time": 1530326039
+        },
+        {
+            "author_name": "CAROLYN MARTINEZ",
+            "author_url": "https://www.google.com/maps/contrib/106033230870685645753/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CNHzpCkruv8/AAAAAAAAAAI/AAAAAAAAHak/jN7sit296FM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "I like the fact they give food and baby items but this shelter is too strict and there's roaches in here",
+            "time": 1488857734
+        },
+        {
+            "author_name": "Joshua Setty",
+            "author_url": "https://www.google.com/maps/contrib/114589991641195851713/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kxTZr5cHbJw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZm3j94h7rAsSgram62hX-8pBkrjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1497701279
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16058557593226899975",
+    "utc_offset": -300,
+    "vicinity": "101 West 145th Street, New York"
+}

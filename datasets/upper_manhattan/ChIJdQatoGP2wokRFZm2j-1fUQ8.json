@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "3520-3540",
+            "short_name": "3520-3540",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5632",
+            "short_name": "5632",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3520-3540 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5632</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3520-3540 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8260681,
+            "lng": -73.9505978
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82741703029149,
+                "lng": -73.94924876970849
+            },
+            "southwest": {
+                "lat": 40.8247190697085,
+                "lng": -73.9519467302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4fcbff445cf57d493cc0fb4667122f57da6d807e",
+    "name": "3520-3540 Broadway",
+    "place_id": "ChIJdQatoGP2wokRFZm2j-1fUQ8",
+    "reference": "ChIJdQatoGP2wokRFZm2j-1fUQ8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3520-3540+Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f663a0ad0675:0xf515fed8fb69915",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

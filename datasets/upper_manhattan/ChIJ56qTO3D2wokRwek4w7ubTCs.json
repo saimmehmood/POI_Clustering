@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "301-329",
+            "short_name": "301-329",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301-329 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301-329 W 136th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8174723,
+            "lng": -73.9467445
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8188212302915,
+                "lng": -73.9453635
+            },
+            "southwest": {
+                "lat": 40.8161232697085,
+                "lng": -73.94812550000002
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bf2e73ac66e3ac951eb5443aa8e624d97c7c31e7",
+    "name": "301-329 W 136th St",
+    "place_id": "ChIJ56qTO3D2wokRwek4w7ubTCs",
+    "reference": "ChIJ56qTO3D2wokRwek4w7ubTCs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=301-329+W+136th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f6703b93aae7:0x2b4c9bbbc338e9c1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

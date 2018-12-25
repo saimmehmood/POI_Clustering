@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "366",
+            "short_name": "366",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7686",
+            "short_name": "7686",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">366 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7686</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "366 St Nicholas Ave, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 280-3714",
+    "geometry": {
+        "location": {
+            "lat": 40.8126924,
+            "lng": -73.9504512
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81411093029151,
+                "lng": -73.94922171970849
+            },
+            "southwest": {
+                "lat": 40.81141296970851,
+                "lng": -73.9519196802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e19112f065dca8e818818967f8dd258767351413",
+    "international_phone_number": "+1 212-280-3714",
+    "name": "Malcolm Realty Corporation",
+    "place_id": "ChIJIei2rW32wokRn6jG08AuRe0",
+    "plus_code": {
+        "compound_code": "R27X+3R New York, United States",
+        "global_code": "87G8R27X+3R"
+    },
+    "reference": "ChIJIei2rW32wokRn6jG08AuRe0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17097122966103566495",
+    "utc_offset": -300,
+    "vicinity": "366 Saint Nicholas Avenue, New York"
+}

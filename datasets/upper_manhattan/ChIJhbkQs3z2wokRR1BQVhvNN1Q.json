@@ -1,0 +1,197 @@
+{
+    "address_components": [
+        {
+            "long_name": "1711",
+            "short_name": "1711",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4621",
+            "short_name": "4621",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1711 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4621</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1711 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 507-2171",
+    "geometry": {
+        "location": {
+            "lat": 40.8249464,
+            "lng": -73.9476299
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8263263802915,
+                "lng": -73.9463568197085
+            },
+            "southwest": {
+                "lat": 40.8236284197085,
+                "lng": -73.9490547802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8fbe97d0c66a3f796428744c69c58dd3a1b8f017",
+    "international_phone_number": "+1 917-507-2171",
+    "name": "New Way Cleaners",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJhbkQs3z2wokRR1BQVhvNN1Q",
+    "plus_code": {
+        "compound_code": "R3F2+XW New York, United States",
+        "global_code": "87G8R3F2+XW"
+    },
+    "rating": 5,
+    "reference": "ChIJhbkQs3z2wokRR1BQVhvNN1Q",
+    "reviews": [
+        {
+            "author_name": "Luis A Liriano",
+            "author_url": "https://www.google.com/maps/contrib/108170328343071207119/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-liDYpdBfLO4/AAAAAAAAAAI/AAAAAAAAYM4/xQz4GNX1WD4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1535505236
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6068544540200947783",
+    "utc_offset": -300,
+    "vicinity": "1711 Amsterdam Avenue, New York"
+}

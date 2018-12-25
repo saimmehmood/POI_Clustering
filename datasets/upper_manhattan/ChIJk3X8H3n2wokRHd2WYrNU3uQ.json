@@ -1,0 +1,175 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4101",
+            "short_name": "4101",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "2501 A C Powell Jr Blvd, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2501 A C Powell Jr Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-4114",
+    "geometry": {
+        "location": {
+            "lat": 40.82164349999999,
+            "lng": -73.9385884
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82291753029149,
+                "lng": -73.9372950197085
+            },
+            "southwest": {
+                "lat": 40.82021956970849,
+                "lng": -73.9399929802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "edf1f0946f5656cd6a4529174f719f92e722499d",
+    "international_phone_number": "+1 212-491-4114",
+    "name": "Allstate Insurance: Derrick F Howard",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 4:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJk3X8H3n2wokRHd2WYrNU3uQ",
+    "plus_code": {
+        "compound_code": "R3C6+MH New York, United States",
+        "global_code": "87G8R3C6+MH"
+    },
+    "rating": 5,
+    "reference": "ChIJk3X8H3n2wokRHd2WYrNU3uQ",
+    "reviews": [
+        {
+            "author_name": "Sydney Henck",
+            "author_url": "https://www.google.com/maps/contrib/104195997349245307949/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rZUEzt1i3SQ/AAAAAAAAAAI/AAAAAAAABLA/dMq63Fhe610/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great service best in the nation!",
+            "time": 1483125193
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16491712014907268381",
+    "utc_offset": -300,
+    "vicinity": "2501 A C Powell Jr Blvd, New York",
+    "website": "https://agents.allstate.com/derrick-f-howard-new-york-ny1.html"
+}

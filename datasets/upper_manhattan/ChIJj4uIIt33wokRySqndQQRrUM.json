@@ -1,0 +1,200 @@
+{
+    "address_components": [
+        {
+            "long_name": "356",
+            "short_name": "356",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">356 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "356 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(917) 789-5043",
+    "geometry": {
+        "location": {
+            "lat": 40.82371300000001,
+            "lng": -73.9445751
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251571302915,
+                "lng": -73.9431560197085
+            },
+            "southwest": {
+                "lat": 40.8224591697085,
+                "lng": -73.9458539802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8040bf6e0601d786b05127cdba18aa99fe52876e",
+    "international_phone_number": "+1 917-789-5043",
+    "name": "Boost Mobile",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1062,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104622792253790058154/photos\">Joel Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAA3K6TAMULKXwOrYw-w9ZUHqG7jMNBbq8uSa82Y4QJM0-0r7blBK3VQPSmyOdo0ymgk8PiuHItJBQZ5KC9IF2uu0BHvov9sQWEglGdwIYe3m2WIiFHYgTuLpspetZDvuUhEhDVBDyj6GKLPC2Nw2caYsD9GhTxo9vQF9pUTGw3YGVPAWB8S4nlkw",
+            "width": 1600
+        }
+    ],
+    "place_id": "ChIJj4uIIt33wokRySqndQQRrUM",
+    "plus_code": {
+        "compound_code": "R3F4+F5 New York, United States",
+        "global_code": "87G8R3F4+F5"
+    },
+    "price_level": 1,
+    "reference": "ChIJj4uIIt33wokRySqndQQRrUM",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4876572682363546313",
+    "utc_offset": -300,
+    "vicinity": "356 West 145th Street, New York",
+    "website": "https://www.boostmobile.com/"
+}

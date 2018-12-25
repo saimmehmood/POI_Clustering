@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "547b",
+            "short_name": "547b",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">547b Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "547b Malcolm X Blvd, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8159346,
+            "lng": -73.9399047
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172381302915,
+                "lng": -73.9384466197085
+            },
+            "southwest": {
+                "lat": 40.8145401697085,
+                "lng": -73.94114458029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "7374d081fa48f6107d3c969a8f0506aace39a8de",
+    "name": "Callie\u2019s Cafe & Espeesso Bar",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0545"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1845"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0545"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:45 AM \u2013 6:45 PM",
+            "Tuesday: 5:45 AM \u2013 6:45 PM",
+            "Wednesday: 5:45 AM \u2013 6:45 PM",
+            "Thursday: 5:45 AM \u2013 6:45 PM",
+            "Friday: 5:45 AM \u2013 6:45 PM",
+            "Saturday: 5:45 AM \u2013 6:45 PM",
+            "Sunday: 5:45 AM \u2013 6:45 PM"
+        ]
+    },
+    "place_id": "ChIJp0Z6qqT3wokRQak3r5qRhis",
+    "plus_code": {
+        "compound_code": "R386+92 New York, United States",
+        "global_code": "87G8R386+92"
+    },
+    "rating": 5,
+    "reference": "ChIJp0Z6qqT3wokRQak3r5qRhis",
+    "reviews": [
+        {
+            "author_name": "Aaron Pagan",
+            "author_url": "https://www.google.com/maps/contrib/108561026986911962415/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VIGzvd7u62s/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbCYnIYlxW3tc8E38OimaXI5cA2WA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I'm a coffee shop fanatic and this place is pretty dope. While the iced chai latte didn't have the spice I desired, the breakfast bowl with bacon was dumb good (keep up with the Harlem lingo). It's a good place to sit and do work, too. I'll definitely be back.",
+            "time": 1545333620
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3136354284060780865",
+    "utc_offset": -300,
+    "vicinity": "547b Malcolm X Boulevard, New York"
+}

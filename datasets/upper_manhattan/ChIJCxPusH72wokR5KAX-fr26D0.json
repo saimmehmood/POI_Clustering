@@ -1,0 +1,122 @@
+{
+    "address_components": [
+        {
+            "long_name": "2756",
+            "short_name": "2756",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3072",
+            "short_name": "3072",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2756 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3072</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2756 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-1275",
+    "geometry": {
+        "location": {
+            "lat": 40.8237304,
+            "lng": -73.9409648
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251282802915,
+                "lng": -73.9397322197085
+            },
+            "southwest": {
+                "lat": 40.8224303197085,
+                "lng": -73.94243018029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bb18bea34de523d215301c5807d03a28b6954d3b",
+    "international_phone_number": "+1 212-234-1275",
+    "name": "Central Harlem Managers LLC",
+    "place_id": "ChIJCxPusH72wokR5KAX-fr26D0",
+    "plus_code": {
+        "compound_code": "R3F5+FJ New York, United States",
+        "global_code": "87G8R3F5+FJ"
+    },
+    "rating": 3,
+    "reference": "ChIJCxPusH72wokR5KAX-fr26D0",
+    "reviews": [
+        {
+            "author_name": "Ammi13 22",
+            "author_url": "https://www.google.com/maps/contrib/113119599087458836232/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-hdJXjMiVxr4/AAAAAAAAAAI/AAAAAAAASCg/iVknwSw8VeY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1524853982
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4461086988691808484",
+    "utc_offset": -300,
+    "vicinity": "2756 Frederick Douglass Boulevard, New York"
+}

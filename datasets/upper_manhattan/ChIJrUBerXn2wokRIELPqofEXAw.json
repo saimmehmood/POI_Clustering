@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "138",
+            "short_name": "138",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1615",
+            "short_name": "1615",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">138 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1615</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "138 W 143rd St, New York, NY 10030, USA",
+    "formatted_phone_number": "(917) 507-9844",
+    "geometry": {
+        "location": {
+            "lat": 40.8197462,
+            "lng": -73.93909339999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82117888029151,
+                "lng": -73.93768296970848
+            },
+            "southwest": {
+                "lat": 40.81848091970851,
+                "lng": -73.94038093029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "039e59ff36992b0128705e206f5b1c9b6f339a51",
+    "international_phone_number": "+1 917-507-9844",
+    "name": "William F Ryan Community Health",
+    "place_id": "ChIJrUBerXn2wokRIELPqofEXAw",
+    "plus_code": {
+        "compound_code": "R396+V9 New York, United States",
+        "global_code": "87G8R396+V9"
+    },
+    "reference": "ChIJrUBerXn2wokRIELPqofEXAw",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=890802913277854240",
+    "utc_offset": -300,
+    "vicinity": "138 West 143rd Street, New York",
+    "website": "http://ryanhealth.org/"
+}

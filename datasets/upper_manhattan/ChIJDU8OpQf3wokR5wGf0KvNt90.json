@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 152nd Street",
+            "short_name": "W 152nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Bradhurst Ave &amp;, <span class=\"street-address\">W 152nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Bradhurst Ave &, W 152nd St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8276846,
+            "lng": -73.9396757
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8290335802915,
+                "lng": -73.93832671970848
+            },
+            "southwest": {
+                "lat": 40.8263356197085,
+                "lng": -73.94102468029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "d2c5234ce1b61ec47ecf3ed9077104f81af83f12",
+    "name": "Jackie Robinson Park Community Bike Education Center",
+    "place_id": "ChIJDU8OpQf3wokR5wGf0KvNt90",
+    "plus_code": {
+        "compound_code": "R3H6+34 New York, United States",
+        "global_code": "87G8R3H6+34"
+    },
+    "reference": "ChIJDU8OpQf3wokR5wGf0KvNt90",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15976464340943307239",
+    "utc_offset": -300,
+    "vicinity": "Bradhurst Ave &, West 152nd Street, New York",
+    "website": "https://www.bike.nyc/education/"
+}

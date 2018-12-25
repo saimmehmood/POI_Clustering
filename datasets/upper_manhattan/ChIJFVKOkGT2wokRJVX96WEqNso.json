@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "112",
+            "short_name": "112",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Place",
+            "short_name": "Hamilton Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6818",
+            "short_name": "6818",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">112 Hamilton Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6818</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "112 Hamilton Pl, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8237524,
+            "lng": -73.949722
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8250528302915,
+                "lng": -73.9483234197085
+            },
+            "southwest": {
+                "lat": 40.8223548697085,
+                "lng": -73.95102138029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c94a263bb3361f9f0687cc2f16f28460549802ff",
+    "name": "Navi Times Cre. Inc.",
+    "place_id": "ChIJFVKOkGT2wokRJVX96WEqNso",
+    "plus_code": {
+        "compound_code": "R3F2+G4 New York, United States",
+        "global_code": "87G8R3F2+G4"
+    },
+    "reference": "ChIJFVKOkGT2wokRJVX96WEqNso",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14570880244429706533",
+    "utc_offset": -300,
+    "vicinity": "112 Hamilton Place, New York",
+    "website": "http://www.navitimes.com/"
+}

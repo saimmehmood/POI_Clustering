@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "78-2",
+            "short_name": "78-2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Terrace",
+            "short_name": "Hamilton Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6403",
+            "short_name": "6403",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">78-2 Hamilton Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6403</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "78-2 Hamilton Terrace, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8226927,
+            "lng": -73.9465597
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82457205000006,
+                "lng": -73.94521946970849
+            },
+            "southwest": {
+                "lat": 40.82081704999995,
+                "lng": -73.94791743029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a740210ad754b0e7f513c99e7edeb59dcb998e66",
+    "name": "78-2 Hamilton Terrace",
+    "place_id": "ChIJJ1tEP3v2wokRy0D9QSpqwUw",
+    "reference": "ChIJJ1tEP3v2wokRy0D9QSpqwUw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=78-2+Hamilton+Terrace,+New+York,+NY+10031,+USA&ftid=0x89c2f67b3f445b27:0x4cc16a2a41fd40cb",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

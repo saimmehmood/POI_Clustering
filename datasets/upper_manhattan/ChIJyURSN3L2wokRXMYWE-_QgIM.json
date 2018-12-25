@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "2228",
+            "short_name": "2228",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2228 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2228 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 787-9440",
+    "geometry": {
+        "location": {
+            "lat": 40.8130114,
+            "lng": -73.9454958
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81434658029151,
+                "lng": -73.94411391970849
+            },
+            "southwest": {
+                "lat": 40.81164861970851,
+                "lng": -73.9468118802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9cd8ae3c45b3dcdd93c5c7dbd89340e3d8183b2e",
+    "international_phone_number": "+1 212-787-9440",
+    "name": "Cynthia A. Grace, PHD",
+    "place_id": "ChIJyURSN3L2wokRXMYWE-_QgIM",
+    "plus_code": {
+        "compound_code": "R373+6R New York, United States",
+        "global_code": "87G8R373+6R"
+    },
+    "reference": "ChIJyURSN3L2wokRXMYWE-_QgIM",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9475803341223544412",
+    "utc_offset": -300,
+    "vicinity": "2228 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://www.cynthiagracephd.com/"
+}

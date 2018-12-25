@@ -1,0 +1,269 @@
+{
+    "address_components": [
+        {
+            "long_name": "645",
+            "short_name": "645",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">645 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "645 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(646) 918-6268",
+    "geometry": {
+        "location": {
+            "lat": 40.8188529,
+            "lng": -73.9377205
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201664302915,
+                "lng": -73.93628146970849
+            },
+            "southwest": {
+                "lat": 40.8174684697085,
+                "lng": -73.93897943029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "8c2d5c442946cec6fe741513e72223e1a83401ae",
+    "international_phone_number": "+1 646-918-6268",
+    "name": "Grini's Bakery",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 7:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 7:00 PM",
+            "Thursday: 8:00 AM \u2013 7:00 PM",
+            "Friday: 8:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: 8:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103932465030443787647/photos\">Pierre Cury</a>"
+            ],
+            "photo_reference": "CmRaAAAAqV1ZGxSm2gqGIfZUB1spKsPn451KpvKalbnP3Uk6kJ47bK6kbgBniSfWdp4U1TzW2zqTkj2LPmrJNfBNkQ0oIEdqmuwID663XB3gWxtyN8sU7A1iycFaepS6X7uTCegzEhDaU8GQK0szZuFIvymfEr8KGhRpK0PuzXx56HavEK2D0eW5MnQpLg",
+            "width": 4128
+        },
+        {
+            "height": 1544,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111631465123653677831/photos\">Grini&#39;s Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAAHuCR62hJH62NUmBpivBMc-7Mie6LBsEUjTJ5rJH7-v2ZqIwfjoRRm2UKCQCuQTMJ4E353E507ERJogCv1J32HqzwOAvgW8D94TVx-EQv_ZR5kLvLW01zppoqkwd5bhiHEhCGO_phrD-mCvCQClJdYO20GhTEkp1z5uSrw-1UZ2nxztn9hvdAQA",
+            "width": 1536
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111631465123653677831/photos\">Grini&#39;s Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAA5yetUKiYze_0YZ1TR651OOxAVXg14uMcC-z1aVyToS6aIMAeocj0MMUOs-zR6S87Nvng6HreAObD8t701dDmiPYAFZQXr8tdGgNQprGK2xGBQWDuDJQL7uGM4Hceovz6EhADOPLAiga61kr3kayzAG8IGhQIbRAaOZupWkKquCyrdapBJDRv5Q",
+            "width": 750
+        }
+    ],
+    "place_id": "ChIJIZeWJHj2wokRL6zCvaraSRw",
+    "plus_code": {
+        "compound_code": "R396+GW New York, United States",
+        "global_code": "87G8R396+GW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJIZeWJHj2wokRL6zCvaraSRw",
+    "reviews": [
+        {
+            "author_name": "Grinilda Monegro",
+            "author_url": "https://www.google.com/maps/contrib/100666158935433941662/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3NZU6ftzE3w/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZEPER_F-wy159QxpdpNSqZjoukkg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "They have different sports, and we can have field trips that are very fun.(Go to the movie theater, go to dave n'busters,and have PIZZA PARTIES!!!",
+            "time": 1529017258
+        },
+        {
+            "author_name": "Dave Rush",
+            "author_url": "https://www.google.com/maps/contrib/110820206467202786788/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cJqX_87HS0o/AAAAAAAAAAI/AAAAAAAAAFU/kAf8N3beMrg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great food & good people",
+            "time": 1539088501
+        },
+        {
+            "author_name": "Otis Rich",
+            "author_url": "https://www.google.com/maps/contrib/114506815730805276084/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wVApMQfj4UU/AAAAAAAAAAI/AAAAAAAACA4/tegT68l-qfg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "Nice place.",
+            "time": 1535057137
+        },
+        {
+            "author_name": "C.Guy Bowman",
+            "author_url": "https://www.google.com/maps/contrib/105635610870371270882/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KyvD34NKtNY/AAAAAAAAAAI/AAAAAAAAIgg/RBAPaZpq2lk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best Cuban Sandwich I have ever had outside of little Havana in Miami.",
+            "time": 1501360024
+        },
+        {
+            "author_name": "Merayna De La Cruz",
+            "author_url": "https://www.google.com/maps/contrib/103862302972947899737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-eoeUadugoZc/AAAAAAAAAAI/AAAAAAAAQn4/98mM10QQayw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing cake, not to sweet and always fresh, the oatmeal is also amazing",
+            "time": 1508661099
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2038400733224807471",
+    "utc_offset": -300,
+    "vicinity": "645 Malcolm X Boulevard, New York"
+}

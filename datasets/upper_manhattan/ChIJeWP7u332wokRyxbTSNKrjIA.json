@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "448-400",
+            "short_name": "448-400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 149th Street",
+            "short_name": "W 149th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">448-400 W 149th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "448-400 W 149th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82695220000001,
+            "lng": -73.9437781
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82829393029151,
+                "lng": -73.94243371970849
+            },
+            "southwest": {
+                "lat": 40.82559596970851,
+                "lng": -73.9451316802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a9eecc2bdde32bad3643346d7e9b01a73a0997d0",
+    "name": "448-400 W 149th St",
+    "place_id": "ChIJeWP7u332wokRyxbTSNKrjIA",
+    "reference": "ChIJeWP7u332wokRyxbTSNKrjIA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=448-400+W+149th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67dbbfb6379:0x808cabd248d316cb",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

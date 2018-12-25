@@ -1,0 +1,141 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1",
+            "short_name": "# 1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "703",
+            "short_name": "703",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4500",
+            "short_name": "4500",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">703 Malcolm X Blvd # 1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4500</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "703 Malcolm X Blvd # 1, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-1716",
+    "geometry": {
+        "location": {
+            "lat": 40.8208586,
+            "lng": -73.9364299
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8221414302915,
+                "lng": -73.9349224697085
+            },
+            "southwest": {
+                "lat": 40.8194434697085,
+                "lng": -73.9376204302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "db0a14922806fc6c0c8dc9eb5a447a34ce0e9e80",
+    "international_phone_number": "+1 212-283-1716",
+    "name": "J & P Dry Cleaner Inc",
+    "place_id": "ChIJFZeHg3j2wokRzSfE3kfxJmU",
+    "plus_code": {
+        "compound_code": "R3C7+8C New York, United States",
+        "global_code": "87G8R3C7+8C"
+    },
+    "rating": 3,
+    "reference": "ChIJFZeHg3j2wokRzSfE3kfxJmU",
+    "reviews": [
+        {
+            "author_name": "Dani G",
+            "author_url": "https://www.google.com/maps/contrib/101984636647345262192/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UrhDT3WZwpU/AAAAAAAAAAI/AAAAAAAAAEc/XClNwbyx3v8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 years ago",
+            "text": "I have had 2 issues of them losing my clothes. Their resolution is $15 off my next ticket. ",
+            "time": 1412244728
+        },
+        {
+            "author_name": "jose martinez",
+            "author_url": "https://www.google.com/maps/contrib/115554658225650305509/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-fAYTi9OlLng/AAAAAAAAAAI/AAAAAAAAADo/UghF2simPhg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Buenos trabajos",
+            "time": 1517184876
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7288778337928095693",
+    "utc_offset": -300,
+    "vicinity": "703 Malcolm X Boulevard # 1, New York"
+}

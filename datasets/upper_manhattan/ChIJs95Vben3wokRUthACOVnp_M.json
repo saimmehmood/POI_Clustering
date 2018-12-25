@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "160",
+            "short_name": "160",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">160 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "160 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 650-7000",
+    "geometry": {
+        "location": {
+            "lat": 40.8216144,
+            "lng": -73.9479427
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82304458029149,
+                "lng": -73.94678871970848
+            },
+            "southwest": {
+                "lat": 40.82034661970849,
+                "lng": -73.9494866802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "0a825ff66b59d86efd3bbbeb3fbb4aad26a8c618",
+    "international_phone_number": "+1 212-650-7000",
+    "name": "Bento Sushi",
+    "place_id": "ChIJs95Vben3wokRUthACOVnp_M",
+    "plus_code": {
+        "compound_code": "R3C2+JR New York, United States",
+        "global_code": "87G8R3C2+JR"
+    },
+    "reference": "ChIJs95Vben3wokRUthACOVnp_M",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17557115905710807122",
+    "utc_offset": -300,
+    "vicinity": "160 Convent Avenue, New York",
+    "website": "https://www.bentosushi.com/us/locations/"
+}

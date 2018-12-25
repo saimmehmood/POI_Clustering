@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "565",
+            "short_name": "565",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5709",
+            "short_name": "5709",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">565 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5709</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "565 W 144th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-7418",
+    "geometry": {
+        "location": {
+            "lat": 40.8257036,
+            "lng": -73.9504013
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269903802915,
+                "lng": -73.9490983197085
+            },
+            "southwest": {
+                "lat": 40.8242924197085,
+                "lng": -73.9517962802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "90a28fb22641def835e80ed511ed2a5ff5ad792f",
+    "international_phone_number": "+1 212-234-7418",
+    "name": "144 Broadway Associates LLC",
+    "place_id": "ChIJS1fmdGP2wokRZKQnmRGlY68",
+    "plus_code": {
+        "compound_code": "R2GX+7R New York, United States",
+        "global_code": "87G8R2GX+7R"
+    },
+    "reference": "ChIJS1fmdGP2wokRZKQnmRGlY68",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12638126474334282852",
+    "utc_offset": -300,
+    "vicinity": "565 West 144th Street, New York"
+}

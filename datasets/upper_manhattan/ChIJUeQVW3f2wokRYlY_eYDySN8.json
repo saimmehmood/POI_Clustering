@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# C44",
+            "short_name": "# C44",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "141",
+            "short_name": "141",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2236",
+            "short_name": "2236",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">141 W 139th St # C44</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2236</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "141 W 139th St # C44, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-8953",
+    "geometry": {
+        "location": {
+            "lat": 40.8176879,
+            "lng": -73.940871
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8189412302915,
+                "lng": -73.93959271970849
+            },
+            "southwest": {
+                "lat": 40.8162432697085,
+                "lng": -73.9422906802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd294fc388d4c1f87a2ddb32ec8cbf82b1cfde52",
+    "international_phone_number": "+1 212-234-8953",
+    "name": "Rev Linnette C Williamson Memorial",
+    "place_id": "ChIJUeQVW3f2wokRYlY_eYDySN8",
+    "plus_code": {
+        "compound_code": "R395+3M New York, United States",
+        "global_code": "87G8R395+3M"
+    },
+    "reference": "ChIJUeQVW3f2wokRYlY_eYDySN8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16089376302385026658",
+    "utc_offset": -300,
+    "vicinity": "141 West 139th Street # C44, New York",
+    "website": "http://www.williamsonparks.org/"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "46",
+            "short_name": "46",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">46 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "46 W 137th St, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81470119999999,
+            "lng": -73.93893179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161648302915,
+                "lng": -73.93749791970849
+            },
+            "southwest": {
+                "lat": 40.8134668697085,
+                "lng": -73.9401958802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "21fdb592f7a0920fd03757cfa866a9da0fad8392",
+    "name": "HH- GYN CLINIC",
+    "place_id": "ChIJHf8q9nb2wokRP66I7NVypvA",
+    "plus_code": {
+        "compound_code": "R376+VC New York, United States",
+        "global_code": "87G8R376+VC"
+    },
+    "reference": "ChIJHf8q9nb2wokRP66I7NVypvA",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17340673678358654527",
+    "utc_offset": -300,
+    "vicinity": "46 West 137th Street, New York"
+}

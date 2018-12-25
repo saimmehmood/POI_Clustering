@@ -1,0 +1,361 @@
+{
+    "address_components": [
+        {
+            "long_name": "630",
+            "short_name": "630",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1254",
+            "short_name": "1254",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">630 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1254</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "630 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(908) 691-4498",
+    "geometry": {
+        "location": {
+            "lat": 40.8179181,
+            "lng": -73.93758
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8192347802915,
+                "lng": -73.93604256970849
+            },
+            "southwest": {
+                "lat": 40.8165368197085,
+                "lng": -73.9387405302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "204a0f4806bf7de4d84757212b5f3bb9a698d2a4",
+    "international_phone_number": "+1 908-691-4498",
+    "name": "Cloud Counseling",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM",
+            "Tuesday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM",
+            "Wednesday: 2:00 \u2013 7:30 PM",
+            "Thursday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM",
+            "Friday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM",
+            "Saturday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM",
+            "Sunday: 9:00 \u2013 11:30 AM, 2:00 \u2013 7:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 497,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAswLQhpSoh7bJhJSbEG5DQv2Ywkasq2ojG8Ed0eLBApko7YKtIZU9cgEL7SnDZh8y2BpVbuRJN1a-qWj9SfXRh6VOXJyxrJ_Ru4VHBCGVnQZyjcIC0KI1Qax_75VB2jHPEhCIMnpedyDI4z3uXy4o7cXIGhR0FuTUMz1MNAac7dwtnMMy0t1GSQ",
+            "width": 657
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAA0GKbDSvdj-6cf0M4TfR8Yvbvc6PyQE5_bFii789GfBttMpePD2iPLpt36sVREFTZlCdZ6Zk7RBWh9UoPwXuo78J7BlRkBdaTvfbKWUegA6bCafDpbVTJ-rbUyQAPE0uDEhDtw32bvcxskNflORT-gcOqGhTyXBQi_Za0S6dlNeRVMRcIgOemPQ",
+            "width": 2048
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAkolbbK7xfsV-AFKI4PU9dBgh_pm0xsslMBZvak9FAoXg3s169MPZidvcPsbWc1H3w6xGlavmb8Pc7K3YuyPCDLhYb3hKjAOdQvy1jM3tKhsm2ldcXdQgLzAUyHOFi2MGEhDdkaHoeKaPAOhxoZFU9iraGhTw11SmCJUjWMk-EmUbXYLkVlQb9g",
+            "width": 800
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAA6Biu9-X0ZbLKkRJfgXXnDR2g-FM25JjZHmElzy2qT8V30ZKRCxgzr7ExAA8aVM2lb0WBCEr_ldrIH8z_TdL_-C1zdm2F0B9Eu0wKZa1mlROu6fs2prEMEsf0cN3CCZpjEhCGtgWXUPgWqG7_NPc89GRYGhQj9rQadEYar0SSX9B1g4nyp6iSBQ",
+            "width": 800
+        },
+        {
+            "height": 997,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAe_pCOqUlmKG9sLLNDf387NWwF3ZADjkM1700wINRC0cbJAHUTcGhbW-cIfdB6riRP0QeoPm1vCT-zeEv3j_o2uOn3PtgSJVMnUfXDE0dPfFEVpn2Er7pIWF7TJAb7EESEhAf3eWkytg1diOkIECvKzFhGhR9jBAkzrTqI6L5ZpZriyBdu6wNmg",
+            "width": 1137
+        },
+        {
+            "height": 334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAMNXMPTRvbtWVPZpLuV7Y8VS1F6t75NnRFvlzxomnmmJ1P8EksouWn9xu5_mUjPODNDEVudKxCgaGOP9ddww1eEzyiLPszRD9Ac98CkbhtOdS_EEmTp3jmnoAd-ZCh4q3EhDXgpFWYVOYn6TeZGxa9w_1GhScvNWJ9hiMcgYQ5z71A3btx5LkXg",
+            "width": 295
+        },
+        {
+            "height": 625,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAA6yZQj1ZK03Xkgxy7ONen_8L3T8hqlzDzPotBL40kr5WtJxDvUV6dVa5LbLY1-1VqqgQffFH-gdnSUbBke7MJCLHBTAVAj6f7KLRFKO_I142Z52hw5Xa6EEa7NnA6k4P9EhD61i-lCUFbEpDd5bq-IppYGhTIx_JntP2ipBPuZHt6OGJEkmk1bA",
+            "width": 1059
+        },
+        {
+            "height": 416,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAA0pkH1qO7K5preOOmC_1FYFmZIOQo4Fe9dNFfl6TMCFMIHMGWpmS7UeOpqhmqmqE7_T64gweF0c7pjdLRuFwhdYrbkEjG10fkgLlFQSpa_57JjVjB7qM96tWdaStO79bEhC_Dz3tQbdp7ptAEllZyE68GhQANjc7MQrZDepwdTSeqV3_LoYe8Q",
+            "width": 465
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAA2foaYnQV3iManTqneGKkvWOqRGmXrYu7KTQlXZ-9YJ2XkJVooeFscmUbebY1s5UtxoQoQ2xFSIS8xsvDLmuBUVn46dQ2mjiTQQVlUBfqY_j90fgtwhkMpJnV9i2DuxhEEhAITLpwV8cTA2aK_ceeplMdGhS0a2owAQBfe15Kcxf07VAud16O5w",
+            "width": 800
+        },
+        {
+            "height": 557,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106369196499350940751/photos\">Cloud Counseling</a>"
+            ],
+            "photo_reference": "CmRaAAAAiDIi8tgdfPmpJH2vHnP17aKNjfv15ZSEKjfhphHnXX0PdLjICggs2KQPLTkhZcik0XHNxcYRXj3ogiUMG4wr9M8H8l9Zfg_vO6D04aT4q-c7Bvbaw2fECnYxgqiPVRW_EhCuJaWAWqNG23awVR1DvPAHGhTMGEv30hkcYAEK_hI8fRk3QcB8Zg",
+            "width": 1315
+        }
+    ],
+    "place_id": "ChIJyfuyIXj2wokRDK4IW3xhJ3o",
+    "plus_code": {
+        "compound_code": "R396+5X New York, United States",
+        "global_code": "87G8R396+5X"
+    },
+    "rating": 4.5,
+    "reference": "ChIJyfuyIXj2wokRDK4IW3xhJ3o",
+    "reviews": [
+        {
+            "author_name": "J Wilson",
+            "author_url": "https://www.google.com/maps/contrib/102044684257830335922/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ay-T3ST1NE8/AAAAAAAAAAI/AAAAAAAAACM/kPl-EdiAP0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "By far the most amazing therapist I have ever counseled with.  It is like she totally gets me and she is very caring, and compassionate.  I would recommend her to anyone seeking out a counselor who would give you feedback on your situation. She is also a great listener and really cares about her clients.",
+            "time": 1466775737
+        },
+        {
+            "author_name": "Jean Sanders",
+            "author_url": "https://www.google.com/maps/contrib/116782290527034002429/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-drbFGHvjzoM/AAAAAAAAAAI/AAAAAAAAFb8/ATHWvJxlayU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "awesome\n",
+            "time": 1434779526
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8802111183450058252",
+    "utc_offset": -300,
+    "vicinity": "630 Lenox Avenue, New York",
+    "website": "http://www.cloud-counseling.com/"
+}

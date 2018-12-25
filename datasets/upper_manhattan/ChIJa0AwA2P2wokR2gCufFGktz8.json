@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82672420000001,
+            "lng": -73.9499824
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8280731802915,
+                "lng": -73.9486334197085
+            },
+            "southwest": {
+                "lat": 40.8253752197085,
+                "lng": -73.9513313802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6788a303a71bcdd11b0be35cffacc9687fafe2ab",
+    "name": "Nyc Fitness",
+    "place_id": "ChIJa0AwA2P2wokR2gCufFGktz8",
+    "plus_code": {
+        "compound_code": "R3G2+M2 New York, United States",
+        "global_code": "87G8R3G2+M2"
+    },
+    "reference": "ChIJa0AwA2P2wokR2gCufFGktz8",
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4591319015018594522",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

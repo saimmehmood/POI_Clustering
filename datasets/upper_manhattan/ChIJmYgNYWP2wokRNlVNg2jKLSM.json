@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "511",
+            "short_name": "511",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">511 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "511 W 143rd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(800) 358-0431",
+    "geometry": {
+        "location": {
+            "lat": 40.824574,
+            "lng": -73.9494689
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8258306302915,
+                "lng": -73.94818916970848
+            },
+            "southwest": {
+                "lat": 40.8231326697085,
+                "lng": -73.9508871302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "4313c6252bcf4df25a81020f87eee67d5a974830",
+    "international_phone_number": "+1 800-358-0431",
+    "name": "Kaufman School",
+    "place_id": "ChIJmYgNYWP2wokRNlVNg2jKLSM",
+    "plus_code": {
+        "compound_code": "R3F2+R6 New York, United States",
+        "global_code": "87G8R3F2+R6"
+    },
+    "reference": "ChIJmYgNYWP2wokRNlVNg2jKLSM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2534904715507750198",
+    "utc_offset": -300,
+    "vicinity": "511 West 143rd Street, New York"
+}

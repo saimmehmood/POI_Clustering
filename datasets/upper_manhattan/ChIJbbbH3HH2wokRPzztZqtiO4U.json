@@ -1,0 +1,287 @@
+{
+    "address_components": [
+        {
+            "long_name": "2542",
+            "short_name": "2542",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2542 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2542 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(347) 577-7709",
+    "geometry": {
+        "location": {
+            "lat": 40.81673199999999,
+            "lng": -73.94602700000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8181388302915,
+                "lng": -73.94481446970849
+            },
+            "southwest": {
+                "lat": 40.8154408697085,
+                "lng": -73.94751243029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "88b128898febcf31d8c557dca35004c4a2bec541",
+    "international_phone_number": "+1 347-577-7709",
+    "name": "MOS Printing",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 9:00 PM",
+            "Sunday: 12:00 \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105080954014888717958/photos\">MOS Printing</a>"
+            ],
+            "photo_reference": "CmRaAAAAVenjLs4Q-lpKw82NfZt7mjAkc6TU1t-GSd_uHDVBpCrsAkitg91SvaPSb-DYmziX9qwpHEWZB8E_iSKxraYZ9OfT-7Fq-zuOLMy3ZjCuFNoqz6CB-Ej327EXowgpQ3JuEhDZotJpCKagwkze8wWGDLDdGhQtnPmSawdf4aCfOFqePAqAt3Yp3Q",
+            "width": 3462
+        },
+        {
+            "height": 3277,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105080954014888717958/photos\">MOS Printing</a>"
+            ],
+            "photo_reference": "CmRaAAAAM31JPRugXVSJPdYyC2ChdpxfMs8xr8Dk9pLwnROGA2m2wd5F1eHewJgTb-TPj4C25kG3DEAmd9WVXIOI4lpdZAOte0rmu768eiMmhvC7rzdHi1C_b525EllfwmEEQQ3SEhDXVhZHetyEDtIv3dkJIjpuGhQ3Iwf9ZcWG7Cr6V-A9S4ifr16RVw",
+            "width": 4915
+        },
+        {
+            "height": 3576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105080954014888717958/photos\">MOS Printing</a>"
+            ],
+            "photo_reference": "CmRaAAAAqOtZBUENi-o8gORTCEfi589l1DqfKaPw2dg1UDw1_w2yEiTzs4kf7mNFGtMENMxBHUwsAsurRjdmyys2pEs7o60QzkvxbCg-TZvZRgMHLJpZ4TFp1PYpAZzuTlsGdwR7EhD39FpykLzfap_k7DCnAGp5GhR2vM2fy_3oDaDzTEtRFKxryqV4nw",
+            "width": 3576
+        },
+        {
+            "height": 5136,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105080954014888717958/photos\">MOS Printing</a>"
+            ],
+            "photo_reference": "CmRaAAAAYV-VI-KUNrq_VKHDl7uMTmYbUzn2dz7-y8p1BF6cv0ruf1x85x2jXP47R8cxXxrt4yt1Pkapzx6PlZ4VJRwuaV8l9FBdEgXv2P-1jK_-0KU0kt5xL6oi7HDcX9JL7jLLEhDGvOXGRE9HUO0Apq3jGLmuGhTmEGpDDWBu9kqVjNiW8rYtplF76g",
+            "width": 5136
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105080954014888717958/photos\">MOS Printing</a>"
+            ],
+            "photo_reference": "CmRaAAAAVaPzZaMDvE7cYVexJiTUbkECQhXvuZAP5eAK3uBpNoJKXZEgFQaztuIBG2U148-gSm_qTPOpZQqRozXAexoU38O1FL0Vhvf38PeslF9RUw2aD9PnyJeX0iXpeh58kwX_EhD3SmRu2mDNbcmh2OtIU2swGhSZtIQT9IJCTnZUQWl_JxqIWcbeuQ",
+            "width": 3300
+        }
+    ],
+    "place_id": "ChIJbbbH3HH2wokRPzztZqtiO4U",
+    "plus_code": {
+        "compound_code": "R383+MH New York, United States",
+        "global_code": "87G8R383+MH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJbbbH3HH2wokRPzztZqtiO4U",
+    "reviews": [
+        {
+            "author_name": "Virag Gulyas",
+            "author_url": "https://www.google.com/maps/contrib/105609579904928408222/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-k-xGl_ss0qI/AAAAAAAAAAI/AAAAAAAAQhk/mM6f3vsqrZs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Worst customer service ever. Spent 60 min there to print 30 pages. And not once she said an apology and they felt it was okay to chit-chat with another customer while I was waiting to PAY, which by the way cost me another 3 dollars as \"oh I am sorry I forgot my card reader you cannot pay by card and yes the ATM is not working, go to Chase...\" \n\nI was all nice and smiling but the fact that she did not even felt that it was horrible that pisses me off.",
+            "time": 1538263832
+        },
+        {
+            "author_name": "Douglas Mathews",
+            "author_url": "https://www.google.com/maps/contrib/108204851186351005412/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0HSAfY1EiPw/AAAAAAAAAAI/AAAAAAAAVJQ/Zx_P7KVBUYw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "the service is excellent they treat me like family I recommend them highly to everyone I know thank you for letting me be a customer Doug Matthews Matthews New York.",
+            "time": 1537363064
+        },
+        {
+            "author_name": "KRIS DADDY",
+            "author_url": "https://www.google.com/maps/contrib/116219223463205915835/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gpZ41l5CXLI/AAAAAAAAAAI/AAAAAAAAAQU/T4IkG55UAa8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Professionnal Staff\nBig up Oussman Sonya and all the crew\nKris Daddy",
+            "time": 1533633279
+        },
+        {
+            "author_name": "Nadrae G Lily",
+            "author_url": "https://www.google.com/maps/contrib/113945397373469391358/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jddAk87YZAc/AAAAAAAAAAI/AAAAAAAAHuk/UcA_ICyWF3g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Best prices, love the new faces (lol) only place to get my printing done.",
+            "time": 1526314574
+        },
+        {
+            "author_name": "Frances Armand",
+            "author_url": "https://www.google.com/maps/contrib/107463993313753135884/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-n1ENX8SvsH4/AAAAAAAAAAI/AAAAAAAAFzc/OW6ZEsW3Ptg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "Great service! Love the work.",
+            "time": 1518744969
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9600375518976097343",
+    "utc_offset": -300,
+    "vicinity": "2542 Frederick Douglass Boulevard, New York",
+    "website": "http://www.moduprinting.com/"
+}

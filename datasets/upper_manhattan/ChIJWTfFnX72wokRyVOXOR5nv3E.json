@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "102-118",
+            "short_name": "102-118",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">102-118 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "102-118 Bradhurst Ave, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8248623,
+            "lng": -73.9417316
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8262112302915,
+                "lng": -73.9403825697085
+            },
+            "southwest": {
+                "lat": 40.8235132697085,
+                "lng": -73.94308053029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b6a5a012fbce819d7516687f894e57d72d6497d7",
+    "name": "102-118 Bradhurst Ave",
+    "place_id": "ChIJWTfFnX72wokRyVOXOR5nv3E",
+    "reference": "ChIJWTfFnX72wokRyVOXOR5nv3E",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=102-118+Bradhurst+Ave,+New+York,+NY+10039,+USA&ftid=0x89c2f67e9dc53759:0x71bf671e399753c9",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

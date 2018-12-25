@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "16 W 137th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-1000",
+    "geometry": {
+        "location": {
+            "lat": 40.8145867,
+            "lng": -73.9379702
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81591428029149,
+                "lng": -73.93663706970848
+            },
+            "southwest": {
+                "lat": 40.81321631970849,
+                "lng": -73.9393350302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "f980b6123df06cdecd5ef7b0157e00656252ca59",
+    "international_phone_number": "+1 212-939-1000",
+    "name": "Womens pavillion @ Harlem Hospital",
+    "place_id": "ChIJN0msRXb2wokRTENROkvtQ1c",
+    "plus_code": {
+        "compound_code": "R376+RR New York, United States",
+        "global_code": "87G8R376+RR"
+    },
+    "rating": 4,
+    "reference": "ChIJN0msRXb2wokRTENROkvtQ1c",
+    "reviews": [
+        {
+            "author_name": "Pena_boy TSIO",
+            "author_url": "https://www.google.com/maps/contrib/114376432433898833181/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aVzMeHPmNuQ/AAAAAAAAAAI/AAAAAAAAB14/MBdwKeAsCI0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Mental Health Services and Substance Abuse Services",
+            "time": 1520441855
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6288130412096078668",
+    "utc_offset": -300,
+    "vicinity": "16 West 137th Street, New York"
+}

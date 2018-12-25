@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "2541",
+            "short_name": "2541",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2541 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2541 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-2863",
+    "geometry": {
+        "location": {
+            "lat": 40.82301400000001,
+            "lng": -73.936372
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242253802915,
+                "lng": -73.93469441970849
+            },
+            "southwest": {
+                "lat": 40.8215274197085,
+                "lng": -73.9373923802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c7a1f9a7a04bc2f6aeb4e5ce3ab43f37b89d77ea",
+    "international_phone_number": "+1 212-234-2863",
+    "name": "Dr. Shirley M. Donaldson, MD",
+    "place_id": "ChIJux_SUH_2wokRgiWka5X2iAw",
+    "plus_code": {
+        "compound_code": "R3F7+6F New York, United States",
+        "global_code": "87G8R3F7+6F"
+    },
+    "reference": "ChIJux_SUH_2wokRgiWka5X2iAw",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=903242846904264066",
+    "utc_offset": -300,
+    "vicinity": "2541 Adam Clayton Powell Junior Boulevard, New York"
+}

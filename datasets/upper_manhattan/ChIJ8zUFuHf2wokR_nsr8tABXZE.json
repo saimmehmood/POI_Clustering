@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "50 West 139th Street, New York, NY 10037, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "50 West 139th Street, New York, NY 10037, New York, NY 10037, USA",
+    "formatted_phone_number": "(347) 209-1445",
+    "geometry": {
+        "location": {
+            "lat": 40.8159716,
+            "lng": -73.9377732
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81739898029149,
+                "lng": -73.93636691970849
+            },
+            "southwest": {
+                "lat": 40.8147010197085,
+                "lng": -73.9390648802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dbbeeb7ef9f68cdd626e0695aa360650805974ea",
+    "international_phone_number": "+1 347-209-1445",
+    "name": "Tiffany E. Wayman, LMSW",
+    "place_id": "ChIJ8zUFuHf2wokR_nsr8tABXZE",
+    "plus_code": {
+        "compound_code": "R386+9V New York, United States",
+        "global_code": "87G8R386+9V"
+    },
+    "reference": "ChIJ8zUFuHf2wokR_nsr8tABXZE",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10474530305261403134",
+    "utc_offset": -300,
+    "vicinity": "50 West 139th Street, New York, NY 10037, New York"
+}

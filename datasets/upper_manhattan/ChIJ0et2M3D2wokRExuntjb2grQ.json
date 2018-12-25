@@ -1,0 +1,217 @@
+{
+    "address_components": [
+        {
+            "long_name": "2527",
+            "short_name": "2527",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2527 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2527 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-0758",
+    "geometry": {
+        "location": {
+            "lat": 40.8167804,
+            "lng": -73.9467286
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180682302915,
+                "lng": -73.94523546970849
+            },
+            "southwest": {
+                "lat": 40.8153702697085,
+                "lng": -73.9479334302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e376ee99bfe05f43048e65146bdbc89057999004",
+    "international_phone_number": "+1 212-862-0758",
+    "name": "Jim's Dry Cleaning",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 7:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 7:00 PM",
+            "Thursday: 8:00 AM \u2013 7:00 PM",
+            "Friday: 8:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ0et2M3D2wokRExuntjb2grQ",
+    "plus_code": {
+        "compound_code": "R383+P8 New York, United States",
+        "global_code": "87G8R383+P8"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ0et2M3D2wokRExuntjb2grQ",
+    "reviews": [
+        {
+            "author_name": "A A",
+            "author_url": "https://www.google.com/maps/contrib/113428286967277490261/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dbWJRGzhdDs/AAAAAAAAAAI/AAAAAAAAAE4/-_1hAEWdaDw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I gave them pants for fixing, they returned it with a damaged zipper and told me I can pay to fix that too! Thieves.",
+            "time": 1537139222
+        },
+        {
+            "author_name": "Sunny L.",
+            "author_url": "https://www.google.com/maps/contrib/115887213155809609687/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oGSx04QMmEQ/AAAAAAAAAAI/AAAAAAAAAGU/kSo6uvS9wm8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Efficient, professional, and reasonably priced.",
+            "time": 1528342484
+        },
+        {
+            "author_name": "Jarrett Adams",
+            "author_url": "https://www.google.com/maps/contrib/113237641624667744110/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-U_8BjsTHwRA/AAAAAAAAAAI/AAAAAAAAAFk/vVKdi1POtFQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1466030253
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13007229388652485395",
+    "utc_offset": -300,
+    "vicinity": "2527 Frederick Douglass Boulevard, New York"
+}

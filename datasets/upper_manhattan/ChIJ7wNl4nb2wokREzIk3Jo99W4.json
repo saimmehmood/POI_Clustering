@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "547-537",
+            "short_name": "547-537",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">547-537 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "547-537 Lenox Ave, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81559569999999,
+            "lng": -73.939864
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81694468029149,
+                "lng": -73.93851496970849
+            },
+            "southwest": {
+                "lat": 40.8142467197085,
+                "lng": -73.9412129302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "823d3cfbee366ec9268f310c700768938f2cf975",
+    "name": "547-537 Lenox Ave",
+    "place_id": "ChIJ7wNl4nb2wokREzIk3Jo99W4",
+    "reference": "ChIJ7wNl4nb2wokREzIk3Jo99W4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=547-537+Lenox+Ave,+New+York,+NY+10037,+USA&ftid=0x89c2f676e26503ef:0x6ef53d9adc243213",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

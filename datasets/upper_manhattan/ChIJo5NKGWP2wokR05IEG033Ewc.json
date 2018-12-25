@@ -1,0 +1,285 @@
+{
+    "address_components": [
+        {
+            "long_name": "3556",
+            "short_name": "3556",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3556 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3556 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 271-4364",
+    "geometry": {
+        "location": {
+            "lat": 40.8269133,
+            "lng": -73.9497525
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82829908029149,
+                "lng": -73.94848901970849
+            },
+            "southwest": {
+                "lat": 40.8256011197085,
+                "lng": -73.95118698029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e9b2fb9df4a4779d0c478fbb24923a04aa7c41ad",
+    "international_phone_number": "+1 212-271-4364",
+    "name": "CityMD W 146th St.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110618935432282393788/photos\">CityMD W 146th St.</a>"
+            ],
+            "photo_reference": "CmRaAAAAvLU4tvE5t0Tem8i2Zw6QojfGOPbsrNTSm14tGNwgb7pW5CuRbjJDQe3g8LIKbnwkINDMgoaBN-yZokrVIX4ZCfqO99P2rDnitjNzvuKucwMEGYlsFmoPYvWW7FaL9PgREhDvs0f20DzFb4wOcBB0GV91GhSFQVOJKPO_i5FTi9rFjoeHg7xxiA",
+            "width": 5760
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110618935432282393788/photos\">CityMD W 146th St.</a>"
+            ],
+            "photo_reference": "CmRaAAAAQJv6C8Myc8c5Krr68m8WKO4-PzyjMQkKAZtQpbzPGaJVeX4cud_LWsLML1IrczDqK0yzNbzdw6lz-bt0BuBwWsIxFaab158tLOkxVNYw4LalYh2OAl0CwX4sr_LAJJlSEhD5OcQPkr-ZKNoq8er_SiIjGhSZ1lN9DYL_53ibB__LG_b4TOUTrw",
+            "width": 5760
+        },
+        {
+            "height": 3487,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100496231846875287237/photos\">CJ Gershon</a>"
+            ],
+            "photo_reference": "CmRaAAAAcue-11Ul0ZmY0nenl5hY938qOL2_s09R-b182X_4tQgRyj6IG-u65gQdXtJtRQJFbqyXCtlhBaOi8TBqOEFe1NZxiGnNeImV5SbObVHzwCNgE6Uj-SUqBIHw-E1LghqkEhCXr3od3H88sfSNpLAOR9zYGhR7V26tdjiY0U_Sre4o2OjkgcJ9sg",
+            "width": 5230
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110618935432282393788/photos\">CityMD W 146th St.</a>"
+            ],
+            "photo_reference": "CmRaAAAABanPdZqifdJxmjWSJTFNGQ5rqTL4r1pckKGbd0_RMMDmKX5FdgG1hoUkVfq6dsebMBeteapgF3tyKg-U8yLRIeBxVpW4mcxhAg1ip-c9l5WfjE4SxE-KB54jBLlmooFgEhDNE2nCRuyAjdEdeU254SWLGhShE_-tubKC3xjrMcpjFPJmPmHCyg",
+            "width": 5760
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110618935432282393788/photos\">CityMD W 146th St.</a>"
+            ],
+            "photo_reference": "CmRaAAAA_lv2JXcwpYBrLmoxrBp2OK-LYnawPrBHKjCffy65tdcWWiAddL7ZFHoGizRb9D96TkcN1B47hjmAgWb1wnIt2YkfgzgZ3_1DmvVkBFh3AOI3j7mnSHGkfv3O5HlF6NrSEhD9-93NA_gctz6FL5Iz-sPhGhSlIqRskJgXcCRwX4r7FoG7yuc8bA",
+            "width": 957
+        }
+    ],
+    "place_id": "ChIJo5NKGWP2wokR05IEG033Ewc",
+    "plus_code": {
+        "compound_code": "R3G2+Q3 New York, United States",
+        "global_code": "87G8R3G2+Q3"
+    },
+    "rating": 3.8,
+    "reference": "ChIJo5NKGWP2wokR05IEG033Ewc",
+    "reviews": [
+        {
+            "author_name": "Yoshi Lomax",
+            "author_url": "https://www.google.com/maps/contrib/113789458513301479717/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-bcMLr8IcE6s/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY94_gLYZ65JayqNE4L0p3MzJIq4w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Very unprofessional staff. Pleasant doctors except for one, Dr. McKinney. This doctor is just nasty and rude. I\u2019m not sure what her problem was on that day, but she was very rude and I never want to see her again. She needs to work on her attitude especially when dealing with patients. And the management team is terrible. Waited for almost 2 hours to speak to a manager who was sitting right in front of me knowing that I\u2019m waiting for him and didn\u2019t even acknowledge my presence. Never, ever again.",
+            "time": 1537218492
+        },
+        {
+            "author_name": "Kyle Geissler",
+            "author_url": "https://www.google.com/maps/contrib/112026331118211632151/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Ypr2mjboaqE/AAAAAAAAAAI/AAAAAAAACik/dcX3_vSeTFg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Went in with a deep cut on my finger. The staff are attentive, kind, and friendly. Clean and well kept facilities. My doctor was extremely helpful, explaining each step of treatment before doing it. I was very impressed. Glad they're in the neighborhood!",
+            "time": 1528910812
+        },
+        {
+            "author_name": "emily ramos",
+            "author_url": "https://www.google.com/maps/contrib/115256647908297176826/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-vxhTLuVMrTY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZyRWIu0HanwmnOFl7NF7OpxNQ6eQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "They re great fast service and tend to their patients very well. Haven't had no bad experiences so far  \ud83d\udc4d.",
+            "time": 1541166384
+        },
+        {
+            "author_name": "John Wojciechowski",
+            "author_url": "https://www.google.com/maps/contrib/104830482447739459459/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-waSE9Pg3P4w/AAAAAAAAAAI/AAAAAAAAS08/ykO-tmv-4uo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great, communicative staff. Friendly from entry to exit.",
+            "time": 1542590584
+        },
+        {
+            "author_name": "rebeKah nadine",
+            "author_url": "https://www.google.com/maps/contrib/112986051246817879912/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--GJ1k_D45Ak/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbL-AOzSMFqYddJ4UzT4FNTxPeYsg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Surprisingly, I\u2019ve always had a great experience at this location. I\u2019ve been there several times for myself and my 16yo who has asthma. Short wait, friendly & professional staff and they\u2019ve always gone out of there way to accommodate us.",
+            "time": 1522231263
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=510023093360825043",
+    "utc_offset": -300,
+    "vicinity": "3556 Broadway, New York",
+    "website": "https://www.citymd.com/urgent-care-locations/ny/manhattan/west-146th/044"
+}

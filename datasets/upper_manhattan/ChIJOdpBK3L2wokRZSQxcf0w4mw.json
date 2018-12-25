@@ -1,0 +1,190 @@
+{
+    "address_components": [
+        {
+            "long_name": "2251",
+            "short_name": "2251",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2251 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2251 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 926-6600",
+    "geometry": {
+        "location": {
+            "lat": 40.8135588,
+            "lng": -73.94466750000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81494078029149,
+                "lng": -73.9433978197085
+            },
+            "southwest": {
+                "lat": 40.81224281970849,
+                "lng": -73.94609578029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "52e9e6f61e7cc97cf7fbfc186526513b9c3a8c8e",
+    "international_phone_number": "+1 212-926-6600",
+    "name": "Keur Maty",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 11:00 PM",
+            "Tuesday: 10:30 AM \u2013 11:00 PM",
+            "Wednesday: 10:30 AM \u2013 11:00 PM",
+            "Thursday: 10:30 AM \u2013 11:00 PM",
+            "Friday: 10:30 AM \u2013 11:00 PM",
+            "Saturday: 10:30 AM \u2013 11:00 PM",
+            "Sunday: 10:30 AM \u2013 11:00 PM"
+        ]
+    },
+    "place_id": "ChIJOdpBK3L2wokRZSQxcf0w4mw",
+    "plus_code": {
+        "compound_code": "R374+C4 New York, United States",
+        "global_code": "87G8R374+C4"
+    },
+    "reference": "ChIJOdpBK3L2wokRZSQxcf0w4mw",
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7845887365916730469",
+    "utc_offset": -300,
+    "vicinity": "2251 Adam Clayton Powell Junior Boulevard, New York"
+}

@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8158915,
+            "lng": -73.9436126
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172055302915,
+                "lng": -73.94217971970849
+            },
+            "southwest": {
+                "lat": 40.8145075697085,
+                "lng": -73.9448776802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a2953f3943788b260aca546cf3652b8ffaf59629",
+    "name": "Leather Shoe Repair",
+    "place_id": "ChIJX-m4HnH2wokRDYTx_AdpK9g",
+    "plus_code": {
+        "compound_code": "R384+9H New York, United States",
+        "global_code": "87G8R384+9H"
+    },
+    "reference": "ChIJX-m4HnH2wokRDYTx_AdpK9g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15576659219220366349",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "270",
+            "short_name": "270",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">270 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "270 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 313-9439",
+    "geometry": {
+        "location": {
+            "lat": 40.8168355,
+            "lng": -73.9456842
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81825553029149,
+                "lng": -73.9442824197085
+            },
+            "southwest": {
+                "lat": 40.8155575697085,
+                "lng": -73.9469803802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "70eb0bda8f89563dff11658349ed93bc8fcbda90",
+    "international_phone_number": "+1 212-313-9439",
+    "name": "Dr Rosa Lavergne",
+    "place_id": "ChIJfyzmT3D2wokRD5vCUqMBEOc",
+    "plus_code": {
+        "compound_code": "R383+PP New York, United States",
+        "global_code": "87G8R383+PP"
+    },
+    "reference": "ChIJfyzmT3D2wokRD5vCUqMBEOc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16649809623368506127",
+    "utc_offset": -300,
+    "vicinity": "270 West 136th Street, New York",
+    "website": "http://www.drrosalavergne.com/contact-us.html"
+}

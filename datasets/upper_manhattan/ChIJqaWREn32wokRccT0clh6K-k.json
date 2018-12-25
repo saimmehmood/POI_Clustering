@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "1791",
+            "short_name": "1791",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3501",
+            "short_name": "3501",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1791 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3501</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1791 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-9336",
+    "geometry": {
+        "location": {
+            "lat": 40.827423,
+            "lng": -73.94559500000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288392302915,
+                "lng": -73.9444082697085
+            },
+            "southwest": {
+                "lat": 40.8261412697085,
+                "lng": -73.94710623029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e8e895e1f630d2d69520c570bb71979b25223cd5",
+    "international_phone_number": "+1 212-283-9336",
+    "name": "Yessie's Beauty Salon",
+    "place_id": "ChIJqaWREn32wokRccT0clh6K-k",
+    "plus_code": {
+        "compound_code": "R3G3+XQ New York, United States",
+        "global_code": "87G8R3G3+XQ"
+    },
+    "rating": 5,
+    "reference": "ChIJqaWREn32wokRccT0clh6K-k",
+    "reviews": [
+        {
+            "author_name": "betzaida lopez",
+            "author_url": "https://www.google.com/maps/contrib/103749454761044028277/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-n4xdYSgZQd4/AAAAAAAAAAI/AAAAAAAAAYQ/MaPLa0PGVxA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I've been doing my hair there for approx 20 yrs\nLuv it",
+            "time": 1494917617
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16801657355140121713",
+    "utc_offset": -300,
+    "vicinity": "1791 Amsterdam Avenue, New York"
+}

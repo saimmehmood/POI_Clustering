@@ -1,0 +1,114 @@
+{
+    "address_components": [
+        {
+            "long_name": "607",
+            "short_name": "607",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Esplanade Gardens Plaza",
+            "short_name": "Esplanade Gardens Plaza",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">607 Esplanade Gardens Plaza</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "607 Esplanade Gardens Plaza, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81765559999999,
+            "lng": -73.9388519
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8189244302915,
+                "lng": -73.93731126970849
+            },
+            "southwest": {
+                "lat": 40.8162264697085,
+                "lng": -73.9400092302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "5e0552344ad734628225670bfdc9b6bc2b1865c3",
+    "name": "Air b n b",
+    "place_id": "ChIJs9fzgXf2wokRSwPkgFZMS3s",
+    "plus_code": {
+        "compound_code": "R396+3F New York, United States",
+        "global_code": "87G8R396+3F"
+    },
+    "rating": 1,
+    "reference": "ChIJs9fzgXf2wokRSwPkgFZMS3s",
+    "reviews": [
+        {
+            "author_name": "Zeenie Afridi",
+            "author_url": "https://www.google.com/maps/contrib/116102963027916322290/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-tXThppsY_74/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbx6iRTe7uDn2eOQgQZ0uKGRXcc4Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1536702207
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8884278624331760459",
+    "utc_offset": -300,
+    "vicinity": "607 Esplanade Gardens Plaza, New York"
+}

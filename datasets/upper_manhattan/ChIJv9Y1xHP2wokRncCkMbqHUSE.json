@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "144",
+            "short_name": "144",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 132nd Street",
+            "short_name": "W 132nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7817",
+            "short_name": "7817",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">144 W 132nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7817</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "144 W 132nd St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 926-9500",
+    "geometry": {
+        "location": {
+            "lat": 40.8127376,
+            "lng": -73.9439613
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8141566302915,
+                "lng": -73.9425611197085
+            },
+            "southwest": {
+                "lat": 40.81145866970851,
+                "lng": -73.9452590802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "25b534eacc81a75b9bb329eaf6c813a9331bb138",
+    "international_phone_number": "+1 212-926-9500",
+    "name": "Joseph & Turner Consulting",
+    "place_id": "ChIJv9Y1xHP2wokRncCkMbqHUSE",
+    "plus_code": {
+        "compound_code": "R374+3C New York, United States",
+        "global_code": "87G8R374+3C"
+    },
+    "reference": "ChIJv9Y1xHP2wokRncCkMbqHUSE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2400849310131732637",
+    "utc_offset": -300,
+    "vicinity": "144 West 132nd Street, New York"
+}

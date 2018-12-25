@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.814919,
+            "lng": -73.94783
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81624643029149,
+                "lng": -73.94643006970848
+            },
+            "southwest": {
+                "lat": 40.81354846970849,
+                "lng": -73.94912803029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "1a6a1bbc790aa861c4a8b5d36cd123e18c67df1f",
+    "name": "Fred Douglass Blvd/W 133 St",
+    "place_id": "ChIJcf1JHW72wokRK4kXxTI0SZ4",
+    "plus_code": {
+        "compound_code": "R372+XV New York, United States",
+        "global_code": "87G8R372+XV"
+    },
+    "rating": 1,
+    "reference": "ChIJcf1JHW72wokRK4kXxTI0SZ4",
+    "reviews": [
+        {
+            "author_name": "ADELIA GUZMAN",
+            "author_url": "https://www.google.com/maps/contrib/115101286365599473024/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HN2T-1oRDLI/AAAAAAAAAAI/AAAAAAAAAAs/ZAS9Z5kKcD4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1476466396
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11405704923952154923",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

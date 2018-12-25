@@ -1,0 +1,303 @@
+{
+    "address_components": [
+        {
+            "long_name": "247",
+            "short_name": "247",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">247 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "247 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 694-8607",
+    "geometry": {
+        "location": {
+            "lat": 40.822773,
+            "lng": -73.941031
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8240020802915,
+                "lng": -73.93976991970848
+            },
+            "southwest": {
+                "lat": 40.8213041197085,
+                "lng": -73.9424678802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "25809b469ee820e3c7a85213f25b1c32b6192c3e",
+    "international_phone_number": "+1 212-694-8607",
+    "name": "Mia's Bathhouse For Pets",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 3:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 10:00 AM \u2013 3:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109383245582602834543/photos\">TheJPretender</a>"
+            ],
+            "photo_reference": "CmRaAAAA6qTmDakNtR_nUuj5R_S4ZYPp1PtBIANY-y1PkBEGn9f25x9i0TQvx9V3NwBINvytT6lgBfUR-uRJP5Ll9tRVNKD2OtkrcJT9sx6OKIqu5pBvc8EHoPTrKtZ8IH5B8XazEhBsqc9TyeHZae4gmc9atgX5GhSBOKuS5jXLUHIfRsYp6pz1dzbO5w",
+            "width": 3264
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAUyhXioIXl4C7Lnei4Q5dP64uhmfOq1W6i2tqxKxRnCo8w-PD5eCwuCpW4btOm0OUfqL0wdRnqd2i90R-Fap95-meDJQd69wwOWqJAI97uAMS0iwQDo_6MMrU9jvFP_XpEhDBls0tw6fqHxib-T0vZjLXGhR7SvPhWVbl0T9xJNv5lOJ61rKcRQ",
+            "width": 1440
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAahSPaU4tx001OY8qvs7Dy0aXa5JOhIoNqUoderhYjLSeAnFELMb44G2PdNmqQoCul-yd5xZD8nwAYmoezzwQ_vJeaGotwcQ69-U_LjsVAsp2aswbIHcRSgrD_MukXD42EhB_sfxfjgGuwF_fz8EhWac6GhTZNTwLMluWsJwxpCLIlExiM8Hniw",
+            "width": 5312
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAACLj2P5xY729iDQ7jU0cNBFSUuftvlaLES63PnnLXDq2o0V53MLoRusXDL3tl1-NGmVN8wRQxi6OjY2RETz8yvrWhkUVAOrdfXvDOzVqa7vWZaPYGgRDAu5Gllm-MvUyjEhDLtBkbeJOt12_jSsdCX1iDGhSGmpF47nkz2R8koTiwHYMLHFSsbA",
+            "width": 2560
+        },
+        {
+            "height": 1944,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103572783333118497379/photos\">Mercedes Rivera</a>"
+            ],
+            "photo_reference": "CmRaAAAA5amO9toBUAd7w0m-ppof9ZxP806Zqh2VIif7y69OiDHDQ-FZqm_qxM3j-hwXhoP6vg93SxdQFQz9QidId83xdz5hpW18IKiItosE3IjwNq7Ch8QIkTKiomb2jxB20e29EhD1jklHwyAKkFLvOc4rvSNEGhQkuHQBQW24q-l8kVOKT8YTaoQX3w",
+            "width": 2592
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAACqCc2sEEBrcIufZ8dE60B5MEIAOqWdKyXSAZ4fOek9vOv7TejUCuEy51TUVd9e_jaalujjnDOvyhnvnM0GnGzZYcyraO35GsGFisvQKhLfQ3XLt6Nj5lYkrF8fAy00SFEhA4xDZ2mpC0T5h97aMIGvofGhS5mJOFej3EppnWyGhcU-y-vWLdPQ",
+            "width": 2988
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAYEIJHtOIrig0YVt1D9ACeFKML4lr0rN54FuQCa7J4H6GVZ2cXjXS7MaN5GJpY4JchIpUt9-mS_6xeGgvsumH50XKic835UzLvmZyi2nRHxX_4bQs0_vFA1P1nOcPpX1CEhD1luru5XSjryfOjwHNsCm2GhSGu4illArmUenU_0gYlL4NMj3mkg",
+            "width": 2560
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAk_kHKDoA1giNiOxSSJkKHKc9U6d-zbmWahdukyhJYuwQ3ETuk1ojUi4vS9zdOkRmx-3BFhoTxDgmXqBIIGDjoNto21uggvZV4CBc6ACpla3eOtSGN7aCUEqeOYrowEyREhBv-mP02vdiwFl0D21LPwQ-GhQ2enkRz8qVH5WLbB4oANOmiitEpw",
+            "width": 2988
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103980008453602113919/photos\">Mia&#39;s Bathhouse For Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAxcxPVCcJnwU4UGJftDGXSarOrniNgJLJmdKlLbjAeqCN2hg9XNR24ryRT47q3qESKCUlNUErb6Acwr0hC0YyzjTPJO2Ir6n0QIG1p1EbgrfQEL131yFDJdSw67FwetIlEhCLxaXR7Zyyuawtgd5jf5oUGhTVyiRk9cIhUEY53WQs6NvqUbjM6Q",
+            "width": 2560
+        },
+        {
+            "height": 3735,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115848342321294927650/photos\">Mias Bathhouse for Pets</a>"
+            ],
+            "photo_reference": "CmRaAAAAINs68-W6PQG0edb1IL8mJ-alSke9mZ-A9mvwgpRyq8DAJdUN-ASKj9m92Qg1tpuGIVC9sguw0O_8nhaYXpQ25bpvQGOtv0hkFzamB8pnEHLoQpEjXOynsCr-zHu52W5QEhDN8W9ooHWRnVAIJHqotHp9GhSREHRv3GgPAiGry4MAAUdDmZdAVA",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJMVtHTnn2wokRscKxUjS_ntM",
+    "plus_code": {
+        "compound_code": "R3F5+4H New York, United States",
+        "global_code": "87G8R3F5+4H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJMVtHTnn2wokRscKxUjS_ntM",
+    "reviews": [
+        {
+            "author_name": "Caroline Carr",
+            "author_url": "https://www.google.com/maps/contrib/109281274416888894874/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-w6fEMvBq-jQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZwv9VtNQcJtSmxEe88xwngO6Z-ug/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great experience! I\u2019ve passed Mia\u2019s Bathhouse several times while walking my dog in the evenings so decided to give it a try. \n Deidre was extremely helpful in demonstrating how to use the equipment, she\u2019s obviously a true animal lover. \nThe staff is friendly and prices are reasonable.",
+            "time": 1540320515
+        },
+        {
+            "author_name": "Jose Marquez",
+            "author_url": "https://www.google.com/maps/contrib/107839579196157996521/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-F6EzMo32jfI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaz8PXTXme4JfvmkgQdMYprdz0xrg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Not 100% satisfied with my dogs haircut. The first two time they did a good job. Recently I really was upset with the way they styled my dog. I asked for a puppy cut and she came out looking like a lion.",
+            "time": 1535939394
+        },
+        {
+            "author_name": "D. Gray",
+            "author_url": "https://www.google.com/maps/contrib/112670594410599898399/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-sS3rUXsqMeo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcatbYywWAvtL8EfX8jnvw1XK_be8g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "While visiting my daughter  in New York i needed a place to take the dog for a bath. Called Mia's and they were very happy to to accommodate our late arrival. The owner was very professional and explain how to use the machines  etc  If you live in NY I highly recommend Mia's for self service pet cleaning. They also provide the service as well.",
+            "time": 1526163139
+        },
+        {
+            "author_name": "Jeffrey Kahn",
+            "author_url": "https://www.google.com/maps/contrib/107444501799996003507/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4kw7W2VlKdI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZQh3Fv79hJ5Jj-LybzHf-4Hu-gUw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Solid prices, very professional and kind staff. They were thoughtful with my dog-aggressive dog and kept the shop clear and safe for her and others. Thorough cleaning and fur removal on the bath special. Would highly recommend this groomer and will be returning!",
+            "time": 1516731981
+        },
+        {
+            "author_name": "Elbrick Lupy",
+            "author_url": "https://www.google.com/maps/contrib/104811271920664645096/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RK8S848Dzgw/AAAAAAAAAAI/AAAAAAAAACw/ISELQfwjX8M/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "This is the worst place went there  to groom my dog give a appointment for 2pm and and then they cancell they don't honor they word I wait for almost 2 hours 20 minutes before the appointment call me to change it they just loose a customer said place wow",
+            "time": 1542566350
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15248835619769664177",
+    "utc_offset": -300,
+    "vicinity": "247 West 145th Street, New York",
+    "website": "http://www.miasbathhouse.com/"
+}

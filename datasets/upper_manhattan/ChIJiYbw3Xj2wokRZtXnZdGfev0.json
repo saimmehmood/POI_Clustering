@@ -1,0 +1,315 @@
+{
+    "address_components": [
+        {
+            "long_name": "163",
+            "short_name": "163",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">163 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "163 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-9200",
+    "geometry": {
+        "location": {
+            "lat": 40.821609,
+            "lng": -73.93829099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8228478302915,
+                "lng": -73.93702276970849
+            },
+            "southwest": {
+                "lat": 40.8201498697085,
+                "lng": -73.9397207302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dbeedd13331009e909ae7d6e66481b87597e74aa",
+    "international_phone_number": "+1 212-281-9200",
+    "name": "Harlem Dental Care",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAhkYnN4g_SEGno0R7_EKN6VeIe21hnXgai0runadkJGmspMGoOH0jxYXUJJuPIuN4toD5oGUMP108tfUaQfJmXQmLqvmUZ4De0Q9JQDmdTHwB8OrEz_Re6B3XMtiQ_8VvEhCq6xupaUZ3yjLtwnAmM1xsGhTjRJXvZzGafDezBSliGqdaByT_bg",
+            "width": 5184
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108258590706343440244/photos\">Enrico Zanardo</a>"
+            ],
+            "photo_reference": "CmRaAAAABYk-Cv38XlUur1iIpd2-JuTm0gDCTz0H250vUEA7dxMiI89Mkk58B3K-63le7IbMM6tcztjQ8jCBhcJ_7DrvsKgyB6FOAq143nbNI8UuBO5CK_cht0lPBo9Scs0qT_TTEhDj-xgHGwEllUKaNcDYmX6EGhQmIeT7JofmO55SPQahya0h8_Mbcw",
+            "width": 4032
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAj2FXrgyC9iD0TAopQePLq5AHVb5KmGkZPzI2jCzYjFENDeBYJHVqMZnfLA_Nz_rcSDIpgdH3Zz-FROF1gC_XJbDpge8vcjQSvkwZnFZMvXGhn4HkvW6TZAwQ6gO7Q6SAEhB1quozDNrx-VCuQuqkI6cPGhThs87UPGJizQBEwrqJcQGnvQ-ckw",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAA5EakyMsEEgxE2xnBBZ3U4p_RqnZI1Zg0-3OXdDPgAK2uIdHqtdrhw8q2xaOaQon6sayTVVcTw0R13KujpQkbooX91sQ7J0nvnMVYsjyyp2bw8ZZyI3xxSWlNqnydXJ6zEhDHrRWC0S5sjcAwrVBLd82hGhSESU1EzjbTCCC36_ipHjVFG2Fo8w",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAkmONkJL_ajEfNTj2xbRRd36Ec1eE_Vn_6M_ce5zQWdgVwrHFdSu5d2ZEHkMNVWcpgvsaOHhq9nvuWTY1ZRwEcsNXBE5Ur30w4pYW9L48YaqFSZY77vZ1Ft3CEHgMfyF_EhDRqp4natOxunGXEttdHHEqGhRti3FBwEbG76wwefBlS99H70okMw",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAalRXTx2hXE-iHhvmsI8Nk-YA9jW8c8xlWUzXrktbsYmmwghl069KA7Q24TZkMsJvii_9qUuDk-YxAxrE1UEelph7NmK9B456VF9SfkJVR9IrCClpbjEio-ldPl5kpZlhEhALevEKtBPmkXpUYB9kRv9_GhRIJnf6-4LMLRoD5kloMIJC8kDuiA",
+            "width": 5184
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108667015142286768466/photos\">nazar shcheglov</a>"
+            ],
+            "photo_reference": "CmRaAAAARAsVvGTGBkvVzxi1Wm_Ct4-TNIDJGrUt2N8FEnEdCSpqxqeN4gXeyqN0jaKgcb7pYjg9B4qt6maV2TmqyJGtGvL8jbE4K6CAtEfvuYZTwCJ6wL_n9efZPaiJNuQhFaGoEhD19ntD0pDrIP90lZdJNQWFGhQ3ZLhN2W2fHQ6a5YSF9wgJjeWZvw",
+            "width": 2016
+        },
+        {
+            "height": 853,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAuJrFIJ4i0BLotMu3hhRyIWQfFZxCrqHPAoNm5S_BdPDIHgXO9VejvHmqAJr1U7s3xe0FaIlUXmjJZlKl6n_WVIjZ7vR05U5hv_zzwTGMUVIwHYU0Rtcznug_hXLHPfW9EhBRW4MqoWCAj9BuKSb_aMl6GhS3OFmfHb4T2zy_w_KfssFvelQigQ",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAiclp23bQWTeFf5FmbPfFMicrx03pOwqDf_zD1QdvAIS4elBzHP1SDTsnhIk783chCPcsGdE2M_DTaDmvbPmPTaFWNuBZqGXv5Z4w9t1dBCraRvoQkdv5JW7CLTkiLcWMEhD6cFKhtjBfrJcIrATde8HzGhTMhVb0dFzrqz5h2394r6Opo1Wynw",
+            "width": 1280
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116783325498894134868/photos\">Harlem Dental Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAxA0XyClcHr6VMeMWl1tzXPNc1cwT05Z_5eySOnRf_xhn5cJDYKtF7-e6lgpKaqSR_wmOXg83vCh38YZubrkhbO3Iy199buvRxaFWIlXDcZsx8rfsiivkRibiKtBVabN9EhDiHnrkSDXqF2kcnOJvy9CKGhQmNC7YQztNwQHzVsTvnuueLMeK6g",
+            "width": 5184
+        }
+    ],
+    "place_id": "ChIJiYbw3Xj2wokRZtXnZdGfev0",
+    "plus_code": {
+        "compound_code": "R3C6+JM New York, United States",
+        "global_code": "87G8R3C6+JM"
+    },
+    "rating": 4.8,
+    "reference": "ChIJiYbw3Xj2wokRZtXnZdGfev0",
+    "reviews": [
+        {
+            "author_name": "Tanizigia Brown",
+            "author_url": "https://www.google.com/maps/contrib/109408812473826648065/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HPYAwRJlKwU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZPg2mOHhgAyS19WosVKG91W2hEbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I had a Wonderful experience. Very pleasant and professional staff.  Highly recommended. PAINLESS",
+            "time": 1545413420
+        },
+        {
+            "author_name": "Jenny inoa",
+            "author_url": "https://www.google.com/maps/contrib/107603552208116002035/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Y1spAQ6NJeU/AAAAAAAAAAI/AAAAAAAAIdA/si_mZTZJTB0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I had the best experience at this office. Literally once I came in I was greeted by the front desk and immediately tended to. My wait time was so short. I was seen by Dr. Cheung. He was amazing.He filled in all my cavities and did my cleaning . I felt absolutely nothing . He had amazing bed side manners. He gave me helpful information to continue to improve my oral hygiene. My cleaning was done carefully and thoroughly. I would definitely be coming back and bringing my children with me!! Highly recommend this place!",
+            "time": 1530628181
+        },
+        {
+            "author_name": "Nkeka Pinheiro",
+            "author_url": "https://www.google.com/maps/contrib/112503238516686486991/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-72nS_IQOhb4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaETeR6oWtnsbUo1OHBCUCIagx5cg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Excellent! I went to Harlem Dental about a week ago to get an extraction from Dr Cheung and an implant from Dr Nazar. The two of them worked quickly and painlessly. My personal favorite was the front desk. These ladies are hilarious and welcoming. They offered to hold my baby girl during the procedure. Thanks again!! The price was affordable for both procedures. I would recommend this establishment to any and all.",
+            "time": 1530628375
+        },
+        {
+            "author_name": "Mejia Vince",
+            "author_url": "https://www.google.com/maps/contrib/105742933865496062109/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-T3EyvSoenXs/AAAAAAAAAAI/AAAAAAAAA10/PL3ButnPLrQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very affordable cool staff and the wait time is not long.",
+            "time": 1541536155
+        },
+        {
+            "author_name": "Darrell Tanner",
+            "author_url": "https://www.google.com/maps/contrib/107606666808126040999/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PkeWKL7jLMQ/AAAAAAAAAAI/AAAAAAAADt4/LStxHGoUstI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The service here was great, I was seen by Dr. Cheung and highly recommend him. In addition to this I believe what separates a great experience from an exceptional experience at any office is the front desk. The front desk receptionists are amazing and well informed, I highly recommend them and their service!!! AMAZING!",
+            "time": 1530634923
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18265086960461141350",
+    "utc_offset": -300,
+    "vicinity": "163 West 145th Street, New York",
+    "website": "http://www.harlemdentalcare.com/"
+}

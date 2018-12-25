@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "265",
+            "short_name": "265",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">265 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "265 Edgecombe Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-9227",
+    "geometry": {
+        "location": {
+            "lat": 40.82404889999999,
+            "lng": -73.94380439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8253581802915,
+                "lng": -73.9423601197085
+            },
+            "southwest": {
+                "lat": 40.8226602197085,
+                "lng": -73.9450580802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5ec742f32c440729e3f7ce83be33c370829b4b98",
+    "international_phone_number": "+1 212-234-9227",
+    "name": "MTP Operating Corporation",
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103740159785070890122/photos\">Yisroel Sabel</a>"
+            ],
+            "photo_reference": "CmRaAAAAnRUy4RShg62G0QSKzy0wbUmmEPzidynUDlMU5bZZF5YRkxlPfF9NN2b4OK-mdKyXtno979XHruiqAxBuLrT0zEWl8U9JBQLoM48D9BP3dVsHif6t9Q7LGyd7F-bSDUqyEhCWB-63XFFPRTVH1Y-8nkApGhR-Meq_LiUzGuPnHlMDkmfvME5QDg",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJMRBnfHz2wokR5FbN70STxhQ",
+    "plus_code": {
+        "compound_code": "R3F4+JF New York, United States",
+        "global_code": "87G8R3F4+JF"
+    },
+    "rating": 5,
+    "reference": "ChIJMRBnfHz2wokR5FbN70STxhQ",
+    "reviews": [
+        {
+            "author_name": "\u0411\u043e\u0433\u0434\u0430\u043d \u041b\u0435\u0432\u043a\u0456\u0432",
+            "author_url": "https://www.google.com/maps/contrib/112526533024340829355/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jMbJtu32Q8E/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbTyNJpSuvNGxYQRBMBwzQQkCav7w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Very nice customer service",
+            "time": 1531425286
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1497045850437539556",
+    "utc_offset": -300,
+    "vicinity": "265 Edgecombe Avenue, New York",
+    "website": "https://mtpparking.com/garages/mtp-operating-corp/"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "691-629",
+            "short_name": "691-629",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">691-629 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "691-629 St Nicholas Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8226584,
+            "lng": -73.9454398
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82478760000005,
+                "lng": -73.9440907697085
+            },
+            "southwest": {
+                "lat": 40.82052919999995,
+                "lng": -73.9467887302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5226820b0ee1f94f708c740fdb168978694514ce",
+    "name": "691-629 St Nicholas Ave",
+    "place_id": "ChIJS8_qcnv2wokRyaz0rClbmGE",
+    "reference": "ChIJS8_qcnv2wokRyaz0rClbmGE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=691-629+St+Nicholas+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67b72eacf4b:0x61985b29acf4acc9",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,287 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101 W 135th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81416919999999,
+            "lng": -73.9409257
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8155227302915,
+                "lng": -73.93957326970849
+            },
+            "southwest": {
+                "lat": 40.8128247697085,
+                "lng": -73.9422712302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "e15e5c20015d8296b33ed50d87f5754df6c7f175",
+    "name": "Palomino Halal Food",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 4:00 AM",
+            "Tuesday: 10:00 AM \u2013 4:00 AM",
+            "Wednesday: 10:00 AM \u2013 4:00 AM",
+            "Thursday: 10:00 AM \u2013 4:00 AM",
+            "Friday: 10:00 AM \u2013 4:00 AM",
+            "Saturday: 10:00 AM \u2013 4:00 AM",
+            "Sunday: 10:00 AM \u2013 4:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAEK-DiHI-z_v07eRCfSOCV-GOgR55jUxAcPB36Zm9_xUqtmQICA4WD9hNBtglV8Ai4p64wM7-93MBlGlFeZx0OxBGUiy_FTKm4P_LTfT3y6N-TeQLu6tZQ2Aqum17hhjJEhC-WfOS2afp75TOkkbIffypGhQSQ_HdHoBtseqOXI0HxAe2oaQ4Ng",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112238291738719405139/photos\">Lincoln Wettenhall</a>"
+            ],
+            "photo_reference": "CmRZAAAASBHczAPm7sSB6zLHCXztCxBbvFcgI_p-5LlIYpTIrAzoc4kfE3fiMJyCND7GgCkB_DLvYIQWQttaDPraEejUFYLXkS0JeTctCLFqlNFICSOSodEN6ZuYgb3D8JWWpU8vEhAo6AZAEbhm_qmvixmaM3sJGhS90SQSzZTuXYA2MmV5a4kcJl23Hw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAYzjdwYpfUcKVZVbwFlv8Ej8WZj7j8-dK1_3h-32HCc-JPQJ7oCzNMt8NLDIGjKyRmqFcLLXr0EJRT12nyUTqt9k1da-aXXHzv3_SfYjr7swgRTmA-e6EfBC2mDa8tGlBEhCfDUkn0FUtqegnA_qQbLlCGhTV6x2IweSVdU3GRPElwKMjTbfkgw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112566489492407362903/photos\">Willy Gil</a>"
+            ],
+            "photo_reference": "CmRaAAAAx5uqL2_XrlCoerIur76V6Bzy-_jxDpb9RLUD0dFw60CqxnxVTABNxIHYv60Jny0dzupFSf3OXZ2pCDJZssKX3hvlrndFrH8qFw5Zq6ALg6E5dscOM4Ey2ocONK_NKqkoEhA-2N9-jzYfWY03hPaSHzX2GhSusG7fEOLcrBqVQaHGM2GrsgiV9Q",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAADbz-WI-UAT9G6rrqoHi4dCZJAsvNNDHvPtu6B7xTqRzQoLMP8dug942o9b_I-UnwFQ6woOqqsBkkWa4ysD5IcyAvSticwHOgYArHHlVGj2gxW9-2zK8OSBDR0ui38HNjEhDlQ6_cQbXfzJGX8KzIja_hGhTIncJ5bkc3SEd0L97XfDUlg5PMFg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAMJRjSuBPgfpC5P7YPHqP-Xq8sjXgPM6xbDYPUQJLh3ybPONHA0parOCj6CEfEJ9AYTc9Bm2FmIPikFhWcgt9f2rkAvgzSJCztiYl3I98dvJCHWYRUyr-tmOuz002wRoAEhDvOAys6yyoATvk5gLUAGtcGhTAL57j46YOwmZt9Rdb3_SxFHKumg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAw6PO7KmbbCapj0cIoMq0gm2Vr9QasY_r3fzyr8k6KAU2Ay477o88eDxwFQc1SagiV4GwZwVxmF-51lZPMltjUBzgX2VYlyrIdZZ30yYT1LmJq7PxXgJFkYfW7l8Ub7WbEhCwCnsPR33jT6M-mhYdv0nnGhQMrh6mvXiNNcUHZ49sjZdnjfAg2g",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJjWvMu3b2wokRGMYTSG-mxvg",
+    "plus_code": {
+        "compound_code": "R375+MJ New York, United States",
+        "global_code": "87G8R375+MJ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJjWvMu3b2wokRGMYTSG-mxvg",
+    "reviews": [
+        {
+            "author_name": "Lincoln Wettenhall",
+            "author_url": "https://www.google.com/maps/contrib/112238291738719405139/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ivSw9zut4wk/AAAAAAAAAAI/AAAAAAAAA1g/RaEISUGNmRo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Good 24 hour halal option in Harlem, proximity to the hospital keeps the food turnover good and fresh. Lamb/Chicken and Rice with chopped pita over are my to go options here.",
+            "time": 1536732958
+        },
+        {
+            "author_name": "Ruwan J.",
+            "author_url": "https://www.google.com/maps/contrib/117808460219123378764/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PbaaRBNYbhk/AAAAAAAAAAI/AAAAAAAAACU/iQf1g7FnKQQ/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "Palomino Halal Food Truck is your PAL. the food is tasty and wallet-friendly.\n\nLarge orange Halal food truck parked on the corner of Malcolm X Boulevard and 135th St, right outside the subway entrance in front of the NYPL. Clean-looking truck. Brightly lit. Two guys manning it. Consistently at this location from morning to night.\n\nLarge menu of off-the-grill eats from meat over rice and gyros to burgers and fries and more. The aroma of chicken over rice is enticing. Well-spiced chicken + fluffy rice + the chopped lettuce & lettuce. Can't go wrong here...and only $5. Most meat + rice dishes are more than ample for lunch, dinner, or late night h/anger attack.\n\nFor savory snacking--my go-to is the mozzarella sticks. $3. Fried up hot. you get 5-6 sticks fried up crispy on the outside and ooey gooey stretchy cheese on the inside. Perfecto. You can asked the mozz sticks to be topped with sauce eat-em plain. \n\nService? Quick and friendly.\n\ndrops mic cuz i can't talk with my mouth full",
+            "time": 1516032750
+        },
+        {
+            "author_name": "Willy Gil",
+            "author_url": "https://www.google.com/maps/contrib/112566489492407362903/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ExG3B7hjuco/AAAAAAAAAAI/AAAAAAAABA0/HobjGYrUCy4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Open 365 days.",
+            "time": 1531155999
+        },
+        {
+            "author_name": "Andrea Lacayo",
+            "author_url": "https://www.google.com/maps/contrib/104736502959376236210/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1UoS5kzwuwE/AAAAAAAAAAI/AAAAAAAABy8/OxM6vIWWoe0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1537132773
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17926198363675674136",
+    "utc_offset": -300,
+    "vicinity": "101 West 135th Street, New York"
+}

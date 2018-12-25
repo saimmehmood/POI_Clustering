@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4104",
+            "short_name": "4104",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4104</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-1006",
+    "geometry": {
+        "location": {
+            "lat": 40.82189160000001,
+            "lng": -73.9400363
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82329808029151,
+                "lng": -73.9386451697085
+            },
+            "southwest": {
+                "lat": 40.82060011970851,
+                "lng": -73.9413431302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "43d0662137f3548bf8334ce333b5b670d32bb830",
+    "international_phone_number": "+1 212-281-1006",
+    "name": "Radio Church of God Gospel",
+    "place_id": "ChIJt406PHn2wokRnD0SOML_JjI",
+    "plus_code": {
+        "compound_code": "R3C5+QX New York, United States",
+        "global_code": "87G8R3C5+QX"
+    },
+    "reference": "ChIJt406PHn2wokRnD0SOML_JjI",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3613856960640859548",
+    "utc_offset": -300,
+    "vicinity": "220 West 145th Street, New York"
+}

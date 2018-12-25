@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "450-400",
+            "short_name": "450-400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450-400 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450-400 W 147th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8256783,
+            "lng": -73.94462610000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82702723029149,
+                "lng": -73.9432771197085
+            },
+            "southwest": {
+                "lat": 40.82432926970849,
+                "lng": -73.9459750802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "aee54c5666ad9a670779e614cba91f4052226304",
+    "name": "450-400 W 147th St",
+    "place_id": "ChIJSaAQV3z2wokRmq9ivofQZbA",
+    "reference": "ChIJSaAQV3z2wokRmq9ivofQZbA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=450-400+W+147th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f67c5710a049:0xb065d087be62af9a",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

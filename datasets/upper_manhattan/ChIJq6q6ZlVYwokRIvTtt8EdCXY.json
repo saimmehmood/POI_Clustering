@@ -1,0 +1,311 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "503",
+            "short_name": "503",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">503 W 148th St #3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "503 W 148th St #3, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 222-2843",
+    "geometry": {
+        "location": {
+            "lat": 40.8276114,
+            "lng": -73.9465665
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288399302915,
+                "lng": -73.9453063197085
+            },
+            "southwest": {
+                "lat": 40.8261419697085,
+                "lng": -73.94800428029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c30fa61b78da3c4f6dd46d23714a014f2ff8a27d",
+    "international_phone_number": "+1 212-222-2843",
+    "name": "Skyward Steel",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAArkXfZvKHX3Ecot7OI8h91bDguNi8BljusUY_e7iYl1mmW8E_gITRtGNLWDsx2nvhCEL3VfP2lg4JKE_-1_1ymbjMGUgChxL5yG6a-mz_t8-5lb_b_adUaxB3vzUjflf7EhAc9v8ia_3aB9cyFYPIMzPbGhRSa1Mz_HF38G0IM6_NVgP3DEkopA",
+            "width": 7952
+        },
+        {
+            "height": 1122,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAYGkxwX4aRfA5p9SKsGy33fZZmrJym4nXakO0A4mU3nXLfOtYgawdOwLfLuixMNjNKRiUz4o4uQymLVCuAlFcye4lQITCGBaEXewRsQf1FcdfDkFgRurzib7wHH5HwdtvEhDa1LTXIUOWgp8nMuwumeP1GhT7QDDpwXG63TjUpVfRl1RfBmn2eg",
+            "width": 1646
+        },
+        {
+            "height": 5090,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAA4OxIRhBvKes4t_bkgQaNs0f_ZhYt3boFeO-JYJJFOjaVBB9PMuCWo3g7xP0TG3Xt5lqJAIt2pOI-r34Alz6y1g_f0OO0yhopFWlLvdKnE3UvpBG_md1cafvPHJYIbYgjEhBZzMUFuBk3WDMLmn3rJOGbGhR209V0gqbPZ8n_SZ851_a8cgANdg",
+            "width": 3393
+        },
+        {
+            "height": 2351,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAqKpL3u6H1Dnd_G_wt8fYx3hjZECmkoqIsYVXH6U2pYDCGV4gplKcTAcP9l1fIXCF9r8wy1xVCK_dC9Xi3mn_G1sZQy0Vq1cM7C-ShN2y54v2-AeBBFYP8YknqewZcmBcEhC3OgRfytLrbS5na-iwjSmPGhTTHQIpE7sEMXZwHZ5JQMGMS74IrQ",
+            "width": 2351
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAAgM960VZH2Rqnw0CklJHyLnRLIPFFzSKoQRod_LuyreNyXq2t8JQL8m-1cMVKymmBOABUTKi_EcToHGPufZdxYdK3yjPtCMwSVAoUCUh4HlYdYsAwctxeGFa1fx3iJljEhAPfD9rvJxxxvjf76UMvvvvGhQTWbBu6lmNLiNIMoEyRCBGtjf7ag",
+            "width": 5472
+        },
+        {
+            "height": 2585,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAu5mppVsKbFlfvKnksc1lDQpmNd-tXKfikhcz0G02B2U4fi2NCQbhZ-C_mQwZwyzJ09LKGkQTJT9JyMezbg5ZTID5uJVQrc4ETcw8DVgmvRc9zoEKQKSIZAwEp3Fk0ozOEhA0qX1A1H_M6uRUTdOeQnZWGhSBiA_AwIfIwJTE_Hq_oTwtQf4V_A",
+            "width": 2585
+        },
+        {
+            "height": 7074,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAARaiRQa9G3E5CQnUgsWvj1r59HNSmGBFaTZZeR2DMStsJWPXheWaZQLpybXWtw7n21a2fNR33V8VTYsN2HOPBTDouMSW91-I8DNAvXioNuNBBvKat_diswgyP2T2sRyjVEhDI1JuptC9GypWzjZ6-MWHwGhT36Sk9nkkBA-maqP5IVY9YPC_r7A",
+            "width": 4734
+        },
+        {
+            "height": 3632,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAjUxNDkFPRzxmvCUpabQZ-NPX9wMWNTxE4ggLANtgY6f4HQJzDDgnbkjir8Ah5RjVkART61iOfcNfvAdvJ0z3vqDeun2AiRlxue_M4Bb45RwGXvNzPeFI8O0KBgoGUu9fEhCeInd9cOFEjo3bduDQpuCUGhSB4gpiagIcsOvX2a98z3KCRLUYjA",
+            "width": 5456
+        },
+        {
+            "height": 1136,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAAyhPfcljrOdBV5JxEv55c09YxOWrHaeuamdPI2dnFGClXWuLtJgbsLTkKHgvt82LH_XbcnbGEEqFZ_F_wXfdXOqhGamKCkl_xjHqLiKN7Y6ydPlgQYFOyY-vi-XiehAfvEhC-rP3hEPG93eQeB03ctKv4GhR0O16Og82Fnv5jU1_cnsluXIv3dQ",
+            "width": 1776
+        },
+        {
+            "height": 3626,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101227603156019422652/photos\">Skyward Steel</a>"
+            ],
+            "photo_reference": "CmRaAAAArLG1NepxTiBITh-nU266xYD8yWrPMnllZy_K3I0X8zn-APc6yHefjnDBapGli1PTDbqLY8wV7HW9LgN6iJDg153MR66Vx8xR0fZTCtVSBAzF-IAsiEz8_2Ij-ibaiO2oEhCKNo5kkQhMVCVIPfnMJmRPGhQJ6ZmLXpXsFdw1twfh0PvfD7snOQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJq6q6ZlVYwokRIvTtt8EdCXY",
+    "plus_code": {
+        "compound_code": "R3H3+29 New York, United States",
+        "global_code": "87G8R3H3+29"
+    },
+    "rating": 5,
+    "reference": "ChIJq6q6ZlVYwokRIvTtt8EdCXY",
+    "reviews": [
+        {
+            "author_name": "Katy su",
+            "author_url": "https://www.google.com/maps/contrib/112127663279142447215/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ThoYi-WelfM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcadnzm-MYa_ec48rOIqhmKw2DeeFw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "It\u2019s very hard to find people you feel you can fully trust in the NYC real estate scene. Lauren was amazing!! She was very patient, took the time to answer all my questions, and found me a variety of options in my budget. I will definitely contact her in the future with any of my apartment hunting needs",
+            "time": 1540219887
+        },
+        {
+            "author_name": "Robert Holland",
+            "author_url": "https://www.google.com/maps/contrib/107564816923840412779/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zSKw9X5QFsw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYvCX81yDP3xrS5Zu0p2oEL_PQbZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "My broker, Lauren, was extremely accommodating. With a packed schedule at work, I only had limited time to look for an apartment and she was always able to fit me in! Incredible service for a town known for its shady real estate. Thanks!!!!",
+            "time": 1539882566
+        },
+        {
+            "author_name": "Maggie Bryant",
+            "author_url": "https://www.google.com/maps/contrib/116385687053336394964/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PzfrSLUIBy4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbzu47i5nbO4qN7nzxvgsNny8UEQQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Lauren could not have been more helpful in our apartment search. I came into the city from NJ on two separate occasions, and each time, Lauren was kind enough to squeeze us last minute into her schedule to see a few different places. She truly accommodated and worked around our limited time frame. She quickly got a sense of what we were looking for and we ended up with an amazing place. I will definitely be recommending her to anyone looking to move in the area.",
+            "time": 1534262900
+        },
+        {
+            "author_name": "Mark Brathwaite",
+            "author_url": "https://www.google.com/maps/contrib/102126861874617172968/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_vC2vOihHGo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY9PUIWlga-9lm7kXit6moevdLyZA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I'm new to the city and was dreading the New York apartment hunt after hearing so many horror stories. Couldn't have been happier to have met Lauren, who was very attentive to my needs and found me an apartment that far exceeded my expectations. Hats off!",
+            "time": 1539917566
+        },
+        {
+            "author_name": "Timothy van Dover",
+            "author_url": "https://www.google.com/maps/contrib/115967021017998410543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dw-T72NKLTU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYb99VTWTxsVQFDVT4Xbrb_LCgYGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Lauren De La Fuente was an excellent broker and helped my roommates and I to navigate the competitive housing market and find a great place!",
+            "time": 1534443257
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8505362089117611042",
+    "utc_offset": -300,
+    "vicinity": "503 West 148th Street #3, New York",
+    "website": "http://skywardsteelnyc.com/"
+}

@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "212",
+            "short_name": "212",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4104",
+            "short_name": "4104",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">212 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4104</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "212 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-5820",
+    "geometry": {
+        "location": {
+            "lat": 40.82180389999999,
+            "lng": -73.93982439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82320993029149,
+                "lng": -73.93843361970848
+            },
+            "southwest": {
+                "lat": 40.82051196970849,
+                "lng": -73.94113158029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d481f22aa859c2a85f2157a77325985be2fc51f1",
+    "international_phone_number": "+1 212-283-5820",
+    "name": "Hair & Body Control",
+    "photos": [
+        {
+            "height": 1632,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111604489290231535063/photos\">Jeanette Massey</a>"
+            ],
+            "photo_reference": "CmRaAAAADZiBBw28jb5QCepq_usZ6JcTgdvLwZlhKmhreObBOxRdRO7eO6r0pLA4OxuYVKpWT-ffAbSzxb4OM6QiOI-goKVOtTZzyC7MM2VifgJa2HchIO9fVE-9SJxJy_8zBtXqEhDxuheGInVeVs5foZYyeL7dGhT_8aF7POGSRP_SfTL-aMoBtF5CJg",
+            "width": 976
+        },
+        {
+            "height": 654,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111604489290231535063/photos\">Jeanette Massey</a>"
+            ],
+            "photo_reference": "CmRaAAAAAExcRv2CkXZ4HFJSZqZlbmSPYoOm7iM88zhts0QLcoTS2hrbhvmINbmATfDp7AvcJWPA8WWRVSfSDK1vCndQYmdj5JjmNEHjofHwV06oXxK2yHPdHK6GzfMvaQAaREt9EhAyWPxT40Vzs5AG1D76snJLGhSu3TkmCz_0Thynz0xE7RVQc--UDg",
+            "width": 654
+        }
+    ],
+    "place_id": "ChIJIzJJPHn2wokRR4NcT3gozw0",
+    "plus_code": {
+        "compound_code": "R3C6+P3 New York, United States",
+        "global_code": "87G8R3C6+P3"
+    },
+    "reference": "ChIJIzJJPHn2wokRR4NcT3gozw0",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=995058539864818503",
+    "utc_offset": -300,
+    "vicinity": "212 West 145th Street, New York"
+}

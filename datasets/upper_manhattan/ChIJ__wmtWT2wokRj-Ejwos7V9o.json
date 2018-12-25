@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "302",
+            "short_name": "302",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6323",
+            "short_name": "6323",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">302 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6323</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "302 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 731-6499",
+    "geometry": {
+        "location": {
+            "lat": 40.822978,
+            "lng": -73.94760769999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243039802915,
+                "lng": -73.94620251970849
+            },
+            "southwest": {
+                "lat": 40.8216060197085,
+                "lng": -73.9489004802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "1e41bd117a257231231088b47c98943d568e4aae",
+    "international_phone_number": "+1 646-731-6499",
+    "name": "Holeness Enterpirse Daley",
+    "place_id": "ChIJ__wmtWT2wokRj-Ejwos7V9o",
+    "plus_code": {
+        "compound_code": "R3F2+5X New York, United States",
+        "global_code": "87G8R3F2+5X"
+    },
+    "reference": "ChIJ__wmtWT2wokRj-Ejwos7V9o",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15733109294685741455",
+    "utc_offset": -300,
+    "vicinity": "302 Convent Avenue, New York"
+}

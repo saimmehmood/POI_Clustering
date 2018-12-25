@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "140",
+            "short_name": "140",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2402",
+            "short_name": "2402",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">140 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-2402</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "140 Bradhurst Ave, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 694-4835",
+    "geometry": {
+        "location": {
+            "lat": 40.825879,
+            "lng": -73.9406769
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8272784802915,
+                "lng": -73.93944936970851
+            },
+            "southwest": {
+                "lat": 40.8245805197085,
+                "lng": -73.94214733029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3c7861c64091c540137585fde8dbf54aa88e1c4b",
+    "international_phone_number": "+1 212-694-4835",
+    "name": "Langsaom Properties",
+    "place_id": "ChIJiQX3Y372wokRB283MoBpAcA",
+    "plus_code": {
+        "compound_code": "R3G5+9P New York, United States",
+        "global_code": "87G8R3G5+9P"
+    },
+    "reference": "ChIJiQX3Y372wokRB283MoBpAcA",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13835455529578098439",
+    "utc_offset": -300,
+    "vicinity": "140 Bradhurst Avenue, New York"
+}

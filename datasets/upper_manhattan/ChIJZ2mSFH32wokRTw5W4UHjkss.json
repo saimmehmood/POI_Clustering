@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1779-1797",
+            "short_name": "1779-1797",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1779-1797 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1779-1797 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.827463,
+            "lng": -73.94598789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8288119802915,
+                "lng": -73.94463891970851
+            },
+            "southwest": {
+                "lat": 40.8261140197085,
+                "lng": -73.94733688029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8e9f85c27d30185cb8b69caceb48d9f393333d99",
+    "name": "1779-1797 Amsterdam Ave",
+    "place_id": "ChIJZ2mSFH32wokRTw5W4UHjkss",
+    "reference": "ChIJZ2mSFH32wokRTw5W4UHjkss",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1779-1797+Amsterdam+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67d14926967:0xcb92e341e1560e4f",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

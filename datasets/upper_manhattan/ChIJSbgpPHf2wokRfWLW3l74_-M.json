@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "117",
+            "short_name": "117",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Odell Clark Place",
+            "short_name": "Odell Clark Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2342",
+            "short_name": "2342",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">117 Odell Clark Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2342</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "117 Odell Clark Pl, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 939-9520",
+    "geometry": {
+        "location": {
+            "lat": 40.816713,
+            "lng": -73.940495
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8179680802915,
+                "lng": -73.93921596970848
+            },
+            "southwest": {
+                "lat": 40.8152701197085,
+                "lng": -73.94191393029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "385267c7ca670c7d324a96987f5b21ded3a2ebcb",
+    "international_phone_number": "+1 212-939-9520",
+    "name": "Ant & Nicos Ent Comm LLC",
+    "place_id": "ChIJSbgpPHf2wokRfWLW3l74_-M",
+    "plus_code": {
+        "compound_code": "R385+MR New York, United States",
+        "global_code": "87G8R385+MR"
+    },
+    "reference": "ChIJSbgpPHf2wokRfWLW3l74_-M",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16429123052020064893",
+    "utc_offset": -300,
+    "vicinity": "117 Odell Clark Place, New York"
+}

@@ -1,0 +1,94 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "W 150th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.826896,
+            "lng": -73.9419196
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282809302915,
+                "lng": -73.94054531970849
+            },
+            "southwest": {
+                "lat": 40.8255829697085,
+                "lng": -73.9432432802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9b20669738aba9525658451b277059b9668bc3bb",
+    "name": "The Belvedere",
+    "place_id": "ChIJX4yQ3332wokRDVxmDcZJ1ic",
+    "plus_code": {
+        "compound_code": "R3G5+Q6 New York, United States",
+        "global_code": "87G8R3G5+Q6"
+    },
+    "reference": "ChIJX4yQ3332wokRDVxmDcZJ1ic",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2870562927472434189",
+    "utc_offset": -300,
+    "vicinity": "West 150th Street, New York"
+}

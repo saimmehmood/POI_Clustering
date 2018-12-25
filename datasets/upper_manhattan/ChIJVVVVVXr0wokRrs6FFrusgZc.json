@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(718) 367-7368",
+    "geometry": {
+        "location": {
+            "lat": 40.81267909999999,
+            "lng": -73.9408818
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81404888029149,
+                "lng": -73.93963126970849
+            },
+            "southwest": {
+                "lat": 40.8113509197085,
+                "lng": -73.9423292302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "77bb8a999f1ac15e5eddafc9bd3733ca1ba3e937",
+    "international_phone_number": "+1 718-367-7368",
+    "name": "Sassoon Realty Management",
+    "place_id": "ChIJVVVVVXr0wokRrs6FFrusgZc",
+    "plus_code": {
+        "compound_code": "R375+3J New York, United States",
+        "global_code": "87G8R375+3J"
+    },
+    "reference": "ChIJVVVVVXr0wokRrs6FFrusgZc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10917196891259522734",
+    "utc_offset": -300,
+    "vicinity": "470 Lenox Avenue, New York"
+}

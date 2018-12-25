@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82284299999999,
+            "lng": -73.941703
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8241531302915,
+                "lng": -73.9403824697085
+            },
+            "southwest": {
+                "lat": 40.8214551697085,
+                "lng": -73.9430804302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "5fff11f4a8ac7ae174ab2799c2e5f7018686c536",
+    "name": "W 145 St/Fred Douglass Blvd",
+    "photos": [
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110105404176014067554/photos\">Cheik Grimeyy</a>"
+            ],
+            "photo_reference": "CmRaAAAAa_nW7ujYGvx6IkTTg5DOaBhhtrkUULHo_gslwkaWPw1Zy7wuqiK4vK_s0bdm5KaQyzD12GLmN9wpvt03WmQxTxlO94KUykY_lsNvqFCIwd7te_axdVGr0NvdYgmpnpe4EhC-0ZrpWlNPoFlWQaoBjTs6GhSwbuFwObNqacmJgXUHO-VjjkRcGw",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJiSdRVnn2wokRyGOhv99BkWw",
+    "plus_code": {
+        "compound_code": "R3F5+48 New York, United States",
+        "global_code": "87G8R3F5+48"
+    },
+    "reference": "ChIJiSdRVnn2wokRyGOhv99BkWw",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7823106456967799752",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

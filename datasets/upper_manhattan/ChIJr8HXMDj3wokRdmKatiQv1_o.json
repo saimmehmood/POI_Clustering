@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 146th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(646) 240-3646",
+    "geometry": {
+        "location": {
+            "lat": 40.8237258,
+            "lng": -73.94162779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82502683029151,
+                "lng": -73.9403142197085
+            },
+            "southwest": {
+                "lat": 40.82232886970851,
+                "lng": -73.9430121802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65210071fa92f679c5564ed1157fdae32dd69a99",
+    "international_phone_number": "+1 646-240-3646",
+    "name": "Sullys Beauty Salon",
+    "place_id": "ChIJr8HXMDj3wokRdmKatiQv1_o",
+    "plus_code": {
+        "compound_code": "R3F5+F8 New York, United States",
+        "global_code": "87G8R3F5+F8"
+    },
+    "reference": "ChIJr8HXMDj3wokRdmKatiQv1_o",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18074967464203674230",
+    "utc_offset": -300,
+    "vicinity": "301 West 146th Street, New York"
+}

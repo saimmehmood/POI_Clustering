@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "189",
+            "short_name": "189",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "521",
+            "short_name": "521",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">521 W 146th St #189</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "521 W 146th St #189, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82670359999999,
+            "lng": -73.9483123
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82794158029149,
+                "lng": -73.94704691970848
+            },
+            "southwest": {
+                "lat": 40.82524361970849,
+                "lng": -73.94974488029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "63f2d2e015b092e133fedf80a1233c5fcc9d5d79",
+    "name": "Kcore Analytics LLC",
+    "place_id": "ChIJ-f_T12L2wokRoMbcr21Zzi0",
+    "plus_code": {
+        "compound_code": "R3G2+MM New York, United States",
+        "global_code": "87G8R3G2+MM"
+    },
+    "reference": "ChIJ-f_T12L2wokRoMbcr21Zzi0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3300673904545941152",
+    "utc_offset": -300,
+    "vicinity": "521 West 146th Street #189, New York",
+    "website": "http://kcore-analytics.com/"
+}

@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8187085,
+            "lng": -73.9413353
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8200574302915,
+                "lng": -73.9399862697085
+            },
+            "southwest": {
+                "lat": 40.8173594697085,
+                "lng": -73.9426842302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e5eea4a148034ebead0554d0af4b5d08b6847218",
+    "name": "Adam Clayton Powell Junior Boulevard",
+    "place_id": "ChIJr8Sl-3n2wokR5g2RUBvHNOQ",
+    "reference": "ChIJr8Sl-3n2wokR5g2RUBvHNOQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Adam+Clayton+Powell+Jr+Blvd,+New+York,+NY+10030,+USA&ftid=0x89c2f679fba5c4af:0xe434c71b50910de6",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

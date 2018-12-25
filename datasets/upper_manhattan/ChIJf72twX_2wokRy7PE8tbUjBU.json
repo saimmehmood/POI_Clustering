@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "56 1/2",
+            "short_name": "56 1/2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Macombs Place",
+            "short_name": "Macombs Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">56 1/2 Macombs Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "56 1/2 Macombs Pl, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8265584,
+            "lng": -73.93759519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8279631802915,
+                "lng": -73.93629171970849
+            },
+            "southwest": {
+                "lat": 40.82526521970851,
+                "lng": -73.9389896802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "4e1a37e144bbf0305404861e22206c16ba144281",
+    "name": "Harlem Juice Bar",
+    "place_id": "ChIJf72twX_2wokRy7PE8tbUjBU",
+    "plus_code": {
+        "compound_code": "R3G6+JX New York, United States",
+        "global_code": "87G8R3G6+JX"
+    },
+    "reference": "ChIJf72twX_2wokRy7PE8tbUjBU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1552849991197045707",
+    "utc_offset": -300,
+    "vicinity": "56 1/2 Macombs Place, New York"
+}

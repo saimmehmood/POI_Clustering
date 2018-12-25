@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "219",
+            "short_name": "219",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2801",
+            "short_name": "2801",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">219 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2801</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "219 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 548-0451",
+    "geometry": {
+        "location": {
+            "lat": 40.8159701,
+            "lng": -73.9448726
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172599802915,
+                "lng": -73.94356711970849
+            },
+            "southwest": {
+                "lat": 40.8145620197085,
+                "lng": -73.9462650802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6b76036c94c3c396318160efa70a5b59b4e360b7",
+    "international_phone_number": "+1 646-548-0451",
+    "name": "Friends of the Family Academy",
+    "place_id": "ChIJu4tIqHH2wokRxTPEF64nYQk",
+    "plus_code": {
+        "compound_code": "R384+93 New York, United States",
+        "global_code": "87G8R384+93"
+    },
+    "reference": "ChIJu4tIqHH2wokRxTPEF64nYQk",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=675865047758812101",
+    "utc_offset": -300,
+    "vicinity": "219 West 135th Street, New York"
+}

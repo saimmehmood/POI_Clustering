@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3003",
+            "short_name": "3003",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-3003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 507-5414",
+    "geometry": {
+        "location": {
+            "lat": 40.8126417,
+            "lng": -73.9409774
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140223802915,
+                "lng": -73.93968456970849
+            },
+            "southwest": {
+                "lat": 40.8113244197085,
+                "lng": -73.9423825302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "e2ec82e9eaed764989fea919cb90e92a893d12d8",
+    "international_phone_number": "+1 917-507-5414",
+    "name": "Graham Isaac B",
+    "place_id": "ChIJKw1lEHT2wokRTuZiY-zvVxs",
+    "plus_code": {
+        "compound_code": "R375+3J New York, United States",
+        "global_code": "87G8R375+3J"
+    },
+    "reference": "ChIJKw1lEHT2wokRTuZiY-zvVxs",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1970307160556627534",
+    "utc_offset": -300,
+    "vicinity": "470 Malcolm X Boulevard, New York"
+}

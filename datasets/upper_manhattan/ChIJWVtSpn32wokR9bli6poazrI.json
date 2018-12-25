@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "421-437",
+            "short_name": "421-437",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">421-437 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "421-437 Convent Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8268785,
+            "lng": -73.9446066
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282274802915,
+                "lng": -73.94325761970849
+            },
+            "southwest": {
+                "lat": 40.8255295197085,
+                "lng": -73.94595558029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "32752daf10d9b3fbf296ebec8e4fdf44d3b5e4a9",
+    "name": "421-437 Convent Ave",
+    "place_id": "ChIJWVtSpn32wokR9bli6poazrI",
+    "reference": "ChIJWVtSpn32wokR9bli6poazrI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=421-437+Convent+Ave,+New+York,+NY+10031,+USA&ftid=0x89c2f67da6525b59:0xb2ce1a9aea62b9f5",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

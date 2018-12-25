@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "3555-3541",
+            "short_name": "3555-3541",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3203",
+            "short_name": "3203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3555-3541 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3555-3541 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8267145,
+            "lng": -73.9503926
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8280634802915,
+                "lng": -73.9490435697085
+            },
+            "southwest": {
+                "lat": 40.8253655197085,
+                "lng": -73.95174153029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "db765c1c5938bce1adb3414dc299b15ae95de698",
+    "name": "3555-3541 Broadway",
+    "place_id": "ChIJ4chHAWP2wokR0ASc_2KcR0w",
+    "reference": "ChIJ4chHAWP2wokR0ASc_2KcR0w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3555-3541+Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f6630147c8e1:0x4c479c62ff9c04d0",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

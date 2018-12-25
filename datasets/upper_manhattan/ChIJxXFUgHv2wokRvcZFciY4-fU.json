@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 4G",
+            "short_name": "# 4G",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "680",
+            "short_name": "680",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1082",
+            "short_name": "1082",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">680 St Nicholas Ave # 4G</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1082</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "680 St Nicholas Ave # 4G, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-9653",
+    "geometry": {
+        "location": {
+            "lat": 40.82374670000001,
+            "lng": -73.9446206
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251331302915,
+                "lng": -73.94340956970849
+            },
+            "southwest": {
+                "lat": 40.8224351697085,
+                "lng": -73.9461075302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65af6bf2dfa3dc3804991519592e8b878f444a7a",
+    "international_phone_number": "+1 212-281-9653",
+    "name": "Eridania Marmol Multiple Services",
+    "place_id": "ChIJxXFUgHv2wokRvcZFciY4-fU",
+    "plus_code": {
+        "compound_code": "R3F4+F5 New York, United States",
+        "global_code": "87G8R3F4+F5"
+    },
+    "reference": "ChIJxXFUgHv2wokRvcZFciY4-fU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17724259546270385853",
+    "utc_offset": -300,
+    "vicinity": "680 Saint Nicholas Avenue # 4G, New York"
+}

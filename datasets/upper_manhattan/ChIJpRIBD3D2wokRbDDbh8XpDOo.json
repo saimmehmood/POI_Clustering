@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Edgecombe Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 491-2924",
+    "geometry": {
+        "location": {
+            "lat": 40.8186826,
+            "lng": -73.9469663
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8200003302915,
+                "lng": -73.9455427697085
+            },
+            "southwest": {
+                "lat": 40.8173023697085,
+                "lng": -73.9482407302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5d430519c2c6f26c9ae3254a3447f25b19d0242f",
+    "international_phone_number": "+1 212-491-2924",
+    "name": "St Marks Federal Credit Union",
+    "place_id": "ChIJpRIBD3D2wokRbDDbh8XpDOo",
+    "plus_code": {
+        "compound_code": "R393+F6 New York, United States",
+        "global_code": "87G8R393+F6"
+    },
+    "reference": "ChIJpRIBD3D2wokRbDDbh8XpDOo",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16865111739192782956",
+    "utc_offset": -300,
+    "vicinity": "55 Edgecombe Avenue, New York",
+    "website": "http://www.stmarksfcu.com/"
+}

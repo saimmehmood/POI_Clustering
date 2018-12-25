@@ -1,0 +1,258 @@
+{
+    "address_components": [
+        {
+            "long_name": "#1",
+            "short_name": "#1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "255",
+            "short_name": "255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3141",
+            "short_name": "3141",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">255 W 148th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3141</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "255 W 148th St #1, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-8118",
+    "geometry": {
+        "location": {
+            "lat": 40.8247521,
+            "lng": -73.9401525
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260437802915,
+                "lng": -73.9388458697085
+            },
+            "southwest": {
+                "lat": 40.8233458197085,
+                "lng": -73.94154383029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "ba8b68ce2fb8041d574ea0c1c7e1a2147e6b0716",
+    "international_phone_number": "+1 212-283-8118",
+    "name": "Jing Hui",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0030"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0030"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 11:30 PM",
+            "Tuesday: 11:00 AM \u2013 11:30 PM",
+            "Wednesday: 11:00 AM \u2013 11:30 PM",
+            "Thursday: 11:00 AM \u2013 11:30 PM",
+            "Friday: 11:00 AM \u2013 12:30 AM",
+            "Saturday: 11:00 AM \u2013 12:30 AM",
+            "Sunday: 12:00 \u2013 11:30 PM"
+        ]
+    },
+    "place_id": "ChIJ9WF57H72wokRAsAa_maLoMc",
+    "plus_code": {
+        "compound_code": "R3F5+WW New York, United States",
+        "global_code": "87G8R3F5+WW"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ9WF57H72wokRAsAa_maLoMc",
+    "reviews": [
+        {
+            "author_name": "Tequira Coles",
+            "author_url": "https://www.google.com/maps/contrib/111343958845185404189/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-NWvCf45U7KQ/AAAAAAAAAAI/AAAAAAAAViE/DIoTCM2lPEQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "They don't season their chicken except for with black pepper. I used to really like their food when I first moved here 5/6 years ago until they changed it... I eat there every now and then but only when I don't feel like walking to 145st.",
+            "time": 1542078808
+        },
+        {
+            "author_name": "jetaime asia",
+            "author_url": "https://www.google.com/maps/contrib/112965289781855392604/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BafGsWoaDu8/AAAAAAAAAAI/AAAAAAAAcNo/rvOxv5DcHQg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "One of the worse chinese food restaurants in Harlem. Bad chicken wings. Nasty iced tea. Gooey general tso chicken, bad lo mein.",
+            "time": 1545268244
+        },
+        {
+            "author_name": "Brandy Williams",
+            "author_url": "https://www.google.com/maps/contrib/103647260057725984215/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QFgUvmWscFk/AAAAAAAAAAI/AAAAAAAAANE/e6eIEnjVqc4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Food is always fresh and has a quality of taste. Staff is great as well when ordering.",
+            "time": 1541944319
+        },
+        {
+            "author_name": "Joseph Bain",
+            "author_url": "https://www.google.com/maps/contrib/109351469366108686048/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-o8NtVTNTVxQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYgNJ9g-RZfpv9DtlsR_oO-nYB9Uw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Chinese restaurant has taken visa in the pads an advertised it but said cash only. They are funny an their food is on the blan ruff side",
+            "time": 1543966118
+        },
+        {
+            "author_name": "Barry Wilson",
+            "author_url": "https://www.google.com/maps/contrib/110603592243690788102/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-E_5j6eKaonU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca9VxbRkhZv_oixzpUlKVSFHcxJXg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Solid solid - best take out chinese in Harlem - It could be it is right across the street.  My wife says three stars I rated 4 at least a 3.5.  Here is what I like the soups are all great.  Their Kung Pao chicken, Orange Flavored Beef and Sesame Chicken are more than passable I think.  Not Hunan Park or Shun Lee - awesome but nonetheless when jammed we go there.  The spring rolls are crisp and delightful.  I never have problems asking and getting hot sauce or hot mustard.  Their soul food is more than passable.  I loved their chicken gizzards.  They made to die-for scallion pancakes - won't make them anymore.   The lady at the front is a hoot.  When in need to Chinese in Harlem go there",
+            "time": 1531568068
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14384650484287455234",
+    "utc_offset": -300,
+    "vicinity": "255 West 148th Street #1, New York",
+    "website": "http://www.jinghuinyc.com/"
+}

@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "204",
+            "short_name": "204",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3002",
+            "short_name": "3002",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">204 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "204 W 134th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8146357,
+            "lng": -73.9450779
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161259802915,
+                "lng": -73.9436246697085
+            },
+            "southwest": {
+                "lat": 40.8134280197085,
+                "lng": -73.9463226302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1645b326e9681e40a8d21087bfbeafb71b9d261",
+    "name": "District 620 - S.E.N.Y - Area 49",
+    "place_id": "ChIJ0ceMnHH2wokR6YMYO0zxu30",
+    "plus_code": {
+        "compound_code": "R373+VX New York, United States",
+        "global_code": "87G8R373+VX"
+    },
+    "reference": "ChIJ0ceMnHH2wokR6YMYO0zxu30",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9060100385097155561",
+    "utc_offset": -300,
+    "vicinity": "204 West 134th Street, New York",
+    "website": "http://aadistrict620.org/"
+}

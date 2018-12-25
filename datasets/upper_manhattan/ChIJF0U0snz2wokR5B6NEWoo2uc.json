@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "474",
+            "short_name": "474",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">474 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "474 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(347) 756-8669",
+    "geometry": {
+        "location": {
+            "lat": 40.824853,
+            "lng": -73.947448
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8263275802915,
+                "lng": -73.94600706970849
+            },
+            "southwest": {
+                "lat": 40.8236296197085,
+                "lng": -73.9487050302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "de4430472dabf0b80a658ad76ff5998292c09006",
+    "international_phone_number": "+1 347-756-8669",
+    "name": "KINGKAY WAXING LOUNGE",
+    "place_id": "ChIJF0U0snz2wokR5B6NEWoo2uc",
+    "plus_code": {
+        "compound_code": "R3F3+W2 New York, United States",
+        "global_code": "87G8R3F3+W2"
+    },
+    "reference": "ChIJF0U0snz2wokR5B6NEWoo2uc",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16706710203710381796",
+    "utc_offset": -300,
+    "vicinity": "474 West 145th Street, New York"
+}

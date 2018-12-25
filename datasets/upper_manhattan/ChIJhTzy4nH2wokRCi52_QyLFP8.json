@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "2478",
+            "short_name": "2478",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7704",
+            "short_name": "7704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2478 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2478 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 368-6802",
+    "geometry": {
+        "location": {
+            "lat": 40.8149991,
+            "lng": -73.947616
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81633953029149,
+                "lng": -73.9462467697085
+            },
+            "southwest": {
+                "lat": 40.81364156970849,
+                "lng": -73.9489447302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7461e94fcfb16e90bc86c001ac3071feaef74770",
+    "international_phone_number": "+1 212-368-6802",
+    "name": "Africart Motherland Inc",
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109173927558237072206/photos\">Leonel Montiel</a>"
+            ],
+            "photo_reference": "CmRaAAAAtvMB6qYJCHHepuwIu7ekJifBSPJBLleahQc9a69hyiLci0_ZfKxmhD59GMmWUYofApoMX0IsEr_2n46Ry2wYfcuZv7mFMFGy0F_ppWJafWrwTVDGDAUJbDRMGy22ZVUiEhAXBHOtqCeg_HUZgFIsTQUmGhTCfCY3cSPjrLMhRcUNIBLr655rwQ",
+            "width": 2340
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109173927558237072206/photos\">Leonel Montiel</a>"
+            ],
+            "photo_reference": "CmRaAAAADBQDMDtKqBFrhfF50y9oeQRjgKg1fGlKHnn-Gw_yP7Z4jHwTjMdYWLSVUlWKehHrAE3N6_C3-dx0PO_KKqzCbgKCY0Wcj96Jd4bcXUshkrFyRT28kgkTjrTx_OfwinoqEhD3y63E7k2Xd0V4NnKp3bEVGhSQk347H5e636DLq29HHAUuYhp24Q",
+            "width": 2340
+        }
+    ],
+    "place_id": "ChIJhTzy4nH2wokRCi52_QyLFP8",
+    "plus_code": {
+        "compound_code": "R372+XX New York, United States",
+        "global_code": "87G8R372+XX"
+    },
+    "reference": "ChIJhTzy4nH2wokRCi52_QyLFP8",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18380468867114085898",
+    "utc_offset": -300,
+    "vicinity": "2478 Frederick Douglass Boulevard, New York"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "8E",
+            "short_name": "8E",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "2265",
+            "short_name": "2265",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2265 5th Ave #8E</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2265 5th Ave #8E, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8140627,
+            "lng": -73.9364812
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8154456802915,
+                "lng": -73.9352123697085
+            },
+            "southwest": {
+                "lat": 40.8127477197085,
+                "lng": -73.9379103302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1efae384316890ca9990a3ce8fa1530b98ad3024",
+    "name": "Natasha Ashley Nutrition",
+    "place_id": "ChIJ7V-yI3b2wokROploLrdmtGM",
+    "plus_code": {
+        "compound_code": "R377+JC New York, United States",
+        "global_code": "87G8R377+JC"
+    },
+    "reference": "ChIJ7V-yI3b2wokROploLrdmtGM",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7184480242506438970",
+    "utc_offset": -300,
+    "vicinity": "2265 5th Avenue #8E, New York",
+    "website": "http://natashaashleyrd.com/"
+}

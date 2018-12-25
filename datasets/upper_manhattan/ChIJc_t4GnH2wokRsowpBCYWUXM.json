@@ -1,0 +1,318 @@
+{
+    "address_components": [
+        {
+            "long_name": "2300",
+            "short_name": "2300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2300 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2300 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 368-9765",
+    "geometry": {
+        "location": {
+            "lat": 40.8156066,
+            "lng": -73.9439178
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169049802915,
+                "lng": -73.9424472697085
+            },
+            "southwest": {
+                "lat": 40.8142070197085,
+                "lng": -73.9451452302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "3e2276a9ffe4b1a244cb8bfc974cf045df386bdf",
+    "international_phone_number": "+1 646-368-9765",
+    "name": "Popeyes Louisiana Kitchen",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 11:30 PM",
+            "Tuesday: 10:30 AM \u2013 11:30 PM",
+            "Wednesday: 10:30 AM \u2013 11:30 PM",
+            "Thursday: 10:30 AM \u2013 11:30 PM",
+            "Friday: 10:30 AM \u2013 12:00 AM",
+            "Saturday: 10:30 AM \u2013 12:00 AM",
+            "Sunday: 10:30 AM \u2013 11:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAAf5UHiCAGyX37bMSrZCpkPhu_lOpqUxygNEl1F8zaH9P5ErSz4AVbJ8gJRFjpXGqemLlCEBqVGyHJD0EsUHdz74Zefz0n0en1Dg18R4o_b-d0fGEidSUns-w0xi_cOjKxEhBrrwtq8STsPZ7Xo3JUiLDbGhQGNn2_gc100pYMKUrPa2Qrqubsvw",
+            "width": 600
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAAAIYdtfsZO1NLYykL651p5rBSoscMdZh99R_5GWvaCzsrOSEqInRTaBJyNbHNKUOdI9sYuJlGRP_DMBkvOBZW-EL5kmSKx7nDdZcNoUt4Ne7x5ewtMgctLGGSRNylrdP6EhD53H8q49FA0pciA5MoIm3aGhQao5PK916GONpi1htYfASze-sRTQ",
+            "width": 600
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAAzyjXFis7FjOOOvMFP4M6OcakTp-zjlMicacKfKNK1PDv0miVO79aamF9ZlHoj9qUoMz0g26WBISTZZPx59bskXyAyO_MOuQdI9hSbT5FhvdYJHkpZTdWR1R-H9_s2-mCEhAcEjnACNU54FTXYsnhag2vGhSonOz0NdaQZv5wfaY7-aAEt01Y4w",
+            "width": 600
+        },
+        {
+            "height": 2250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109322640809256884081/photos\">Santiago Trevi\u00f1o</a>"
+            ],
+            "photo_reference": "CmRaAAAAs8jVZ8ht0uTZ4Ckq0tKu2R0snpEsQGDA4U4NLThJuVyHkJevNi4gOKW1CoDNmQUze9uElUNwvHB5YkF0EK8Rg9XYHxOevviPvrerEnYaymN3kLgegaCdEXADs08DeTd2EhD1Q1gPJCXvoLO65LulLCU5GhS_o6hfo4hYB2YVwUSICrAzH6NBpw",
+            "width": 4000
+        },
+        {
+            "height": 451,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAA4DQIHRerE4ZGPDCnSfNpVcsYaa0bIEvNdTFFWFNMj02gw66y2ddiCY7kDWWA-rm-3V2NKPmZLyjRz-P3LM_pcfgeUrSMayf1lEN1iQF0_Yfa_pxCM1kRpCutJtQxw5EMEhB3ld45HdcznVgkVUCfILjqGhQtbVppueBcYw4iIvq5AaMU8uu6Ig",
+            "width": 600
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAASeoWYQuP2JeyAMMXBmdeDYKsh9qRzHRdgo77T8JPhg1nkPW9K1RT3HDAee-QWUFyLrig1-ZQh80OPf0bx7PKcVOU5t5fFLE7snfHF-XRTmNEanLx8inD__Ar-a4QLhuuEhBcAzrCdBsr9ZNECjCXkyjmGhRJR5Do7ZQVel_6ZXWx6ckD77aGCQ",
+            "width": 600
+        },
+        {
+            "height": 360,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112556980759670143790/photos\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Kq7VTs61v0O-mI38oA8GVR2Wp1zuhCIzD7eMLeexobUa0KkLU9E9CUNxDbG34kBuf1rRaxMizFeo1eDXQnm7kZVEniVXHScP7OzL1upMQeoTBtgXlMrY725MmD-tD1VEhBGbWiHp0Ns51MXLQAP4-LCGhTDRAIpAB2rC_rP26hKFSk_XnU1nQ",
+            "width": 360
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111935926387816468634/photos\">Jonathan M</a>"
+            ],
+            "photo_reference": "CmRaAAAAL21jOn0CFkO2CIvu2x56qaDNhYWv4UBwd07Z8Wc50vNaCA_AlwPMot7OCIGAW9UI1yqRRh8a-PzQ4DtjSvbcgXSgiud_aImS2hN3zlMnfXoBwL4oJqs73G0JLVmyLUAjEhAQXO_VnZbY5MLyLGEZdpFiGhSKI7wqp9JVs4LdhHgTy9SrWDE6uA",
+            "width": 2160
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116936014685071266054/photos\">KamaliAahil</a>"
+            ],
+            "photo_reference": "CmRaAAAAowAg_3hb8J5dRISMXRHUTpjv15Tg5b92ffnABI681-S-HYsHLRqxUJnsPQ7-r7t5nIcD-FvYBdYLqmNjXvkrM_mf-5KI0FaK9Zj2UGGOzhR32-pk7VYswrI_Vgs5cKteEhDiDOvOE_pFy9-y5G1fO8O_GhS4NRU5vBBEQuD7mQuDUV5OHZ6wLg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJc_t4GnH2wokRsowpBCYWUXM",
+    "plus_code": {
+        "compound_code": "R384+6C New York, United States",
+        "global_code": "87G8R384+6C"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJc_t4GnH2wokRsowpBCYWUXM",
+    "reviews": [
+        {
+            "author_name": "Brett Cline",
+            "author_url": "https://www.google.com/maps/contrib/112929023942103711181/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-fVIcHfHj7j8/AAAAAAAAAAI/AAAAAAAAB-g/4AMCmTrYA9g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a week ago",
+            "text": "Typical fried chicken place, food is decent. ALWAYS homeless people inside, asking for money and generally ruining the experience. Will find somewhere else to get my fix...",
+            "time": 1544581945
+        },
+        {
+            "author_name": "Brian DeRoberts",
+            "author_url": "https://www.google.com/maps/contrib/109887221130326745085/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-EwNo-z9xht4/AAAAAAAAAAI/AAAAAAAASsQ/IzHhPgwB4KQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Get the fried chicken. You'll love it. Just dont ask for a side of syrup and waffles. I like it spicy.",
+            "time": 1544558230
+        },
+        {
+            "author_name": "Marjorie Darden",
+            "author_url": "https://www.google.com/maps/contrib/105474570304671321223/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ZKWn-iqoZVA/AAAAAAAAAAI/AAAAAAAAHtQ/6qNZPv95nIk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Food is horrible and taste rubbery",
+            "time": 1537272858
+        },
+        {
+            "author_name": "Tequira Coles",
+            "author_url": "https://www.google.com/maps/contrib/111343958845185404189/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-NWvCf45U7KQ/AAAAAAAAAAI/AAAAAAAAViE/DIoTCM2lPEQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I like their chicken wings a lot but don't eat it constantly because they're super expensive compared to the Chinese restaurants and how big their wings are compared for a cheaper price.",
+            "time": 1542078495
+        },
+        {
+            "author_name": "Madina Lewis",
+            "author_url": "https://www.google.com/maps/contrib/110011492657266608663/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aN1JwlWTXgc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaYsVUETRzDYVjRI1h9LL-Ft8ReFg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "They just reopened they\u2019re are really nice now \u2764\ufe0f\ud83d\udc4d\ud83c\udffd",
+            "time": 1521694121
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8309447140009675954",
+    "utc_offset": -300,
+    "vicinity": "2300 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://locations.popeyes.com/ny/new-york/10646/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places"
+}

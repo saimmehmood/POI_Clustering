@@ -1,0 +1,142 @@
+{
+    "address_components": [
+        {
+            "long_name": "2400",
+            "short_name": "2400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1848",
+            "short_name": "1848",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2400 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1848</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2400 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-6332",
+    "geometry": {
+        "location": {
+            "lat": 40.8188337,
+            "lng": -73.94163069999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201205302915,
+                "lng": -73.94013361970848
+            },
+            "southwest": {
+                "lat": 40.8174225697085,
+                "lng": -73.9428315802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5bf9bdb709ac8953491fccb61c0d4f22cc332bac",
+    "international_phone_number": "+1 212-862-6332",
+    "name": "Progressive Realty Association",
+    "photos": [
+        {
+            "height": 3968,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100555669739756057138/photos\">Gianluca Morino</a>"
+            ],
+            "photo_reference": "CmRaAAAAwC_Hzf3bybPPXpygyKOCtYNscymVCKgIoVTRP8hNAMf7Mmlb_daQUz4i9z_jj5ZoHhmoyc8tixfBLHt4JC42vgDfq-ACvzqEdc0ceXqi1AjtEZ_h-jj0pJI4Og-_e848EhDvzCCsycC5n_mVMJOlnPA8GhQ5UKqGKQ7S7pSpubm3Jg-atvcsKQ",
+            "width": 2976
+        }
+    ],
+    "place_id": "ChIJ189H-Xn2wokR_Iw4iR_M_OA",
+    "plus_code": {
+        "compound_code": "R395+G8 New York, United States",
+        "global_code": "87G8R395+G8"
+    },
+    "rating": 4,
+    "reference": "ChIJ189H-Xn2wokR_Iw4iR_M_OA",
+    "reviews": [
+        {
+            "author_name": "Sammie Seaman",
+            "author_url": "https://www.google.com/maps/contrib/117255024343257541088/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-knvndDdcrqM/AAAAAAAAAAI/AAAAAAAAAOA/mwqahvfa5Go/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "The staff needs improvement",
+            "time": 1509550804
+        },
+        {
+            "author_name": "Armani Clay",
+            "author_url": "https://www.google.com/maps/contrib/105132064714413628205/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-O6o-PE3SbJo/AAAAAAAAAAI/AAAAAAAAAgo/P_Dl4EOoBf0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1488638916
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16212057194445180156",
+    "utc_offset": -300,
+    "vicinity": "2400 Adam Clayton Powell Junior Boulevard, New York"
+}

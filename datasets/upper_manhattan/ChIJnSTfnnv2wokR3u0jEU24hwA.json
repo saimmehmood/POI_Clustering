@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "199",
+            "short_name": "199",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1142",
+            "short_name": "1142",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">199 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1142</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "199 Edgecombe Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 368-6767",
+    "geometry": {
+        "location": {
+            "lat": 40.822671,
+            "lng": -73.944656
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8239783302915,
+                "lng": -73.9431572197085
+            },
+            "southwest": {
+                "lat": 40.8212803697085,
+                "lng": -73.9458551802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "cb195d9612ee0456fd87dfc5d5dc849025c96038",
+    "international_phone_number": "+1 212-368-6767",
+    "name": "St Stephen's African Orthodox",
+    "place_id": "ChIJnSTfnnv2wokR3u0jEU24hwA",
+    "plus_code": {
+        "compound_code": "R3F4+34 New York, United States",
+        "global_code": "87G8R3F4+34"
+    },
+    "reference": "ChIJnSTfnnv2wokR3u0jEU24hwA",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=38201762995498462",
+    "utc_offset": -300,
+    "vicinity": "199 Edgecombe Avenue, New York"
+}

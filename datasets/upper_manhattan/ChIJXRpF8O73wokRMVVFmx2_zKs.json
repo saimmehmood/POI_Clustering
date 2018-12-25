@@ -1,0 +1,283 @@
+{
+    "address_components": [
+        {
+            "long_name": "532",
+            "short_name": "532",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">532 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "532 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 675-7582",
+    "geometry": {
+        "location": {
+            "lat": 40.8257689,
+            "lng": -73.9495982
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8272401802915,
+                "lng": -73.9481588697085
+            },
+            "southwest": {
+                "lat": 40.8245422197085,
+                "lng": -73.9508568302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "628d242d35a2ffa2a1f5040310a20d8801e0d4e3",
+    "international_phone_number": "+1 917-675-7582",
+    "name": "Mocana Bakery",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0500"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 9:00 PM",
+            "Tuesday: 5:00 AM \u2013 9:00 PM",
+            "Wednesday: 5:00 AM \u2013 9:00 PM",
+            "Thursday: 5:00 AM \u2013 9:00 PM",
+            "Friday: 5:00 AM \u2013 9:00 PM",
+            "Saturday: 5:00 AM \u2013 9:00 PM",
+            "Sunday: 5:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104736942072258963567/photos\">Jeffrey Lahens</a>"
+            ],
+            "photo_reference": "CmRaAAAAVABgmVASUT7o2kdoUlDpEQL0nxPD7ur6Piaa9lp0SWVHjQJxxWgbcRVAtrMMkcXBZ5XsQGQhdhXqvRy-xuKJJON1f-WjKpQIFbxPiZJSR15OZmv3BRNJDcgsLDfm2qQwEhDvSsaL-C6KzhXS1beMicQdGhTM0Mhaqa7FCCsT_ZDyH49N-8XYzw",
+            "width": 1920
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101920164529065890856/photos\">Jonathan Lloyd</a>"
+            ],
+            "photo_reference": "CmRaAAAABRVPkoNpiULmKQEshomF1NpRmkLvxm2YvgMATTsxGeb2BJ-fnGfxJrATqLRwVg0Hx5oh1c12pYuO36Ya5Pvok_E8N3QbgG_LhLSo8YKjeBlQRjv8hVox2-UNEgZwRAzjEhDl11o9Q5RUHryW0g_o63loGhSraniLlXLMTNJEAfqRCLvkg8TxRw",
+            "width": 1536
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104736942072258963567/photos\">Jeffrey Lahens</a>"
+            ],
+            "photo_reference": "CmRaAAAA0e04lXqI6MZ55My9qDOZ1Qy_AqtgExYi9jHjjEshTpShKalGYLfYzzVJveR7rO5gmwjAvkU6kQtWwMcF3rsrcQy4MY9bSICTF8rxdODlOOnbp2j2i12mCjkeaMpcbEvlEhCw588AX5Hgh7L1g7FYfXSnGhSNNV3Pw8oB3i8xsBNPrI6TGZjofQ",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104736942072258963567/photos\">Jeffrey Lahens</a>"
+            ],
+            "photo_reference": "CmRaAAAAftq-jeI9XFXAfl-I2oE9bmqF8wADVHh1RZyTfg9g4upkECYKKTI9t68Y7EdEuqcG32I9rKepBz_kZ2GphXCRDd5Ce-oUdEhaItWITWzPInya7p-ckuzqzhunAhvH_7mSEhCRPQUgQPLJ9E9udqSZAL_mGhRofsYYtY9OpkS-mk7Zzhb7BAQ-qg",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104736942072258963567/photos\">Jeffrey Lahens</a>"
+            ],
+            "photo_reference": "CmRaAAAAQhGCIGuxziB_G6i0rI7s0qnvaL7Q-HJF1YcQXufHZxEjIg55Jv3C5mEtQjUbT_XwdU6v2CChxxi0GbYZUiRjl3vppvr7kj-aISSFJrLGyb4FveugKUu2HdUMckDCow-pEhBQnitMq4XqvvAY2rlv1cnPGhT-zL6R-3Bn-wH0j03lS0oq5c0K-w",
+            "width": 1920
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104736942072258963567/photos\">Jeffrey Lahens</a>"
+            ],
+            "photo_reference": "CmRaAAAAGaBOKWoZEM6nvC6IKz6IsqitqlmgTAlyPap2P8eArfwuaEAusMuWMuSbrAmjtuqCluZJyWB9oNnMbWhc5sjJgrb6z_pB0FnbUCN1b9oemutyofTd7bEIliYYQxWjTXETEhDFV6zwK8jARpnxYP-d-EoQGhT1nmv2IMQZQjWWvR3a75J0R2NlhQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJXRpF8O73wokRMVVFmx2_zKs",
+    "plus_code": {
+        "compound_code": "R3G2+85 New York, United States",
+        "global_code": "87G8R3G2+85"
+    },
+    "rating": 3.3,
+    "reference": "ChIJXRpF8O73wokRMVVFmx2_zKs",
+    "reviews": [
+        {
+            "author_name": "Keith Abrams",
+            "author_url": "https://www.google.com/maps/contrib/101453383159779765786/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0nLb_VHcjoI/AAAAAAAAAAI/AAAAAAAAAGA/LPC7Ea3_MbA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I\u2019m so happy these guys are here. Delicious ham and Swiss pressed sandwich and real Dominican coffee. And the upside down pineapple cake is essential. Also the girls behind the counter are so nice. Forget the hipster overpriced garbage around town, have your coffee and breakfast here!",
+            "time": 1542731739
+        },
+        {
+            "author_name": "Jonathan Lloyd",
+            "author_url": "https://www.google.com/maps/contrib/101920164529065890856/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SbdSydi_yCk/AAAAAAAAAAI/AAAAAAAADHQ/2WI7Vs8gnSA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "I was anticipating the addition of this establishment to the neighborhood and finally got a chance to visit it tonight. What i was not anticipating was paying for stale products everything tasted old and freezer burnt . Will not be returning , i do how ever enjoy this prices if must say one nice thing. These gross cannolis were $2 bucks each !",
+            "time": 1541207008
+        },
+        {
+            "author_name": "Yosleonor Guzmcordeide",
+            "author_url": "https://www.google.com/maps/contrib/109519244870240706395/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-WWth1Z6fl50/AAAAAAAAAAI/AAAAAAAA1Gk/XAs7w0waVIk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love the egg bread, the pastelitos de Pollo, the Cubanitos, Quipes and all.  I go ever other day, the bread they bake is the daily bread in my household.  I am so happy it\u2019s back in the neighborhood.  They originally started on Bway and 144th but due to a horrific fire last year the were shut down.  It\u2019s even  bigger and more spacious than the original one.",
+            "time": 1541908451
+        },
+        {
+            "author_name": "Ruth Velazquez",
+            "author_url": "https://www.google.com/maps/contrib/114346451821217930640/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HcaoIMQn91s/AAAAAAAAAAI/AAAAAAAAAVA/u-JxpCKlpBw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Tengo que decir que me encanta esta bakery hasta que el 11/9/2018 fui a comprar un bizcocho para mi hija y cuando lo fui a partir ten\u00eda mojo \u00f3sea estaba podrido y cuando fui a reclamar la mujer me dijo q ella me av\u00eda explicado a mi que ese bizcocho acababa de salir ese mismo d\u00eda \u00f3sea q estaba fresco le dije solo dame mi dinero y no me digas mas nada it was gross and embarrassing for me and my family the cake has mold in it was there probably since they open that new store",
+            "time": 1542322303
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bakery",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12379479609614619953",
+    "utc_offset": -300,
+    "vicinity": "532 West 145th Street, New York"
+}

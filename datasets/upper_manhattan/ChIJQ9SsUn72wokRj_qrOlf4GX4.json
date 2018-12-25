@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "26B",
+            "short_name": "26B",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Macombs Place",
+            "short_name": "Macombs Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1807",
+            "short_name": "1807",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">26B Macombs Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-1807</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "26B Macombs Pl, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 491-6387",
+    "geometry": {
+        "location": {
+            "lat": 40.8258417,
+            "lng": -73.93887529999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8272933302915,
+                "lng": -73.9376089197085
+            },
+            "southwest": {
+                "lat": 40.8245953697085,
+                "lng": -73.9403068802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "416b2b25bb34f0a8a56b63a7cfc4d682b45ecbe6",
+    "international_phone_number": "+1 212-491-6387",
+    "name": "New Look Beauty Salon",
+    "place_id": "ChIJQ9SsUn72wokRj_qrOlf4GX4",
+    "plus_code": {
+        "compound_code": "R3G6+8C New York, United States",
+        "global_code": "87G8R3G6+8C"
+    },
+    "reference": "ChIJQ9SsUn72wokRj_qrOlf4GX4",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9086566776726878863",
+    "utc_offset": -300,
+    "vicinity": "26B Macombs Place, New York"
+}

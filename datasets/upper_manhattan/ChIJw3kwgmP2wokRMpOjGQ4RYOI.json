@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "545 W 143rd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 434-2049",
+    "geometry": {
+        "location": {
+            "lat": 40.824973,
+            "lng": -73.95078409999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8262923802915,
+                "lng": -73.94945731970849
+            },
+            "southwest": {
+                "lat": 40.8235944197085,
+                "lng": -73.95215528029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "acb678d78e52a3c3f908e7e10dfc035a137132a6",
+    "international_phone_number": "+1 646-434-2049",
+    "name": "America Pest Controlservice",
+    "place_id": "ChIJw3kwgmP2wokRMpOjGQ4RYOI",
+    "plus_code": {
+        "compound_code": "R2FX+XM New York, United States",
+        "global_code": "87G8R2FX+XM"
+    },
+    "reference": "ChIJw3kwgmP2wokRMpOjGQ4RYOI",
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16312056602593301298",
+    "utc_offset": -300,
+    "vicinity": "545 West 143rd Street, New York"
+}

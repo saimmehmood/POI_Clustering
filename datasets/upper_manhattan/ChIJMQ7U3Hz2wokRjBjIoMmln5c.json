@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "146 Bond St, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "146 Bond St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8258219,
+            "lng": -73.9464729
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270956302915,
+                "lng": -73.9451787197085
+            },
+            "southwest": {
+                "lat": 40.8243976697085,
+                "lng": -73.9478766802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d8923fe99a35619b7b0cbc41484c55bee1bced6d",
+    "name": "146 Bond St Parking",
+    "place_id": "ChIJMQ7U3Hz2wokRjBjIoMmln5c",
+    "plus_code": {
+        "compound_code": "R3G3+8C New York, United States",
+        "global_code": "87G8R3G3+8C"
+    },
+    "reference": "ChIJMQ7U3Hz2wokRjBjIoMmln5c",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10925633506428590220",
+    "utc_offset": -300,
+    "vicinity": "146 Bond St, New York"
+}

@@ -1,0 +1,169 @@
+{
+    "address_components": [
+        {
+            "long_name": "2340",
+            "short_name": "2340",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2340 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2340 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(201) 249-1670",
+    "geometry": {
+        "location": {
+            "lat": 40.816936,
+            "lng": -73.94301899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81822228029149,
+                "lng": -73.9415227697085
+            },
+            "southwest": {
+                "lat": 40.81552431970849,
+                "lng": -73.9442207302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "52f142887fcd0088628735f38de2ac24c73c42ab",
+    "international_phone_number": "+1 201-249-1670",
+    "name": "A Toddlers Daycare",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJVVYTxHD2wokR7jAdVfE1IPI",
+    "plus_code": {
+        "compound_code": "R384+QQ New York, United States",
+        "global_code": "87G8R384+QQ"
+    },
+    "reference": "ChIJVVYTxHD2wokR7jAdVfE1IPI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17447004267064668398",
+    "utc_offset": -300,
+    "vicinity": "2340 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://www.atoddlersdaycare.com/"
+}

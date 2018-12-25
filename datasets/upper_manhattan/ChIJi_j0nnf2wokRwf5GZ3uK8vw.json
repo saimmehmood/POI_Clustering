@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "580-594",
+            "short_name": "580-594",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1201",
+            "short_name": "1201",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">580-594 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "580-594 Lenox Ave, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81691,
+            "lng": -73.938722
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81825893029149,
+                "lng": -73.93737301970849
+            },
+            "southwest": {
+                "lat": 40.8155609697085,
+                "lng": -73.9400709802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "00248ed2cc320fc6b13d289d8511dde84e8068b6",
+    "name": "580-594 Lenox Ave",
+    "place_id": "ChIJi_j0nnf2wokRwf5GZ3uK8vw",
+    "reference": "ChIJi_j0nnf2wokRwf5GZ3uK8vw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=580-594+Lenox+Ave,+New+York,+NY+10037,+USA&ftid=0x89c2f6779ef4f88b:0xfcf28a7b6746fec1",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

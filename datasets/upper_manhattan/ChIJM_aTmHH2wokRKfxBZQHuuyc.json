@@ -1,0 +1,156 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "222 W 134th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-5915",
+    "geometry": {
+        "location": {
+            "lat": 40.8148764,
+            "lng": -73.9459305
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8164122802915,
+                "lng": -73.94444361970851
+            },
+            "southwest": {
+                "lat": 40.8137143197085,
+                "lng": -73.94714158029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "a54b82bdf956dffdfe30098423d037a39095784c",
+    "international_phone_number": "+1 212-690-5915",
+    "name": "P.S. 092 Mary McLeod Bethune",
+    "place_id": "ChIJM_aTmHH2wokRKfxBZQHuuyc",
+    "plus_code": {
+        "compound_code": "R373+XJ New York, United States",
+        "global_code": "87G8R373+XJ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJM_aTmHH2wokRKfxBZQHuuyc",
+    "reviews": [
+        {
+            "author_name": "Ayla Anjel",
+            "author_url": "https://www.google.com/maps/contrib/115322740781762880092/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zwFpW1-t298/AAAAAAAAAAI/AAAAAAAAZAk/02pyABNA3H0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "Because I worked there.\n",
+            "time": 1482810812
+        },
+        {
+            "author_name": "Tracy Smith",
+            "author_url": "https://www.google.com/maps/contrib/113397411485778194251/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BDjwouyE990/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca2JA2UPw-CA0xSmcJVbVeFFRSRcg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I go to this school\n",
+            "time": 1456751143
+        },
+        {
+            "author_name": "Geraldo Busanet",
+            "author_url": "https://www.google.com/maps/contrib/106010922988406965588/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-IfRsY_DzJ14/AAAAAAAAAAI/AAAAAAAABW8/DDrDhjhE7mI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Love this pizza",
+            "time": 1368809196
+        },
+        {
+            "author_name": "Kashauna Saunders",
+            "author_url": "https://www.google.com/maps/contrib/110636235840935434820/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-01tkA86788I/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYvlHb3LxPV9e3cZYUmrtm7aDbJFw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1526687040
+        },
+        {
+            "author_name": "Anthony Coles",
+            "author_url": "https://www.google.com/maps/contrib/106519776205806434873/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-V1sgb0IiPVo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcborAX0d2IBKF62T40KSNFIm6fn3A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1519087234
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2863143677885283369",
+    "utc_offset": -300,
+    "vicinity": "222 West 134th Street, New York",
+    "website": "https://www.schools.nyc.gov/schools/M092"
+}

@@ -1,0 +1,131 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 131st Street",
+            "short_name": "W 131st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2019",
+            "short_name": "2019",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 131st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-2019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 131st St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81310240000001,
+            "lng": -73.94598189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8143845802915,
+                "lng": -73.94468161970849
+            },
+            "southwest": {
+                "lat": 40.8116866197085,
+                "lng": -73.9473795802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "7a0afa3492c236b65a271c069ab2bb4159e88158",
+    "name": "Cardtronics ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJj27-NXL2wokRTd5AiJ21H48",
+    "plus_code": {
+        "compound_code": "R373+6J New York, United States",
+        "global_code": "87G8R373+6J"
+    },
+    "reference": "ChIJj27-NXL2wokRTd5AiJ21H48",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10313161359902170701",
+    "utc_offset": -300,
+    "vicinity": "201 West 131st Street, New York",
+    "website": "http://www.cardtronics.com/"
+}

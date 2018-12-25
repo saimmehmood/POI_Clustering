@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "574",
+            "short_name": "574",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2006",
+            "short_name": "2006",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">574 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2006</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "574 St Nicholas Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-4641",
+    "geometry": {
+        "location": {
+            "lat": 40.8196671,
+            "lng": -73.946688
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8210328802915,
+                "lng": -73.9454029697085
+            },
+            "southwest": {
+                "lat": 40.81833491970851,
+                "lng": -73.9481009302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dd99cd2d61818324e79b36857a5f30afcaa23ba8",
+    "international_phone_number": "+1 212-690-4641",
+    "name": "Hy Sync Communications",
+    "place_id": "ChIJg7keo3r2wokRaG8OiJTxaIA",
+    "plus_code": {
+        "compound_code": "R393+V8 New York, United States",
+        "global_code": "87G8R393+V8"
+    },
+    "reference": "ChIJg7keo3r2wokRaG8OiJTxaIA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9252911054672785256",
+    "utc_offset": -300,
+    "vicinity": "574 Saint Nicholas Avenue, New York"
+}

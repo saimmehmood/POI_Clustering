@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2655",
+            "short_name": "2655",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1536",
+            "short_name": "1536",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2655 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1536</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2655 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 283-5200",
+    "geometry": {
+        "location": {
+            "lat": 40.820884,
+            "lng": -73.943755
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82216898029149,
+                "lng": -73.94225226970849
+            },
+            "southwest": {
+                "lat": 40.8194710197085,
+                "lng": -73.9449502302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "573b535c99fa075a1581563f633052a49078acb2",
+    "international_phone_number": "+1 212-283-5200",
+    "name": "LD TAX SERVICES",
+    "place_id": "ChIJX0tsTHr2wokRjAQxAZND1tQ",
+    "plus_code": {
+        "compound_code": "R3C4+9F New York, United States",
+        "global_code": "87G8R3C4+9F"
+    },
+    "reference": "ChIJX0tsTHr2wokRjAQxAZND1tQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15336519879716045964",
+    "utc_offset": -300,
+    "vicinity": "2655 Frederick Douglass Boulevard, New York"
+}

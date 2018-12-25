@@ -1,0 +1,141 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 3",
+            "short_name": "# 3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "685",
+            "short_name": "685",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1013",
+            "short_name": "1013",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">685 Malcolm X Blvd # 3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1013</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "685 Malcolm X Blvd # 3, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 234-4262",
+    "geometry": {
+        "location": {
+            "lat": 40.81997070000001,
+            "lng": -73.93689189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8212846302915,
+                "lng": -73.9354609197085
+            },
+            "southwest": {
+                "lat": 40.8185866697085,
+                "lng": -73.93815888029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "5064325d4c07d8b19bcf63bb919ff458f56d756b",
+    "international_phone_number": "+1 212-234-4262",
+    "name": "Step #1 Deli & Grocery",
+    "place_id": "ChIJk-VXO3j2wokRPZaLsDDrkrs",
+    "plus_code": {
+        "compound_code": "R397+X6 New York, United States",
+        "global_code": "87G8R397+X6"
+    },
+    "rating": 2.5,
+    "reference": "ChIJk-VXO3j2wokRPZaLsDDrkrs",
+    "reviews": [
+        {
+            "author_name": "Angelika Clark",
+            "author_url": "https://www.google.com/maps/contrib/100181764321057446031/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_c6LbVvMSHo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaI294xyNr7qHqbzVmtBEGVV7Jh6w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "horrible! they charged me on  my credit card item they refuse to give me",
+            "time": 1519748475
+        },
+        {
+            "author_name": "Imanor Fermin",
+            "author_url": "https://www.google.com/maps/contrib/105798286529982184043/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-diWR3A6ZDpo/AAAAAAAAAAI/AAAAAAAAD8g/5dY6bNxpTRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1516749646
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13516124026045175357",
+    "utc_offset": -300,
+    "vicinity": "685 Malcolm X Boulevard # 3, New York"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "2527",
+            "short_name": "2527",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2527 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2527 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-0552",
+    "geometry": {
+        "location": {
+            "lat": 40.8167573,
+            "lng": -73.94659639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180692302915,
+                "lng": -73.94516006970849
+            },
+            "southwest": {
+                "lat": 40.8153712697085,
+                "lng": -73.9478580302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "04fc0e78ec0c9c8497b4765f733a806fea11bb95",
+    "international_phone_number": "+1 212-690-0552",
+    "name": "Keu Architectural Studio",
+    "place_id": "ChIJ0et2M3D2wokRBZOfMAvqTwg",
+    "plus_code": {
+        "compound_code": "R383+P9 New York, United States",
+        "global_code": "87G8R383+P9"
+    },
+    "reference": "ChIJ0et2M3D2wokRBZOfMAvqTwg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=598954609244869381",
+    "utc_offset": -300,
+    "vicinity": "2527 Frederick Douglass Boulevard, New York"
+}

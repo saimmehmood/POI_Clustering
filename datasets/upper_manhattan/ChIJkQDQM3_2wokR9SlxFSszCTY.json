@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2539",
+            "short_name": "2539",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2539 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2539 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.823014,
+            "lng": -73.93795779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243629802915,
+                "lng": -73.93660876970849
+            },
+            "southwest": {
+                "lat": 40.8216650197085,
+                "lng": -73.93930673029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8c41f807a8b5f2e5a18c5b302cb4aa380671d56a",
+    "name": "2539 Adam Clayton Powell Jr Blvd",
+    "place_id": "ChIJkQDQM3_2wokR9SlxFSszCTY",
+    "reference": "ChIJkQDQM3_2wokR9SlxFSszCTY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2539+Adam+Clayton+Powell+Jr+Blvd,+New+York,+NY+10039,+USA&ftid=0x89c2f67f33d00091:0x3609332b157129f5",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1664",
+            "short_name": "1664",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6105",
+            "short_name": "6105",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1664 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1664 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(347) 488-5268",
+    "geometry": {
+        "location": {
+            "lat": 40.8237138,
+            "lng": -73.9490902
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82500488029149,
+                "lng": -73.9476022197085
+            },
+            "southwest": {
+                "lat": 40.8223069197085,
+                "lng": -73.9503001802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "4557eb98b2ff89a3af576f41adeda12dd544e509",
+    "international_phone_number": "+1 347-488-5268",
+    "name": "Iglesia Pentecostal El Reba\u00f1o Inc.",
+    "place_id": "ChIJHbDMomT2wokROYgcXD06h9o",
+    "plus_code": {
+        "compound_code": "R3F2+F9 New York, United States",
+        "global_code": "87G8R3F2+F9"
+    },
+    "reference": "ChIJHbDMomT2wokROYgcXD06h9o",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15746618657337018425",
+    "utc_offset": -300,
+    "vicinity": "1664 Amsterdam Avenue, New York"
+}

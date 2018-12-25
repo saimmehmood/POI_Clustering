@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 135th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8156314,
+            "lng": -73.94406769999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169210802915,
+                "lng": -73.94276236970849
+            },
+            "southwest": {
+                "lat": 40.8142231197085,
+                "lng": -73.9454603302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6d08f2801d7563122aefa410e6f6837aed895669",
+    "name": "New Harlem Beauty Salon",
+    "place_id": "ChIJC6BRBXH2wokRjLxt4rGRbQE",
+    "plus_code": {
+        "compound_code": "R384+79 New York, United States",
+        "global_code": "87G8R384+79"
+    },
+    "rating": 5,
+    "reference": "ChIJC6BRBXH2wokRjLxt4rGRbQE",
+    "reviews": [
+        {
+            "author_name": "Christopher Vargas",
+            "author_url": "https://www.google.com/maps/contrib/106824020929208186756/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-w6hYsfOk9Kk/AAAAAAAAAAI/AAAAAAAAJtY/7-g8eE6k-Wk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Best in Harlem",
+            "time": 1543677656
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=102898559693470860",
+    "utc_offset": -300,
+    "vicinity": "201 West 135th Street, New York"
+}

@@ -1,0 +1,282 @@
+{
+    "address_components": [
+        {
+            "long_name": "2478A",
+            "short_name": "2478A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7704",
+            "short_name": "7704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2478A Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2478A Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(347) 702-1805",
+    "geometry": {
+        "location": {
+            "lat": 40.8148867,
+            "lng": -73.9475138
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81626893029149,
+                "lng": -73.9462434197085
+            },
+            "southwest": {
+                "lat": 40.81357096970849,
+                "lng": -73.94894138029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d0500b3fbe629e63de118d1e24819cfc6f5f8806",
+    "international_phone_number": "+1 347-702-1805",
+    "name": "Bolt Bike Shop",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 5:30 PM",
+            "Tuesday: 9:30 AM \u2013 5:30 PM",
+            "Wednesday: 9:30 AM \u2013 5:30 PM",
+            "Thursday: 9:30 AM \u2013 5:30 PM",
+            "Friday: 9:30 AM \u2013 5:30 PM",
+            "Saturday: 10:30 AM \u2013 4:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117486215805369363420/photos\">Bolt Bike Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAeBBuc4BubVaVLnMuvV3JP4gD56NTt6Jb9GGDqaNxAawjaJfyoywzb-w8kYITxvO_DXi3OgLqgpA0y_Wn4eCtSGE8ZuaWuqA9sTTpr-ukbIf9krloc_G2bLZLLgUhC6EbEhDD7RCn0MsJa4TUdvYfSfFOGhQMpvo6gcZKaGYptOr-G3N3Y3L6qw",
+            "width": 4032
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117486215805369363420/photos\">Bolt Bike Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAYPTVN_S2BgBE13pfyXz8nSKGJkroaQorQIsQZ9aNuCZ3cimegHvz0QJAojsJFJeSOIGIS0M3Hpqd_MCbfe3o2OepCAnZLAXH-eI9mSPg7PA-li4ZdPWp6JzVw67uCiTpEhBI7aiifRGn_EzECO58sxw4GhQ09xxa_tJf3cizTyEtiAuHiJ02bg",
+            "width": 2048
+        },
+        {
+            "height": 3348,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107363021246310403633/photos\">A W P VEVO</a>"
+            ],
+            "photo_reference": "CmRaAAAAgqFOXRUGRGOjOiavCq2FnWrANRSmLhgX2CAlX5whxlLv6vKqK8oTW756fSbw5N5Te9H2OMbosySBEr1gldPOaYbUkS6dsLT0TRDpJKxjLA9VnuWpszi3JhSpYXS6g8KAEhBVE8c37QTQ9A9MR5etBZN_GhRdTxtvIk-WpwHMNiMf_7Wzuxl-SQ",
+            "width": 5952
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117486215805369363420/photos\">Bolt Bike Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAnO4szEraBDbt3QQ7L1pmtVnBqQswEBC4B2vUPsv1A2wlWl1ZI6ndrQ0uCKXThpzHQDJmT2C6q16Yjuo0-GAZTQpgWMHfE39wE3rmKWQCgjO2OgtY4SRYJ4-_h6qJ0hq8EhBmDCJjKy0FEgdV9L9s3WGsGhQi6hmXjLyTZRbJyxfamMeGXWP4IQ",
+            "width": 4032
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117486215805369363420/photos\">Bolt Bike Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAsTXH6SjlManvorvcp8dRatki9kyVS_kXUFOKHhqAcXdwPXzs4NkB3oGZWZukcfzA1jsmZSVaBaXGlER_uFEUlmzV0dTjzO3HkTXHV3eil7m2jrSMKvVuBBBCSDvV1u2yEhCaG5voVKdMrL8okMDJAkiNGhTiOcPhirB25Fw7dszYYX6BSjHLTw",
+            "width": 1540
+        }
+    ],
+    "place_id": "ChIJuTvx4nH2wokRYvwuLFTJ6Pk",
+    "plus_code": {
+        "compound_code": "R372+XX New York, United States",
+        "global_code": "87G8R372+XX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJuTvx4nH2wokRYvwuLFTJ6Pk",
+    "reviews": [
+        {
+            "author_name": "JeanDarcel Michel",
+            "author_url": "https://www.google.com/maps/contrib/110489315443768243256/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7fDDjuLp2As/AAAAAAAAAAI/AAAAAAAAABM/PqK0SpRgERk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Nice great service good price",
+            "time": 1525178699
+        },
+        {
+            "author_name": "Togo Courier Service",
+            "author_url": "https://www.google.com/maps/contrib/102921200081279766630/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-fI6zgTvXyeI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY_hH-JWwuDzPrdwN-JpoumJRw48g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "They have knowledge of all types of bikes",
+            "time": 1528034705
+        },
+        {
+            "author_name": "Joshua Delarosa",
+            "author_url": "https://www.google.com/maps/contrib/115151604919737040385/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AIBNQ-8ccTI/AAAAAAAAAAI/AAAAAAAABkE/SkkhA8L0NDM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "they scamed me",
+            "time": 1531156129
+        },
+        {
+            "author_name": "#Real Gee",
+            "author_url": "https://www.google.com/maps/contrib/106285150800576988206/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Upe5Qg5vAzw/AAAAAAAAAAI/AAAAAAAACxM/H4oajPnz_r0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best bike shop in harlem . friendly and helpful aand the prices right",
+            "time": 1505128821
+        },
+        {
+            "author_name": "Mamadou Alimou Diallo",
+            "author_url": "https://www.google.com/maps/contrib/115708025710073498105/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-RgFY9dwruis/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcb_q9wFxvYMMb-Zrit0HV_Bf0Hy1Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Good",
+            "time": 1540678432
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bicycle_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18007864473396640866",
+    "utc_offset": -300,
+    "vicinity": "2478A Frederick Douglass Boulevard, New York",
+    "website": "https://boltbikeshop.business.site/"
+}

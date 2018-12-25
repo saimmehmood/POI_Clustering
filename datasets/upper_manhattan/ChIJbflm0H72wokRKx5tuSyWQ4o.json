@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 147th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82356379999999,
+            "lng": -73.93959130000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249127302915,
+                "lng": -73.9368359
+            },
+            "southwest": {
+                "lat": 40.8222147697085,
+                "lng": -73.94234669999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f59120f78b1720e944ee5a3a3d08449eb1ad3bb7",
+    "name": "201-299 W 147th St",
+    "place_id": "ChIJbflm0H72wokRKx5tuSyWQ4o",
+    "reference": "ChIJbflm0H72wokRKx5tuSyWQ4o",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+147th+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67ed066f96d:0x8a43962cb96d1e2b",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

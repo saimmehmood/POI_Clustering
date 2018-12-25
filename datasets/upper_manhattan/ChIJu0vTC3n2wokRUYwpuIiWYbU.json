@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "2460",
+            "short_name": "2460",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3538",
+            "short_name": "3538",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2460 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3538</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2460 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 926-2627",
+    "geometry": {
+        "location": {
+            "lat": 40.8207421,
+            "lng": -73.9400733
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8220555802915,
+                "lng": -73.93863731970849
+            },
+            "southwest": {
+                "lat": 40.8193576197085,
+                "lng": -73.9413352802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6fe78a490bf642e90a33b45bb33527a6e1157ada",
+    "international_phone_number": "+1 212-926-2627",
+    "name": "St James Court Tenants Association",
+    "place_id": "ChIJu0vTC3n2wokRUYwpuIiWYbU",
+    "plus_code": {
+        "compound_code": "R3C5+7X New York, United States",
+        "global_code": "87G8R3C5+7X"
+    },
+    "reference": "ChIJu0vTC3n2wokRUYwpuIiWYbU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13069893107555339345",
+    "utc_offset": -300,
+    "vicinity": "2460 Adam Clayton Powell Junior Boulevard, New York"
+}

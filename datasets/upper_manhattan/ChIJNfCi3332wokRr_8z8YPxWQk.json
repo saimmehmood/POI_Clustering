@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3029",
+            "short_name": "3029",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">400 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "400 W 150th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 939-9333",
+    "geometry": {
+        "location": {
+            "lat": 40.8269051,
+            "lng": -73.94195119999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82829143029149,
+                "lng": -73.9405759197085
+            },
+            "southwest": {
+                "lat": 40.82559346970849,
+                "lng": -73.9432738802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fb38f90dd2160b9132ceaf4de1f957d1ab00b4f4",
+    "international_phone_number": "+1 212-939-9333",
+    "name": "New Beginning LLC",
+    "place_id": "ChIJNfCi3332wokRr_8z8YPxWQk",
+    "plus_code": {
+        "compound_code": "R3G5+Q6 New York, United States",
+        "global_code": "87G8R3G5+Q6"
+    },
+    "reference": "ChIJNfCi3332wokRr_8z8YPxWQk",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=673835168258326447",
+    "utc_offset": -300,
+    "vicinity": "400 West 150th Street, New York"
+}

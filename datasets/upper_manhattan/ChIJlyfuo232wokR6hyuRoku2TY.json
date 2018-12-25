@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2409-2387",
+            "short_name": "2409-2387",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2409-2387 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2409-2387 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81240549999999,
+            "lng": -73.9495335
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8137544302915,
+                "lng": -73.94818451970849
+            },
+            "southwest": {
+                "lat": 40.8110564697085,
+                "lng": -73.9508824802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b0b58e4c2aa8f9442e3c8097867e9c48bc228ae9",
+    "name": "2409-2387 Frederick Douglass Blvd",
+    "place_id": "ChIJlyfuo232wokR6hyuRoku2TY",
+    "reference": "ChIJlyfuo232wokR6hyuRoku2TY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2409-2387+Frederick+Douglass+Blvd,+New+York,+NY+10027,+USA&ftid=0x89c2f66da3ee2797:0x36d92e8946ae1cea",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "311",
+            "short_name": "311",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">311 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "311 W 138th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(315) 322-9374",
+    "geometry": {
+        "location": {
+            "lat": 40.8188422,
+            "lng": -73.9456834
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201911802915,
+                "lng": -73.94433441970848
+            },
+            "southwest": {
+                "lat": 40.8174932197085,
+                "lng": -73.94703238029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f276d19e4644180c24a3add74371935e0f34ee95",
+    "international_phone_number": "+1 315-322-9374",
+    "name": "Florida Tire Supply Company",
+    "place_id": "ChIJR_J6dAH3wokRBiLIYq_6eNA",
+    "plus_code": {
+        "compound_code": "R393+GP New York, United States",
+        "global_code": "87G8R393+GP"
+    },
+    "reference": "ChIJR_J6dAH3wokRBiLIYq_6eNA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15022032188277793286",
+    "utc_offset": -300,
+    "vicinity": "311 West 138th Street, New York"
+}

@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "295",
+            "short_name": "295",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 150th Street",
+            "short_name": "W 150th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">295 W 150th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "295 W 150th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.825797,
+            "lng": -73.9388822
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271215302915,
+                "lng": -73.93755146970851
+            },
+            "southwest": {
+                "lat": 40.8244235697085,
+                "lng": -73.94024943029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f6f9b73f61ce5322f990db047484d050eecda7ca",
+    "name": "Belmar",
+    "place_id": "ChIJt7zXrH_2wokRcC-mDBe9Nfg",
+    "plus_code": {
+        "compound_code": "R3G6+8C New York, United States",
+        "global_code": "87G8R3G6+8C"
+    },
+    "reference": "ChIJt7zXrH_2wokRcC-mDBe9Nfg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17885409401865908080",
+    "utc_offset": -300,
+    "vicinity": "295 West 150th Street, New York"
+}

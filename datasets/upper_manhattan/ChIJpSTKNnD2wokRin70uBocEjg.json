@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "2533",
+            "short_name": "2533",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2533 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2533 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(718) 665-0778 ext. 0204",
+    "geometry": {
+        "location": {
+            "lat": 40.816967,
+            "lng": -73.94661599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8182507302915,
+                "lng": -73.94511316970849
+            },
+            "southwest": {
+                "lat": 40.8155527697085,
+                "lng": -73.9478111302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9de11ac620a0b88cb73ad0e56d8f38568a82ed33",
+    "international_phone_number": "+1 718-665-0778 ext. 0204",
+    "name": "RiteCheck",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:00 PM",
+            "Tuesday: 7:00 AM \u2013 10:00 PM",
+            "Wednesday: 7:00 AM \u2013 10:00 PM",
+            "Thursday: 7:00 AM \u2013 10:00 PM",
+            "Friday: 7:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJpSTKNnD2wokRin70uBocEjg",
+    "plus_code": {
+        "compound_code": "R383+Q9 New York, United States",
+        "global_code": "87G8R383+Q9"
+    },
+    "reference": "ChIJpSTKNnD2wokRin70uBocEjg",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4040322716802514570",
+    "utc_offset": -300,
+    "vicinity": "2533 Frederick Douglass Boulevard, New York",
+    "website": "http://www.ritecheck.com/"
+}

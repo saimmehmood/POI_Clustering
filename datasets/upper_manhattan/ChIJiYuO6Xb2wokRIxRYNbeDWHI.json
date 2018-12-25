@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "3rd Floor",
+            "short_name": "3rd Floor",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "46",
+            "short_name": "46",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3rd Floor, <span class=\"street-address\">46 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3rd Floor, 46 W 137th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-1000",
+    "geometry": {
+        "location": {
+            "lat": 40.8148671,
+            "lng": -73.938852
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8162547302915,
+                "lng": -73.9374744197085
+            },
+            "southwest": {
+                "lat": 40.81355676970851,
+                "lng": -73.9401723802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b635f3008ef1eef183b1be56c092d78789e56753",
+    "international_phone_number": "+1 212-939-1000",
+    "name": "Dr. Oluwaseun Davies",
+    "place_id": "ChIJiYuO6Xb2wokRIxRYNbeDWHI",
+    "plus_code": {
+        "compound_code": "R376+WF New York, United States",
+        "global_code": "87G8R376+WF"
+    },
+    "reference": "ChIJiYuO6Xb2wokRIxRYNbeDWHI",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8239480341171541027",
+    "utc_offset": -300,
+    "vicinity": "3rd Floor, 46 West 137th Street, New York",
+    "website": "http://www.nyc.gov/"
+}

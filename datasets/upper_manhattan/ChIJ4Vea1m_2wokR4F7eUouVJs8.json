@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(425) 236-5765",
+    "geometry": {
+        "location": {
+            "lat": 40.8156608,
+            "lng": -73.9440606
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169381302915,
+                "lng": -73.94276436970848
+            },
+            "southwest": {
+                "lat": 40.8142401697085,
+                "lng": -73.94546233029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dae0e72ea53acc80b0bc40181f5b3e5d3ee19058",
+    "international_phone_number": "+1 425-236-5765",
+    "name": "Jacksons Barber Shop",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101671260391839711312/photos\">Marshall Chambliss</a>"
+            ],
+            "photo_reference": "CmRaAAAAxBkL_jDC301c9enh59GUB8Ww6SSu7Gvve8C9hNwnSVFUj-xcRKeBkucLWxSXCYt6OTghvfmXyGq0vKrHaM1jQNQCX8XUkFiH6_3z8mXHpO0CWG0M3izVhacHChlVTdvhEhBaO62amU8JxQT2taZWLSwXGhQGNBA4PEqiIdzHu1foxKNnqT0LEQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ4Vea1m_2wokR4F7eUouVJs8",
+    "plus_code": {
+        "compound_code": "R384+79 New York, United States",
+        "global_code": "87G8R384+79"
+    },
+    "rating": 1,
+    "reference": "ChIJ4Vea1m_2wokR4F7eUouVJs8",
+    "reviews": [
+        {
+            "author_name": "Mr. Logic Man",
+            "author_url": "https://www.google.com/maps/contrib/116784735083991434448/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5aGlmw0yad0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaxPxRdYkGcsACkwiBjyyfxIvyPDA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "Poor Haircut, Horrible Service, Long Waiting Times; it\u2019s a horrible place overall.",
+            "time": 1517279883
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14926782440589385440",
+    "utc_offset": -300,
+    "vicinity": "201 West 135th Street, New York"
+}

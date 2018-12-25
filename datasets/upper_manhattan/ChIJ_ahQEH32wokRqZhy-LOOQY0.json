@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "469",
+            "short_name": "469",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">469 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "469 W 148th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-2192",
+    "geometry": {
+        "location": {
+            "lat": 40.8270425,
+            "lng": -73.9457042
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8283497802915,
+                "lng": -73.9443856697085
+            },
+            "southwest": {
+                "lat": 40.8256518197085,
+                "lng": -73.94708363029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "eed3bbae061b5bdb448b211a172464c47f9bf8c3",
+    "international_phone_number": "+1 212-281-2192",
+    "name": "First Calvery Baptist Church",
+    "photos": [
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103915825258405014831/photos\">Jose Luis Rodriguez</a>"
+            ],
+            "photo_reference": "CmRaAAAAN6HYufFqxP6J4yrZSXWyIT46F290P6eCmtcfXQnUdRp3AfbaOw68KizggekOeiMwsC2KXyxXB9gFCBc4Mof0ATETtkt3hPkcci_0zfDNMjfAxgZ0CKCPVGcjSeQBW1TNEhBF-daeZmry64UvuClCXnV4GhS0af0GO1S0YqXp1gUSDqH0J58-5A",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJ_ahQEH32wokRqZhy-LOOQY0",
+    "plus_code": {
+        "compound_code": "R3G3+RP New York, United States",
+        "global_code": "87G8R3G3+RP"
+    },
+    "rating": 5,
+    "reference": "ChIJ_ahQEH32wokRqZhy-LOOQY0",
+    "reviews": [
+        {
+            "author_name": "Ethel Greene",
+            "author_url": "https://www.google.com/maps/contrib/105547809912649341045/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iJ4PgHEj4xE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaddklJIeGxxlr3Y13Xk_MVqzDv_Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "",
+            "time": 1544445263
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10178573536452581545",
+    "utc_offset": -300,
+    "vicinity": "469 West 148th Street, New York"
+}

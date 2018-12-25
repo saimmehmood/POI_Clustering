@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "2433",
+            "short_name": "2433",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2433 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2433 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(917) 388-3509",
+    "geometry": {
+        "location": {
+            "lat": 40.8138768,
+            "lng": -73.94882299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81526538029151,
+                "lng": -73.94758726970849
+            },
+            "southwest": {
+                "lat": 40.81256741970851,
+                "lng": -73.95028523029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f1fc1c5ed200f2fd57a6832312825008ae8c7849",
+    "international_phone_number": "+1 917-388-3509",
+    "name": "Prayer Watch Temple",
+    "place_id": "ChIJ7cHg5W32wokRlwWqMpvIQ40",
+    "plus_code": {
+        "compound_code": "R372+HF New York, United States",
+        "global_code": "87G8R372+HF"
+    },
+    "reference": "ChIJ7cHg5W32wokRlwWqMpvIQ40",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10179200151682942359",
+    "utc_offset": -300,
+    "vicinity": "2433 Frederick Douglass Boulevard, New York",
+    "website": "http://prayerwatchtemple.com/contact/"
+}

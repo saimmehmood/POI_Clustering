@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "222 W 134th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 213-1373",
+    "geometry": {
+        "location": {
+            "lat": 40.81482259999999,
+            "lng": -73.94594740000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163817302915,
+                "lng": -73.9444433697085
+            },
+            "southwest": {
+                "lat": 40.8136837697085,
+                "lng": -73.9471413302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "49e989efd941efe450f7cfa7a175af76bb5f85b9",
+    "international_phone_number": "+1 646-213-1373",
+    "name": "Gladiator Sports",
+    "place_id": "ChIJq6rak3H2wokRYO6p1_zR4BU",
+    "reference": "ChIJq6rak3H2wokRYO6p1_zR4BU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1576490753459875424",
+    "utc_offset": -300,
+    "vicinity": "222 West 134th Street, New York",
+    "website": "http://www.gladiator-sports.org/index.php/about-us/by-the-numbers"
+}

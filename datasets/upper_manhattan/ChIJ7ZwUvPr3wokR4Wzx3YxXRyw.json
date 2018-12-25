@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "2340",
+            "short_name": "2340",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2340 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2340 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-1833",
+    "geometry": {
+        "location": {
+            "lat": 40.8169867,
+            "lng": -73.9429614
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8182761802915,
+                "lng": -73.9414727697085
+            },
+            "southwest": {
+                "lat": 40.8155782197085,
+                "lng": -73.9441707302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "73cf743c1b91b43c981b96c55369287d3bcd9f62",
+    "international_phone_number": "+1 212-234-1833",
+    "name": "Ruby's Vintage Harlem",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 4:00 PM \u2013 1:00 AM",
+            "Tuesday: 4:00 PM \u2013 1:00 AM",
+            "Wednesday: 4:00 PM \u2013 1:00 AM",
+            "Thursday: 4:00 PM \u2013 1:00 AM",
+            "Friday: 4:00 PM \u2013 2:00 AM",
+            "Saturday: 4:00 PM \u2013 2:00 AM",
+            "Sunday: 4:00 PM \u2013 1:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAS25AQhc2Vm86YA5d2aM8dJc9mTZpJ-bY6Gl-Op5X7NRJJGqU5rnJCDyVWU4FYL-hkgMHqMxvQF_cV9jzK9lenxIvLn5SeMSRNg2EP2Zcx6GkVdOESFAlUcTlxYVvVBpXEhAqCiwEQNL5q-JomaKcU_CTGhTza6Du3OJDwU9VkqyM1uzyvCoWHw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAt4P65LqMry-AdYFkgUa2nHUk3ffQk4JF5MtOA4E0-71ShakabU2MRPFxeE0AfLyXsLPiK-PL1CdIng5BTWd00C2YMpEpLew6WZZBHYlHJQR2Zc1XrJVHUljetf1eCsQoEhBs1FdRyaAjgtqbCJcfLB2kGhQOTUHbdqbrEgE_JQIMU5QKwDkYSA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116656486075235115733/photos\">DeeDee Casimir</a>"
+            ],
+            "photo_reference": "CmRaAAAA5oeYBU_DaWYjV05ohs_YgZPoXkjsx2jXpEAppTh6u4dbaRVzVLURZ6DDBEDf3zoWnVVBDyHoZUzGXIWWAb6T5g_IS_mXwye5jB1rvS-e7aIAF5rEJejn9VXvS_tG7jR9EhAtyxqBXqe48RPrXfGhUVl8GhR0kUHG3yBZpTpiuSDP8KxfnBuNQw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAilk4rqhyCHhDot8_6Lphst-7TB-URlDyNH3qvK4KebRV9mGeqy0QAz-bOut7M4CUQriR6sCNwBdnSKfF5r37_hcsQvbj_5AbpFB3D5dx6N1DdXIWX5IYBIhlyC92_kytEhC40QFpE-DPdX4GJY4fxVqCGhSQ8U2l5KI-nLm4bv7t3Aq6hCxV1Q",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAd0xPWGpqQJ_RHkQuHyEzO6E7zXN2daGsuQ9CDPYNEVsmiK1ML5JJ-5hTxLlJNX6rvBLWqy7i7SdnxtYAAGYNpYyVxqnfX5TRYg35YkDdJ7-Yjo86wWQB6nwtNXN1yNl-EhD_ilK7sCs-VpOC_Vz5bhQbGhRBcAot7FR3kSpaYTvwMTkdV444kQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAMYEf0ph-ufezwZvflRu7NOb9wL0vbYFyDhoCGa21_yRMkCMfXID-CsoSxs8MoUXnUuSmYB4J9eeL5JVrMOdSM43UCjrPu5dtcDLlA8Q5eMawUBv0amX3dGZkhj147UF_EhB_DU43qUAz0-L6tM8R5dPaGhQZ5yI6bdBg0jid2NZ8O3oukla_Yg",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAATMga019Un5Q9h9S11N6WxEpZu6nHLSCb5TkLkVinIXv2GLV9jB7N_8XSAsurlXqgeMuQMRr3w3IFpDMcIGz-sCsbxfunPs1FPiep36SRHda1El_uqgzMXyHnRCnPLe_uEhAnbe8-aXRh6Y1LhQOHPrz_GhRvdUy4lK-lGIPZRZPB6Z0eggao1Q",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAACp_j2BsGSpSn2vtluMdzNtFHO14jYq4L4y2K9AXdQk5EqcYcEgu060jIMOZ4ZOyacSWUkdDy3_eqZqWoOxGennaMfW6zLF2Sp3Jb02AsgqfmRQl5xz75q4Dw0O6S5zLyEhBOoOeYwGJLp7ZmuIJt0RVzGhQZvkwcJJGHE_wcqdrN7uaD8nk_0w",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAAQHl4CO_5M0rXc-FJ4_RZrft07vEe4l2gJzEZJkZJdg60WmbcP87ROH7ut8bObrHMWt1QnkdSLsg-h9wAm3LOizfJx78HGYBn-Yd8kb0woN6YQfSOIJhqYcVFQI73NpD9EhBNqr8Q1J3KHYDMB8wi8EElGhTG_M9bkEIjdTz3hTZ2YPq6ALAmvA",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAA_7Nhy1OMUMLoxXpv97JpABi70c8aS5NbUqk6cqBrz5KQGMk952k9REWzX8z1mUb7YSmvEclF8T5WoWsScWqK_gTdy1eEc8hrcyqT8Zoa_Sp3u3NjeIxxzptk3z5VxA86EhAcw7PW1mkTq9iLTScgiO94GhQ-bAu51ZM9RYOiMy3WjV6a_DztYQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ7ZwUvPr3wokR4Wzx3YxXRyw",
+    "plus_code": {
+        "compound_code": "R384+QR New York, United States",
+        "global_code": "87G8R384+QR"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ7ZwUvPr3wokR4Wzx3YxXRyw",
+    "reviews": [
+        {
+            "author_name": "DeeDee Casimir",
+            "author_url": "https://www.google.com/maps/contrib/116656486075235115733/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ZQ_kkqKjM14/AAAAAAAAAAI/AAAAAAAAGgU/yQ74Zy3Gmuo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Came here last night with my friend from France and we loved it. Great drinks, service, and energy. Harlem needs more of this \u2728\u2728 \nWho knew kale \ud83e\udd6c could taste so good with tequila?!",
+            "time": 1544380958
+        },
+        {
+            "author_name": "Camille Adamson",
+            "author_url": "https://www.google.com/maps/contrib/117871609028478331192/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-YWgGDGvMBnY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaLYBTcIMLh4H5_DnA8TKWPODqeOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Delicious drinks and great service!",
+            "time": 1541906187
+        },
+        {
+            "author_name": "Pavel Push",
+            "author_url": "https://www.google.com/maps/contrib/115249705305889734883/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-E8TMBq6ID4w/AAAAAAAAAAI/AAAAAAAACU0/aAvg1Jf8UD0/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1545690634
+        },
+        {
+            "author_name": "ADRIAN GUTIERREZ",
+            "author_url": "https://www.google.com/maps/contrib/107264065848978672429/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-eCx5NwRIwCM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbgxsx50LPm0OU0CATrlKy6rsgvUg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541731541
+        },
+        {
+            "author_name": "Maritza Rodriguez",
+            "author_url": "https://www.google.com/maps/contrib/115606262785611961455/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RuJ-5--LDAo/AAAAAAAAAAI/AAAAAAAAPdE/ka7FvX227Zw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541087280
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3190615123545910497",
+    "utc_offset": -300,
+    "vicinity": "2340 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "http://rubysvintageharlem.com/"
+}

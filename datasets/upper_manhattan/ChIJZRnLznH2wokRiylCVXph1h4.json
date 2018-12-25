@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2522",
+            "short_name": "2522",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2707",
+            "short_name": "2707",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2522 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2707</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2522 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-1440",
+    "geometry": {
+        "location": {
+            "lat": 40.81603940000001,
+            "lng": -73.9464974
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8174510302915,
+                "lng": -73.94529956970851
+            },
+            "southwest": {
+                "lat": 40.81475306970851,
+                "lng": -73.94799753029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "96d83a09f135620cb4d08e5cb26827f43b3cb9bf",
+    "international_phone_number": "+1 212-234-1440",
+    "name": "Hebron Insurance Brokerage",
+    "place_id": "ChIJZRnLznH2wokRiylCVXph1h4",
+    "plus_code": {
+        "compound_code": "R383+CC New York, United States",
+        "global_code": "87G8R383+CC"
+    },
+    "reference": "ChIJZRnLznH2wokRiylCVXph1h4",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2222070644198222219",
+    "utc_offset": -300,
+    "vicinity": "2522 Frederick Douglass Boulevard, New York"
+}

@@ -1,0 +1,212 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8229091,
+            "lng": -73.942641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243486802915,
+                "lng": -73.94122171970848
+            },
+            "southwest": {
+                "lat": 40.82165071970851,
+                "lng": -73.94391968029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "646f9c8d4123511dbc98a80d105fa2d02b0833f9",
+    "name": "Super Foodtown",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 1:00 AM",
+            "Tuesday: 6:00 AM \u2013 1:00 AM",
+            "Wednesday: 6:00 AM \u2013 1:00 AM",
+            "Thursday: 6:00 AM \u2013 1:00 AM",
+            "Friday: 6:00 AM \u2013 1:00 AM",
+            "Saturday: 6:00 AM \u2013 1:00 AM",
+            "Sunday: 6:00 AM \u2013 1:00 AM"
+        ]
+    },
+    "place_id": "ChIJNURz9k_3wokRdg5U_G-FG1Y",
+    "plus_code": {
+        "compound_code": "R3F4+5W New York, United States",
+        "global_code": "87G8R3F4+5W"
+    },
+    "rating": 5,
+    "reference": "ChIJNURz9k_3wokRdg5U_G-FG1Y",
+    "reviews": [
+        {
+            "author_name": "Cynthia Williams",
+            "author_url": "https://www.google.com/maps/contrib/118250771943139468799/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NgrekzlIbWI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYW-Hhd_2XMePXk-DgvCD1O5K7Llw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love this store\nAlways Great Sales",
+            "time": 1541344781
+        },
+        {
+            "author_name": "ANDRE RAMOS",
+            "author_url": "https://www.google.com/maps/contrib/115823554523238102322/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-G_jnRdd8TY0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYvV29L7OlLtZTmBQvDr-4KHut2xw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1529148791
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6204699627654221430",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York",
+    "website": "https://www.foodtown.com/"
+}

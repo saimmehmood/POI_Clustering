@@ -1,0 +1,155 @@
+{
+    "address_components": [
+        {
+            "long_name": "2533",
+            "short_name": "2533",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2533 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2533 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(718) 665-0778",
+    "geometry": {
+        "location": {
+            "lat": 40.816967,
+            "lng": -73.94661599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8182507302915,
+                "lng": -73.94511316970849
+            },
+            "southwest": {
+                "lat": 40.8155527697085,
+                "lng": -73.9478111302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1a0b6518a00bc4e57b355b0298ddb2b1c2b2500f",
+    "international_phone_number": "+1 718-665-0778",
+    "name": "MoneyGram",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115071573437043964827/photos\">MoneyGram</a>"
+            ],
+            "photo_reference": "CmRaAAAAzofnkqB2GKgLmoeyKwmBvFibDMtYpeULK1JnyE4HouWKn3V_57Az1-rk8vw4kVZ5_6afOAq8SgJ6V7S8LqAC7mn-0cMuRfpu01yK0dO9m_92VXT8u9zvzIwyBpA8P8bkEhDkw0du32gvJQKMsqiiAzPFGhRPlK9_1FDfErv6hMTRMhU0oJ0TvQ",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJpSTKNnD2wokRLV91zh3S6RU",
+    "plus_code": {
+        "compound_code": "R383+Q9 New York, United States",
+        "global_code": "87G8R383+Q9"
+    },
+    "rating": 1,
+    "reference": "ChIJpSTKNnD2wokRLV91zh3S6RU",
+    "reviews": [
+        {
+            "author_name": "Sultan Mirzhalilov",
+            "author_url": "https://www.google.com/maps/contrib/114452504073009504762/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KO7XRulUxd0/AAAAAAAAAAI/AAAAAAAAAIA/z_9fqO3kvQQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "The lady was unprofessional and extremely rude.",
+            "time": 1523561700
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1579024169829752621",
+    "utc_offset": -300,
+    "vicinity": "2533 Frederick Douglass Boulevard, New York",
+    "website": "http://locations.moneygram.com/ny/new-york/751290839/"
+}

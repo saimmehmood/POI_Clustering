@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "298-244",
+            "short_name": "298-244",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 152nd Street",
+            "short_name": "W 152nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">298-244 W 152nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "298-244 W 152nd St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82702860000001,
+            "lng": -73.93816230000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8283775802915,
+                "lng": -73.93681336970849
+            },
+            "southwest": {
+                "lat": 40.8256796197085,
+                "lng": -73.9395113302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4f2c0fc5856f1bb7f3aa78b80322edc5ea16c4bb",
+    "name": "298-244 W 152nd St",
+    "place_id": "ChIJw41exX_2wokRHfqh13lODCw",
+    "reference": "ChIJw41exX_2wokRHfqh13lODCw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=298-244+W+152nd+St,+New+York,+NY+10039,+USA&ftid=0x89c2f67fc55e8dc3:0x2c0c4e79d7a1fa1d",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

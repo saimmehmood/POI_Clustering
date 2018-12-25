@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 17S",
+            "short_name": "# 17S",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "630",
+            "short_name": "630",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1257",
+            "short_name": "1257",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">630 Malcolm X Blvd # 17S</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1257</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "630 Malcolm X Blvd # 17S, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 690-3903",
+    "geometry": {
+        "location": {
+            "lat": 40.81792189999999,
+            "lng": -73.9375408
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8192416802915,
+                "lng": -73.93602146970849
+            },
+            "southwest": {
+                "lat": 40.81654371970851,
+                "lng": -73.9387194302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0b77e478d3cf2f1608683701eced4c96e71cafed",
+    "international_phone_number": "+1 212-690-3903",
+    "name": "Body Politiques",
+    "place_id": "ChIJkSdAH3j2wokRslfOk0BMtcw",
+    "plus_code": {
+        "compound_code": "R396+5X New York, United States",
+        "global_code": "87G8R396+5X"
+    },
+    "reference": "ChIJkSdAH3j2wokRslfOk0BMtcw",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14750779994763319218",
+    "utc_offset": -300,
+    "vicinity": "630 Malcolm X Boulevard # 17S, New York"
+}

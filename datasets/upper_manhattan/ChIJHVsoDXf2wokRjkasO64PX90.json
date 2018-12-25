@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "100",
+            "short_name": "100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2212",
+            "short_name": "2212",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">100 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2212</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "100 W 139th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 368-3800",
+    "geometry": {
+        "location": {
+            "lat": 40.8167115,
+            "lng": -73.9395226
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8181193302915,
+                "lng": -73.93813011970849
+            },
+            "southwest": {
+                "lat": 40.8154213697085,
+                "lng": -73.9408280802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "661cd56f2bcba5451b489baa87e8086cffb033f2",
+    "international_phone_number": "+1 212-368-3800",
+    "name": "561 Lenox Avenue LLC",
+    "place_id": "ChIJHVsoDXf2wokRjkasO64PX90",
+    "plus_code": {
+        "compound_code": "R386+M5 New York, United States",
+        "global_code": "87G8R386+M5"
+    },
+    "rating": 3,
+    "reference": "ChIJHVsoDXf2wokRjkasO64PX90",
+    "reviews": [
+        {
+            "author_name": "James Smith",
+            "author_url": "https://www.google.com/maps/contrib/115751187131409227073/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qGLJyiBmxbw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcazAIwmpnWTknZGeBl0sxflK7ad-A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1516883367
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15951485646169458318",
+    "utc_offset": -300,
+    "vicinity": "100 West 139th Street, New York"
+}

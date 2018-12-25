@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 139th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 234-6714",
+    "geometry": {
+        "location": {
+            "lat": 40.8155905,
+            "lng": -73.9369924
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8170360302915,
+                "lng": -73.93557001970849
+            },
+            "southwest": {
+                "lat": 40.8143380697085,
+                "lng": -73.9382679802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a87c8a08a5bc8166064980c1b875f34d53967e72",
+    "international_phone_number": "+1 212-234-6714",
+    "name": "Harlem Childrens Zone",
+    "place_id": "ChIJrRGBWRL2wokRqJNhzhuK4E4",
+    "plus_code": {
+        "compound_code": "R387+66 New York, United States",
+        "global_code": "87G8R387+66"
+    },
+    "rating": 4,
+    "reference": "ChIJrRGBWRL2wokRqJNhzhuK4E4",
+    "reviews": [
+        {
+            "author_name": "Curtis Lawson",
+            "author_url": "https://www.google.com/maps/contrib/100840589170355987709/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lti8ZtdgKow/AAAAAAAAAAI/AAAAAAAAQbI/qwNyyP555SA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Nice place",
+            "time": 1544311779
+        },
+        {
+            "author_name": "Side 2 Side",
+            "author_url": "https://www.google.com/maps/contrib/101020372710816090405/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MBjgsb3KOvg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYMP-33Y7LVAPQcN9L2ISN3TGzpAQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1526128398
+        },
+        {
+            "author_name": "Raymond Santiago",
+            "author_url": "https://www.google.com/maps/contrib/104849368778622438190/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SpXMJ5kVtW0/AAAAAAAAAAI/AAAAAAAABnc/RwhJZqIRsac/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1517371357
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5683694581772817320",
+    "utc_offset": -300,
+    "vicinity": "34 West 139th Street, New York",
+    "website": "http://hcz.org/"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "715",
+            "short_name": "715",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">715 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "715 St Nicholas Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8245684,
+            "lng": -73.9446846
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8258693802915,
+                "lng": -73.9432206197085
+            },
+            "southwest": {
+                "lat": 40.8231714197085,
+                "lng": -73.94591858029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "3d6b018b902cdd8864e948dd7f8236fbc9e9bc68",
+    "name": "Alliance ATM, Inc.",
+    "place_id": "ChIJWSAQYnz2wokRVvwcpWSSoSE",
+    "plus_code": {
+        "compound_code": "R3F4+R4 New York, United States",
+        "global_code": "87G8R3F4+R4"
+    },
+    "reference": "ChIJWSAQYnz2wokRVvwcpWSSoSE",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2423379035466562646",
+    "utc_offset": -300,
+    "vicinity": "715 Saint Nicholas Avenue, New York"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "198-34",
+            "short_name": "198-34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">198-34 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "198-34 W 136th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81537180000001,
+            "lng": -73.9417789
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8167207802915,
+                "lng": -73.93910024999998
+            },
+            "southwest": {
+                "lat": 40.8140228197085,
+                "lng": -73.94445765
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1f76766683e6b8349870f21ee157830c8d08d315",
+    "name": "198-34 W 136th St",
+    "place_id": "ChIJ44rP0nb2wokRh331oe23SVU",
+    "reference": "ChIJ44rP0nb2wokRh331oe23SVU",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=198-34+W+136th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f676d2cf8ae3:0x5549b7eda1f57d87",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "APT 1",
+            "short_name": "APT 1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "539",
+            "short_name": "539",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3716",
+            "short_name": "3716",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">539 W 148th St APT 1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3716</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "539 W 148th St APT 1, New York, NY 10031, USA",
+    "formatted_phone_number": "(800) 230-5961",
+    "geometry": {
+        "location": {
+            "lat": 40.8279224,
+            "lng": -73.9476695
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8292102302915,
+                "lng": -73.9463665697085
+            },
+            "southwest": {
+                "lat": 40.8265122697085,
+                "lng": -73.94906453029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "98f20635e7356654d27d97fec2fcc43d846d1e0e",
+    "international_phone_number": "+1 800-230-5961",
+    "name": "Team Building Productions",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 573,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108806836471835622707/photos\">Team Building Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAubWM92SgDP4_YL7dGKyWU7Ok0eylM3c2fsnMKRgrHZhgt7xkO8Qx6jZeAbhBjNhGTjQq4AI6xydTsGzg8vCskh9S1ZEBVdwGlmFWasdW4GKetRmG7X47TNS4aL7-DVWCEhDjcIkbWtqw6KUyl6CBtzkRGhSclUUyvZCV6FEL0PKdpn8PrsyOQg",
+            "width": 573
+        }
+    ],
+    "place_id": "ChIJoxtoP1z3wokR82SW_UKYdmA",
+    "plus_code": {
+        "compound_code": "R3H2+5W New York, United States",
+        "global_code": "87G8R3H2+5W"
+    },
+    "reference": "ChIJoxtoP1z3wokR82SW_UKYdmA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6950910488382694643",
+    "utc_offset": -300,
+    "vicinity": "539 West 148th Street APT 1, New York",
+    "website": "http://www.teambuildingproductions.com/"
+}

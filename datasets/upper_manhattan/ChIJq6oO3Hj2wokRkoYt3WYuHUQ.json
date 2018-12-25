@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "2509",
+            "short_name": "2509",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2509 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2509 Adam Clayton Powell Jr Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(347) 317-3802",
+    "geometry": {
+        "location": {
+            "lat": 40.821874,
+            "lng": -73.938485
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82327233029149,
+                "lng": -73.93725406970849
+            },
+            "southwest": {
+                "lat": 40.8205743697085,
+                "lng": -73.9399520302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "497a227ec7cf2dd4524266899aa6dca71092cd5d",
+    "international_phone_number": "+1 347-317-3802",
+    "name": "El Mejor Estilo Barber Shop",
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107051906093035494027/photos\">El Mejor Estilo Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAkK1fhj1qEC5TlGjk9zOFyILmnAsL-hUp3guPDfZUzHBEfG1Yqz_82ZIgIwpTw-qx367NjjJKz4b2Bdw-evbPUwZf6t_OatUfmV8dvXIseWHZZWkQWOg7bGAdIPqfUjtsEhAommhnrwEkQjbWSyA2dJQ-GhSpjCsurbmZgZUUefoVv_nTAwO8mA",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJq6oO3Hj2wokRkoYt3WYuHUQ",
+    "plus_code": {
+        "compound_code": "R3C6+PJ New York, United States",
+        "global_code": "87G8R3C6+PJ"
+    },
+    "rating": 4,
+    "reference": "ChIJq6oO3Hj2wokRkoYt3WYuHUQ",
+    "reviews": [
+        {
+            "author_name": "Harlem Guy",
+            "author_url": "https://www.google.com/maps/contrib/106413177896276654522/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kDZclPZ9ZiI/AAAAAAAAAAI/AAAAAAABRZg/CoXJU2fFAL0/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1540098327
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4908130188235998866",
+    "utc_offset": -300,
+    "vicinity": "2509 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "https://el-mejor-estilo-barber-shop.negocio.site/"
+}

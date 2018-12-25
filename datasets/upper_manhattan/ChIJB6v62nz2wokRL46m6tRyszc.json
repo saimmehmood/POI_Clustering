@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1739",
+            "short_name": "1739",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4622",
+            "short_name": "4622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1739 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1739 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82590320000001,
+            "lng": -73.9467511
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82731123029151,
+                "lng": -73.9455451697085
+            },
+            "southwest": {
+                "lat": 40.82461326970851,
+                "lng": -73.9482431302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "1dd0bc87270ff33cb9557f0312650705faa54933",
+    "name": "ATM Services NY, Inc.",
+    "place_id": "ChIJB6v62nz2wokRL46m6tRyszc",
+    "plus_code": {
+        "compound_code": "R3G3+97 New York, United States",
+        "global_code": "87G8R3G3+97"
+    },
+    "reference": "ChIJB6v62nz2wokRL46m6tRyszc",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4013677951712661039",
+    "utc_offset": -300,
+    "vicinity": "1739 Amsterdam Avenue, New York"
+}

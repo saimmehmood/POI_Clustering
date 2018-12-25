@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.824665,
+            "lng": -73.94603
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8259806302915,
+                "lng": -73.9447056197085
+            },
+            "southwest": {
+                "lat": 40.8232826697085,
+                "lng": -73.9474035802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "af1bb79507025c25b2d8636236192f0af1ad864b",
+    "name": "W 145 St/Convent Av",
+    "place_id": "ChIJi4Tilnz2wokRKeSNG5JIIBM",
+    "plus_code": {
+        "compound_code": "R3F3+VH New York, United States",
+        "global_code": "87G8R3F3+VH"
+    },
+    "rating": 5,
+    "reference": "ChIJi4Tilnz2wokRKeSNG5JIIBM",
+    "reviews": [
+        {
+            "author_name": "Malik Phillips",
+            "author_url": "https://www.google.com/maps/contrib/115052082121818677670/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-35_85KVyBqU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYCet3XKVAteGcUFi5MO-lNRbwc-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1476887717
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1378181278340080681",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

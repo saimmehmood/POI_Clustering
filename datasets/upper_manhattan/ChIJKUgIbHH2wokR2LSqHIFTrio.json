@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "#2",
+            "short_name": "#2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "2283",
+            "short_name": "2283",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2826",
+            "short_name": "2826",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2283 Adam Clayton Powell Jr Blvd #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2826</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2283 Adam Clayton Powell Jr Blvd #2, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-6869",
+    "geometry": {
+        "location": {
+            "lat": 40.8146508,
+            "lng": -73.94371
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8160564302915,
+                "lng": -73.94250131970848
+            },
+            "southwest": {
+                "lat": 40.8133584697085,
+                "lng": -73.9451992802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "620a257c1e222742bb9d62c5810757367e29278a",
+    "international_phone_number": "+1 212-281-6869",
+    "name": "Abyssinian Development Corporation",
+    "place_id": "ChIJKUgIbHH2wokR2LSqHIFTrio",
+    "plus_code": {
+        "compound_code": "R374+VG New York, United States",
+        "global_code": "87G8R374+VG"
+    },
+    "reference": "ChIJKUgIbHH2wokR2LSqHIFTrio",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3075487409537463512",
+    "utc_offset": -300,
+    "vicinity": "2283 Adam Clayton Powell Junior Boulevard #2, New York",
+    "website": "http://www.adcorp.org/"
+}

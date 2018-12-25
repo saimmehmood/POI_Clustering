@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "160",
+            "short_name": "160",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9101",
+            "short_name": "9101",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">160 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "160 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 650-5426",
+    "geometry": {
+        "location": {
+            "lat": 40.8196311,
+            "lng": -73.9505155
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208805802915,
+                "lng": -73.94893021970849
+            },
+            "southwest": {
+                "lat": 40.8181826197085,
+                "lng": -73.95162818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "306cd9353b13e298374ca58077854dc7dfdf44c1",
+    "international_phone_number": "+1 212-650-5426",
+    "name": "Student Affairs",
+    "place_id": "ChIJfz3AY2X2wokRQidOaqqGgJo",
+    "plus_code": {
+        "compound_code": "R29X+VQ New York, United States",
+        "global_code": "87G8R29X+VQ"
+    },
+    "rating": 5,
+    "reference": "ChIJfz3AY2X2wokRQidOaqqGgJo",
+    "reviews": [
+        {
+            "author_name": "lonceny conde",
+            "author_url": "https://www.google.com/maps/contrib/114860775736653776364/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mw--acFGjBo/AAAAAAAAAAI/AAAAAAAANWw/Ig3LrDtFYDo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1442844720
+        },
+        {
+            "author_name": "jean A",
+            "author_url": "https://www.google.com/maps/contrib/108167265532061108360/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-2c9_9qwqewM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbxIzSHl4SBRhF7xVtTdQUiYvG61A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1539039695
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11133046345345935170",
+    "utc_offset": -300,
+    "vicinity": "160 Convent Avenue, New York",
+    "website": "http://www.nyu.edu/"
+}

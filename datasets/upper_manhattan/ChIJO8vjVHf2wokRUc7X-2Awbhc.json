@@ -1,0 +1,151 @@
+{
+    "address_components": [
+        {
+            "long_name": "206",
+            "short_name": "206",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3127",
+            "short_name": "3127",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">206 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3127</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "206 W 148th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 996-6006",
+    "geometry": {
+        "location": {
+            "lat": 40.82375870000001,
+            "lng": -73.9386415
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251851802915,
+                "lng": -73.9372352197085
+            },
+            "southwest": {
+                "lat": 40.8224872197085,
+                "lng": -73.9399331802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7092deab4d8dc44dfd90339e26ab6ed63535b47f",
+    "international_phone_number": "+1 212-996-6006",
+    "name": "Harlem News Group Inc",
+    "place_id": "ChIJO8vjVHf2wokRUc7X-2Awbhc",
+    "plus_code": {
+        "compound_code": "R3F6+GG New York, United States",
+        "global_code": "87G8R3F6+GG"
+    },
+    "rating": 4.8,
+    "reference": "ChIJO8vjVHf2wokRUc7X-2Awbhc",
+    "reviews": [
+        {
+            "author_name": "Alex Graves",
+            "author_url": "https://www.google.com/maps/contrib/112963781566094167401/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xkbolMU2iEI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZG00Uop1c2a4J1fqCxB_vhkEfQCw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Extremely informant. Love News Paper",
+            "time": 1388496358
+        },
+        {
+            "author_name": "Jas Walker",
+            "author_url": "https://www.google.com/maps/contrib/116329946554745294867/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-PgYkPTwbbNk/AAAAAAAAAAI/AAAAAAAAACU/VbNBrOcTyp8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1529314406
+        },
+        {
+            "author_name": "Aaron Hoffler",
+            "author_url": "https://www.google.com/maps/contrib/109653307072580008206/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jy7wDeaLbTU/AAAAAAAAAAI/AAAAAAAAHtw/wqQsWzHwuAU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1508178907
+        },
+        {
+            "author_name": "Rocdastar",
+            "author_url": "https://www.google.com/maps/contrib/111544834329766808992/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jvQmV7I_Sxs/AAAAAAAAAAI/AAAAAAAAWmc/wzyUFXbBd2s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1507872693
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1688340103410732625",
+    "utc_offset": -300,
+    "vicinity": "206 West 148th Street, New York",
+    "website": "http://harlemcommunitynews.com/category/harlem/"
+}

@@ -1,0 +1,145 @@
+{
+    "address_components": [
+        {
+            "long_name": "421",
+            "short_name": "421",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5203",
+            "short_name": "5203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">421 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "421 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 701-7117",
+    "geometry": {
+        "location": {
+            "lat": 40.82464,
+            "lng": -73.94582079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82593143029149,
+                "lng": -73.94451426970849
+            },
+            "southwest": {
+                "lat": 40.82323346970849,
+                "lng": -73.9472122302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "badd313182dfd1d43bab7603ac6993ad424af65c",
+    "international_phone_number": "+1 646-701-7117",
+    "name": "Neighborhood Charter School",
+    "place_id": "ChIJuVggkXz2wokRNkvaMcb7fWA",
+    "plus_code": {
+        "compound_code": "R3F3+VM New York, United States",
+        "global_code": "87G8R3F3+VM"
+    },
+    "rating": 5,
+    "reference": "ChIJuVggkXz2wokRNkvaMcb7fWA",
+    "reviews": [
+        {
+            "author_name": "Jennifer And fam",
+            "author_url": "https://www.google.com/maps/contrib/102083247572908583874/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6RBK2tfuIbM/AAAAAAAAAAI/AAAAAAAAADk/moMyGyboQW4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Wonderful school. Great staff, polite with the parents a lot of activities. I love this school!!!",
+            "time": 1510065160
+        },
+        {
+            "author_name": "Yovanne Chery",
+            "author_url": "https://www.google.com/maps/contrib/117477180937434319763/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-gCZzDkSMiYk/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZGnt0gj91uYft6xYFgcx3LF6ye9w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great school with attentive state.Excellent ICT program for children with autism.",
+            "time": 1505758431
+        },
+        {
+            "author_name": "Fortnite Supreme",
+            "author_url": "https://www.google.com/maps/contrib/109814940871661406562/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-j6G-gADsSE0/AAAAAAAAAAI/AAAAAAAAFWw/c54l-t_moQI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I go to this school XD",
+            "time": 1519414084
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6952990228388399926",
+    "utc_offset": -300,
+    "vicinity": "421 West 145th Street, New York",
+    "website": "http://www.ncsharlem.org/"
+}

@@ -1,0 +1,216 @@
+{
+    "address_components": [
+        {
+            "long_name": "215-217",
+            "short_name": "215-217",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 135th Street",
+            "short_name": "W 135th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2835",
+            "short_name": "2835",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215-217 W 135th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2835</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215-217 W 135th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 694-3500",
+    "geometry": {
+        "location": {
+            "lat": 40.8158991,
+            "lng": -73.9446715
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171837302915,
+                "lng": -73.9433698697085
+            },
+            "southwest": {
+                "lat": 40.8144857697085,
+                "lng": -73.94606783029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "01b5126d9b34eb75a48a6c340f0ed9850e48f6ff",
+    "international_phone_number": "+1 212-694-3500",
+    "name": "UMMHC, INC",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106242506960924136129/photos\">Carmen Iglesias</a>"
+            ],
+            "photo_reference": "CmRaAAAABm1li5oSpdznhjviSjIkh6KIXTKYfLBYiJJDYJ-P8agc7XPVGYn_F0kr5pB4f_iaMFNIDmh6LdY09t-d7l3c-5raTUuVKMAtR2g_BBgQjePztCfyQd_QP3EXbSn1JmUNEhBQXhEgqNlFX5UaQzO4pMJgGhQsoJ_yrKQapWLo9QAvXWoxsRsjqg",
+            "width": 3456
+        }
+    ],
+    "place_id": "ChIJ-QQ-B3H2wokRV_dfl0d2Tyo",
+    "plus_code": {
+        "compound_code": "R384+94 New York, United States",
+        "global_code": "87G8R384+94"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ-QQ-B3H2wokRV_dfl0d2Tyo",
+    "reviews": [
+        {
+            "author_name": "Anna Hamilton",
+            "author_url": "https://www.google.com/maps/contrib/112687896851136376092/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-QdlPXMgZfR8/AAAAAAAAAAI/AAAAAAAAAVw/4H62UCH7FUg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Very caring, and helpful, and compassionate people. ",
+            "time": 1472191575
+        },
+        {
+            "author_name": "Teresa Hamilton",
+            "author_url": "https://www.google.com/maps/contrib/115764127118749754250/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZnSRfxOA2TU/AAAAAAAAAAI/AAAAAAAAabk/j-XatWl4HLU/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1464086886
+        },
+        {
+            "author_name": "Carmen Iglesias",
+            "author_url": "https://www.google.com/maps/contrib/106242506960924136129/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dKSFDesNzGw/AAAAAAAAAAI/AAAAAAAAJN4/MBU_5Nj9xmw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541461974
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3048785522607519575",
+    "utc_offset": -300,
+    "vicinity": "215-217 West 135th Street, New York"
+}

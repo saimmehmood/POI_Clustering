@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "1750",
+            "short_name": "1750",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4612",
+            "short_name": "4612",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1750 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4612</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1750 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 927-8611",
+    "geometry": {
+        "location": {
+            "lat": 40.8264766,
+            "lng": -73.94745759999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8277064802915,
+                "lng": -73.94582016970848
+            },
+            "southwest": {
+                "lat": 40.8250085197085,
+                "lng": -73.9485181302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "12b60e29c2449077a0d7b80ce66ff41c35615f3e",
+    "international_phone_number": "+1 212-927-8611",
+    "name": "Public School 153",
+    "place_id": "ChIJ8WDA1Xz2wokRj7ywouVMooU",
+    "plus_code": {
+        "compound_code": "R3G3+H2 New York, United States",
+        "global_code": "87G8R3G3+H2"
+    },
+    "rating": 1,
+    "reference": "ChIJ8WDA1Xz2wokRj7ywouVMooU",
+    "reviews": [
+        {
+            "author_name": "Gabby Garcia",
+            "author_url": "https://www.google.com/maps/contrib/103909305867617281969/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TnL7hUkcgqE/AAAAAAAAAAI/AAAAAAAAAgQ/KR4rkxEvRF0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "This school is so annoying they give you so much homework for all the grades even first grade I recommend you don\u2019t go to that school",
+            "time": 1529465200
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9629343502432255119",
+    "utc_offset": -300,
+    "vicinity": "1750 Amsterdam Avenue, New York",
+    "website": "http://ps153.org/"
+}

@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "#3",
+            "short_name": "#3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "514",
+            "short_name": "514",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">514 W 142nd St #3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "514 W 142nd St #3, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82373279999999,
+            "lng": -73.9503903
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251473802915,
+                "lng": -73.9489934197085
+            },
+            "southwest": {
+                "lat": 40.8224494197085,
+                "lng": -73.9516913802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ff804bde638fa39274792f50b4e2783b014fa28",
+    "name": "Biophilia Records",
+    "place_id": "ChIJAQAhiWT2wokRd6HsJEB20-U",
+    "plus_code": {
+        "compound_code": "R2FX+FR New York, United States",
+        "global_code": "87G8R2FX+FR"
+    },
+    "reference": "ChIJAQAhiWT2wokRd6HsJEB20-U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16560710272640917879",
+    "utc_offset": -300,
+    "vicinity": "514 West 142nd Street #3, New York",
+    "website": "http://www.biophiliarecords.com/"
+}

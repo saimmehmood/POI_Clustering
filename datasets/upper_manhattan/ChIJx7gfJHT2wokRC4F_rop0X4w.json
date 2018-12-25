@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 134th St, New York, NY 10037, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.812844,
+            "lng": -73.939939
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81419298029149,
+                "lng": -73.93859001970849
+            },
+            "southwest": {
+                "lat": 40.8114950197085,
+                "lng": -73.9412879802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "738c4675121d55d12830962fd9dd6183a937af4f",
+    "name": "34 W 134th St",
+    "place_id": "ChIJx7gfJHT2wokRC4F_rop0X4w",
+    "reference": "ChIJx7gfJHT2wokRC4F_rop0X4w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=34+W+134th+St,+New+York,+NY+10037,+USA&ftid=0x89c2f674241fb8c7:0x8c5f748aae7f810b",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

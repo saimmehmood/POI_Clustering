@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "2894",
+            "short_name": "2894",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2894 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2894 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-2506",
+    "geometry": {
+        "location": {
+            "lat": 40.827955,
+            "lng": -73.937764
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82937183029149,
+                "lng": -73.9365747697085
+            },
+            "southwest": {
+                "lat": 40.8266738697085,
+                "lng": -73.93927273029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "549f97e8a3ed5300b25e5dcb9b1bcbf829e216bf",
+    "international_phone_number": "+1 212-234-2506",
+    "name": "Tabernacle of Deliverance Apartments",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116173197247163888438/photos\">Chino Wong</a>"
+            ],
+            "photo_reference": "CmRaAAAAeiZz1MAPdSY0Fc8xwWeivWsE84pe2TDX4XFOA9z97Tm2_gfmzJcPyQBdHu-eRi99Ywk6AfYT3hiRZ1luIoyUUx_lI57HTAYvlAYsdht3LWD_OgPbRTzQIxhsj7CBatcaEhAFwGlVnadGNJxLTvkP5JXqGhR4VS_dUOpihwCfyHfN45orRdUvSw",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJzy8IdID2wokR0b0UiGL_zK0",
+    "plus_code": {
+        "compound_code": "R3H6+5V New York, United States",
+        "global_code": "87G8R3H6+5V"
+    },
+    "reference": "ChIJzy8IdID2wokR0b0UiGL_zK0",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12523665462465445329",
+    "utc_offset": -300,
+    "vicinity": "2894 Frederick Douglass Boulevard, New York"
+}

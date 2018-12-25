@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "298-200",
+            "short_name": "298-200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 140th Street",
+            "short_name": "W 140th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">298-200 W 140th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "298-200 W 140th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.819097,
+            "lng": -73.9428533
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8204459802915,
+                "lng": -73.94009109999999
+            },
+            "southwest": {
+                "lat": 40.8177480197085,
+                "lng": -73.9456155
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0e42bf8ecd9293dd9f928a06699ab179354a07cb",
+    "name": "298-200 W 140th St",
+    "place_id": "ChIJo3_MD3r2wokR2SQ5Njfgwzg",
+    "reference": "ChIJo3_MD3r2wokR2SQ5Njfgwzg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=298-200+W+140th+St,+New+York,+NY+10030,+USA&ftid=0x89c2f67a0fcc7fa3:0x38c3e037363924d9",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

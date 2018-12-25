@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.816843,
+            "lng": -73.94761199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81823543029149,
+                "lng": -73.9462247197085
+            },
+            "southwest": {
+                "lat": 40.8155374697085,
+                "lng": -73.9489226802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "090a7fea36e6c8b9ab96108b643152561c79f89b",
+    "name": "W 135 St/St Nicholas Av",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111661249177959818826/photos\">Nat\u00e1lia Miranda Maia</a>"
+            ],
+            "photo_reference": "CmRaAAAApqLbRfLDDZ8X6m9vGWQmoiUALcMEwCbTjJTapkQf5oHVPhEvxCchr1alXMV8SL5fZY3IZaSG3Wq2FuK9sr0ov6I6zWtXjHZF4PB29XBAa3AbEHiX_S1OW2wKYenhXec1EhDrPbhXddlP5xvEc5Z92_zJGhTz-y20trOJ7gdWtoFAA6PHoTwlQA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJFfiT1W_2wokRX8LkHaIHFCA",
+    "plus_code": {
+        "compound_code": "R382+PX New York, United States",
+        "global_code": "87G8R382+PX"
+    },
+    "rating": 3,
+    "reference": "ChIJFfiT1W_2wokRX8LkHaIHFCA",
+    "reviews": [
+        {
+            "author_name": "Anja Burton",
+            "author_url": "https://www.google.com/maps/contrib/105526475825253238622/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-2CbDz7D_tEU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbt2f6o_hMrmFAeuOSASNQ32PjpTQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1475876887
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2311480901615534687",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

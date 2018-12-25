@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2734",
+            "short_name": "2734",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3002",
+            "short_name": "3002",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2734 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2734 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 962-0035",
+    "geometry": {
+        "location": {
+            "lat": 40.822965,
+            "lng": -73.9414199
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243779302915,
+                "lng": -73.9402263197085
+            },
+            "southwest": {
+                "lat": 40.8216799697085,
+                "lng": -73.9429242802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c861fae1a5e0537d7c15a707c29aeb5fe532f3d1",
+    "international_phone_number": "+1 212-962-0035",
+    "name": "Grace Unisex Beauty Salon",
+    "place_id": "ChIJ3RvmU3n2wokRT_QTXI0Oujo",
+    "plus_code": {
+        "compound_code": "R3F5+5C New York, United States",
+        "global_code": "87G8R3F5+5C"
+    },
+    "reference": "ChIJ3RvmU3n2wokRT_QTXI0Oujo",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4231710800165991503",
+    "utc_offset": -300,
+    "vicinity": "2734 Frederick Douglass Boulevard, New York"
+}

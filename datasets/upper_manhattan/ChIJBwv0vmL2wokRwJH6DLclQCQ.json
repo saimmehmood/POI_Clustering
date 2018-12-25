@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "3596",
+            "short_name": "3596",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3201",
+            "short_name": "3201",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3596 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3596 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(800) 786-9666",
+    "geometry": {
+        "location": {
+            "lat": 40.8281308,
+            "lng": -73.9488427
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8295186302915,
+                "lng": -73.9475847197085
+            },
+            "southwest": {
+                "lat": 40.8268206697085,
+                "lng": -73.95028268029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "a5d43d90ad77651f9c035e7c4aec05c270cdc6d0",
+    "international_phone_number": "+1 800-786-9666",
+    "name": "Cardtronics ATM",
+    "place_id": "ChIJBwv0vmL2wokRwJH6DLclQCQ",
+    "plus_code": {
+        "compound_code": "R3H2+7F New York, United States",
+        "global_code": "87G8R3H2+7F"
+    },
+    "reference": "ChIJBwv0vmL2wokRwJH6DLclQCQ",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "convenience_store",
+        "finance",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2612129252001878464",
+    "utc_offset": -300,
+    "vicinity": "3596 Broadway, New York",
+    "website": "http://www.cardtronics.com/"
+}

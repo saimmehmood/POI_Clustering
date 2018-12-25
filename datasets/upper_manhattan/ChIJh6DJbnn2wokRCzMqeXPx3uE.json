@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1221",
+            "short_name": "1221",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1221</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "229 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 518-2416",
+    "geometry": {
+        "location": {
+            "lat": 40.821724,
+            "lng": -73.9407729
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8229806302915,
+                "lng": -73.93949171970849
+            },
+            "southwest": {
+                "lat": 40.8202826697085,
+                "lng": -73.94218968029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7f072949f8e4d0f77e6e25c649b4ee1d565c5296",
+    "international_phone_number": "+1 212-518-2416",
+    "name": "Central Carpet Cleaning Services",
+    "place_id": "ChIJh6DJbnn2wokRCzMqeXPx3uE",
+    "plus_code": {
+        "compound_code": "R3C5+MM New York, United States",
+        "global_code": "87G8R3C5+MM"
+    },
+    "reference": "ChIJh6DJbnn2wokRCzMqeXPx3uE",
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16275711581619893003",
+    "utc_offset": -300,
+    "vicinity": "229 West 144th Street, New York"
+}

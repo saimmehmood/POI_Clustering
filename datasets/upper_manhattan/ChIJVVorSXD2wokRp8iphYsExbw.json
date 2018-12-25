@@ -1,0 +1,221 @@
+{
+    "address_components": [
+        {
+            "long_name": "2548",
+            "short_name": "2548",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2548 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2548 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(646) 355-0432",
+    "geometry": {
+        "location": {
+            "lat": 40.8168335,
+            "lng": -73.9458947
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81824958029151,
+                "lng": -73.94470391970849
+            },
+            "southwest": {
+                "lat": 40.81555161970851,
+                "lng": -73.94740188029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b9e9af03ce267c7d26c0b6052047c36be4f21610",
+    "international_phone_number": "+1 646-355-0432",
+    "name": "HarlemCPA",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 10:30 AM \u2013 9:00 PM",
+            "Sunday: 10:30 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 324,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109381356482505550734/photos\">HarlemCPA</a>"
+            ],
+            "photo_reference": "CmRaAAAAMLnCnvuq8TKQxoKPtLbsg0304wHGsRkVko73k-vYA6ubCjn6gbWsp0o7xFIW8wo39o08Rttjh7ncjmcuY0Vmt4sAUqYkdO9lJ27JDDANPqyR5PKY2JFAC5AybAqVNQ0AEhDklAmyNzXYntnHlfM4l4JQGhRYTaQzPrCcdn5BieUNaasSNroFzw",
+            "width": 625
+        },
+        {
+            "height": 310,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109381356482505550734/photos\">HarlemCPA</a>"
+            ],
+            "photo_reference": "CmRaAAAAsRc2rBcZIeT3ae0i1hWw_-j8q1PtGlcl5MrF6mUHZFel2Exm8cPyrB538sVpo9Wm1O27rzOny0r0esV-e3Nbq3OnbdNV9HyOudq3W_gCYjAiBrFPHnzdxwVc47sE3dSdEhAqcK5q9e0CH-wdgVQGSJpMGhRZeJ5cRKOoRdKDfrifxcj74wExOQ",
+            "width": 310
+        }
+    ],
+    "place_id": "ChIJVVorSXD2wokRp8iphYsExbw",
+    "plus_code": {
+        "compound_code": "R383+PJ New York, United States",
+        "global_code": "87G8R383+PJ"
+    },
+    "rating": 5,
+    "reference": "ChIJVVorSXD2wokRp8iphYsExbw",
+    "reviews": [
+        {
+            "author_name": "Cheikhou Diop",
+            "author_url": "https://www.google.com/maps/contrib/111763841650736126847/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-CWz810br4-U/AAAAAAAAAAI/AAAAAAAAACA/qnE7feft85U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best cpa in Harlem ny",
+            "time": 1505756814
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13602283246831913127",
+    "utc_offset": -300,
+    "vicinity": "2548 Frederick Douglass Boulevard, New York",
+    "website": "http://www.cpaharlem.com/"
+}

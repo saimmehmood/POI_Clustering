@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "219",
+            "short_name": "219",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 132nd Street",
+            "short_name": "W 132nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7803",
+            "short_name": "7803",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">219 W 132nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7803</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "219 W 132nd St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 234-6495",
+    "geometry": {
+        "location": {
+            "lat": 40.81390689999999,
+            "lng": -73.9458786
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81518128029149,
+                "lng": -73.9445846197085
+            },
+            "southwest": {
+                "lat": 40.81248331970849,
+                "lng": -73.94728258029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7697a3db203d76f8c973bd8d217c2facb7dc3879",
+    "international_phone_number": "+1 212-234-6495",
+    "name": "St. Aloysius Education Clinic",
+    "place_id": "ChIJAwCzJnL2wokRiEdLPzJq2t4",
+    "plus_code": {
+        "compound_code": "R373+HJ New York, United States",
+        "global_code": "87G8R373+HJ"
+    },
+    "reference": "ChIJAwCzJnL2wokRiEdLPzJq2t4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16058264185385731976",
+    "utc_offset": -300,
+    "vicinity": "219 West 132nd Street, New York",
+    "website": "http://educationclinicinc.org/"
+}

@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "719",
+            "short_name": "719",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">719 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "719 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 470-7068",
+    "geometry": {
+        "location": {
+            "lat": 40.8246887,
+            "lng": -73.94465009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82598118029149,
+                "lng": -73.94316571970849
+            },
+            "southwest": {
+                "lat": 40.8232832197085,
+                "lng": -73.9458636802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8e49b053ac22ca114b8ad1234dc88b1eeabce14f",
+    "international_phone_number": "+1 646-470-7068",
+    "name": "Artifact No. 719",
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105101155662892738777/photos\">ARTIFACT No. 719</a>"
+            ],
+            "photo_reference": "CmRaAAAA2Yp8YOwwjrnH9aj4vnOIR6_9r9yH64a3lA5k8Fcd4xs32pYxlX-RlJWC_X87TMtIRxxCiLj2_Rb0524rpk5kaC0vXXnmn_fNpLY1P1aJ_UYeMcEvwUhXUHjrXU5Eq6jLEhB55m-YRlzS5IRq49CZ6KeoGhT6DV41KVry17T8f0jOhly_uwC-qw",
+            "width": 1500
+        },
+        {
+            "height": 638,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105101155662892738777/photos\">ARTIFACT No. 719</a>"
+            ],
+            "photo_reference": "CmRaAAAAlLxosxxkN77tIyNQMg8IZx1enYXJGZlHZ2AmXhpFg0QyeHmTK6oG_oyhmm5dPl3elSJH84LwEHErr380Gq8DfE-G16cWa_Exum-DHXU0_8bDdEoMMYv9gJg3VmTZVgohEhDteo7yRofw4RjOomggouBxGhRyXr0NWmwgeGC33OT3bA0nmTWG6w",
+            "width": 637
+        }
+    ],
+    "place_id": "ChIJm1Bwcen3wokRkV7pJIxeJyk",
+    "plus_code": {
+        "compound_code": "R3F4+V4 New York, United States",
+        "global_code": "87G8R3F4+V4"
+    },
+    "rating": 5,
+    "reference": "ChIJm1Bwcen3wokRkV7pJIxeJyk",
+    "reviews": [
+        {
+            "author_name": "The Harlem Collective",
+            "author_url": "https://www.google.com/maps/contrib/114212552789929600841/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iuxCgQssyW4/AAAAAAAAAAI/AAAAAAAAAAA/KtrCWPmmrMs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1539021362
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2965442835654467217",
+    "utc_offset": -300,
+    "vicinity": "719 Saint Nicholas Avenue, New York",
+    "website": "http://artifact.co/"
+}

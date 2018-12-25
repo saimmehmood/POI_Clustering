@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 148th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(866) 737-5829",
+    "geometry": {
+        "location": {
+            "lat": 40.8240212,
+            "lng": -73.9394064
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8254709802915,
+                "lng": -73.93798291970849
+            },
+            "southwest": {
+                "lat": 40.8227730197085,
+                "lng": -73.94068088029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8d8661fd570b4f9cd516699447b81a121b38382d",
+    "international_phone_number": "+1 866-737-5829",
+    "name": "PS90 Condominiums",
+    "place_id": "ChIJ5X2A4H72wokR--GHhLWGKjE",
+    "plus_code": {
+        "compound_code": "R3F6+J6 New York, United States",
+        "global_code": "87G8R3F6+J6"
+    },
+    "rating": 4,
+    "reference": "ChIJ5X2A4H72wokR--GHhLWGKjE",
+    "reviews": [
+        {
+            "author_name": "jones cin",
+            "author_url": "https://www.google.com/maps/contrib/114177398614030978873/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-97ygzmVQZ9c/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaBlm-InZx2wm1aLqLc7xbTmXYe5w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very lovely building. My sister lives here I came to visit from Paris back in March2017. Doorman Kelvin and Ally were very lovely! Definitely will stay here again.",
+            "time": 1508509782
+        },
+        {
+            "author_name": "Christopher Van Wieren",
+            "author_url": "https://www.google.com/maps/contrib/104284560381192833186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-R68lcCcZaVE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbsmcVqAbH9lmDpoIp-4-gfCeaK_w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Beautiful remodel. High ceilings. Big window. Can't complain!",
+            "time": 1503090524
+        },
+        {
+            "author_name": "Ashlee Hernandez",
+            "author_url": "https://www.google.com/maps/contrib/117222403723871842683/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-CFAQE5Tyu5k/AAAAAAAAAAI/AAAAAAAAACA/uWBkQgC4ABc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1366994459
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3542792171051016699",
+    "utc_offset": -300,
+    "vicinity": "220 West 148th Street, New York"
+}

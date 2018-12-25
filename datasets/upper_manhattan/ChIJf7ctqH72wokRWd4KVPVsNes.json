@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "303",
+            "short_name": "303",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 146th Street",
+            "short_name": "W 146th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">303 W 146th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "303 W 146th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82377,
+            "lng": -73.941823
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82508563029149,
+                "lng": -73.9404986697085
+            },
+            "southwest": {
+                "lat": 40.8223876697085,
+                "lng": -73.94319663029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9027934187969a4e83420334820a7cb2e3130a3d",
+    "name": "Vision Technology Center Excel Communication",
+    "place_id": "ChIJf7ctqH72wokRWd4KVPVsNes",
+    "plus_code": {
+        "compound_code": "R3F5+G7 New York, United States",
+        "global_code": "87G8R3F5+G7"
+    },
+    "reference": "ChIJf7ctqH72wokRWd4KVPVsNes",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16948572573611515481",
+    "utc_offset": -300,
+    "vicinity": "303 West 146th Street, New York"
+}

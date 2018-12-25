@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "2310",
+            "short_name": "2310",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2310 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2310 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-6050",
+    "geometry": {
+        "location": {
+            "lat": 40.8159446,
+            "lng": -73.9436743
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172426302915,
+                "lng": -73.94220291970849
+            },
+            "southwest": {
+                "lat": 40.8145446697085,
+                "lng": -73.9449008802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9f624f6f323cdb9976f17ec27558dde368782e88",
+    "international_phone_number": "+1 212-234-6050",
+    "name": "Aysa boutique",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 11:00 AM \u2013 7:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107499108088315339314/photos\">Aysa boutique</a>"
+            ],
+            "photo_reference": "CmRaAAAA15e0q1FK64N2zWLmqnwIz1n6kQsiuih6Km9s5TFnpvvu0J58jHL5GZjxAarJICfBhSwfRaRYpLQyhLine7KFFzpRMmWr1LcJd_yyzes-J1K-a2GkHMWeY7o_Z0BYahnwEhCt5m1sbOH_UT5MFsv9XXtrGhTi4nIA-K33hcBlCNq-UKElB1o5NA",
+            "width": 1365
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107499108088315339314/photos\">Aysa boutique</a>"
+            ],
+            "photo_reference": "CmRaAAAArR_jwQBUM4aXK48Ax4OvxENm7a_BIj1Whc5GVDLfYIySPwu6lRTzoIXcuUV9OahrK2kaWm-ysJaZ8p5xCYhEaM7WcPVuwaQSz09I8NVsga2U_yvpgJF_AZ86KeYVDv_LEhDyThYEzvIYMTLnSAtDLBj6GhR0W6R7j3SmYCRZcsO6EFqeb23O8w",
+            "width": 1800
+        },
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107499108088315339314/photos\">Aysa boutique</a>"
+            ],
+            "photo_reference": "CmRaAAAAKCn1OgyBFLJqMHpFiX_-8rhEaiv9rEMH9cy6W7btP3erJGMXPidWISVTBdH2x7bMn7veEYnuFc74MlYUu40oaDq-6fBvTE3hjm8whwOSp7rRnMnS8EUwMI_HwDBUDgNHEhDtouqsMVhtKzaSzwFXII1OGhSRjhbGI4oK3SHopMFKRjP-e3ZWVQ",
+            "width": 1200
+        }
+    ],
+    "place_id": "ChIJi_rbHnH2wokRxmy7__PI0a0",
+    "plus_code": {
+        "compound_code": "R384+9G New York, United States",
+        "global_code": "87G8R384+9G"
+    },
+    "rating": 4.3,
+    "reference": "ChIJi_rbHnH2wokRxmy7__PI0a0",
+    "reviews": [
+        {
+            "author_name": "Alicia Arnold",
+            "author_url": "https://www.google.com/maps/contrib/111889091543403661548/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7tsOsed3JqE/AAAAAAAAAAI/AAAAAAAAABw/Tbfjeg2-mwk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "Great experience, great food.  Enjoyed it immensely.",
+            "time": 1394566433
+        },
+        {
+            "author_name": "Ian Saulanga",
+            "author_url": "https://www.google.com/maps/contrib/101780558877301973294/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-r37xfxeaJ0o/AAAAAAAAAAI/AAAAAAAAA_8/tb91xrmNKeg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1532434881
+        },
+        {
+            "author_name": "Nichole Villanova",
+            "author_url": "https://www.google.com/maps/contrib/108321671537773392723/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-yWhQzSUA6HM/AAAAAAAAAAI/AAAAAAAAAQE/51KqEs_KffY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1523984234
+        },
+        {
+            "author_name": "Svetlana Kupershmidt",
+            "author_url": "https://www.google.com/maps/contrib/114876226680427398741/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9oupYVpDfBE/AAAAAAAAAAI/AAAAAAAAAA0/oxBtCaUxp68/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1510532160
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12525012988987141318",
+    "utc_offset": -300,
+    "vicinity": "2310 Adam Clayton Powell Junior Boulevard, New York"
+}

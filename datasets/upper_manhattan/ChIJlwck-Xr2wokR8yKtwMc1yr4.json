@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "128",
+            "short_name": "128",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1437",
+            "short_name": "1437",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">128 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1437</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "128 Edgecombe Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8208362,
+            "lng": -73.94473049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8222660802915,
+                "lng": -73.9435230197085
+            },
+            "southwest": {
+                "lat": 40.8195681197085,
+                "lng": -73.9462209802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "aae719d9d4190f0eee9f06828b2f2601b088d9d5",
+    "name": "Instant Money Service",
+    "place_id": "ChIJlwck-Xr2wokR8yKtwMc1yr4",
+    "plus_code": {
+        "compound_code": "R3C4+84 New York, United States",
+        "global_code": "87G8R3C4+84"
+    },
+    "reference": "ChIJlwck-Xr2wokR8yKtwMc1yr4",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13747859944549196531",
+    "utc_offset": -300,
+    "vicinity": "128 Edgecombe Avenue, New York"
+}

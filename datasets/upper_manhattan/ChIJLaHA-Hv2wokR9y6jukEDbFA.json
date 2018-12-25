@@ -1,0 +1,150 @@
+{
+    "address_components": [
+        {
+            "long_name": "68",
+            "short_name": "68",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3304",
+            "short_name": "3304",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">68 Bradhurst Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3304</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "68 Bradhurst Ave, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-6135",
+    "geometry": {
+        "location": {
+            "lat": 40.8235418,
+            "lng": -73.94246629999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249276302915,
+                "lng": -73.94120696970849
+            },
+            "southwest": {
+                "lat": 40.8222296697085,
+                "lng": -73.94390493029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65f890e249f8113fc242e8a974bcdc1382a734b3",
+    "international_phone_number": "+1 212-234-6135",
+    "name": "The Langston",
+    "place_id": "ChIJLaHA-Hv2wokR9y6jukEDbFA",
+    "plus_code": {
+        "compound_code": "R3F5+C2 New York, United States",
+        "global_code": "87G8R3F5+C2"
+    },
+    "rating": 4,
+    "reference": "ChIJLaHA-Hv2wokR9y6jukEDbFA",
+    "reviews": [
+        {
+            "author_name": "Alan Cizenski",
+            "author_url": "https://www.google.com/maps/contrib/115492699193930967062/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--fV-nceUzIc/AAAAAAAAAAI/AAAAAAAAAsM/viqbUlayc8w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "have thoroughly enjoyed living here so far. The building is great, the staff are great, the location is great",
+            "time": 1533311578
+        },
+        {
+            "author_name": "Kalani Askew",
+            "author_url": "https://www.google.com/maps/contrib/117815605991398349523/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-wPYa0PQ2Klo/AAAAAAAAAAI/AAAAAAAACLg/o9sk3DuYRWE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1524700110
+        },
+        {
+            "author_name": "Meg Okura",
+            "author_url": "https://www.google.com/maps/contrib/114530062470541995817/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wWSsGCMWqqk/AAAAAAAAAAI/AAAAAAAABhA/vVirEnfpXMA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1494502797
+        },
+        {
+            "author_name": "Zvi Herskovitz",
+            "author_url": "https://www.google.com/maps/contrib/107406662665534523773/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6drNGON_rhc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbRKO9uDxDAa4IKbcWJ-0wTz-vMLw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1475880272
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5795010401357999863",
+    "utc_offset": -300,
+    "vicinity": "68 Bradhurst Avenue, New York"
+}

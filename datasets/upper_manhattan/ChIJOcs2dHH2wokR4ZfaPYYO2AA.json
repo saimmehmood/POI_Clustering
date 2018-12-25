@@ -1,0 +1,144 @@
+{
+    "address_components": [
+        {
+            "long_name": "204",
+            "short_name": "204",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3098",
+            "short_name": "3098",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">204 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3098</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "204 W 134th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-4940",
+    "geometry": {
+        "location": {
+            "lat": 40.8147275,
+            "lng": -73.94488249999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161513302915,
+                "lng": -73.94347831970849
+            },
+            "southwest": {
+                "lat": 40.8134533697085,
+                "lng": -73.9461762802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "1714f2ffc9968a759475ac6b73d8a366db75c30b",
+    "international_phone_number": "+1 212-862-4940",
+    "name": "St Philip's Church",
+    "place_id": "ChIJOcs2dHH2wokR4ZfaPYYO2AA",
+    "plus_code": {
+        "compound_code": "R374+V2 New York, United States",
+        "global_code": "87G8R374+V2"
+    },
+    "rating": 3.7,
+    "reference": "ChIJOcs2dHH2wokR4ZfaPYYO2AA",
+    "reviews": [
+        {
+            "author_name": "Monica W Duke",
+            "author_url": "https://www.google.com/maps/contrib/106811756932816505244/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5gXVnhuC0pI/AAAAAAAAAAI/AAAAAAAAANE/Q-KPXi56f8Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541331693
+        },
+        {
+            "author_name": "Donald Elmore",
+            "author_url": "https://www.google.com/maps/contrib/114701024511351209005/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-L9fB3ypScKo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ9hwbMSqeo_r6e7frXnhis5Q-Otw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1531161650
+        },
+        {
+            "author_name": "Rachel Reyes",
+            "author_url": "https://www.google.com/maps/contrib/114833839914822561375/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VOVW_cQC8K8/AAAAAAAAAAI/AAAAAAAAA2Y/eEH5bebDMq0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1443361380
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=60814564695644129",
+    "utc_offset": -300,
+    "vicinity": "204 West 134th Street, New York",
+    "website": "http://www.stphilipsharlem.org/"
+}

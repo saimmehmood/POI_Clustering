@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.822865,
+            "lng": -73.937859
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82422088029149,
+                "lng": -73.93650481970847
+            },
+            "southwest": {
+                "lat": 40.8215229197085,
+                "lng": -73.9392027802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "3c0dcb5e9eba043679414ad54d5df355649ca6de",
+    "name": "W 147 St/Adam C Powell Blvd",
+    "photos": [
+        {
+            "height": 3066,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213/photos\">Jay Kindell</a>"
+            ],
+            "photo_reference": "CmRZAAAAVvxo7KWKHtwY3HHUkyqSz0gaA8qwkYCcHK3juWMNAzAg74Xpq6VmqDA-BbHWTkZFDBUkDiRT0K2AMZ7NdqzdS3CfWLYQJNdj9VQnl2D6zpRdUDNrzKOQnHLSPJLOR9dPEhCs2G6DWIbI6-AT7Cijl9XvGhSx5t0px8EeH4nj6AuuqQHyeuS6pw",
+            "width": 4600
+        }
+    ],
+    "place_id": "ChIJR4t5M3_2wokRIL4xxpX_TsM",
+    "plus_code": {
+        "compound_code": "R3F6+4V New York, United States",
+        "global_code": "87G8R3F6+4V"
+    },
+    "reference": "ChIJR4t5M3_2wokRIL4xxpX_TsM",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14073466904319737376",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

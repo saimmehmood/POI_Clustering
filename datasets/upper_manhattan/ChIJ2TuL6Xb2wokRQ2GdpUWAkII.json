@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "506",
+            "short_name": "506",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1889",
+            "short_name": "1889",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">506 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1889</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "506 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-2250",
+    "geometry": {
+        "location": {
+            "lat": 40.8143106,
+            "lng": -73.9398053
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8157908302915,
+                "lng": -73.93876946970849
+            },
+            "southwest": {
+                "lat": 40.8130928697085,
+                "lng": -73.9414674302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f5ed30fc7674634b5f04a9893fb223a9e746ee58",
+    "international_phone_number": "+1 212-939-2250",
+    "name": "Dr. Toni Wright, MD",
+    "place_id": "ChIJ2TuL6Xb2wokRQ2GdpUWAkII",
+    "plus_code": {
+        "compound_code": "R376+P3 New York, United States",
+        "global_code": "87G8R376+P3"
+    },
+    "reference": "ChIJ2TuL6Xb2wokRQ2GdpUWAkII",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9408160658196619587",
+    "utc_offset": -300,
+    "vicinity": "506 Malcolm X Boulevard, New York",
+    "website": "http://www.nyc.gov/html/hhc/harlem/html/home/home.shtml"
+}

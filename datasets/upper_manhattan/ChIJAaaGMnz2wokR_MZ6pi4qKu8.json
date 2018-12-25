@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "323",
+            "short_name": "323",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3045",
+            "short_name": "3045",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">323 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3045</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "323 Edgecombe Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-2559",
+    "geometry": {
+        "location": {
+            "lat": 40.8257707,
+            "lng": -73.94257209999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270768302915,
+                "lng": -73.9411202197085
+            },
+            "southwest": {
+                "lat": 40.8243788697085,
+                "lng": -73.94381818029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "22457be1c695bf337e4a976d72c2f278ff4307b5",
+    "international_phone_number": "+1 212-234-2559",
+    "name": "323-29 Edgecombea Av HDFC",
+    "place_id": "ChIJAaaGMnz2wokR_MZ6pi4qKu8",
+    "plus_code": {
+        "compound_code": "R3G4+8X New York, United States",
+        "global_code": "87G8R3G4+8X"
+    },
+    "reference": "ChIJAaaGMnz2wokR_MZ6pi4qKu8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17233633303936550652",
+    "utc_offset": -300,
+    "vicinity": "323 Edgecombe Avenue, New York"
+}

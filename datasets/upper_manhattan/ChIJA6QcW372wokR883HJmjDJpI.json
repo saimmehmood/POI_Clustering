@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8259855,
+            "lng": -73.9398612
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8273887302915,
+                "lng": -73.93847226970848
+            },
+            "southwest": {
+                "lat": 40.8246907697085,
+                "lng": -73.9411702302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c3ef4a0f9f48282897cbd40f0fa9dbc5a8a1fd33",
+    "name": "99\u00a2 Plus",
+    "place_id": "ChIJA6QcW372wokR883HJmjDJpI",
+    "plus_code": {
+        "compound_code": "R3G6+93 New York, United States",
+        "global_code": "87G8R3G6+93"
+    },
+    "reference": "ChIJA6QcW372wokR883HJmjDJpI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10531319630747127283",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

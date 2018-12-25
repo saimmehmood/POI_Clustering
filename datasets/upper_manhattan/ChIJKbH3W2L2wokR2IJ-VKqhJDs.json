@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Riverside Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Riverside Dr, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8279741,
+            "lng": -73.9510341
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8293230802915,
+                "lng": -73.9496851197085
+            },
+            "southwest": {
+                "lat": 40.8266251197085,
+                "lng": -73.95238308029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "90cdc233b0251f5c887c5d043e310d94a830eb7b",
+    "name": "Riverside Drive",
+    "place_id": "ChIJKbH3W2L2wokR2IJ-VKqhJDs",
+    "reference": "ChIJKbH3W2L2wokR2IJ-VKqhJDs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Riverside+Dr,+New+York,+NY+10031,+USA&ftid=0x89c2f6625bf7b129:0x3b24a1aa547e82d8",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

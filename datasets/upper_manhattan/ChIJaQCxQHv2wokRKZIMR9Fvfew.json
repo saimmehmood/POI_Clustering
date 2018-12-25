@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "36",
+            "short_name": "36",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hamilton Terrace",
+            "short_name": "Hamilton Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6403",
+            "short_name": "6403",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">36 Hamilton Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6403</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "36 Hamilton Terrace, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 926-3270",
+    "geometry": {
+        "location": {
+            "lat": 40.82287040000001,
+            "lng": -73.9466721
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8241809802915,
+                "lng": -73.9452304197085
+            },
+            "southwest": {
+                "lat": 40.8214830197085,
+                "lng": -73.9479283802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ab1961cf755e5d3869bf1afad90c0b5c647edda8",
+    "international_phone_number": "+1 212-926-3270",
+    "name": "King Robert A",
+    "place_id": "ChIJaQCxQHv2wokRKZIMR9Fvfew",
+    "plus_code": {
+        "compound_code": "R3F3+48 New York, United States",
+        "global_code": "87G8R3F3+48"
+    },
+    "reference": "ChIJaQCxQHv2wokRKZIMR9Fvfew",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17040899509670679081",
+    "utc_offset": -300,
+    "vicinity": "36 Hamilton Terrace, New York"
+}

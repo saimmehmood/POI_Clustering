@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "222 W 134th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81482259999999,
+            "lng": -73.94594740000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163817302915,
+                "lng": -73.9444433697085
+            },
+            "southwest": {
+                "lat": 40.8136837697085,
+                "lng": -73.9471413302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "936b1fc515690a3c50349ba7a93c4a7b6577714d",
+    "name": "School Valeria",
+    "place_id": "ChIJabvhnHH2wokRJ2kb9dOfAv0",
+    "plus_code": {
+        "compound_code": "R373+WJ New York, United States",
+        "global_code": "87G8R373+WJ"
+    },
+    "reference": "ChIJabvhnHH2wokRJ2kb9dOfAv0",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18231309974248319271",
+    "utc_offset": -300,
+    "vicinity": "222 West 134th Street, New York"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4104",
+            "short_name": "4104",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4104</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-5054",
+    "geometry": {
+        "location": {
+            "lat": 40.8218928,
+            "lng": -73.9400417
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8232996802915,
+                "lng": -73.93865026970849
+            },
+            "southwest": {
+                "lat": 40.8206017197085,
+                "lng": -73.9413482302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "9996658206a18bcc72dd18dc60658acbd4a9b205",
+    "international_phone_number": "+1 212-283-5054",
+    "name": "Michaux Lightfoot Elder Study",
+    "place_id": "ChIJLcl3Pnn2wokRDXdWBKTGTv8",
+    "plus_code": {
+        "compound_code": "R3C5+QX New York, United States",
+        "global_code": "87G8R3C5+QX"
+    },
+    "reference": "ChIJLcl3Pnn2wokRDXdWBKTGTv8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18396859935604766477",
+    "utc_offset": -300,
+    "vicinity": "220 West 145th Street, New York"
+}

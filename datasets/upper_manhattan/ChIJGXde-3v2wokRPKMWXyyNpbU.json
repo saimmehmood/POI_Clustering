@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(347) 515-6432",
+    "geometry": {
+        "location": {
+            "lat": 40.822602,
+            "lng": -73.9424434
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82412318029149,
+                "lng": -73.94096086970849
+            },
+            "southwest": {
+                "lat": 40.82142521970849,
+                "lng": -73.9436588302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "aa7a85d809dee87ba3024ab88d3385a34ce9d161",
+    "international_phone_number": "+1 347-515-6432",
+    "name": "Super Foodtown of Bradhurst",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 1:00 AM",
+            "Tuesday: 6:00 AM \u2013 1:00 AM",
+            "Wednesday: 6:00 AM \u2013 1:00 AM",
+            "Thursday: 6:00 AM \u2013 1:00 AM",
+            "Friday: 6:00 AM \u2013 1:00 AM",
+            "Saturday: 6:00 AM \u2013 1:00 AM",
+            "Sunday: 6:00 AM \u2013 1:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1776,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116256552969192364142/photos\">Dave Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAA54RBbTDRikby7Rj6wcQy5LQd59VX6eSCZ5KZ1JlhNFXZvi628szo02f9mA5CNmTfIAfdDRsEKhMK-4BwJssk8wMDSIHY324pCOF9X7YkGpVIzc7YAPpt_bbZifYKupLnEhAObas4yOUr7s27BjDUwdBhGhRbjOCyn0oeah7GHeznrxnL2gY2bQ",
+            "width": 2268
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104163712977625682891/photos\">Oleg Syrchin</a>"
+            ],
+            "photo_reference": "CmRaAAAACv1xEQRnItSZUWTcqcX-H50wg-Qkg6MtD-BeGh88BCwDM9RKNsGndM1wuf_WAsRSlBCvW1BuHnqu9E5Ykzh_aUUDlc1VR939WfVe4CY9NvOhlpMd5bGsW0gyhrvMpyi7EhB3UN6-9lMl9FHJHN07ADE2GhTYBHVrmImx5vBYXfo9NM37qOUChQ",
+            "width": 3024
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113729875092944114793/photos\">Apolonio Rosado</a>"
+            ],
+            "photo_reference": "CmRaAAAAcoqdrotbYy0lTUB_mBHObBhMN2EnvVdkTucqCxFFP-zWfP49ZUDA7IJoj-BoKeEBDG1Sc9osFGAF3B-luXRvn0boUlbJm1u498zb_AYe0dJyujUvOST7HcqTkeMdADmxEhCNUmNIN_2xkHielbnelDR7GhTocXL0H8n11RipUY6UYGhIFOnR3g",
+            "width": 3264
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106064531630162565898/photos\">Hazil R.</a>"
+            ],
+            "photo_reference": "CmRaAAAA5VFJ5oCmPbHt9IKWN0QPILDUXwrcZiw8UREsGvwmNMJwrtzg2Uk9DL0sTzU7FUlaosbRXHAxm90FcWBNxhIArvfQHy1GWyQKCwYBrqgrid_rhE9E7y2zU4gsAvGHLuEWEhCMIp3qA8CDf2wY4XQe_J5GGhQaa3HiVVgx_mlsiqWTk8k2gpoYuA",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104080974832728224148/photos\">M.N Wilkinson</a>"
+            ],
+            "photo_reference": "CmRZAAAARY9kdodBi_v0FRtyQ9K_cpSVxHtvKDsOKhIa75zDRxIwwEYvT10-V_Hb37-4XU8QDBBcl5HX6pcb-jGwvrqyZD4OnNEl-e2GZFI61iRrnSe-Oqq1o4pNp0JLCa-Y8_I5EhB8r5kh6xZu_jQsQvKURwlMGhRiUzy0aS7xeuLl-1JWZ2s6FRc8yw",
+            "width": 3024
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108051726793936620569/photos\">Kata Luk\u00e1ts</a>"
+            ],
+            "photo_reference": "CmRaAAAAdCXQ8mSJVrZgKyRUVZev0P3iGZYfh0WwZxFCML4_mU_mOOLmBF9hUFa1sPY-kFvjKnX5CVrXnjMbGtvs9xVSu4rdjE9eeZ2SSgq5xclDi2khch94L7Lek5j0G-_kxsIlEhCjyh-huIPN0UB1BPsRLOXvGhQY-o7V97CcH5911WLF5tuXVpuhvw",
+            "width": 2988
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105599309917215247168/photos\">Robert Serrano</a>"
+            ],
+            "photo_reference": "CmRaAAAARjsedTMiXrCnaJWnZukcZs4LU65PptQur1uI53LYrIV5zJOreFqVyiFCNze5YCwsMiQ3RXwtoHg3UDOF4HQmF0kFACaPlHEXbLUHc1bYQKLwxwv1pI3EP2Vy35N1ekxhEhDWlNIDP7ZnfUO6DNHwp90RGhQatTn2otQM_SQh0n1Xbj__MxaHjw",
+            "width": 4032
+        },
+        {
+            "height": 2250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109322640809256884081/photos\">Santiago Trevi\u00f1o</a>"
+            ],
+            "photo_reference": "CmRaAAAAbbwfUOBUoQ1QvYKB9Z7U96v0-kXgSEJOdo0gsmxuMs_BsZVLmvlBOLq8Flu-PFP-7VfPfF55qgRUTIWb8zvdz6ImN_Gm1jGC8MHUcCBaMcSh_3Ej8SYLoUL6K2oyen1dEhDbuhoDaKUxNhav7ZminKhVGhSftt-8qQP8xeOyOLrNJgIA3lSPUQ",
+            "width": 4000
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100912921515431621851/photos\">Dangerous 310</a>"
+            ],
+            "photo_reference": "CmRaAAAA9TPy8k0XW5KOBrNTSsN1jA2utAFPP2XYWSB8iRv0OydaxGzmD-WrNi-FrigkTWLKKuyKoHGts739LeRza6coRJ-RFSakft4j578ZNUKeau6L1WBEBrPdSPfWO2ocDnEuEhDHex6bapQJV0hAlyTbfn-EGhRF4-E3km1CQ4oT3kM_J7Wlj3zH4A",
+            "width": 3024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108051726793936620569/photos\">Kata Luk\u00e1ts</a>"
+            ],
+            "photo_reference": "CmRaAAAAppOvDVjGV6NiNigI1S3hlUxjAaBFVwjhPovEHDc3mphsu938nD8YhKUeuXbnajkaDmyyPB3uz1hhxxeIZNYLbMo1K64H8UIdCyjSiF-l-1uq5NH9eK9ODCpa2MUincNvEhB_-rgvjs0rjCqeseUgGXHwGhRM9yKtmylrSFy5BiZnm7v7NiCs2Q",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJGXde-3v2wokRPKMWXyyNpbU",
+    "plus_code": {
+        "compound_code": "R3F5+22 New York, United States",
+        "global_code": "87G8R3F5+22"
+    },
+    "rating": 4,
+    "reference": "ChIJGXde-3v2wokRPKMWXyyNpbU",
+    "reviews": [
+        {
+            "author_name": "Kenji Hemmert",
+            "author_url": "https://www.google.com/maps/contrib/115295060385497513170/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pRFkG8ReWgc/AAAAAAAAAAI/AAAAAAAAAfM/K8p54W94TU4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I always have a great experience at Super Foodtown. Whether you want fresh strawberries, yellow gatorade, or frozen pizza, this is the go-to spot in Harlem for groceries. Just make sure you get a Foodtown Club Card so you don't miss out on super savings!",
+            "time": 1544770729
+        },
+        {
+            "author_name": "Tanya Campbell",
+            "author_url": "https://www.google.com/maps/contrib/112529517688856877234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-82_1ItYzqAA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYPHIrOf67-bUY2xeMVfYRCpMLMhg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Most of the time you can find what you're looking for, especially if you have a stationary list. You know like there's certain things you buy every week, they'll usually have them in stock. I love they're green point system, it lets you get free food, in a way.  It's all in all a pretty good store!! I like it a lot & I live like a block & a half away,  It's convenient 4 me, even with close by competion.",
+            "time": 1541011409
+        },
+        {
+            "author_name": "Tyrone Scott",
+            "author_url": "https://www.google.com/maps/contrib/111257820715365127064/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oB-2OeACf_E/AAAAAAAAAAI/AAAAAAAAMh8/OAimRsuK7hM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "They have completely turned this store around. Great selections starting with an incredible produce section that used to be a food desert. Health food section looks distinctive from rest of store. Employees are very friendly and helpful and no attitude which is atypical in NYC.",
+            "time": 1541963380
+        },
+        {
+            "author_name": "jeffery usher",
+            "author_url": "https://www.google.com/maps/contrib/116103112919316088393/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-D3kO_Ue5clI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbOsULqOSopbMwsYc9zd28KmY6m8w/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Good place to shop make sure you sign out for the discount card for food town to save money on weekly deals. The cashier often times do not have cards for use. do not lose out of the simple saving. Also, they sale a good amount of vegan products. Lastly, they interesting option in the frozen section for vegans that are not badly priced.",
+            "time": 1534874678
+        },
+        {
+            "author_name": "T Mac",
+            "author_url": "https://www.google.com/maps/contrib/101324024864187206249/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-r9-bD33sDNE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYFgZbl6tqSE0QwlXwIoB_ErdqAoA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I ordered catered food, it was absolutely delicious.  The fried chicken,  fish bbq chicken wings and baked chicken was juicy and tasty.  I would definitely recommend using them for catering events",
+            "time": 1541545075
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "florist",
+        "supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13089023113735611196",
+    "utc_offset": -300,
+    "vicinity": "300 West 145th Street, New York",
+    "website": "https://www.foodtown.com/stores/foodtown-of-bradhurst?utm_source=googlemybusiness&utm_medium=vicinity&utm_campaign=websiteclick"
+}

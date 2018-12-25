@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3002",
+            "short_name": "3002",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-3002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "222 W 134th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-4277",
+    "geometry": {
+        "location": {
+            "lat": 40.8145839,
+            "lng": -73.9449913
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81607998029151,
+                "lng": -73.9435337697085
+            },
+            "southwest": {
+                "lat": 40.81338201970851,
+                "lng": -73.9462317302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "f773e92297d0898d6ce39670a673fe53299600e1",
+    "international_phone_number": "+1 212-234-4277",
+    "name": "St Thomas Warren School",
+    "place_id": "ChIJxQKUmHH2wokREhHDGGyrwlE",
+    "plus_code": {
+        "compound_code": "R374+R2 New York, United States",
+        "global_code": "87G8R374+R2"
+    },
+    "reference": "ChIJxQKUmHH2wokREhHDGGyrwlE",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5891459743314284818",
+    "utc_offset": -300,
+    "vicinity": "222 West 134th Street, New York"
+}

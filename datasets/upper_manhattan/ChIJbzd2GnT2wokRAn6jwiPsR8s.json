@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "7E",
+            "short_name": "7E",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Lenox Ave #7E</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Lenox Ave #7E, New York, NY 10037, USA",
+    "formatted_phone_number": "(917) 507-5414",
+    "geometry": {
+        "location": {
+            "lat": 40.81267909999999,
+            "lng": -73.9408818
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81404888029149,
+                "lng": -73.93963126970849
+            },
+            "southwest": {
+                "lat": 40.8113509197085,
+                "lng": -73.9423292302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "af50421aa73b8cefe5387b2fb5dd0edeb4e9accb",
+    "international_phone_number": "+1 917-507-5414",
+    "name": "IBG Ministries, Inc.",
+    "place_id": "ChIJbzd2GnT2wokRAn6jwiPsR8s",
+    "plus_code": {
+        "compound_code": "R375+3J New York, United States",
+        "global_code": "87G8R375+3J"
+    },
+    "reference": "ChIJbzd2GnT2wokRAn6jwiPsR8s",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14647935951379332610",
+    "utc_offset": -300,
+    "vicinity": "470 Lenox Avenue #7E, New York",
+    "website": "http://ibgministries.org/"
+}

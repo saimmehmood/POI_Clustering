@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1608",
+            "short_name": "1608",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 W 142nd St #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1608</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "115 W 142nd St #2, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-2249",
+    "geometry": {
+        "location": {
+            "lat": 40.8188079,
+            "lng": -73.9380556
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201135302915,
+                "lng": -73.93673826970848
+            },
+            "southwest": {
+                "lat": 40.8174155697085,
+                "lng": -73.9394362302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e32c1573b50242fc10dbad4c00f55c6d1a6886cb",
+    "international_phone_number": "+1 212-234-2249",
+    "name": "Paul O Register Houses",
+    "place_id": "ChIJDTYmOnj2wokRVoOTzcVNQ1M",
+    "plus_code": {
+        "compound_code": "R396+GQ New York, United States",
+        "global_code": "87G8R396+GQ"
+    },
+    "reference": "ChIJDTYmOnj2wokRVoOTzcVNQ1M",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5999724640540525398",
+    "utc_offset": -300,
+    "vicinity": "115 West 142nd Street #2, New York"
+}

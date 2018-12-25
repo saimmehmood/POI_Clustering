@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8167799,
+            "lng": -73.94755549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8181894802915,
+                "lng": -73.94616211970849
+            },
+            "southwest": {
+                "lat": 40.8154915197085,
+                "lng": -73.9488600802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "6fab13f213de8d7224d2a0e9a406ea39f0355585",
+    "name": "Mt. Ararat Baptist Church",
+    "place_id": "ChIJdYnfKnD2wokREiPVB53yxPM",
+    "plus_code": {
+        "compound_code": "R382+PX New York, United States",
+        "global_code": "87G8R382+PX"
+    },
+    "reference": "ChIJdYnfKnD2wokREiPVB53yxPM",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17565431202906972946",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

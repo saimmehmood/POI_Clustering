@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "158-298",
+            "short_name": "158-298",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">158-298 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "158-298 Edgecombe Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8227781,
+            "lng": -73.9445274
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8240947802915,
+                "lng": -73.94306236970849
+            },
+            "southwest": {
+                "lat": 40.8213968197085,
+                "lng": -73.9457603302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "92981ead0fc3f9816f888dbac60fcc3787cbc1ca",
+    "name": "NY home",
+    "place_id": "ChIJbRZi2TT3wokR6KMO3H3beGo",
+    "plus_code": {
+        "compound_code": "R3F4+45 New York, United States",
+        "global_code": "87G8R3F4+45"
+    },
+    "reference": "ChIJbRZi2TT3wokR6KMO3H3beGo",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7672123298834981864",
+    "utc_offset": -300,
+    "vicinity": "158-298 Edgecombe Avenue, New York"
+}

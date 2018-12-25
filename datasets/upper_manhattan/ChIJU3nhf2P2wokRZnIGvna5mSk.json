@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "526",
+            "short_name": "526",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6501",
+            "short_name": "6501",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">526 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6501</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "526 W 143rd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 820-4272",
+    "geometry": {
+        "location": {
+            "lat": 40.82455489999999,
+            "lng": -73.95060699999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82600363029149,
+                "lng": -73.94918321970849
+            },
+            "southwest": {
+                "lat": 40.82330566970849,
+                "lng": -73.9518811802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e77b00f07b59466789242c4276ab6e4203c8613a",
+    "international_phone_number": "+1 646-820-4272",
+    "name": "Body Support Center",
+    "place_id": "ChIJU3nhf2P2wokRZnIGvna5mSk",
+    "plus_code": {
+        "compound_code": "R2FX+RQ New York, United States",
+        "global_code": "87G8R2FX+RQ"
+    },
+    "reference": "ChIJU3nhf2P2wokRZnIGvna5mSk",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2997630946637148774",
+    "utc_offset": -300,
+    "vicinity": "526 West 143rd Street, New York",
+    "website": "http://bodysupportcenter.com/contact-us/"
+}

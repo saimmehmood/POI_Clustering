@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 4R",
+            "short_name": "# 4R",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "68",
+            "short_name": "68",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bradhurst Avenue",
+            "short_name": "Bradhurst Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3313",
+            "short_name": "3313",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">68 Bradhurst Ave # 4R</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-3313</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "68 Bradhurst Ave # 4R, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 479-7732",
+    "geometry": {
+        "location": {
+            "lat": 40.8235957,
+            "lng": -73.94231959999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82499893029151,
+                "lng": -73.9411015697085
+            },
+            "southwest": {
+                "lat": 40.82230096970851,
+                "lng": -73.9437995302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d3cfc31e188b2d617f9bcd45df243e5401bce510",
+    "international_phone_number": "+1 212-479-7732",
+    "name": "Savvy Actor LLC",
+    "place_id": "ChIJLaHA-Hv2wokR-QCzBCcr9v8",
+    "plus_code": {
+        "compound_code": "R3F5+C3 New York, United States",
+        "global_code": "87G8R3F5+C3"
+    },
+    "reference": "ChIJLaHA-Hv2wokR-QCzBCcr9v8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18443976770525004025",
+    "utc_offset": -300,
+    "vicinity": "68 Bradhurst Avenue # 4R, New York"
+}

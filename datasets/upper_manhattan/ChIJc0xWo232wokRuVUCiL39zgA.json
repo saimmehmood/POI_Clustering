@@ -1,0 +1,171 @@
+{
+    "address_components": [
+        {
+            "long_name": "2407",
+            "short_name": "2407",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1823",
+            "short_name": "1823",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2407 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-1823</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2407 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8126971,
+            "lng": -73.9495527
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140082302915,
+                "lng": -73.9481143197085
+            },
+            "southwest": {
+                "lat": 40.8113102697085,
+                "lng": -73.9508122802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0a472c34b9ba9e5f5ccb6ebd2e396f69062b98da",
+    "name": "Abdou Kings Deli Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJc0xWo232wokRuVUCiL39zgA",
+    "plus_code": {
+        "compound_code": "R372+35 New York, United States",
+        "global_code": "87G8R372+35"
+    },
+    "rating": 5,
+    "reference": "ChIJc0xWo232wokRuVUCiL39zgA",
+    "reviews": [
+        {
+            "author_name": "Nina Funderburk",
+            "author_url": "https://www.google.com/maps/contrib/112290981065337509878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-O7sve0wESJs/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYdxL2zRj61VfCutT4RybVgWQoHYA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "EXCELLENT SERVICE",
+            "time": 1543606035
+        },
+        {
+            "author_name": "Junai Carter",
+            "author_url": "https://www.google.com/maps/contrib/106660815710757446491/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cbz0SFuWuFk/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY_4B2WYMKT4GxRDmA8hpPJkO4fSg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great customer service",
+            "time": 1498781845
+        },
+        {
+            "author_name": "Sasha Np",
+            "author_url": "https://www.google.com/maps/contrib/118066377821289875077/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jJVVtcRE8rw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYzvu72vG7Q6U9f_bYn4uUEgKirUA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1545345366
+        },
+        {
+            "author_name": "Thomas Ireland",
+            "author_url": "https://www.google.com/maps/contrib/118105262097776174206/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Eh5bMhtIgeI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcapAQgqmfFUHWTMzJnd_NgQ_QUS9A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1457668159
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=58262835674895801",
+    "utc_offset": -300,
+    "vicinity": "2407 Frederick Douglass Boulevard, New York"
+}

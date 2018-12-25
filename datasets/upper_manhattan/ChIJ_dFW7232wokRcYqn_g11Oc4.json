@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8137856,
+            "lng": -73.9488089
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8150896302915,
+                "lng": -73.94735456970848
+            },
+            "southwest": {
+                "lat": 40.8123916697085,
+                "lng": -73.9500525302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ba837cf54d5ee4e178512d1524fcf405fbdacc73",
+    "name": "Association Of Malian Community In New York",
+    "place_id": "ChIJ_dFW7232wokRcYqn_g11Oc4",
+    "plus_code": {
+        "compound_code": "R372+GF New York, United States",
+        "global_code": "87G8R372+GF"
+    },
+    "rating": 4,
+    "reference": "ChIJ_dFW7232wokRcYqn_g11Oc4",
+    "reviews": [
+        {
+            "author_name": "BADARA OUATTARA",
+            "author_url": "https://www.google.com/maps/contrib/105863433965278340360/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Cp0Ojl1NVEY/AAAAAAAAAAI/AAAAAAAADEo/i5Bo2ebJFrM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1525624359
+        },
+        {
+            "author_name": "Official Mariam TV",
+            "author_url": "https://www.google.com/maps/contrib/112523708576552799393/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VJ-YZpTTChU/AAAAAAAAAAI/AAAAAAAADvs/P67oXZBvHzQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1523131627
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14860037148453079665",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

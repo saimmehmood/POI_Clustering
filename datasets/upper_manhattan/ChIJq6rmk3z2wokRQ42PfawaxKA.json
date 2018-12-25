@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "421",
+            "short_name": "421",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5203",
+            "short_name": "5203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">421 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "421 W 145th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8248089,
+            "lng": -73.9458326
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260378802915,
+                "lng": -73.9445721697085
+            },
+            "southwest": {
+                "lat": 40.8233399197085,
+                "lng": -73.9472701302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "11587b1266fdd56458acd020f0de381631f0bb40",
+    "name": "Colegio De Erin",
+    "place_id": "ChIJq6rmk3z2wokRQ42PfawaxKA",
+    "plus_code": {
+        "compound_code": "R3F3+WM New York, United States",
+        "global_code": "87G8R3F3+WM"
+    },
+    "reference": "ChIJq6rmk3z2wokRQ42PfawaxKA",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11584413469647015235",
+    "utc_offset": -300,
+    "vicinity": "421 West 145th Street, New York"
+}

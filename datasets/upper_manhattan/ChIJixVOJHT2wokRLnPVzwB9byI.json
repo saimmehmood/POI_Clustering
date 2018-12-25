@@ -1,0 +1,142 @@
+{
+    "address_components": [
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 134th Street",
+            "short_name": "W 134th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2535",
+            "short_name": "2535",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 134th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-2535</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 134th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(347) 709-7022",
+    "geometry": {
+        "location": {
+            "lat": 40.8125758,
+            "lng": -73.9399304
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8138451302915,
+                "lng": -73.93864321970851
+            },
+            "southwest": {
+                "lat": 40.8111471697085,
+                "lng": -73.94134118029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "523a941be7a38eaf35b0d7c59cbc79a02c030b7b",
+    "international_phone_number": "+1 347-709-7022",
+    "name": "The Harlem Swing Dance Society",
+    "place_id": "ChIJixVOJHT2wokRLnPVzwB9byI",
+    "plus_code": {
+        "compound_code": "R376+22 New York, United States",
+        "global_code": "87G8R376+22"
+    },
+    "rating": 3.7,
+    "reference": "ChIJixVOJHT2wokRLnPVzwB9byI",
+    "reviews": [
+        {
+            "author_name": "JPQ Stevens",
+            "author_url": "https://www.google.com/maps/contrib/109785577086109572374/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MOAULLHYtpk/AAAAAAAAAAI/AAAAAAAAGb0/qXu_7t485l8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Excellent dancing the 1 star is a troll lol",
+            "time": 1487221078
+        },
+        {
+            "author_name": "Giraffie R.",
+            "author_url": "https://www.google.com/maps/contrib/100783410649006760279/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Wpm2JjMc_OQ/AAAAAAAAAAI/AAAAAAAAAb8/YR2J202BzWQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1516618668
+        },
+        {
+            "author_name": "Nailah Salam",
+            "author_url": "https://www.google.com/maps/contrib/108155338022571284524/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Ef2kAO9jQGE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaBw84Dg-7MVg7MWXy_C_z3HzpH1A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1479075177
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2481339362144777006",
+    "utc_offset": -300,
+    "vicinity": "34 West 134th Street, New York",
+    "website": "http://theharlemswingdancesociety.webs.com/classes.htm"
+}

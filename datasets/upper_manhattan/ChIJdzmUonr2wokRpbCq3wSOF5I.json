@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "91",
+            "short_name": "91",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">91 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "91 Edgecombe Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-1114",
+    "geometry": {
+        "location": {
+            "lat": 40.819583,
+            "lng": -73.946469
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82087483029149,
+                "lng": -73.94498321970849
+            },
+            "southwest": {
+                "lat": 40.8181768697085,
+                "lng": -73.9476811802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "165037fa3cb34bb5a1fd099c58de74252a5e19fb",
+    "international_phone_number": "+1 212-234-1114",
+    "name": "St. Nicholas Chess And Backgammon, Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 PM \u2013 12:00 AM",
+            "Tuesday: 12:00 PM \u2013 12:00 AM",
+            "Wednesday: 12:00 PM \u2013 12:00 AM",
+            "Thursday: 12:00 PM \u2013 12:00 AM",
+            "Friday: 12:00 PM \u2013 12:00 AM",
+            "Saturday: 11:30 AM \u2013 3:00 AM",
+            "Sunday: 12:00 PM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2422,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111387263402639630950/photos\">David Altman</a>"
+            ],
+            "photo_reference": "CmRaAAAAJhoafEf6XWpubj_FZ-2MLbVzQ2htmK5xf1z-NfTNeaNsASq-2mXXOFFpHaIR5ffCRRLQz8KKyZdRiwUry6SfKLXrtTe2q8IX1k4qG8oKY08wYtcJJHpaAY_N7sWynKsPEhCT1fz-FTtzsCfUY5fwwidnGhRzwNT58PKaC5w4vIe_9UWlxnBClQ",
+            "width": 3225
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107126845515584521154/photos\">Z A</a>"
+            ],
+            "photo_reference": "CmRaAAAAvtpif5q9XRImKiElrlMkGoabdL9ZyWeQOIOCiAg1o0dXXRXlAQzSVlqhj-Ugpuh_39xW5n61jwMeHLDZzrLn1kJSpzzGD2krqE0JY3BMT332K-Ml0Y2dFdqEw9ndJdDzEhDYNYKQ5sMWMIdZmWdiBMVYGhR8CN0jcKxys-97SPLQCM4TMel58g",
+            "width": 2560
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAbp5TKXnlO5Hqn1Fx7GekMIFIndOKZ6CytBIo34XqRYrpAMxDQceA1oqRYroZvmPIaHXhmIxFT9__gNkwpFo7DUcKvGCJvy7rEWptvaGP1QcSLymJhbHphMu0cRbWg76yEhBQTj8nznpYC97XX7Bjm8APGhRZNSRRfnaTX71-m1FaaUK26RzDCg",
+            "width": 2048
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAA0rDAvCC7ZZXNTPKNOBXxY-baevDsPWurGDBDahn4jwmtUtXVrhd_8vMvauw-ukp5ElkSiRUE-OWDpOPx9Zg-rUtRKsxWoG78JmzJTlEr8l5CNJnl2zu--cudPdSElijdEhBiTQuVQB_7rRAnnp8IO3ddGhSxopBeXx5c7tq8_eETaumX2Np4Hg",
+            "width": 2988
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAmoFRaJn0PByckKMWD_zE25RWy0cLgsqNpWy9VD4dJOaL-2A2D9kJEAri30Sl9RN__fwGxJ9Lux2H1C8TmMQvr5J6cbTQ5nc2JoEXU6ycPbvS6khlGwicz-cR3KYEhB43EhClgaXSIXiEFVGc0J2lfEC5GhTcn0mH0V7GGpIWricb2ugnZs9VHQ",
+            "width": 2048
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAEe1waN3bBGcuU1rsXG9NxsHL6eDk67p-sYshgSBZWpc0xTkDzANiZLzqoiWRrvkTAkRpBPjmA6QmO1LerzZzgi5HsvfVjgOF5M__1y6_39LFaoeq6dxHdZ2YWo0Aqty2EhCLoCG5_0zIZS70ftrTrfzdGhQNhKmKozYhlyo6yQ_8EbpjHOLAZg",
+            "width": 5312
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883/photos\">Pavel Push</a>"
+            ],
+            "photo_reference": "CmRaAAAA71MzPb7ie70osmep5dGHdlRoKNsulQ9AWgrv9H3ve71cOfK-QzRP3FqKFMQVXaWyIY4DtKh0_ErMhp3IXcpOse0crqaD2MWc-ul3PrRjcgRFA9j3FUt3g4KpSUAH12g6EhDga_11tw1inunS-pDn8qHFGhTWrIm4KIe1AVgsTEIaM1GJf85ZRg",
+            "width": 1536
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAomi5g1A1m7g8bdYSf692JLHhOadgpiD6raVqriBs-3LXrHwwqiYVx7OX4my8rttKui0DK0C2jmhRjBEFXpCA9-9afC5x4j3w1ugwNOeXmZBMOsEZzvpmiyj-nrTNCFBHEhAJPrc0HUOWthAjQFqQ-SZlGhRpx2RKGSsJwcY-WrkW4lxVPUuyvw",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAFsX4cbGBvA_wKEQbUJAwZHipOhuKEPkxvMhwkALlSm867KFdO8sBcyXJdGsaBwAZXS_rX4cmGZxUTGnXg56rpNtd9SfnsswqEub66ol1cXU8DzmZk5m2eiNIOM-ZC427EhAf0UlEkR8V7surDLPaMDrgGhSPWtgZ9NcsdzOExTMOhgFYsxpPwg",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102600985800070126714/photos\">St. Nicholas Chess And Backgammon, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAARIuyJvy1z8U5_LpemheqJjV8Y9aCyYfoVLQZS7aYpiz21kd9HbkeXzQW7IbSjP6lca0DcAK2hvf7t7Wpo9nOEtinyvD2DmvpwzgFo4pqwmaCxL94-kn9f_MIHhKgXypREhAyIjv2haSsrPnvYCOb14ldGhRqvLWJgNCts1rjpvK8UMABwD_MTA",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJdzmUonr2wokRpbCq3wSOF5I",
+    "plus_code": {
+        "compound_code": "R393+RC New York, United States",
+        "global_code": "87G8R393+RC"
+    },
+    "rating": 5,
+    "reference": "ChIJdzmUonr2wokRpbCq3wSOF5I",
+    "reviews": [
+        {
+            "author_name": "Tyson Hartnett",
+            "author_url": "https://www.google.com/maps/contrib/113061136434789412710/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-EmSg7qja2BU/AAAAAAAAAAI/AAAAAAAAFig/cmVQuw0OT-Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great place, very welcoming, and man they are good!",
+            "time": 1520716967
+        },
+        {
+            "author_name": "Francine W.",
+            "author_url": "https://www.google.com/maps/contrib/104288387415883438764/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/--apFjbZ-SHk/AAAAAAAAAAI/AAAAAAAADc4/ff5N2JM8u3k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great Chess Players .....Great Backgammon Players.....!!",
+            "time": 1521792272
+        },
+        {
+            "author_name": "Robert Boscacci",
+            "author_url": "https://www.google.com/maps/contrib/110824386276513312580/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XQb8z3wofMQ/AAAAAAAAAAI/AAAAAAAA6RU/2fNTgPtzDSQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Chess \"saved my life,\" as one frequent guest of this fine establishment once declared. This place is home to the best chess players in Harlem, they compete with the Russian masters downtown.",
+            "time": 1465450574
+        },
+        {
+            "author_name": "Pavel Push",
+            "author_url": "https://www.google.com/maps/contrib/115249705305889734883/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-E8TMBq6ID4w/AAAAAAAAAAI/AAAAAAAACU0/aAvg1Jf8UD0/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1515524662
+        },
+        {
+            "author_name": "Stephanie McMullen",
+            "author_url": "https://www.google.com/maps/contrib/117678009386210277578/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7vLZU5rGuFc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwca7fpm-LDb0fhtr1cKjEjKaBvb0Kg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1500837907
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10527038805585342629",
+    "utc_offset": -300,
+    "vicinity": "91 Edgecombe Avenue, New York",
+    "website": "http://www.stnicholaschess.com/"
+}

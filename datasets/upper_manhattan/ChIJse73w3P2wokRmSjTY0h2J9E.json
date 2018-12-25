@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "198-100",
+            "short_name": "198-100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 132nd Street",
+            "short_name": "W 132nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">198-100 W 132nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "198-100 W 132nd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8127962,
+            "lng": -73.9436643
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8141451802915,
+                "lng": -73.9409597
+            },
+            "southwest": {
+                "lat": 40.8114472197085,
+                "lng": -73.9463689
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f72d684b28bc1f5529394bfe71466e9479c64657",
+    "name": "198-100 W 132nd St",
+    "place_id": "ChIJse73w3P2wokRmSjTY0h2J9E",
+    "reference": "ChIJse73w3P2wokRmSjTY0h2J9E",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=198-100+W+132nd+St,+New+York,+NY+10027,+USA&ftid=0x89c2f673c3f7eeb1:0xd127764863d32899",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

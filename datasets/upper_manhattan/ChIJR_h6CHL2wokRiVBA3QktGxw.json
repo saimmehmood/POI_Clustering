@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "254-250",
+            "short_name": "254-250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 131st Street",
+            "short_name": "W 131st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">254-250 W 131st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "254-250 W 131st St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.813601,
+            "lng": -73.9475916
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81494993029149,
+                "lng": -73.94624261970849
+            },
+            "southwest": {
+                "lat": 40.81225196970849,
+                "lng": -73.9489405802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "756fc851de6d86e0ca3cceb0d5e8c32b765dd6e6",
+    "name": "254-250 W 131st St",
+    "place_id": "ChIJR_h6CHL2wokRiVBA3QktGxw",
+    "reference": "ChIJR_h6CHL2wokRiVBA3QktGxw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=254-250+W+131st+St,+New+York,+NY+10027,+USA&ftid=0x89c2f672087af847:0x1c1b2d09dd405089",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

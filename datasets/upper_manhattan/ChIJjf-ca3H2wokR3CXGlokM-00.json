@@ -1,0 +1,231 @@
+{
+    "address_components": [
+        {
+            "long_name": "2285",
+            "short_name": "2285",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2285 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2285 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-1105",
+    "geometry": {
+        "location": {
+            "lat": 40.8147777,
+            "lng": -73.9437519
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8161626802915,
+                "lng": -73.94249211970849
+            },
+            "southwest": {
+                "lat": 40.8134647197085,
+                "lng": -73.9451900802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f94957353c9928f26ae43e61dae8cdd06c9a8ddc",
+    "international_phone_number": "+1 212-234-1105",
+    "name": "Carmen Jox Modern Salon Two",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:30 PM",
+            "Tuesday: 9:00 AM \u2013 7:30 PM",
+            "Wednesday: 9:00 AM \u2013 7:30 PM",
+            "Thursday: 9:00 AM \u2013 7:30 PM",
+            "Friday: 9:00 AM \u2013 7:30 PM",
+            "Saturday: 9:00 AM \u2013 7:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJjf-ca3H2wokR3CXGlokM-00",
+    "plus_code": {
+        "compound_code": "R374+WF New York, United States",
+        "global_code": "87G8R374+WF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJjf-ca3H2wokR3CXGlokM-00",
+    "reviews": [
+        {
+            "author_name": "Alvin Walker",
+            "author_url": "https://www.google.com/maps/contrib/113496219936676592126/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-cFqe3kHLXFw/AAAAAAAAAAI/AAAAAAAAAAA/6qnxBen2vNs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Ralph has been my barber, for the better part of ten years. I always get an excellent cut, and conversation for an excellent price! Yes yes!",
+            "time": 1545245696
+        },
+        {
+            "author_name": "Kimberly Felder",
+            "author_url": "https://www.google.com/maps/contrib/105117262832945352021/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ONfc1Rhjr6E/AAAAAAAAAAI/AAAAAAAAHGg/RgxqfDxzHhI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Love the Sunday hours and quick service. Karina is fantastic!",
+            "time": 1528064938
+        },
+        {
+            "author_name": "Martin Forty Jr.",
+            "author_url": "https://www.google.com/maps/contrib/101228150716928236824/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aXcn0qzQob8/AAAAAAAAAAI/AAAAAAAAAQ4/v9exC4bF2Rg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "Nice place.",
+            "time": 1529174021
+        },
+        {
+            "author_name": "Mon\u00ecque Bridgeforth",
+            "author_url": "https://www.google.com/maps/contrib/110815704381090163966/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gFRsZWp9-GI/AAAAAAAAAAI/AAAAAAAAGMs/OQsGivLy3VM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very good hairstylists.!",
+            "time": 1509554551
+        },
+        {
+            "author_name": "Julia Smith",
+            "author_url": "https://www.google.com/maps/contrib/100245541251383628923/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-x_XiWOruX68/AAAAAAAAAAI/AAAAAAAAU0w/iaqXot2_8GE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Amazing!",
+            "time": 1518895064
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5619098745154446812",
+    "utc_offset": -300,
+    "vicinity": "2285 Adam Clayton Powell Junior Boulevard, New York"
+}

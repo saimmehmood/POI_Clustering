@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "Park Ave",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Park Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Park Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(646) 582-1200",
+    "geometry": {
+        "location": {
+            "lat": 40.81242450000001,
+            "lng": -73.9481981
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8137032302915,
+                "lng": -73.9468990197085
+            },
+            "southwest": {
+                "lat": 40.8110052697085,
+                "lng": -73.9495969802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "081b914990609edbaa8de7a82e61b8a3b51a86d2",
+    "international_phone_number": "+1 646-582-1200",
+    "name": "HCZ Promise Academy I Public Charter School",
+    "place_id": "ChIJW9lqhW32wokRxWhFoxVrtV4",
+    "plus_code": {
+        "compound_code": "R362+XP New York, United States",
+        "global_code": "87G8R362+XP"
+    },
+    "rating": 4.5,
+    "reference": "ChIJW9lqhW32wokRxWhFoxVrtV4",
+    "reviews": [
+        {
+            "author_name": "Swaroop Shankar",
+            "author_url": "https://www.google.com/maps/contrib/103533786290341394824/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rig-hplIOBA/AAAAAAAAAAI/AAAAAAAAATE/s36cInFnm3Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1464125463
+        },
+        {
+            "author_name": "tamika anglin",
+            "author_url": "https://www.google.com/maps/contrib/113268494497372505274/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-aWm_EectYdY/AAAAAAAAAAI/AAAAAAAAAHg/exmhDgb0bdU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1445470003
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6824478551027574981",
+    "utc_offset": -300,
+    "vicinity": "Park Ave, New York",
+    "website": "http://www.hczpromiseacademy.org/"
+}

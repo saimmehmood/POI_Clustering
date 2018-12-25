@@ -1,0 +1,194 @@
+{
+    "address_components": [
+        {
+            "long_name": "1703",
+            "short_name": "1703",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4655",
+            "short_name": "4655",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1703 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4655</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1703 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-6969",
+    "geometry": {
+        "location": {
+            "lat": 40.8246889,
+            "lng": -73.9478137
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260688302915,
+                "lng": -73.9465405697085
+            },
+            "southwest": {
+                "lat": 40.8233708697085,
+                "lng": -73.94923853029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f539e0aab12ffdf5d20f28bff1df58506b8626e1",
+    "international_phone_number": "+1 212-281-6969",
+    "name": "Paqueteria Juquila Express Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 9:00 AM \u2013 4:30 PM"
+        ]
+    },
+    "place_id": "ChIJi2i_UmP2wokR1wkFcwPpfJ4",
+    "plus_code": {
+        "compound_code": "R3F2+VV New York, United States",
+        "global_code": "87G8R3F2+VV"
+    },
+    "reference": "ChIJi2i_UmP2wokR1wkFcwPpfJ4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11420258956128618967",
+    "utc_offset": -300,
+    "vicinity": "1703 Amsterdam Avenue, New York"
+}

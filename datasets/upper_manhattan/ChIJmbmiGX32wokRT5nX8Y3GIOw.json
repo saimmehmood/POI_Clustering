@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "1773",
+            "short_name": "1773",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1773 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1773 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 966-2400",
+    "geometry": {
+        "location": {
+            "lat": 40.826853,
+            "lng": -73.945998
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8282718802915,
+                "lng": -73.94481501970851
+            },
+            "southwest": {
+                "lat": 40.8255739197085,
+                "lng": -73.94751298029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3b25f89228a82dce87532d3b403b3e7c33120f95",
+    "international_phone_number": "+1 212-966-2400",
+    "name": "Sugar Hill Laundry",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115602950236796552585/photos\">Laura Zhang</a>"
+            ],
+            "photo_reference": "CmRaAAAABoTornp0h9J0XEDnhNPyfWRexeEetjEZZe66CQE5MtwlJrucQCF03vKgDYKZT6IQi9hMYPjgin4ifkQRiOa4Y9P3sNOX9S4PJELAiCqcqy3n4T8txGyOSfqK1wBOVRGBEhDGOiJOgthPygJ6OV0br0QCGhQKVTqo8U6KJnSUPCj6xBnppnHZhA",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJmbmiGX32wokRT5nX8Y3GIOw",
+    "plus_code": {
+        "compound_code": "R3G3+PJ New York, United States",
+        "global_code": "87G8R3G3+PJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJmbmiGX32wokRT5nX8Y3GIOw",
+    "reviews": [
+        {
+            "author_name": "Tony Torres",
+            "author_url": "https://www.google.com/maps/contrib/105171905983925016098/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6iw6xTg0V1o/AAAAAAAAAAI/AAAAAAAAABI/HHRIP1XYq5c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Better than Tags laundry and DSC laundry. Sugar Hill Laundry is just between the two literary. Staff is quick, washers are clean and dryers dry fast.",
+            "time": 1538594830
+        },
+        {
+            "author_name": "Lora Hawkins",
+            "author_url": "https://www.google.com/maps/contrib/116355768569329159667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-JFsiP6YOrjw/AAAAAAAAAAI/AAAAAAAAAI4/pjbwmCIJJ24/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "This place was terrific --it's cheap (80 cents a pound), fast, and they took excellent care of my clothing. Plus, they were just generally friendly. I will absolutely go back here.",
+            "time": 1478177002
+        },
+        {
+            "author_name": "Jessica Schnell",
+            "author_url": "https://www.google.com/maps/contrib/111914531629451681391/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MU1U2_b6Ke0/AAAAAAAAAAI/AAAAAAAFIY0/kMd8LT2xKzA/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "$2.50 for small wash, $3.00 for regular. Small. WiFi?",
+            "time": 1513820498
+        },
+        {
+            "author_name": "Russel Ferguson",
+            "author_url": "https://www.google.com/maps/contrib/110250225138513573865/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-CTTGldopKWc/AAAAAAAAAAI/AAAAAAAAATo/55cMBHhpClo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Staff is friendly. Place is clean and usually quiet.",
+            "time": 1497790278
+        },
+        {
+            "author_name": "Laura Zhang",
+            "author_url": "https://www.google.com/maps/contrib/115602950236796552585/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-pcu6cp7ctuE/AAAAAAAAAAI/AAAAAAAAAUY/ef-6qYGuuZc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "It'a very near and convenient, but the opening hour is not 24 hours, the open hours is 7 am to 12am, but here also a good one to choose ",
+            "time": 1480137537
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17014817705155860815",
+    "utc_offset": -300,
+    "vicinity": "1773 Amsterdam Avenue, New York"
+}

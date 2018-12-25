@@ -1,0 +1,266 @@
+{
+    "address_components": [
+        {
+            "long_name": "501",
+            "short_name": "501",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 504-4692",
+    "geometry": {
+        "location": {
+            "lat": 40.8255355,
+            "lng": -73.9478153
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8268084802915,
+                "lng": -73.9465224697085
+            },
+            "southwest": {
+                "lat": 40.8241105197085,
+                "lng": -73.9492204302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1c73407091040059b49a2fb0243bdd5b280aefff",
+    "international_phone_number": "+1 646-504-4692",
+    "name": "Absolute Properties",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1530"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:30 AM",
+            "Tuesday: 9:00 AM \u2013 8:30 AM",
+            "Wednesday: 9:00 AM \u2013 8:30 AM",
+            "Thursday: 9:00 AM \u2013 8:30 AM",
+            "Friday: 9:00 AM \u2013 8:30 AM",
+            "Saturday: 11:30 PM \u2013 12:00 AM",
+            "Sunday: 12:00 AM \u2013 3:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 384,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAA7DOzOUFTlMEUrXRyP1qGTZE8_QIi2WwY8XecdYSWi2cyxtHlP3yWZJvHtb7ft6Y2JoSr8IMGAkigqkZfU2r9C8vUp0omzIXZZfk-nRJLzt2C8dalENw5funRFMTgX9oUEhAI-WIIMAUJ81h9fwYz0BiLGhT68JxKBnimWkzV-WYfV_uOkIB15Q",
+            "width": 512
+        },
+        {
+            "height": 460,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAntOrKf3unS7q7A43QYwcn7hfdtffHUu32blGwqrik1wGgap3PFciUfHo-1BKfOw8V4avyTsK0hpfb5nprF_-2UA183n84EElIXxd1LrWYMWlJ6Pf_qeAQxVLRY50QU1LEhBnK_d3NoplqnG3s9ERm7nXGhRgug_sQJQtjdLUqjJUWZYZbwa5pQ",
+            "width": 950
+        },
+        {
+            "height": 396,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAOtGPfAIhydzmiw7J_ChYHcW5nWn5m7z70OYrst4m8U84UHyEK7yKzMIyhCNS6HBZvFVw7ifxnOwbR8axaQa0qGWLmGZbm7a1K374w1I2jbApePoJUdgtiGbwXsSvkxDJEhCPvJW-bL5wKINJVRLp6kg2GhSUPtdgFTy-7VjWEs4257h8ibLD1w",
+            "width": 603
+        },
+        {
+            "height": 344,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAk4n0Xzv18wnloocLdVCddCEn0-RyxZPX5hf65HzTygq2k5VCbHUAduinXvb8rFQ0NF6l8UrIZR1seAsZCUhyyJZ99b0g5W3a2yhGV5lvykNMj_0btFf7QEMMz0sCq8Y2EhBOSBgMDzkrPQfx171oUQPOGhR0kHwJtwKJ1xnh9jW2SLV6QI7mvQ",
+            "width": 459
+        },
+        {
+            "height": 287,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAZKVuSjrX-yFzq8ddKj1EltA4vSl7yyi399VdIn5felTFZIfHHjoxmf9BSeLHRo2UuqM2_qgyLvVy-MndRVqbj808iJGkbZOdP9AjVgvnN9Ag7PkqCvPsIyn5OSdW4W71EhCVFR6pV59GPxY4dkgNey9GGhQleYHhypcnGbJJG8sSJJvOQEzI9g",
+            "width": 512
+        },
+        {
+            "height": 460,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAA8EiqBj0K3Z4JYy5XaIihHCTwkgqEF-vDG5JZ1zhKPYyXm6bhF3C19_jabLcXRY3-ZXHiR5nPb0Q4f6TCiGMAbdCYSZFT0vezodGQrTsFmj4KZu-i8R0KMS4MjKnw78cTEhAijLz4OoW22zKVk9zR5TacGhTjTSQpz4p--udyXkKrnTWx46lk_A",
+            "width": 950
+        },
+        {
+            "height": 384,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAApbo502FzDxXFUldC4yBr2uBhxfD-xusnuQXVjBd8NAEs0gvzOj0nkUTcAw9vKO_JabPsLrNXzsvC8ydH0H423vls_e5pQryKHRBJ1PycLp4_PJL2wwvkKUgqnRjHbanqEhDZEfhUq8sE8uLIFv-Yl9VyGhSbq9Ane8VDQaRDJCqz_Ft_NNBzig",
+            "width": 512
+        },
+        {
+            "height": 325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAALnTdpN4DhBF6sfgQN92Flut17QBElfpxH2_RMVWQ_Rt1Lp3WUP6rDpKJmS8AKIKoIl6ZRMlWKyL2HspQN1Nx2r_QJAjFAH8dBkmq76P9ZhYTnZZW2TrE1Rlr4Pb72A4gEhA2UWEEljs2sBCNbFSKf85NGhRQVjUUnCsAosbhfcIXw_mcFKuWRA",
+            "width": 350
+        },
+        {
+            "height": 325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101132811524079607822/photos\">Absolute Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAP1bsSh3NFvDfcaHezp6-qel0sRz70DCFIVV6BnkKZF4yuLWW9MhIA1onm6LSbax1NfCdcpKs-2LWK3is4c3oPWSoXA93AadNlTXrdugu93ahOvR3psmFkaLORGzPSN3GEhDpOcTD--NIdhZQBvFGS26TGhSLz4GOc6vacmK1lLcbLq_Ov3xOnw",
+            "width": 350
+        }
+    ],
+    "place_id": "ChIJK7UVtXz2wokR8GndTv8zpYU",
+    "plus_code": {
+        "compound_code": "R3G2+6V New York, United States",
+        "global_code": "87G8R3G2+6V"
+    },
+    "rating": 1,
+    "reference": "ChIJK7UVtXz2wokR8GndTv8zpYU",
+    "reviews": [
+        {
+            "author_name": "Jim Cronin",
+            "author_url": "https://www.google.com/maps/contrib/100600407147888885522/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-8FBKUrZGTS0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYTCcTJecEFBtcQCvqnmQeD-dzHxA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "This place appears to have gone out of business. Could not find the location and phone was disconnected.",
+            "time": 1533681551
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9630160549834484208",
+    "utc_offset": -300,
+    "vicinity": "501 West 145th Street, New York",
+    "website": "https://plus.google.com/u/1/b/109945606725509305399/109945606725509305399/about"
+}

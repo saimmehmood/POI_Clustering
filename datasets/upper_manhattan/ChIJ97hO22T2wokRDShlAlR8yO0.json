@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "443-499",
+            "short_name": "443-499",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">443-499 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "443-499 W 141st St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8224075,
+            "lng": -73.94877509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8237564302915,
+                "lng": -73.94738690000001
+            },
+            "southwest": {
+                "lat": 40.8210584697085,
+                "lng": -73.95016330000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "4a76c5513300d3c49426480d6a49ea97ba5dbd57",
+    "name": "443-499 W 141st St",
+    "place_id": "ChIJ97hO22T2wokRDShlAlR8yO0",
+    "reference": "ChIJ97hO22T2wokRDShlAlR8yO0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=443-499+W+141st+St,+New+York,+NY+10031,+USA&ftid=0x89c2f664db4eb8f7:0xedc87c540265280d",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

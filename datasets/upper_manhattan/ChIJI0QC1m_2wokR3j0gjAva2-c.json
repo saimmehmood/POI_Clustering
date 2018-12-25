@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.817043,
+            "lng": -73.947771
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8184073802915,
+                "lng": -73.94641081970849
+            },
+            "southwest": {
+                "lat": 40.8157094197085,
+                "lng": -73.9491087802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "913548c3d1031c738a29f6260249fc8585cca1aa",
+    "name": "W 135 St/St Nicholas Av",
+    "place_id": "ChIJI0QC1m_2wokR3j0gjAva2-c",
+    "plus_code": {
+        "compound_code": "R382+RV New York, United States",
+        "global_code": "87G8R382+RV"
+    },
+    "rating": 5,
+    "reference": "ChIJI0QC1m_2wokR3j0gjAva2-c",
+    "reviews": [
+        {
+            "author_name": "Elsa Castillo",
+            "author_url": "https://www.google.com/maps/contrib/108005126219027892513/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0VKz11qEWHk/AAAAAAAAAAI/AAAAAAAALM4/RA9_agVeCv4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Me gusta",
+            "time": 1492286492
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16707186985791405534",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

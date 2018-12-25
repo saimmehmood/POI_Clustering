@@ -1,0 +1,195 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "528",
+            "short_name": "528",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5427",
+            "short_name": "5427",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">528 W 145th St #3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5427</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "528 W 145th St #3, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-0405",
+    "geometry": {
+        "location": {
+            "lat": 40.82577129999999,
+            "lng": -73.94927009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271888302915,
+                "lng": -73.94787051970849
+            },
+            "southwest": {
+                "lat": 40.82449086970851,
+                "lng": -73.95056848029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "68b73fa7bff23d48035a8c729996a7c7406af760",
+    "international_phone_number": "+1 212-281-0405",
+    "name": "Beauty Station Beauty Supplies",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJPbm0FWP2wokRE62eVOUmROg",
+    "plus_code": {
+        "compound_code": "R3G2+87 New York, United States",
+        "global_code": "87G8R3G2+87"
+    },
+    "rating": 4,
+    "reference": "ChIJPbm0FWP2wokRE62eVOUmROg",
+    "reviews": [
+        {
+            "author_name": "Patrina Williams",
+            "author_url": "https://www.google.com/maps/contrib/117884355387290604654/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZoldU5KdofI/AAAAAAAAAAI/AAAAAAAAJ3A/EVLWciJZJTk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Nice clean shop",
+            "time": 1539557896
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16736544881624657171",
+    "utc_offset": -300,
+    "vicinity": "528 West 145th Street #3, New York"
+}

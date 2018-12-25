@@ -1,0 +1,126 @@
+{
+    "address_components": [
+        {
+            "long_name": "34",
+            "short_name": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">34 W 139th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "34 W 139th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(855) 383-1212",
+    "geometry": {
+        "location": {
+            "lat": 40.8156371,
+            "lng": -73.9369988
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8170661802915,
+                "lng": -73.9355889197085
+            },
+            "southwest": {
+                "lat": 40.8143682197085,
+                "lng": -73.9382868802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2d8fa00a3d90fa1f87a26c878ac258a1f389f370",
+    "international_phone_number": "+1 855-383-1212",
+    "name": "Enterprise CarShare",
+    "place_id": "ChIJIRkXz3f2wokRqtavxskRAaw",
+    "plus_code": {
+        "compound_code": "R387+76 New York, United States",
+        "global_code": "87G8R387+76"
+    },
+    "rating": 2.5,
+    "reference": "ChIJIRkXz3f2wokRqtavxskRAaw",
+    "reviews": [
+        {
+            "author_name": "Dennis Dujon",
+            "author_url": "https://www.google.com/maps/contrib/116124747611506243105/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GnsOrMrKdoM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbKde82EL1KQavod_kFBhsJY5AM7A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Convenient location friendly attendants and customer service cars generally clean gassed and ready to go",
+            "time": 1491443533
+        },
+        {
+            "author_name": "Yvonne Black",
+            "author_url": "https://www.google.com/maps/contrib/110351885596080211453/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HMvpQiU_hLM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbnhevNdvf4PHT4-ohSaTOcUOhdEg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1466892184
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12394207207819826858",
+    "utc_offset": -300,
+    "vicinity": "34 West 139th Street, New York",
+    "website": "http://www.enterprisecarshare.com/"
+}

@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "2527",
+            "short_name": "2527",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2404",
+            "short_name": "2404",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2527 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2404</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2527 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 939-9700",
+    "geometry": {
+        "location": {
+            "lat": 40.8167161,
+            "lng": -73.94663299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8180270802915,
+                "lng": -73.94519436970849
+            },
+            "southwest": {
+                "lat": 40.81532911970851,
+                "lng": -73.9478923302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2ebc5f6c9c156fd0e725541408d01f5a574acf53",
+    "international_phone_number": "+1 212-939-9700",
+    "name": "2527 Food Inc",
+    "place_id": "ChIJ0et2M3D2wokRqhZizl06Slc",
+    "plus_code": {
+        "compound_code": "R383+M8 New York, United States",
+        "global_code": "87G8R383+M8"
+    },
+    "rating": 5,
+    "reference": "ChIJ0et2M3D2wokRqhZizl06Slc",
+    "reviews": [
+        {
+            "author_name": "Edwin Choc",
+            "author_url": "https://www.google.com/maps/contrib/105573666027953740158/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DyLsGu5hSZE/AAAAAAAAAAI/AAAAAAAAmoI/7YyLXCPNb_M/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1497056827
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6289904004145223338",
+    "utc_offset": -300,
+    "vicinity": "2527 Frederick Douglass Boulevard, New York"
+}

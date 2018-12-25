@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "419",
+            "short_name": "419",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5203",
+            "short_name": "5203",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">419 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5203</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "419 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 690-0410",
+    "geometry": {
+        "location": {
+            "lat": 40.824681,
+            "lng": -73.945578
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8259177302915,
+                "lng": -73.94431186970849
+            },
+            "southwest": {
+                "lat": 40.8232197697085,
+                "lng": -73.94700983029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "ac6c71827f6fadadc0067129312abb499685e3d8",
+    "international_phone_number": "+1 212-690-0410",
+    "name": "New York City Juvenile Justice",
+    "place_id": "ChIJeefnkXz2wokRDLFsxn7nQ_A",
+    "plus_code": {
+        "compound_code": "R3F3+VQ New York, United States",
+        "global_code": "87G8R3F3+VQ"
+    },
+    "reference": "ChIJeefnkXz2wokRDLFsxn7nQ_A",
+    "scope": "GOOGLE",
+    "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17312935924223226124",
+    "utc_offset": -300,
+    "vicinity": "419 West 145th Street, New York",
+    "website": "https://www1.nyc.gov/"
+}

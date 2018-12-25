@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "536",
+            "short_name": "536",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">536 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "536 W 143rd St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82471150000001,
+            "lng": -73.95088919999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82614683029151,
+                "lng": -73.94947541970849
+            },
+            "southwest": {
+                "lat": 40.82344886970851,
+                "lng": -73.9521733802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c8feeecf91089a56e80257acc54e6ad6b9f63fdc",
+    "name": "KrogerLand",
+    "place_id": "ChIJeWUQgWP2wokR9odcPtHhl1c",
+    "plus_code": {
+        "compound_code": "R2FX+VJ New York, United States",
+        "global_code": "87G8R2FX+VJ"
+    },
+    "reference": "ChIJeWUQgWP2wokR9odcPtHhl1c",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6311761691593705462",
+    "utc_offset": -300,
+    "vicinity": "536 West 143rd Street, New York"
+}

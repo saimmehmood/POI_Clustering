@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "109",
+            "short_name": "109",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2606",
+            "short_name": "2606",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">109 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2606</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "109 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 283-5655",
+    "geometry": {
+        "location": {
+            "lat": 40.8148604,
+            "lng": -73.9388472
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8159369802915,
+                "lng": -73.93769836970849
+            },
+            "southwest": {
+                "lat": 40.8132390197085,
+                "lng": -73.9403963302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b2958801b6451a7774e0e98a26854db524756ef4",
+    "international_phone_number": "+1 212-283-5655",
+    "name": "Brown Co",
+    "place_id": "ChIJa1792nb2wokRpgEKrpGKhGc",
+    "plus_code": {
+        "compound_code": "R376+WF New York, United States",
+        "global_code": "87G8R376+WF"
+    },
+    "reference": "ChIJa1792nb2wokRpgEKrpGKhGc",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7459239241127166374",
+    "utc_offset": -300,
+    "vicinity": "109 West 136th Street, New York",
+    "website": "https://www.brown.edu/"
+}

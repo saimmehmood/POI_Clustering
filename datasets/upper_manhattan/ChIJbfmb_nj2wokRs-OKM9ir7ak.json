@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "141",
+            "short_name": "141",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1301",
+            "short_name": "1301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">141 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "141 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 939-9450",
+    "geometry": {
+        "location": {
+            "lat": 40.82077589999999,
+            "lng": -73.9386227
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8220504302915,
+                "lng": -73.9373292697085
+            },
+            "southwest": {
+                "lat": 40.8193524697085,
+                "lng": -73.9400272302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "19426914aff4f5091802df7648822c8d33740b8f",
+    "international_phone_number": "+1 212-939-9450",
+    "name": "Housing Partners of New York",
+    "place_id": "ChIJbfmb_nj2wokRs-OKM9ir7ak",
+    "plus_code": {
+        "compound_code": "R3C6+8H New York, United States",
+        "global_code": "87G8R3C6+8H"
+    },
+    "reference": "ChIJbfmb_nj2wokRs-OKM9ir7ak",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12244631906956272563",
+    "utc_offset": -300,
+    "vicinity": "141 West 144th Street, New York"
+}

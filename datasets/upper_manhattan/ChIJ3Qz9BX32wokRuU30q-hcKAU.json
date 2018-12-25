@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "453",
+            "short_name": "453",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3835",
+            "short_name": "3835",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">453 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3835</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "453 W 148th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(718) 643-6660",
+    "geometry": {
+        "location": {
+            "lat": 40.8268932,
+            "lng": -73.94510939999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82816243029149,
+                "lng": -73.9438186197085
+            },
+            "southwest": {
+                "lat": 40.82546446970849,
+                "lng": -73.94651658029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "9040bd0e54f1214e3c0f6ab3b9867a518f7ec774",
+    "international_phone_number": "+1 718-643-6660",
+    "name": "Musica Para Mi",
+    "place_id": "ChIJ3Qz9BX32wokRuU30q-hcKAU",
+    "plus_code": {
+        "compound_code": "R3G3+QX New York, United States",
+        "global_code": "87G8R3G3+QX"
+    },
+    "reference": "ChIJ3Qz9BX32wokRuU30q-hcKAU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=371649123645148601",
+    "utc_offset": -300,
+    "vicinity": "453 West 148th Street, New York",
+    "website": "http://www.musicaparami.com/"
+}

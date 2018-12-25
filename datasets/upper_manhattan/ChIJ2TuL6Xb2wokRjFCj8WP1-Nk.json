@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "506",
+            "short_name": "506",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1802",
+            "short_name": "1802",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">506 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1802</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "506 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-1000",
+    "geometry": {
+        "location": {
+            "lat": 40.8142287,
+            "lng": -73.9396101
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8157498302915,
+                "lng": -73.9386718697085
+            },
+            "southwest": {
+                "lat": 40.8130518697085,
+                "lng": -73.9413698302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "57be1cfe1635d6222f5a524ced5f17410eb81879",
+    "international_phone_number": "+1 212-939-1000",
+    "name": "Yvonne M. Buckner, PA",
+    "place_id": "ChIJ2TuL6Xb2wokRjFCj8WP1-Nk",
+    "plus_code": {
+        "compound_code": "R376+M5 New York, United States",
+        "global_code": "87G8R376+M5"
+    },
+    "reference": "ChIJ2TuL6Xb2wokRjFCj8WP1-Nk",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15706573510059184268",
+    "utc_offset": -300,
+    "vicinity": "506 Malcolm X Boulevard, New York",
+    "website": "http://www.nyc.gov/"
+}

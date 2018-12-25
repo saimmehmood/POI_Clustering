@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "2522",
+            "short_name": "2522",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2707",
+            "short_name": "2707",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2522 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2707</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2522 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 234-3211",
+    "geometry": {
+        "location": {
+            "lat": 40.81603940000001,
+            "lng": -73.9464974
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8174510302915,
+                "lng": -73.94529956970851
+            },
+            "southwest": {
+                "lat": 40.81475306970851,
+                "lng": -73.94799753029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b7f539627b5a7473f00bf62dd466d45d8fe94e1f",
+    "international_phone_number": "+1 212-234-3211",
+    "name": "Barbara's Flowers",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115481192140486354883/photos\">Chloe</a>"
+            ],
+            "photo_reference": "CmRaAAAAznFJk158RuLiBk6PIXMz1dhglnNoNbAoyBLIfFCv09boTjwVrDr3mxbw08ku_TOuyiI_JAkKKAuykPMY-6h4WBC5VIhPfvcJ5b8KvFM06wVqS5OewHrB8gxwTbMJZGqGEhBYMR-q9y8pjuNL_25otHuPGhSochCJpNykb_VAAyENmEJGw1XDqw",
+            "width": 3024
+        },
+        {
+            "height": 519,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAA7k_x_8r7MZXwGq_6oXCSZinwsyDmNjlHaP6j7AZ1KIkRd1h63kP0lzJkJpfpB5vZNyDlmm769ZA3isGSwHUJuRLaqfh-KpF6Xe7uAkyP7bmYKNZAEx6294zl7JoJDHuNEhD8tzGFvWkIzoebL--OJz2mGhTukWNyhUtNKUGJLD-X1eXHA3GUCw",
+            "width": 542
+        },
+        {
+            "height": 559,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAse4AMKi-qZygRfbrGZ9illVYhNJcV65wkjtnuDVyvh-rMcrKJLizWTd6jjHpRhPQgJ5NuwP-uBTT9LVNrdUqZ0WUoTo_PsqicjISldyen7MJcNj4D8h6HNts0-JnI4b0EhDk0f14eFKeDuzaUpoawRzEGhQ2d6Tk0PUKr4tYfzHRAI5lhJEHHA",
+            "width": 535
+        },
+        {
+            "height": 660,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAA40cQJAyPtxoIg41xq4nZH7Cg5hZ6QHGL4l68IKgGoCfHDuwQ7ZoTMUxPWNAw6N2gDVnsRSku36LSe-z4yeeUGOXh1XFZ2VI1u0xk30wE9qtKaYWT5rwDOhqL82O8XsjDEhAwPZG95PoIYjyF4KuH_2dMGhQnz-F_ddDR0ZOFL61JSi1TW_aIxg",
+            "width": 748
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115481192140486354883/photos\">Chloe</a>"
+            ],
+            "photo_reference": "CmRaAAAAEktEB_S1nXKLz0QhHxGG9vLaxBs888-QR7nGNYO1Br4uYQYe-RszYKSddH3aa7ZtGqW6dicDu1YW4Bv9CWHMBUCHTW8n4BfRoJ6658b8k-jw1W2TG-Z6ND--ffp2wElmEhCky-8fieesL8n4iKnFAU8AGhRH4Aq34YLGjvitOIf6PCz3GW-3qw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115481192140486354883/photos\">Chloe</a>"
+            ],
+            "photo_reference": "CmRaAAAAsrtbKDLe_WdvbR2JXqsXRgRRVAG73AS--ayf_ww4ICA22qupGLCDV9dY5onglF8dpIwrm_UE3tEJUnNmWk69Opf1V8rTgeRGWNYzk4ezSRDlbRoheMVNvm4V80yfaR0FEhA_BTiOgsZgYLd77jVMTtRaGhSI6BJWQIRGp2vjnWurrs9XWHAgMg",
+            "width": 3024
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107227003960020825341/photos\">MATTHEW MORGAN</a>"
+            ],
+            "photo_reference": "CmRaAAAAAsCPxkwC1DoNWXQc_XPRe6ZWSZ5Pkzzcp2M52qeySxo4U03QXV5ZywvcCtkUA88BsNNEUF5Zon8mP1vZieIkiUCkMIGUzNZ3V6_OEuNI1l3jMJ5Oy1l9I2mC62Seqw0AEhBOkPweYiu65J-qAxRGxKAxGhRAeATa-JxB9xP34_hEmITtpehiog",
+            "width": 3264
+        },
+        {
+            "height": 662,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAASGLEdQFG2A-s4WD4G0wL-w9yKw9XZ9ywXDXiKfNqImjKkesro3gkvcEpM2S6jgJVSAVXOqIRYTgWx__B76DXYVRKpb-J46M05SOPCjVZ8CcVSHAR9DplE-pL0Ptfes_qEhB7SMoX9lpcpsvhVluMtXKsGhRBgZb756ARQ8l0uBvT-ThiDqKJAg",
+            "width": 743
+        },
+        {
+            "height": 661,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAApQtEEkt_4p-r5VRfSP90rkybIufCBd4ABDcJKGSn3BG8pSI9yEj5IABoLYr_kIjDJdzo2d1RhQG7QrhEnYS8V0ztpBzKh5TYUP_FsNdJulL9IWwedFrNS73zE_7PswzAEhBXtyfdKG9z5w4Unxlq-B-8GhR23KvDK2oPV3-OLn-JTsyhAEC2sg",
+            "width": 637
+        },
+        {
+            "height": 465,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110254130580934876693/photos\">Barbara&#39;s Flowers</a>"
+            ],
+            "photo_reference": "CmRaAAAAFl3R7wSevD2ve6NEuFiNncO5HpvrjtCyke3GTl5xEiiSbLRufo2PWjLE_RmqCpUsvPSkElbx1AvyjnPYii7cNErudxgFdWFNmnNvJ9g3JGbRnYZmKc6J6-uZx8C5PNtLEhBEZnfZyvyKV7X-h-sO6m_YGhQOYxtA70_HXpsmVnymVXH7TnGbzA",
+            "width": 408
+        }
+    ],
+    "place_id": "ChIJGfzxyHH2wokRcTa-bJkATdQ",
+    "plus_code": {
+        "compound_code": "R383+CC New York, United States",
+        "global_code": "87G8R383+CC"
+    },
+    "rating": 4.5,
+    "reference": "ChIJGfzxyHH2wokRcTa-bJkATdQ",
+    "reviews": [
+        {
+            "author_name": "Elsie Jameson",
+            "author_url": "https://www.google.com/maps/contrib/115952093407843209427/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-orzfraZKCsQ/AAAAAAAAAAI/AAAAAAAAAAk/d1_JMT-9bMU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Had a floral arrangement delivered to my friend's home after I found out that her father had passed away. She loved it! She genuinely said it had made her day!!! Thank you Barbara's Flowers!!",
+            "time": 1534819200
+        },
+        {
+            "author_name": "Chloe",
+            "author_url": "https://www.google.com/maps/contrib/115481192140486354883/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-fnDNCQGX9Ig/AAAAAAAAAAI/AAAAAAAALjQ/nFwHjLuyP8k/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Absolutely Gorgeous floral arrangements, candle holders and plants! Customer service is operating at an all time high, very personable and they listen to your needs.\n\nIf in the market for any occasion that calls for floral arrangements for that special someone or plants to decorate your space this is the first place I stop. Just can't go wrong here.\n\nPlus they sell awesome Harlem Brand candles that have serious throw to fragrance your space effortlessly.\n\nLove it here.",
+            "time": 1516484459
+        },
+        {
+            "author_name": "Monique",
+            "author_url": "https://www.google.com/maps/contrib/110814249406446069643/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-myk-igSmItI/AAAAAAAAAAI/AAAAAAAAACQ/7IiwP-joD2I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I recently was in NY for my wedding. On my wedding day it was pouring and I got completely behind! I hadn't picked up my bouquet yet so I called the shop to see if they could deliver it. The woman I spoke with was AMAZING and did everything she could to get my bouquet to me. The delivery truck was gone and she had another delivery driver hop in an Uber and get it to me. I could of cried! This was the nicest thing ever and I am soooo grateful to them. I can't express how much I appreciate this place and my flowers were gorgeous! Many thanks I wish more business's could be like this.",
+            "time": 1527165710
+        },
+        {
+            "author_name": "Mary Dronca",
+            "author_url": "https://www.google.com/maps/contrib/112086940942491769878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0Y4O4104FU4/AAAAAAAAAAI/AAAAAAAAAO8/YXNwZ8ljHrQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I arrived right when they opened and cut flowers had not been set out on display yet. I explained the style of bouquet I wanted and the gentleman who helped me nailed it on the first try! He was mindful of my price point ($30) and did not press beyond that. Additionally, the recipient texted to comment on how long they lasted. Please support this local business!",
+            "time": 1522851064
+        },
+        {
+            "author_name": "Jeanine Drayton",
+            "author_url": "https://www.google.com/maps/contrib/107742685132562414595/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-L8XWBAcT7rw/AAAAAAAAAAI/AAAAAAAAHl8/N9J-KQDkOI4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "What a pleasant surprise it was to find myself in this shop during a walk home one recent summer afternoon. The bouquet they prepared for me was gorgeous. Much more than expected and notably fresh. An added bonus were the awesome jams playing quietly in the background. I'd recommend Barbara's Flowers.",
+            "time": 1499135414
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "florist",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15297884168201844337",
+    "utc_offset": -300,
+    "vicinity": "2522 Frederick Douglass Boulevard, New York",
+    "website": "http://www.barbarasflowers.com/"
+}

@@ -1,0 +1,190 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 W 141st St, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 928-6814",
+    "geometry": {
+        "location": {
+            "lat": 40.8227482,
+            "lng": -73.949844
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8241357302915,
+                "lng": -73.94846681970849
+            },
+            "southwest": {
+                "lat": 40.8214377697085,
+                "lng": -73.9511647802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "cb784b2dd736f4df3f2eb94d7e6b33db67a7339f",
+    "international_phone_number": "+1 212-928-6814",
+    "name": "NYC Council Member Mark Levine Council Member - 7th District Office",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 5:00 PM",
+            "Tuesday: 9:30 AM \u2013 5:00 PM",
+            "Wednesday: 9:30 AM \u2013 5:00 PM",
+            "Thursday: 9:30 AM \u2013 5:00 PM",
+            "Friday: 9:30 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJq2OT7mT2wokRrflEHD5nW0A",
+    "plus_code": {
+        "compound_code": "R3F2+33 New York, United States",
+        "global_code": "87G8R3F2+33"
+    },
+    "rating": 3,
+    "reference": "ChIJq2OT7mT2wokRrflEHD5nW0A",
+    "reviews": [
+        {
+            "author_name": "Aleksey",
+            "author_url": "https://www.google.com/maps/contrib/111188909772990903140/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NdekmGFn3v0/AAAAAAAAAAI/AAAAAAAAWGI/7fk76isAi1o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Mark prefers to cater to disgusting rent-a-car corporations instead of the working class. He turned the public parking in West Harlem into an active parking lot reserved exclusively for Enterprise and Zipcar. He surrounded low-income areas with a ring of traffic, noise, and non-stop pollution. Mark your calendars and vote him out of the office on September 12th!",
+            "time": 1528237601
+        },
+        {
+            "author_name": "Kingston Adu",
+            "author_url": "https://www.google.com/maps/contrib/104133438090457978967/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6DtxyLCmDNc/AAAAAAAAAAI/AAAAAAAAFfY/U5cz_C5ekis/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1497888506
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4637413757767973293",
+    "utc_offset": -300,
+    "vicinity": "500 West 141st Street, New York",
+    "website": "http://www.marklevine.nyc/"
+}

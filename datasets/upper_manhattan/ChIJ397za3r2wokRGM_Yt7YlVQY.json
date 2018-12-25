@@ -1,0 +1,204 @@
+{
+    "address_components": [
+        {
+            "long_name": "4a",
+            "short_name": "4a",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "273",
+            "short_name": "273",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 140th Street",
+            "short_name": "W 140th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">273 W 140th St #4a</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "273 W 140th St #4a, New York, NY 10030, USA",
+    "formatted_phone_number": "(347) 512-4661",
+    "geometry": {
+        "location": {
+            "lat": 40.81956699999999,
+            "lng": -73.94362799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82085953029149,
+                "lng": -73.94232011970848
+            },
+            "southwest": {
+                "lat": 40.81816156970849,
+                "lng": -73.9450180802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2c5ce6a21840c6fc1106b2629e9616ca015f5f1d",
+    "international_phone_number": "+1 347-512-4661",
+    "name": "Savvy Girl Massage",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM \u2013 1:00 PM",
+            "Sunday: 12:00 \u2013 3:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109531857667615789085/photos\">Savvy Girl Massage</a>"
+            ],
+            "photo_reference": "CmRaAAAA16yq3raou0ZtnCzXN8DbRk1Nu8OaFugAZrsOLQJDEYflhOSOhReyakDtHG3c9-n3P5BSE-LSHl5DDLm4Zk2-Zg0QsLrwKIXvyc-ovHPa_LiNywKhyk5q0QVj_Evhf3IAEhCl0w1tWKu5OKGyqtNUVhsSGhSzBbIZE3Pl_N1qxfjBq0RUugyPDA",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109531857667615789085/photos\">Savvy Girl Massage</a>"
+            ],
+            "photo_reference": "CmRaAAAAei9AgpmLM4SJ8uqPNjN0JZpIukSra-oq__wzgz9l-Rttk_Tav_tUTqrKJS7ucUfhHFdDr0Q6OI3m9mUDKLkccyRbNnFtaEZ32LpRtrJ2Jtk0GJVUUPn8g9A07taEEwkFEhBdUCtV3wEz3JPWKn1tLsKrGhRXamrGWUzUCJ2K_NIYHWEMVTrhoQ",
+            "width": 2448
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109531857667615789085/photos\">Savvy Girl Massage</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ6Y8jjv4ngaCmdiO4etZ9DUV_0dC2lSVieb5ui1JpSQkAE76uS-UZBv3qKD4lCiE3CEPoOsd5ctkLdKZ9Sx9NfJBDy_2bgkXx5Kemg6if8xJlptnnccd3NmYCkXVIMEPEhAm2Ck4c-C5SF-VQtVmzjmhGhSWicuOOr2Vq4CU_Mx4IFxgaPaqXQ",
+            "width": 540
+        }
+    ],
+    "place_id": "ChIJ397za3r2wokRGM_Yt7YlVQY",
+    "plus_code": {
+        "compound_code": "R394+RG New York, United States",
+        "global_code": "87G8R394+RG"
+    },
+    "price_level": 2,
+    "rating": 5,
+    "reference": "ChIJ397za3r2wokRGM_Yt7YlVQY",
+    "reviews": [
+        {
+            "author_name": "Terrence Jae",
+            "author_url": "https://www.google.com/maps/contrib/115689363743833951435/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WQXEahocZUI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYBegfflYsoO9p4ceeK_2HfRABATg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Massage master? Therapeutic massage genius? I can't find words to explain how awesome my experience with Savvy Girl Massage was. Annette is really one of the best massage therapists I've ever had. She helped facilitate recovery from a chronic injury.",
+            "time": 1535808687
+        },
+        {
+            "author_name": "Andrea Kwamya",
+            "author_url": "https://www.google.com/maps/contrib/105243328194149784973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0yU1GkwjV2s/AAAAAAAAAAI/AAAAAAAABt0/5MGRBnqt7Uc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Annette not only makes you feel better through massage, but as a person she is an extremely patient empath who will be sure that you are more than comfortable. I don't get massages often but I won't be going anywhere else. Very reasonable price for the quality of deep tissue massage. (SPORTS MASSAGE)",
+            "time": 1464448202
+        },
+        {
+            "author_name": "Yokasta Tineo LMT",
+            "author_url": "https://www.google.com/maps/contrib/113984680463640001125/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-9YfEHSRfytg/AAAAAAAAAAI/AAAAAAAAGwM/BA2ex1s9Dvs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1449418831
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=456312403946688280",
+    "utc_offset": -300,
+    "vicinity": "273 West 140th Street #4a, New York",
+    "website": "http://www.savvygirlmassage.com/"
+}

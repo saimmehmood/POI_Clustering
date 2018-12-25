@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "3550",
+            "short_name": "3550",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3550 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3550 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 926-6756",
+    "geometry": {
+        "location": {
+            "lat": 40.8267872,
+            "lng": -73.94983169999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8281755302915,
+                "lng": -73.94857411970848
+            },
+            "southwest": {
+                "lat": 40.8254775697085,
+                "lng": -73.9512720802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "477060b50f084c45a9bd10b5ef3c26c1d4c44815",
+    "international_phone_number": "+1 212-926-6756",
+    "name": "Key Food Supermarkets",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:00 PM",
+            "Tuesday: 7:00 AM \u2013 10:00 PM",
+            "Wednesday: 7:00 AM \u2013 10:00 PM",
+            "Thursday: 7:00 AM \u2013 10:00 PM",
+            "Friday: 7:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102438031459056331936/photos\">Brandon Powers</a>"
+            ],
+            "photo_reference": "CmRaAAAAcOMvJQE7xQbmpwXECwtsSwaPlhia8j64FtanPEuRFowShCsWTlPsCrwmPCc82qtfFmIdFueZt4K2tjOO1bc8lRASe87_fu80HDspyk5BteOIZ0ufIca40afdk4wmtwdpEhAvfmg7oB4i8qMNdw3fdDjsGhTHwR3g_kUqHUt8JIkzK-F_a_VvwQ",
+            "width": 3036
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104267781821892514456/photos\">R. Christopher Maxwell</a>"
+            ],
+            "photo_reference": "CmRaAAAALBn6maDhAvTGa7jkdA7eHDnQmajatT5FozVmAIYpI8GaxNwuTBQ9B4fQXr-ydw2lCcas19zz0JOvAedOxQHiT6nlS3MXpyZz6ejUQF_JLon8wtDzQDsp7caIL822H1_lEhDufDJI56fn3YOYRsA3Web1GhT9kNmEWPCy-Ibjzoqrn6zHe2h2vg",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118198122851075346043/photos\">Alexis Caldwell</a>"
+            ],
+            "photo_reference": "CmRZAAAA7aKUhWlEpmRdizP453MRcndvXXZCDrB1K7_mMCSnxsBYF0i1fY0Vv5x_DepHqb3MohDH3aBbDlEFnc35S9NkQUE4Xziby21uTG3i4HDH-uRuknjGzgwQBlNAOjw4gJO1EhA55aNdfD0MwZMk6c_4RC3RGhSaOYlWQOZmrwkYrl4FaWGUxyXzcA",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914531629451681391/photos\">Jessica Schnell</a>"
+            ],
+            "photo_reference": "CmRaAAAAKY-RyWEp-UJkHORMnSWngRebjSvPitLwKU0lkRFyl1KYfiC3fShrOVuM9NAgVigA_LWaosz_5TOW9d-VFoar-Y3yJ8tcPgl9jrz7lw2fy-EaExbekwaT6DYODHkKFZF9EhD1RueznPC6h3sQEy6X43UAGhR3dWjb-7QgJ7jN_yrhxWfE-fRODA",
+            "width": 3036
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100436287722718474447/photos\">Jordi J. Guzman</a>"
+            ],
+            "photo_reference": "CmRaAAAAHfr23I8ZVYM-X1BSGf508jeUPKN-b-e1oZI1ADA1Y4Udx9ZEbjIkqiHqsKppeTeZE1RTwmtwho7Ee9QW0cpbvAN0UQB9jhtivgCv_OAwmWh29dZSVYTB5dtld0ZYgh11EhBqlo4S4XkEMKAD2pqAgQfDGhQqfFp3tffykoJ6GaDXc167QbbvZw",
+            "width": 4640
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115562648524124830198/photos\">Graham Morrison</a>"
+            ],
+            "photo_reference": "CmRaAAAAqgCUDndpOBIvdqavAfnxGPQQ7QeBAkBqZFoLO8j-LeKOXThy9rNLBt8hRFg2zX3S5mF7GX5A7F8heQLagDFAWxR0afsOpg0afwY6D69JFu4MdKspH_LAGW-xgZvLDgLGEhDYVdmtXqd0zGqPpRX_l0k8GhQSuUtgl_fiVAXl7PP8UnURSwnzyQ",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914531629451681391/photos\">Jessica Schnell</a>"
+            ],
+            "photo_reference": "CmRaAAAAmcLYauh4TqOfPnKHfHhw0iaTz_tV4Lq43yufIRWJLpNmZtlg-hVppjUy8hJ7mYk1LQsKpOZ5uPcHD86Tf5QuL1cRU_99FdiUrOq4ljVMU8JtWkr9bqA9mTlDmZhBM20xEhDaX6jSbGuJX-mn-6SRA9uQGhR9pW-9WyXq8_0yRqtHDoqAXxWHrw",
+            "width": 3036
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104920415676333243054/photos\">Pedro Redriguez</a>"
+            ],
+            "photo_reference": "CmRaAAAAbQoGisShAxFiWmP823fPsrutbRmsjs-0JpNKgLfqr1mkI8-uwi1-HQ_x4hqEX2_wGB_aV7hqdIB66f39x28zEfj_h6x9fTFI-wv5KXF_emmzqNnFOYyrRfhc7AjCYMHpEhC4aTyEv6J_LDpWV1bUV1REGhTXA0RH3f_ncPNfoy7fDEWe3UQQyg",
+            "width": 4032
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100436287722718474447/photos\">Jordi J. Guzman</a>"
+            ],
+            "photo_reference": "CmRaAAAAaRl4SgP_sVQ5T_SA1yM_4iNO0pL1C6WOcgcLnK34aYGi4i03SvUldBR7p8yatuOP3voD0x-Tb92koyvHUaDmncOiw6pfbNSy2FuQlSjLxdqn-6CE_Ybc988EdGdR-48bEhCtioblY_zVyJWutMMuZWD5GhS9EDuSV9PDxL2_Yy9ocUGiDiDR-A",
+            "width": 4640
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101753522699111663842/photos\">Harshita Sharma</a>"
+            ],
+            "photo_reference": "CmRaAAAAFe0vxiVo6dWIoS3yCIOUOV1ZfZz5DDnFanYmWIRpMOMsGiDxT88dBZ0reoMZUQfVCBlLrST7POpFZ3ok9Rbl7TODaqBhisQvKKlIbluB_WL40wAMAALqHbCgEvtIHHI_EhB6SwZKuk7wWOTPe4kzVP7SGhTi0mNsmufnSYl3fQVpnmtkiCCGkg",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJIXpRHGP2wokRae8524O_e_U",
+    "plus_code": {
+        "compound_code": "R3G2+P3 New York, United States",
+        "global_code": "87G8R3G2+P3"
+    },
+    "rating": 3.5,
+    "reference": "ChIJIXpRHGP2wokRae8524O_e_U",
+    "reviews": [
+        {
+            "author_name": "Brenda Hilaire",
+            "author_url": "https://www.google.com/maps/contrib/118207056762608011154/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-n_C-v8txEvA/AAAAAAAAAAI/AAAAAAAAVyc/La4dCKCgeK4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "The worst! Do Not purchase meat from this God forsaken place!\n I have on different occasions purchased meat that smelled like rotting corpses (pork chops, chicken etc...)  I got food poisoning from bad ground beef. Purchased 4 roasters\nThat after preparing 4 different ways, ( I'm an excellent cook) were like props/rubber. \nI purchased dairy products (milk, cheese, yogurt, and sour cream) all of which were expired despite the dates reflecting the products were good. I could go on... And let's not mention the prices are outrageous. I'm not a fan and I rarely go there, unless I need pet food.",
+            "time": 1544628984
+        },
+        {
+            "author_name": "Patrina Williams",
+            "author_url": "https://www.google.com/maps/contrib/117884355387290604654/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZoldU5KdofI/AAAAAAAAAAI/AAAAAAAAJ3A/EVLWciJZJTk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Nice and clean location. They have Boar's head deli meats. The pastrami is amazing! I think I will go get some more now.",
+            "time": 1539989530
+        },
+        {
+            "author_name": "Derik Roberts",
+            "author_url": "https://www.google.com/maps/contrib/110708653336367052911/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KezjcLjISnc/AAAAAAAAAAI/AAAAAAAAAHM/_RAdz57dKuo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "The deli area is filthy with old chunks of meat left on the slicers that they don't even clean off before slicing the next order. The workers there regularly try to get away with not using gloves while handling food. It's disgusting and there are better supermarkets in the area. The ONLY bright spot is a single younger girl who works the register, is friendly, helpful and always smiles. The rest of the cashiers act like you're bothering them by forcing them to ring you up.",
+            "time": 1537829837
+        },
+        {
+            "author_name": "Jordan Revon",
+            "author_url": "https://www.google.com/maps/contrib/100786767802926071583/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ObhPEk1AV2E/AAAAAAAAAAI/AAAAAAAAADY/nCQppbXHif4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "My go-to grocery store. Prices are usually pretty fair (and even then, stuff is on sale with the free card). Good selection of produce, meat selection isn't bad either. There's also a surprising selection of organic products (but a lack of cheap-ish unsalted butter!)\n\nMy only gripe is how small the aisles are; it's not THAT bad that they lose any stars, but if you're rocking anything but a handcart, and they're restocking or someone else is in the aisle, it gets crowded fast. Overall, staff is always really friendly and helpful!",
+            "time": 1536293407
+        },
+        {
+            "author_name": "catherine Moncion",
+            "author_url": "https://www.google.com/maps/contrib/114668477790275893503/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-QGZE0eDo9qo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYjHwoN6KaHuf2tFWH1xH-7HR6zcg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Nice, clean and variety of anything you can find. The workers super nice I love this supermarket.",
+            "time": 1543107777
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17688942534467383145",
+    "utc_offset": -300,
+    "vicinity": "3550 Broadway, New York",
+    "website": "http://www.keyfood.com/"
+}

@@ -1,0 +1,186 @@
+{
+    "address_components": [
+        {
+            "long_name": "Apt 844",
+            "short_name": "Apt 844",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "153",
+            "short_name": "153",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 139th Street",
+            "short_name": "W 139th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153 W 139th St Apt 844</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153 W 139th St Apt 844, New York, NY 10030, USA",
+    "formatted_phone_number": "(929) 390-9991",
+    "geometry": {
+        "location": {
+            "lat": 40.8176682,
+            "lng": -73.9410212
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8189300802915,
+                "lng": -73.93964441970849
+            },
+            "southwest": {
+                "lat": 40.8162321197085,
+                "lng": -73.94234238029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a7bb33cfcadd4ba135efd5576aa84fb3fa216cb3",
+    "international_phone_number": "+1 929-390-9991",
+    "name": "World Giant Corporartion",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 390,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106759056335059593006/photos\">World Giant Corporartion</a>"
+            ],
+            "photo_reference": "CmRaAAAAAnTrTVcXFYr0mN7ln0jVpi0uXRKghr4TUJl7xIqftDD3pUHUkbfo1BJkF-P5sRy2liIPHjp-mz9wbOt4eeo_vGOO6VR7JHBP2Skunr0JWB7Gr_PbNjTlr3AWfekpOuKIEhBSA9hmedJOGfMAv14X8uihGhQWnX3yehdIxxW9vNGqcMv5HfU7sw",
+            "width": 390
+        }
+    ],
+    "place_id": "ChIJ4XAsyvb3wokRY_T5uX_rqI8",
+    "plus_code": {
+        "compound_code": "R395+3H New York, United States",
+        "global_code": "87G8R395+3H"
+    },
+    "reference": "ChIJ4XAsyvb3wokRY_T5uX_rqI8",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10351782677324624995",
+    "utc_offset": -300,
+    "vicinity": "153 West 139th Street Apt 844, New York",
+    "website": "https://wgflip.com/"
+}

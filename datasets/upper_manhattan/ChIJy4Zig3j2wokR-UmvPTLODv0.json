@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.820557,
+            "lng": -73.936348
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8218941302915,
+                "lng": -73.9350077197085
+            },
+            "southwest": {
+                "lat": 40.8191961697085,
+                "lng": -73.9377056802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "bce9a2e8a7237d27b4e3e1250d2b6d35bd03c248",
+    "name": "W 145 St/Malcolm X Blvd",
+    "place_id": "ChIJy4Zig3j2wokR-UmvPTLODv0",
+    "plus_code": {
+        "compound_code": "R3C7+6F New York, United States",
+        "global_code": "87G8R3C7+6F"
+    },
+    "rating": 5,
+    "reference": "ChIJy4Zig3j2wokR-UmvPTLODv0",
+    "reviews": [
+        {
+            "author_name": "\u4e1b\u94ed",
+            "author_url": "https://www.google.com/maps/contrib/100012610374926037706/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MPSIZ8_FW2c/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaNNnYo3AXx3-LnZIYn9MbLJCbs8g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1503261176
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18234738656448301561",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "Steinman Hall",
+            "short_name": "Steinman Hall",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "160",
+            "short_name": "160",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"extended-address\">Steinman Hall</span>, <span class=\"street-address\">160 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Steinman Hall, 160 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 650-8099",
+    "geometry": {
+        "location": {
+            "lat": 40.821793,
+            "lng": -73.94798200000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231961302915,
+                "lng": -73.9467631197085
+            },
+            "southwest": {
+                "lat": 40.8204981697085,
+                "lng": -73.94946108029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "787804ecc1bc357e193644d073804ff2f98d8bee",
+    "international_phone_number": "+1 212-650-8099",
+    "name": "NOAA CREST Center",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ00tj1WT2wokRZGz3azEhQe8",
+    "plus_code": {
+        "compound_code": "R3C2+PR New York, United States",
+        "global_code": "87G8R3C2+PR"
+    },
+    "rating": 5,
+    "reference": "ChIJ00tj1WT2wokRZGz3azEhQe8",
+    "reviews": [
+        {
+            "author_name": "Kenneth Arguedas",
+            "author_url": "https://www.google.com/maps/contrib/114475035105462857988/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-K7DBFmnVPPs/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY3nYDD73mruwdpenEhw9KL77AFXw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1541104140
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17240097344699460708",
+    "utc_offset": -300,
+    "vicinity": "Steinman Hall, 160 Convent Avenue, New York",
+    "website": "https://www.noaacrest.org/"
+}

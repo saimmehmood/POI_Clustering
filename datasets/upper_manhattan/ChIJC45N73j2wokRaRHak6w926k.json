@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "167",
+            "short_name": "167",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">167 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "167 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 281-2714",
+    "geometry": {
+        "location": {
+            "lat": 40.82160529999999,
+            "lng": -73.9385018
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8228798802915,
+                "lng": -73.93720801970849
+            },
+            "southwest": {
+                "lat": 40.8201819197085,
+                "lng": -73.9399059802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7234b2b0396d24acdffea17bddcb1818a377d971",
+    "international_phone_number": "+1 212-281-2714",
+    "name": "Lemor Realty Corporation.",
+    "place_id": "ChIJC45N73j2wokRaRHak6w926k",
+    "plus_code": {
+        "compound_code": "R3C6+JH New York, United States",
+        "global_code": "87G8R3C6+JH"
+    },
+    "rating": 2.5,
+    "reference": "ChIJC45N73j2wokRaRHak6w926k",
+    "reviews": [
+        {
+            "author_name": "Huey Kabir Ali",
+            "author_url": "https://www.google.com/maps/contrib/115047081450643479770/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--_hmNoH5Ne0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYmOrHYBqXAPMSHO7ukWO4KLKbsoA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Free",
+            "time": 1461644840
+        },
+        {
+            "author_name": "Paul Smith",
+            "author_url": "https://www.google.com/maps/contrib/102839409561870973769/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ETVYPwueNvs/AAAAAAAAAAI/AAAAAAAAACM/ZPsEoxVVAz8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1545654180
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12239444223733666153",
+    "utc_offset": -300,
+    "vicinity": "167 West 145th Street, New York",
+    "website": "http://lemorrealty.com/"
+}

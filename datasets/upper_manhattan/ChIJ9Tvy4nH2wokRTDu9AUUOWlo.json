@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "2478",
+            "short_name": "2478",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7704",
+            "short_name": "7704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2478 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2478 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 398-7367",
+    "geometry": {
+        "location": {
+            "lat": 40.8149054,
+            "lng": -73.9475002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81628758029149,
+                "lng": -73.94622976970848
+            },
+            "southwest": {
+                "lat": 40.81358961970849,
+                "lng": -73.9489277302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "37072e35cd9ef2d1f49907f819a3b5b493a32e6e",
+    "international_phone_number": "+1 646-398-7367",
+    "name": "I & I PRO ACCOUNTING AND TAX SERVICES CORPORATION.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ9Tvy4nH2wokRTDu9AUUOWlo",
+    "plus_code": {
+        "compound_code": "R372+XX New York, United States",
+        "global_code": "87G8R372+XX"
+    },
+    "rating": 5,
+    "reference": "ChIJ9Tvy4nH2wokRTDu9AUUOWlo",
+    "reviews": [
+        {
+            "author_name": "Issaka Mintoumba",
+            "author_url": "https://www.google.com/maps/contrib/105196700005740142602/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-O6oYyhV5Sq4/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ6DgyUqgxZ_huxeF_d0QAWvRzYWw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1537411216
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6510531900862184268",
+    "utc_offset": -300,
+    "vicinity": "2478 Frederick Douglass Boulevard, New York",
+    "website": "http://www.2ipatsnyc.com/"
+}

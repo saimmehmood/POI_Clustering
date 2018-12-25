@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1",
+            "short_name": "# 1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "703",
+            "short_name": "703",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4500",
+            "short_name": "4500",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">703 Malcolm X Blvd # 1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4500</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "703 Malcolm X Blvd # 1, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 283-1722",
+    "geometry": {
+        "location": {
+            "lat": 40.82080879999999,
+            "lng": -73.9364184
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8220992802915,
+                "lng": -73.9349293197085
+            },
+            "southwest": {
+                "lat": 40.8194013197085,
+                "lng": -73.93762728029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2e670d3ded358f7678882b9c153b22d96b55b91c",
+    "international_phone_number": "+1 212-283-1722",
+    "name": "E & G Cleaners",
+    "place_id": "ChIJi12UnHj2wokREvmPv1i8wSU",
+    "plus_code": {
+        "compound_code": "R3C7+8C New York, United States",
+        "global_code": "87G8R3C7+8C"
+    },
+    "rating": 1,
+    "reference": "ChIJi12UnHj2wokREvmPv1i8wSU",
+    "reviews": [
+        {
+            "author_name": "James Staeckeler",
+            "author_url": "https://www.google.com/maps/contrib/101305976243336248699/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MsgOLhKxZa8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcayA57XaEsK2O783PY8K0e4E17rwg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 years ago",
+            "text": "Needed my pants tailored. I was only in the area for 3 days. They promised I would have my pants back by Saturday morning so I prepaid. \n\nWent in at 10am. Pants were not ready and would not be delivered to the store until 5pm. Was leaving the area at 2:30. UNREAL.\n\nno manager to speak to and no way for them to get in touch with the cleaning company. \n\nI will have to wait til next week and make a special trip to pick them up.\n\n This store is just a middleman. They do not do any of there own work.\n\nSave your time and money and go to a real tailor.",
+            "time": 1403361871
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2720662739265517842",
+    "utc_offset": -300,
+    "vicinity": "703 Malcolm X Boulevard # 1, New York"
+}

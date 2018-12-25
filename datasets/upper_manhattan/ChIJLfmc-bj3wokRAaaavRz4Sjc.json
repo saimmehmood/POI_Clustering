@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "204",
+            "short_name": "204",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">204 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "204 W 144th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.820925,
+            "lng": -73.93995129999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82235498029149,
+                "lng": -73.9385428697085
+            },
+            "southwest": {
+                "lat": 40.81965701970849,
+                "lng": -73.9412408302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "61a1965afb3a2ca89f946ce4ec7e5b794ef1a1e0",
+    "name": "Polling Station",
+    "place_id": "ChIJLfmc-bj3wokRAaaavRz4Sjc",
+    "plus_code": {
+        "compound_code": "R3C6+92 New York, United States",
+        "global_code": "87G8R3C6+92"
+    },
+    "reference": "ChIJLfmc-bj3wokRAaaavRz4Sjc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3984269622686426625",
+    "utc_offset": -300,
+    "vicinity": "204 West 144th Street, New York"
+}

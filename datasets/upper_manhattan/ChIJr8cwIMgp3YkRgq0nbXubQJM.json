@@ -1,0 +1,296 @@
+{
+    "address_components": [
+        {
+            "long_name": "452",
+            "short_name": "452",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">452 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "452 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(845) 283-2651",
+    "geometry": {
+        "location": {
+            "lat": 40.8246942,
+            "lng": -73.94685439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261342802915,
+                "lng": -73.94543871970849
+            },
+            "southwest": {
+                "lat": 40.8234363197085,
+                "lng": -73.9481366802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "53882cc5a310971e9f8c5161da8c45af59e1df60",
+    "international_phone_number": "+1 845-283-2651",
+    "name": "Cut Masters Barber shop",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:30 PM",
+            "Tuesday: 9:00 AM \u2013 7:30 PM",
+            "Wednesday: 9:00 AM \u2013 7:30 PM",
+            "Thursday: 9:00 AM \u2013 7:30 PM",
+            "Friday: 9:00 AM \u2013 7:30 PM",
+            "Saturday: 9:00 AM \u2013 6:30 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAA_iEu52QLiNna1YBMnYV19k7Pao5CbTH-ak_QXC8SAQHa57pOutZStIY7dprDKnArJTDzzC4e2fDU2gfQFfdF2QOiDThl46VV-OaVekWkvWnuKvhpj5n1KoSbqPv34oF-EhAFLkrpZeLc94pXS6mQSdWKGhR05u1hc9b8jLmc6QoXn518TIWe5g",
+            "width": 960
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAAPMiOeObmr-3853Vy-9K47-mesASzjpI_PE9-OtdfMQn5Oh2PA9ITmRs8MJSB1vtTGPN-Ud9mxTo76QOEnXjyaZCdFEososjmVC5PIIQztA4kpJL8UkrQNZC9vaRewGHxEhCJW_s_KUVItXo5rYpDxWfIGhR2J-08N67kM1WrxoQ85t8YxNJ8Xw",
+            "width": 2048
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAAD9oaIo6ezJWj_Pp4ah8epBOL1kaNrTCdsmFWyEHzlntEGDjPWgka9QB4ZNd-fWN7IpWnP60nFUmvX9AvNDD6p8N0XbtX-bt_esa0NauJmGdyrzG4ibGfactfcNG2LjgpEhAsiaj3G_0I1q2VtEdACCwfGhSfuXs1wSSBJWZLfkxFv9swOTsy1g",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAAFtsDpkLtHuc0cG6CBId_yg8QwaXURFCr4PvuHgs26BPGZjBOsE1Wt79W5XI818r-FGXD9PLQfNJL3tLbNwm2fpylC1x7NKqPmab3yG4G4TPRTYtNXv1Z_J6EEFRp-reNEhAovjuzycnqjYsp7kCSxsjPGhQActWjSCfoCzsyiyGIXMCsHAWdug",
+            "width": 960
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAA2cD0DD_0Zrq5SG8TMuTcovwnCLcLPsj2sIlD9mUJLIXAH7cN_aPqFUpkYp5jWIs_FZPcWFtSzt_3zVp6ZoztMYCTLABnRFbgcq55wXiRC1TRZD5WKpDMmd9MerwX9XcWEhCVhzgDYvTeRVx_ELQ2BUbeGhTcLDgINRcKf4Y2Yht8oUt9JC_FHg",
+            "width": 528
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAAqvnL2jst9VOqYieELExOh9HwwoWwJUbGVKXBLPYOVJoVntxk9X10udNJqM5ve9WS_pqG0zYGard3FTCHVDcgdtzVBkviZoS4cl8osurxRt6Ba6A8uJrk2kYCCwtpONjWEhB6s5rUZbYbyTR3k0-_Cjc9GhRV3AZ3lOAXEftINP-aTkccqLeU6Q",
+            "width": 2048
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAA-CA-GgZrKSgiXi-FhqQjROqM80mSPG29If5Aa98L290IV7SURLLowISv7NnTR8ChIUTMrk9S8P9iNIe2NUZZRfY38crvy5PHFapBrDnCmYIKPH8HqTGAvIHDgXPZ5zJqEhAWicYVs-wGNGCfUP_UKnbUGhRftUiQpzMak4O4yz-pU0PETfNGaw",
+            "width": 2448
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAACvlEwGkrF7dlnyqn7hFCMhCV9EcEAuzRJwbpoh0jyO8HEbktM4GfASLSo_NzNlgetoi0owTCyXthpeEqMhg3buGn35etto01zkcaRSEUFuuWjS0N5321EfZ71Akn1hPQEhA_m4HlFQJ5_JYnEuTc-YFLGhR2SCabpqMIEUAuKWVieM2d3bPT6Q",
+            "width": 720
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAAILkuUl0qOwDQIKelG5RY6KREAhpwKmP6sQMy_pYs-uJo5S-o2dhWM3IN1I7fCdUoioSa44NmkOMOaE7YRXQldHq1d6bDWkshgnCIY2sW4zSlKbtyb2go8qmYRNO4fSQYEhBAckoRMlAA0TT3j49A5GiEGhR69uxsHWh9T3junWPWnbDTk8-Kiw",
+            "width": 720
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108229565805470933812/photos\">keith Kash</a>"
+            ],
+            "photo_reference": "CmRaAAAA0OQQAjNVnAezAS4YhfIGr_Vg65bDTgbshC6OSweEofzMRhpVcL-okwvI0w8Mt2LHJx7I27PEdJS8Cp-j_Bb0jwZzf6TB8R7_pmh07JMXyHwQtL1JO4YJUI-re1erx7BBEhDsHTSwzZQEGpQ8hxtd9G53GhQ8OdPWrx_B8zk1hwE7NDaBgLmq5A",
+            "width": 640
+        }
+    ],
+    "place_id": "ChIJr8cwIMgp3YkRgq0nbXubQJM",
+    "plus_code": {
+        "compound_code": "R3F3+V7 New York, United States",
+        "global_code": "87G8R3F3+V7"
+    },
+    "rating": 3.5,
+    "reference": "ChIJr8cwIMgp3YkRgq0nbXubQJM",
+    "reviews": [
+        {
+            "author_name": "keith Kash",
+            "author_url": "https://www.google.com/maps/contrib/108229565805470933812/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qgCo8dVePBM/AAAAAAAAAAI/AAAAAAAAbHU/VYrQlJ9N_SI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "This shop has been closed since 2013, I moved to Harlem New York.  I love the fact I get calls from Walden NY and thank you for thinking of me but I serve a new community and you are welcome to come to NYC and see me.  Thank you for the great years Walden",
+            "time": 1517757893
+        },
+        {
+            "author_name": "Daniel Sartor",
+            "author_url": "https://www.google.com/maps/contrib/104322273732669301787/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aZEvaaB4PHo/AAAAAAAAAAI/AAAAAAAAB2o/dR5SXQPUuFo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 years ago",
+            "text": "Asked for appointment, was told to go to a website to book it and it shows no availability for a week. 2 stars because they look like they cut decent hair ",
+            "time": 1448491351
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10610651676499488130",
+    "utc_offset": -300,
+    "vicinity": "452 West 145th Street, New York",
+    "website": "https://www.facebook.com/Cut-Masters-Barber-shop-121238754621984/"
+}

@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "650",
+            "short_name": "650",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">650 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "650 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(347) 632-8928",
+    "geometry": {
+        "location": {
+            "lat": 40.8187209,
+            "lng": -73.9367903
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8201679802915,
+                "lng": -73.93567536970849
+            },
+            "southwest": {
+                "lat": 40.8174700197085,
+                "lng": -73.93837333029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cbcd4cc3399b984c8dd5679ff2486e92eabfe430",
+    "international_phone_number": "+1 347-632-8928",
+    "name": "Brian's Apartment",
+    "place_id": "ChIJkeZhEnj2wokRmIoBIOv7zdo",
+    "plus_code": {
+        "compound_code": "R397+F7 New York, United States",
+        "global_code": "87G8R397+F7"
+    },
+    "reference": "ChIJkeZhEnj2wokRmIoBIOv7zdo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15766534857766832792",
+    "utc_offset": -300,
+    "vicinity": "650 Lenox Avenue, New York",
+    "website": "http://thepacereport.com/"
+}

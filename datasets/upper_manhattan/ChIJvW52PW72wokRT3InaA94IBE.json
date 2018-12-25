@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "480",
+            "short_name": "480",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2739",
+            "short_name": "2739",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">480 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2739</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "480 St Nicholas Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 368-3731",
+    "geometry": {
+        "location": {
+            "lat": 40.8157376,
+            "lng": -73.94769959999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8172013802915,
+                "lng": -73.9467755197085
+            },
+            "southwest": {
+                "lat": 40.8145034197085,
+                "lng": -73.9494734802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c6135bdaa79572d2af38951eac0e16edabf9ed41",
+    "international_phone_number": "+1 212-368-3731",
+    "name": "St Philips On the Park Housing",
+    "place_id": "ChIJvW52PW72wokRT3InaA94IBE",
+    "plus_code": {
+        "compound_code": "R382+7W New York, United States",
+        "global_code": "87G8R382+7W"
+    },
+    "reference": "ChIJvW52PW72wokRT3InaA94IBE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1234118305466774095",
+    "utc_offset": -300,
+    "vicinity": "480 Saint Nicholas Avenue, New York"
+}

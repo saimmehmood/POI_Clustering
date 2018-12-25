@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "707",
+            "short_name": "707",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">707 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "707 Malcolm X Blvd, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 234-6968",
+    "geometry": {
+        "location": {
+            "lat": 40.82095379999999,
+            "lng": -73.9363947
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82223128029149,
+                "lng": -73.93487411970848
+            },
+            "southwest": {
+                "lat": 40.8195333197085,
+                "lng": -73.9375720802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "40c38098adf17ff1f7f1b44e1d1ea04bbb501787",
+    "international_phone_number": "+1 212-234-6968",
+    "name": "KFC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 1:00 AM",
+            "Tuesday: 10:30 AM \u2013 1:00 AM",
+            "Wednesday: 10:30 AM \u2013 1:00 AM",
+            "Thursday: 10:30 AM \u2013 1:00 AM",
+            "Friday: 10:30 AM \u2013 2:00 AM",
+            "Saturday: 10:30 AM \u2013 2:00 AM",
+            "Sunday: 10:30 AM \u2013 1:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1192,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102777920174393791396/photos\">KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAUXvdbRiKIzmKV7eoXiTk38TXbClLvhUt2xZY-wJ6NeQYH2gwZoaE7zAgswkRcHB_cyxTEN-iho1AeithqKmWCkHyDVz5UT6TTIlcscx95aTrptUsJIOwPXB7kFz-4_TDEhCisJht-2LpiZGIih8EhQT9GhRaxV4WRx8FTF-gHrtTIm50RQTjnA",
+            "width": 2120
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102777920174393791396/photos\">KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAPBXKRJREGQczmZoqo8FdRNpzV6-uWFTiLndUZqEL48qoD4S8RYhjWDspWfB7Og8eiPlVOQ-KReYqyYj_Z1Wl-wS6lu2Un6I7DtithVo8hK_RgRXlRbdRMO0bhxDP-AjFEhAUSc5WXjxDMKIHRCItUbu2GhTvD4rj1ayF_sbkTWfk7o0EAZdYAg",
+            "width": 768
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102576069796799253264/photos\">JEFFREY PHILLIPS</a>"
+            ],
+            "photo_reference": "CmRaAAAAHPq-kpDToib53hCdvaIis54qTg22HGoY7WldzLqE71QTFRQxtM76U5GUUaLwj_oqKGlcIKzfP3wthhMgQO508xNIUwhajTsKv29AfmSgPgJLNtXHwJPF0IXEmo1ORCPLEhB7Pb90yq0G9hKpRGtjRK-OGhRF-rizj_qPCCzjce4FtsSztg2kHA",
+            "width": 1836
+        },
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114639814742186927177/photos\">NYC KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAA8P1hM9Kon8tkFKFrwD8xbN4Xd-_D8yZbLrgFiPjIBnEa5ZSqTivXtKZ_R9PaCuKNvy0IqfAng7VkowAYVopIC9axiPq7mxWYVYoAjHmXukDU_dJDR00Hz3X0R141kGh1EhCpubNOr-8_CYqdFFFNMdBDGhSkOdaxyKW7Z2wxIKKzkgATqc-hHA",
+            "width": 1440
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114639814742186927177/photos\">NYC KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAA2XYz_ISAYuhyVFo-vm8NV_NJrOzP29N9Uwee4Gehd6z7etc6QtyU_y1dyC_NIMUeY6wgGiUhsaheELkqm5Az2PUtniPxS5zCSeNfA7D_rQFy3_fbhfKIVD_XmeLo8OPAEhCHWy5kf6BKXQX1gi4jnV_LGhT-Ieq78dENasx7dfb3FHzwKjyPQA",
+            "width": 640
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102777920174393791396/photos\">KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAi0HYEBiUC-k6zL24hkKlOCm19igvA5XaNfLSih6JZ3BDoKgPg-UDA9pf1O9XGxujUowfqW9glCY_Bh1_mfT5vIAqQrX-vpelJBUQ-EVOpWnShNWvjqMRFtBhioOI4dr9EhAj3Gj5DDOAwrmNeybqvE2eGhR0Rn9Gf9XV6zEiRtTzx1EfItoPKg",
+            "width": 768
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116580518151263775932/photos\">Dee Ee</a>"
+            ],
+            "photo_reference": "CmRaAAAAbCARhEECIb7tcdgAwbNmxTRY6nXBX8H6aQWu2-L2g6XEEpOklz0Hd4g_MgW-wV0LrH651hj1mLEGHYJ4v7yejpiMxSJ3O3GYOtgO0WUj8eOb2c5_Gdwd_qXj61lr_LwNEhDvsBJm_-npiYofGj5uXC3eGhTSvIR8ekaZqKOPskzywYdxtilk5g",
+            "width": 960
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102777920174393791396/photos\">KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAQzAXUuNp2HYf06fYQBMTtOf-pYUkKwu55e4KAK-5gkDWrhlDc2sxqDzlhrJnhRd43crCe320hRURe0IxRNmKTRU1R8HJlF3qyKU0iJpG0jRmQihQ-KFKZZBjcNANSCHkEhD1uYzJS6qmeAJUBcFnDibuGhRI2bclZcVjuhZXJjBXTHpBXURsPg",
+            "width": 768
+        },
+        {
+            "height": 1457,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114639814742186927177/photos\">NYC KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAeW6NQGMF5CVSY1_jYUwac0Jx3SB0XN8rAD01r7KsYc1WGre8tvk5zsS1Rh6COPdcz5Gqyf3wUSuezZImXMGly3VIpp0z5cGFZqQ0tH0RD8ZTSI70fspBQ8cQdPrD-N3QEhCjopKLpKZAI1AIQ_VoDgWmGhQlxzL2Ut3Og1uSK46FNyRYg6qvbw",
+            "width": 1881
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102777920174393791396/photos\">KFC</a>"
+            ],
+            "photo_reference": "CmRaAAAAOMaTdN3xXSyhuF84isxxQpa3_4yBWfnZOOVM4_dWllndQLMj6oHW3cifiY9er90yUQ6_Guq7FNbD9wdUlQE46bX1CljGIJk3IkVlyz9FYsKH-UcS2WbPpf_EtqbmfXB_EhBzs53BEELoQt-q-Xp-oJGnGhS_D1_5uZkowt3kTrN8RiukDfUCxQ",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJl6ekhnj2wokRzy74usjqqy8",
+    "plus_code": {
+        "compound_code": "R3C7+9C New York, United States",
+        "global_code": "87G8R3C7+9C"
+    },
+    "price_level": 1,
+    "rating": 3.4,
+    "reference": "ChIJl6ekhnj2wokRzy74usjqqy8",
+    "reviews": [
+        {
+            "author_name": "Monique Lee",
+            "author_url": "https://www.google.com/maps/contrib/109822500733817940313/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_UtXMfz0MuI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYokXcCaAC7RAxvL2pjuihctNbfvw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "For a round away stop not bad . small but the worker's are nice the food was hot and fresh the inside sitting could be done over for a better feel FYI.",
+            "time": 1544438647
+        },
+        {
+            "author_name": "Rosanna Weeks",
+            "author_url": "https://www.google.com/maps/contrib/118343829363930891813/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-W7c448sRJbg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZXR7s1n02wSaOWWQrzg8mHSvLfqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Love KFC, aka \"Dirty Bird). Ran out of Chx. my last visit. But worth the wait for fresh out the pot",
+            "time": 1541395100
+        },
+        {
+            "author_name": "Gwendolyn M Wright",
+            "author_url": "https://www.google.com/maps/contrib/101754087337262998432/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3VRPoSYAcdU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYPAjijkcWayfgErAG3BYEPPUL4nw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The cashier were very helpful and service were quick",
+            "time": 1544399333
+        },
+        {
+            "author_name": "Cynthia Williams",
+            "author_url": "https://www.google.com/maps/contrib/118250771943139468799/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NgrekzlIbWI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYW-Hhd_2XMePXk-DgvCD1O5K7Llw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Dislike food always taste funny not fresh",
+            "time": 1545177119
+        },
+        {
+            "author_name": "Pam Brown",
+            "author_url": "https://www.google.com/maps/contrib/109458068787956608589/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-IUlwlbuToUc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZQF5YHUncKnUnkEGH3gZOkYAXycw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "KFC on 238 was just  what I  expected it to  be  service  was great  highly recommend",
+            "time": 1542602947
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3435097288651321039",
+    "utc_offset": -300,
+    "vicinity": "707 Malcolm X Boulevard, New York",
+    "website": "https://www.kfc.com/store-locator?query=10039"
+}

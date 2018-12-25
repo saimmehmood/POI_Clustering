@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8237116,
+            "lng": -73.9390262
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8249134302915,
+                "lng": -73.93778466970849
+            },
+            "southwest": {
+                "lat": 40.8222154697085,
+                "lng": -73.9404826302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "fdfca7d7abe929ca527341fa9c565158f1966e4d",
+    "name": "Public School 90",
+    "place_id": "ChIJxaXt2H72wokR0fgWqPQCOmU",
+    "plus_code": {
+        "compound_code": "R3F6+F9 New York, United States",
+        "global_code": "87G8R3F6+F9"
+    },
+    "reference": "ChIJxaXt2H72wokR0fgWqPQCOmU",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7294145796295293137",
+    "utc_offset": -300,
+    "vicinity": "New York"
+}

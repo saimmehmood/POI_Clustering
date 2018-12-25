@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Edgecombe Ave, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8265579,
+            "lng": -73.9417314
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8279068802915,
+                "lng": -73.9403824197085
+            },
+            "southwest": {
+                "lat": 40.8252089197085,
+                "lng": -73.94308038029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "dae267e319a3bb32b8e3db5c056d317e54b7eb0e",
+    "name": "Edgecombe Avenue",
+    "place_id": "ChIJp3xFdn72wokRaBUaoVSan7U",
+    "reference": "ChIJp3xFdn72wokRaBUaoVSan7U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Edgecombe+Ave,+New+York,+NY+10030,+USA&ftid=0x89c2f67e76457ca7:0xb59f9a54a11a1568",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

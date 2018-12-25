@@ -1,0 +1,160 @@
+{
+    "address_components": [
+        {
+            "long_name": "141",
+            "short_name": "141",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1301",
+            "short_name": "1301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">141 W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "141 W 144th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 939-9450",
+    "geometry": {
+        "location": {
+            "lat": 40.8207088,
+            "lng": -73.938659
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8220146302915,
+                "lng": -73.9373422197085
+            },
+            "southwest": {
+                "lat": 40.8193166697085,
+                "lng": -73.9400401802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ab44d03b09929f02ac650f94ba3501022a560748",
+    "international_phone_number": "+1 212-939-9450",
+    "name": "Lenox Family Center",
+    "place_id": "ChIJbfmb_nj2wokRT87VfiD0QjQ",
+    "plus_code": {
+        "compound_code": "R3C6+7G New York, United States",
+        "global_code": "87G8R3C6+7G"
+    },
+    "rating": 3.6,
+    "reference": "ChIJbfmb_nj2wokRT87VfiD0QjQ",
+    "reviews": [
+        {
+            "author_name": "Kathalina Small",
+            "author_url": "https://www.google.com/maps/contrib/111872423290133914564/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-WaL4Ja-j_dM/AAAAAAAAAAI/AAAAAAAAMjo/dZUlM-wBZTM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Not bad staff are friendly workers actually do what there supposed too!",
+            "time": 1533959896
+        },
+        {
+            "author_name": "Regina Wade",
+            "author_url": "https://www.google.com/maps/contrib/105849672609556580813/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Q0oA4Mt5reQ/AAAAAAAAAAI/AAAAAAAAABc/KQUYoZXgPgE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I stayed in this shelter many yrs ago was treated with dignity : I have never forgot my stay here in my heart always",
+            "time": 1485573394
+        },
+        {
+            "author_name": "Ajrichar Liera Silla",
+            "author_url": "https://www.google.com/maps/contrib/100126065841943269087/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-R8unOOJDyqc/AAAAAAAAAAI/AAAAAAAALZw/WSpF9KtSmDM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1532789796
+        },
+        {
+            "author_name": "giselle A",
+            "author_url": "https://www.google.com/maps/contrib/106603944396670979174/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ICglfStl8Tg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbC_Heh2eDCmN4XX-3aNLxUVg1rIQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1518875901
+        },
+        {
+            "author_name": "Vanessa Saunders",
+            "author_url": "https://www.google.com/maps/contrib/113031546734574980615/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-J0L1jVLOhNM/AAAAAAAAAAI/AAAAAAAACKk/Agrr6gfArMc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1488117908
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3765840658839227983",
+    "utc_offset": -300,
+    "vicinity": "141 West 144th Street, New York"
+}

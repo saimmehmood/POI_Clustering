@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "2657",
+            "short_name": "2657",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1503",
+            "short_name": "1503",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2657 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1503</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2657 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-2657",
+    "geometry": {
+        "location": {
+            "lat": 40.82090529999999,
+            "lng": -73.9435889
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82221433029149,
+                "lng": -73.94214396970848
+            },
+            "southwest": {
+                "lat": 40.8195163697085,
+                "lng": -73.94484193029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d7317aa3f712496fde1bfef34acc51d9b567ac97",
+    "international_phone_number": "+1 212-862-2657",
+    "name": "Food Center Inc.",
+    "place_id": "ChIJgY-ATHr2wokRZP6T9wDnSHU",
+    "plus_code": {
+        "compound_code": "R3C4+9H New York, United States",
+        "global_code": "87G8R3C4+9H"
+    },
+    "reference": "ChIJgY-ATHr2wokRZP6T9wDnSHU",
+    "scope": "GOOGLE",
+    "types": [
+        "convenience_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8451258692100423268",
+    "utc_offset": -300,
+    "vicinity": "2657 Frederick Douglass Boulevard, New York"
+}

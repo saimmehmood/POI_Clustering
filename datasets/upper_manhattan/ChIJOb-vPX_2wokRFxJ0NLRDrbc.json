@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 148th St, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82385589999999,
+            "lng": -73.937963
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251359802915,
+                "lng": -73.93666491970849
+            },
+            "southwest": {
+                "lat": 40.8224380197085,
+                "lng": -73.9393628802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "578821334bd3c70391859b3a71d43047e4799fbf",
+    "name": "Girls Educational And Mentoring Services",
+    "place_id": "ChIJOb-vPX_2wokRFxJ0NLRDrbc",
+    "plus_code": {
+        "compound_code": "R3F6+GR New York, United States",
+        "global_code": "87G8R3F6+GR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJOb-vPX_2wokRFxJ0NLRDrbc",
+    "reviews": [
+        {
+            "author_name": "D Currency",
+            "author_url": "https://www.google.com/maps/contrib/109643027086068427896/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-4_1H8gbPTgA/AAAAAAAAAAI/AAAAAAAAAUU/RjdKFgkjG7I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1521436621
+        },
+        {
+            "author_name": "Brie Mu\u00f1oz",
+            "author_url": "https://www.google.com/maps/contrib/105711314841975363413/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_-ZbZEQIvRY/AAAAAAAAAAI/AAAAAAAADRM/wTVQQeSInEo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1517229766
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13235309321164952087",
+    "utc_offset": -300,
+    "vicinity": "201 West 148th Street, New York",
+    "website": "http://www.gems-girls.org/"
+}

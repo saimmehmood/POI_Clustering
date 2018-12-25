@@ -1,0 +1,162 @@
+{
+    "address_components": [
+        {
+            "long_name": "237",
+            "short_name": "237",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4001",
+            "short_name": "4001",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">237 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-4001</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "237 W 145th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 694-0855",
+    "geometry": {
+        "location": {
+            "lat": 40.82256460000001,
+            "lng": -73.9407516
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82382853029151,
+                "lng": -73.9394649697085
+            },
+            "southwest": {
+                "lat": 40.82113056970851,
+                "lng": -73.94216293029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6dec453d393ea8a11e7ee8f5000e16070bff2f03",
+    "international_phone_number": "+1 212-694-0855",
+    "name": "Prestige Management",
+    "place_id": "ChIJLTvPL3n2wokRYjLCo9i8VDg",
+    "plus_code": {
+        "compound_code": "R3F5+2M New York, United States",
+        "global_code": "87G8R3F5+2M"
+    },
+    "rating": 4,
+    "reference": "ChIJLTvPL3n2wokRYjLCo9i8VDg",
+    "reviews": [
+        {
+            "author_name": "Juan a ramirez",
+            "author_url": "https://www.google.com/maps/contrib/101031395575358899267/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-l2Tj0YksRh8/AAAAAAAAAAI/AAAAAAAATOU/vjx_rp8dPGc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Ms crystal Campbell  She is very quick and helpful. Very knowledgeable when you ask for information. Thanks ..",
+            "time": 1501955436
+        },
+        {
+            "author_name": "Monique Greene",
+            "author_url": "https://www.google.com/maps/contrib/106740061434115408021/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mCcNQfimgsI/AAAAAAAAAAI/AAAAAAAAKxc/68yyg7JyoGI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Quick and Easy Proscess...Very Proffesional...Answered all of my questions and all of my phone calls.....Ms. Crystal Campbell is definitely the Best",
+            "time": 1501889326
+        },
+        {
+            "author_name": "Zhong Wu",
+            "author_url": "https://www.google.com/maps/contrib/106150195251852526875/reviews",
+            "language": "zh",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--vmQxGwtRwc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZtEihFBwIcKLhnwTmaTAzFpeJAMA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "\u51e0\u597d",
+            "time": 1523331918
+        },
+        {
+            "author_name": "jessiah Hill",
+            "author_url": "https://www.google.com/maps/contrib/108615576172656261467/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JsyDfd9pAWE/AAAAAAAAAAI/AAAAAAAAJ38/T1oFLiUS0Jo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1533674201
+        },
+        {
+            "author_name": "H Brown",
+            "author_url": "https://www.google.com/maps/contrib/112958950604310355395/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zsBWZQJKCBk/AAAAAAAAAAI/AAAAAAAANIs/xXceESahzTI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1514808622
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4059076802814030434",
+    "utc_offset": -300,
+    "vicinity": "237 West 145th Street, New York",
+    "website": "http://www.prestigemgt.com/"
+}

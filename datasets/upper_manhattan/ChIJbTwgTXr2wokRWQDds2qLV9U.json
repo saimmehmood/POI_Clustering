@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1428",
+            "short_name": "1428",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1428</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 W 142nd St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 368-3699",
+    "geometry": {
+        "location": {
+            "lat": 40.8209744,
+            "lng": -73.94367849999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8223573302915,
+                "lng": -73.94230371970849
+            },
+            "southwest": {
+                "lat": 40.8196593697085,
+                "lng": -73.9450016802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f4577ec0b0356ddabe6940c9ce1046fa04cebdc1",
+    "international_phone_number": "+1 212-368-3699",
+    "name": "Fox Owen DDS",
+    "place_id": "ChIJbTwgTXr2wokRWQDds2qLV9U",
+    "plus_code": {
+        "compound_code": "R3C4+9G New York, United States",
+        "global_code": "87G8R3C4+9G"
+    },
+    "rating": 5,
+    "reference": "ChIJbTwgTXr2wokRWQDds2qLV9U",
+    "reviews": [
+        {
+            "author_name": "Michael Ackerman",
+            "author_url": "https://www.google.com/maps/contrib/103768124807251509413/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bNIZgnMZTMI/AAAAAAAAAAI/AAAAAAAAABE/1jewuS59CYg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Owen Fox unfortunately passed because of a heart attack, while shoveling. ",
+            "time": 1454291887
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15372909143452876889",
+    "utc_offset": -300,
+    "vicinity": "300 West 142nd Street, New York"
+}

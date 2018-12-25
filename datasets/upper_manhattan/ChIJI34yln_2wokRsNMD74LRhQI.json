@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "231",
+            "short_name": "231",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 151st Street",
+            "short_name": "W 151st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1901",
+            "short_name": "1901",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">231 W 151st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-1901</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "231 W 151st St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 368-2900",
+    "geometry": {
+        "location": {
+            "lat": 40.8260356,
+            "lng": -73.9376833
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8274012302915,
+                "lng": -73.9363220697085
+            },
+            "southwest": {
+                "lat": 40.8247032697085,
+                "lng": -73.9390200302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "b5ebba3fd2fb7a3503420117d34b3b8cb1a23ff4",
+    "international_phone_number": "+1 212-368-2900",
+    "name": "New York City Housing",
+    "place_id": "ChIJI34yln_2wokRsNMD74LRhQI",
+    "plus_code": {
+        "compound_code": "R3G6+CW New York, United States",
+        "global_code": "87G8R3G6+CW"
+    },
+    "rating": 3.7,
+    "reference": "ChIJI34yln_2wokRsNMD74LRhQI",
+    "reviews": [
+        {
+            "author_name": "Tasha Baccous",
+            "author_url": "https://www.google.com/maps/contrib/116080446903576167678/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0GkfkHpJgA8/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbc32SsZ2Nd2iGBLCCuVuJ-t6H_ww/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "This is the absolute worst development ever.  Crack heads and crack apartments throughout building. Apartments have mold and mildew behind paint walls fall apart severe water damage constant and wont fix unless u take them to court 3 times.  I would not recommend the homeless to live here",
+            "time": 1492183535
+        },
+        {
+            "author_name": "SE P",
+            "author_url": "https://www.google.com/maps/contrib/101782879701539579191/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-EFyfNhAmKoc/AAAAAAAAAAI/AAAAAAAAFFk/Ys6G0ASCH-8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1457795682
+        },
+        {
+            "author_name": "daniel Brown",
+            "author_url": "https://www.google.com/maps/contrib/116009307463609991986/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wqENyYmL6-k/AAAAAAAAAAI/AAAAAAAAC0s/X4pz8PRqYe8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1417722500
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=181781720264332208",
+    "utc_offset": -300,
+    "vicinity": "231 West 151st Street, New York",
+    "website": "http://www.nyc.gov/nycha"
+}

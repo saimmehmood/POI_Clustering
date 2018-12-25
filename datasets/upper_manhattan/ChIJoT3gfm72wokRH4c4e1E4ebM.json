@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "81-71",
+            "short_name": "81-71",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">81-71 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "81-71 St Nicholas Terrace, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8148052,
+            "lng": -73.95040800000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81615413029149,
+                "lng": -73.9490589697085
+            },
+            "southwest": {
+                "lat": 40.81345616970849,
+                "lng": -73.95175693029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1de80b7a0a59165639342082f4783a097332ecf2",
+    "name": "81-71 St Nicholas Terrace",
+    "place_id": "ChIJoT3gfm72wokRH4c4e1E4ebM",
+    "reference": "ChIJoT3gfm72wokRH4c4e1E4ebM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=81-71+St+Nicholas+Terrace,+New+York,+NY+10027,+USA&ftid=0x89c2f66e7ee03da1:0xb37938517b38871f",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

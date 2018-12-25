@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "717",
+            "short_name": "717",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">717 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "717 St Nicholas Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 510-7940",
+    "geometry": {
+        "location": {
+            "lat": 40.82459160000001,
+            "lng": -73.9445908
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8259048802915,
+                "lng": -73.94315631970848
+            },
+            "southwest": {
+                "lat": 40.8232069197085,
+                "lng": -73.9458542802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "9c6587ca4251cb7ba80c05f2d47d5866d9db33ab",
+    "international_phone_number": "+1 212-510-7940",
+    "name": "Harlem Driving School",
+    "place_id": "ChIJ5VDRY3z2wokRGRrFtg0ZvAg",
+    "plus_code": {
+        "compound_code": "R3F4+R5 New York, United States",
+        "global_code": "87G8R3F4+R5"
+    },
+    "rating": 5,
+    "reference": "ChIJ5VDRY3z2wokRGRrFtg0ZvAg",
+    "reviews": [
+        {
+            "author_name": "Johanna Mateo",
+            "author_url": "https://www.google.com/maps/contrib/104101670268658138786/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-iI1VgzwMYwU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYZ2KLN0E0lYTQoigbVf87wUhNluA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1525199158
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=629405594616666649",
+    "utc_offset": -300,
+    "vicinity": "717 Saint Nicholas Avenue, New York",
+    "website": "http://harlemdrivingschool.com/"
+}

@@ -1,0 +1,260 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "545 Lenox Ave, New York, NY 10037, USA",
+    "formatted_phone_number": "(347) 612-9607",
+    "geometry": {
+        "location": {
+            "lat": 40.8158955,
+            "lng": -73.9399891
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8171900802915,
+                "lng": -73.9385095697085
+            },
+            "southwest": {
+                "lat": 40.8144921197085,
+                "lng": -73.9412075302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ddceca3025d94b454bd670db5f956d17497eeec",
+    "international_phone_number": "+1 347-612-9607",
+    "name": "Miss Bubble Laundromat",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 12:00 AM",
+            "Tuesday: 7:00 AM \u2013 12:00 AM",
+            "Wednesday: 7:00 AM \u2013 12:00 AM",
+            "Thursday: 7:00 AM \u2013 12:00 AM",
+            "Friday: 7:00 AM \u2013 12:00 AM",
+            "Saturday: 7:00 AM \u2013 12:00 AM",
+            "Sunday: 7:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 433,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115977061261389620644/photos\">Miss Bubble Laundromat</a>"
+            ],
+            "photo_reference": "CmRaAAAAORs9Wm3rDyySa1JboY72uNI75IAgrKwh_gfAqeY3Tba85xiANbns45jNTPi-STwts3YVC9jI-nFD2B7sAT2HO7aaBtgJyDkDg3BlUj56L7oNGWt58gye5oCPl_Mder9-EhCWzYOoXzW5wW-8wUMfb619GhQt7ihMZXc0Wjcux9-HcE0TDS_fjA",
+            "width": 434
+        },
+        {
+            "height": 592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115977061261389620644/photos\">Miss Bubble Laundromat</a>"
+            ],
+            "photo_reference": "CmRaAAAA2BJYd0hRtk0STVzDoC7Doku7w_0Kjopvrv8VrLx2IvQxqvXVA0GuB8gZGEs6egGVC0j7mPlJVw1b-1m9gRb_2Zmg-tqtMOfVvcrFXgeOpQ66QggMh_GctUj7ZkmgdkjKEhCiEl7VBzeEmnR28-CDqGD5GhTxhx8xDjLIGmgWQn3E5P4cMXlUHQ",
+            "width": 592
+        }
+    ],
+    "place_id": "ChIJn2wMHXf2wokREHM2129aYDE",
+    "plus_code": {
+        "compound_code": "R386+92 New York, United States",
+        "global_code": "87G8R386+92"
+    },
+    "rating": 2.3,
+    "reference": "ChIJn2wMHXf2wokREHM2129aYDE",
+    "reviews": [
+        {
+            "author_name": "Lee Cooks",
+            "author_url": "https://www.google.com/maps/contrib/113425036220356092075/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jmuEcKi9Pw8/AAAAAAAAAAI/AAAAAAAABVs/f5VSLlovp38/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "in the last week",
+            "text": "If this laundry wasnt so convenient I would NEVER go here. Only plus is they have free soap. The 2 women who work there are rude. Ive seen them be rude to numerous customers, Including myself. The customer service is TERRIBLE. If you hate your job, and you have to work with the public; you should quit.",
+            "time": 1545229251
+        },
+        {
+            "author_name": "Donald Finklea",
+            "author_url": "https://www.google.com/maps/contrib/101742931438569167839/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-YQXA0ayv7pc/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaRIOAaXi5SMy-nQIeOgVFmJlYEbA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "It's a nice clean laundry.",
+            "time": 1534463219
+        },
+        {
+            "author_name": "Danielle Greenaway",
+            "author_url": "https://www.google.com/maps/contrib/116167198271593572304/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Vi4SHG8gfuQ/AAAAAAAAAAI/AAAAAAAAACw/g7I3x_DhWy4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "After having my laundry picked up and washed. I called to have the laundry delivered and they  notified me that it would be dropped off within 2 hours. After 3.5 hours of waiting I left for my birthday dinner reservations at which point they finally called me to yell at me that the man was there to deliver the laundry. After explaining the situation why i was no longer at my apartment, they black listed me from every having my laundry picked up or delivered, after THEY messed up and couldn't quote me an accurate time frame for delivery.",
+            "time": 1525383450
+        },
+        {
+            "author_name": "Khaliq Rodriquez",
+            "author_url": "https://www.google.com/maps/contrib/103411646285565574107/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-k92b5o6PjCg/AAAAAAAAAAI/AAAAAAAAIxw/LkvgIcnoK_c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "During the summer they don't have air conditioning and they have really old machines.",
+            "time": 1508871264
+        },
+        {
+            "author_name": "Keith Goodson",
+            "author_url": "https://www.google.com/maps/contrib/114521415170982566130/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dB4LJkR3Lm4/AAAAAAAAAAI/AAAAAAAABEI/fbOgU_osuBY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "Small and overcrowded. Also, this place does not have a change machine. You have to go to the woman in the booth to get change. She counts it out by hand. I needed $10 in change; and since I was in a hurry I didn't count it. Of course, I realized later that she cheated me out of 50 cent. I guess she does this to everyone, everyday to make a few extra bucks.",
+            "time": 1501002756
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3557943142021231376",
+    "utc_offset": -300,
+    "vicinity": "545 Lenox Avenue, New York",
+    "website": "http://www.missbubblelaundromat.com/locations"
+}

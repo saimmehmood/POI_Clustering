@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 131st Street",
+            "short_name": "W 131st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2019",
+            "short_name": "2019",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 131st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-2019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 131st St, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 548-3003",
+    "geometry": {
+        "location": {
+            "lat": 40.81311729999999,
+            "lng": -73.94598789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8143947302915,
+                "lng": -73.94469106970848
+            },
+            "southwest": {
+                "lat": 40.8116967697085,
+                "lng": -73.9473890302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "aaf2897cd5ced55655f72cc023ac826414ae1c2c",
+    "international_phone_number": "+1 646-548-3003",
+    "name": "Arkan Food Market",
+    "photos": [
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101846349430592646713/photos\">Rodney Branch</a>"
+            ],
+            "photo_reference": "CmRaAAAAMFIXkJnxCG14mE8uZIohN5afaRFMrQv_bZSX7RGfBEYAbw1a1EvzJp6WXjIADV6yPi1-2vDE2pHHz_NKHfdS47NWw49u50IuMaPsH4kT5azPLHHB6gOv1riEPXDnKF1QEhCY0pQlfCX7wn7TnPMaBqUgGhQ4egAlrRyeNIxjnfUxdiMFf3Oj6Q",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJQQAcPHL2wokRqytdT1pcyxo",
+    "plus_code": {
+        "compound_code": "R373+6J New York, United States",
+        "global_code": "87G8R373+6J"
+    },
+    "reference": "ChIJQQAcPHL2wokRqytdT1pcyxo",
+    "scope": "GOOGLE",
+    "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1930738408206707627",
+    "utc_offset": -300,
+    "vicinity": "201 West 131st Street, New York"
+}

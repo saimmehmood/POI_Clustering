@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "453",
+            "short_name": "453",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3835",
+            "short_name": "3835",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">453 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-3835</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "453 W 148th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 548-1192",
+    "geometry": {
+        "location": {
+            "lat": 40.8268995,
+            "lng": -73.945099
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8281646302915,
+                "lng": -73.9438112197085
+            },
+            "southwest": {
+                "lat": 40.8254666697085,
+                "lng": -73.9465091802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0cb77d7ded6fc4a12a2492713f84fa55d729d032",
+    "international_phone_number": "+1 646-548-1192",
+    "name": "Branch Real Estate Co Inc",
+    "place_id": "ChIJ3Qz9BX32wokRDoBdw5jkEB4",
+    "plus_code": {
+        "compound_code": "R3G3+QX New York, United States",
+        "global_code": "87G8R3G3+QX"
+    },
+    "reference": "ChIJ3Qz9BX32wokRDoBdw5jkEB4",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2166482765529055246",
+    "utc_offset": -300,
+    "vicinity": "453 West 148th Street, New York"
+}

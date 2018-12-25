@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "134",
+            "short_name": "134",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgecombe Avenue",
+            "short_name": "Edgecombe Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1480",
+            "short_name": "1480",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">134 Edgecombe Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1480</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "134 Edgecombe Ave, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 862-3823",
+    "geometry": {
+        "location": {
+            "lat": 40.8210025,
+            "lng": -73.94475390000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8223946802915,
+                "lng": -73.9434925197085
+            },
+            "southwest": {
+                "lat": 40.8196967197085,
+                "lng": -73.9461904802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4012e4826ad02c776ef59b994312e9ad9abe9d35",
+    "international_phone_number": "+1 212-862-3823",
+    "name": "Excavation Beauty Salon Inc",
+    "place_id": "ChIJA306_3r2wokR_eY5feDdcTY",
+    "plus_code": {
+        "compound_code": "R3C4+C3 New York, United States",
+        "global_code": "87G8R3C4+C3"
+    },
+    "rating": 4.8,
+    "reference": "ChIJA306_3r2wokR_eY5feDdcTY",
+    "reviews": [
+        {
+            "author_name": "tara green",
+            "author_url": "https://www.google.com/maps/contrib/103385716304022620868/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-AoJC0cMx76Q/AAAAAAAAAAI/AAAAAAAAAgI/Jah5j6yGjnA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Been going here for years!!",
+            "time": 1528889305
+        },
+        {
+            "author_name": "juju capellqn",
+            "author_url": "https://www.google.com/maps/contrib/114531943053510146456/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wHNpaG0iqwY/AAAAAAAAAAI/AAAAAAAAAA4/tF5VOfLn0PA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Great salon owner does good hair !\n",
+            "time": 1427758888
+        },
+        {
+            "author_name": "Champagne Mills",
+            "author_url": "https://www.google.com/maps/contrib/115120902583398216804/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lcCcc85BZ9Q/AAAAAAAAAAI/AAAAAAAACA0/uYauaEgoXn0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1459593377
+        },
+        {
+            "author_name": "Candy Minaya",
+            "author_url": "https://www.google.com/maps/contrib/102047287773567827825/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Fw5gPlc9sPw/AAAAAAAAAAI/AAAAAAAABp8/H2P1Brjr_z4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1407186168
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3923160706659772157",
+    "utc_offset": -300,
+    "vicinity": "134 Edgecombe Avenue, New York"
+}

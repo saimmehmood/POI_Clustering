@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "15 W 136th St, New York, NY 10037, USA",
+    "formatted_phone_number": "(212) 939-2910",
+    "geometry": {
+        "location": {
+            "lat": 40.8139352,
+            "lng": -73.9380991
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8152448802915,
+                "lng": -73.9367790197085
+            },
+            "southwest": {
+                "lat": 40.8125469197085,
+                "lng": -73.9394769802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7e7bdce86e5f1653de0fe70d36913babadc72fdc",
+    "international_phone_number": "+1 212-939-2910",
+    "name": "Dr. Tjark C. Schliep, MD",
+    "place_id": "ChIJ4U7aZnb2wokRSjx812bBGbk",
+    "plus_code": {
+        "compound_code": "R376+HQ New York, United States",
+        "global_code": "87G8R376+HQ"
+    },
+    "reference": "ChIJ4U7aZnb2wokRSjx812bBGbk",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13337904418880502858",
+    "utc_offset": -300,
+    "vicinity": "15 West 136th Street, New York"
+}

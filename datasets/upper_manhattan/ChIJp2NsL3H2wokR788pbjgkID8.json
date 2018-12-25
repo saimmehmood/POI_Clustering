@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "164",
+            "short_name": "164",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 136th Street",
+            "short_name": "W 136th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2601",
+            "short_name": "2601",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">164 W 136th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2601</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "164 W 136th St, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 281-1670",
+    "geometry": {
+        "location": {
+            "lat": 40.8155304,
+            "lng": -73.9425741
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169461802915,
+                "lng": -73.94117626970849
+            },
+            "southwest": {
+                "lat": 40.8142482197085,
+                "lng": -73.9438742302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5c8373680cb2f20656982228080d191427850bf4",
+    "international_phone_number": "+1 212-281-1670",
+    "name": "Sunset Funeral Services Inc",
+    "place_id": "ChIJp2NsL3H2wokR788pbjgkID8",
+    "plus_code": {
+        "compound_code": "R384+6X New York, United States",
+        "global_code": "87G8R384+6X"
+    },
+    "reference": "ChIJp2NsL3H2wokR788pbjgkID8",
+    "scope": "GOOGLE",
+    "types": [
+        "funeral_home",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4548675448429203439",
+    "utc_offset": -300,
+    "vicinity": "164 West 136th Street, New York"
+}

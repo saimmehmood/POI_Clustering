@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "206",
+            "short_name": "206",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 137th Street",
+            "short_name": "W 137th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2489",
+            "short_name": "2489",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">206 W 137th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-2489</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "206 W 137th St, New York, NY 10030, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8167476,
+            "lng": -73.94357459999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81817098029151,
+                "lng": -73.9421707197085
+            },
+            "southwest": {
+                "lat": 40.81547301970851,
+                "lng": -73.9448686802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "25bcdef0e113489da372825fe11c2954855ed9a7",
+    "name": "Pied-a-terre on striver row",
+    "place_id": "ChIJFy-M6HD2wokR5lwf8v2z4Zs",
+    "plus_code": {
+        "compound_code": "R384+MH New York, United States",
+        "global_code": "87G8R384+MH"
+    },
+    "reference": "ChIJFy-M6HD2wokR5lwf8v2z4Zs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11232456848908967142",
+    "utc_offset": -300,
+    "vicinity": "206 West 137th Street, New York"
+}

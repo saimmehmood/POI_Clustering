@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.815562,
+            "lng": -73.948647
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169220802915,
+                "lng": -73.94733931970849
+            },
+            "southwest": {
+                "lat": 40.8142241197085,
+                "lng": -73.9500372802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "a5576df5af16deb3bf68ffab3fd296bb0a31f3f4",
+    "name": "St Nicholas Av/W 133 St",
+    "place_id": "ChIJtZrFF272wokRRjobPBmno_c",
+    "plus_code": {
+        "compound_code": "R382+6G New York, United States",
+        "global_code": "87G8R382+6G"
+    },
+    "reference": "ChIJtZrFF272wokRRjobPBmno_c",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17844289875396475462",
+    "utc_offset": -300,
+    "vicinity": "United States"
+}

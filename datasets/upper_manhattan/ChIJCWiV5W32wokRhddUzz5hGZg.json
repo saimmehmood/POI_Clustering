@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "2435",
+            "short_name": "2435",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7703",
+            "short_name": "7703",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2435 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-7703</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2435 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 690-0078",
+    "geometry": {
+        "location": {
+            "lat": 40.8138264,
+            "lng": -73.94873350000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8151377302915,
+                "lng": -73.94729621970849
+            },
+            "southwest": {
+                "lat": 40.8124397697085,
+                "lng": -73.94999418029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aa413cf07a60b7030dd0de68ec3d328953075a9c",
+    "international_phone_number": "+1 212-690-0078",
+    "name": "H T & V Nail Salon Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1815"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:30 AM \u2013 6:15 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105351562695813464521/photos\">S\u00e9raphine Bouda</a>"
+            ],
+            "photo_reference": "CmRaAAAAEyUyQog0prs5ms3dR8BjNl2KRGNfNSeU33uN9F03QJCeC_Kd5c-xCwN0uz_FL2viCDIKLLhYp4Yn4_83bhAeQr4hzlWOVz9LuQAvKxYsIFa82ohwAXNQZ45ZfBy7MjOgEhBuhAanjLsdD_yNZ2kUL2vzGhSBq8TNWkpdzTkCpc5BsUOm1jw3Yg",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116053516756164141599/photos\">Mellissa Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAxM2SGIsojObAv-xXJOIscIaxo8X0wYTDu_VJG4QITSnQV5_vkkYZxpuuGKuYBOlNmNV0ttU8PR-szx5Gu3Kpp84FfqJ7IoZvKMD9BUpy9j98jySwZAmiRNSFnckq-hQJEhBhZRRT4aW4DWJTav82qvNSGhQPl-IVNm2RhTzSokwPhev3mVaXFQ",
+            "width": 2988
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105848877065243349233/photos\">Kasha Johnson</a>"
+            ],
+            "photo_reference": "CmRZAAAA8Nd35WI7sLlyJbPqWzdXBF7dg4V4wlQJYnr5G93FwO4Mf5jNYRKqLQsMnOOd-0mST3r3M1gIYTYa6DwXBXSkESP8LKeCKYmNTXn3fDipYAUweIqIpwQsAwrFBT2b7ozlEhAQNDO2Fc7sMbDZYKtpME1HGhQpdzqe7kPgEBoXAJKKZqYX8c6KbQ",
+            "width": 1638
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102069023988421348691/photos\">Louise all\u00e9luia Belemkaryan</a>"
+            ],
+            "photo_reference": "CmRaAAAA4GtNXuwcccvth6b3Vf5-zL5-0aBDBj1g-zrOwghJTfmXqqpML6ax8JoCg4Xf0exiiw5Y7Wh_B885V_chxpB9Tf4x41fGhatJw98k5srrA8QWJqdWbQ79dhjCEZC-13hKEhCFC0su9ZXXz4NqWzpH2so5GhQn8EeuxXuG4edqux2ti638YBhkqg",
+            "width": 2988
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113445126254131715677/photos\">Rafiratou Yaro</a>"
+            ],
+            "photo_reference": "CmRaAAAAqPMMyZ4NKT7nXM1cXgMORo3TEVhm5ubuODVePIUhJZWq_zjrx_9mnmAKqyvV4F9DY74FQhAqxw412dYPbE80ZwgP7SgpUdrFryaYfH3o50U3nNWPQgzdzjLhO5yz0AwPEhBH3LvyoQBzFCUTXUDtLVduGhStMRdcBsDdrsQdS1e6SJWvI1HUWQ",
+            "width": 3456
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113228209751077953132/photos\">Donnelle James</a>"
+            ],
+            "photo_reference": "CmRaAAAA-oqpeKP4LdGW2JCm63tlzxSpeX4Bz88OysKUtOLKikjypwuQXNJNpWtyJixtj0ZDHj4MyQSpVabjKjE63MjHcDaWqo9vvWme46-rg1k2itRO0ojk18-ay91y1ULjX2GuEhDJlkPQMrRLYQt89YmSdOdfGhTY1AZXYJlPaRv6JipO-9c03WuGpQ",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115298593445058459979/photos\">Veronica Colon</a>"
+            ],
+            "photo_reference": "CmRaAAAAHC9tjPVgDJ_se_xQWh2vJf7TNJAAf1wJm5tXrbIFWY0KNWx7r_C98jBH6m-cX_Xok5gBolOCdwvyNrM6ujxJoYMwUrBqmnTquSXJIXzDxfmfaUCqf1rqceI_6oXUZu6-EhAh419Axf8UHlUXuWc1qe0tGhSrELHNGYXQ9SCdaxZ31BBq5QtmQw",
+            "width": 3024
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107959168417657487194/photos\">Meishel Suazo</a>"
+            ],
+            "photo_reference": "CmRaAAAA53MEQ5kJWsHc76uLhZv_3I6GhAtpHLRFYtxMU9-03hGHx74gXn2lVd_8OuNJf3VPBP8S7GW3dufFmWHUSvvDv7nF6N8Hv-97EEW1uQsBTu67gLnVueIFH1Ua09l5hmbqEhCaO9TfIn_QWGnrCHWBg7ZWGhSki6XAjKZjp5ZR0uq5bRcBdv8OwQ",
+            "width": 1836
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107959168417657487194/photos\">Meishel Suazo</a>"
+            ],
+            "photo_reference": "CmRaAAAAeMnjf5JEJ8HKJ8rDYoosOl5YIRdLIZWzX21xoRwH8SBUMGbzzMIErHX1nV7tjEPPtq6PepjNDOiMjHaq8zvZPQRgiEIvn9S7Z4aru0cWAArd6_eQ7uDQHIQa3cup_G6sEhDKOO28CZCy_3f3eMkZAIfhGhQIzOC5m0XLZyRWk7GpZ_aeOWzJaw",
+            "width": 1836
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102069023988421348691/photos\">Louise all\u00e9luia Belemkaryan</a>"
+            ],
+            "photo_reference": "CmRaAAAA5VTfG6hOd0tRq1vcTw92U10gf-t8u13aLfsywnpwnAFEocfUEX5T5siB2zR_sMPAGQcoLCldDZwraqGOlLrJKqb1xlAsx46j7-lAtuSNzs926fnKEQ63fx-ZlD2mUoHZEhBRfolUkJR-1joLMRODBgMtGhRumnKjnZFbyu3V5EwaRr4_2e_DSg",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJCWiV5W32wokRhddUzz5hGZg",
+    "plus_code": {
+        "compound_code": "R372+GG New York, United States",
+        "global_code": "87G8R372+GG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJCWiV5W32wokRhddUzz5hGZg",
+    "reviews": [
+        {
+            "author_name": "Alethea Persaud",
+            "author_url": "https://www.google.com/maps/contrib/104990513508773465555/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bnlUh8zjer0/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZ_cSLdvWvcTaerdxOKew72AIj95A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great place to get your nails done. Cash only",
+            "time": 1544293685
+        },
+        {
+            "author_name": "Penny Burns",
+            "author_url": "https://www.google.com/maps/contrib/101755884983931744229/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-kEu5OzU_Rno/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZCqJtbdMjdA-QcSnPAZ4oH215opQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I've been going to NeNe for ova 20 yrs. I met her sis n law Kim first, and I've been going there ever since. I'm part of their family. I luv me sum them.\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d Smooches",
+            "time": 1537049814
+        },
+        {
+            "author_name": "She's Happy",
+            "author_url": "https://www.google.com/maps/contrib/114105350613309863214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-53hijBMGH04/AAAAAAAAAAI/AAAAAAAAASU/t6-S2SIvel0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Pleasant time spent getting gel mani & pedi... \ud83d\udc85\ud83c\udffe\ud83d\udc4d\ud83c\udffe",
+            "time": 1538796639
+        },
+        {
+            "author_name": "stephanie fernandez",
+            "author_url": "https://www.google.com/maps/contrib/110660291211507822708/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-YaM-_ve559U/AAAAAAAAAAI/AAAAAAAAAWc/ykHfhBgFBWs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "I came earlier today (Thursday) requesting only a manicure. No pedicure, no acrylic tips, not even gel, a regular $11 manicure. I searched the nail salon before going because it had the highest rating out of all the salons in this area. I got there at 4:45pm and ended leaving at 5:45 with NO manicure. Initially they told me 20 minutes and then continued to add 10 more minutes everytime I asked. Finally someone was free so she took me to the back but she began filling up the pedicure tub. When I told her I was only there for a manicure she yelled at me and told me to go sit back down. Then a man who looked like the boss pointed at me and said \"you, why you here!?\" I asked one last time how long it would take for a manicure- he said one minute- I gave him 5 minutes and left. This was the most disappointing experience I have ever had in any nail salon ever. Never coming back here and I don't recommend it to any new customer, it seems they only care about the long time customers.",
+            "time": 1529019480
+        },
+        {
+            "author_name": "Rosalind Le Flore",
+            "author_url": "https://www.google.com/maps/contrib/117171549549440413485/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QN7LkE_Wflg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcafGfN44nm43R_LlNjMx_jVQjgJrA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "V and nene are the best. It is always busy and you may have to wait.... the wait is worth it. Customer of 20+ years",
+            "time": 1528897033
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10959898090577123205",
+    "utc_offset": -300,
+    "vicinity": "2435 Frederick Douglass Boulevard, New York"
+}

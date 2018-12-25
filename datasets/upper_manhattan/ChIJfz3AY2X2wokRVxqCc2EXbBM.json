@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 16",
+            "short_name": "# 16",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "160",
+            "short_name": "160",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9101",
+            "short_name": "9101",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">160 Convent Ave # 16</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "160 Convent Ave # 16, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 650-5418",
+    "geometry": {
+        "location": {
+            "lat": 40.8216144,
+            "lng": -73.9479427
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82304458029149,
+                "lng": -73.94678871970848
+            },
+            "southwest": {
+                "lat": 40.82034661970849,
+                "lng": -73.9494866802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "7cd1c7aeb4eb4503a5aa59321a01b235b2cdb1d8",
+    "international_phone_number": "+1 212-650-5418",
+    "name": "City College Research Administration",
+    "place_id": "ChIJfz3AY2X2wokRVxqCc2EXbBM",
+    "plus_code": {
+        "compound_code": "R3C2+JR New York, United States",
+        "global_code": "87G8R3C2+JR"
+    },
+    "reference": "ChIJfz3AY2X2wokRVxqCc2EXbBM",
+    "scope": "GOOGLE",
+    "types": [
+        "university",
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1399519291522554455",
+    "utc_offset": -300,
+    "vicinity": "160 Convent Avenue # 16, New York",
+    "website": "http://www1.ccny.cuny.edu/"
+}

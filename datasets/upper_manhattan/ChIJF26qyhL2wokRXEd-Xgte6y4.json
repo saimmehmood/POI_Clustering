@@ -1,0 +1,161 @@
+{
+    "address_components": [
+        {
+            "long_name": "470",
+            "short_name": "470",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "470 Malcolm X Blvd, New York, NY 10037, USA",
+    "formatted_phone_number": "(347) 729-9843",
+    "geometry": {
+        "location": {
+            "lat": 40.8126417,
+            "lng": -73.9409774
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140223802915,
+                "lng": -73.93968456970849
+            },
+            "southwest": {
+                "lat": 40.8113244197085,
+                "lng": -73.9423825302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4a1f0aa9b5c60c11149f07575c8bee2816f8a05c",
+    "international_phone_number": "+1 347-729-9843",
+    "name": "Arturo Caesar, MD",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 4:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: 12:00 \u2013 6:30 PM",
+            "Thursday: 10:00 AM \u2013 4:30 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJF26qyhL2wokRXEd-Xgte6y4",
+    "plus_code": {
+        "compound_code": "R375+3J New York, United States",
+        "global_code": "87G8R375+3J"
+    },
+    "rating": 5,
+    "reference": "ChIJF26qyhL2wokRXEd-Xgte6y4",
+    "reviews": [
+        {
+            "author_name": "Cora Kirby",
+            "author_url": "https://www.google.com/maps/contrib/113743220555709110226/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-NgJiBLc8vJk/AAAAAAAAAAI/AAAAAAAAD4E/K4SvsUQpZ-A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1524161812
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3380899348194674524",
+    "utc_offset": -300,
+    "vicinity": "470 Malcolm X Boulevard, New York"
+}

@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "2818",
+            "short_name": "2818",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2102",
+            "short_name": "2102",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2818 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039-2102</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2818 Frederick Douglass Blvd, New York, NY 10039, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8256629,
+            "lng": -73.9395122
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270533302915,
+                "lng": -73.93820091970849
+            },
+            "southwest": {
+                "lat": 40.8243553697085,
+                "lng": -73.9408988802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "22811b48b82ceaab1f5b46a75112ad36751c7187",
+    "name": "Skyworx Contracting Inc.",
+    "place_id": "ChIJ81KoUH72wokR-4WlVsQsG5U",
+    "plus_code": {
+        "compound_code": "R3G6+75 New York, United States",
+        "global_code": "87G8R3G6+75"
+    },
+    "reference": "ChIJ81KoUH72wokR-4WlVsQsG5U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10744230557801350651",
+    "utc_offset": -300,
+    "vicinity": "2818 Frederick Douglass Boulevard, New York"
+}

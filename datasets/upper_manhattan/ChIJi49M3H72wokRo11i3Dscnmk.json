@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 148th Street",
+            "short_name": "W 148th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10039",
+            "short_name": "10039",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 148th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10039</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 148th St, New York, NY 10039, USA",
+    "formatted_phone_number": "(212) 315-2710",
+    "geometry": {
+        "location": {
+            "lat": 40.8240212,
+            "lng": -73.9394064
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8254709802915,
+                "lng": -73.93798291970849
+            },
+            "southwest": {
+                "lat": 40.8227730197085,
+                "lng": -73.94068088029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8254f81fc6ae5d6fcd1cf0c2a94dbcea7ebc0bf2",
+    "international_phone_number": "+1 212-315-2710",
+    "name": "GDM",
+    "place_id": "ChIJi49M3H72wokRo11i3Dscnmk",
+    "plus_code": {
+        "compound_code": "R3F6+J6 New York, United States",
+        "global_code": "87G8R3F6+J6"
+    },
+    "reference": "ChIJi49M3H72wokRo11i3Dscnmk",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7610551463728799139",
+    "utc_offset": -300,
+    "vicinity": "220 West 148th Street, New York",
+    "website": "http://www.gdmartist.com/contact/"
+}

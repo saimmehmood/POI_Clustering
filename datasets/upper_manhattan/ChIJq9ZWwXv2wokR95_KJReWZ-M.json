@@ -1,0 +1,132 @@
+{
+    "address_components": [
+        {
+            "long_name": "2701",
+            "short_name": "2701",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1206",
+            "short_name": "1206",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2701 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10030-1206</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2701 Frederick Douglass Blvd, New York, NY 10030, USA",
+    "formatted_phone_number": "(212) 690-0380",
+    "geometry": {
+        "location": {
+            "lat": 40.82194499999999,
+            "lng": -73.942984
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8232268302915,
+                "lng": -73.94147836970849
+            },
+            "southwest": {
+                "lat": 40.8205288697085,
+                "lng": -73.9441763302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "6e7934b9e2f082a123c9e9819980724c705c917e",
+    "international_phone_number": "+1 212-690-0380",
+    "name": "Douglas Ninety Nine Cents Inc",
+    "place_id": "ChIJq9ZWwXv2wokR95_KJReWZ-M",
+    "plus_code": {
+        "compound_code": "R3C4+QR New York, United States",
+        "global_code": "87G8R3C4+QR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJq9ZWwXv2wokR95_KJReWZ-M",
+    "reviews": [
+        {
+            "author_name": "Alexandra Guillca",
+            "author_url": "https://www.google.com/maps/contrib/112288694043276383919/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DICv6y4A_yY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbSoa3Gy6Sn6jE2_Tr_Zsu1pEGpRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "",
+            "time": 1544322320
+        },
+        {
+            "author_name": "prettymba",
+            "author_url": "https://www.google.com/maps/contrib/113144542089940057929/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DPjNMHDlsvI/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaaRKUGkVL2Xr7Wp7GwuVzGIbx4yQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1506260494
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16386230795373289463",
+    "utc_offset": -300,
+    "vicinity": "2701 Frederick Douglass Boulevard, New York"
+}

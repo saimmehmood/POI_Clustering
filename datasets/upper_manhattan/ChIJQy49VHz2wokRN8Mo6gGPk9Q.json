@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "425",
+            "short_name": "425",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4802",
+            "short_name": "4802",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">425 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4802</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "425 W 147th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 397-6969",
+    "geometry": {
+        "location": {
+            "lat": 40.825878,
+            "lng": -73.94453299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82713613029149,
+                "lng": -73.9432517197085
+            },
+            "southwest": {
+                "lat": 40.8244381697085,
+                "lng": -73.9459496802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ecf813823f3a5fc783f80d5f682a769d0a09f277",
+    "international_phone_number": "+1 917-397-6969",
+    "name": "BOAK",
+    "place_id": "ChIJQy49VHz2wokRN8Mo6gGPk9Q",
+    "plus_code": {
+        "compound_code": "R3G4+95 New York, United States",
+        "global_code": "87G8R3G4+95"
+    },
+    "reference": "ChIJQy49VHz2wokRN8Mo6gGPk9Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15317743996003468087",
+    "utc_offset": -300,
+    "vicinity": "425 West 147th Street, New York",
+    "website": "http://www.boak.com/contact.html"
+}

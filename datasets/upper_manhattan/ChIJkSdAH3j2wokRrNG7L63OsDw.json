@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 11J",
+            "short_name": "# 11J",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "630",
+            "short_name": "630",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10037",
+            "short_name": "10037",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1254",
+            "short_name": "1254",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">630 Malcolm X Blvd # 11J</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10037-1254</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "630 Malcolm X Blvd # 11J, New York, NY 10037, USA",
+    "formatted_phone_number": "(646) 316-0493",
+    "geometry": {
+        "location": {
+            "lat": 40.8179218,
+            "lng": -73.9375408
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8192415802915,
+                "lng": -73.93602146970849
+            },
+            "southwest": {
+                "lat": 40.8165436197085,
+                "lng": -73.9387194302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd5a5d1ff51064c6e4cc2ee21e00ecb05c7f5d42",
+    "international_phone_number": "+1 646-316-0493",
+    "name": "Oluwatosin Oluwakunle MD",
+    "place_id": "ChIJkSdAH3j2wokRrNG7L63OsDw",
+    "plus_code": {
+        "compound_code": "R396+5X New York, United States",
+        "global_code": "87G8R396+5X"
+    },
+    "reference": "ChIJkSdAH3j2wokRrNG7L63OsDw",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4373222481402253740",
+    "utc_offset": -300,
+    "vicinity": "630 Malcolm X Boulevard # 11J, New York"
+}

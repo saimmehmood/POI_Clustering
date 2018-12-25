@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "129-117",
+            "short_name": "129-117",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">129-117 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "129-117 St Nicholas Terrace, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8167312,
+            "lng": -73.95003849999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81809053029149,
+                "lng": -73.9486339697085
+            },
+            "southwest": {
+                "lat": 40.81539256970849,
+                "lng": -73.9513319302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8369bbedece20da552980800fd856ddf6dab407d",
+    "name": "129-117 St Nicholas Terrace",
+    "place_id": "ChIJTxX4UW72wokRdJBMMizCx-o",
+    "reference": "ChIJTxX4UW72wokRdJBMMizCx-o",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=129-117+St+Nicholas+Terrace,+New+York,+NY+10027,+USA&ftid=0x89c2f66e51f8154f:0xeac7c22c324c9074",
+    "utc_offset": -300,
+    "vicinity": "Manhattan"
+}

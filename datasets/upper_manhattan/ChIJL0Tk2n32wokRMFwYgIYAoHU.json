@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Place",
+            "short_name": "St Nicholas Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1207",
+            "short_name": "1207",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 St Nicholas Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-1207</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2 St Nicholas Pl, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-1191",
+    "geometry": {
+        "location": {
+            "lat": 40.82669569999999,
+            "lng": -73.94257209999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82807958029149,
+                "lng": -73.9413073197085
+            },
+            "southwest": {
+                "lat": 40.82538161970849,
+                "lng": -73.9440052802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "920e4e196f64654c12e54cca55482663476acecc",
+    "international_phone_number": "+1 212-234-1191",
+    "name": "Mann Realty Associates",
+    "place_id": "ChIJL0Tk2n32wokRMFwYgIYAoHU",
+    "plus_code": {
+        "compound_code": "R3G4+MX New York, United States",
+        "global_code": "87G8R3G4+MX"
+    },
+    "reference": "ChIJL0Tk2n32wokRMFwYgIYAoHU",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8475775076385971248",
+    "utc_offset": -300,
+    "vicinity": "2 Saint Nicholas Place, New York",
+    "website": "http://www.mannrealty.com/"
+}
