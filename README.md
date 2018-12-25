@@ -7,3 +7,12 @@ The wrapper code around Google API was taken from this repo: (https://github.com
 Trajectory fetching code written with the help of Jay: (https://github.com/jaycenca/Designing-and-Developing-Algorithm)
 
 For plotting functionality, this repo was helpful: (https://github.com/vgm64/gmplot)
+
+
+### Installation
+```
+> pip install python-google-places
+> pip install pandas
+> pip install googlemaps
+> pip install numpy
+```
