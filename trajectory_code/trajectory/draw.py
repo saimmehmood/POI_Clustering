@@ -4,6 +4,8 @@ import imp
 
 calculation = imp.load_source('calculation', '../distance/calculation.py')
 
+API_KEY = 'AIzaSyBM2EVG_35lLPzdAPgNJu7YFjRNvTwEA_E'
+
 _lower_boundary_coordinate = (43.757643, -79.169527)
 _upper_boundary_coordinate = (43.766771, -79.324935)
 
@@ -58,7 +60,7 @@ def draw(route, colour, file_name, scale):
     initial_lat = route[0][0]
     initial_long = route[0][1]
 
-    gmap = gmplot.GoogleMapPlotter(initial_lat, initial_long, scale)
+    gmap = gmplot.GoogleMapPlotter(initial_lat, initial_long, scale, API_KEY)
 
     #Lat, Long = zip(*route)
 
