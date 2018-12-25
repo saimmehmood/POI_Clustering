@@ -3,7 +3,7 @@ import writeFile
 drawer = imp.load_source('drawer', '../trajectory/draw.py')
 
 API_KEY = 'AIzaSyBM2EVG_35lLPzdAPgNJu7YFjRNvTwEA_E'
-coordinate = (43.73254, -79.30589)
+coordinate = (43.73254, -79.30589, API_KEY)
 
 #generate_Random_Waypoints(number_of_waypoints, coordinate, thershold, radius)
 waypoints = writeFile.generate_Random_Waypoints(0, coordinate, 0.05, .5)
