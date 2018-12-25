@@ -2,7 +2,7 @@
 A set of tools to find POI-POI correlation and visualize them, based on the trajectory of moving objects. 
 
 ## Acknowledgments
-The wrapper code around Google API was taken from this repo: (https://github.com/slimkrazy/python-google-places)
+This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
 
 Trajectory fetching code written with the help of Jay: (https://github.com/jaycenca/Designing-and-Developing-Algorithm)
 
