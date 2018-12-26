@@ -1,9 +1,9 @@
 from googleplaces import GooglePlaces, types, lang
 from decimal import Decimal
-from pprint import pprint
 import os, json
 import math
 import numpy as np
+import pandas as pd
 
 # This function is needed to avoid json.dump decimal storage error 
 def decimal_default(obj):
@@ -102,21 +102,29 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 # (un-comment below function calling line to generate more data sets)
-scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
+#scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
 def getPOIAroundTrajectory(route): # using Euclidean distances
-	path_to_json = 'C:\\Users\\saim\\Documents\\location_based_services\\new_north_york' # relative path to your stored data-sets
+	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\datasets\\new_north_york' # relative path to your stored data-sets
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
+	threshold = 5
+
 	for i in range(len(json_files)):
 	
 		with open(path_to_json + '\\' + str(json_files[i])) as file:
 			data = json.load(file)
-			print(data["geometry"]["location"]["lat"], data["geometry"]["location"]["lng"])
+			data["geometry"]["location"]["lat"], data["geometry"]["location"]["lng"]
 			
 	
-	
+#getPOIAroundTrajectory(0)	
 
 
+def fetchTrajectory():
+	df = pd.read_csv("C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv")
+	saved_col = df['trajectory']
 
-#getPOIAroundTrajectory(0)
+	getPOIAroundTrajectory(saved_col[0])
+
+
+#fetchTrajectory()
