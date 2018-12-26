@@ -6,6 +6,7 @@ _Earth_radius = 6371
 
 #Haversine Formula
 #calculate the distance between two points in term of Longitude and Latitude
+#calculates distance by kilometer (km)
 def distanceLatLong(Lat1, Long1, Lat2, Long2):
     
     _lat1_radian = math.radians(Lat1)

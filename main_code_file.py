@@ -5,6 +5,8 @@ import math
 import numpy as np
 import pandas as pd
 
+calculation = imp.load_source('calculation', 'trajectory_code/distance/calculation.py')
+
 # This function is needed to avoid json.dump decimal storage error 
 def decimal_default(obj):
     if isinstance(obj, Decimal):
@@ -105,26 +107,40 @@ YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 #scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
 def getPOIAroundTrajectory(route): # using Euclidean distances
-	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\datasets\\new_north_york' # relative path to your stored data-sets
+	path_to_json = 'C:\\Users\\saim\\Documents\\POI_clustering\\datasets\\new_north_york' # relative path to your stored data-sets
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
 	threshold = 5
 
-	for i in range(len(json_files)):
-	
+	route_x = []
+	route_y = []
+
+	for item in route:
+    	it = item[2:-2].split('), (')
+
+    for item_0 in it:
+        item_0 = item_0.split(',')
+
+        route_x.append(float(item_0[0]))
+        route_y.append(float(item_0[1]))
+
+    
+
+	for i in range(len(json_files)):	
 		with open(path_to_json + '\\' + str(json_files[i])) as file:
 			data = json.load(file)
-			data["geometry"]["location"]["lat"], data["geometry"]["location"]["lng"]
+			data["geometry"]["location"]["lat"]
+			data["geometry"]["location"]["lng"]
 			
 	
 #getPOIAroundTrajectory(0)	
 
 
 def fetchTrajectory():
-	df = pd.read_csv("C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv")
+	df = pd.read_csv("C:\\Users\\saim\\Documents\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
 	saved_col = df['trajectory']
 
 	getPOIAroundTrajectory(saved_col[0])
 
 
-#fetchTrajectory()
+fetchTrajectory()
