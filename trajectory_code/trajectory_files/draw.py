@@ -14,7 +14,7 @@ y = []
 
 for item in saved_col:
     it = item[2:-2].split('), (')
-
+    print(it)
     for item_0 in it:
         item_0 = item_0.split(',')
 
