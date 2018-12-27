@@ -19,4 +19,6 @@ For plotting functionality, this repo was helpful: (https://github.com/vgm64/gmp
 
 ##### Code Description
 
-> main_code_file.py: 
+> main_code_file.py: fetches POI datasets from Google API. It is the begining point to get started with running & understanding of code.
+
+Please go to trajectory_code section to understand the working of Trajectory fetching code.
