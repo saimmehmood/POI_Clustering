@@ -117,6 +117,7 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 	route_x = []
 	route_y = []
 
+	# splitting trajectory points into separate x & y. 
 	rem = route[2:-2].split('), (')
 
 	for item in rem:
@@ -145,7 +146,7 @@ def fetchTrajectory():
 	df = pd.read_csv("C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
 	saved_col = df['trajectory']
 
-	getPOIAroundTrajectory(saved_col[0])
+	getPOIAroundTrajectory(saved_col[0]) # sending one trajectory points
 
 
 fetchTrajectory()
