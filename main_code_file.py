@@ -92,7 +92,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		# storing POI detail with ID as a file name.
 		if str(data["place_id"]) in Id_of_places:
 			print(str(data["place_id"]))
-			with open('datasets\\upper_manhattan\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+			with open('POI_datasets\\upper_manhattan\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 				json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
@@ -108,7 +108,7 @@ YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 #scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
 def getPOIAroundTrajectory(route): # using Euclidean distances
-	path_to_json = 'C:\\Users\\saim\\Documents\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
+	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
 	threshold = 5
@@ -116,18 +116,15 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 	route_x = []
 	route_y = []
 
-	print(route)
-	for item in route:
-		it = item[2:-2].split('), (')
-		print(it)
-		for item_0 in it:
-			item_0 = item_0.split(',')
+	rem = route[2:-2].split('), (')
 
-			route_x.append(float(item_0[0]))
-			route_y.append(float(item_0[1]))
+	for item in rem:
+		item = item.split(',')
 
-	print(route_x)
+		route_x.append(float(item[0]))
+		route_y.append(float(item[1]))
 	
+
 	poi_x = []
 	poi_y = []
 
@@ -137,17 +134,17 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 			poi_x.append(float(data["geometry"]["location"]["lat"]))
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
 			
-	#print(calculation.distanceLatLong(route_x[0], route_y[0], poi_x[0], poi_y[0]))
+	print(calculation.distanceLatLong(route_x[0], route_y[0], poi_x[0], poi_y[0]))
 	
 
 #getPOIAroundTrajectory(0)	
 
 
 def fetchTrajectory():
-	df = pd.read_csv("C:\\Users\\saim\\Documents\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
+	df = pd.read_csv("C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
 	saved_col = df['trajectory']
 
-	getPOIAroundTrajectory(saved_col)
+	getPOIAroundTrajectory(saved_col[0])
 
 
 fetchTrajectory()
