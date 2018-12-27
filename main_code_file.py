@@ -107,6 +107,7 @@ YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 # (un-comment below function calling line to generate more data sets)
 #scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
+# This function calculates the distance between POIs and trajectories.
 def getPOIAroundTrajectory(route): # using Euclidean distances
 	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
