@@ -112,7 +112,7 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
-	threshold = 5
+	threshold = 0.3 # 300 meters
 
 	route_x = []
 	route_y = []
@@ -135,8 +135,13 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 			data = json.load(file)
 			poi_x.append(float(data["geometry"]["location"]["lat"]))
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
+	
+	for i in range(len(route_x)):
+		for j in range(len(poi_x)):
+
+			diff = calculation.distanceLatLong(route_x[i], route_y[i], poi_x[j], poi_y[j])
 			
-	print(calculation.distanceLatLong(route_x[0], route_y[0], poi_x[0], poi_y[0]))
+
 	
 
 #getPOIAroundTrajectory(0)	
