@@ -5,6 +5,7 @@ import math
 import numpy as np
 import pandas as pd
 import imp
+import csv
 
 calculation = imp.load_source('calculation', 'trajectory_code/distance/calculation.py')
 
@@ -109,7 +110,7 @@ YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 # This function calculates the distance between POIs and trajectories.
 def getPOIAroundTrajectory(route): # using Euclidean distances
-	path_to_json = 'C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
+	path_to_json = 'C:\\Users\\saim\\Documents\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
 	threshold = 0.3 # 300 meters
@@ -136,22 +137,38 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 			poi_x.append(float(data["geometry"]["location"]["lat"]))
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
 	
+	csv_row = []
+
 	for i in range(len(route_x)):
 		for j in range(len(poi_x)):
 
 			diff = calculation.distanceLatLong(route_x[i], route_y[i], poi_x[j], poi_y[j])
-			
+			if(diff <= threshold):
+				storeTrajectoryPOI(i, route_x[i], route_y[i], poi_x[j], poi_y[j])
 
 	
 
 #getPOIAroundTrajectory(0)	
 
 
+def storeTrajectoryPOI(id, ):
+
+	with open('trajectory_associate.csv', 'w') as csvfile:
+		field_names = ['id', 'P(t)', 't_coordinate', 'POIs']
+		writer = csv.DictWriter(csvfile, fieldnames=field_names)
+		writer.writeheader()
+
+
+
+
+
+
 def fetchTrajectory():
-	df = pd.read_csv("C:\\Users\\Saim Mehmood\\Documents\\data_mining_project\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
+	df = pd.read_csv("C:\\Users\\saim\\Documents\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
 	saved_col = df['trajectory']
 
-	getPOIAroundTrajectory(saved_col[0]) # sending one trajectory points
+	for i in range(len(saved_col)):
+		getPOIAroundTrajectory(saved_col[i]) # sending one trajectory points at a time
 
 
 fetchTrajectory()
