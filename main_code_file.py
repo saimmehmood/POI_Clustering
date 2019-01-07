@@ -138,7 +138,8 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
 	
 	#creating .csv file once
-	file_writer = createFile()
+	trajectory_row = []
+	id = 0
 
 	for i in range(len(route_x)):
 		for j in range(len(poi_x)):
@@ -150,7 +151,7 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 				t_coordinate = str(route_x[i]) + "," + str(route_y[i])
 				POIs = str(poi_x[j]) + "," + str(poi_y[j])
 				
-				id = 0
+				
 				row_element = {
 					'id' : id,
 					'P(t)' : i,
@@ -158,22 +159,27 @@ def getPOIAroundTrajectory(route): # using Euclidean distances
 					'POIs' : POIs
 				}
 				id += 1
-				print(row_element)
-				storeTrajectoryPOI(row_element, file_writer)
+				
+				# print(row_element)
+				trajectory_row.append(str(row_element))
+				print(id)
+				#print(trajectory_row)
 
+	#print(id)
+	storeTrajectoryPOI(trajectory_row, id)
 
-def createFile():
+def storeTrajectoryPOI(row, id):
 	
-	with open('trajectory_associate.csv', 'w') as csvfile:
+	with open('trajectory_associate.csv', 'w+') as csvfile:
 		field_names = ['id', 'P(t)', 't_coordinate', 'POIs']
 		writer = csv.DictWriter(csvfile, fieldnames=field_names)
 		writer.writeheader()
 
-	return writer
+		#print(len(row))
+		# for i in range(id):
+		# 	print(i)
 
-def storeTrajectoryPOI(row, writer):	
-
-		writer.writerow(row)
+			#writer.writerow(row)
 
 
 def fetchTrajectory():
