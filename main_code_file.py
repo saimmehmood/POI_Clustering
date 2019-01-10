@@ -109,11 +109,11 @@ YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 #scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
 
 # This function calculates the distance between POIs and trajectories.
-def getPOIAroundTrajectory(route): # using Euclidean distances
+def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 	path_to_json = 'C:\\Users\\saim\\Documents\\POI_clustering\\POI_datasets\\new_north_york' # relative path to your stored datasets file.
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	
-	threshold = 0.3 # 300 meters
+	threshold = threshold
 
 	route_x = []
 	route_y = []
@@ -191,7 +191,7 @@ def fetchTrajectory():
 	saved_col = df['trajectory']
 
 	for i in range(len(saved_col)):
-		getPOIAroundTrajectory(saved_col[i]) # sending one trajectory points at a time
+		getPOIAroundTrajectory(saved_col[i], 0.3) # sending one trajectory points at a time
 
 
 fetchTrajectory()
