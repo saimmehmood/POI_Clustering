@@ -136,13 +136,12 @@ def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 			data = json.load(file)
 			poi_x.append(float(data["geometry"]["location"]["lat"]))
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
-	
-	#creating .csv file once
-	trajectory_row = []
-	id = 0
 
-	f = open("traj_poi_data.txt", 'w+')
-	f.write("id, P(t), t_coordinate, POIs")
+
+	# writing comma separated data as txt file
+	f = open("traj_poi_data.txt", 'a+')
+
+	
 
 	for i in range(len(route_x)):
 		for j in range(len(poi_x)):
@@ -154,8 +153,9 @@ def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 				t_coordinate = str(route_x[i]) + "," + str(route_y[i])
 				POIs = str(poi_x[j]) + "," + str(poi_y[j])
 				
+				# print(str(t_coordinate) + "," + str(POIs) + " ")
+				f.write(str(t_coordinate) + " " + str(POIs) + "\n")
 
-				
 				# row_element = {
 				# 	'id' : id,
 				# 	'P(t)' : i,
@@ -163,15 +163,7 @@ def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 				# 	'POIs' : POIs
 				# }
 				
-				id += 1
-				
-				# print(row_element)
-				trajectory_row.append(str(row_element))
-				print(id)
 			
-	storeTrajectoryPOI(trajectory_row, id)
-
-def storeTrajectoryPOI(row, id):
 
 	
 	# with open('trajectory_associate.csv', 'w+') as csvfile:
@@ -184,12 +176,19 @@ def storeTrajectoryPOI(row, id):
 		# 	print(i)
 
 			#writer.writerow(row)
-
+	f.close()
 
 def fetchTrajectory():
 	df = pd.read_csv("C:\\Users\\saim\\Documents\\POI_clustering\\trajectory_code\\trajectory_files\\random_100_driving_trajectories.csv") # relative path to your stored trajectories
 	saved_col = df['trajectory']
 
+	f = open("traj_poi_data.txt", 'w')
+
+	# t_coordinate: each trajectory coordinate (point) around which we are getting POI based on threshold value.
+	# POIs: point-of-interests associated with trajectory point.    
+	f.write("t_coordinate POIs\n")
+	f.close()
+	
 	for i in range(len(saved_col)):
 		getPOIAroundTrajectory(saved_col[i], 0.3) # sending one trajectory points at a time
 
