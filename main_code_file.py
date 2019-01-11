@@ -156,26 +156,7 @@ def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 				# print(str(t_coordinate) + "," + str(POIs) + " ")
 				f.write(str(t_coordinate) + " " + str(POIs) + "\n")
 
-				# row_element = {
-				# 	'id' : id,
-				# 	'P(t)' : i,
-				# 	't_coordinate' : t_coordinate,
-				# 	'POIs' : POIs
-				# }
 				
-			
-
-	
-	# with open('trajectory_associate.csv', 'w+') as csvfile:
-	# 	field_names = ['id', 'P(t)', 't_coordinate', 'POIs']
-	# 	writer = csv.DictWriter(csvfile, fieldnames=field_names)
-	# 	writer.writeheader()
-
-		#print(len(row))
-		# for i in range(id):
-		# 	print(i)
-
-			#writer.writerow(row)
 	f.close()
 
 def fetchTrajectory():
@@ -193,4 +174,4 @@ def fetchTrajectory():
 		getPOIAroundTrajectory(saved_col[i], 0.3) # sending one trajectory points at a time
 
 
-fetchTrajectory()
+#fetchTrajectory()
