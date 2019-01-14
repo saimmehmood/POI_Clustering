@@ -146,9 +146,9 @@ def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
 	for i in range(len(route_x)):
 		for j in range(len(poi_x)):
 
-			diff = calculation.distanceLatLong(route_x[i], route_y[i], poi_x[j], poi_y[j])
+			dist = calculation.distanceLatLong(route_x[i], route_y[i], poi_x[j], poi_y[j])
 			
-			if(diff <= threshold):
+			if(dist <= threshold):
 				
 				t_coordinate = str(route_x[i]) + "," + str(route_y[i])
 				POIs = str(poi_x[j]) + "," + str(poi_y[j])
