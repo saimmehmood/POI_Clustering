@@ -55,6 +55,15 @@ def grid_trajectories(grids, lat1, long1, lat2, long2):
     store_coordinate.pop()
 
 
+    #twod_list = [store_coordinate for item in store_coordinate[item]]
+
+    for i in range(grids):
+    	for j in range(grids):
+    		print(twod_list[i][j])
+
+    # print(twod_list[0][0])
+    # print(twod_list[1][0])
+    # print(twod_list[2][0])
 
     # print(len(store_coordinate))
 
