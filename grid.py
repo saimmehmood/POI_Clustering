@@ -1,20 +1,3 @@
-# coding=utf-8
-import imp
-import math
-import numpy as np
-
-calculation = imp.load_source('calculation', 'trajectory_code/distance/calculation.py')
-
-def cell_boundary_coordinates(lat1, long1, bearing, distance):
-
-    coordinate = calculation.calculateDestination(lat1, long1, bearing, distance)
-
-    return coordinate
-
-def bearing(lat1, long1, lat2, long2):
-
-    return calculation.calculateBearing(lat1, long1, lat2, long2)
-
 
 
 # Dividing geographical area into grids cells.
@@ -31,7 +14,7 @@ def grid_trajectories(grids, lat1, long1, lat2, long2):
 
 
     f = open("area_cells.txt", "w")
-    f.write("Name Coordinates\n")
+    f.write("Name, Coordinates\n")
 
 
     store_coordinate = []
@@ -54,25 +37,33 @@ def grid_trajectories(grids, lat1, long1, lat2, long2):
 
     store_coordinate.pop()
 
+	# storing grid points inside txt file as 
+	# (Name: cell name, Coordinates: cell boundary coordinates)    
+    for i in range(grids * grids):
+    	if (i == 0):
+    		row = 0
+    		col = 0
+    	else:
+	    	row = int(i / grids)
+	    	col = int(i % grids)
 
-    #twod_list = [store_coordinate for item in store_coordinate[item]]
+    	index_01 = int((grids + 1) * row + col)
+    	coor_01 = store_coordinate[index_01]
 
-    for i in range(grids):
-    	for j in range(grids):
-    		print(twod_list[i][j])
+    	index_02 = int((grids + 1) * row + col + 1)
+    	coor_02 = store_coordinate[index_02]
 
-    # print(twod_list[0][0])
-    # print(twod_list[1][0])
-    # print(twod_list[2][0])
+    	index_03 = int((grids + 1) * (row + 1) + col)
+    	coor_03 = store_coordinate[index_03]
 
-    # print(len(store_coordinate))
+    	index_04 = int((grids + 1) * (row + 1) + col + 1)
+    	coor_04 = store_coordinate[index_04]
 
-    # for i in range(len(store_coordinate)):
-    # 	print(store_coordinate[i])
-		# # f.write("C00," )
-		# f.close()
+    	f.write("C" + str(row) + str(col) + "," + str(coor_01) + "," + str(coor_02) + "," + str(coor_03) + "," + str(coor_04) + "\n")
+    
+    f.close()
 
 
-grid_trajectories(3, 43.672545, -79.412068, 43.669763, -79.403223)
+grid_trajectories(5, 43.672545, -79.412068, 43.669763, -79.403223)
 
 
