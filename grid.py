@@ -1,6 +1,7 @@
 
 
 # Dividing geographical area into grids cells.
+# grids: input taken from user to divide area into grids
 def grid_trajectories(grids, lat1, long1, lat2, long2):
 
     # Area Boundaries:
