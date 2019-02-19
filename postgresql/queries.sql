@@ -27,8 +27,10 @@ trajectory text
 
 -- Changing trajectory column:
 
-ALTER TABLE driving ALTER COLUMN trajectory TYPE Geometry(POINT, 4326) USING ST_SetSRID(trajectory::Geometry,4326);
-
+ALTER TABLE driving ALTER COLUMN trajectory TYPE Geometry(LINESTRING, 4326) 
+ USING ST_SetSRID(ST_GeomFromText(concat('LINESTRING', 
+            regexp_replace(trajectory, '(\[|\])','', 'g'))), 4326);
+			
 -- Trajectory points gets converted into LineString geometry type.
 
 -- Experimenting with ST_DWithin:
@@ -85,9 +87,21 @@ create table area_grid_cells(
 
 -- Changing coordinates column:
 
-ALTER TABLE area_grid_cells ALTER COLUMN coordinates TYPE Geometry(POINT, 4326) USING ST_SetSRID(coordinates::Geometry,4326);
+ALTER TABLE area_grid_cells ALTER COLUMN coordinates TYPE Geometry(LINESTRING, 4326) 
+USING ST_SetSRID(ST_GeomFromText(concat('LINESTRING', 
+           regexp_replace(coordinates, '(\[|\])','', 'g'))), 4326);
 
+-- creating POI table with unique id retrieved from .json files. 
+		   
+create table POI(
+	p_id text,
+	latitude double precision,
+	longitude double precision
+)
 
+alter table poi add column geom geometry(POINT,4326)
+
+update poi set geom = st_setsrid(st_point(latitude, longitude), 4326)
 
 
 
