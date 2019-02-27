@@ -15,7 +15,7 @@ def grid_trajectories(grids, lat1, long1, lat2, long2):
 
 
     f = open("area_cells.txt", "w")
-    f.write("Name\tCoordinates\n")
+    f.write("Name,Coordinates\n")
 
 
     store_coordinate = []
@@ -60,7 +60,7 @@ def grid_trajectories(grids, lat1, long1, lat2, long2):
     	index_04 = int((grids + 1) * (row + 1) + col + 1)
     	coor_04 = store_coordinate[index_04]
 
-    	f.write("C" + str(row) + str(col) + "\t" + str(coor_01) + str(coor_02) + str(coor_03) + str(coor_04) + "\n")
+    	f.write("C" + str(row) + str(col) + "," + str(coor_01) + str(coor_02) + str(coor_03) + str(coor_04) + "\n")
     
     f.close()
 

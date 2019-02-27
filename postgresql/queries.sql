@@ -103,9 +103,39 @@ alter table poi add column geom geometry(POINT,4326)
 
 update poi set geom = st_setsrid(st_point(latitude, longitude), 4326)
 
+-- Creating table for bicycling trajectory data.
 
+ create table bicycling_traj (
+ 	id_no integer primary key, 
+ 	total_distance text, 
+ 	travel_time text, 
+ 	trajectory_path text 
+ )
+ 
+ alter table bicycling_traj add column geom geometry(LINESTRING, 4326)
+ 
+-- stroing trajectory data as geometry LINESTRING type. 
+ update bicycling_traj set geom = st_setsrid(ST_GeomFromText(concat('LINESTRING', 
+            regexp_replace(trajectory_path, '(\[|\])','', 'g'))), 4326)
 
+			
+-- Creating new area grid table to store grid coordinates as Polygon.
 
+-- by storing grid coordinates as polygon I can check for both POIs and Trajectories if they fall within corrdinates boundaries.
+
+ create table area_grid (
+ 	grid_name text,
+ 	grid_coordinates text
+ )			
+ 
+-- adding geom column 
+alter table area_grid add column geom geometry(POLYGON, 4326)
+
+-- creating Person_ID table to store unique ID's for synthetic users.
+
+create table Person_ID (
+	P_ID text
+)
 
 
 

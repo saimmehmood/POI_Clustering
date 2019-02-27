@@ -11,17 +11,17 @@ def getData():
 	poi_y = []
 	file_name = []
 
-	f = open("poi_lat_long.txt", "w")
-	f.write("p_id,latitude,longitude\n")
+	f = open("poi_lat_long.csv", "w")
+	f.write("p_id,point\n")
 	for i in range(len(json_files)):
-		file_name.append(str(json_files[i]))
+		file_name.append(str(json_files[i]).replace(".json", ""))
 		with open(path_to_json + '/' + str(json_files[i])) as file:
 			
 			data = json.load(file)
 			poi_x.append(float(data["geometry"]["location"]["lat"]))
 			poi_y.append(float(data["geometry"]["location"]["lng"]))
 
-		f.write(file_name[i] + "," + str(poi_x[i]) + "," + str(poi_y[i]) + "\n")
+		f.write(file_name[i] + ",POINT(" + str(poi_x[i]) + " " + str(poi_y[i]) + ")\n")
 
 	f.close()
 
