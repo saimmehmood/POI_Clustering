@@ -16,7 +16,7 @@ create table obj (
 -- This unique id is provided by google places api
 		   
  create table poi(
- 	poi_id text primary key,
+ 	poi_id text primary key, -- this key is fetched from the data retrieved from Google Places API.
  	geom_point geometry -- I'm adding POINT inside the datasets using python script. Just mentioning it as "geometry(POINT, 4326)" doesn't work.
 )
 

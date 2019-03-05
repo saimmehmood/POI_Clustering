@@ -11,8 +11,8 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     height = lat2 - lat1
     width = long2 - long1
 
-    cell_width = width/grid_x
-    cell_height = height/grid_y
+    cell_width = width/grid_y
+    cell_height = height/grid_x
 
 
     f = open("area_cells.csv", "w")
@@ -25,9 +25,9 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     start = top_left
     tmp = top_left
 
-    for i in range(grid_y + 1):
+    for i in range(grid_x + 1):
 
-        for j in range(grid_x):
+        for j in range(grid_y):
 
             start = start[0], start[1] + cell_width
             store_coordinate.append(start)
@@ -68,14 +68,20 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
 #        print("C" + str(row) + str(col) + ",\"[" + str(coor_01) + ", " + str(coor_02) + ", " + str(coor_03) + ", " + str(coor_04) + "]\"")
 
-    	f.write(str(i) + "," + str(math.pow(2, grid_x) * math.pow(3, grid_y)) + ",C" + str(row) + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_03) + str(coor_04) + str(coor_01) + ")\"\n")
+        # (grid_id, cell_no, coordinates)
+    	f.write(str(i) + "," + str(math.pow(2, grid_x) * math.pow(3, grid_y)) + ",C" + str(row) + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_04) + str(coor_03) + str(coor_01) + ")\"\n")
     
     f.close()
 
     f = open("grid.csv", "w")
     f.write("grid_id, x_dim, y_dim\n")
-    f.write(str(math.pow(2, grid_x) * math.pow(3, grid_y)) + "," + str(grid_x) + "," + str(grid_y))
 
-grid_trajectories(10, 7, 43.739829, -79.514102, 43.726355, -79.481279) # (no of col, no of rows, lat1, long1, lat2, long2)
+    # generating grid id by taking power of prime numbers.
+    f.write(str(math.pow(2, grid_x) * math.pow(3, grid_y)) + "," + str(grid_x) + "," + str(grid_y)) #(gird_id, rows, columns)
+    f.close()
+
+
+
+grid_trajectories(2, 5, 43.739829, -79.514102, 43.726355, -79.481279) # (no of rows, no of cols, lat1, long1, lat2, long2)
 
 
