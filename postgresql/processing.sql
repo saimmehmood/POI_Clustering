@@ -45,9 +45,46 @@ INSERT INTO public.grids(
 	
 -- Retrieving points that are inside grid cells and associating them. 
 
-select st_astext(geom_point), st_astext(coordinates)
-	from cells, poi
-	where st_within(geom_point, coordinates) 
+select distinct cell_names, st_astext(geom_point), st_astext(coordinates)
+  	from cells, poi
+  	where st_within(geom_point, coordinates) 
+	
+
+-- Retrieving distinct grid_cells.
+
+select distinct grid_cells from poi_cell_association;
+
+
+-- Retrieving all points inside first grid cell i.e., C00
+
+select poi
+	from poi_cell_association
+	where cell_names = 'C00'
+
+-- Creating new cell table to avoid importing 'more data error.'	
+
+ create table cells_01 (
+ 	cell_id serial primary key, -- Making id serial type helps in importing more data into the table. You can also leave column from the import.  
+ 	grid_id float references grids(grid_id),
+ 	cell_names text,
+ 	coordinates geometry 
+)	
+
+
+-- removing unneccasary stuff.
+delete from cells_01
+where cell_id >= 7
+
+-- getting unique polygon.
+
+select distinct st_astext(coordinates)
+from cells_01
+
+
+-- getting object trajectory:
+select * from traj
+where obj_id = 37
+
 	
 
 	

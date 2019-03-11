@@ -16,7 +16,7 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
 
     f = open("area_cells.csv", "w")
-    f.write("cell_id,grid_id,name,coordinates\n")
+    f.write("grid_id,name,coordinates\n")
 
 
     store_coordinate = []
@@ -69,7 +69,7 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 #        print("C" + str(row) + str(col) + ",\"[" + str(coor_01) + ", " + str(coor_02) + ", " + str(coor_03) + ", " + str(coor_04) + "]\"")
 
         # (grid_id, cell_no, coordinates)
-    	f.write(str(i) + "," + str(math.pow(2, grid_x) * math.pow(3, grid_y)) + ",C" + str(row) + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_04) + str(coor_03) + str(coor_01) + ")\"\n")
+    	f.write(str(math.pow(2, grid_x) * math.pow(3, grid_y)) + ",C" + str(row) + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_04) + str(coor_03) + str(coor_01) + ")\"\n")
     
     f.close()
 

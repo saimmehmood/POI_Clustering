@@ -11,7 +11,9 @@ waypoints = write.generate_Random_Waypoints(0, coordinate, 0.05, .5)
 coordinate_01 = (43.739829, -79.514102)
 coordinate_02 = (43.726355, -79.481279)
 
-driving_trajectories = write.getTrajectory(API_KEY, 'driving', waypoints, 0.05, 100, 'random_100_driving_trajectories', coordinate_01, coordinate_02)
+driving_trajectories = write.getTrajectory(API_KEY, 'driving', waypoints, 0.05, 200, 'random_200_driving_trajectories', coordinate_01, coordinate_02)
+
+#print(driving_trajectories)
 
 #walking_trajectories = write.getTrajectory('walking', waypoints, 0.05, 1000, 'random_1000_walking_trajectories')
 

@@ -18,12 +18,12 @@ def getTrajectory(API_KEY, mode, waypoints, thershold, number_of_trajectory, fil
     trajectories = []
     #open a text file formated in .csv 
     with open(filename + '.csv', 'w') as csvfile:
-        fieldnames = ['id', 'distance', 'time', 'trajectory']
+        fieldnames = ['distance', 'time', 'trajectory']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
         for i in range(0, number_of_trajectory):
-            trajectory = generateTrajectory(API_KEY, i, mode, thershold, waypoints, _upper_boundary_coordinate, _lower_boundary_coordinate)
+            trajectory = generateTrajectory(API_KEY, mode, thershold, waypoints, _upper_boundary_coordinate, _lower_boundary_coordinate)
             trajectories.append(trajectory['trajectory'])
             writer.writerow(trajectory)
 
@@ -51,7 +51,7 @@ def generateStartEnd(mode, thershold, _upper_boundary_coordinate, _lower_boundar
     return start, end
 
 #produces a random trajectory with an input value representing id for each trajectory
-def generateTrajectory(API_KEY, id, mode, thershold, waypoints, _upper_boundary_coordinate, _lower_boundary_coordinate):
+def generateTrajectory(API_KEY, mode, thershold, waypoints, _upper_boundary_coordinate, _lower_boundary_coordinate):
     start, end = generateStartEnd(mode, thershold, _upper_boundary_coordinate, _lower_boundary_coordinate)
     path = route.getPath(API_KEY, start, end, waypoints, mode, 0, thershold)
 
@@ -66,10 +66,11 @@ def generateTrajectory(API_KEY, id, mode, thershold, waypoints, _upper_boundary_
     distance = route.find_path_distance(path)
 
     #construct a dictionary form name-value pair in json form 
-    element = { 'id' : id, 
+    element = { 
             'distance' : distance,
             'time' : time, 
-            'trajectory' : trajectory}
+            'trajectory' : trajectory
+            }
     
     #print(element)
     return element
