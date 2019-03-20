@@ -13,14 +13,19 @@ tmp = str(data).split("\n")
 tmp_0 = tmp[0:-1]
 #print(tmp_0)
 
+a = []
+b = []
+
 for tm in tmp_0:
 	t = tm.split(" ")
 	s1 = t[0].replace("(","")
 	s2 = t[1].replace(")","")
 	
+	a.append(float(s1))
+	b.append(float(s2))
 
-	gmap.marker(float(s1), float(s2), 'cornflowerblue')
-	#gmap.scatter(top_attraction_lats, top_attraction_lons, '#3B0B39', size=40, marker=False)
+# 	gmap.marker(float(s1), float(s2), 'cornflowerblue')
+gmap.scatter(a, b, '#3B0B39', size=40, marker=False)
 
 df = pd.read_csv("grid.csv")
 saved_col = df['coordinates']
@@ -38,12 +43,12 @@ for item in saved_col:
         y.append(float(item_0[1]))
 
 
-        #gmap.marker(float(item_0[0]), float(item_0[1]), 'cornflowerblue')
+        gmap.marker(float(item_0[0]), float(item_0[1]), 'cornflowerblue')
 
-golden_gate_park_lats = x
-golden_gate_park_lons = y
+#golden_gate_park_lats = x
+#golden_gate_park_lons = y
 
-gmap.plot(golden_gate_park_lats, golden_gate_park_lons, 'red', edge_width=3)
+#gmap.plot(golden_gate_park_lats, golden_gate_park_lons, 'red', edge_width=3)
 # Draw
 gmap.draw("my_map.html")
 print("process completed")

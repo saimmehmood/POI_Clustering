@@ -10,7 +10,7 @@ SELECT ST_AsText(
 	  t.trajectory,
 	  generate_series(1, ST_NPoints(d.trajectory))
    )) as TrajPoints
-into table traj_point
+into table traj_points
 FROM traj_table t; 			
 
 -- experitmenting with st_within, to check points which are inside grid cells. To eventually store the cells and points in a seperate table.
@@ -44,6 +44,8 @@ INSERT INTO public.grids(
 
 	
 -- Retrieving points that are inside grid cells and associating them. 
+
+-- ST_Within(geometry A , geometry B) returns TRUE if the first geometry is completely within the second geometry
 
 select distinct cell_names, st_astext(geom_point), st_astext(coordinates)
   	from cells, poi
@@ -85,9 +87,65 @@ from cells_01
 select * from traj
 where obj_id = 37
 
+
+-- Adding more data into cells.
+
+\\copy public.cells (grid_id, cell_names, coordinates) FROM 'C:/Users/saim/DOCUME~1/POI_CL~1/POSTGR~1/AREA_C~1.CSV' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';""
+
+"C:\\Program Files (x86)\\pgAdmin 4\\v4\\runtime\\psql.exe" --command " "\\copy public.cells (grid_id, cell_names, coordinates) FROM 'C:/Users/saim/DOCUME~1/POI_CL~1/POSTGR~1/AREA_C~1.CSV' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';""
 	
 
+-- poi cell association from only one grid.
+
+select poi_id, cell_id, grid_id
+ from poi, cells
+ where st_within(geom_point, coordinates) and grid_id = 216
+
+-- poi cell association table
+
+select poi_id, cell_id, grid_id into table poi_cell_association
+  from poi, cells
+  where st_within(geom_point, coordinates) and grid_id = 216
+
+  
+-- Checking distance stuff:
+
+SELECT ST_Distance(
+		ST_GeomFromText('POINT(43.775502 -79.521692)',4326),
+		ST_GeomFromText('POINT(43.763545 -79.491160)', 4326)
+	);
+
+st_distance
+0.032 -- which is around 3.2km. 
+
+-- associating trajectories and POIs within 100m of each other.
+
+select obj_id, traj_id, poi_id 
+	from poi, traj
+	where ST_DWithin(traj_path, geom_point, 0.001)
+	order by obj_id;
 	
+-- stroing results in a traj_poi_association table.
+
+select obj_id, traj_id, poi_id into table traj_poi_association
+	from poi, traj 
+	where ST_DWithin(traj_path, geom_point, 0.001)
+	order by obj_id;
+	
+
+-- fetching unique trajectories from traj_poi_association.
+
+select distinct traj_id 
+ 	from traj_poi_association
+ 	order by traj_id
+
+
+-- running inner join from traj_poi_association on traj table to fetch traj paths.
+
+select distinct tp.traj_id, tr.traj_id, st_astext(tr.traj_path) 
+ 	from traj_poi_association tp
+	inner join traj tr on tp.traj_id = tr.traj_id
+ 	order by tp.traj_id
 	
 	
 	

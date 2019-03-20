@@ -1,10 +1,14 @@
 import random
+import pandas as pd
 
 # f = open("obj_id.csv", "w")
 # f.write("obj_id\n")
+path = "C:\\Users\\saim\\Documents\\POI_clustering\\postgresql\\driving.csv"
 
-for x in range(200):
-	print(str(random.randint(1,200)))
+df = pd.read_csv(path)
+
+for x in range(len(df)):
+	print(str(random.randint(1,len(df) + 1)))
 # 	f.write(str(random.randint(0,99)) + "\n")
 # f.close()
 

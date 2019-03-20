@@ -48,7 +48,7 @@ create table grids (
 -- Storing grid cells
 
 create table cells (
-	cell_id integer primary key, -- changed to serial in cell_01
+	cell_id serial primary key, -- changed to serial in cell_01
 	grid_id float references grids(grid_id),
 	cell_names text,
 	coordinates geometry -- Creating POLYGON geometry: need to specify first and last coordinate same for each of them. 
@@ -57,28 +57,93 @@ create table cells (
 -- Assigning SRID to coordinates column.
 update cells set coordinates = st_setsrid(coordinates, 4326) 
 
+-- Retrieving points that are inside grid cells and associating them. 
+
+-- ST_Within(geometry A , geometry B) returns TRUE if the first geometry is completely within the second geometry.
+
+-- poi cell association table
+
+  
+select p.poi_id, c.cell_id, c.grid_id into table poi_cell_association
+  from poi p, cells c
+  where st_within(p.geom_point, c.coordinates) and grid_id = 216
+  
+  
+-- Checking distance stuff:
+
+SELECT ST_Distance(
+		ST_GeomFromText('POINT(43.775502 -79.521692)',4326),
+		ST_GeomFromText('POINT(43.763545 -79.491160)', 4326)
+	);
+
+st_distance
+0.032 -- which is around 3.2km. 
+
+
+-- associating trajectories and POIs within 100m distance of each other and storing results in a traj_poi_association table.
+
+	
+select t.obj_id, t.traj_id, p.poi_id into table traj_poi_association
+	from poi p, traj t 
+	where ST_DWithin(t.traj_path, p.geom_point, 0.001) -- 0.001 = 100m
+	order by obj_id;
+	
+-- running inner join from traj_poi_association on traj table to fetch traj paths.
+
+select distinct tp.traj_id, tr.traj_id, st_astext(tr.traj_path) 
+ 	from traj_poi_association tp
+	inner join traj tr on tp.traj_id = tr.traj_id
+ 	order by tp.traj_id
+
+
+-- working towards creating traj_cell_association i.e., converting a trajectory from a set of points to a collection of grid cells.	
+
+-- fetching points from trajectory LINESTRING paths. 
+SELECT ST_AsText(
+   ST_PointN(
+	  tr.traj_path,
+	  generate_series(1, ST_NPoints(tr.traj_path))
+   )) as TrajPoints
+into table traj_points
+FROM traj tr; 		
+
+-- Got 22494 points out of it.
+
+-- Getting set of trajectories that are inside the grid cells. (it won't be possible to get any results, if grid cells are of smaller size).
+
+select tr.traj_id, st_astext(tr.traj_path), st_astext(ce.coordinates)
+ from traj tr, cells ce
+ where st_within(tr.traj_path, ce.coordinates) and ce.grid_id = 972
+ ORDER by tr.traj_id
+ 
+ 
+ -- storing traj_path points with their id's.
+ 
+ select tr.traj_id as traj_id, st_astext(tp.trajpoints) as traj_points into table traj_poi_id
+	from traj tr, traj_points tp
+	where st_intersects(tr.traj_path ::geometry, tp.trajpoints ::geometry)
+	order by tr.traj_id
+	
+SELECT 469011 -- nummber of rows output from above query.
+
+Query returned successfully in 11 secs 324 msec
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
-			
--- Changing IDs from interger primary key to serial primary key.			
-
-
-create table cells_01 (
-	cell_id serial primary key,
-	grid_id float references grids(grid_id),
-	cell_names text,
-	coordinates geometry -- Creating POLYGON geometry: need to specify first and last coordinate same for each of them. 
-)
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
