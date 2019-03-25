@@ -119,17 +119,24 @@ select tr.traj_id, st_astext(tr.traj_path), st_astext(ce.coordinates)
  
  -- storing traj_path points with their id's.
  
- select tr.traj_id as traj_id, st_astext(tp.trajpoints) as traj_points into table traj_poi_id
+ select distinct st_astext(tp.trajpoints) as traj_points, tr.traj_id as traj_id into table traj_poi_id
 	from traj tr, traj_points tp
 	where st_intersects(tr.traj_path ::geometry, tp.trajpoints ::geometry)
 	order by tr.traj_id
-	
-SELECT 469011 -- nummber of rows output from above query.
 
-Query returned successfully in 11 secs 324 msec
+-- Storing traj_id's and the ID's of cells from which they pass through in a table called traj_cell_association.
+
+select tr.traj_id, ce.cell_id into table traj_cell_association
+ 	from traj_poi_id tr, cells ce
+  	where st_within(tr.traj_points, ce.coordinates) and grid_id = 7776
 
 
- 
+-- getting cell_id's and cell_names for the traj that passes through those cells. 
+
+select distinct tc.cell_id, ce.cell_names 
+	from traj_cell_association tc
+	inner join cells ce on tc.cell_id = ce.cell_id
+	where tc.traj_id = 201	
 
 
 
