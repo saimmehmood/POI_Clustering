@@ -72,7 +72,7 @@ select p.poi_id, c.cell_id, c.grid_id into table poi_cell_association
 -- Checking distance stuff:
 
 SELECT ST_Distance(
-		ST_GeomFromText('POINT(43.775502 -79.521692)',4326),
+		ST_GeomFromText('POINT(43.775502 -79.521692)', 4326),
 		ST_GeomFromText('POINT(43.763545 -79.491160)', 4326)
 	);
 
@@ -117,7 +117,7 @@ select tr.traj_id, st_astext(tr.traj_path), st_astext(ce.coordinates)
  ORDER by tr.traj_id
  
  
- -- storing traj_path points with their id's.
+ -- storing traj_path points with their id's. By seeing if those points intersect with trajectory path. And storing only the distinct points.
  
  select distinct st_astext(tp.trajpoints) as traj_points, tr.traj_id as traj_id into table traj_poi_id
 	from traj tr, traj_points tp
