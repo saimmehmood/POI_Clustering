@@ -38,6 +38,17 @@ for i in range(len(saved_col)):
 # G.add_edge(2,3)
 # G.add_edge(3,2)
 
-print([n for n in G])
+#print([n for n in G])
 
-# print(G.edges())
+list_of_nodes = list(G.nodes)
+
+size = len(list_of_nodes)
+
+last_node = list_of_nodes[int(size) - 1]
+
+val = last_node.split(":")
+
+row = val[0].replace("C", "")
+col = val[1]
+
+
