@@ -139,8 +139,44 @@ select distinct tc.cell_id, ce.cell_names
 	where tc.traj_id = 201	
 
 
+-- Getting cell_names of the cells from which traj is passing through. We are simply using Postgis query. 
+-- Problem with this query is that it can't maintain the order of cells by which trajectory is passing through them.
 
+select ce.cell_names
+	from cells ce, traj tr
+	where st_intersects(tr.traj_path, ce.coordinates) and tr.traj_id = 207 and ce.grid_id = 7776
+	
+	
+-- Getting cell_names of the cells from which traj is passing through. (Considering single traj id)
 
+SELECT traj_id, cell_id, cell_names
+FROM   (
+  SELECT ce.cell_names,
+         ST_LineLocatePoint(tr.traj_path, ST_Centroid(ce.coordinates)) AS frac
+  FROM   cells AS ce
+  JOIN   traj AS tr
+    ON   ST_Intersects(ce.coordinates, tr.traj_path)
+	where tr.traj_id = 201 and ce.grid_id = 7776
+	
+) q
+ORDER BY
+       frac
+;
+
+-- Storing traj_id, cell_id, & cell_names inside a table traj_as_cells
+
+SELECT traj_id, cell_id, cell_names into table traj_as_cells
+FROM   (
+  SELECT tr.traj_id, ce.cell_id, ce.cell_names, ce.grid_id, 
+         ST_LineLocatePoint(tr.traj_path, ST_Centroid(ce.coordinates)) AS frac
+  FROM   cells AS ce
+  JOIN   traj AS tr
+    ON   ST_Intersects(ce.coordinates, tr.traj_path)
+	where ce.grid_id = 7776
+) q
+ORDER BY
+       frac
+; 
 
 
 
