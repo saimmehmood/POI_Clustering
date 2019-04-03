@@ -23,9 +23,9 @@ import pandas as pd
 
 
 df = pd.read_csv('cell_names.csv')
-saved_col = df['cell_names']
+saved_col = df['name']
 
-# print(saved_col)
+#print(saved_col)
 
 G = nx.Graph()
 
@@ -36,6 +36,8 @@ for i in range(len(saved_col)):
 
 # G.add_nodes_from([2,3])
 # G.add_edge(2,3)
+# G.add_edge(3,2)
 
-#print(G.nodes())
+print([n for n in G])
+
 # print(G.edges())
