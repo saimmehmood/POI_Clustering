@@ -25,13 +25,12 @@ import pandas as pd
 df = pd.read_csv('cell_names.csv')
 saved_col = df['name']
 
-#print(saved_col)
 
 G = nx.Graph()
 
 for i in range(len(saved_col)):
 	G.add_node(saved_col[i])
-	#print(saved_col[i])
+
 
 
 # G.add_nodes_from([2,3])
@@ -40,10 +39,9 @@ for i in range(len(saved_col)):
 
 #print([n for n in G])
 
+# Getting range of rows and columns from last node
 list_of_nodes = list(G.nodes)
-
 size = len(list_of_nodes)
-
 last_node = list_of_nodes[int(size) - 1]
 
 val = last_node.split(":")
@@ -52,3 +50,8 @@ row = val[0].replace("C", "")
 col = val[1]
 
 
+for i in range(int(row)):
+
+	for j in range(int(col)):
+
+		
