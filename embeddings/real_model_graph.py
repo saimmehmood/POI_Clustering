@@ -10,18 +10,17 @@ cell_names = df['cell_names']
 
 graph = nx.Graph()
 
-print(len(traj_id))
-print(len(cell_names))
-
 for i in range(len(cell_names)):
 	graph.add_node(cell_names[i])
 
-# for i in range(len(traj_id)):
+ids = {}
 
-# 	for j in range(len(traj_id)):
+for i in range(len(traj_id)):
 
-# 		if(traj_id[i] == traj_id[j]):
-# 			print(traj_id[j], cell_names[j])
+	for j in range(len(traj_id)):
 
-print(graph.number_of_nodes())
-print(graph.nodes())
+		if(traj_id[i] == traj_id[j]):
+			ids['traj_id[i]'] = {cell_names[j]}
+
+
+print(ids)

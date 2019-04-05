@@ -1,57 +1,46 @@
-# import warnings
-# from text_unidecode import unidecode
-# from collections import deque
-# warnings.filterwarnings('ignore')
-
-
-# import pandas as pd
-# from sklearn.manifold import TSNE
-# import numpy as np
 import networkx as nx
 import pandas as pd
-# import matplotlib.pyplot as plt
-# import matplotlib.patches as mpatches
-# import seaborn as sns
-# from node2vec import Node2Vec
-
-# sns.set_style('whitegrid')
+import numpy as np
 
 
 
-# df = pd.read_csv("trajascells.csv")
-# col_traj_id = df['traj_id']
+df = pd.read_csv('cells.csv')
 
+cell_names = df['cell_names']
+grid_id = df['grid_id']
 
-df = pd.read_csv('cell_names.csv')
-saved_col = df['name']
+saved_col = []
 
+for i in range(len(cell_names)):
+    if grid_id[i] == 216:
+        saved_col.append(cell_names[i])
 
-G = nx.Graph()
+graph = nx.Graph()
 
 for i in range(len(saved_col)):
-	G.add_node(saved_col[i])
-
-
-
-# G.add_nodes_from([2,3])
-# G.add_edge(2,3)
-# G.add_edge(3,2)
-
-#print([n for n in G])
+    graph.add_node(saved_col[i])
 
 # Getting range of rows and columns from last node
-list_of_nodes = list(G.nodes)
+
+list_of_nodes = list(graph.nodes)
 size = len(list_of_nodes)
 last_node = list_of_nodes[int(size) - 1]
 
 val = last_node.split(":")
 
-row = val[0].replace("C", "")
-col = val[1]
+row = int(val[0].replace("C", "")) + 
+col = int(val[1])
 
+arr = np.array(list_of_nodes).reshape(row+1,col+1)
 
-for i in range(int(row)):
+for i in range(row + 1):
 
-	for j in range(int(col)):
+    for j in range(col + 1):
 
-		
+        current_pos = i
+
+        left_neighbor = max(0, current_pos - 1)
+        right_neighbor = min(row, current_pos + 1)
+
+        top_neighbor
+        bottom_neighbor
