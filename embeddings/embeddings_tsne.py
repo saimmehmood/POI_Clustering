@@ -8,23 +8,29 @@ df = pd.read_csv('cells.csv')
 
 cell_names = df['cell_names']
 grid_id = df['grid_id']
+cell_id = df['cell_id']
 
-saved_col = []
+saved_col_name = []
+saved_col_id = []
+
+for i in range(len(cell_id)):
+    if(grid_id[i] == 216):
+        saved_col_id.append(cell_id[i])
 
 for i in range(len(cell_names)):
     if grid_id[i] == 216:
-        saved_col.append(cell_names[i])
+        saved_col_name.append(cell_names[i])
 
 graph = nx.Graph()
 
-for i in range(len(saved_col)):
-    graph.add_node(saved_col[i])
+for i in range(len(saved_col_name)):
+    graph.add_node(saved_col_id[i])
 
 # Getting range of rows and columns from last node
 
-list_of_nodes = list(graph.nodes)
-size = len(list_of_nodes)
-last_node = list_of_nodes[int(size) - 1]
+list_of_names = list(saved_col_name)
+size = len(list_of_names)
+last_node = list_of_names[int(size) - 1]
 
 val = last_node.split(":")
 
@@ -32,7 +38,7 @@ row = int(val[0].replace("C", ""))
 col = int(val[1])
 
 # reshaping 1D list into 2D array.
-arr = np.array(list_of_nodes).reshape(row+1,col+1)
+arr = np.array(saved_col_id).reshape(row+1,col+1)
 
 for i in range(row + 1):
 
@@ -60,4 +66,16 @@ for i in range(row + 1):
         if (row_pos != bottom):
             graph.add_edge(arr[row_pos][col_pos], arr[bottom][col_pos])
 
+list_of_edges = list(graph.edges)
+
+nodes = []
+for i in range(len(list_of_edges)):
+    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " "))
+
+f = open("nodes.edgelist", "w")
+
+for i in range(len(nodes)):
+    f.write(nodes[i] + "\n")
+
+f.close()
 
