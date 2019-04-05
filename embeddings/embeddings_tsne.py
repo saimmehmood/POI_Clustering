@@ -28,19 +28,31 @@ last_node = list_of_nodes[int(size) - 1]
 
 val = last_node.split(":")
 
-row = int(val[0].replace("C", "")) + 
+row = int(val[0].replace("C", ""))
 col = int(val[1])
 
+# reshaping 1D list into 2D array.
 arr = np.array(list_of_nodes).reshape(row+1,col+1)
 
 for i in range(row + 1):
 
     for j in range(col + 1):
 
-        current_pos = i
+        row_pos = i
+        col_pos = j
 
-        left_neighbor = max(0, current_pos - 1)
-        right_neighbor = min(row, current_pos + 1)
+        left_neighbor = max(0, col_pos - 1)
+        right_neighbor = min(row, col_pos + 1)
 
-        top_neighbor
-        bottom_neighbor
+        top_neighbor = max(0, row_pos - 1)
+        bottom_neighbor = min(col, row_pos + 1)
+
+        # Adding edges between grid cells.
+        graph.add_edge(arr[row_pos][col_pos], arr[row_pos][left_neighbor])
+        graph.add_edge(arr[row_pos][col_pos], arr[row_pos][right_neighbor])
+
+        graph.add_edge(arr[row_pos][col_pos], arr[top_neighbor][col_pos])
+        graph.add_edge(arr[row_pos][col_pos], arr[bottom_neighbor][col_pos])
+
+
+print(graph.edges())
