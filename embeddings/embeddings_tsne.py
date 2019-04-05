@@ -41,18 +41,23 @@ for i in range(row + 1):
         row_pos = i
         col_pos = j
 
-        left_neighbor = max(0, col_pos - 1)
-        right_neighbor = min(row, col_pos + 1)
+        left = max(0, col_pos - 1)
+        right = min(col, col_pos + 1)
 
-        top_neighbor = max(0, row_pos - 1)
-        bottom_neighbor = min(col, row_pos + 1)
+        top = max(0, row_pos - 1)
+        bottom = min(row, row_pos + 1)
 
         # Adding edges between grid cells.
-        graph.add_edge(arr[row_pos][col_pos], arr[row_pos][left_neighbor])
-        graph.add_edge(arr[row_pos][col_pos], arr[row_pos][right_neighbor])
+        if (col_pos != left):
+            graph.add_edge(arr[row_pos][col_pos], arr[row_pos][left])
 
-        graph.add_edge(arr[row_pos][col_pos], arr[top_neighbor][col_pos])
-        graph.add_edge(arr[row_pos][col_pos], arr[bottom_neighbor][col_pos])
+        if (col_pos != right):
+            graph.add_edge(arr[row_pos][col_pos], arr[row_pos][right])
+
+        if (row_pos != top):
+            graph.add_edge(arr[row_pos][col_pos], arr[top][col_pos])
+
+        if (row_pos != bottom):
+            graph.add_edge(arr[row_pos][col_pos], arr[bottom][col_pos])
 
 
-print(graph.edges())
