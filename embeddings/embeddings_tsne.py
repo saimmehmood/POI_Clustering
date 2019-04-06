@@ -14,11 +14,11 @@ saved_col_name = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
-    if(grid_id[i] == 216):
+    if(grid_id[i] == 8.08281277465e+38):
         saved_col_id.append(cell_id[i])
 
 for i in range(len(cell_names)):
-    if grid_id[i] == 216:
+    if grid_id[i] == 8.08281277465e+38:
         saved_col_name.append(cell_names[i])
 
 graph = nx.Graph()
@@ -36,6 +36,8 @@ val = last_node.split(":")
 
 row = int(val[0].replace("C", ""))
 col = int(val[1])
+
+# print(row, col)
 
 # reshaping 1D list into 2D array.
 arr = np.array(saved_col_id).reshape(row+1,col+1)
