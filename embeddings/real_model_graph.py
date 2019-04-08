@@ -18,10 +18,31 @@ for x in traj_id:
     if x not in output:
         output.append(x)
 
+temp = []
+
 for i in range(len(output)):
 	
 	for j in range(len(traj_id)):
 		
 		if(output[i] == traj_id[j]):
 
-			print(traj_id[j], cell_id[j])
+			temp.append(str(traj_id[j]) + "," + str(cell_id[j]))
+
+s1 = []
+s2 = []
+
+for tmp in temp:
+	t = tmp.split(",")
+	s1.append(t[0])
+	s2.append(t[1])
+
+st_edge = []
+
+for i in range(len(s1)):
+
+	if (s1[i + 1] == s1[i]):
+		st_edge.append(s2[i])
+
+
+
+	
