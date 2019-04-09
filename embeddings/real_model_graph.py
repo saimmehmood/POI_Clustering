@@ -19,6 +19,8 @@ for x in traj_id:
 
 temp = []
 
+# Making traj id and cell_id in order.
+
 for i in range(len(output)):
 
 	for j in range(len(traj_id)):
@@ -26,33 +28,37 @@ for i in range(len(output)):
 		if (output[i] == traj_id[j]):
 			temp.append(str(traj_id[j]) + "," + str(cell_id[j]))
 
-s1 = []
-s2 = []
+# Splitting data into two lists.
+s1 = [] # storing traj ids
+s2 = [] # storing cell ids
 
 for tmp in temp:
 	t = tmp.split(",")
 	s1.append(t[0])
 	s2.append(t[1])
 
+
+list_of_lists = []
 st_edge = []
 
 for i in range(len(s1)):
-	# print(s1[i], s2[i])
+	#print(s1[i], s2[i])
 	try:
 		if (s1[i] == s1[i + 1]):
 			graph.add_edge(s2[i], s2[i + 1])
+
 	except IndexError:
 		print("")
-
-# print(graph.edges())
-list_of_edges = list(graph.edges)
-
-nodes = []
-for i in range(len(list_of_edges)):
-	nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
-
-
-f = open("realm_nodes.edgelist", "w")
-
-for i in range(len(nodes)):
-	f.write(nodes[i] + "\n")
+#
+print(graph.edges())
+# list_of_edges = list(graph.edges)
+#
+# nodes = []
+# for i in range(len(list_of_edges)):
+# 	nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
+#
+#
+# f = open("realm_nodes.edgelist", "w")
+#
+# for i in range(len(nodes)):
+# 	f.write(nodes[i] + "\n")
