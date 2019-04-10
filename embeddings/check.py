@@ -22,8 +22,8 @@ st_edge = []
 st_edge.append("1, 2, 3")
 st_edge.append("4, 5, 6")
 
-del st_edge[:]
+list_of_lists.copy(st_edge)
 
-list_of_lists.append(st_edge)
+del st_edge [:]
 
 print(list_of_lists)
