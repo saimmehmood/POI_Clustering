@@ -68,11 +68,30 @@ for i in range(len(list_of_edges)):
     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
 
 
-f_edgelist = open("realm_nodes.edgelist", "w")
+#print(list_of_lists)
 
-for i in range(len(nodes)):
-    f_edgelist.write(nodes[i] + "\n")
-f_edgelist.close()
+#f_edgelist = open("realm_nodes.edgelist", "w")
+
+# for i in range(len(nodes)):
+#     f_edgelist.write(nodes[i] + "\n")
+# f_edgelist.close()
 
 f_walk = open("walks.txt", "w")
-f_walk.write(str(list_of_lists))
+#
+ls = []
+
+for i in range(len(list_of_lists)):
+
+    ls = str(list_of_lists).split("], [")
+#     #print(ls[i])
+#f_walk.write(str(list_of_lists).replace("'", ""))
+#
+# # Converting list of lists into a single list each line
+for i in range(len(ls)):
+    str(ls[0]).replace("[[", "")
+    str(ls[len(ls) - 1]).replace("]]", "")
+    if(ls[i] != ls[0] and ls[i] != ls[len(ls) - 1]):
+        f_walk.write(str("["+ls[i] + "]\n"))
+#
+# #print(ls[len(ls) - 1])
+f_walk.close()
