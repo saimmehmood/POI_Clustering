@@ -57,10 +57,8 @@ for i in range(len(s1)):
     except IndexError:
         st_edge.append(s2[i])
         list_of_lists.append(st_edge.copy())
-        #print("")
-#
-# print(graph.edges())
-# print(list_of_lists)
+       
+
 list_of_edges = list(graph.edges)
 
 nodes = []
@@ -68,30 +66,29 @@ for i in range(len(list_of_edges)):
     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
 
 
-#print(list_of_lists)
+# Storing edge list for real model nodes.
 
-#f_edgelist = open("realm_nodes.edgelist", "w")
+f_edgelist = open("realm_nodes.edgelist", "w")
 
-# for i in range(len(nodes)):
-#     f_edgelist.write(nodes[i] + "\n")
-# f_edgelist.close()
+for i in range(len(nodes)):
+    f_edgelist.write(nodes[i] + "\n")
+f_edgelist.close()
 
+# storing trajectory walks as cell ids as list on each line.
 f_walk = open("walks.txt", "w")
-#
+
 ls = []
 
 for i in range(len(list_of_lists)):
 
     ls = str(list_of_lists).split("], [")
-#     #print(ls[i])
-#f_walk.write(str(list_of_lists).replace("'", ""))
-#
-# # Converting list of lists into a single list each line
+
+# Converting list of lists into a single list each line
+
 for i in range(len(ls)):
     str(ls[0]).replace("[[", "")
     str(ls[len(ls) - 1]).replace("]]", "")
     if(ls[i] != ls[0] and ls[i] != ls[len(ls) - 1]):
         f_walk.write(str("["+ls[i] + "]\n"))
-#
-# #print(ls[len(ls) - 1])
+
 f_walk.close()
