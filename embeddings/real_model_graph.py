@@ -1,7 +1,13 @@
+### Real Model ###
+
+# This code generates edge list and walks of trajectory paths based on cells ids.
+# 1st: it outputs a file that represents cell ids as edge lists in a format accepted by node2vec.
+# 2nd: it outputs trajectory paths as list of cell ids.
+
 import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_cells.csv')
+df = pd.read_csv('traj_as_cells_grid_25x25.csv')
 
 traj_id = df['traj_id']
 cell_id = df['cell_id']
@@ -86,8 +92,10 @@ for i in range(len(list_of_lists)):
 # Converting list of lists into a single list each line
 
 for i in range(len(ls)):
+
     str(ls[0]).replace("[[", "")
     str(ls[len(ls) - 1]).replace("]]", "")
+    
     if(ls[i] != ls[0] and ls[i] != ls[len(ls) - 1]):
         f_walk.write(str("["+ls[i] + "]\n"))
 

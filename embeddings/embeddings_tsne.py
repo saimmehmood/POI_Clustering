@@ -1,3 +1,9 @@
+
+### Null Model ###
+# This code generates a graph by generating edges between grid cells.
+# Each cell is considered as a node. 
+# Each cell is connected to its adjacent cell. 
+
 import networkx as nx
 import pandas as pd
 import numpy as np
