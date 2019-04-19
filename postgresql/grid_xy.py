@@ -39,8 +39,6 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
     store_coordinate.pop()
     
-    # for i in range(len(store_coordinate)):
-    #     print(str(store_coordinate[i]))
 
 	# storing grid points inside txt file as 
 	# (Name: cell name, Coordinates: cell boundary coordinates)    
