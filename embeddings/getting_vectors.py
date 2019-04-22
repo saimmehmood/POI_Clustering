@@ -22,8 +22,8 @@ def build_word_vector_matrix(vector_file, n_words):
             labels_array.append(sr[0])
             numpy_arrays.append(np.array([float(i) for i in sr[1:]]))
 
-    f = open("cos_sim.csv", "w")
-    f.write("node1,node2,cosine_sim")
+    f_cos_sim = open("realm_cos_sim.csv", "w")
+    f_cos_sim.write("node1,node2,cosine_sim\n")
 
 
     for i in range(len(numpy_arrays)):
@@ -31,10 +31,12 @@ def build_word_vector_matrix(vector_file, n_words):
         for j in range(len(numpy_arrays)):
 
             try:
-                print(str(labels_array[i + 1]) +","+ str(labels_array[j + 1]) + "," + str(cos_sim(numpy_arrays[i + 1], numpy_arrays[j + 1])))
+                if(labels_array[i+1] != labels_array[j+1]):
+                    #print(str(labels_array[i + 1]) +","+ str(labels_array[j + 1]) + "," + str(cos_sim(numpy_arrays[i + 1], numpy_arrays[j + 1])))
+                    f_cos_sim.write(str(labels_array[i + 1]) +","+ str(labels_array[j + 1]) + "," + str(cos_sim(numpy_arrays[i + 1], numpy_arrays[j + 1])) + "\n")
 
             except IndexError:
-                print("index error occured")
+                print("")
 
     # print("Cosine Similarity:")
     # print(cos_sim(numpy_arrays[1], numpy_arrays[2]))
@@ -45,5 +47,5 @@ def build_word_vector_matrix(vector_file, n_words):
     #             return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
     # return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
 
-build_word_vector_matrix('prac_nodes.emb', 3)
+build_word_vector_matrix('real_nodes.emb', 422)
 
