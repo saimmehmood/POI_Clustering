@@ -15,37 +15,34 @@ def build_word_vector_matrix(vector_file, n_words):
     #Return the vectors and labels for the first n_words in vector file
     numpy_arrays = []
     labels_array = []
+
     with open(vector_file, 'r') as f:
         for c, r in enumerate(f):
             sr = r.split()
 
+            # storing all the labels
             labels_array.append(sr[0])
+            # storing all the vectors
             numpy_arrays.append(np.array([float(i) for i in sr[1:]]))
 
     f_cos_sim = open("realm_cos_sim.csv", "w")
     f_cos_sim.write("node1,node2,cosine_sim\n")
 
 
+    # calculating and storing cosine similarity between every node.
     for i in range(len(numpy_arrays)):
 
         for j in range(len(numpy_arrays)):
 
             try:
                 if(labels_array[i+1] != labels_array[j+1]):
-                    #print(str(labels_array[i + 1]) +","+ str(labels_array[j + 1]) + "," + str(cos_sim(numpy_arrays[i + 1], numpy_arrays[j + 1])))
+       
                     f_cos_sim.write(str(labels_array[i + 1]) +","+ str(labels_array[j + 1]) + "," + str(cos_sim(numpy_arrays[i + 1], numpy_arrays[j + 1])) + "\n")
 
             except IndexError:
                 print("")
 
-    # print("Cosine Similarity:")
-    # print(cos_sim(numpy_arrays[1], numpy_arrays[2]))
-    # print("Euclidean distance:")
-    # print(LA.norm(numpy_arrays[1] - numpy_arrays[2]))
-
-    #         if c == n_words:
-    #             return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
-    # return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
+   
 
 build_word_vector_matrix('real_nodes.emb', 422)
 

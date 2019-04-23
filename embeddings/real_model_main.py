@@ -87,13 +87,13 @@ def learn_embeddings(walks):
 	# print(walks[0])
 
 	#walks = [map(str, walk) for walk in walks]
-	print(type(walks[0][0]))
-	print(type(walks[0]))
-	print(type(walks))
+	# print(type(walks[0][0]))
+	# print(type(walks[0]))
+	# print(type(walks))
 
-	print(walks[0][0])
-	print(walks[0])
-	print(walks)
+	# print(walks[0][0])
+	# print(walks[0])
+	# print(walks)
 
 	model = Word2Vec(walks, size=args.dimensions, window=args.window_size, min_count=0, sg=1, workers=args.workers, iter=args.iter)
 	model.wv.save_word2vec_format(args.output)
