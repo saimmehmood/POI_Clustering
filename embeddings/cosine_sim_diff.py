@@ -19,7 +19,7 @@ for i in range(len(null_node1)):
     for j in range(len(real_node1)):
 
         if(null_node1[i] == real_node1[j] and null_node2[i] == real_node2[j]):
-            f_cos_sim_diff.write(str(null_node1[i]) + "," + str(null_node2[i]) + "," + str(real_node1[j]) + "," + str(real_node2[j]) + "," + str(null_cos_sim[i] - real_cos_sim[j]) + "\n")
+            f_cos_sim_diff.write(str(null_node1[i]) + "," + str(null_node2[i]) + "," + str(real_node1[j]) + "," + str(real_node2[j]) + "," + str(null_cos_sim[i] - abs(real_cos_sim[j])) + "\n")
 
         # if(null_node1[i] != real_node1[j] and null_node2[i] != real_node2[j]):
         #     print(str(null_node1[i]) + "," + str(null_node2[i]) + "," + "\N{INFINITY}" + "\N{INFINITY}" + "\N{INFINITY}")
