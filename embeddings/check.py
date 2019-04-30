@@ -23,4 +23,15 @@
 # print(walks)
 # print(type(walks))
 
-print("\N{INFINITY}")
+f = open('check.txt', 'w')
+
+f.write("\N{INFINITY}")
+
+
+# import pandas as pd
+
+# df = pd.read_csv("cos_sim_diff.csv")
+
+# diff = df['cos_sim_diff']
+
+# print(max(diff))

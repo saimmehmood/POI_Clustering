@@ -20,46 +20,63 @@ saved_col_name = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
-    if(grid_id[i] == 7776):
+    if(grid_id[i] == 2.84302880299e+19):
         saved_col_id.append(cell_id[i])
 
+sorted_ids = sorted(saved_col_id)
+
+# for i in range(len(sorted_ids)):
+#     print(sorted_ids[i])
+
 for i in range(len(cell_names)):
-    if grid_id[i] == 7776:
+    if grid_id[i] == 2.84302880299e+19:
         saved_col_name.append(cell_names[i])
+
 
 graph = nx.Graph()
 
-for i in range(len(saved_col_name)):
-    graph.add_node(saved_col_id[i])
+for i in range(len(sorted_ids)):
+    #print(sorted_ids[i])
+    graph.add_node(sorted_ids[i])
+
+#print(graph.nodes())
 
 # Getting range of rows and columns from last node
 
 list_of_names = list(saved_col_name)
 size = len(list_of_names)
-last_node = list_of_names[int(size) - 1]
 
-val = last_node.split(":")
+max_row = 0
+max_col = 0
 
-row = int(val[0].replace("C", ""))
-col = int(val[1])
+for i in range(size):
 
-# print(row, col)
+    val = list_of_names[i].split(":")
+    row = int(val[0].replace("C", ""))
+    col = int(val[1])
+
+    if(max_row < row):
+        max_row = row
+    if(max_col < col):
+        max_col = col
+
+print(max_row, max_col)
 
 # reshaping 1D list into 2D array.
-arr = np.array(saved_col_id).reshape(row+1,col+1)
+arr = np.array(saved_col_id).reshape(max_row+1,max_col+1)
 
-for i in range(row + 1):
+for i in range(max_row + 1):
 
-    for j in range(col + 1):
+    for j in range(max_col + 1):
 
         row_pos = i
         col_pos = j
 
         left = max(0, col_pos - 1)
-        right = min(col, col_pos + 1)
+        right = min(max_col, col_pos + 1)
 
         top = max(0, row_pos - 1)
-        bottom = min(row, row_pos + 1)
+        bottom = min(max_row, row_pos + 1)
 
         # Adding edges between grid cells.
         if (col_pos != left):

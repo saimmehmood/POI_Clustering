@@ -25,7 +25,7 @@ def build_word_vector_matrix(vector_file, n_words):
             # storing all the vectors
             numpy_arrays.append(np.array([float(i) for i in sr[1:]]))
 
-    f_cos_sim = open("nullm_cos_sim.csv", "w")
+    f_cos_sim = open("realm_cos_sim.csv", "w")
     f_cos_sim.write("node1,node2,cosine_sim\n")
 
 
@@ -44,5 +44,5 @@ def build_word_vector_matrix(vector_file, n_words):
 
    
 
-build_word_vector_matrix('nodes.emb', 25)
+build_word_vector_matrix('real_nodes.emb', 422)
 
