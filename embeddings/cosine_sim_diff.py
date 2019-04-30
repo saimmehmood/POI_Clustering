@@ -31,6 +31,8 @@ for i in range(len(null_node1)):
             break
 
     if(count == 0):
+    	f_cos_sim_diff.write(str(null_node1[i]) + "," + str(null_node2[i]) + "," + "infinite" + "," + "infinite" + "," + "infinite" + "\n")
+
 
 
 end = time.time()
