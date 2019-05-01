@@ -1,8 +1,6 @@
 import pandas as pd
 import time
 
-
-
 real_df = pd.read_csv("realm_cos_sim.csv")
 real_node1 = real_df['node1']
 real_node2 = real_df['node2']
@@ -26,13 +24,11 @@ j = max(null_node1)
 initial = i
 start = time.time()
 
-
-
 while (i <= j):
     k = initial
     while(k <= j):
 
-        
+        print(i, k)
 
         k = k + 1
 
