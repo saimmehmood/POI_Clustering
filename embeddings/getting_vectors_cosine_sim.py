@@ -1,4 +1,5 @@
 import numpy as np
+import time
 
 
 def cos_sim(a, b):
@@ -32,10 +33,12 @@ def build_word_vector_matrix(vector_file, n_words):
     # print(len(numpy_arrays))
     # print(len(labels_array))
 
-    f_cos_sim = open("nullm_cos_sim.csv", "w")
+    f_cos_sim = open("realm_cos_sim.csv", "w")
     f_cos_sim.write("node1,node2,cosine_sim\n")
 
+    cos_similarity = []
 
+    start = time.time()
     # calculating and storing cosine similarity between every node.
     for i in range(len(numpy_arrays)):
 
@@ -43,12 +46,16 @@ def build_word_vector_matrix(vector_file, n_words):
 
             if(labels_array[i] != labels_array[j]):
 
-                f_cos_sim.write(str(labels_array[i]) + "," + str(labels_array[j]) + "," +
+                if not (cos_similarity.__contains__(cos_sim(numpy_arrays[i], numpy_arrays[j]))):
+
+                    f_cos_sim.write(str(labels_array[i]) + "," + str(labels_array[j]) + "," +
                                 str(cos_sim(numpy_arrays[i], numpy_arrays[j])) + "\n")
 
+                cos_similarity.append(cos_sim(numpy_arrays[i], numpy_arrays[j]))
 
+    end = time.time()
 
-   
+    print(end - start)
 
-build_word_vector_matrix('nodes.emb', 625)
+build_word_vector_matrix('real_nodes.emb', 422)
 
