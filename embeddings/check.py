@@ -44,15 +44,47 @@
 #
 # print(common_num)
 
-import pandas as pd
+# import pandas as pd
+#
+# df = pd.read_csv("nullm_cos_sim.csv")
+#
+# node1 = df['node1']
+# node2 = df['node2']
+#
+# val1 = 3634
+# val2 = 4089
+#
+# if(node1.__contains__(val1) and node2.__contains__(val2)):
+#     print("it works")
 
-df = pd.read_csv("nullm_cos_sim.csv")
 
-node1 = df['node1']
-node2 = df['node2']
+# print(len(null_node1))
+# print(len(real_node1))
+# f = open("work.txt", "w")
 
-val1 = 3634
-val2 = 4089
+i = min(null_node1)
+j = max(null_node1)
+initial = i
+start = time.time()
 
-if(node1.__contains__(val1) and node2.__contains__(val2)):
-    print("it works")
+while (i <= j):
+    k = initial
+    while(k <= j):
+
+        print(i, k)
+
+        k = k + 1
+
+    i = i + 1
+
+# # if (null_node1.__contains__(4186) and null_node2.__contains__(4185)):
+# #     print("yes")
+#
+
+matrix = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+
+print( [[row[i] for row in matrix] for i in range(3)] )

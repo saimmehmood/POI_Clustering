@@ -20,7 +20,7 @@ saved_col_name = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
-    if(grid_id[i] == 2.84302880299e+19):
+    if(grid_id[i] == 7776):
         saved_col_id.append(cell_id[i])
 
 sorted_ids = sorted(saved_col_id)
@@ -29,7 +29,7 @@ sorted_ids = sorted(saved_col_id)
 #     print(sorted_ids[i])
 
 for i in range(len(cell_names)):
-    if grid_id[i] == 2.84302880299e+19:
+    if grid_id[i] == 7776:
         saved_col_name.append(cell_names[i])
 
 
@@ -60,7 +60,7 @@ for i in range(size):
     if(max_col < col):
         max_col = col
 
-print(max_row, max_col)
+#print(max_row, max_col)
 
 # reshaping 1D list into 2D array.
 arr = np.array(saved_col_id).reshape(max_row+1,max_col+1)
