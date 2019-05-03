@@ -151,7 +151,7 @@ select ce.cell_names
 
 SELECT traj_id, cell_id, cell_names
 FROM   (
-  SELECT ce.cell_names,
+  SELECT tr.traj_id, ce.cell_id, ce.cell_names,
          ST_LineLocatePoint(tr.traj_path, ST_Centroid(ce.coordinates)) AS frac
   FROM   cells AS ce
   JOIN   traj AS tr

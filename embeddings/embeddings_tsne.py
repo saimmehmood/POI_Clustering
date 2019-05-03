@@ -20,7 +20,7 @@ saved_col_name = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
-    if(grid_id[i] == 7776):
+    if(grid_id[i] == 2.84302880299e+19):
         saved_col_id.append(cell_id[i])
 
 sorted_ids = sorted(saved_col_id)
@@ -29,7 +29,7 @@ sorted_ids = sorted(saved_col_id)
 #     print(sorted_ids[i])
 
 for i in range(len(cell_names)):
-    if grid_id[i] == 7776:
+    if grid_id[i] == 2.84302880299e+19:
         saved_col_name.append(cell_names[i])
 
 
