@@ -62,29 +62,44 @@
 # print(len(real_node1))
 # f = open("work.txt", "w")
 
-i = min(null_node1)
-j = max(null_node1)
-initial = i
-start = time.time()
-
-while (i <= j):
-    k = initial
-    while(k <= j):
-
-        print(i, k)
-
-        k = k + 1
-
-    i = i + 1
+# i = min(null_node1)
+# j = max(null_node1)
+# initial = i
+# start = time.time()
+#
+# while (i <= j):
+#     k = initial
+#     while(k <= j):
+#
+#         print(i, k)
+#
+#         k = k + 1
+#
+#     i = i + 1
 
 # # if (null_node1.__contains__(4186) and null_node2.__contains__(4185)):
 # #     print("yes")
 #
 
-matrix = [
-    [1,2,3],
-    [4,5,6],
-    [7,8,9]
-]
+# matrix = [
+#     [1,2,3],
+#     [4,5,6],
+#     [7,8,9]
+# ]
+#
+# print( [[row[i] for row in matrix] for i in range(3)] )
 
-print( [[row[i] for row in matrix] for i in range(3)] )
+import statistics
+
+ar1 = [2, 3, 5, 8]
+ar2 = [10, 12, 14, 16, 18, 20]
+
+ar3 = []
+
+for i in range(len(ar1)):
+    ar3.append(ar1[i])
+
+for j in range(len(ar2)):
+    ar3.append(ar2[j])
+
+print(statistics.median(ar3))
