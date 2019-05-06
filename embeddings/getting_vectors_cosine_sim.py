@@ -55,8 +55,8 @@ def build_word_vector_matrix(vector_file, n_words):
     # print(len(numpy_arrays))
     #print(sorted(labels_array))
 
-    f_cos_sim = open("nullm_cos_sim.csv", "w")
-    f_cos_sim.write("node1,node2,cosine_sim\n")
+    # f_cos_sim = open("nullm_cos_sim.csv", "w")
+    # f_cos_sim.write("node1,node2,cosine_sim\n")
 
     # As node (i, j) and (j, i) will have same consine similarity, so we are keeping one of them.
     cos_similarity = []
