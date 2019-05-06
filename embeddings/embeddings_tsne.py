@@ -60,10 +60,9 @@ for i in range(size):
     if(max_col < col):
         max_col = col
 
-#print(max_row, max_col)
 
 # reshaping 1D list into 2D array.
-arr = np.array(saved_col_id).reshape(max_row+1,max_col+1)
+arr = np.array(sorted_ids).reshape(max_row+1,max_col+1)
 
 for i in range(max_row + 1):
 
