@@ -11,27 +11,82 @@ def cos_sim(a, b):
     norm_b = np.linalg.norm(b)
     return dot_product / (norm_a * norm_b)
 
-def getting_vector_cosine_sim(vector_file, n_words):
+def getting_vector_cosine_sim(vector_file_01, vector_file_02):
 
-    #Return the vectors and labels for the first n_words in vector file
-    numpy_arrays = []
-    labels_array = []
+    #Return the vectors and labels for the first n_words in vector file.
+    numpy_array_01 = []
+    labels_array_01 = []
 
-    with open(vector_file, 'r') as f:
+    numpy_array_02 = []
+    labels_array_02 = []
+
+    # first embedding file
+    with open(vector_file_01, 'r') as f:
         for c, r in enumerate(f):
             sr = r.split()
 
             # storing all the labels
-            labels_array.append(sr[0])
+            labels_array_01.append(sr[0])
 
             # storing all the vectors
-            numpy_arrays.append(np.array([float(i) for i in sr[1:]]))
+            numpy_array_01.append(np.array([float(i) for i in sr[1:]]))
+
+    labels_array_01.pop(0)
+    numpy_array_01.pop(0)
+
+    with open(vector_file_02, 'r') as f:
+        for c, r in enumerate(f):
+            sr = r.split()
+
+            # storing all the labels
+            labels_array_02.append(sr[0])
+
+            # storing all the vectors
+            numpy_array_02.append(np.array([float(i) for i in sr[1:]]))
+
+    labels_array_02.pop(0)
+    numpy_array_02.pop(0)
+
+    null_dict = {}
+
+    for i in range(len(labels_array_01)):
+        null_dict.update({labels_array_01[i]: numpy_array_01[i]})
+
+    real_dict = {}
+
+    for i in range(len(labels_array_02)):
+        real_dict.update({labels_array_02[i]: numpy_array_02[i]})
+
+    min_label = min(labels_array_01)
+    max_label = max(labels_array_01)
+
+    i = int(min_label)
+    m = int(max_label)
+
+    #print(null_dict)
+    # if '3573' in null_dict:
+    #print(null_dict[str(i)])
+    # f_cos_sim = open("cos_sim.csv", "w")
+    # f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
+    while i < m:
+
+        j = i + 1
+
+        while i < j <= m:
+
+            if str(i) in null_dict:
+                print(str(i) + "," + str(null_dict[str(i)]))
+
+                #f_cos_sim.write(str(i) + "," + str(j) + "," + )
+
+            j = j + 1
+
+        i = i + 1
 
 
-    labels_array.pop(0)
-    numpy_arrays.pop(0)
 
-    
+
+
 
 def build_word_vector_matrix(vector_file, n_words):
     #Return the vectors and labels for the first n_words in vector file
@@ -82,5 +137,7 @@ def build_word_vector_matrix(vector_file, n_words):
 
     print(end - start)
 
-build_word_vector_matrix('nodes.emb', 25)
+#build_word_vector_matrix('nodes.emb', 25)
+
+getting_vector_cosine_sim('nodes.emb', 'real_nodes.emb')
 

@@ -89,17 +89,40 @@
 #
 # print( [[row[i] for row in matrix] for i in range(3)] )
 
-import statistics
+# import statistics
+#
+# ar1 = [2, 3, 5, 8]
+# ar2 = [10, 12, 14, 16, 18, 20]
+#
+# ar3 = []
+#
+# for i in range(len(ar1)):
+#     ar3.append(ar1[i])
+#
+# for j in range(len(ar2)):
+#     ar3.append(ar2[j])
+#
+# print(statistics.median(ar3))
+# i = 7
+# m = 10
+#
+# while i < m:
+#
+#     j = i + 1
+#
+#     while i < j <= m:
+#
+#         print(i, j)
+#
+#         j = j + 1
+#
+#     i = i + 1
 
-ar1 = [2, 3, 5, 8]
-ar2 = [10, 12, 14, 16, 18, 20]
+#print([(x, y) for x in [1,2,3] for y in [3,1,4]])
 
-ar3 = []
+label = {}
 
-for i in range(len(ar1)):
-    ar3.append(ar1[i])
+label.update({1 : 111})
+label.update({2: 222})
 
-for j in range(len(ar2)):
-    ar3.append(ar2[j])
-
-print(statistics.median(ar3))
+print(label[1])
