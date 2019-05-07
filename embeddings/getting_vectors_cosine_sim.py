@@ -66,22 +66,30 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02):
     #print(null_dict)
     # if '3573' in null_dict:
     #print(null_dict[str(i)])
-    # f_cos_sim = open("cos_sim.csv", "w")
-    # f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
+    f_cos_sim = open("cos_sim.csv", "w")
+    f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
+
+    start = time.time()
     while i < m:
 
         j = i + 1
 
         while i < j <= m:
 
-            if str(i) in null_dict:
-                print(str(i) + "," + str(null_dict[str(i)]))
-
+            f_cos_sim.write(str(i) + "," + str(j) + ",")
+            if str(i) and str(j) in null_dict:
+                f_cos_sim.write(str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
+                #print(str(i) + "," + str(null_dict[str(i)]))
+                #print(str(i))
                 #f_cos_sim.write(str(i) + "," + str(j) + "," + )
 
             j = j + 1
 
         i = i + 1
+
+    end = time.time()
+
+    print(end - start)
 
 
 
@@ -118,20 +126,20 @@ def build_word_vector_matrix(vector_file, n_words):
 
     start = time.time()
     # calculating and storing cosine similarity between every node.
-    for i in range(len(numpy_arrays)):
-
-        for j in range(len(numpy_arrays)):
-
-            # removing same pairs of nodes.
-            if(labels_array[i] != labels_array[j]):
-
-                # keeping one pair from (i, j) and (j, i).    
-                if not (cos_similarity.__contains__(cos_sim(numpy_arrays[i], numpy_arrays[j]))):
-
-                    f_cos_sim.write(str(labels_array[i]) + "," + str(labels_array[j]) + "," +
-                                str(cos_sim(numpy_arrays[i], numpy_arrays[j])) + "\n")
-
-                cos_similarity.append(cos_sim(numpy_arrays[i], numpy_arrays[j]))
+    # for i in range(len(numpy_arrays)):
+    #
+    #     for j in range(len(numpy_arrays)):
+    #
+    #         # removing same pairs of nodes.
+    #         if(labels_array[i] != labels_array[j]):
+    #
+    #             # keeping one pair from (i, j) and (j, i).
+    #             if not (cos_similarity.__contains__(cos_sim(numpy_arrays[i], numpy_arrays[j]))):
+    #
+    #                 f_cos_sim.write(str(labels_array[i]) + "," + str(labels_array[j]) + "," +
+    #                             str(cos_sim(numpy_arrays[i], numpy_arrays[j])) + "\n")
+    #
+    #             cos_similarity.append(cos_sim(numpy_arrays[i], numpy_arrays[j]))
 
     end = time.time()
 
