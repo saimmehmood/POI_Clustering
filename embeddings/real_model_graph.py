@@ -7,10 +7,11 @@
 import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_cells_grid_25x25.csv')
+df = pd.read_csv('traj_as_cells_grid_111x111.csv')
 
 traj_id = df['traj_id']
 cell_id = df['cell_id']
+
 
 graph = nx.Graph()
 
@@ -21,11 +22,11 @@ for i in range(len(cell_id)):
 
 output = []
 
-# Keeping distinct traj id's. 
-# As one traj ids appears multiple times. 
-# This helps us in storing all the cell id's 
-# against a single traj id i.e., the cells through 
-# which trajectory has passed. 
+# Keeping distinct traj id's.
+# As one traj ids appears multiple times.
+# This helps us in storing all the cell id's
+# against a single traj id i.e., the cells through
+# which trajectory has passed.
 
 for x in traj_id:
     if x not in output:
@@ -34,7 +35,7 @@ for x in traj_id:
 
 temp = []
 
-# Making traj id and cell_id in order i.e., 
+# Making traj id and cell_id in order i.e.,
 # putting same traj id's and cells through which it has passed.
 
 for i in range(len(output)):

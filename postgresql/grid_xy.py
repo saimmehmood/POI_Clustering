@@ -67,7 +67,7 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 #        print("C" + str(row) + str(col) + ",\"[" + str(coor_01) + ", " + str(coor_02) + ", " + str(coor_03) + ", " + str(coor_04) + "]\"")
 
         # (grid_id, cell_no, coordinates)
-    	f.write(str(math.pow(2, grid_x) * math.pow(3, grid_y)) + ",C" + str(row) + ":" + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_04) + str(coor_03) + str(coor_01) + ")\"\n")
+    	f.write(str(grid_x * grid_y) + ",C" + str(row) + ":" + str(col) + ",\"POLYGON(" + str(coor_01) + str(coor_02) + str(coor_04) + str(coor_03) + str(coor_01) + ")\"\n")
     
     f.close()
 
@@ -75,11 +75,11 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     f.write("grid_id, x_dim, y_dim\n")
 
     # generating grid id by taking power of prime numbers.
-    f.write(str(math.pow(2, grid_x) * math.pow(3, grid_y)) + "," + str(grid_x) + "," + str(grid_y)) #(gird_id, rows, columns)
+    f.write(str(grid_x * grid_y) + "," + str(grid_x) + "," + str(grid_y)) #(gird_id, rows, columns)
     f.close()
 
 
 
-grid_trajectories(125, 125, 43.739829, -79.514102, 43.726355, -79.481279) # (no of rows, no of cols, lat1, long1, lat2, long2)
+grid_trajectories(50, 50, 43.739829, -79.514102, 43.726355, -79.481279) # (no of rows, no of cols, lat1, long1, lat2, long2)
 
 
