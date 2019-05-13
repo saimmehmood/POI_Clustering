@@ -9,9 +9,9 @@ _path = imp.load_source('path', '../distance/calculation.py')
    # return a path in formatted json file containing all import informations
 
    #parameter(s):
-             start - an 2-tuple coordinate represents the starting point
-             end - an 2- tuple coordinate represents the ending point
-             waypoints - an list of locations to be alternated while remaining on the same path to destination
+             start - a 2-tuple coordinate represents the starting point
+             end - a 2- tuple coordinate represents the ending point
+             waypoints - a list of locations to be alternated while remaining on the same path to destination
                        - there could be an empty list, which represents directed path from start to end
              traj_mode - a string that represents the path to travels by. i.e.: walking, driving, biking, transit 
              index - a number that represents the selective alternative paths to go 
