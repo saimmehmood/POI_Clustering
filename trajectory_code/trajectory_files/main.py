@@ -1,17 +1,20 @@
 import imp
 
-API_KEY = 'AIzaSyBM2EVG_35lLPzdAPgNJu7YFjRNvTwEA_E'
+API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 write = imp.load_source('writeFile', '../writeFiles/writeFile.py')
 
-coordinate = (43.73254, -79.30589)
+coordinate = (43.739829, -79.514102)
 #1000 trajectories without any waypoints
-waypoints = write.generate_Random_Waypoints(0, coordinate, 0.05, .5)
+waypoints = write.generate_Random_Waypoints(30, coordinate, 0.05, .5)
 
-coordinate_01 = (43.739829, -79.514102)
-coordinate_02 = (43.726355, -79.481279)
+for i in range(len(waypoints)):
+	print(waypoints[i])
 
-driving_trajectories = write.getTrajectory(API_KEY, 'driving', waypoints, 0.05, 200, 'random_200_driving_trajectories', coordinate_01, coordinate_02)
+# coordinate_01 = (43.739829, -79.514102)
+# coordinate_02 = (43.726355, -79.481279)
+
+# driving_trajectories = write.getTrajectory(API_KEY, 'driving', waypoints, 0.05, 200, 'random_200_driving_trajectories', coordinate_01, coordinate_02)
 
 #print(driving_trajectories)
 

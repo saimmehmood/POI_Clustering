@@ -20,9 +20,9 @@ def distanceLatLong(Lat1, Long1, Lat2, Long2):
 
     return _Earth_radius * _c
 
-#Find the destination coordinate
-#parameters MUST be in floating types
-#without the correct input type, the calculation will be inaccurate
+# Find the destination coordinate
+# parameters MUST be in floating types
+# without the correct input type, the calculation will be inaccurate
 def calculateDestination(lat, long, bearing, distance):
     lat_radian = math.radians(lat) 
     bearing_radian = math.radians(bearing)

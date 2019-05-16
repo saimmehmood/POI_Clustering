@@ -8,7 +8,7 @@ path = imp.load_source('path', '../trajectory/route.py')
 
 calculation = imp.load_source('calculation', '../distance/calculation.py')
 
-#create a list that store the VALID points around a specific coordinate
+# create a list that store the VALID points around a specific coordinate
 def VALID_points(lat, long, step, radius):
     generate_points = []
     
