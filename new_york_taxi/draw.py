@@ -52,10 +52,10 @@ for item in saved_col:
     y.clear()
 
 
-for i in range(50):
+for i in range(100):
 
-	#gmap.plot(list_of_lists_x[i], list_of_lists_y[i], 'red', edge_width=3)
-	gmap.heatmap(list_of_lists_x[i], list_of_lists_y[i])
+	gmap.plot(list_of_lists_x[i], list_of_lists_y[i], 'red', edge_width=3)
+	#gmap.heatmap(list_of_lists_x[i], list_of_lists_y[i])
 
 
 # gmap.plot(x, y, 'red', edge_width=3)
