@@ -93,7 +93,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		# storing POI detail with ID as a file name.
 		if str(data["place_id"]) in Id_of_places:
 			print(str(data["place_id"]))
-			with open('POI_datasets\\upper_manhattan\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+			with open('POI_datasets\\downtown_berlin\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 				json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
@@ -106,7 +106,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 YOUR_API_KEY = 'AIzaSyDpADSuP30VRsIDPMc6orgqjej-v2AIaBc'
 
 # (un-comment below function calling line to generate more data sets)
-#scanAreaForPOIs(40.827943, -73.950741, 40.812798, -73.936505, 0.001, YOUR_API_KEY)  # upper manhattan
+scanAreaForPOIs(52.517671, 13.377802, 52.510386, 13.402063, 0.001, YOUR_API_KEY)  # upper manhattan
 
 # This function calculates the distance between POIs and trajectories.
 def getPOIAroundTrajectory(route, threshold): # using Euclidean distances
