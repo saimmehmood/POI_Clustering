@@ -1,0 +1,110 @@
+{
+    "website": "http://humboldt-moot.de/", 
+    "rating": 3, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Der Humboldt Moot Club", 
+    "reference": "ChIJ59cSi9xRqEcRnUBHEpP_pu8", 
+    "geometry": {
+        "location": {
+            "lat": 52.51810769999999, 
+            "lng": 13.3936208
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5190827802915, 
+                "lng": 13.3950499802915
+            }, 
+            "southwest": {
+                "lat": 52.5163848197085, 
+                "lng": 13.3923520197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 6</span>, <span class=\"postal-code\">10099</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ59cSi9xRqEcRnUBHEpP_pu8", 
+    "international_phone_number": "+49 170 3455284", 
+    "plus_code": {
+        "global_code": "9F4MG99V+6C", 
+        "compound_code": "G99V+6C Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 3, 
+            "author_name": "\u0639\u0627\u0634\u0642 \u0627\u0644\u0638\u0644\u0627\u0645", 
+            "language": "ar", 
+            "text": "\u062c\u064a\u062f \u062c\u062f\u0627", 
+            "relative_time_description": "2 weeks ago", 
+            "author_url": "https://www.google.com/maps/contrib/103233991808397742134/reviews", 
+            "time": 1559856673, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-beUB7MaBpYE/AAAAAAAAAAI/AAAAAAAAAEw/6cEOx_7kvuY/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "0170 3455284", 
+    "url": "https://maps.google.com/?cid=17268770828330680477", 
+    "scope": "GOOGLE", 
+    "vicinity": "Unter den Linden 6, Berlin", 
+    "address_components": [
+        {
+            "long_name": "6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10099", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10099"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 6, 10099 Berlin, Germany", 
+    "id": "c19cf7855f0cef39aa8fba90de3bb09d5e84be78", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,88 @@
+{
+    "website": "http://www.eunic-berlin.eu/", 
+    "utc_offset": 120, 
+    "name": "EUNIC Berlin", 
+    "reference": "ChIJYXdFM9pRqEcRsw7mnZ2i9XI", 
+    "geometry": {
+        "location": {
+            "lat": 52.5143543, 
+            "lng": 13.3944141
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5156172302915, 
+                "lng": 13.3957784302915
+            }, 
+            "southwest": {
+                "lat": 52.5129192697085, 
+                "lng": 13.3930804697085
+            }
+        }
+    }, 
+    "adr_address": "10117, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJYXdFM9pRqEcRsw7mnZ2i9XI", 
+    "plus_code": {
+        "global_code": "9F4MG97V+PQ", 
+        "compound_code": "G97V+PQ Berlin, Germany"
+    }, 
+    "vicinity": "10117, Berlin", 
+    "url": "https://maps.google.com/?cid=8283705887460560563", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "10117", 
+            "types": [
+                "premise"
+            ], 
+            "short_name": "10117"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "10117, 10117 Berlin, Germany", 
+    "id": "31412af85a0551039f04eadea8a9e4eeb051c77e", 
+    "types": [
+        "embassy", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png"
+}

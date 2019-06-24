@@ -1,0 +1,96 @@
+{
+    "website": "http://www.m-und-k.de/", 
+    "utc_offset": 120, 
+    "name": "Marktforschung und Kommunikation M & K, Scheibe / Scheibe GbR c/o Regus", 
+    "reference": "ChIJX051etBRqEcROIoEHJ2gwuw", 
+    "geometry": {
+        "location": {
+            "lat": 52.51075179999999, 
+            "lng": 13.3894185
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5121091802915, 
+                "lng": 13.3909414302915
+            }, 
+            "southwest": {
+                "lat": 52.5094112197085, 
+                "lng": 13.3882434697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 191</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJX051etBRqEcROIoEHJ2gwuw", 
+    "international_phone_number": "+49 30 2061343", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+8Q", 
+        "compound_code": "G96Q+8Q Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 2061343", 
+    "url": "https://maps.google.com/?cid=17060374935073229368", 
+    "scope": "GOOGLE", 
+    "vicinity": "Friedrichstra\u00dfe 191, Berlin", 
+    "address_components": [
+        {
+            "long_name": "191", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "191"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 191, 10117 Berlin, Germany", 
+    "id": "d0ffbe04368e2ba3503eed9b4235b87fef7050d6", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

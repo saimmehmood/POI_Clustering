@@ -1,0 +1,110 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Frau MR Dr. med. Barbara Petereit", 
+    "reference": "ChIJhbaTftdRqEcRyVhfIGxgy9M", 
+    "geometry": {
+        "location": {
+            "lat": 52.51134, 
+            "lng": 13.39724
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125150302915, 
+                "lng": 13.3986169302915
+            }, 
+            "southwest": {
+                "lat": 52.5098170697085, 
+                "lng": 13.3959189697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 57</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJhbaTftdRqEcRyVhfIGxgy9M", 
+    "international_phone_number": "+49 30 2010055", 
+    "plus_code": {
+        "global_code": "9F4MG96W+GV", 
+        "compound_code": "G96W+GV Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3Prue6UoNY8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdACwGrGsO8LjrNj_sPjTFvbOwHAA/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Nadja Philipp", 
+            "text": "", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/117777085177675686315/reviews", 
+            "time": 1475496037
+        }
+    ], 
+    "formatted_phone_number": "030 2010055", 
+    "url": "https://maps.google.com/?cid=15261397779790911689", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 57, Berlin", 
+    "address_components": [
+        {
+            "long_name": "57", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "57"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 57, 10117 Berlin, Germany", 
+    "id": "b9ff79e05412facd07caadf80bb11e6c4262741c", 
+    "types": [
+        "doctor", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

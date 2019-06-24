@@ -1,0 +1,96 @@
+{
+    "website": "http://www.swisslife-weboffice.de/", 
+    "utc_offset": 120, 
+    "name": "Swiss Life AG", 
+    "reference": "ChIJ66MtqNBRqEcRaqxwS9B_NWM", 
+    "geometry": {
+        "location": {
+            "lat": 52.5117242, 
+            "lng": 13.3937509
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51306773029149, 
+                "lng": 13.3950061302915
+            }, 
+            "southwest": {
+                "lat": 52.5103697697085, 
+                "lng": 13.3923081697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Markgrafenstra\u00dfe 32</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ66MtqNBRqEcRaqxwS9B_NWM", 
+    "international_phone_number": "+49 385 488350", 
+    "plus_code": {
+        "global_code": "9F4MG96V+MG", 
+        "compound_code": "G96V+MG Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0385 488350", 
+    "url": "https://maps.google.com/?cid=7148760516116130922", 
+    "scope": "GOOGLE", 
+    "vicinity": "Markgrafenstra\u00dfe 32, Berlin", 
+    "address_components": [
+        {
+            "long_name": "32", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "32"
+        }, 
+        {
+            "long_name": "Markgrafenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Markgrafenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Markgrafenstra\u00dfe 32, 10117 Berlin, Germany", 
+    "id": "c640ca09a1e48cab9c42b590a8ce780ba7d30cb6", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

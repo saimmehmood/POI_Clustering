@@ -1,0 +1,87 @@
+{
+    "website": "http://rekordband.com/", 
+    "utc_offset": 120, 
+    "name": "Rekord", 
+    "reference": "ChIJEUETedpRqEcR6tm-I-c8j-8", 
+    "geometry": {
+        "location": {
+            "lat": 52.5122654, 
+            "lng": 13.3915329
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5136121802915, 
+                "lng": 13.3928572802915
+            }, 
+            "southwest": {
+                "lat": 52.5109142197085, 
+                "lng": 13.3901593197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJEUETedpRqEcR6tm-I-c8j-8", 
+    "plus_code": {
+        "global_code": "9F4MG96R+WJ", 
+        "compound_code": "G96R+WJ Berlin, Germany"
+    }, 
+    "vicinity": "Charlottenstra\u00dfe, Berlin", 
+    "url": "https://maps.google.com/?cid=17262082860169222634", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe, 10117 Berlin, Germany", 
+    "id": "4a89e5e1b0b114568ab1b754f45a3d46d6d6cf6f", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

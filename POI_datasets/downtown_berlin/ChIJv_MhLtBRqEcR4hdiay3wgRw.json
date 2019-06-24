@@ -1,0 +1,106 @@
+{
+    "rating": 4, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "SIXTI Car Club", 
+    "reference": "ChIJv_MhLtBRqEcR4hdiay3wgRw", 
+    "geometry": {
+        "location": {
+            "lat": 52.5104213, 
+            "lng": 13.3893694
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5117195802915, 
+                "lng": 13.3907269802915
+            }, 
+            "southwest": {
+                "lat": 52.50902161970851, 
+                "lng": 13.3880290197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 114</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJv_MhLtBRqEcR4hdiay3wgRw", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+5P", 
+        "compound_code": "G96Q+5P Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 114, Berlin", 
+    "reviews": [
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KoNvs_iRJj8/AAAAAAAAAAI/AAAAAAAADPE/JxuRhUcM02g/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "\ubcf5\uc9c0\ud601", 
+            "text": "", 
+            "relative_time_description": "3 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/111989334013605265446/reviews", 
+            "time": 1462123178
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=2054186982923442146", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "114", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "114"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 114, 10117 Berlin, Germany", 
+    "id": "f99e604f03b78f33a207b07eb88621b790580ba0", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

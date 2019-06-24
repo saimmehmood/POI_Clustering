@@ -1,0 +1,170 @@
+{
+    "website": "http://www.sushi-izumi.com/", 
+    "utc_offset": 120, 
+    "name": "AVIT GmbH", 
+    "reference": "ChIJS4cZa9BRqEcRzeJ_5rcUXKA", 
+    "geometry": {
+        "location": {
+            "lat": 52.5116306, 
+            "lng": 13.3890341
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5127648802915, 
+                "lng": 13.3904188302915
+            }, 
+            "southwest": {
+                "lat": 52.5100669197085, 
+                "lng": 13.3877208697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 66</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJS4cZa9BRqEcRzeJ_5rcUXKA", 
+    "international_phone_number": "+49 30 20649938", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+MJ", 
+        "compound_code": "G96Q+MJ Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20649938", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=11555133524004561613", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 10:00 PM", 
+            "Tuesday: 11:00 AM \u2013 10:00 PM", 
+            "Wednesday: 11:00 AM \u2013 10:00 PM", 
+            "Thursday: 11:00 AM \u2013 10:00 PM", 
+            "Friday: 11:00 AM \u2013 10:00 PM", 
+            "Saturday: 12:00 \u2013 10:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1100"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "2200"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "1200"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Kronenstra\u00dfe 66, Berlin", 
+    "address_components": [
+        {
+            "long_name": "66", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "66"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 66, 10117 Berlin, Germany", 
+    "id": "f2b875aa66a2674ddaf0a0ac33f3ca26883e3a36", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

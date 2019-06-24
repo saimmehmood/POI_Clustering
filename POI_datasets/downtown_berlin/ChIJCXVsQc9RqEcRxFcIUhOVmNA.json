@@ -1,0 +1,87 @@
+{
+    "utc_offset": 120, 
+    "name": "Gertrud-Kolmar-Stra\u00dfe 9", 
+    "reference": "ChIJCXVsQc9RqEcRxFcIUhOVmNA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51215679999999, 
+            "lng": 13.3808361
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5135057802915, 
+                "lng": 13.3821850302915
+            }, 
+            "southwest": {
+                "lat": 52.5108078197085, 
+                "lng": 13.3794870697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Gertrud-Kolmar-Stra\u00dfe 9</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJCXVsQc9RqEcRxFcIUhOVmNA", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Gertrud-Kolmar-Stra%C3%9Fe+9,+10117+Berlin,+Germany&ftid=0x47a851cf416c7509:0xd0989513520857c4", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "9", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "9"
+        }, 
+        {
+            "long_name": "Gertrud-Kolmar-Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Gertrud-Kolmar-Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Gertrud-Kolmar-Stra\u00dfe 9, 10117 Berlin, Germany", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

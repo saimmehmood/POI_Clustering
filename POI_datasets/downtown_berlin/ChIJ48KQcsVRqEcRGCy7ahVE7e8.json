@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Mauerstra\u00dfe 39-44", 
+    "reference": "ChIJ48KQcsVRqEcRGCy7ahVE7e8", 
+    "geometry": {
+        "location": {
+            "lat": 52.5140245, 
+            "lng": 13.3849219
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51537468029149, 
+                "lng": 13.3862804802915
+            }, 
+            "southwest": {
+                "lat": 52.51267671970849, 
+                "lng": 13.3835825197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mauerstra\u00dfe 39-44</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ48KQcsVRqEcRGCy7ahVE7e8", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Mauerstra%C3%9Fe+39-44,+10117+Berlin,+Germany&ftid=0x47a851c57290c2e3:0xefed44156abb2c18", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "39-44", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "39-44"
+        }, 
+        {
+            "long_name": "Mauerstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mauerstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mauerstra\u00dfe 39-44, 10117 Berlin, Germany", 
+    "id": "092899cc84ec77f0891a5bd0886ebb58d6bd07d4", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

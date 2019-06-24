@@ -1,0 +1,130 @@
+{
+    "website": "http://www.ikb.de/", 
+    "rating": 1, 
+    "utc_offset": 120, 
+    "user_ratings_total": 3, 
+    "name": "IKB Deutsche Industriebank AG", 
+    "reference": "ChIJZ48N2MUjZUERUXhIFBGCrT0", 
+    "geometry": {
+        "location": {
+            "lat": 52.5164504, 
+            "lng": 13.3909284
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51779373029149, 
+                "lng": 13.3921991802915
+            }, 
+            "southwest": {
+                "lat": 52.51509576970849, 
+                "lng": 13.3895012197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe 35/36</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJZ48N2MUjZUERUXhIFBGCrT0", 
+    "international_phone_number": "+49 30 310090", 
+    "plus_code": {
+        "global_code": "9F4MG98R+H9", 
+        "compound_code": "G98R+H9 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "c berl", 
+            "language": "de", 
+            "text": "Ziemlicher Mist.....\n\nAktie wurde delistet", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/112245883185376789175/reviews", 
+            "time": 1504848236, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-IXfJLCZ0JJM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdLqJIDPLwi8VfdROQE6MxQ3Zlx2g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1KEbKoWkFEI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdTuwPSwJYPy4z6BKrQbCKtyvE3rw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Berber. A.", 
+            "text": "", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/118338287903586907410/reviews", 
+            "time": 1553915636
+        }, 
+        {
+            "rating": 1, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iwKe3lVzy0k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rePuxdTa6i327BdOSTgsnVz4Q58nQ/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Anne Neumeyer", 
+            "text": "", 
+            "relative_time_description": "10 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/104363560406708171460/reviews", 
+            "time": 1534870355
+        }
+    ], 
+    "formatted_phone_number": "030 310090", 
+    "url": "https://maps.google.com/?cid=4444351417150896209", 
+    "scope": "GOOGLE", 
+    "vicinity": "Charlottenstra\u00dfe 35/36, Berlin", 
+    "address_components": [
+        {
+            "long_name": "35/36", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "35/36"
+        }, 
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe 35/36, 10117 Berlin, Germany", 
+    "id": "8aba32ce5959f4eef5f2617a18a3808388c4f19e", 
+    "types": [
+        "bank", 
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png"
+}

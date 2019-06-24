@@ -1,0 +1,87 @@
+{
+    "utc_offset": 120, 
+    "name": "Glinkastra\u00dfe 2-4", 
+    "reference": "ChIJXcATHtBRqEcRcSl9Yzlz0b4", 
+    "geometry": {
+        "location": {
+            "lat": 52.51147539999999, 
+            "lng": 13.3867191
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51282433029149, 
+                "lng": 13.3880680802915
+            }, 
+            "southwest": {
+                "lat": 52.51012636970849, 
+                "lng": 13.3853701197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Glinkastra\u00dfe 2-4</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJXcATHtBRqEcRcSl9Yzlz0b4", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Glinkastra%C3%9Fe+2-4,+10117+Berlin,+Germany&ftid=0x47a851d01e13c05d:0xbed17339637d2971", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "2-4", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2-4"
+        }, 
+        {
+            "long_name": "Glinkastra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Glinkastra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Glinkastra\u00dfe 2-4, 10117 Berlin, Germany", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

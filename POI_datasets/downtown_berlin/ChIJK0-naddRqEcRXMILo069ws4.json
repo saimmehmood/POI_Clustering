@@ -1,0 +1,96 @@
+{
+    "website": "http://www.evrointegra.de/", 
+    "utc_offset": 120, 
+    "name": "Evrointegra GmbH", 
+    "reference": "ChIJK0-naddRqEcRXMILo069ws4", 
+    "geometry": {
+        "location": {
+            "lat": 52.5102645, 
+            "lng": 13.3959482
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51188308029149, 
+                "lng": 13.3972473302915
+            }, 
+            "southwest": {
+                "lat": 52.5091851197085, 
+                "lng": 13.3945493697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 44</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJK0-naddRqEcRXMILo069ws4", 
+    "international_phone_number": "+49 179 1492283", 
+    "plus_code": {
+        "global_code": "9F4MG96W+49", 
+        "compound_code": "G96W+49 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0179 1492283", 
+    "url": "https://maps.google.com/?cid=14898678662735577692", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 44, Berlin", 
+    "address_components": [
+        {
+            "long_name": "44", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "44"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 44, 10117 Berlin, Germany", 
+    "id": "1a088bfd18fb0787657a33d8c4349ae506a41aef", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

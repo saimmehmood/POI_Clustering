@@ -1,0 +1,97 @@
+{
+    "website": "https://www.perfectskin-berlin.de/", 
+    "utc_offset": 120, 
+    "name": "My Perfect Skin - Spray Tan Studio - Berlin Mitte", 
+    "reference": "ChIJ022WHtBRqEcRhLxJvYW-vVU", 
+    "geometry": {
+        "location": {
+            "lat": 52.5114125, 
+            "lng": 13.386996
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5127541802915, 
+                "lng": 13.3882122802915
+            }, 
+            "southwest": {
+                "lat": 52.5100562197085, 
+                "lng": 13.3855143197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Glinkastra\u00dfe 2</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ022WHtBRqEcRhLxJvYW-vVU", 
+    "international_phone_number": "+49 176 51474575", 
+    "plus_code": {
+        "global_code": "9F4MG96P+HQ", 
+        "compound_code": "G96P+HQ Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0176 51474575", 
+    "url": "https://maps.google.com/?cid=6178303745437842564", 
+    "scope": "GOOGLE", 
+    "vicinity": "Glinkastra\u00dfe 2, Berlin", 
+    "address_components": [
+        {
+            "long_name": "2", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "2"
+        }, 
+        {
+            "long_name": "Glinkastra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Glinkastra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Glinkastra\u00dfe 2, 10117 Berlin, Germany", 
+    "id": "34407e99d01d1a460c8b3a56a190c8c8328801f9", 
+    "types": [
+        "beauty_salon", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

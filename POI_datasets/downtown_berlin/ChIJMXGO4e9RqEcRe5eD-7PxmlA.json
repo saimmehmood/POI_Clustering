@@ -1,0 +1,78 @@
+{
+    "website": "http://www.kiehls.de/", 
+    "utc_offset": 120, 
+    "name": "Kiehl's since 1851", 
+    "reference": "ChIJMXGO4e9RqEcRe5eD-7PxmlA", 
+    "geometry": {
+        "location": {
+            "lat": 52.5176254, 
+            "lng": 13.389605
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5189743802915, 
+                "lng": 13.3909539802915
+            }, 
+            "southwest": {
+                "lat": 52.5162764197085, 
+                "lng": 13.3882560197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 16</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJMXGO4e9RqEcRe5eD-7PxmlA", 
+    "plus_code": {
+        "global_code": "9F4MG99Q+3R", 
+        "compound_code": "G99Q+3R Berlin, Germany"
+    }, 
+    "vicinity": "Unter den Linden 16, Berlin", 
+    "url": "https://maps.google.com/?cid=5808220424768821115", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "16", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "16"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 16, 10117 Berlin, Germany", 
+    "id": "9940913c083c4f38312677cfd8d0cb8e51064ee3", 
+    "types": [
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "https://schlossplatz1.berlin/de/kontakt", 
+    "utc_offset": 120, 
+    "name": "Schlossplatz1", 
+    "reference": "ChIJl8-Xz9hRqEcR_13Y8mztebw", 
+    "geometry": {
+        "location": {
+            "lat": 52.5157068, 
+            "lng": 13.4014643
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5171912302915, 
+                "lng": 13.4027407802915
+            }, 
+            "southwest": {
+                "lat": 52.5144932697085, 
+                "lng": 13.4000428197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Schlo\u00dfpl. 1</span>, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJl8-Xz9hRqEcR_13Y8mztebw", 
+    "international_phone_number": "+49 30 212311217", 
+    "plus_code": {
+        "global_code": "9F4MGC82+7H", 
+        "compound_code": "GC82+7H Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 212311217", 
+    "url": "https://maps.google.com/?cid=13581147203498958335", 
+    "scope": "GOOGLE", 
+    "vicinity": "Schlo\u00dfplatz 1, Berlin", 
+    "address_components": [
+        {
+            "long_name": "1", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1"
+        }, 
+        {
+            "long_name": "Schlo\u00dfplatz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Schlo\u00dfpl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "Schlo\u00dfpl. 1, 10178 Berlin, Germany", 
+    "id": "f7f21b186ad7ce534496ebd8b6645a1e44bf457c", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

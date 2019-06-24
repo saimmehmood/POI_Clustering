@@ -1,0 +1,96 @@
+{
+    "website": "http://www.studioschwitalla.org/", 
+    "utc_offset": 120, 
+    "name": "Studio Schwitalla", 
+    "reference": "ChIJK6g8zM9RqEcRccEwgU7sw6A", 
+    "geometry": {
+        "location": {
+            "lat": 52.51036999999999, 
+            "lng": 13.38479
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5115573302915, 
+                "lng": 13.3861656302915
+            }, 
+            "southwest": {
+                "lat": 52.5088593697085, 
+                "lng": 13.3834676697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 119</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJK6g8zM9RqEcRccEwgU7sw6A", 
+    "international_phone_number": "+49 30 20624420", 
+    "plus_code": {
+        "global_code": "9F4MG96M+4W", 
+        "compound_code": "G96M+4W Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20624420", 
+    "url": "https://maps.google.com/?cid=11584362488446108017", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 119, Berlin", 
+    "address_components": [
+        {
+            "long_name": "119", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "119"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 119, 10117 Berlin, Germany", 
+    "id": "8b70c9a37abec7955d67a93dd57e989b7b596996", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

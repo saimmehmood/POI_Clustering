@@ -1,0 +1,128 @@
+{
+    "rating": 5, 
+    "reference": "ChIJZ1sAnB5OqEcR6WYMnuqZQss", 
+    "place_id": "ChIJZ1sAnB5OqEcR6WYMnuqZQss", 
+    "plus_code": {
+        "global_code": "9F4MG96X+X3", 
+        "compound_code": "G96X+X3 Berlin, Germany"
+    }, 
+    "url": "https://maps.google.com/?cid=14646438171115284201", 
+    "formatted_address": "Hausvogteipl. 12, 10117 Berlin, Germany", 
+    "id": "12326569ce2e8ae3e15169dfa087e0e30a3542f1", 
+    "vicinity": "Hausvogteiplatz 12, Berlin", 
+    "scope": "GOOGLE", 
+    "website": "http://www.tlg.de/", 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAtC4H_4TjUcKsogsZU_Ot8EupTbqi_bn_m1FQbeEt9PcdFhi_WSMIfvG4bcIzwaeMwbtpNd0M5IWgF4bSfCePooCUeAs3XZkM62ocuCJVNF_zvhlaY12A0k7GL83hcDdyEhCTf6eyAe2MyvOtNWHRa6JWGhRkH6H2V7kq08jBPOAKddmJcYfKdQ", 
+            "width": 2000, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113612253623954089642/photos\">TLG IMMOBILIEN AG - Niederlassung Nord</a>"
+            ], 
+            "height": 3008
+        }, 
+        {
+            "photo_reference": "CmRaAAAAjPi-9BE3uOAHMOpMBNYsHYuXgD2Cm8G5cr_89r6vElLlqN6vUfPglSr-IiszGNCKlUtjZXW-lHWLEmufBG1h8XLlXHb7GjnImEASk-o8s8VDaWth-q9FKnmwST6k6Y4IEhADy8XocXXM-Ey2cytyfcacGhSEeANuLrdxuTEqLyBMEovabAPgnQ", 
+            "width": 250, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113612253623954089642/photos\">TLG IMMOBILIEN AG - Niederlassung Nord</a>"
+            ], 
+            "height": 250
+        }
+    ], 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "TLG IMMOBILIEN AG - B\u00fcro Berlin", 
+    "geometry": {
+        "location": {
+            "lat": 52.51247900000001, 
+            "lng": 13.397677
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5140170302915, 
+                "lng": 13.3985443802915
+            }, 
+            "southwest": {
+                "lat": 52.5113190697085, 
+                "lng": 13.39584641970849
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Hausvogteipl. 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "international_phone_number": "+49 800 8540000", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jgONcLEVqiw/AAAAAAAAAAI/AAAAAAAAAAc/BsdGjrK_8Ko/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Patrick Sp.", 
+            "text": "", 
+            "relative_time_description": "11 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/115054488573192364148/reviews", 
+            "time": 1532794373
+        }
+    ], 
+    "formatted_phone_number": "0800 8540000", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Hausvogteiplatz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Hausvogteipl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ]
+}

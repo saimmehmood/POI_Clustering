@@ -1,0 +1,130 @@
+{
+    "website": "http://www.eatmanju.de/", 
+    "rating": 4.3, 
+    "utc_offset": 120, 
+    "user_ratings_total": 3, 
+    "name": "Manju", 
+    "reference": "ChIJXRJaxMtRqEcRV1rn72UWs_k", 
+    "geometry": {
+        "location": {
+            "lat": 52.5103672, 
+            "lng": 13.3808203
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51143923029149, 
+                "lng": 13.3823515802915
+            }, 
+            "southwest": {
+                "lat": 52.5087412697085, 
+                "lng": 13.3796536197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Pl. 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJXRJaxMtRqEcRV1rn72UWs_k", 
+    "plus_code": {
+        "global_code": "9F4MG96J+48", 
+        "compound_code": "G96J+48 Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Platz 12, Berlin", 
+    "reviews": [
+        {
+            "rating": 4, 
+            "author_name": "ahmad taresh", 
+            "language": "en", 
+            "text": "Very good Indian tasty food. Friendly staff. Good portion. Good price.", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/111218878638986598689/reviews", 
+            "time": 1553177715, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2LgYXfNEpvM/AAAAAAAAAAI/AAAAAAAAAC4/boQcIsCy438/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "Rumpel Stilzchen", 
+            "language": "en", 
+            "text": "for Indian fastfood about as good as it gets. delicious, spicy (if you like), sufficiently large portions. only drawback: no seating available, you have to look at a seat in the mall.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/110588904668007871546/reviews", 
+            "time": 1514832125, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-aFqhQWRIeLw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfMv75vR3AO2yVxCLiDW3D0QJut1Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "author_name": "C B", 
+            "language": "de", 
+            "text": "Leckeres indisches Essen. Jedoch wenig kundenfreundliches Personal und teure Preise. ", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/106287008826432270885/reviews", 
+            "time": 1498209118, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wjxwVJkHPNs/AAAAAAAAAAI/AAAAAAAAFL8/2PmBrvWkhFc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg"
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=17992749563347688023", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Leipziger Platz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Pl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Pl. 12, 10117 Berlin, Germany", 
+    "id": "030c4076f633a0206e11c31233f3af210ae98d9d", 
+    "types": [
+        "restaurant", 
+        "food", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+}

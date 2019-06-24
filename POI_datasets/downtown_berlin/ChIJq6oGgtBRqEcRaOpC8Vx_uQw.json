@@ -1,0 +1,103 @@
+{
+    "utc_offset": 120, 
+    "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0425\u0430\u0443\u0441", 
+    "reference": "ChIJq6oGgtBRqEcRaOpC8Vx_uQw", 
+    "geometry": {
+        "location": {
+            "lat": 52.51202250000001, 
+            "lng": 13.391286
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5133796302915, 
+                "lng": 13.3927936302915
+            }, 
+            "southwest": {
+                "lat": 52.5106816697085, 
+                "lng": 13.3900956697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe 60</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJq6oGgtBRqEcRaOpC8Vx_uQw", 
+    "plus_code": {
+        "global_code": "9F4MG96R+RG", 
+        "compound_code": "G96R+RG Berlin, Germany"
+    }, 
+    "vicinity": "Charlottenstra\u00dfe 60, Berlin", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAE1WTUW9pC7V1ZzhBW3hNF4pF0DwNAhVFbyY0AFnG0z_EKa-yD6MrbRWovjVKH6aQW0WqE6ZiFuXI7fTQokR538J7M2btgRCGoSpBmW4_TWWRa7WycKM8AhheZ0vcA8sfEhAv6coUk22mF_FFsSCZgxWuGhSSqTwKXviwhEP8r60ndrDdk381Vw", 
+            "width": 4608, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102663087596525982995/photos\">\u0424\u0451\u0434\u043e\u0440 \u0425\u0440\u0430\u043f\u0447\u0435\u043d\u043a\u043e\u0432</a>"
+            ], 
+            "height": 3456
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=916904036308019816", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "60", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "60"
+        }, 
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe 60, 10117 Berlin, Germany", 
+    "types": [
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

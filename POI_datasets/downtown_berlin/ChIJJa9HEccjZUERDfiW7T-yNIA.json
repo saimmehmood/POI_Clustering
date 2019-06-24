@@ -1,0 +1,97 @@
+{
+    "website": "http://www.waechterlaw.de/", 
+    "utc_offset": 120, 
+    "name": "W\u00e4chter Rechtsanw\u00e4lte Partnerschaft von Rechtsanw\u00e4lten", 
+    "reference": "ChIJJa9HEccjZUERDfiW7T-yNIA", 
+    "geometry": {
+        "location": {
+            "lat": 52.5133351, 
+            "lng": 13.397463
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5146193302915, 
+                "lng": 13.3987245302915
+            }, 
+            "southwest": {
+                "lat": 52.5119213697085, 
+                "lng": 13.3960265697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Oberwallstra\u00dfe 14</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJJa9HEccjZUERDfiW7T-yNIA", 
+    "international_phone_number": "+49 30 2029720", 
+    "plus_code": {
+        "global_code": "9F4MG97W+8X", 
+        "compound_code": "G97W+8X Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 2029720", 
+    "url": "https://maps.google.com/?cid=9238204723282507789", 
+    "scope": "GOOGLE", 
+    "vicinity": "Oberwallstra\u00dfe 14, Berlin", 
+    "address_components": [
+        {
+            "long_name": "14", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "14"
+        }, 
+        {
+            "long_name": "Oberwallstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Oberwallstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Oberwallstra\u00dfe 14, 10117 Berlin, Germany", 
+    "id": "1061db0f7634bb00bd0c779a7acbd00d6524eb07", 
+    "types": [
+        "lawyer", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

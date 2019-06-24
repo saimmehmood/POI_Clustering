@@ -1,0 +1,108 @@
+{
+    "website": "https://geldautomat.de/", 
+    "utc_offset": 120, 
+    "name": "Euronet - Geldautomat - ATM", 
+    "reference": "ChIJ-x5WhgVRqEcROwF9vyHx3HI", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAoo3FlWPQdkEtx0vJ-OcygGRY3Tt5JvB6rGGVm_q59wpWrwHgMXjiFXJIeNERpezPDA6kQ0ukJ2fPb3CYbLoS4qSC0HN3few8Oa6_ucAbBFx2x8XiRcZbro9pzzrAEVaNEhAT7F7jBq5abZ8OdHih0q3RGhRJ4nrh_kuRGujs_WlnYGZZLP6zgQ", 
+            "width": 500, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100912304050277779684/photos\">Euronet - Geldautomat - ATM</a>"
+            ], 
+            "height": 500
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 52.5103145, 
+            "lng": 13.3872896
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5116796802915, 
+                "lng": 13.3886808802915
+            }, 
+            "southwest": {
+                "lat": 52.5089817197085, 
+                "lng": 13.3859829197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mauerstra\u00dfe 68</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ-x5WhgVRqEcROwF9vyHx3HI", 
+    "international_phone_number": "+49 800 7245776", 
+    "plus_code": {
+        "global_code": "9F4MG96P+4W", 
+        "compound_code": "G96P+4W Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0800 7245776", 
+    "url": "https://maps.google.com/?cid=8276755342448984379", 
+    "vicinity": "Mauerstra\u00dfe 68, Berlin", 
+    "address_components": [
+        {
+            "long_name": "68", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "68"
+        }, 
+        {
+            "long_name": "Mauerstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mauerstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mauerstra\u00dfe 68, 10117 Berlin, Germany", 
+    "id": "4ce5be2560535e2fe7de571ff835d3d8a6d54bb1", 
+    "types": [
+        "atm", 
+        "bank", 
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png"
+}

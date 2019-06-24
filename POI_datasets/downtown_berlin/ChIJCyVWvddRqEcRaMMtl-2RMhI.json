@@ -1,0 +1,129 @@
+{
+    "rating": 5, 
+    "reference": "ChIJCyVWvddRqEcRaMMtl-2RMhI", 
+    "place_id": "ChIJCyVWvddRqEcRaMMtl-2RMhI", 
+    "plus_code": {
+        "global_code": "9F4MG95X+W9", 
+        "compound_code": "G95X+W9 Berlin, Germany"
+    }, 
+    "url": "https://maps.google.com/?cid=1311270891147871080", 
+    "formatted_address": "Krausenstra\u00dfe 38, 10117 Berlin, Germany", 
+    "id": "80e9d38912885650d3299ccca470b347441d522c", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: Open 24 hours", 
+            "Tuesday: Open 24 hours", 
+            "Wednesday: Open 24 hours", 
+            "Thursday: Open 24 hours", 
+            "Friday: Open 24 hours", 
+            "Saturday: Open 24 hours", 
+            "Sunday: Open 24 hours"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "open": {
+                    "day": 0, 
+                    "time": "0000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Krausenstra\u00dfe 38, Berlin", 
+    "scope": "GOOGLE", 
+    "website": "https://www.amazon.de/locker", 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "Amazon Locker - anja", 
+    "geometry": {
+        "location": {
+            "lat": 52.50985999999999, 
+            "lng": 13.3984513
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5112689802915, 
+                "lng": 13.3997918802915
+            }, 
+            "southwest": {
+                "lat": 52.5085710197085, 
+                "lng": 13.3970939197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Krausenstra\u00dfe 38</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "international_phone_number": "+49 800 3638469", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jr6FWBObLPQ/AAAAAAAAAAI/AAAAAAAAADI/E-2GaHSiVRo/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Kayse Love", 
+            "text": "", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/106955779547631599826/reviews", 
+            "time": 1552535408
+        }
+    ], 
+    "formatted_phone_number": "0800 3638469", 
+    "address_components": [
+        {
+            "long_name": "38", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "38"
+        }, 
+        {
+            "long_name": "Krausenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Krausenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ]
+}

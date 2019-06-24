@@ -1,0 +1,173 @@
+{
+    "website": "http://fashion4home.net/", 
+    "utc_offset": 120, 
+    "name": "Fashion For Home", 
+    "reference": "ChIJ20uVJNtRqEcRfa2eop-VRNI", 
+    "geometry": {
+        "location": {
+            "lat": 52.5155022, 
+            "lng": 13.3899504
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5169407302915, 
+                "lng": 13.3912807802915
+            }, 
+            "southwest": {
+                "lat": 52.5142427697085, 
+                "lng": 13.3885828197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Behrenstra\u00dfe 28</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ20uVJNtRqEcRfa2eop-VRNI", 
+    "international_phone_number": "+49 30 203899399", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+6X", 
+        "compound_code": "G98Q+6X Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 203899399", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=15151399559241837949", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM", 
+            "Tuesday: 8:00 AM \u2013 8:00 PM", 
+            "Wednesday: 8:00 AM \u2013 8:00 PM", 
+            "Thursday: 8:00 AM \u2013 8:00 PM", 
+            "Friday: 8:00 AM \u2013 8:00 PM", 
+            "Saturday: 9:00 AM \u2013 6:00 PM", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "2000"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Behrenstra\u00dfe 28, Berlin", 
+    "address_components": [
+        {
+            "long_name": "28", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "28"
+        }, 
+        {
+            "long_name": "Behrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Behrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Behrenstra\u00dfe 28, 10117 Berlin, Germany", 
+    "id": "c76f78355d3b0ce03cc633de6faeb02fbc9e5a0a", 
+    "types": [
+        "furniture_store", 
+        "home_goods_store", 
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

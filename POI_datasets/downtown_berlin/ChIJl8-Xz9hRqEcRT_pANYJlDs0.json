@@ -1,0 +1,82 @@
+{
+    "website": "http://epip2018.org/index.php/contact/", 
+    "utc_offset": 120, 
+    "name": "EPIP CONFERENCE 2018", 
+    "reference": "ChIJl8-Xz9hRqEcRT_pANYJlDs0", 
+    "geometry": {
+        "location": {
+            "lat": 52.5157068, 
+            "lng": 13.4014643
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5169511302915, 
+                "lng": 13.4029386802915
+            }, 
+            "southwest": {
+                "lat": 52.5142531697085, 
+                "lng": 13.4002407197085
+            }
+        }
+    }, 
+    "adr_address": "1 Schlo\u00dfplatz, Berlin 10178, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJl8-Xz9hRqEcRT_pANYJlDs0", 
+    "international_phone_number": "+49 30 212311035", 
+    "plus_code": {
+        "global_code": "9F4MGC82+7H", 
+        "compound_code": "GC82+7H Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 212311035", 
+    "url": "https://maps.google.com/?cid=14775859037362780751", 
+    "scope": "GOOGLE", 
+    "vicinity": "1 Schlo\u00dfplatz, Berlin 10178", 
+    "address_components": [
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "1 Schlo\u00dfplatz, Berlin 10178, 10178 Berlin, Germany", 
+    "id": "190226f9cf1eb11e2b14b4f6107b68aff520c8cf", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

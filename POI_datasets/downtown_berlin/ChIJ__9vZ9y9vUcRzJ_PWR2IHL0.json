@@ -1,0 +1,89 @@
+{
+    "website": "http://wetternweg.de/kontakt/", 
+    "utc_offset": 120, 
+    "name": "Wetternweg", 
+    "reference": "ChIJ__9vZ9y9vUcRzJ_PWR2IHL0", 
+    "geometry": {
+        "location": {
+            "lat": 52.5121704, 
+            "lng": 13.3830482
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5135106802915, 
+                "lng": 13.3843515802915
+            }, 
+            "southwest": {
+                "lat": 52.5108127197085, 
+                "lng": 13.3816536197085
+            }
+        }
+    }, 
+    "adr_address": "17, <span class=\"street-address\">Wilhelmstra\u00dfe</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ__9vZ9y9vUcRzJ_PWR2IHL0", 
+    "international_phone_number": "+49 1578 8692326", 
+    "plus_code": {
+        "global_code": "9F4MG96M+V6", 
+        "compound_code": "G96M+V6 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "01578 8692326", 
+    "url": "https://maps.google.com/?cid=13626916232158486476", 
+    "scope": "GOOGLE", 
+    "vicinity": "17, Wilhelmstra\u00dfe", 
+    "address_components": [
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilhelmstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "17, Wilhelmstra\u00dfe, 10117 Berlin, Germany", 
+    "id": "f6f4867fc756defe61ae6efee9a3203d1f90002a", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

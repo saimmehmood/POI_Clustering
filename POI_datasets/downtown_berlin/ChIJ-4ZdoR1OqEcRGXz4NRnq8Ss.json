@@ -1,0 +1,189 @@
+{
+    "website": "http://www.dynamopartners.com/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Dynamo Partners", 
+    "reference": "ChIJ-4ZdoR1OqEcRGXz4NRnq8Ss", 
+    "geometry": {
+        "location": {
+            "lat": 52.51130999999999, 
+            "lng": 13.388352
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125821302915, 
+                "lng": 13.3897137802915
+            }, 
+            "southwest": {
+                "lat": 52.5098841697085, 
+                "lng": 13.3870158197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 69</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ-4ZdoR1OqEcRGXz4NRnq8Ss", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+G8", 
+        "compound_code": "G96Q+G8 Berlin, Germany"
+    }, 
+    "vicinity": "Kronenstra\u00dfe 69, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KS0IqQi5JLE/AAAAAAAAAAI/AAAAAAAAAFk/Lspfp-US23k/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Oliver Laux", 
+            "text": "", 
+            "relative_time_description": "8 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/102054739772353170881/reviews", 
+            "time": 1539117310
+        }
+    ], 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAZoTfUgYKKBFFclEfA_jkoYMOcMq4TkG6XXIj9c4mWwy6Pb-F-X94Rf5PJRCEfA9y2qxx3r38LdojFCtEiXauE_7JufG3uGKPjBFh5vSkU_MNyHP0azICY0x6OyXq5koqEhCgEmHHdjwmnUZIGgtipP_HGhQAv8_0J5pu4RCLDzd9UT5BXVR4Gw", 
+            "width": 480, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117831492359737651588/photos\">Dynamo Partners</a>"
+            ], 
+            "height": 270
+        }, 
+        {
+            "photo_reference": "CmRaAAAA_hN0odJugaGtYQYwJcq0XlHfUYt5z7YlRTT8doItlEA8Ect1xAGEjrapVq2OZZlaP24IG-0142zx4lWDdMM4zkZ2idvPPnU7T2M1csP2pg_7EWug1rLIfNEhDwqQeLwlEhC8EWITLJkkuzAeu0CcmcfBGhTiiqpnVqZbdE3C5ig43W0UfLQ2dA", 
+            "width": 350, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117831492359737651588/photos\">Dynamo Partners</a>"
+            ], 
+            "height": 350
+        }
+    ], 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=3166569407018728473", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM", 
+            "Tuesday: 9:00 AM \u2013 6:00 PM", 
+            "Wednesday: 9:00 AM \u2013 6:00 PM", 
+            "Thursday: 9:00 AM \u2013 6:00 PM", 
+            "Friday: 9:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "address_components": [
+        {
+            "long_name": "69", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "69"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 69, 10117 Berlin, Germany", 
+    "id": "257917332b818835a25b01195b725c56cfe8593b", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

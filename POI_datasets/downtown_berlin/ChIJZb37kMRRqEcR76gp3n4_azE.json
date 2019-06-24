@@ -1,0 +1,94 @@
+{
+    "website": "https://kv-b.de/verein.html", 
+    "utc_offset": 120, 
+    "name": "Kindervereinigung e.V.", 
+    "reference": "ChIJZb37kMRRqEcR76gp3n4_azE", 
+    "geometry": {
+        "location": {
+            "lat": 52.51755989999999, 
+            "lng": 13.3868523
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51864843029149, 
+                "lng": 13.3882524802915
+            }, 
+            "southwest": {
+                "lat": 52.51595046970849, 
+                "lng": 13.3855545197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 36-38</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJZb37kMRRqEcR76gp3n4_azE", 
+    "plus_code": {
+        "global_code": "9F4MG99P+2P", 
+        "compound_code": "G99P+2P Berlin, Germany"
+    }, 
+    "vicinity": "Unter den Linden 36-38, Berlin", 
+    "url": "https://maps.google.com/?cid=3561009744492210415", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "36-38", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "36-38"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 36-38, 10117 Berlin, Germany", 
+    "id": "550cc0e9cd373f3772f004bc6e09b728d0a21a25", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

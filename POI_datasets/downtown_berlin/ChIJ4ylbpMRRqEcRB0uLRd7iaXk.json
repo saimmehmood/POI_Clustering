@@ -1,0 +1,89 @@
+{
+    "website": "http://www.telos-gmbh.com/en/contact-form.html", 
+    "utc_offset": 120, 
+    "name": "telos Arzt- und Krankenhausbedarf GmbH", 
+    "reference": "ChIJ4ylbpMRRqEcRB0uLRd7iaXk", 
+    "geometry": {
+        "location": {
+            "lat": 52.5173555, 
+            "lng": 13.3882477
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5185898302915, 
+                "lng": 13.3896167302915
+            }, 
+            "southwest": {
+                "lat": 52.5158918697085, 
+                "lng": 13.3869187697085
+            }
+        }
+    }, 
+    "adr_address": "26, <span class=\"street-address\">Unter den Linden</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ4ylbpMRRqEcRB0uLRd7iaXk", 
+    "international_phone_number": "+49 6036 97050", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+W7", 
+        "compound_code": "G98Q+W7 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "06036 97050", 
+    "url": "https://maps.google.com/?cid=8748773195421272839", 
+    "scope": "GOOGLE", 
+    "vicinity": "26, Unter den Linden, Berlin", 
+    "address_components": [
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "26, Unter den Linden, 10117 Berlin, Germany", 
+    "id": "79bab84a978e69052b9b89edda344d4376ca5baa", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

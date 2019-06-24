@@ -1,0 +1,108 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Annette Wilms Concept + Design", 
+    "reference": "ChIJa-2GCtlRqEcRFvps5hmi3mU", 
+    "geometry": {
+        "location": {
+            "lat": 52.51403999999999, 
+            "lng": 13.39779
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5154341802915, 
+                "lng": 13.3992834802915
+            }, 
+            "southwest": {
+                "lat": 52.5127362197085, 
+                "lng": 13.3965855197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Caroline-von-Humboldt-Weg 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJa-2GCtlRqEcRFvps5hmi3mU", 
+    "international_phone_number": "+49 30 44017464", 
+    "plus_code": {
+        "global_code": "9F4MG97X+J4", 
+        "compound_code": "G97X+J4 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-o1KwoIEVOAM/AAAAAAAAAAI/AAAAAAAAAyw/EzSfxnicWoI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "j efs", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/113236862926907623533/reviews", 
+            "time": 1505818315
+        }
+    ], 
+    "formatted_phone_number": "030 44017464", 
+    "url": "https://maps.google.com/?cid=7340482674784270870", 
+    "scope": "GOOGLE", 
+    "vicinity": "Caroline-von-Humboldt-Weg 12, Berlin", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Caroline-von-Humboldt-Weg", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Caroline-von-Humboldt-Weg"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Caroline-von-Humboldt-Weg 12, 10117 Berlin, Germany", 
+    "id": "dccef4b00a162f8d9589f8748499d2e222f685da", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

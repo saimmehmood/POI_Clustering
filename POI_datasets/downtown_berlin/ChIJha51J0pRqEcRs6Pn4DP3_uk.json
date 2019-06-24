@@ -1,0 +1,103 @@
+{
+    "utc_offset": 120, 
+    "name": "Sputnik-57", 
+    "reference": "ChIJha51J0pRqEcRs6Pn4DP3_uk", 
+    "geometry": {
+        "location": {
+            "lat": 52.51301729999999, 
+            "lng": 13.3881364
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51432173029149, 
+                "lng": 13.3894918802915
+            }, 
+            "southwest": {
+                "lat": 52.5116237697085, 
+                "lng": 13.3867939197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Taubenstra\u00dfe 42</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJha51J0pRqEcRs6Pn4DP3_uk", 
+    "plus_code": {
+        "global_code": "9F4MG97Q+67", 
+        "compound_code": "G97Q+67 Berlin, Germany"
+    }, 
+    "vicinity": "Taubenstra\u00dfe 42, Berlin", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAaDPKKiVl_RY8mMUVhDpFhOV9qCDeaY2ghwp_PKAXIllamIKxnChngpeuzbmPYDlBE6pjFd7KQRYvZCTx-RBgSXvvhXDyNdhS3SDUXog2QBGmlYX1SVuWKJBjBqWQwyXXEhCG__RCqL1XU-19gy-MzKryGhRMM5tlAbTsAS_wNFLOvhZ56mrwwg", 
+            "width": 5333, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110319660585324539294/photos\">Robert Sprotte</a>"
+            ], 
+            "height": 3000
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=16861185857110385587", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "42", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42"
+        }, 
+        {
+            "long_name": "Taubenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Taubenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Taubenstra\u00dfe 42, 10117 Berlin, Germany", 
+    "id": "283624b30e2bdeb492b4b3e9f90aa603a5fc17eb", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "https://klangraum-k.de/kontakt/", 
+    "utc_offset": 120, 
+    "name": "Klangraum K", 
+    "reference": "ChIJYUY5i9pRqEcRmOAy7KJT530", 
+    "geometry": {
+        "location": {
+            "lat": 52.513363, 
+            "lng": 13.3910945
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5147199302915, 
+                "lng": 13.3925673802915
+            }, 
+            "southwest": {
+                "lat": 52.5120219697085, 
+                "lng": 13.3898694197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe 56</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJYUY5i9pRqEcRmOAy7KJT530", 
+    "international_phone_number": "+49 30 20298715", 
+    "plus_code": {
+        "global_code": "9F4MG97R+8C", 
+        "compound_code": "G97R+8C Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20298715", 
+    "url": "https://maps.google.com/?cid=9072311933573718168", 
+    "scope": "GOOGLE", 
+    "vicinity": "Charlottenstra\u00dfe 56, Berlin", 
+    "address_components": [
+        {
+            "long_name": "56", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "56"
+        }, 
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe 56, 10117 Berlin, Germany", 
+    "id": "e38dfe4d51652ae42a7ea8c23e00353928a24063", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

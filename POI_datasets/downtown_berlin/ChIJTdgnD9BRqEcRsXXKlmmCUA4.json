@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Mohrenstra\u00dfe 58-61", 
+    "reference": "ChIJTdgnD9BRqEcRsXXKlmmCUA4", 
+    "geometry": {
+        "location": {
+            "lat": 52.512027, 
+            "lng": 13.3881042
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5133759802915, 
+                "lng": 13.3896518
+            }, 
+            "southwest": {
+                "lat": 52.51067801970851, 
+                "lng": 13.3865566
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mohrenstra\u00dfe 58-61</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJTdgnD9BRqEcRsXXKlmmCUA4", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Mohrenstra%C3%9Fe+58-61,+10117+Berlin,+Germany&ftid=0x47a851d00f27d84d:0xe50826996ca75b1", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "58-61", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "58-61"
+        }, 
+        {
+            "long_name": "Mohrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mohrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mohrenstra\u00dfe 58-61, 10117 Berlin, Germany", 
+    "id": "a90253e2b333c8487636ebb2253f8ac857daad20", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

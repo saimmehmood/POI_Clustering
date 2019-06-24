@@ -1,0 +1,120 @@
+{
+    "rating": 1, 
+    "reference": "ChIJUyHH6tlRqEcRa7ZzV21_Iw4", 
+    "place_id": "ChIJUyHH6tlRqEcRa7ZzV21_Iw4", 
+    "plus_code": {
+        "global_code": "9F4MG96W+WP", 
+        "compound_code": "G96W+WP Berlin, Germany"
+    }, 
+    "url": "https://maps.google.com/?cid=1018798048311228011", 
+    "formatted_address": "Hausvogteipl. 11, 10117 Berlin, Germany", 
+    "id": "1a7815357d99e565645483f899ffd6b11a17cee3", 
+    "vicinity": "Hausvogteiplatz 11, Berlin", 
+    "scope": "GOOGLE", 
+    "website": "http://www.initiative-hauptstadt.de/", 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAPQsPdU0xLqCMIr97JMt--98oiAwYmQ_wKiR9eHetz_wv6tnwKKak9p09KzKq66sdf7BGfyiKvo01SspsUK2axR7pLz2kXARvIyjOzzpOTLsHGte-iEij9IrntB0gHkwtEhB3QkSgcMUr2I2lw8rNUMzcGhRRIKvC2AIJSrmV8tsLlHX-4kZqkg", 
+            "width": 1000, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113428872766163565396/photos\">Initiative Hauptstadt Berlin e.V.</a>"
+            ], 
+            "height": 1000
+        }
+    ], 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "Initiative Hauptstadt Berlin e.V.", 
+    "geometry": {
+        "location": {
+            "lat": 52.5123705, 
+            "lng": 13.3968664
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51370928029149, 
+                "lng": 13.3980164802915
+            }, 
+            "southwest": {
+                "lat": 52.51101131970849, 
+                "lng": 13.3953185197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Hausvogteipl. 11</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "international_phone_number": "+49 30 6711016", 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "Mark J\u00e4ger", 
+            "language": "de", 
+            "text": "Geht's noch?: Der Vorsitzende dieses Vereins , CHRISTOPH WEGENER, bezeichnete die 'Tagesspiegel'-Serie \"Wem geh\u00f6rt Berlin\" als \"STASI-METHODE ZUR DENUNZIATION VON PRIVATBESITZ\". \n\nAbgesehen davon, dass Herr Wegener damit alle wirklichen Stasi-Opfer verh\u00f6hnt, stellt sich die Frage, ob das einfach nur dumm oder schon b\u00f6swillig ist - oder ob Herr Wegener \u00fcberhaupt wei\u00df, wovon er spricht. \n\nZu seinen Gunsten nehme ich gern Letzteres an. Jedenfalls w\u00e4re die \"Initiative Hauptstadt Berlin\" gut beraten, sich schnellstens von dieser Person zu trennen, wenn sie \u00fcberhaupt noch als ernstzunehmender Gespr\u00e4chspartner wahrgenommen werden m\u00f6chte.", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/102231524043744833256/reviews", 
+            "time": 1547554790, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JVR23rCE9Us/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfpjimeHaTmRM4XTcqLW6PSHXKQpA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 6711016", 
+    "address_components": [
+        {
+            "long_name": "11", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "11"
+        }, 
+        {
+            "long_name": "Hausvogteiplatz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Hausvogteipl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ]
+}

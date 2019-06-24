@@ -1,0 +1,94 @@
+{
+    "website": "http://www.bab-berlin.eu/", 
+    "utc_offset": 120, 
+    "name": "Elena Ilieva", 
+    "reference": "ChIJX1PmSddRqEcRb9GvwAWG9rY", 
+    "geometry": {
+        "location": {
+            "lat": 52.5101494, 
+            "lng": 13.3942917
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5117734802915, 
+                "lng": 13.3955857802915
+            }, 
+            "southwest": {
+                "lat": 52.5090755197085, 
+                "lng": 13.39288781970849
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 41</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJX1PmSddRqEcRb9GvwAWG9rY", 
+    "plus_code": {
+        "global_code": "9F4MG96V+3P", 
+        "compound_code": "G96V+3P Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 41, Berlin", 
+    "url": "https://maps.google.com/?cid=13183872318439412079", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "41", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "41"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 41, 10117 Berlin, Germany", 
+    "id": "724c52b1be2fa9cd3dd924d80539a53698c6f38e", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

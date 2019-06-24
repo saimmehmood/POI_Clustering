@@ -1,0 +1,84 @@
+{
+    "website": "http://www.quantbuilder.de/", 
+    "utc_offset": 120, 
+    "name": "Dr. Johannes Gomolka", 
+    "reference": "ChIJfwPx7ddRqEcRk7yXXVGTkh4", 
+    "geometry": {
+        "location": {
+            "lat": 52.510331, 
+            "lng": 13.4000161
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51155223029151, 
+                "lng": 13.4013864802915
+            }, 
+            "southwest": {
+                "lat": 52.50885426970851, 
+                "lng": 13.3986885197085
+            }
+        }
+    }, 
+    "adr_address": "Dr. Johannes Gomolka, <span class=\"street-address\">Leipziger Str. 49</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJfwPx7ddRqEcRk7yXXVGTkh4", 
+    "international_phone_number": "+49 30 20169548", 
+    "plus_code": {
+        "global_code": "9F4MGC62+42", 
+        "compound_code": "GC62+42 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20169548", 
+    "url": "https://maps.google.com/?cid=2202985145409453203", 
+    "scope": "GOOGLE", 
+    "vicinity": "Dr. Johannes Gomolka, Leipziger Str. 49, Berlin", 
+    "address_components": [
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Dr. Johannes Gomolka, Leipziger Str. 49, 10117 Berlin, Germany", 
+    "id": "6fa98af2500bf5a31ae02dc7f988d40b3bbd0bd6", 
+    "types": [
+        "bank", 
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

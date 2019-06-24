@@ -1,0 +1,94 @@
+{
+    "website": "http://www.meet-me-in-mitte.de/", 
+    "utc_offset": 120, 
+    "name": "Meet me in Mitte e.V. c/o Gabriele Wiechatzek Consulting", 
+    "reference": "ChIJYQZwOsVRqEcRdFyV4Rpo97Q", 
+    "geometry": {
+        "location": {
+            "lat": 52.51435629999999, 
+            "lng": 13.3870293
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51583913029149, 
+                "lng": 13.3883555802915
+            }, 
+            "southwest": {
+                "lat": 52.5131411697085, 
+                "lng": 13.3856576197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Franz\u00f6sische Stra\u00dfe 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJYQZwOsVRqEcRdFyV4Rpo97Q", 
+    "plus_code": {
+        "global_code": "9F4MG97P+PR", 
+        "compound_code": "G97P+PR Berlin, Germany"
+    }, 
+    "vicinity": "Franz\u00f6sische Stra\u00dfe 12, Berlin", 
+    "url": "https://maps.google.com/?cid=13040005710737661044", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Franz\u00f6sische Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Franz\u00f6sische Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Franz\u00f6sische Stra\u00dfe 12, 10117 Berlin, Germany", 
+    "id": "fadf3678eb08d764050384634c7a10e356f78754", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

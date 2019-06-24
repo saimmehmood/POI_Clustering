@@ -1,0 +1,96 @@
+{
+    "utc_offset": 120, 
+    "name": "SNPA Splash News and Picture Agency GmbH", 
+    "reference": "ChIJAQAQuttRqEcRNIrlDvtVUNw", 
+    "geometry": {
+        "location": {
+            "lat": 52.51519949999999, 
+            "lng": 13.3937289
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5164620802915, 
+                "lng": 13.3950575302915
+            }, 
+            "southwest": {
+                "lat": 52.5137641197085, 
+                "lng": 13.3923595697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Markgrafenstra\u00dfe 42</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJAQAQuttRqEcRNIrlDvtVUNw", 
+    "plus_code": {
+        "global_code": "9F4MG98V+3F", 
+        "compound_code": "G98V+3F Berlin, Germany"
+    }, 
+    "vicinity": "Markgrafenstra\u00dfe 42, Berlin", 
+    "url": "https://maps.google.com/?cid=15875283223256074804", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "42", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42"
+        }, 
+        {
+            "long_name": "Markgrafenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Markgrafenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Markgrafenstra\u00dfe 42, 10117 Berlin, Germany", 
+    "id": "e44ea93227870b574e95801576e9286453bad2fb", 
+    "types": [
+        "electronics_store", 
+        "home_goods_store", 
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

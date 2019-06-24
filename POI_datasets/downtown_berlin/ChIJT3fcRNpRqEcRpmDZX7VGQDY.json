@@ -1,0 +1,117 @@
+{
+    "website": "http://communaute-protestante-berlin.de/", 
+    "rating": 4.5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 2, 
+    "name": "Communaut\u00e9 protestante francophone de Berlin", 
+    "reference": "ChIJT3fcRNpRqEcRpmDZX7VGQDY", 
+    "geometry": {
+        "location": {
+            "lat": 52.5143518, 
+            "lng": 13.3917943
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51568733029151, 
+                "lng": 13.3928390802915
+            }, 
+            "southwest": {
+                "lat": 52.51298936970851, 
+                "lng": 13.3901411197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Gendarmenmarkt 6</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJT3fcRNpRqEcRpmDZX7VGQDY", 
+    "plus_code": {
+        "global_code": "9F4MG97R+PP", 
+        "compound_code": "G97R+PP Berlin, Germany"
+    }, 
+    "vicinity": "Gendarmenmarkt 6, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Terence Wong", 
+            "language": "en", 
+            "text": "This is the french church in berlin", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/108787234061321233342/reviews", 
+            "time": 1556114346, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-i5O2_EtbZBE/AAAAAAAAAAI/AAAAAAAAAZc/QMOLVkCslB0/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-mqW0AEbDCDU/AAAAAAAAAAI/AAAAAAAAFMk/QCk0KrTNJOA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg", 
+            "author_name": "My Flybaer68", 
+            "text": "", 
+            "relative_time_description": "8 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/100580600185063789107/reviews", 
+            "time": 1539731267
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=3909202221368696998", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6"
+        }, 
+        {
+            "long_name": "Gendarmenmarkt", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Gendarmenmarkt"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Gendarmenmarkt 6, 10117 Berlin, Germany", 
+    "id": "3b01cc6d0daabac3d056ffb05e34a228af1f760e", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

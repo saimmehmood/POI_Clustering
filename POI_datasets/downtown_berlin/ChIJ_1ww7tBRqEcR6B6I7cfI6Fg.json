@@ -1,0 +1,169 @@
+{
+    "utc_offset": 120, 
+    "name": "Repaio Reparaturservice", 
+    "reference": "ChIJ_1ww7tBRqEcR6B6I7cfI6Fg", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAv2R7ohBd9xrgp2vedMcqwHIbwO2sI37uiT6asfZG9BtIAa_0i9H4O2-9lHKdSbhfcXyKALjXEpGTpxTcITGUCM1Q334-Tozvd61ihLFkee2S6Ds4jJtWl7M0zdXUYQpuEhDDap0N5pj_uMwxer8xLTvxGhRUFHa7hiUnElJQJUYXKUTwqQzZdw", 
+            "width": 250, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109351753709801066925/photos\">Repaio Reparaturservice</a>"
+            ], 
+            "height": 250
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 52.51025310000001, 
+            "lng": 13.3909397
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5116845302915, 
+                "lng": 13.3922749802915
+            }, 
+            "southwest": {
+                "lat": 52.5089865697085, 
+                "lng": 13.3895770197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 31</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ_1ww7tBRqEcR6B6I7cfI6Fg", 
+    "international_phone_number": "+49 178 6010667", 
+    "plus_code": {
+        "global_code": "9F4MG96R+49", 
+        "compound_code": "G96R+49 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0178 6010667", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=6406591230943698664", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM", 
+            "Tuesday: 9:00 AM \u2013 6:00 PM", 
+            "Wednesday: 9:00 AM \u2013 6:00 PM", 
+            "Thursday: 9:00 AM \u2013 6:00 PM", 
+            "Friday: 9:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 31, Berlin", 
+    "address_components": [
+        {
+            "long_name": "31", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "31"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 31, 10117 Berlin, Germany", 
+    "id": "210f5678ed753d30c36eb0e6741fb0d00228546f", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

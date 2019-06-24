@@ -1,0 +1,180 @@
+{
+    "website": "http://www.deutsche-meeresforschung.de/de/", 
+    "utc_offset": 120, 
+    "name": "German Marine Research Consortium", 
+    "reference": "ChIJrwKkQNpRqEcR89wCrM-OI3w", 
+    "geometry": {
+        "location": {
+            "lat": 52.5135013, 
+            "lng": 13.393738
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5148369802915, 
+                "lng": 13.3948601802915
+            }, 
+            "southwest": {
+                "lat": 52.5121390197085, 
+                "lng": 13.3921622197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Markgrafenstra\u00dfe 37</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJrwKkQNpRqEcR89wCrM-OI3w", 
+    "international_phone_number": "+49 30 20074790", 
+    "plus_code": {
+        "global_code": "9F4MG97V+CF", 
+        "compound_code": "G97V+CF Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20074790", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=8945150307483180275", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM", 
+            "Tuesday: 10:00 AM \u2013 6:00 PM", 
+            "Wednesday: 10:00 AM \u2013 6:00 PM", 
+            "Thursday: 10:00 AM \u2013 6:00 PM", 
+            "Friday: 10:00 AM \u2013 6:00 PM", 
+            "Saturday: 10:00 AM \u2013 6:00 PM", 
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "1000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Markgrafenstra\u00dfe 37, Berlin", 
+    "address_components": [
+        {
+            "long_name": "37", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "37"
+        }, 
+        {
+            "long_name": "Markgrafenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Markgrafenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Markgrafenstra\u00dfe 37, 10117 Berlin, Germany", 
+    "id": "b05a272792546e851b819fe4d51c2056306a3703", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,109 @@
+{
+    "website": "http://www.xain.io/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "XAIN AG", 
+    "reference": "ChIJ0ViVmOVRqEcRT0EW0wQhPJY", 
+    "geometry": {
+        "location": {
+            "lat": 52.517245, 
+            "lng": 13.385913
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5184549302915, 
+                "lng": 13.3872907302915
+            }, 
+            "southwest": {
+                "lat": 52.5157569697085, 
+                "lng": 13.3845927697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 42</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ0ViVmOVRqEcRT0EW0wQhPJY", 
+    "international_phone_number": "+49 30 89631990", 
+    "plus_code": {
+        "global_code": "9F4MG98P+V9", 
+        "compound_code": "G98P+V9 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-K5Ul3xVOqrU/AAAAAAAAAAI/AAAAAAAAAnE/45NwG6J6Ukw/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Pawe\u0142 Biernacki", 
+            "text": "", 
+            "relative_time_description": "8 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/115112018199255040120/reviews", 
+            "time": 1540207070
+        }
+    ], 
+    "formatted_phone_number": "030 89631990", 
+    "url": "https://maps.google.com/?cid=10825563908896866639", 
+    "scope": "GOOGLE", 
+    "vicinity": "Unter den Linden 42, Berlin", 
+    "address_components": [
+        {
+            "long_name": "42", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 42, 10117 Berlin, Germany", 
+    "id": "414e0c47d830dd11130541b69f9a9a4c2e2a344f", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

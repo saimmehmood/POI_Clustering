@@ -1,0 +1,95 @@
+{
+    "website": "http://www.musikkindergarten-berlin.de/", 
+    "utc_offset": 120, 
+    "name": "Musikkindergarten Berlin e.V.", 
+    "reference": "ChIJ5-L71R1RqEcRGFjwRxAnq-c", 
+    "geometry": {
+        "location": {
+            "lat": 52.5101494, 
+            "lng": 13.3942917
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5117734802915, 
+                "lng": 13.3955857802915
+            }, 
+            "southwest": {
+                "lat": 52.5090755197085, 
+                "lng": 13.39288781970849
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 41</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ5-L71R1RqEcRGFjwRxAnq-c", 
+    "plus_code": {
+        "global_code": "9F4MG96V+3P", 
+        "compound_code": "G96V+3P Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 41, Berlin", 
+    "url": "https://maps.google.com/?cid=16693479394658768920", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "41", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "41"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Charlottenburg-Wilmersdorf", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Charlottenburg-Wilmersdorf"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 41, 10117 Berlin, Germany", 
+    "id": "456a7d221096d8248feb2b76c75aa79152fd4cd6", 
+    "types": [
+        "school", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

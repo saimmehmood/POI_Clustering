@@ -1,0 +1,146 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Bar 24/24 Automaten Caf\u00e9", 
+    "reference": "ChIJXcdPe9dRqEcRPKTTpcqxBF8", 
+    "geometry": {
+        "location": {
+            "lat": 52.5113953, 
+            "lng": 13.3972936
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51254453029149, 
+                "lng": 13.3986746802915
+            }, 
+            "southwest": {
+                "lat": 52.5098465697085, 
+                "lng": 13.3959767197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 58</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJXcdPe9dRqEcRPKTTpcqxBF8", 
+    "plus_code": {
+        "global_code": "9F4MG96W+HW", 
+        "compound_code": "G96W+HW Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 58, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "DDR Ferienlager", 
+            "language": "de", 
+            "text": "Ruhige Spielothek.  Ideal zum Abendessen verbringen mit Billard etc. In gemeinsamer runde.  Bin gern hier.", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/103778569015892335692/reviews", 
+            "time": 1555255357, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-swj9wuAoKxI/AAAAAAAAAAI/AAAAAAAAAEg/4aUZMt0b3FI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg"
+        }
+    ], 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAQIHxeLjJTAjsxZHA7np6hvUgZKVks-j7zwAe0UylL_Cp5AiBtnJ79w7BWcpaKn2bKUJ9blhdoNtynyFiX_kRJTjKbht2iC0B_A4UrMvaft7NPGiRGPhzs5Fe8GKipCSzEhA5EIN8A6MYLmv7E8iJwShGGhTrfNJNzUAJDPY2bL9pqRCHVWN7QQ", 
+            "width": 1536, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105797541038096131985/photos\">Jared Schweiger</a>"
+            ], 
+            "height": 2048
+        }, 
+        {
+            "photo_reference": "CmRaAAAAqyb_5g1VJ_AT4Fec5z7Q6igkXK2AL56SHmBBpKIhQjW2A13CG-wtcz4cWTdy6ZXa4U7gBeyl7dvxxLFMNmRf9QKjHH2oS4ZGo-QwX8HEqGYu6cjnh17Kh4Bo8M80fcmaEhDzcyacDyWYOe7FdX7hIqb4GhTu1hj2lvfdvdkDLLbROD1Bhk0-lA", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103242629197934107148/photos\">Jan K\u00f6hler</a>"
+            ], 
+            "height": 1366
+        }
+    ], 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=6846792817433617468", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: Open 24 hours", 
+            "Tuesday: Open 24 hours", 
+            "Wednesday: Open 24 hours", 
+            "Thursday: Open 24 hours", 
+            "Friday: Open 24 hours", 
+            "Saturday: Open 24 hours", 
+            "Sunday: Open 24 hours"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "open": {
+                    "day": 0, 
+                    "time": "0000"
+                }
+            }
+        ]
+    }, 
+    "address_components": [
+        {
+            "long_name": "58", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "58"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 58, 10117 Berlin, Germany", 
+    "id": "01851a8d9896fa78e8529dda1cb7a577af4eb454", 
+    "types": [
+        "bar", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png"
+}

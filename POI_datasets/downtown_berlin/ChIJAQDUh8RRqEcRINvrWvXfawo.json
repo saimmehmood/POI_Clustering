@@ -1,0 +1,110 @@
+{
+    "website": "https://www.kanam-grund.de/kontakt/beschwerdeformular/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "KanAm Grund", 
+    "reference": "ChIJAQDUh8RRqEcRINvrWvXfawo", 
+    "geometry": {
+        "location": {
+            "lat": 52.5174343, 
+            "lng": 13.3859139
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5185509302915, 
+                "lng": 13.3873093302915
+            }, 
+            "southwest": {
+                "lat": 52.5158529697085, 
+                "lng": 13.3846113697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 42</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJAQDUh8RRqEcRINvrWvXfawo", 
+    "international_phone_number": "+49 69 23881907", 
+    "plus_code": {
+        "global_code": "9F4MG98P+X9", 
+        "compound_code": "G98P+X9 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Gabriela Keinert", 
+            "language": "de", 
+            "text": "Habe mich heute anl\u00e4sslich eines Fonds-kongresses wieder \u00fcber die neuen Objekte im LCI informiert. Gute Objektauswahl und professionelles Management.", 
+            "relative_time_description": "8 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/100695865160298395995/reviews", 
+            "time": 1539686514, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-hESljudKSTA/AAAAAAAAAAI/AAAAAAAAAO4/9wc_1m-gix0/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "069 23881907", 
+    "url": "https://maps.google.com/?cid=750940007772707616", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "42", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 42, 10117 Berlin, Germany", 
+    "vicinity": "Unter den Linden 42, Berlin", 
+    "types": [
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

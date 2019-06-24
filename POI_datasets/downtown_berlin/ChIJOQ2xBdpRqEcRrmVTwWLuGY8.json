@@ -1,0 +1,159 @@
+{
+    "utc_offset": 120, 
+    "name": "Business Development Boris Schmidt", 
+    "reference": "ChIJOQ2xBdpRqEcRrmVTwWLuGY8", 
+    "geometry": {
+        "location": {
+            "lat": 52.51219, 
+            "lng": 13.39396
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5136264302915, 
+                "lng": 13.3952966802915
+            }, 
+            "southwest": {
+                "lat": 52.5109284697085, 
+                "lng": 13.3925987197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mohrenstra\u00dfe 32</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJOQ2xBdpRqEcRrmVTwWLuGY8", 
+    "international_phone_number": "+49 7152 7659255", 
+    "plus_code": {
+        "global_code": "9F4MG96V+VH", 
+        "compound_code": "G96V+VH Berlin, Germany"
+    }, 
+    "formatted_phone_number": "07152 7659255", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=10311534929759135150", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 4:00 PM", 
+            "Tuesday: 10:00 AM \u2013 4:00 PM", 
+            "Wednesday: 10:00 AM \u2013 4:00 PM", 
+            "Thursday: 10:00 AM \u2013 4:00 PM", 
+            "Friday: 10:00 AM \u2013 4:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Mohrenstra\u00dfe 32, Berlin", 
+    "address_components": [
+        {
+            "long_name": "32", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "32"
+        }, 
+        {
+            "long_name": "Mohrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mohrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mohrenstra\u00dfe 32, 10117 Berlin, Germany", 
+    "id": "ee50efb288543231eed7c93b6f5f6541052fa7a3", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

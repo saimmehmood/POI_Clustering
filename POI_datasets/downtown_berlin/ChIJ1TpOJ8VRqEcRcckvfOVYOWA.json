@@ -1,0 +1,124 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "n-tv Hauptstadtstudio", 
+    "reference": "ChIJ1TpOJ8VRqEcRcckvfOVYOWA", 
+    "geometry": {
+        "location": {
+            "lat": 52.5151997, 
+            "lng": 13.3870597
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5167047802915, 
+                "lng": 13.3883760802915
+            }, 
+            "southwest": {
+                "lat": 52.5140068197085, 
+                "lng": 13.3856781197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Behrenstra\u00dfe 19</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ1TpOJ8VRqEcRcckvfOVYOWA", 
+    "plus_code": {
+        "global_code": "9F4MG98P+3R", 
+        "compound_code": "G98P+3R Berlin, Germany"
+    }, 
+    "vicinity": "Behrenstra\u00dfe 19, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Andreas Meyer", 
+            "language": "de", 
+            "text": "Nette Leute drehe immer wieder gern mit Euch", 
+            "relative_time_description": "3 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/105330869086231598694/reviews", 
+            "time": 1551107703, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YIUXWYN1UVc/AAAAAAAAAAI/AAAAAAAAAbo/KOQKkHn9JNE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }
+    ], 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAA-xIca3QMjtUMQGDBjrobK0Nsj_F6pDb_mKYDrpJ3GSvO1lI5k84Cl62-VR0E85nZa5z9Dy4PE0Bznv-bhaguNd-S47O2kne4p5wyGDZg_2VRww7M1xy70Pt77UQ78xD4EhDGaBT680gvV3SujguFVLWrGhSQd0CrlnNZTi8iJ1_bkkYt_-YQIg", 
+            "width": 3024, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111203681873464146693/photos\">Joe F.</a>"
+            ], 
+            "height": 4032
+        }, 
+        {
+            "photo_reference": "CmRaAAAAj2PbLF1U5kFrOdSnkenKx8HPuL8jbj4nhHj3TsXi82KWhAcNh252xnZR7eFXWuBOKnl9KoJg8KPx08VlpVY_k4zK-nDy_O7HWKwxtqVPWh8EIvmOVIcIyLNfch89txMnEhD8mieQpnlqITFIa6lClSibGhQDC-GhzuxBRyibNF_myq15WG_qOA", 
+            "width": 2988, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111217688578943462649/photos\">PA M</a>"
+            ], 
+            "height": 5312
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=6933670843967850865", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "19", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "19"
+        }, 
+        {
+            "long_name": "Behrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Behrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Behrenstra\u00dfe 19, 10117 Berlin, Germany", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "http://www.bvleg.de/", 
+    "utc_offset": 120, 
+    "name": "Bundesvereinigung der Landes- und Stadtentwicklungsgesellschaften e.V.", 
+    "reference": "ChIJiy3Kw8UjZUERv4OkM5SIHFU", 
+    "geometry": {
+        "location": {
+            "lat": 52.51722199999999, 
+            "lng": 13.3861061
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51855928029149, 
+                "lng": 13.3872569302915
+            }, 
+            "southwest": {
+                "lat": 52.5158613197085, 
+                "lng": 13.3845589697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Axel-Springer-Stra\u00dfe 54B</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJiy3Kw8UjZUERv4OkM5SIHFU", 
+    "international_phone_number": "+49 30 755488920", 
+    "plus_code": {
+        "global_code": "9F4MG98P+VC", 
+        "compound_code": "G98P+VC Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 755488920", 
+    "url": "https://maps.google.com/?cid=6132926962674729919", 
+    "scope": "GOOGLE", 
+    "vicinity": "Axel-Springer-Stra\u00dfe 54B, Berlin", 
+    "address_components": [
+        {
+            "long_name": "54B", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "54B"
+        }, 
+        {
+            "long_name": "Axel-Springer-Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Axel-Springer-Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Axel-Springer-Stra\u00dfe 54B, 10117 Berlin, Germany", 
+    "id": "fedc67b01cee88bd163787ab461e27ff484bbef5", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

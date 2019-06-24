@@ -1,0 +1,120 @@
+{
+    "website": "https://www.cms.hu-berlin.de/de/impressum", 
+    "rating": 4.3, 
+    "utc_offset": 120, 
+    "user_ratings_total": 3, 
+    "name": "Humboldt-Universit\u00e4t zu Berlin - Computer- und Medienservice", 
+    "reference": "ChIJsWoBZnlRqEcR9v_wKIe7IVI", 
+    "geometry": {
+        "location": {
+            "lat": 52.517883, 
+            "lng": 13.3936551
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51896988029149, 
+                "lng": 13.3950603302915
+            }, 
+            "southwest": {
+                "lat": 52.51627191970849, 
+                "lng": 13.3923623697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden</span>, <span class=\"postal-code\">10099</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJsWoBZnlRqEcR9v_wKIe7IVI", 
+    "international_phone_number": "+49 30 209370010", 
+    "plus_code": {
+        "global_code": "9F4MG99V+5F", 
+        "compound_code": "G99V+5F Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lodpUEHyeJ4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reACCbyCRTWujHvb9BBeUQyjhIBXA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "egal nein", 
+            "text": "", 
+            "relative_time_description": "2 weeks ago", 
+            "author_url": "https://www.google.com/maps/contrib/105071332774924625401/reviews", 
+            "time": 1559647231
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ECKX8U7Yd9g/AAAAAAAAAAI/AAAAAAAAL7I/mS4bDfkr_hQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg", 
+            "author_name": "J\u00f6rg Henning", 
+            "text": "", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/107168379851396241894/reviews", 
+            "time": 1553978213
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-XzieI3BRCmk/AAAAAAAAAAI/AAAAAAAAACk/wfdqEZ8LpMo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "Marcus Noster", 
+            "text": "", 
+            "relative_time_description": "8 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/103675368226556729027/reviews", 
+            "time": 1540634065
+        }
+    ], 
+    "formatted_phone_number": "030 209370010", 
+    "url": "https://maps.google.com/?cid=5918217574523404278", 
+    "scope": "GOOGLE", 
+    "vicinity": "Unter den Linden, Berlin", 
+    "address_components": [
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10099", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10099"
+        }
+    ], 
+    "formatted_address": "Unter den Linden, 10099 Berlin, Germany", 
+    "id": "1e139ef831d35d3ca35f1372c476619ce137aa9e", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

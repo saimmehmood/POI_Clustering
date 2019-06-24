@@ -1,0 +1,186 @@
+{
+    "rating": 1, 
+    "reference": "ChIJbfmnb89RqEcRn2ruqIIBK9s", 
+    "place_id": "ChIJbfmnb89RqEcRn2ruqIIBK9s", 
+    "plus_code": {
+        "global_code": "9F4MG96J+WQ", 
+        "compound_code": "G96J+WQ Berlin, Germany"
+    }, 
+    "url": "https://maps.google.com/?cid=15792718178996349599", 
+    "formatted_address": "An der Kolonnade 4, 10117 Berlin, Germany", 
+    "id": "a363e83c60a72cf63ad264da6f922e2a95818f55", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 1:00 \u2013 7:00 PM", 
+            "Tuesday: 9:00 AM \u2013 2:00 PM", 
+            "Wednesday: 9:00 AM \u2013 2:00 PM", 
+            "Thursday: 1:00 \u2013 7:00 PM", 
+            "Friday: 9:00 AM \u2013 2:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1300"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1400"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1400"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1300"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1400"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "An der Kolonnade 4, Berlin", 
+    "scope": "GOOGLE", 
+    "website": "http://www.frauenarztnet.de/", 
+    "utc_offset": 120, 
+    "user_ratings_total": 2, 
+    "types": [
+        "doctor", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "Frau Dr. med. Barbara Schulz", 
+    "geometry": {
+        "location": {
+            "lat": 52.51231, 
+            "lng": 13.3819701
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5135482302915, 
+                "lng": 13.3833759302915
+            }, 
+            "southwest": {
+                "lat": 52.5108502697085, 
+                "lng": 13.3806779697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">An der Kolonnade 4</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "international_phone_number": "+49 30 2291083", 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "Nicole Koock", 
+            "language": "de", 
+            "text": "Sehr unfreundliches Personal (am Telefon). \nFrech, ungeduldig und nicht einen Hauch von Einf\u00fchlungsverm\u00f6gen.", 
+            "relative_time_description": "6 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/102404826165737407453/reviews", 
+            "time": 1543998464, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-S8TgUOIC0Ho/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfkZmUmVCQYlbO6f24NY9tsfoSUTA/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }, 
+        {
+            "rating": 1, 
+            "author_name": "Sisi Jaja", 
+            "language": "de", 
+            "text": "Sehr unfreundlich", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/110324149188297625708/reviews", 
+            "time": 1490899838, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-I0O-LnJe4TM/AAAAAAAAAAI/AAAAAAAAAKA/YhChahEK_6g/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 2291083", 
+    "address_components": [
+        {
+            "long_name": "4", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "4"
+        }, 
+        {
+            "long_name": "An der Kolonnade", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "An der Kolonnade"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ]
+}

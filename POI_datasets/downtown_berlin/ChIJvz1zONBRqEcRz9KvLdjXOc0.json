@@ -1,0 +1,97 @@
+{
+    "website": "http://gtvazot.de/", 
+    "utc_offset": 120, 
+    "name": "GTV Azot GmbH", 
+    "reference": "ChIJvz1zONBRqEcRz9KvLdjXOc0", 
+    "geometry": {
+        "location": {
+            "lat": 52.51035549999999, 
+            "lng": 13.384934
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5115543302915, 
+                "lng": 13.3863077302915
+            }, 
+            "southwest": {
+                "lat": 52.5088563697085, 
+                "lng": 13.3836097697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 114</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJvz1zONBRqEcRz9KvLdjXOc0", 
+    "international_phone_number": "+49 30 30007315", 
+    "plus_code": {
+        "global_code": "9F4MG96M+4X", 
+        "compound_code": "G96M+4X Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 30007315", 
+    "url": "https://maps.google.com/?cid=14788088174927139535", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 114, Berlin", 
+    "address_components": [
+        {
+            "long_name": "114", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "114"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 114, 10117 Berlin, Germany", 
+    "id": "2ed53328607c1ee31994589bcfd1740ea4d0843e", 
+    "types": [
+        "general_contractor", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

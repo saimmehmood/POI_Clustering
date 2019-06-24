@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Behrenstra\u00dfe 72", 
+    "reference": "ChIJt77hcsZRqEcRkmXC5Z6mbRE", 
+    "geometry": {
+        "location": {
+            "lat": 52.5148163, 
+            "lng": 13.379811
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5161659802915, 
+                "lng": 13.3811595802915
+            }, 
+            "southwest": {
+                "lat": 52.5134680197085, 
+                "lng": 13.3784616197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Behrenstra\u00dfe 72</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJt77hcsZRqEcRkmXC5Z6mbRE", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Behrenstra%C3%9Fe+72,+10117+Berlin,+Germany&ftid=0x47a851c672e1beb7:0x116da69ee5c26592", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "72", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "72"
+        }, 
+        {
+            "long_name": "Behrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Behrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Behrenstra\u00dfe 72, 10117 Berlin, Germany", 
+    "id": "1e6b47a0ce828d28d5cca7f45c3d94d517cd230e", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

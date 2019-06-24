@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Leipziger Pl. 13-14", 
+    "reference": "ChIJcyuQ0c5RqEcR4we-ZKwH9ag", 
+    "geometry": {
+        "location": {
+            "lat": 52.5102692, 
+            "lng": 13.3788529
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5115488302915, 
+                "lng": 13.3801643802915
+            }, 
+            "southwest": {
+                "lat": 52.5088508697085, 
+                "lng": 13.3774664197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Pl. 13-14</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJcyuQ0c5RqEcR4we-ZKwH9ag", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Leipziger+Pl.+13-14,+10117+Berlin,+Germany&ftid=0x47a851ced1902b73:0xa8f507ac64be07e3", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "13-14", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "13-14"
+        }, 
+        {
+            "long_name": "Leipziger Platz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Pl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Pl. 13-14, 10117 Berlin, Germany", 
+    "id": "f5fbed90671a3e2d459e1fe182b716a4a0404f32", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

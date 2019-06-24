@@ -1,0 +1,93 @@
+{
+    "utc_offset": 120, 
+    "name": "Titanik deluxe berlin", 
+    "reference": "ChIJW_ZFxNtRqEcROuzaAfKOVkc", 
+    "geometry": {
+        "location": {
+            "lat": 52.5152617, 
+            "lng": 13.3949028
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5166026302915, 
+                "lng": 13.3961033302915
+            }, 
+            "southwest": {
+                "lat": 52.5139046697085, 
+                "lng": 13.3934053697085
+            }
+        }
+    }, 
+    "adr_address": "10117, <span class=\"street-address\">Hedwigskirchgasse</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJW_ZFxNtRqEcROuzaAfKOVkc", 
+    "plus_code": {
+        "global_code": "9F4MG98V+4X", 
+        "compound_code": "G98V+4X Berlin, Germany"
+    }, 
+    "vicinity": "10117, Hedwigskirchgasse, Berlin", 
+    "url": "https://maps.google.com/?cid=5140453194754354234", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "10117", 
+            "types": [
+                "premise"
+            ], 
+            "short_name": "10117"
+        }, 
+        {
+            "long_name": "Hedwigskirchgasse", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Hedwigskirchgasse"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "10117, Hedwigskirchgasse, 10117 Berlin, Germany", 
+    "types": [
+        "lodging", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+}

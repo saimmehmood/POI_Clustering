@@ -1,0 +1,106 @@
+{
+    "utc_offset": 120, 
+    "name": "Berlin U-Bahn", 
+    "reference": "ChIJyRrwgsZRqEcRyW0pOE_WxtQ", 
+    "geometry": {
+        "location": {
+            "lat": 52.5164696, 
+            "lng": 13.381181
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5177870302915, 
+                "lng": 13.3825370802915
+            }, 
+            "southwest": {
+                "lat": 52.5150890697085, 
+                "lng": 13.3798391197085
+            }
+        }
+    }, 
+    "adr_address": "Mitte, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJyRrwgsZRqEcRyW0pOE_WxtQ", 
+    "plus_code": {
+        "global_code": "9F4MG98J+HF", 
+        "compound_code": "G98J+HF Berlin, Germany"
+    }, 
+    "vicinity": "Mitte", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAsSIRhPuSSDADxY_K1dvaq1j4mYtt8T1GGS-NdUHDaUh1h_8TaO56poVCqOCohKZSBwSbzx_S6v207KxDzTkc8OfLlS21CVMwD8EYiHb1cFJ7nuCdkHvpuDdeTd8ohQPPEhARCP2d_4tntu0GleENtzxBGhRaBs-Qs3wswuMqlivpEJ8LbFAUEg", 
+            "width": 4032, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102049205159844547645/photos\">Timo Sch\u00f6nwald</a>"
+            ], 
+            "height": 3024
+        }, 
+        {
+            "photo_reference": "CmRaAAAA3M0kHqbSvsMMFw4OPGeusoflxD1KG5yFREbcp5RVFXJ8XTmWDt12u0SjxGD9AcFngFZf93-oyRSRbOL2jWIOJqanHkFzbU_a8epI70aNZczBRALw22SLuFhxaf147d8lEhDliTV9yhYMW14lonBXVUxnGhRybugM-DNAS1IZ5iVStdm12kZ4rg", 
+            "width": 1024, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108803632173373518709/photos\">Julius Janke</a>"
+            ], 
+            "height": 1360
+        }, 
+        {
+            "photo_reference": "CmRaAAAAR4RNLDDd4wlX0a-5qUaAeiZtKj3JjDPgk6tBLU5z-7U4rzQyETEzGoXSiBYa1UnPg6oSw_tJItRPGrmpuCJ6e4QvGFQcmLT1iWGNlsyYE0qkBMpWjxyQJcT1RIYdTF7lEhDOzLTGpLZJMO2oVp6yhJfMGhR8CAi1q8HExJMoQvit8tZ-dQwRkQ", 
+            "width": 1024, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108803632173373518709/photos\">Julius Janke</a>"
+            ], 
+            "height": 1360
+        }
+    ], 
+    "url": "https://maps.google.com/?q=Mitte,+10117+Berlin,+Germany&ftid=0x47a851c682f01ac9:0xd4c6d64f38296dc9", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mitte, 10117 Berlin, Germany", 
+    "id": "db18108336020035c2fa175349c789668e44b2b0", 
+    "types": [
+        "premise", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png"
+}

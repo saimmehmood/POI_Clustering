@@ -1,0 +1,108 @@
+{
+    "website": "http://childrens-fund.de/", 
+    "rating": 2, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "International Children\u2019s Fund GmbH", 
+    "reference": "ChIJYQZwOsVRqEcRYIfKSf9mbQA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51435629999999, 
+            "lng": 13.3870293
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51583913029149, 
+                "lng": 13.3883555802915
+            }, 
+            "southwest": {
+                "lat": 52.5131411697085, 
+                "lng": 13.3856576197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Franz\u00f6sische Stra\u00dfe 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJYQZwOsVRqEcRYIfKSf9mbQA", 
+    "international_phone_number": "+49 30 20188596", 
+    "plus_code": {
+        "global_code": "9F4MG97P+PR", 
+        "compound_code": "G97P+PR Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 2, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MYQ-Md_5TIs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcP8eI1ZitIWpnwbcS5XwcX2bjY7A/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Eva Ansky", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/114946166637610149259/reviews", 
+            "time": 1511277068
+        }
+    ], 
+    "formatted_phone_number": "030 20188596", 
+    "url": "https://maps.google.com/?cid=30794019102164832", 
+    "vicinity": "Franz\u00f6sische Stra\u00dfe 12, Berlin", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Franz\u00f6sische Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Franz\u00f6sische Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Franz\u00f6sische Stra\u00dfe 12, 10117 Berlin, Germany", 
+    "id": "2e239b9142705c696a686b73e2489fe47964c246", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

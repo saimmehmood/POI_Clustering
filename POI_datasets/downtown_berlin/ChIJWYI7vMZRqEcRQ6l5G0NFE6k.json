@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "B2 64", 
+    "reference": "ChIJWYI7vMZRqEcRQ6l5G0NFE6k", 
+    "geometry": {
+        "location": {
+            "lat": 52.5175813, 
+            "lng": 13.3805155
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5189302302915, 
+                "lng": 13.3818633302915
+            }, 
+            "southwest": {
+                "lat": 52.5162322697085, 
+                "lng": 13.3791653697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">B2 64</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJWYI7vMZRqEcRQ6l5G0NFE6k", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=B2+64,+10117+Berlin,+Germany&ftid=0x47a851c6bc3b8259:0xa91345431b79a943", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "64", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "64"
+        }, 
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "B2"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "B2 64, 10117 Berlin, Germany", 
+    "id": "529008f0d120818457e135c57942c0a97687653d", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

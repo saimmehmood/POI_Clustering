@@ -1,0 +1,110 @@
+{
+    "rating": 1, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "SOWA CASA Berlin- Immobilienmanagement GmbH", 
+    "reference": "ChIJ-zVWNNpRqEcRWjU-qn7BinU", 
+    "geometry": {
+        "location": {
+            "lat": 52.5142611, 
+            "lng": 13.3940957
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5155596802915, 
+                "lng": 13.3954536302915
+            }, 
+            "southwest": {
+                "lat": 52.5128617197085, 
+                "lng": 13.3927556697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">J\u00e4gerstra\u00dfe 54-55</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ-zVWNNpRqEcRWjU-qn7BinU", 
+    "international_phone_number": "+49 30 887062022", 
+    "plus_code": {
+        "global_code": "9F4MG97V+PJ", 
+        "compound_code": "G97V+PJ Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 1, 
+            "author_name": "Christopher Allen", 
+            "language": "en", 
+            "text": "SOWA Casa are responsible for the maintenance of our building. They do not respond to letters and demos tarte poor customer service.", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/112605539894656481922/reviews", 
+            "time": 1509564666, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gJKdjIqszJg/AAAAAAAAAAI/AAAAAAAAABg/Bp4F_JuoEcU/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 887062022", 
+    "url": "https://maps.google.com/?cid=8469794798989882714", 
+    "scope": "GOOGLE", 
+    "vicinity": "J\u00e4gerstra\u00dfe 54-55, Berlin", 
+    "address_components": [
+        {
+            "long_name": "54-55", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "54-55"
+        }, 
+        {
+            "long_name": "J\u00e4gerstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "J\u00e4gerstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "J\u00e4gerstra\u00dfe 54-55, 10117 Berlin, Germany", 
+    "id": "0258b2bcb80b622b31f1660d97549a03e48a58e7", 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

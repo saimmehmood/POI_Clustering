@@ -1,0 +1,96 @@
+{
+    "utc_offset": 120, 
+    "name": "Vitaplus Gesellschaft f\u00fcr Management & Dienstleistungen mbH", 
+    "reference": "ChIJMU7wrMRRqEcRhyHo7ehWrjU", 
+    "geometry": {
+        "location": {
+            "lat": 52.5174076, 
+            "lng": 13.3893145
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5186465802915, 
+                "lng": 13.3906837802915
+            }, 
+            "southwest": {
+                "lat": 52.5159486197085, 
+                "lng": 13.3879858197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 16</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJMU7wrMRRqEcRhyHo7ehWrjU", 
+    "international_phone_number": "+49 30 408173224", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+XP", 
+        "compound_code": "G98Q+XP Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 408173224", 
+    "url": "https://maps.google.com/?cid=3868124688381649287", 
+    "scope": "GOOGLE", 
+    "vicinity": "Unter den Linden 16, Berlin", 
+    "address_components": [
+        {
+            "long_name": "16", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "16"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 16, 10117 Berlin, Germany", 
+    "id": "56c0a6306d58ed0c26c51d13357713eca3485200", 
+    "types": [
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

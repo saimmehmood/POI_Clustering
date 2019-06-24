@@ -1,0 +1,129 @@
+{
+    "website": "http://helios-hub.com/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 2, 
+    "name": "helios.hub", 
+    "reference": "ChIJGQxYesJRqEcRNOHAhTrPBTY", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAxfPZN2sYQRm-Sr5QnmvvtioxNPZpUqRrlI9XCKgBdEqihs2sA_9GD9kIeRUdEB3u1Tiw68SV8Uy9hJEA-0FbZ_R6yMcxQAZuXUqE8ad30YSRcPmWUziwzqKMrMEa35CkEhBH9yB6EMYVRSfZf3WmlQUmGhRWEsD5oYn--akNAsCId8f-cDVuog", 
+            "width": 4608, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102923780039328672407/photos\">Roy Grossman</a>"
+            ], 
+            "height": 3456
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 52.51123, 
+            "lng": 13.39547
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5124035802915, 
+                "lng": 13.3968528302915
+            }, 
+            "southwest": {
+                "lat": 52.50970561970851, 
+                "lng": 13.3941548697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 61a</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJGQxYesJRqEcRNOHAhTrPBTY", 
+    "international_phone_number": "+49 30 521321520", 
+    "plus_code": {
+        "global_code": "9F4MG96W+F5", 
+        "compound_code": "G96W+F5 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Roy Grossman", 
+            "language": "en", 
+            "text": "Cool place for meetups.", 
+            "relative_time_description": "a month ago", 
+            "author_url": "https://www.google.com/maps/contrib/102923780039328672407/reviews", 
+            "time": 1558676392, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-v4OS8dgfqyE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfY3_x8SG7iFn9nn9fgo2VITPBnDg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "author_name": "David Michael Grund", 
+            "language": "en", 
+            "text": "An impressive team of professionals in digital health", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/114634700484797535869/reviews", 
+            "time": 1547159534, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pEIP1eLVLic/AAAAAAAAAAI/AAAAAAAA94I/n0lhJuLCHNc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 521321520", 
+    "url": "https://maps.google.com/?cid=3892745303190724916", 
+    "vicinity": "Leipziger Stra\u00dfe 61a, Berlin", 
+    "address_components": [
+        {
+            "long_name": "61a", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "61a"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 61a, 10117 Berlin, Germany", 
+    "id": "432e3511c467ba2bf058568f032f5e016c30e792", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

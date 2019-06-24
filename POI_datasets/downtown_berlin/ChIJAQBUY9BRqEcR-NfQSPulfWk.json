@@ -1,0 +1,82 @@
+{
+    "website": "https://www.hanse-safe-brandenburg.de/kontakt.html", 
+    "utc_offset": 120, 
+    "name": "Hanse-Safe Brandenburg", 
+    "reference": "ChIJAQBUY9BRqEcR-NfQSPulfWk", 
+    "geometry": {
+        "location": {
+            "lat": 52.5114853, 
+            "lng": 13.390054
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5128240802915, 
+                "lng": 13.3912387302915
+            }, 
+            "southwest": {
+                "lat": 52.5101261197085, 
+                "lng": 13.3885407697085
+            }
+        }
+    }, 
+    "adr_address": "62 Friedrichstra\u00dfe, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJAQBUY9BRqEcR-NfQSPulfWk", 
+    "international_phone_number": "+49 177 2457620", 
+    "plus_code": {
+        "global_code": "9F4MG96R+H2", 
+        "compound_code": "G96R+H2 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0177 2457620", 
+    "url": "https://maps.google.com/?cid=7601414244748285944", 
+    "scope": "GOOGLE", 
+    "vicinity": "62 Friedrichstra\u00dfe", 
+    "address_components": [
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "62 Friedrichstra\u00dfe, 10117 Berlin, Germany", 
+    "id": "72cc6af38e81e991cb26cba8b0185e559576ed95", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

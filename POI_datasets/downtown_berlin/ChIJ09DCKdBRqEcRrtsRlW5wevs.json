@@ -1,0 +1,93 @@
+{
+    "utc_offset": 120, 
+    "name": "BOSS Baupartner UG", 
+    "reference": "ChIJ09DCKdBRqEcRrtsRlW5wevs", 
+    "geometry": {
+        "location": {
+            "lat": 52.5103529, 
+            "lng": 13.3861444
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5115885302915, 
+                "lng": 13.3875112302915
+            }, 
+            "southwest": {
+                "lat": 52.50889056970851, 
+                "lng": 13.3848132697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 115</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ09DCKdBRqEcRrtsRlW5wevs", 
+    "plus_code": {
+        "global_code": "9F4MG96P+4F", 
+        "compound_code": "G96P+4F Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 115, Berlin", 
+    "url": "https://maps.google.com/?cid=18120919670928300974", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "115", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "115"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 115, 10117 Berlin, Germany", 
+    "id": "a16a1ce8f638821b0b6cc2059e6a780a31173b9f", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

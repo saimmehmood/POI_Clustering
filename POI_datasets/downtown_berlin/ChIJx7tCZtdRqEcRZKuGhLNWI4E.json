@@ -1,0 +1,108 @@
+{
+    "website": "http://www.berliner-schloss.de/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Infocenter Berliner Schloss", 
+    "reference": "ChIJx7tCZtdRqEcRZKuGhLNWI4E", 
+    "geometry": {
+        "location": {
+            "lat": 52.51569749999999, 
+            "lng": 13.396762
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5168137302915, 
+                "lng": 13.3982074802915
+            }, 
+            "southwest": {
+                "lat": 52.5141157697085, 
+                "lng": 13.3955095197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Werderscher Markt 12</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJx7tCZtdRqEcRZKuGhLNWI4E", 
+    "plus_code": {
+        "global_code": "9F4MG98W+7P", 
+        "compound_code": "G98W+7P Berlin, Germany"
+    }, 
+    "vicinity": "Werderscher Markt 12, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Monika S", 
+            "language": "de", 
+            "text": "Nach Abbau der Humboldt-Box neu: Infocenter Berliner Schloss nun am Werderschen Markt 12, 10117 Berlin, schr\u00e4g gegen\u00fcber dem Ausw\u00e4rtigen Amt, neben der Friedrichswerderschen Kirche. Der F\u00f6rderverein Berliner Schloss pr\u00e4sentiert hier gro\u00dfartige Filme \u00fcber das Stadtschloss, man kann zum Beispiel virtuell durch die R\u00e4ume zur Zeit von Schl\u00fcter und des Barock gehen, ein gro\u00dfes Stadtmodell hilft beim Orientieren, freundliche Ehrenamtliche geben kundige Auskunft, es gibt viel zu sehen, zu staunen und zu erleben. Wer mag, kann gerne spenden.", 
+            "relative_time_description": "a month ago", 
+            "author_url": "https://www.google.com/maps/contrib/107841479576570958324/reviews", 
+            "time": 1558213105, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-yGUyCBxNmGw/AAAAAAAAAAI/AAAAAAAAAL4/ta10nhGjVtg/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg"
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=9305376584100129636", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "12", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "12"
+        }, 
+        {
+            "long_name": "Werderscher Markt", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Werderscher Markt"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Werderscher Markt 12, 10117 Berlin, Germany", 
+    "id": "c658d536967b963b16c85ec06387fe63eea4af19", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,110 @@
+{
+    "website": "http://www.fgs.de/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "FGS", 
+    "reference": "ChIJq0zwAuVRqEcRnW2tZLalV3I", 
+    "geometry": {
+        "location": {
+            "lat": 52.5173962, 
+            "lng": 13.3904395
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5186777302915, 
+                "lng": 13.3917959302915
+            }, 
+            "southwest": {
+                "lat": 52.5159797697085, 
+                "lng": 13.3890979697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 10</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJq0zwAuVRqEcRnW2tZLalV3I", 
+    "international_phone_number": "+49 30 21002020", 
+    "plus_code": {
+        "global_code": "9F4MG98R+X5", 
+        "compound_code": "G98R+X5 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Janis szisch", 
+            "language": "de", 
+            "text": "Kompetent, praktisch, gut!", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/113426789692726310891/reviews", 
+            "time": 1554115922, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/--LrucuVzhzk/AAAAAAAAAAI/AAAAAAAAAFI/5IYHim-gRGQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 21002020", 
+    "url": "https://maps.google.com/?cid=8239236246089330077", 
+    "scope": "GOOGLE", 
+    "vicinity": "Unter den Linden 10, Berlin", 
+    "address_components": [
+        {
+            "long_name": "10", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "10"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 10, 10117 Berlin, Germany", 
+    "id": "f5f62d70ea254823eac7f098ac22b137df278a50", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

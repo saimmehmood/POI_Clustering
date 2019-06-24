@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Kronenstra\u00dfe 31-38", 
+    "reference": "ChIJt0jbV9dRqEcRXNWLKFTSv9U", 
+    "geometry": {
+        "location": {
+            "lat": 52.511576, 
+            "lng": 13.3952023
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51292558029151, 
+                "lng": 13.39656175
+            }, 
+            "southwest": {
+                "lat": 52.51022761970851, 
+                "lng": 13.39384275
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 31-38</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJt0jbV9dRqEcRXNWLKFTSv9U", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Kronenstra%C3%9Fe+31-38,+10117+Berlin,+Germany&ftid=0x47a851d757db48b7:0xd5bfd254288bd55c", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "31-38", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "31-38"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 31-38, 10117 Berlin, Germany", 
+    "id": "2efd910e58b0de3bd53b23c3d5311b67b76f7052", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "http://www.aureliusweber.com/179-2/", 
+    "utc_offset": 120, 
+    "name": "Aurelius Weber", 
+    "reference": "ChIJm7gkXtdRqEcRjS7rWKM7alw", 
+    "geometry": {
+        "location": {
+            "lat": 52.51125709999999, 
+            "lng": 13.3961423
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5124390302915, 
+                "lng": 13.3975216802915
+            }, 
+            "southwest": {
+                "lat": 52.5097410697085, 
+                "lng": 13.3948237197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 60</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJm7gkXtdRqEcRjS7rWKM7alw", 
+    "international_phone_number": "+49 176 38640723", 
+    "plus_code": {
+        "global_code": "9F4MG96W+GF", 
+        "compound_code": "G96W+GF Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0176 38640723", 
+    "url": "https://maps.google.com/?cid=6659200571778215565", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 60, Berlin", 
+    "address_components": [
+        {
+            "long_name": "60", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "60"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 60, 10117 Berlin, Germany", 
+    "id": "8afec77373ad7287c33389b1d67d23a64f29432c", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

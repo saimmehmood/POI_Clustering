@@ -1,0 +1,95 @@
+{
+    "utc_offset": 120, 
+    "name": "Muditax Gesellschaft f\u00fcr Methodik und Innovation mbH", 
+    "reference": "ChIJGx6kLNtRqEcRdPhHAtcgmqU", 
+    "geometry": {
+        "location": {
+            "lat": 52.5154213, 
+            "lng": 13.3886637
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51677798029149, 
+                "lng": 13.3901938802915
+            }, 
+            "southwest": {
+                "lat": 52.51408001970849, 
+                "lng": 13.3874959197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 165</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJGx6kLNtRqEcRdPhHAtcgmqU", 
+    "international_phone_number": "+49 4792 952390", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+5F", 
+        "compound_code": "G98Q+5F Berlin, Germany"
+    }, 
+    "formatted_phone_number": "04792 952390", 
+    "url": "https://maps.google.com/?cid=11932886270499879028", 
+    "scope": "GOOGLE", 
+    "vicinity": "Friedrichstra\u00dfe 165, Berlin", 
+    "address_components": [
+        {
+            "long_name": "165", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "165"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 165, 10117 Berlin, Germany", 
+    "id": "0b2c31b4dc88cd511cd6e4c570cac8bdcd682464", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

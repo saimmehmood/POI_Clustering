@@ -1,0 +1,95 @@
+{
+    "utc_offset": 120, 
+    "name": "Gate Sauna", 
+    "reference": "ChIJEa7Ud89RqEcR-X_60DdeYcs", 
+    "geometry": {
+        "location": {
+            "lat": 52.51214119999999, 
+            "lng": 13.3830674
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5134996302915, 
+                "lng": 13.3844657302915
+            }, 
+            "southwest": {
+                "lat": 52.5108016697085, 
+                "lng": 13.3817677697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Wilhelmstra\u00dfe 81</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJEa7Ud89RqEcR-X_60DdeYcs", 
+    "plus_code": {
+        "global_code": "9F4MG96M+V6", 
+        "compound_code": "G96M+V6 Berlin, Germany"
+    }, 
+    "vicinity": "Wilhelmstra\u00dfe 81, Berlin", 
+    "url": "https://maps.google.com/?cid=14655098256262594553", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "81", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "81"
+        }, 
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilhelmstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Wilhelmstra\u00dfe 81, 10117 Berlin, Germany", 
+    "id": "6fcc1690bd4052f4b12f9e377e40dc7271e3e443", 
+    "types": [
+        "spa", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

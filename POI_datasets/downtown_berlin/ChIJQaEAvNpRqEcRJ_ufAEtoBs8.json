@@ -1,0 +1,96 @@
+{
+    "website": "http://www.glinka-gesellschaft.de/kontakt.html", 
+    "utc_offset": 120, 
+    "name": "Glinka-Gesellschaft Berlin eV", 
+    "reference": "ChIJQaEAvNpRqEcRJ_ufAEtoBs8", 
+    "geometry": {
+        "location": {
+            "lat": 52.5134002, 
+            "lng": 13.3886161
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5147717802915, 
+                "lng": 13.3903585802915
+            }, 
+            "southwest": {
+                "lat": 52.5120738197085, 
+                "lng": 13.3876606197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 176-179</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJQaEAvNpRqEcRJ_ufAEtoBs8", 
+    "international_phone_number": "+49 177 2091564", 
+    "plus_code": {
+        "global_code": "9F4MG97Q+9C", 
+        "compound_code": "G97Q+9C Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0177 2091564", 
+    "url": "https://maps.google.com/?cid=14917725487053667111", 
+    "scope": "GOOGLE", 
+    "vicinity": "Friedrichstra\u00dfe 176-179, Berlin", 
+    "address_components": [
+        {
+            "long_name": "176-179", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "176-179"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 176-179, 10117 Berlin, Germany", 
+    "id": "96bb925fbec6afc550af830e76364fd332f52bb9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

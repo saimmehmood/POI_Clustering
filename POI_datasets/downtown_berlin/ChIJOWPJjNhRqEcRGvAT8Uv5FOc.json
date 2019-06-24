@@ -1,0 +1,87 @@
+{
+    "utc_offset": 120, 
+    "name": "Friedrichsgracht 58", 
+    "reference": "ChIJOWPJjNhRqEcRGvAT8Uv5FOc", 
+    "geometry": {
+        "location": {
+            "lat": 52.51403740000001, 
+            "lng": 13.40145149999999
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51538823029149, 
+                "lng": 13.4028123302915
+            }, 
+            "southwest": {
+                "lat": 52.51269026970849, 
+                "lng": 13.4001143697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichsgracht 58</span>, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJOWPJjNhRqEcRGvAT8Uv5FOc", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Friedrichsgracht+58,+10178+Berlin,+Germany&ftid=0x47a851d88cc96339:0xe714f94bf113f01a", 
+    "address_components": [
+        {
+            "long_name": "58", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "58"
+        }, 
+        {
+            "long_name": "Friedrichsgracht", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichsgracht"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "Friedrichsgracht 58, 10178 Berlin, Germany", 
+    "id": "8a08ce97482158f2270663e0ac0f98f3d9a30091", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

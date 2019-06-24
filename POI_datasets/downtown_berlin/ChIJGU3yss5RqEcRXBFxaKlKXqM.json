@@ -1,0 +1,119 @@
+{
+    "website": "http://www.atokubik.de/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 2, 
+    "name": "ato Kubik GmbH", 
+    "reference": "ChIJGU3yss5RqEcRXBFxaKlKXqM", 
+    "geometry": {
+        "location": {
+            "lat": 52.5155283, 
+            "lng": 13.3900135
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5169563802915, 
+                "lng": 13.3913460802915
+            }, 
+            "southwest": {
+                "lat": 52.5142584197085, 
+                "lng": 13.3886481197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Behrenstra\u00dfe 28</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJGU3yss5RqEcRXBFxaKlKXqM", 
+    "international_phone_number": "+49 30 40004637", 
+    "plus_code": {
+        "global_code": "9F4MG98R+62", 
+        "compound_code": "G98R+62 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Holger Will", 
+            "language": "de", 
+            "text": "Top! Bin mit der Zusammenarbeit und den Ergebnissen sehr zufrieden. Au\u00dfergew\u00f6hnlich gute Erfahrung, was ich nicht von vielen Unternehmensberater sagen kann. 100%ige Empfehlungen!", 
+            "relative_time_description": "6 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/117736893064533236620/reviews", 
+            "time": 1545195034, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WRP-fOYrk6I/AAAAAAAAAAI/AAAAAAABzbE/DuKJS5P2cNA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5c04g_wNusA/AAAAAAAAAAI/AAAAAAADp2w/uoaTbwKfiOY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Dmitry Gorilovsky", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/116991000937946752287/reviews", 
+            "time": 1518553058
+        }
+    ], 
+    "formatted_phone_number": "030 40004637", 
+    "url": "https://maps.google.com/?cid=11771928567455224156", 
+    "scope": "GOOGLE", 
+    "vicinity": "Behrenstra\u00dfe 28, Berlin", 
+    "address_components": [
+        {
+            "long_name": "28", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "28"
+        }, 
+        {
+            "long_name": "Behrenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Behrenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Behrenstra\u00dfe 28, 10117 Berlin, Germany", 
+    "id": "79d4b9a146c105db9c2f2122a002de898031d3b1", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

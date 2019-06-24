@@ -1,0 +1,81 @@
+{
+    "utc_offset": 120, 
+    "name": "Franz\u00f6sische Stra\u00dfe", 
+    "reference": "ChIJ17EXxdtRqEcRVxHgUS1D9eM", 
+    "geometry": {
+        "location": {
+            "lat": 52.51510030000001, 
+            "lng": 13.3950829
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5164528802915, 
+                "lng": 13.3964312802915
+            }, 
+            "southwest": {
+                "lat": 52.5137549197085, 
+                "lng": 13.3937333197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Franz\u00f6sische Stra\u00dfe</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ17EXxdtRqEcRVxHgUS1D9eM", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Franz%C3%B6sische+Stra%C3%9Fe,+10117+Berlin,+Germany&ftid=0x47a851dbc517b1d7:0xe3f5432d51e01157", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Franz\u00f6sische Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Franz\u00f6sische Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Franz\u00f6sische Stra\u00dfe, 10117 Berlin, Germany", 
+    "id": "15a42bba375490899bca3d353980be690e60f87e", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "http://www.kaeserheller.com/", 
+    "utc_offset": 120, 
+    "name": "Bernhard Kaeser-Heller", 
+    "reference": "ChIJbT0cQ8VRqEcRgNBU2vhk2DE", 
+    "geometry": {
+        "location": {
+            "lat": 52.5134467, 
+            "lng": 13.3859355
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5148964802915, 
+                "lng": 13.3872661802915
+            }, 
+            "southwest": {
+                "lat": 52.5121985197085, 
+                "lng": 13.3845682197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Potsdamer Stra\u00dfe 4</span>, <span class=\"postal-code\">10785</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJbT0cQ8VRqEcRgNBU2vhk2DE", 
+    "international_phone_number": "+49 30 20623908", 
+    "plus_code": {
+        "global_code": "9F4MG97P+99", 
+        "compound_code": "G97P+99 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20623908", 
+    "url": "https://maps.google.com/?cid=3591731722805629056", 
+    "scope": "GOOGLE", 
+    "vicinity": "Potsdamer Stra\u00dfe 4, Berlin", 
+    "address_components": [
+        {
+            "long_name": "4", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "4"
+        }, 
+        {
+            "long_name": "Potsdamer Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Potsdamer Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10785", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10785"
+        }
+    ], 
+    "formatted_address": "Potsdamer Stra\u00dfe 4, 10785 Berlin, Germany", 
+    "id": "37b6ceb9994e24d2d7d2b9b282f880c2db5dabe0", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

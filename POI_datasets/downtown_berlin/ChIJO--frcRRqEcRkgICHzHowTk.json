@@ -1,0 +1,159 @@
+{
+    "utc_offset": 120, 
+    "name": "Vendis GmbH", 
+    "reference": "ChIJO--frcRRqEcRkgICHzHowTk", 
+    "geometry": {
+        "location": {
+            "lat": 52.5174076, 
+            "lng": 13.3893145
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5186465802915, 
+                "lng": 13.3906837802915
+            }, 
+            "southwest": {
+                "lat": 52.5159486197085, 
+                "lng": 13.3879858197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 16</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJO--frcRRqEcRkgICHzHowTk", 
+    "international_phone_number": "+49 180 5 65006001", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+XP", 
+        "compound_code": "G98Q+XP Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0180 5 65006001", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=4161862828338315922", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM", 
+            "Tuesday: 9:00 AM \u2013 5:00 PM", 
+            "Wednesday: 9:00 AM \u2013 5:00 PM", 
+            "Thursday: 9:00 AM \u2013 5:00 PM", 
+            "Friday: 9:00 AM \u2013 5:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0900"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Unter den Linden 16, Berlin", 
+    "address_components": [
+        {
+            "long_name": "16", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "16"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 16, 10117 Berlin, Germany", 
+    "id": "f4b52f94d32bf5e71dcd725249d9ac760dd642f5", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

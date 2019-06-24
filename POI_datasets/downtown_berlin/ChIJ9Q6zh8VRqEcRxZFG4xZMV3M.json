@@ -1,0 +1,109 @@
+{
+    "website": "http://www.kaeptnbrowser.de/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "K\u00e4pt'n Browser gGmbH", 
+    "reference": "ChIJ9Q6zh8VRqEcRxZFG4xZMV3M", 
+    "geometry": {
+        "location": {
+            "lat": 52.5131123, 
+            "lng": 13.3829007
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5144317802915, 
+                "lng": 13.3840945802915
+            }, 
+            "southwest": {
+                "lat": 52.5117338197085, 
+                "lng": 13.3813966197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Wilhelmstra\u00dfe 52</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ9Q6zh8VRqEcRxZFG4xZMV3M", 
+    "international_phone_number": "+49 30 97991310", 
+    "plus_code": {
+        "global_code": "9F4MG97M+65", 
+        "compound_code": "G97M+65 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vxbnOS4M8DY/AAAAAAAAAAI/AAAAAAAAFE4/xn0FXsU6bZU/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg", 
+            "author_name": "Christian Wenzel", 
+            "text": "", 
+            "relative_time_description": "4 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/109143212696896063629/reviews", 
+            "time": 1408970313
+        }
+    ], 
+    "formatted_phone_number": "030 97991310", 
+    "url": "https://maps.google.com/?cid=8311195298521584069", 
+    "scope": "GOOGLE", 
+    "vicinity": "Wilhelmstra\u00dfe 52, Berlin", 
+    "address_components": [
+        {
+            "long_name": "52", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "52"
+        }, 
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilhelmstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Wilhelmstra\u00dfe 52, 10117 Berlin, Germany", 
+    "id": "4e8a54ec3bdae67448712f11b7a9d431d4b727b9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

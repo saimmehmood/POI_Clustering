@@ -1,0 +1,178 @@
+{
+    "website": "http://www.quantbuilder.de/", 
+    "utc_offset": 120, 
+    "name": "Quantbuilder", 
+    "reference": "ChIJfwPx7ddRqEcRz2YCwacwJTI", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAG6hUOnXzUNSaeb0yn4LRoCTCMXkko2hf2nXdhYAp0sE3QbapsA7ZxNT8rO1LA-vxTWbctNqf1R5zaU3tIop2KNaih5N46wcAL-SLxbCOPLK5Hudvzv5cdiiLdCtXiu_qEhD_AU1ortFCLLr4OcF4NNHUGhQtfrToIr0ILDFjkROgqEN9lF3-cg", 
+            "width": 2048, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101832741750254106351/photos\">Quantbuilder</a>"
+            ], 
+            "height": 1118
+        }, 
+        {
+            "photo_reference": "CmRaAAAAzMUKd6qfvbNjUjD6pIGMRPtsoHsfjs7On61BYnp5N7UBwhdjXyo7kP5jjbN5p1TvXoJ3w1ukO8m62CT5VDYj9GAoTFv3auepL1C80JG9kW29bFraOSeqUwHtu8NY7fFrEhAmcaiz0w-Et8hqNv1mNYAOGhSCbISyKNBDGupUJPjLuq6h_v-iKg", 
+            "width": 670, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101832741750254106351/photos\">Quantbuilder</a>"
+            ], 
+            "height": 669
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 52.510331, 
+            "lng": 13.4000161
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5120289302915, 
+                "lng": 13.4012960302915
+            }, 
+            "southwest": {
+                "lat": 52.5093309697085, 
+                "lng": 13.3985980697085
+            }
+        }
+    }, 
+    "adr_address": "Dr. Johannes Gomolka, <span class=\"street-address\">Leipziger Str. 49</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJfwPx7ddRqEcRz2YCwacwJTI", 
+    "international_phone_number": "+49 177 1960269", 
+    "plus_code": {
+        "global_code": "9F4MGC62+42", 
+        "compound_code": "GC62+42 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0177 1960269", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=3613347773090522831", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 4:00 PM", 
+            "Tuesday: 10:00 AM \u2013 4:00 PM", 
+            "Wednesday: 10:00 AM \u2013 4:00 PM", 
+            "Thursday: 10:00 AM \u2013 4:00 PM", 
+            "Friday: 10:00 AM \u2013 4:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "1000"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1600"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "1000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Dr. Johannes Gomolka, Leipziger Stra\u00dfe 49, Berlin", 
+    "address_components": [
+        {
+            "long_name": "49", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "49"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Dr. Johannes Gomolka, Leipziger Str. 49, 10117 Berlin, Germany", 
+    "id": "a0958c0b3b1bc7bbd2df6700232d3b43a0403ced", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

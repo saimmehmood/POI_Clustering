@@ -1,0 +1,95 @@
+{
+    "website": "http://www.rementum.se/kontor.html", 
+    "utc_offset": 120, 
+    "name": "rementum.se", 
+    "reference": "ChIJ-67CqMRRqEcRMFMvhWBhOVM", 
+    "geometry": {
+        "location": {
+            "lat": 52.5176254, 
+            "lng": 13.389605
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5189477802915, 
+                "lng": 13.3905192302915
+            }, 
+            "southwest": {
+                "lat": 52.5162498197085, 
+                "lng": 13.38782126970849
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 88</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ-67CqMRRqEcRMFMvhWBhOVM", 
+    "international_phone_number": "+49 30 408173450", 
+    "plus_code": {
+        "global_code": "9F4MG99Q+3R", 
+        "compound_code": "G99Q+3R Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 408173450", 
+    "url": "https://maps.google.com/?cid=5996931445999751984", 
+    "vicinity": "Friedrichstra\u00dfe 88, Berlin", 
+    "address_components": [
+        {
+            "long_name": "88", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "88"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 88, 10117 Berlin, Germany", 
+    "id": "b39a7f76f1703171e278b148fda7f5b5770d230d", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

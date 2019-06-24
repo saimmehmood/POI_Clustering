@@ -1,0 +1,96 @@
+{
+    "website": "http://www.bofestconsult.com/", 
+    "utc_offset": 120, 
+    "name": "bofest consult GmbH Zweigniederlassung Berlin", 
+    "reference": "ChIJg7Q_tdlRqEcRmEWzM948Gb0", 
+    "geometry": {
+        "location": {
+            "lat": 52.5126393, 
+            "lng": 13.3987011
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5140024802915, 
+                "lng": 13.4000656302915
+            }, 
+            "southwest": {
+                "lat": 52.5113045197085, 
+                "lng": 13.3973676697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Niederwallstra\u00dfe 35</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJg7Q_tdlRqEcRmEWzM948Gb0", 
+    "international_phone_number": "+49 30 206295150", 
+    "plus_code": {
+        "global_code": "9F4MG97X+3F", 
+        "compound_code": "G97X+3F Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 206295150", 
+    "url": "https://maps.google.com/?cid=13625989072633939352", 
+    "scope": "GOOGLE", 
+    "vicinity": "Niederwallstra\u00dfe 35, Berlin", 
+    "address_components": [
+        {
+            "long_name": "35", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "35"
+        }, 
+        {
+            "long_name": "Niederwallstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Niederwallstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Niederwallstra\u00dfe 35, 10117 Berlin, Germany", 
+    "id": "badc4011d37116c6791b1bf80fb7d145a44535c1", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

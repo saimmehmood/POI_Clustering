@@ -1,0 +1,96 @@
+{
+    "website": "http://www.whitecubeinvest.com/", 
+    "utc_offset": 120, 
+    "name": "White Cube Investment GmbH", 
+    "reference": "ChIJWV_fuMRRqEcROilhV6RaZe4", 
+    "geometry": {
+        "location": {
+            "lat": 52.5165703, 
+            "lng": 13.3877568
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51801313029149, 
+                "lng": 13.3890914302915
+            }, 
+            "southwest": {
+                "lat": 52.51531516970849, 
+                "lng": 13.3863934697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 39</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJWV_fuMRRqEcROilhV6RaZe4", 
+    "international_phone_number": "+49 30 2062260", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+J4", 
+        "compound_code": "G98Q+J4 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 2062260", 
+    "url": "https://maps.google.com/?cid=17178236015561746746", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "39", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "39"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 39, 10117 Berlin, Germany", 
+    "vicinity": "Unter den Linden 39, Berlin", 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

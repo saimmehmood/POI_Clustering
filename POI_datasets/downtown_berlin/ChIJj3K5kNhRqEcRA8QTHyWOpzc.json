@@ -1,0 +1,96 @@
+{
+    "website": "http://www.optimismitsolutions.com/", 
+    "utc_offset": 120, 
+    "name": "OPTIMISM IT SOLUTIONS", 
+    "reference": "ChIJj3K5kNhRqEcRA8QTHyWOpzc", 
+    "geometry": {
+        "location": {
+            "lat": 52.5144318, 
+            "lng": 13.4025029
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5158172302915, 
+                "lng": 13.4039364302915
+            }, 
+            "southwest": {
+                "lat": 52.5131192697085, 
+                "lng": 13.4012384697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Br\u00fcderstra\u00dfe 10</span>, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJj3K5kNhRqEcRA8QTHyWOpzc", 
+    "international_phone_number": "+49 9654 785562", 
+    "plus_code": {
+        "global_code": "9F4MGC73+Q2", 
+        "compound_code": "GC73+Q2 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "09654 785562", 
+    "url": "https://maps.google.com/?cid=4010330283283039235", 
+    "scope": "GOOGLE", 
+    "vicinity": "Br\u00fcderstra\u00dfe 10, Berlin", 
+    "address_components": [
+        {
+            "long_name": "10", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "10"
+        }, 
+        {
+            "long_name": "Br\u00fcderstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Br\u00fcderstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "Br\u00fcderstra\u00dfe 10, 10178 Berlin, Germany", 
+    "id": "dfeb42feaf61869a018e1695ab8fb7bb708e4bfa", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

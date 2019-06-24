@@ -1,0 +1,93 @@
+{
+    "utc_offset": 120, 
+    "name": "De Digital Technology Gmbh", 
+    "reference": "ChIJx8bxQc9RqEcRlMeLLyTHc-o", 
+    "geometry": {
+        "location": {
+            "lat": 52.5121593, 
+            "lng": 13.3810881
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5134302802915, 
+                "lng": 13.3824330802915
+            }, 
+            "southwest": {
+                "lat": 52.5107323197085, 
+                "lng": 13.3797351197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">An der Kolonnade 6</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJx8bxQc9RqEcRlMeLLyTHc-o", 
+    "plus_code": {
+        "global_code": "9F4MG96J+VC", 
+        "compound_code": "G96J+VC Berlin, Germany"
+    }, 
+    "vicinity": "An der Kolonnade 6, Berlin", 
+    "url": "https://maps.google.com/?cid=16894065585427302292", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6"
+        }, 
+        {
+            "long_name": "An der Kolonnade", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "An der Kolonnade"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "An der Kolonnade 6, 10117 Berlin, Germany", 
+    "id": "6e0ace0b7a412ce4bb6b8cce07d46afd8887fad0", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

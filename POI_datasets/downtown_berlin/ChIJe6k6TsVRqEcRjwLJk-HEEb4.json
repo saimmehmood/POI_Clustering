@@ -1,0 +1,180 @@
+{
+    "website": "http://geburt-vertraulich.de/", 
+    "utc_offset": 120, 
+    "name": "Beratung & Geburt Vertraulich", 
+    "reference": "ChIJe6k6TsVRqEcRjwLJk-HEEb4", 
+    "geometry": {
+        "location": {
+            "lat": 52.5132754, 
+            "lng": 13.3868575
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5146116302915, 
+                "lng": 13.3879966802915
+            }, 
+            "southwest": {
+                "lat": 52.5119136697085, 
+                "lng": 13.3852987197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Glinkastra\u00dfe 24</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJe6k6TsVRqEcRjwLJk-HEEb4", 
+    "international_phone_number": "+49 30 185550", 
+    "plus_code": {
+        "global_code": "9F4MG97P+8P", 
+        "compound_code": "G97P+8P Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 185550", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=13695944414936498831", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 11:00 PM", 
+            "Tuesday: 8:00 AM \u2013 11:00 PM", 
+            "Wednesday: 8:00 AM \u2013 11:00 PM", 
+            "Thursday: 8:00 AM \u2013 11:00 PM", 
+            "Friday: 8:00 AM \u2013 11:00 PM", 
+            "Saturday: 8:00 AM \u2013 11:00 PM", 
+            "Sunday: 8:00 AM \u2013 11:00 PM"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "close": {
+                    "day": 0, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 0, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 6, 
+                    "time": "2300"
+                }, 
+                "open": {
+                    "day": 6, 
+                    "time": "0800"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Glinkastra\u00dfe 24, Berlin", 
+    "address_components": [
+        {
+            "long_name": "24", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "24"
+        }, 
+        {
+            "long_name": "Glinkastra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Glinkastra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Glinkastra\u00dfe 24, 10117 Berlin, Germany", 
+    "id": "ef4771f254b48f9bbb6c35c9a7b4a820aaedb07d", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

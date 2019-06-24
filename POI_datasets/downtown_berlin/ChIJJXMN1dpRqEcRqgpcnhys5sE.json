@@ -1,0 +1,159 @@
+{
+    "website": "https://www.dbbverlag.de/", 
+    "utc_offset": 120, 
+    "name": "Dbb Verlag GmbH", 
+    "reference": "ChIJJXMN1dpRqEcRqgpcnhys5sE", 
+    "geometry": {
+        "location": {
+            "lat": 52.5155008, 
+            "lng": 13.3887087
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5168571802915, 
+                "lng": 13.3902114302915
+            }, 
+            "southwest": {
+                "lat": 52.5141592197085, 
+                "lng": 13.3875134697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 165</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJJXMN1dpRqEcRqgpcnhys5sE", 
+    "international_phone_number": "+49 30 726191723", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+6F", 
+        "compound_code": "G98Q+6F Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 726191723", 
+    "url": "https://maps.google.com/?cid=13972044132879436458", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM", 
+            "Tuesday: 9:00 AM \u2013 5:00 PM", 
+            "Wednesday: 9:00 AM \u2013 5:00 PM", 
+            "Thursday: 9:00 AM \u2013 5:00 PM", 
+            "Friday: 6:00 AM \u2013 5:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0900"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1700"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0600"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Friedrichstra\u00dfe 165, Berlin", 
+    "address_components": [
+        {
+            "long_name": "165", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "165"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 165, 10117 Berlin, Germany", 
+    "id": "3e56de61f977c2bf804cfaf295e6241501eb3d9e", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

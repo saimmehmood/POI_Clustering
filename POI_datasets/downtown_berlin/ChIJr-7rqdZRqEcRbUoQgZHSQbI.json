@@ -1,0 +1,95 @@
+{
+    "utc_offset": 120, 
+    "name": "Atrium der Deutschen Bank AG", 
+    "reference": "ChIJr-7rqdZRqEcRbUoQgZHSQbI", 
+    "geometry": {
+        "location": {
+            "lat": 52.51025240000001, 
+            "lng": 13.3918998
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51160238029149, 
+                "lng": 13.3932621302915
+            }, 
+            "southwest": {
+                "lat": 52.5089044197085, 
+                "lng": 13.3905641697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe 37</span>, <span class=\"postal-code\">10969</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJr-7rqdZRqEcRbUoQgZHSQbI", 
+    "plus_code": {
+        "global_code": "9F4MG96R+4Q", 
+        "compound_code": "G96R+4Q Berlin, Germany"
+    }, 
+    "vicinity": "Charlottenstra\u00dfe 37, Berlin", 
+    "url": "https://maps.google.com/?cid=12844779134614784621", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "37", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "37"
+        }, 
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Friedrichshain-Kreuzberg", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Friedrichshain-Kreuzberg"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10969", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10969"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe 37, 10969 Berlin, Germany", 
+    "id": "08323ba064bf30d076632946fc93f50e1e2468e2", 
+    "types": [
+        "bank", 
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png"
+}

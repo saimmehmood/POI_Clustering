@@ -1,0 +1,80 @@
+{
+    "utc_offset": 120, 
+    "name": "Neust\u00e4dtische Kirchstra\u00dfe", 
+    "reference": "ChIJAZLMicRRqEcRrdUo5lWqHAQ", 
+    "geometry": {
+        "location": {
+            "lat": 52.51738729999999, 
+            "lng": 13.3856797
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51873648029149, 
+                "lng": 13.3870309302915
+            }, 
+            "southwest": {
+                "lat": 52.51603851970849, 
+                "lng": 13.3843329697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Neust\u00e4dtische Kirchstra\u00dfe</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJAZLMicRRqEcRrdUo5lWqHAQ", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Neust%C3%A4dtische+Kirchstra%C3%9Fe,+10117+Berlin,+Germany&ftid=0x47a851c489cc9201:0x41caa55e628d5ad", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Neust\u00e4dtische Kirchstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Neust\u00e4dtische Kirchstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Neust\u00e4dtische Kirchstra\u00dfe, 10117 Berlin, Germany", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

@@ -1,0 +1,93 @@
+{
+    "utc_offset": 120, 
+    "name": "Justabit", 
+    "reference": "ChIJbXTYO9pRqEcR_Xx95ajedRg", 
+    "geometry": {
+        "location": {
+            "lat": 52.51355580000001, 
+            "lng": 13.3939477
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5147551302915, 
+                "lng": 13.3953170802915
+            }, 
+            "southwest": {
+                "lat": 52.51205716970851, 
+                "lng": 13.3926191197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Taubenstra\u00dfe 30</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJbXTYO9pRqEcR_Xx95ajedRg", 
+    "plus_code": {
+        "global_code": "9F4MG97V+CH", 
+        "compound_code": "G97V+CH Berlin, Germany"
+    }, 
+    "vicinity": "Taubenstra\u00dfe 30, Berlin", 
+    "url": "https://maps.google.com/?cid=1762559646171495677", 
+    "address_components": [
+        {
+            "long_name": "30", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "30"
+        }, 
+        {
+            "long_name": "Taubenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Taubenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Taubenstra\u00dfe 30, 10117 Berlin, Germany", 
+    "id": "7674afb09a4bcfedb39b05aa4c4cf629b43bd4de", 
+    "types": [
+        "bar", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png"
+}

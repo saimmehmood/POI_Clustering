@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "Wilhelmstra\u00dfe 49", 
+    "reference": "ChIJp4u7ec9RqEcRFWOOkGGYXok", 
+    "geometry": {
+        "location": {
+            "lat": 52.5124402, 
+            "lng": 13.3829096
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51378948029149, 
+                "lng": 13.3842599802915
+            }, 
+            "southwest": {
+                "lat": 52.51109151970849, 
+                "lng": 13.3815620197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Wilhelmstra\u00dfe 49</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJp4u7ec9RqEcRFWOOkGGYXok", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Wilhelmstra%C3%9Fe+49,+10117+Berlin,+Germany&ftid=0x47a851cf79bb8ba7:0x895e9861908e6315", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "49", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "49"
+        }, 
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilhelmstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Wilhelmstra\u00dfe 49, 10117 Berlin, Germany", 
+    "id": "520268883ac108b4e3f5d418374f711868ed8e21", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

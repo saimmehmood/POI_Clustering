@@ -1,0 +1,96 @@
+{
+    "website": "https://dein-goldankauf.de/", 
+    "utc_offset": 120, 
+    "name": "Dein-Goldankauf Berlin", 
+    "reference": "ChIJB2lMxzhRqEcRToqW8xXCmUE", 
+    "geometry": {
+        "location": {
+            "lat": 52.51256, 
+            "lng": 13.37874
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5137864302915, 
+                "lng": 13.3801086802915
+            }, 
+            "southwest": {
+                "lat": 52.5110884697085, 
+                "lng": 13.3774107197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">In den Ministerg\u00e4rten 6</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJB2lMxzhRqEcRToqW8xXCmUE", 
+    "international_phone_number": "+49 40 7009644", 
+    "plus_code": {
+        "global_code": "9F4MG97H+2F", 
+        "compound_code": "G97H+2F Berlin, Germany"
+    }, 
+    "formatted_phone_number": "040 7009644", 
+    "url": "https://maps.google.com/?cid=4727022683438877262", 
+    "scope": "GOOGLE", 
+    "vicinity": "In den Ministerg\u00e4rten 6, Berlin", 
+    "address_components": [
+        {
+            "long_name": "6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6"
+        }, 
+        {
+            "long_name": "In den Ministerg\u00e4rten", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "In den Ministerg\u00e4rten"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "In den Ministerg\u00e4rten 6, 10117 Berlin, Germany", 
+    "id": "4698610c24aeff22b593b537c789c43d5a29d3d4", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

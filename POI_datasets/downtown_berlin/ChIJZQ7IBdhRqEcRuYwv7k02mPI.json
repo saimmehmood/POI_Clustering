@@ -1,0 +1,81 @@
+{
+    "utc_offset": 120, 
+    "name": "Leipziger Stra\u00dfe", 
+    "reference": "ChIJZQ7IBdhRqEcRuYwv7k02mPI", 
+    "geometry": {
+        "location": {
+            "lat": 52.5114204, 
+            "lng": 13.4014826
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5127693802915, 
+                "lng": 13.4028316302915
+            }, 
+            "southwest": {
+                "lat": 52.51007141970851, 
+                "lng": 13.4001336697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">B1</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJZQ7IBdhRqEcRuYwv7k02mPI", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=B1,+10117+Berlin,+Germany&ftid=0x47a851d805c80e65:0xf298364dee2f8cb9", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "B1"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "B1, 10117 Berlin, Germany", 
+    "id": "f16dd2c73b350e8839e81d96455976272e3cf4d9", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

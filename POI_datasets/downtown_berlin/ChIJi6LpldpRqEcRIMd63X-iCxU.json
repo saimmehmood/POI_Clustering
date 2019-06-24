@@ -1,0 +1,96 @@
+{
+    "website": "https://www.bvi.de/", 
+    "utc_offset": 120, 
+    "name": "Bundesverband Investment und Asset Management e.V.", 
+    "reference": "ChIJi6LpldpRqEcRIMd63X-iCxU", 
+    "geometry": {
+        "location": {
+            "lat": 52.5172, 
+            "lng": 13.3860201
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5184359302915, 
+                "lng": 13.3873916802915
+            }, 
+            "southwest": {
+                "lat": 52.5157379697085, 
+                "lng": 13.3846937197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 42</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJi6LpldpRqEcRIMd63X-iCxU", 
+    "international_phone_number": "+49 30 20658771", 
+    "plus_code": {
+        "global_code": "9F4MG98P+VC", 
+        "compound_code": "G98P+VC Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20658771", 
+    "url": "https://maps.google.com/?cid=1516484369600661280", 
+    "vicinity": "Unter den Linden 42, Berlin", 
+    "address_components": [
+        {
+            "long_name": "42", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "42"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 42, 10117 Berlin, Germany", 
+    "id": "a936f8c161edda04851003220582bbbed84a9af0", 
+    "types": [
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

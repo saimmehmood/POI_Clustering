@@ -1,0 +1,104 @@
+{
+    "website": "http://www.i-m-b.de/", 
+    "utc_offset": 120, 
+    "name": "i&mb Industrie & Management Beratung intern. GmbH", 
+    "reference": "ChIJe8mGVsNRqEcRlZKW_hWb_-I", 
+    "geometry": {
+        "location": {
+            "lat": 52.517464, 
+            "lng": 13.389013
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5188032302915, 
+                "lng": 13.3902358802915
+            }, 
+            "southwest": {
+                "lat": 52.5161052697085, 
+                "lng": 13.3875379197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 88</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJe8mGVsNRqEcRlZKW_hWb_-I", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+XJ", 
+        "compound_code": "G98Q+XJ Berlin, Germany"
+    }, 
+    "vicinity": "Friedrichstra\u00dfe 88, Berlin", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAtT_B_X0iPK4-igJ4UTo4Msz5-yWnHn2AWFEPKc3-NJXXjfPcdzjeaejvsrsITmeIYZBgq6SZgDlygMFplkXqUgOLOIUpH0UkZFb7P6nVgrrzNfyO3Pw6-d9ARQ_qqNcgEhCydI5rBnxtCM-hzO5U0Tn5GhSIpI0WLYARUerVE_SFFuoSvAG-Rw", 
+            "width": 650, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113730496817239318032/photos\">i&amp;mb Industrie &amp; Management Beratung intern. GmbH</a>"
+            ], 
+            "height": 650
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=16356962890400830101", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "88", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "88"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 88, 10117 Berlin, Germany", 
+    "id": "38684e112745fd5538ada25e7d77cf4dda5f9f03", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

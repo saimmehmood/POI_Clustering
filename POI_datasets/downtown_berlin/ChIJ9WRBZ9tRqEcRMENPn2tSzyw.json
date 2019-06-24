@@ -1,0 +1,80 @@
+{
+    "utc_offset": 120, 
+    "name": "Unter den Linden", 
+    "reference": "ChIJ9WRBZ9tRqEcRMENPn2tSzyw", 
+    "geometry": {
+        "location": {
+            "lat": 52.5170355, 
+            "lng": 13.3918995
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5183831302915, 
+                "lng": 13.3932487302915
+            }, 
+            "southwest": {
+                "lat": 52.5156851697085, 
+                "lng": 13.3905507697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">B2</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ9WRBZ9tRqEcRMENPn2tSzyw", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=B2,+10117+Berlin,+Germany&ftid=0x47a851db674164f5:0x2ccf526b9f4f4330", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "B2"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "B2, 10117 Berlin, Germany", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

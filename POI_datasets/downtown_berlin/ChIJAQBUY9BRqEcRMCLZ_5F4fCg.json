@@ -1,0 +1,97 @@
+{
+    "website": "http://sunmakerde.com/", 
+    "utc_offset": 120, 
+    "name": "SUNMAKER Spa und Br\u00e4unungssalon", 
+    "reference": "ChIJAQBUY9BRqEcRMCLZ_5F4fCg", 
+    "geometry": {
+        "location": {
+            "lat": 52.5114853, 
+            "lng": 13.390054
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5128240802915, 
+                "lng": 13.3912387302915
+            }, 
+            "southwest": {
+                "lat": 52.5101261197085, 
+                "lng": 13.3885407697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 62</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJAQBUY9BRqEcRMCLZ_5F4fCg", 
+    "international_phone_number": "+49 7361 973632", 
+    "plus_code": {
+        "global_code": "9F4MG96R+H2", 
+        "compound_code": "G96R+H2 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "07361 973632", 
+    "url": "https://maps.google.com/?cid=2917339227087249968", 
+    "scope": "GOOGLE", 
+    "vicinity": "Friedrichstra\u00dfe 62, Berlin", 
+    "address_components": [
+        {
+            "long_name": "62", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "62"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 62, 10117 Berlin, Germany", 
+    "id": "a144c03b570d867f0ad8b0b324ff19089536fc16", 
+    "types": [
+        "spa", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

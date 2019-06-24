@@ -1,0 +1,182 @@
+{
+    "website": "http://www.adi-akademie.de/", 
+    "rating": 4.5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 2, 
+    "name": "ADI Akademie der Immobilienwirtschaft GmbH", 
+    "reference": "ChIJA9uzpcRRqEcRUmCKn3tO_2w", 
+    "geometry": {
+        "location": {
+            "lat": 52.5173613, 
+            "lng": 13.3882818
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5185938802915, 
+                "lng": 13.3896511802915
+            }, 
+            "southwest": {
+                "lat": 52.5158959197085, 
+                "lng": 13.3869532197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 26-30</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJA9uzpcRRqEcRUmCKn3tO_2w", 
+    "international_phone_number": "+49 1512 4242469", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+W8", 
+        "compound_code": "G98Q+W8 Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 4, 
+            "author_name": "Andres Sabio", 
+            "language": "en", 
+            "text": "Traditional and delicious", 
+            "relative_time_description": "10 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/107740162924031053696/reviews", 
+            "time": 1534882034, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DvXV7G36Q9w/AAAAAAAAAAI/AAAAAAAAAng/hRPbl8MoPZk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-cEtJHR9X_kY/AAAAAAAAAAI/AAAAAAAABKw/tmoQMstngik/s128-c0x00000000-cc-rp-mo/photo.jpg", 
+            "author_name": "Larissa Lapschies", 
+            "text": "", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/107058527847868020410/reviews", 
+            "time": 1498236958
+        }
+    ], 
+    "formatted_phone_number": "01512 4242469", 
+    "url": "https://maps.google.com/?cid=7854082568022024274", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM", 
+            "Tuesday: 8:00 AM \u2013 6:00 PM", 
+            "Wednesday: 8:00 AM \u2013 6:00 PM", 
+            "Thursday: 8:00 AM \u2013 6:00 PM", 
+            "Friday: 8:00 AM \u2013 6:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0800"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1800"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0800"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Unter den Linden 26-30, Berlin", 
+    "address_components": [
+        {
+            "long_name": "26-30", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "26-30"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 26-30, 10117 Berlin, Germany", 
+    "id": "ba37a95be50d233d7c21090130159e43842f1c5d", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

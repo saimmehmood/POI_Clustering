@@ -1,0 +1,88 @@
+{
+    "utc_offset": 120, 
+    "name": "An der Kolonnade 3-4", 
+    "reference": "ChIJMVrscc9RqEcRhZYrHlixsxA", 
+    "geometry": {
+        "location": {
+            "lat": 52.5121177, 
+            "lng": 13.3822247
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5134723802915, 
+                "lng": 13.3835708802915
+            }, 
+            "southwest": {
+                "lat": 52.5107744197085, 
+                "lng": 13.3808729197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">An der Kolonnade 3-4</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJMVrscc9RqEcRhZYrHlixsxA", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=An+der+Kolonnade+3-4,+10117+Berlin,+Germany&ftid=0x47a851cf71ec5a31:0x10b3b1581e2b9685", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "3-4", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "3-4"
+        }, 
+        {
+            "long_name": "An der Kolonnade", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "An der Kolonnade"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "An der Kolonnade 3-4, 10117 Berlin, Germany", 
+    "id": "5a63487fac79de437bca6c28d6643710f073d33b", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

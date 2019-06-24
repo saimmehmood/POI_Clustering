@@ -1,0 +1,95 @@
+{
+    "website": "http://www.gradus-venture.de/", 
+    "utc_offset": 120, 
+    "name": "Mediport Venture Fonds Zwei GmbH", 
+    "reference": "ChIJ921ratBRqEcRSy9u8LZSIjk", 
+    "geometry": {
+        "location": {
+            "lat": 52.51537, 
+            "lng": 13.38946
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5167104802915, 
+                "lng": 13.3906599802915
+            }, 
+            "southwest": {
+                "lat": 52.5140125197085, 
+                "lng": 13.3879620197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Friedrichstra\u00dfe 81</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ921ratBRqEcRSy9u8LZSIjk", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+4Q", 
+        "compound_code": "G98Q+4Q Berlin, Germany"
+    }, 
+    "vicinity": "Friedrichstra\u00dfe 81, Berlin", 
+    "url": "https://maps.google.com/?cid=4116943955041333067", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "81", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "81"
+        }, 
+        {
+            "long_name": "Friedrichstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Friedrichstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Friedrichstra\u00dfe 81, 10117 Berlin, Germany", 
+    "id": "4ec8cb04a94a6f71b792d4928b3ea5dc558f8b0d", 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

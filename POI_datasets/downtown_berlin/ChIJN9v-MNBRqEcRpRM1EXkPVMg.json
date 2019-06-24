@@ -1,0 +1,93 @@
+{
+    "website": "http://www.m68-hotel.de/", 
+    "utc_offset": 120, 
+    "name": "Sole GbR", 
+    "reference": "ChIJN9v-MNBRqEcRpRM1EXkPVMg", 
+    "geometry": {
+        "location": {
+            "lat": 52.5103145, 
+            "lng": 13.3872896
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51167968029149, 
+                "lng": 13.3886807802915
+            }, 
+            "southwest": {
+                "lat": 52.50898171970849, 
+                "lng": 13.3859828197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mauerstra\u00dfe 68</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJN9v-MNBRqEcRpRM1EXkPVMg", 
+    "international_phone_number": "+49 30 50012203", 
+    "vicinity": "Mauerstra\u00dfe 68, Berlin", 
+    "formatted_phone_number": "030 50012203", 
+    "url": "https://maps.google.com/?cid=14435179718283432869", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "68", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "68"
+        }, 
+        {
+            "long_name": "Mauerstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mauerstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Mauerstra\u00dfe 68, 10117 Berlin, Germany", 
+    "id": "27e2884e9918e0fa609a8388c9721a8a6c611eb3", 
+    "types": [
+        "lodging", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+}

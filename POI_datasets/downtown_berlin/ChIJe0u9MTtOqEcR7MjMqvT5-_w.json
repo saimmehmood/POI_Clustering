@@ -1,0 +1,96 @@
+{
+    "website": "http://www.mediccus.de/", 
+    "utc_offset": 120, 
+    "name": "MEDICCUS GbR", 
+    "reference": "ChIJe0u9MTtOqEcR7MjMqvT5-_w", 
+    "geometry": {
+        "location": {
+            "lat": 52.511248, 
+            "lng": 13.391588
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125992302915, 
+                "lng": 13.3929977802915
+            }, 
+            "southwest": {
+                "lat": 52.5099012697085, 
+                "lng": 13.3902998197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Charlottenstra\u00dfe 65</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJe0u9MTtOqEcR7MjMqvT5-_w", 
+    "international_phone_number": "+49 30 20179821", 
+    "plus_code": {
+        "global_code": "9F4MG96R+FJ", 
+        "compound_code": "G96R+FJ Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20179821", 
+    "url": "https://maps.google.com/?cid=18229438745945098476", 
+    "scope": "GOOGLE", 
+    "vicinity": "Charlottenstra\u00dfe 65, Berlin", 
+    "address_components": [
+        {
+            "long_name": "65", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "65"
+        }, 
+        {
+            "long_name": "Charlottenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Charlottenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Charlottenstra\u00dfe 65, 10117 Berlin, Germany", 
+    "id": "a1219f2a7dd16c16fd1dcf7cb4d312d44fc47fb1", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png"
+}

@@ -1,0 +1,97 @@
+{
+    "website": "http://pro-eks.de/", 
+    "utc_offset": 120, 
+    "name": "PRO-EKS", 
+    "reference": "ChIJEbp_WddRqEcRdTjcUViKwyU", 
+    "geometry": {
+        "location": {
+            "lat": 52.51123, 
+            "lng": 13.39547
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5124035802915, 
+                "lng": 13.3968528302915
+            }, 
+            "southwest": {
+                "lat": 52.50970561970851, 
+                "lng": 13.3941548697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 61</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJEbp_WddRqEcRdTjcUViKwyU", 
+    "international_phone_number": "+49 4930 20624228", 
+    "plus_code": {
+        "global_code": "9F4MG96W+F5", 
+        "compound_code": "G96W+F5 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "04930 20624228", 
+    "url": "https://maps.google.com/?cid=2721170711797053557", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 61, Berlin", 
+    "address_components": [
+        {
+            "long_name": "61", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "61"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 61, 10117 Berlin, Germany", 
+    "id": "c8f074bf1582a6a55b136003f068986f4a1cc604", 
+    "types": [
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

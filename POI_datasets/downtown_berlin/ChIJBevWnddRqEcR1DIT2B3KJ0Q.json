@@ -1,0 +1,95 @@
+{
+    "website": "https://www.sylviavolz.com/kontakt/", 
+    "utc_offset": 120, 
+    "name": "Sylvia Volz", 
+    "reference": "ChIJBevWnddRqEcR1DIT2B3KJ0Q", 
+    "geometry": {
+        "location": {
+            "lat": 52.510285, 
+            "lng": 13.397856
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5116401302915, 
+                "lng": 13.3993084802915
+            }, 
+            "southwest": {
+                "lat": 52.5089421697085, 
+                "lng": 13.3966105197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 47</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJBevWnddRqEcR1DIT2B3KJ0Q", 
+    "international_phone_number": "+49 178 8347337", 
+    "plus_code": {
+        "global_code": "9F4MG96X+44", 
+        "compound_code": "G96X+44 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0178 8347337", 
+    "url": "https://maps.google.com/?cid=4911116148198814420", 
+    "vicinity": "Leipziger Stra\u00dfe 47, Berlin", 
+    "address_components": [
+        {
+            "long_name": "47", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "47"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 47, 10117 Berlin, Germany", 
+    "id": "5f996fb9a7e92e98ccb7285e4b682f0666300826", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

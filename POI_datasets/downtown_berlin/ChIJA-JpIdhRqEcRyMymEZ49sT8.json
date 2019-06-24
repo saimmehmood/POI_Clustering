@@ -1,0 +1,96 @@
+{
+    "website": "http://dr-vrabec.com/", 
+    "utc_offset": 120, 
+    "name": "Dr. Vrabec Asia Consulting", 
+    "reference": "ChIJA-JpIdhRqEcRyMymEZ49sT8", 
+    "geometry": {
+        "location": {
+            "lat": 52.51134999999999, 
+            "lng": 13.39975
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125997302915, 
+                "lng": 13.4011338802915
+            }, 
+            "southwest": {
+                "lat": 52.5099017697085, 
+                "lng": 13.3984359197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 54</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJA-JpIdhRqEcRyMymEZ49sT8", 
+    "international_phone_number": "+49 30 25043706", 
+    "plus_code": {
+        "global_code": "9F4MG96X+GW", 
+        "compound_code": "G96X+GW Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 25043706", 
+    "url": "https://maps.google.com/?cid=4589517244377517256", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 54, Berlin", 
+    "address_components": [
+        {
+            "long_name": "54", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "54"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 54, 10117 Berlin, Germany", 
+    "id": "ca7af080393476f33cbbf5516ccba28a3ee2dddb", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

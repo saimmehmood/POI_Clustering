@@ -1,0 +1,133 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Kongreation der Grauen Schwestern v.d. hl.Elisabeth", 
+    "reference": "ChIJ2RUBy9lRqEcRXXfE-rAEtiA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51239, 
+            "lng": 13.3984701
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5138516302915, 
+                "lng": 13.3999427802915
+            }, 
+            "southwest": {
+                "lat": 52.5111536697085, 
+                "lng": 13.3972448197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Niederwallstra\u00dfe 8-9</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ2RUBy9lRqEcRXXfE-rAEtiA", 
+    "plus_code": {
+        "global_code": "9F4MG96X+X9", 
+        "compound_code": "G96X+X9 Berlin, Germany"
+    }, 
+    "vicinity": "Niederwallstra\u00dfe 8-9, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Dieter Gorzitze", 
+            "language": "de", 
+            "text": "Kongreation der Grauen Schwestern v.d. Hl. Elisabeth-St.-Joseph Krankenhaus.", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/117772485517251824464/reviews", 
+            "time": 1480112382, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9WPzcscJsUg/AAAAAAAAAAI/AAAAAAADxVQ/j4-epptRi2Q/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg"
+        }
+    ], 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAKg8npgPqcPNz7DP2oN8A9C6rmfK2Lij7nsLuyobW8hYdvlwQ2ijprhg0tZTmtun8ow-CnsCu5F9BSnIcCi4y9YX1YdJx-n5O-VX26PPo-ojBk7rrhtOgwqgdEZ2lXBMXEhB7jDKvEtWsgGh224LolZiSGhQb6v5r8al2zbFilBm23e3xGxjguQ", 
+            "width": 1600, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117772485517251824464/photos\">Dieter Gorzitze</a>"
+            ], 
+            "height": 1200
+        }, 
+        {
+            "photo_reference": "CmRaAAAAc1neem-KkqVltJNJMZ8Nj0j1gowhnBhSP8OsS8tWsHJuxxrqsKlbXT5h7h4gZnDjSYmNAIBH23intI-sHy4X0SfJFsYGhxE9oAnBxk2Goh-4Q9eNdaQVT4ViIiUt1H_DEhDDqBAOo5CpcJgYVR7yH-iQGhQ1RdXtsg5kvwwb2czB_j5yk8JyNA", 
+            "width": 1200, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117772485517251824464/photos\">Dieter Gorzitze</a>"
+            ], 
+            "height": 1600
+        }, 
+        {
+            "photo_reference": "CmRaAAAAUeoHOzxLzrI0RqYaeqSTTFijsFtfNzNuCgebDJLbJb14-SF2n5Q6_avNjQsbvbo4eAZ1e3zj9xwicprJNhqSJDRTmXsNxqhrN6by0aQN6sPN7prVlefDFUdGNABIQ8EJEhCNMLU2Nj6Np8qwucnQDuaDGhTvT0csfTKb8dRYgPYoFfRgpeEdRg", 
+            "width": 1200, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117772485517251824464/photos\">Dieter Gorzitze</a>"
+            ], 
+            "height": 1600
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=2357076613142968157", 
+    "address_components": [
+        {
+            "long_name": "8-9", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "8-9"
+        }, 
+        {
+            "long_name": "Niederwallstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Niederwallstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Niederwallstra\u00dfe 8-9, 10117 Berlin, Germany", 
+    "id": "71b2acdd33e00086b79cca0ee815989a5165085b", 
+    "types": [
+        "hospital", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+}

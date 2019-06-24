@@ -1,0 +1,94 @@
+{
+    "utc_offset": 120, 
+    "name": "Lommaberg Properties GmbH", 
+    "reference": "ChIJfdbzGNBRqEcRWEIImS-L_yA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51126, 
+            "lng": 13.38721
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125220302915, 
+                "lng": 13.3885734302915
+            }, 
+            "southwest": {
+                "lat": 52.50982406970851, 
+                "lng": 13.3858754697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 73</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJfdbzGNBRqEcRWEIImS-L_yA", 
+    "plus_code": {
+        "global_code": "9F4MG96P+GV", 
+        "compound_code": "G96P+GV Berlin, Germany"
+    }, 
+    "vicinity": "Kronenstra\u00dfe 73, Berlin", 
+    "url": "https://maps.google.com/?cid=2377772164822090328", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "73", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "73"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 73, 10117 Berlin, Germany", 
+    "id": "0d35e10a2017e78a725d3e1ded5dc5c5e930ae27", 
+    "types": [
+        "real_estate_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

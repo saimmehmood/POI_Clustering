@@ -1,0 +1,96 @@
+{
+    "website": "http://www.staedtetag.de/", 
+    "utc_offset": 120, 
+    "name": "Deutscher St\u00e4dtetag", 
+    "reference": "ChIJbfSRGgRRqEcRgzub0jX_YHQ", 
+    "geometry": {
+        "location": {
+            "lat": 52.5133497, 
+            "lng": 13.3967044
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51466208029149, 
+                "lng": 13.3980673302915
+            }, 
+            "southwest": {
+                "lat": 52.51196411970849, 
+                "lng": 13.3953693697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Hausvogteipl. 1</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJbfSRGgRRqEcRgzub0jX_YHQ", 
+    "international_phone_number": "+49 30 377110", 
+    "plus_code": {
+        "global_code": "9F4MG97W+8M", 
+        "compound_code": "G97W+8M Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 377110", 
+    "url": "https://maps.google.com/?cid=8385983112795601795", 
+    "scope": "GOOGLE", 
+    "vicinity": "Hausvogteiplatz 1, Berlin", 
+    "address_components": [
+        {
+            "long_name": "1", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1"
+        }, 
+        {
+            "long_name": "Hausvogteiplatz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Hausvogteipl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Hausvogteipl. 1, 10117 Berlin, Germany", 
+    "id": "e33476f492bbadd6549c4c22a4aca661d83243fe", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

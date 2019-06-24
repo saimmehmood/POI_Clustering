@@ -1,0 +1,119 @@
+{
+    "rating": 5, 
+    "reference": "ChIJyRr-JtBRqEcRaw8fHrVHnCw", 
+    "place_id": "ChIJyRr-JtBRqEcRaw8fHrVHnCw", 
+    "plus_code": {
+        "global_code": "9F4MG96P+7J", 
+        "compound_code": "G96P+7J Berlin, Germany"
+    }, 
+    "url": "https://maps.google.com/?cid=3214523077255696235", 
+    "formatted_address": "Mauerstra\u00dfe 67, 10117 Berlin, Germany", 
+    "id": "348b800990d31bca14f31dac28b32cd5b9e2a66f", 
+    "vicinity": "Mauerstra\u00dfe 67, Berlin", 
+    "scope": "GOOGLE", 
+    "website": "http://www.sonoxo.com/", 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAQxW3yRdkmLhaMPEGF4igorfQN7xighyMdnchU2owFdfc9ggofkt-C2-ZcEvdgMYBG1zz5iFcqMUAymN0f5R7sHL_Vye4TDrjwJgXbgm8kdCP2KMG-jmoehKvJ5YeqDCNEhDjmVow2Jx8b3CxzuIeSsXgGhRy3_FccztnM_6XtbIQfOS1FPkOgQ", 
+            "width": 1836, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111217688578943462649/photos\">PA M</a>"
+            ], 
+            "height": 3264
+        }
+    ], 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+    "name": "Sonoxo GmbH Sales Office", 
+    "geometry": {
+        "location": {
+            "lat": 52.5107434, 
+            "lng": 13.3865184
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51212763029149, 
+                "lng": 13.3880267302915
+            }, 
+            "southwest": {
+                "lat": 52.5094296697085, 
+                "lng": 13.3853287697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Mauerstra\u00dfe 67</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "international_phone_number": "+49 30 20605167", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-aOjPHi4KugI/AAAAAAAAAAI/AAAAAAAAAK0/mhKGQz6B6rw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Matthias Longerich", 
+            "text": "", 
+            "relative_time_description": "2 years ago", 
+            "author_url": "https://www.google.com/maps/contrib/114142995251105618979/reviews", 
+            "time": 1475128989
+        }
+    ], 
+    "formatted_phone_number": "030 20605167", 
+    "address_components": [
+        {
+            "long_name": "67", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "67"
+        }, 
+        {
+            "long_name": "Mauerstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Mauerstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "website": "http://www.vivaneo-kinderwunsch.de/de/praxisklinik-sydow", 
+    "utc_offset": 120, 
+    "name": "Dr. med. C. Sydow - MVZ Praxisklinik Sydow am Gendarmenmarkt GmbH", 
+    "reference": "ChIJu4eahtBRqEcRACdX0wvpka0", 
+    "geometry": {
+        "location": {
+            "lat": 52.511455, 
+            "lng": 13.390969
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5127203802915, 
+                "lng": 13.3923305802915
+            }, 
+            "southwest": {
+                "lat": 52.51002241970851, 
+                "lng": 13.3896326197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 55-58</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJu4eahtBRqEcRACdX0wvpka0", 
+    "international_phone_number": "+49 30 20626720", 
+    "plus_code": {
+        "global_code": "9F4MG96R+H9", 
+        "compound_code": "G96R+H9 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20626720", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=12507033877184194304", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM", 
+            "Tuesday: 7:00 AM \u2013 7:00 PM", 
+            "Wednesday: 7:00 AM \u2013 7:00 PM", 
+            "Thursday: 7:00 AM \u2013 7:00 PM", 
+            "Friday: 7:00 AM \u2013 7:00 PM", 
+            "Saturday: Closed", 
+            "Sunday: Closed"
+        ], 
+        "open_now": false, 
+        "periods": [
+            {
+                "close": {
+                    "day": 1, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 1, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 2, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 2, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 3, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 3, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 4, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 4, 
+                    "time": "0700"
+                }
+            }, 
+            {
+                "close": {
+                    "day": 5, 
+                    "time": "1900"
+                }, 
+                "open": {
+                    "day": 5, 
+                    "time": "0700"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Kronenstra\u00dfe 55-58, Berlin", 
+    "address_components": [
+        {
+            "long_name": "55-58", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "55-58"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 55-58, 10117 Berlin, Germany", 
+    "id": "b4467e9c151a81dd78883b96da88194b8411576f", 
+    "types": [
+        "doctor", 
+        "health", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

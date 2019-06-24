@@ -1,0 +1,95 @@
+{
+    "website": "http://larsredlich.de/", 
+    "utc_offset": 120, 
+    "name": "Lars Redlich", 
+    "reference": "ChIJEZRAFNBRqEcRsacy6Q5iqto", 
+    "geometry": {
+        "location": {
+            "lat": 52.51128970000001, 
+            "lng": 13.3881201
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5125648302915, 
+                "lng": 13.3894813802915
+            }, 
+            "southwest": {
+                "lat": 52.5098668697085, 
+                "lng": 13.3867834197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Kronenstra\u00dfe 68</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJEZRAFNBRqEcRsacy6Q5iqto", 
+    "international_phone_number": "+49 4930 29009009", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+G6", 
+        "compound_code": "G96Q+G6 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "04930 29009009", 
+    "url": "https://maps.google.com/?cid=15756514062490576817", 
+    "vicinity": "Kronenstra\u00dfe 68, Berlin", 
+    "address_components": [
+        {
+            "long_name": "68", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "68"
+        }, 
+        {
+            "long_name": "Kronenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Kronenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Kronenstra\u00dfe 68, 10117 Berlin, Germany", 
+    "id": "c78f0535032c81ec43c68e172ddca7e75e4a78d9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

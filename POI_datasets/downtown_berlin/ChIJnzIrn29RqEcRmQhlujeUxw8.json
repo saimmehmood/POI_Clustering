@@ -1,0 +1,108 @@
+{
+    "website": "https://m.nh-hotels.com/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Hotel NH", 
+    "reference": "ChIJnzIrn29RqEcRmQhlujeUxw8", 
+    "geometry": {
+        "location": {
+            "lat": 52.51046090000001, 
+            "lng": 13.3884909
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5117128802915, 
+                "lng": 13.3898557802915
+            }, 
+            "southwest": {
+                "lat": 52.5090149197085, 
+                "lng": 13.3871578197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 111</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJnzIrn29RqEcRmQhlujeUxw8", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+59", 
+        "compound_code": "G96Q+59 Berlin, Germany"
+    }, 
+    "vicinity": "Leipziger Stra\u00dfe 111, Berlin", 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "marek \u0142adzik", 
+            "language": "pl", 
+            "text": "Ekskluzywny hotel Hiszpa\u0144ski mi\u0142a obs\u0142uga czysto polecam centrum Berlina", 
+            "relative_time_description": "a week ago", 
+            "author_url": "https://www.google.com/maps/contrib/107281114896089421183/reviews", 
+            "time": 1560434749, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rnJ1MXh5Ngg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcNRsiyGIfMwxfX4XNwRoSpH_uQ8w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg"
+        }
+    ], 
+    "url": "https://maps.google.com/?cid=1137040398005635225", 
+    "address_components": [
+        {
+            "long_name": "111", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "111"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 111, 10117 Berlin, Germany", 
+    "id": "51c0cf472193eba0cbdbe8304abd0f41826494fe", 
+    "types": [
+        "lodging", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+}

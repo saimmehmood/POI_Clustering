@@ -1,0 +1,95 @@
+{
+    "utc_offset": 120, 
+    "name": "Deutsche StiftungsConsulting", 
+    "reference": "ChIJz7Ex5MZRqEcRTgCMunh2pb4", 
+    "geometry": {
+        "location": {
+            "lat": 52.517193, 
+            "lng": 13.378529
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51834898029149, 
+                "lng": 13.3799132302915
+            }, 
+            "southwest": {
+                "lat": 52.51565101970849, 
+                "lng": 13.3772152697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Pariser Platz 6</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJz7Ex5MZRqEcRTgCMunh2pb4", 
+    "international_phone_number": "+49 30 322982514", 
+    "plus_code": {
+        "global_code": "9F4MG98H+VC", 
+        "compound_code": "G98H+VC Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 322982514", 
+    "url": "https://maps.google.com/?cid=13737516499261456462", 
+    "scope": "GOOGLE", 
+    "vicinity": "Pariser Platz 6, Berlin", 
+    "address_components": [
+        {
+            "long_name": "6", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "6"
+        }, 
+        {
+            "long_name": "Pariser Platz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Pariser Platz"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Pariser Platz 6, 10117 Berlin, Germany", 
+    "id": "c135b9fa4dd0bd1a77961765cfbd2a353f8531b1", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

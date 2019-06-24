@@ -1,0 +1,109 @@
+{
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Jump kita", 
+    "reference": "ChIJ395AZc9RqEcR6llzv-NdrWo", 
+    "geometry": {
+        "location": {
+            "lat": 52.5124193, 
+            "lng": 13.3822603
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5138261802915, 
+                "lng": 13.3839088302915
+            }, 
+            "southwest": {
+                "lat": 52.5111282197085, 
+                "lng": 13.3812108697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Wilhelmstra\u00dfe 88</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ395AZc9RqEcR6llzv-NdrWo", 
+    "international_phone_number": "+49 30 47051700", 
+    "plus_code": {
+        "global_code": "9F4MG96J+XW", 
+        "compound_code": "G96J+XW Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Anton N.", 
+            "language": "en", 
+            "text": "Awesome place! Best bilingual kita in Berlin!", 
+            "relative_time_description": "7 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/117173288510081287715/reviews", 
+            "time": 1541373283, 
+            "profile_photo_url": "https://lh3.googleusercontent.com/-hu5dlKzpjnI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re-xfalQb9c7QTafpYt4OoM0fiqLg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 47051700", 
+    "url": "https://maps.google.com/?cid=7686903371742271978", 
+    "vicinity": "Wilhelmstra\u00dfe 88, Berlin", 
+    "address_components": [
+        {
+            "long_name": "88", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "88"
+        }, 
+        {
+            "long_name": "Wilhelmstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Wilhelmstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Wilhelmstra\u00dfe 88, 10117 Berlin, Germany", 
+    "id": "eb3e7a3dbe55cf6fe26512003d286db5bfc0c1a8", 
+    "types": [
+        "school", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+}

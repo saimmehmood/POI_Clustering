@@ -1,0 +1,81 @@
+{
+    "utc_offset": 120, 
+    "name": "Jerusalemer Stra\u00dfe", 
+    "reference": "ChIJHydqnNdRqEcRvTkmwOoNH6E", 
+    "geometry": {
+        "location": {
+            "lat": 52.5103568, 
+            "lng": 13.3980534
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5117057802915, 
+                "lng": 13.3994023802915
+            }, 
+            "southwest": {
+                "lat": 52.5090078197085, 
+                "lng": 13.3967044197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Jerusalemer Str.</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJHydqnNdRqEcRvTkmwOoNH6E", 
+    "vicinity": "Bezirk Mitte", 
+    "url": "https://maps.google.com/?q=Jerusalemer+Str.,+10117+Berlin,+Germany&ftid=0x47a851d79c6a271f:0xa11f0deac02639bd", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Jerusalemer Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Jerusalemer Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Jerusalemer Str., 10117 Berlin, Germany", 
+    "id": "ec63c100aa0828be6d892d517452b29ebfac27ab", 
+    "types": [
+        "route"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+}

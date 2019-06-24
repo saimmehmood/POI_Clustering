@@ -1,0 +1,96 @@
+{
+    "utc_offset": 120, 
+    "name": "K.o.b.u.r.g. Reisen GmbH", 
+    "reference": "ChIJlwplSNBRqEcRxCTDyQMG_TA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51031099999999, 
+            "lng": 13.3881838
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51162798029149, 
+                "lng": 13.3895380302915
+            }, 
+            "southwest": {
+                "lat": 52.50893001970849, 
+                "lng": 13.3868400697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Str. 120</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJlwplSNBRqEcRxCTDyQMG_TA", 
+    "international_phone_number": "+49 30 20458644", 
+    "plus_code": {
+        "global_code": "9F4MG96Q+47", 
+        "compound_code": "G96Q+47 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 20458644", 
+    "url": "https://maps.google.com/?cid=3529984296268014788", 
+    "scope": "GOOGLE", 
+    "vicinity": "Leipziger Stra\u00dfe 120, Berlin", 
+    "address_components": [
+        {
+            "long_name": "120", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "120"
+        }, 
+        {
+            "long_name": "Leipziger Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Str."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Str. 120, 10117 Berlin, Germany", 
+    "id": "1ebc85aba76b161ab009b2a5ed436c9dec9b02bd", 
+    "types": [
+        "travel_agency", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,95 @@
+{
+    "website": "http://www.mazda-adli.de/kontakt/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "Mazda Adli", 
+    "reference": "ChIJq6p6ENpRqEcRCHYwMeyq0FA", 
+    "geometry": {
+        "location": {
+            "lat": 52.51255219999999, 
+            "lng": 13.3938745
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51380668029149, 
+                "lng": 13.3952367302915
+            }, 
+            "southwest": {
+                "lat": 52.5111087197085, 
+                "lng": 13.3925387697085
+            }
+        }
+    }, 
+    "adr_address": "34 Markgrafenstra\u00dfe, Berlin 10117, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJq6p6ENpRqEcRCHYwMeyq0FA", 
+    "international_phone_number": "+49 30 20459729", 
+    "plus_code": {
+        "global_code": "9F4MG97V+2G", 
+        "compound_code": "G97V+2G Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-EpFOwv3EAMk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8xGzXQTAZ9keL57Ru8haAzCv3bQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "Prinz Monti", 
+            "text": "", 
+            "relative_time_description": "2 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/111100580860585982353/reviews", 
+            "time": 1554317092
+        }
+    ], 
+    "formatted_phone_number": "030 20459729", 
+    "url": "https://maps.google.com/?cid=5823342249604314632", 
+    "scope": "GOOGLE", 
+    "vicinity": "34 Markgrafenstra\u00dfe, Berlin 10117", 
+    "address_components": [
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "34 Markgrafenstra\u00dfe, Berlin 10117, 10117 Berlin, Germany", 
+    "id": "c3f1e9f7e9f16a6068a077acf70c89ba880972d3", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

@@ -1,0 +1,144 @@
+{
+    "website": "https://www.vattenfall.de/de/emobility/ladestationen-berlin.htm", 
+    "utc_offset": 120, 
+    "name": "VATTENFALL", 
+    "reference": "ChIJ3a7jNslRqEcRmzRnDGlVr3M", 
+    "photos": [
+        {
+            "photo_reference": "CmRaAAAAzASp__esfkJmAhMEOvbZoSo0GF1qKsULw678pGCEYw4dKJdjIXyONO54trQAE6ma9Wly2DHsJTpnMWjb9bRfRnVe753uw8SBu6T6w5PyIVakG7emjs5SPYxJxGRlrcBCEhBqhNeBakPZl7R8R3ta6q3iGhSJr7jrzmExVOQr5ZandZi8AxFbKg", 
+            "width": 1836, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111217688578943462649/photos\">PA M</a>"
+            ], 
+            "height": 3264
+        }, 
+        {
+            "photo_reference": "CmRaAAAADSrdbeBn2_YecUbTW50ZjgXtLiiIX86IajZ6M87m5aRK_zCXIXEKb4EXzooA31GNb5tdWAFsEWaxuWGvruHo1ghU2mXz73N8eBRYWvQCfCMgQ59_EP0_GISzd8RibKZ4EhAvuKHKyXEH9MTUR3Q8aSrnGhRPsNX9NZDBqf4GOiO39fGvGnp7WA", 
+            "width": 1391, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111217688578943462649/photos\">PA M</a>"
+            ], 
+            "height": 3264
+        }, 
+        {
+            "photo_reference": "CmRaAAAA29XUYKquY6AwlX1s_XoQOdn_OJvXiQ097KBPzB0r4PgZH5MOI8u866zfrodhPl_Rk0nfo5_mNxa3IBBXUga3MQlPG8sXNW3jLRf2Om-aQJGuUUf4BRVl2dLuRWDHOIqzEhCb9xfb32bEiGePkAYxu3wxGhTclg8uFcLlTNOiid9oZl98XmzxJw", 
+            "width": 1836, 
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111217688578943462649/photos\">PA M</a>"
+            ], 
+            "height": 3264
+        }
+    ], 
+    "geometry": {
+        "location": {
+            "lat": 52.5102156, 
+            "lng": 13.3778172
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51158583029149, 
+                "lng": 13.3791421302915
+            }, 
+            "southwest": {
+                "lat": 52.5088878697085, 
+                "lng": 13.3764441697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Leipziger Pl. 19</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ3a7jNslRqEcRmzRnDGlVr3M", 
+    "international_phone_number": "+49 800 2335335", 
+    "plus_code": {
+        "global_code": "9F4MG96H+34", 
+        "compound_code": "G96H+34 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0800 2335335", 
+    "scope": "GOOGLE", 
+    "url": "https://maps.google.com/?cid=8335975344954094747", 
+    "opening_hours": {
+        "weekday_text": [
+            "Monday: Open 24 hours", 
+            "Tuesday: Open 24 hours", 
+            "Wednesday: Open 24 hours", 
+            "Thursday: Open 24 hours", 
+            "Friday: Open 24 hours", 
+            "Saturday: Open 24 hours", 
+            "Sunday: Open 24 hours"
+        ], 
+        "open_now": true, 
+        "periods": [
+            {
+                "open": {
+                    "day": 0, 
+                    "time": "0000"
+                }
+            }
+        ]
+    }, 
+    "vicinity": "Leipziger Platz 19, Berlin", 
+    "address_components": [
+        {
+            "long_name": "19", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "19"
+        }, 
+        {
+            "long_name": "Leipziger Platz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Leipziger Pl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Leipziger Pl. 19, 10117 Berlin, Germany", 
+    "id": "529e04885f47daa1fba2afa471b1187331dccdcb", 
+    "types": [
+        "home_goods_store", 
+        "store", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+}

@@ -1,0 +1,96 @@
+{
+    "website": "http://aigner-onlineshop.de/", 
+    "utc_offset": 120, 
+    "name": "Aigner\u00b4s Online Shop", 
+    "reference": "ChIJk5oK49pRqEcRQ91nQ0_10kg", 
+    "geometry": {
+        "location": {
+            "lat": 52.5145655, 
+            "lng": 13.3908203
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51592418029151, 
+                "lng": 13.3923287302915
+            }, 
+            "southwest": {
+                "lat": 52.51322621970851, 
+                "lng": 13.3896307697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Franz\u00f6sische Stra\u00dfe 25</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJk5oK49pRqEcRQ91nQ0_10kg", 
+    "international_phone_number": "+49 30 203751850", 
+    "plus_code": {
+        "global_code": "9F4MG97R+R8", 
+        "compound_code": "G97R+R8 Berlin, Germany"
+    }, 
+    "formatted_phone_number": "030 203751850", 
+    "url": "https://maps.google.com/?cid=5247526236622150979", 
+    "scope": "GOOGLE", 
+    "vicinity": "Franz\u00f6sische Stra\u00dfe 25, Berlin", 
+    "address_components": [
+        {
+            "long_name": "25", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "25"
+        }, 
+        {
+            "long_name": "Franz\u00f6sische Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Franz\u00f6sische Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Franz\u00f6sische Stra\u00dfe 25, 10117 Berlin, Germany", 
+    "id": "e4cbd12336ce608b0f944e176fdab9d8d3c4d9a6", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

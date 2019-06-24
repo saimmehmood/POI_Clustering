@@ -1,0 +1,79 @@
+{
+    "utc_offset": 120, 
+    "name": "Ehemaliger Standort Neptunbrunnen", 
+    "reference": "ChIJS8gPhbpRqEcRKe1OafWtwOE", 
+    "geometry": {
+        "location": {
+            "lat": 52.51658809999999, 
+            "lng": 13.4022857
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51795613029149, 
+                "lng": 13.4036773302915
+            }, 
+            "southwest": {
+                "lat": 52.5152581697085, 
+                "lng": 13.4009793697085
+            }
+        }
+    }, 
+    "adr_address": "Unnamed Road, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJS8gPhbpRqEcRKe1OafWtwOE", 
+    "plus_code": {
+        "global_code": "9F4MGC82+JW", 
+        "compound_code": "GC82+JW Berlin, Germany"
+    }, 
+    "vicinity": "Unnamed Road, Berlin", 
+    "url": "https://maps.google.com/?cid=16267193123607604521", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "Unnamed Road, 10178 Berlin, Germany", 
+    "id": "3e095bd190bf526ec1167d65a599d1de4ff0bcc9", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

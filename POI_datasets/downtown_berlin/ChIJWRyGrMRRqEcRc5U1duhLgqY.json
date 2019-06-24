@@ -1,0 +1,93 @@
+{
+    "utc_offset": 120, 
+    "name": "ROT 13 V G", 
+    "reference": "ChIJWRyGrMRRqEcRc5U1duhLgqY", 
+    "geometry": {
+        "location": {
+            "lat": 52.5174534, 
+            "lng": 13.3897847
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.51868668029149, 
+                "lng": 13.3911600302915
+            }, 
+            "southwest": {
+                "lat": 52.5159887197085, 
+                "lng": 13.3884620697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Unter den Linden 14</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJWRyGrMRRqEcRc5U1duhLgqY", 
+    "plus_code": {
+        "global_code": "9F4MG98Q+XW", 
+        "compound_code": "G98Q+XW Berlin, Germany"
+    }, 
+    "vicinity": "Unter den Linden 14, Berlin", 
+    "url": "https://maps.google.com/?cid=11998235819056141683", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "14", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "14"
+        }, 
+        {
+            "long_name": "Unter den Linden", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Unter den Linden"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Unter den Linden 14, 10117 Berlin, Germany", 
+    "id": "2d79f5c27d7520fc0c80dfdcefbde62d42ab1e01", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png"
+}

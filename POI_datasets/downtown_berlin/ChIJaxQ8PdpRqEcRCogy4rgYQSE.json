@@ -1,0 +1,109 @@
+{
+    "website": "http://www.gameduell.de/", 
+    "rating": 5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 1, 
+    "name": "GameDuell Community GmbH", 
+    "reference": "ChIJaxQ8PdpRqEcRCogy4rgYQSE", 
+    "geometry": {
+        "location": {
+            "lat": 52.5131826, 
+            "lng": 13.3941489
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5145729302915, 
+                "lng": 13.3954905302915
+            }, 
+            "southwest": {
+                "lat": 52.5118749697085, 
+                "lng": 13.3927925697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Taubenstra\u00dfe 24</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJaxQ8PdpRqEcRCogy4rgYQSE", 
+    "international_phone_number": "+49 30 288777682", 
+    "plus_code": {
+        "global_code": "9F4MG97V+7M", 
+        "compound_code": "G97V+7M Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "Marko Radonic", 
+            "language": "de", 
+            "text": "Geiler Laden! Bin hier oft und gerne...man hat das Gef\u00fchl, gut aufgehoben zu sein.", 
+            "relative_time_description": "6 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/106178281229340613962/reviews", 
+            "time": 1543684759, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-UC3g0CFI3bs/AAAAAAAAAAI/AAAAAAAAAC8/-jwgtMc9t3k/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg"
+        }
+    ], 
+    "formatted_phone_number": "030 288777682", 
+    "url": "https://maps.google.com/?cid=2396223659085826058", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "24", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "24"
+        }, 
+        {
+            "long_name": "Taubenstra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Taubenstra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Taubenstra\u00dfe 24, 10117 Berlin, Germany", 
+    "vicinity": "Taubenstra\u00dfe 24, Berlin", 
+    "types": [
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

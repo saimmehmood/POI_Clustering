@@ -1,0 +1,97 @@
+{
+    "website": "http://angelfund.vc/", 
+    "utc_offset": 120, 
+    "name": "MAS Angel Fund", 
+    "reference": "ChIJ0Vt0K99RqEcRk3dkig7uDfo", 
+    "geometry": {
+        "location": {
+            "lat": 52.5157068, 
+            "lng": 13.4014644
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5171912302915, 
+                "lng": 13.4027408302915
+            }, 
+            "southwest": {
+                "lat": 52.5144932697085, 
+                "lng": 13.4000428697085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Schlo\u00dfpl. 1</span>, <span class=\"postal-code\">10178</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJ0Vt0K99RqEcRk3dkig7uDfo", 
+    "international_phone_number": "+49 173 9751021", 
+    "plus_code": {
+        "global_code": "9F4MGC82+7H", 
+        "compound_code": "GC82+7H Berlin, Germany"
+    }, 
+    "formatted_phone_number": "0173 9751021", 
+    "url": "https://maps.google.com/?cid=18018319430398015379", 
+    "scope": "GOOGLE", 
+    "vicinity": "Schlo\u00dfplatz 1, Berlin", 
+    "address_components": [
+        {
+            "long_name": "1", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "1"
+        }, 
+        {
+            "long_name": "Schlo\u00dfplatz", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Schlo\u00dfpl."
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10178", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10178"
+        }
+    ], 
+    "formatted_address": "Schlo\u00dfpl. 1, 10178 Berlin, Germany", 
+    "id": "1ab77b529b913dcccfd7c894bd40b095009dcd38", 
+    "types": [
+        "finance", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}

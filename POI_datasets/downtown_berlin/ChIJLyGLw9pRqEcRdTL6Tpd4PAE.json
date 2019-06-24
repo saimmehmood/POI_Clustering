@@ -1,0 +1,138 @@
+{
+    "website": "http://www.mavala.de/", 
+    "rating": 4.5, 
+    "utc_offset": 120, 
+    "user_ratings_total": 4, 
+    "name": "MAVALA", 
+    "reference": "ChIJLyGLw9pRqEcRdTL6Tpd4PAE", 
+    "geometry": {
+        "location": {
+            "lat": 52.5145039, 
+            "lng": 13.3898667
+        }, 
+        "viewport": {
+            "northeast": {
+                "lat": 52.5160030302915, 
+                "lng": 13.3911819802915
+            }, 
+            "southwest": {
+                "lat": 52.5133050697085, 
+                "lng": 13.3884840197085
+            }
+        }
+    }, 
+    "adr_address": "<span class=\"street-address\">Franz\u00f6sische Stra\u00dfe 23</span>, <span class=\"postal-code\">10117</span> <span class=\"locality\">Berlin</span>, <span class=\"country-name\">Germany</span>", 
+    "place_id": "ChIJLyGLw9pRqEcRdTL6Tpd4PAE", 
+    "international_phone_number": "+49 30 21226207", 
+    "plus_code": {
+        "global_code": "9F4MG97Q+RW", 
+        "compound_code": "G97Q+RW Berlin, Germany"
+    }, 
+    "reviews": [
+        {
+            "rating": 5, 
+            "author_name": "MrCatazy", 
+            "language": "en", 
+            "text": "It was nice", 
+            "relative_time_description": "5 months ago", 
+            "author_url": "https://www.google.com/maps/contrib/105087668587582539965/reviews", 
+            "time": 1547112833, 
+            "profile_photo_url": "https://lh6.googleusercontent.com/-uf9CxoFpV60/AAAAAAAAAAI/AAAAAAAALNU/Ush0EfKpYxs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg"
+        }, 
+        {
+            "rating": 4, 
+            "author_name": "Mario Souto", 
+            "language": "pt", 
+            "text": "Bom", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/107381303023930478741/reviews", 
+            "time": 1524941196, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3Lr_eMwH58I/AAAAAAAAAAI/AAAAAAAAAAA/DMhnD5v5IuQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg"
+        }, 
+        {
+            "rating": 5, 
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3DjXxUUJQC0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reWGaUR4cQkWjeNNiXm1oUTJoPu9Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg", 
+            "author_name": "Giuseppe Ronconi", 
+            "text": "", 
+            "relative_time_description": "a week ago", 
+            "author_url": "https://www.google.com/maps/contrib/102842428876032119679/reviews", 
+            "time": 1560261076
+        }, 
+        {
+            "rating": 4, 
+            "profile_photo_url": "https://lh5.googleusercontent.com/-WCkV5u5n2rg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf7ncm2ihXqfSjJWcPtzvc9nDjJ8g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg", 
+            "author_name": "RAINER MARIA W Berlin", 
+            "text": "", 
+            "relative_time_description": "a year ago", 
+            "author_url": "https://www.google.com/maps/contrib/112310216992973304219/reviews", 
+            "time": 1526642935
+        }
+    ], 
+    "formatted_phone_number": "030 21226207", 
+    "url": "https://maps.google.com/?cid=89078683900981877", 
+    "scope": "GOOGLE", 
+    "address_components": [
+        {
+            "long_name": "23", 
+            "types": [
+                "street_number"
+            ], 
+            "short_name": "23"
+        }, 
+        {
+            "long_name": "Franz\u00f6sische Stra\u00dfe", 
+            "types": [
+                "route"
+            ], 
+            "short_name": "Franz\u00f6sische Stra\u00dfe"
+        }, 
+        {
+            "long_name": "Bezirk Mitte", 
+            "types": [
+                "sublocality_level_1", 
+                "sublocality", 
+                "political"
+            ], 
+            "short_name": "Bezirk Mitte"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "locality", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Berlin", 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ], 
+            "short_name": "Berlin"
+        }, 
+        {
+            "long_name": "Germany", 
+            "types": [
+                "country", 
+                "political"
+            ], 
+            "short_name": "DE"
+        }, 
+        {
+            "long_name": "10117", 
+            "types": [
+                "postal_code"
+            ], 
+            "short_name": "10117"
+        }
+    ], 
+    "formatted_address": "Franz\u00f6sische Stra\u00dfe 23, 10117 Berlin, Germany", 
+    "vicinity": "Franz\u00f6sische Stra\u00dfe 23, Berlin", 
+    "types": [
+        "beauty_salon", 
+        "point_of_interest", 
+        "establishment"
+    ], 
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+}
