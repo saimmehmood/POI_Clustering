@@ -149,6 +149,9 @@ select ce.cell_names
 	
 -- Getting cell_names of the cells from which traj is passing through. (Considering single traj id)
 
+-- This method is better than the previous one as it keeps the sequence of cells 
+-- from which trajectories passed through. 
+
 SELECT traj_id, cell_id, cell_names
 FROM   (
   SELECT tr.traj_id, ce.cell_id, ce.cell_names,

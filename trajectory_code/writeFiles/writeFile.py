@@ -57,7 +57,7 @@ def generateTrajectory(API_KEY, mode, thershold, waypoints, _upper_boundary_coor
 
     #error handling
     while path == []:
-        start, end = generateStartEnd(mode, thershold)
+        start, end = generateStartEnd(mode, thershold, _upper_boundary_coordinate, _lower_boundary_coordinate)
         path = route.getPath(API_KEY, start, end, waypoints, mode, 0, thershold)
     
     trajectory = route.findRoute(path, start, waypoints, end, mode, 0, thershold)
