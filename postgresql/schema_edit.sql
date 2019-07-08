@@ -27,7 +27,6 @@ update poi set geom_point = st_setsrid(geom_point, 4326)
 
  create table traj (
  	traj_id serial primary key, 
-	obj_id integer references obj(obj_id),
  	total_distance text, 
  	travel_time text, 
 	traj_path geometry -- Adding LINESTRING in the data column through notepad++
