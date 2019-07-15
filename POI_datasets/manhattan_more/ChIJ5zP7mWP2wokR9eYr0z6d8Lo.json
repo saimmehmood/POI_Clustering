@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "3513",
+            "short_name": "3513",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5622",
+            "short_name": "5622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3513 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3513 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8257139,
+            "lng": -73.9516027
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269837302915,
+                "lng": -73.9500658697085
+            },
+            "southwest": {
+                "lat": 40.8242857697085,
+                "lng": -73.95276383029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "8cba7e2d02b53985fa10b7a553265a4b91d2eec5",
+    "name": "ATM Express",
+    "place_id": "ChIJ5zP7mWP2wokR9eYr0z6d8Lo",
+    "plus_code": {
+        "compound_code": "R2GX+79 New York, United States",
+        "global_code": "87G8R2GX+79"
+    },
+    "reference": "ChIJ5zP7mWP2wokR9eYr0z6d8Lo",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13470439378621556469",
+    "utc_offset": -240,
+    "vicinity": "3513 Broadway, New York"
+}

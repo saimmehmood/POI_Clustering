@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1587",
+            "short_name": "1587",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4209",
+            "short_name": "4209",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1587 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4209</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1587 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 772-9383",
+    "geometry": {
+        "location": {
+            "lat": 40.774757,
+            "lng": -73.951283
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7760464302915,
+                "lng": -73.94979596970849
+            },
+            "southwest": {
+                "lat": 40.7733484697085,
+                "lng": -73.9524939302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "91ca586a690f35ed43b335364bb6d6d3ac2149af",
+    "international_phone_number": "+1 212-772-9383",
+    "name": "Allsash Architectural Products Crp",
+    "place_id": "ChIJqbDterlYwokRlGmkoJ5ZgS0",
+    "plus_code": {
+        "compound_code": "Q2FX+WF New York, United States",
+        "global_code": "87G8Q2FX+WF"
+    },
+    "reference": "ChIJqbDterlYwokRlGmkoJ5ZgS0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3279000541537266068",
+    "utc_offset": -240,
+    "vicinity": "1587 1st Avenue, New York"
+}

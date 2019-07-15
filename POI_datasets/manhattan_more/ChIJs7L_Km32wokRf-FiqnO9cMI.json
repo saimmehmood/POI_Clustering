@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "237-299",
+            "short_name": "237-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Doctor Martin Luther King Junior Boulevard",
+            "short_name": "Dr Martin Luther King Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">237-299 Dr Martin Luther King Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "237-299 Dr Martin Luther King Jr Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8098903,
+            "lng": -73.9504795
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8112393302915,
+                "lng": -73.94912874999999
+            },
+            "southwest": {
+                "lat": 40.8085413697085,
+                "lng": -73.95183015
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "396ba81062d6f3d5bbeb11c7eaff10ec97918eb7",
+    "name": "237-299 Dr Martin Luther King Jr Blvd",
+    "place_id": "ChIJs7L_Km32wokRf-FiqnO9cMI",
+    "reference": "ChIJs7L_Km32wokRf-FiqnO9cMI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=237-299+Dr+Martin+Luther+King+Jr+Blvd,+New+York,+NY+10027,+USA&ftid=0x89c2f66d2affb2b3:0xc270bd73aa62e17f",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

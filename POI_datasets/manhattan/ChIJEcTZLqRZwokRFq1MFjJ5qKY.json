@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1210",
+            "short_name": "# 1210",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1123",
+            "short_name": "1123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2007",
+            "short_name": "2007",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1123 Broadway # 1210</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010-2007</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1123 Broadway # 1210, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 691-0909",
+    "geometry": {
+        "location": {
+            "lat": 40.743251,
+            "lng": -73.989339
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7445875302915,
+                "lng": -73.9878939697085
+            },
+            "southwest": {
+                "lat": 40.7418895697085,
+                "lng": -73.9905919302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "298de9d1026aa526c1df130d82929ba5bfb5fc46",
+    "international_phone_number": "+1 212-691-0909",
+    "name": "Friends Without A Border",
+    "photos": [
+        {
+            "height": 485,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106142011117076252271/photos\">Friends Without A Border</a>"
+            ],
+            "photo_reference": "CmRaAAAAKxIbXBUpDLvngQDrWOWo8EDujGC6Qck9WUsKG704S5UzXwgPdcaUxvSQqZACxpGUvlw56T6g4q6VgjXM3CTAq6KIJEv7sCM0sycc78jlaWihAq70FZFOynB8oWjX2DoHEhDh1YFfDDevExhuH_Zb-8YnGhQ0T1Re3FuwKTSYBtjEWpoHrSf7JA",
+            "width": 485
+        }
+    ],
+    "place_id": "ChIJEcTZLqRZwokRFq1MFjJ5qKY",
+    "plus_code": {
+        "compound_code": "P2V6+87 New York, United States",
+        "global_code": "87G8P2V6+87"
+    },
+    "reference": "ChIJEcTZLqRZwokRFq1MFjJ5qKY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12008981662412877078",
+    "utc_offset": -240,
+    "vicinity": "1123 Broadway # 1210, New York",
+    "website": "http://www.fwab.org/"
+}

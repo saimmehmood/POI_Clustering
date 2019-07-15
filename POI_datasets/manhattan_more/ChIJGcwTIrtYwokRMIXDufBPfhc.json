@@ -1,0 +1,245 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1691",
+            "short_name": "1691",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "2nd Avenue",
+            "short_name": "2nd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3259",
+            "short_name": "3259",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1691 2nd Ave #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3259</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1691 2nd Ave #2, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 427-5598",
+    "geometry": {
+        "location": {
+            "lat": 40.77904590000001,
+            "lng": -73.951105
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7803618802915,
+                "lng": -73.9496793197085
+            },
+            "southwest": {
+                "lat": 40.7776639197085,
+                "lng": -73.95237728029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "36f9ee213e5028874bfb9a67c6751dea56bb0730",
+    "international_phone_number": "+1 212-427-5598",
+    "name": "Fine Cleaners",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJGcwTIrtYwokRMIXDufBPfhc",
+    "plus_code": {
+        "compound_code": "Q2HX+JH New York, United States",
+        "global_code": "87G8Q2HX+JH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJGcwTIrtYwokRMIXDufBPfhc",
+    "reviews": [
+        {
+            "author_name": "Steven Zisblatt",
+            "author_url": "https://www.google.com/maps/contrib/112338649862323588898/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MkIcU3u8xIE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfGGAlKlAOmUKMgRO5BctRG57gpXQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great cleaning been using them for months now",
+            "time": 1559996117
+        },
+        {
+            "author_name": "Andy Warneck",
+            "author_url": "https://www.google.com/maps/contrib/101102467845694681782/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aE8McobD3uQ/AAAAAAAAAAI/AAAAAAAAAQw/oG1NY3j-KMg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Friendly, quality work.",
+            "time": 1546604829
+        },
+        {
+            "author_name": "Valentin Chelnokov",
+            "author_url": "https://www.google.com/maps/contrib/104985620104968331493/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tGrnwFO9efE/AAAAAAAAAAI/AAAAAAACVaE/NRELSObIodY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "I am a loyal customer of this place! Always friendly, always on time, and most importantly - a good price on alterations and dry cleaning. IMHO, best around. ",
+            "time": 1370555714
+        },
+        {
+            "author_name": "\uac15\ub3d9\uade0",
+            "author_url": "https://www.google.com/maps/contrib/107619560407821745847/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-J8MLziVE4n4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reH5PQZc1HSUg5GdvV8WUXO98ieVQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "Not  bad..",
+            "time": 1370734070
+        },
+        {
+            "author_name": "lovelie tejada",
+            "author_url": "https://www.google.com/maps/contrib/115569073814877979896/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Jb18FQXr7Y4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcunYJLZkJdBwJwpKqlSWsK0INo7w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1461683661
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1692878405265229104",
+    "user_ratings_total": 6,
+    "utc_offset": -240,
+    "vicinity": "1691 2nd Avenue #2, New York"
+}

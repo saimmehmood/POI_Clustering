@@ -1,0 +1,131 @@
+{
+    "address_components": [
+        {
+            "long_name": "11",
+            "short_name": "11",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "450",
+            "short_name": "450",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 33rd Street",
+            "short_name": "West 33rd Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2650",
+            "short_name": "2650",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450 West 33rd Street #11</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-2650</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450 West 33rd Street #11, New York, NY 10001, USA",
+    "formatted_phone_number": "(212) 716-6800",
+    "geometry": {
+        "location": {
+            "lat": 40.7530297,
+            "lng": -73.9994391
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75451838029149,
+                "lng": -73.9984139697085
+            },
+            "southwest": {
+                "lat": 40.75182041970849,
+                "lng": -74.0011119302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f773a25f4a9cc2f8e6b3f52105c1731efb8cc383",
+    "international_phone_number": "+1 212-716-6800",
+    "name": "US News & World Report LP",
+    "place_id": "ChIJ-VIFx7NZwokR8ctJO2Zjf1Y",
+    "plus_code": {
+        "compound_code": "Q232+66 New York, United States",
+        "global_code": "87G8Q232+66"
+    },
+    "rating": 1,
+    "reference": "ChIJ-VIFx7NZwokR8ctJO2Zjf1Y",
+    "reviews": [
+        {
+            "author_name": "Eric Chen",
+            "author_url": "https://www.google.com/maps/contrib/100867480047015498230/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vhpNTuQLayM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdOE0A-uSBxOLy7KBldG1iQJyz3dw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "Hot trash",
+            "time": 1532631225
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6232809700036561905",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "450 West 33rd Street #11, New York"
+}

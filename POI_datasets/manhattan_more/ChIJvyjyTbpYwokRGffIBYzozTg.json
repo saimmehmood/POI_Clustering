@@ -1,0 +1,197 @@
+{
+    "address_components": [
+        {
+            "long_name": "340",
+            "short_name": "340",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 86th Street",
+            "short_name": "East 86th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4661",
+            "short_name": "4661",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">340 East 86th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4661</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "340 East 86th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 517-0037",
+    "geometry": {
+        "location": {
+            "lat": 40.7769876,
+            "lng": -73.95037889999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7784548802915,
+                "lng": -73.94894361970849
+            },
+            "southwest": {
+                "lat": 40.7757569197085,
+                "lng": -73.9516415802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "54735a6724c93be9f2f29f14e1e0c8fb3a430bab",
+    "international_phone_number": "+1 212-517-0037",
+    "name": "Max Gurvits, PharmD",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJvyjyTbpYwokRGffIBYzozTg",
+    "plus_code": {
+        "compound_code": "Q2GX+QR New York, United States",
+        "global_code": "87G8Q2GX+QR"
+    },
+    "reference": "ChIJvyjyTbpYwokRGffIBYzozTg",
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4093183324439770905",
+    "utc_offset": -240,
+    "vicinity": "340 East 86th Street, New York"
+}

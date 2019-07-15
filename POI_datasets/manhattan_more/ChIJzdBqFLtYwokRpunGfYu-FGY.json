@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "245",
+            "short_name": "245",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3240",
+            "short_name": "3240",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">245 E 87th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3240</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "245 E 87th St, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 289-0210",
+    "geometry": {
+        "location": {
+            "lat": 40.778894,
+            "lng": -73.95125159999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7801126802915,
+                "lng": -73.9499980697085
+            },
+            "southwest": {
+                "lat": 40.7774147197085,
+                "lng": -73.9526960302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "864335c04c21c3273f34a41ae7a44b24a022e0af",
+    "international_phone_number": "+1 212-289-0210",
+    "name": "245 East 87 Corporation",
+    "place_id": "ChIJzdBqFLtYwokRpunGfYu-FGY",
+    "plus_code": {
+        "compound_code": "Q2HX+HF New York, United States",
+        "global_code": "87G8Q2HX+HF"
+    },
+    "reference": "ChIJzdBqFLtYwokRpunGfYu-FGY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7355713597722782118",
+    "utc_offset": -240,
+    "vicinity": "245 East 87th Street, New York"
+}

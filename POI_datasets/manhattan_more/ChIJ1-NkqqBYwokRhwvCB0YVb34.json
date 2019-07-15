@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1651",
+            "short_name": "1651",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1651 3rd Ave #201</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1651 3rd Ave #201, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 831-5127",
+    "geometry": {
+        "location": {
+            "lat": 40.78282599999999,
+            "lng": -73.950684
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78423528029149,
+                "lng": -73.94947946970849
+            },
+            "southwest": {
+                "lat": 40.7815373197085,
+                "lng": -73.9521774302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87573d2e6662b4fd144b57febac8f0ce18a1dec0",
+    "international_phone_number": "+1 212-831-5127",
+    "name": "Jacalyn Filler L.C.S.W.",
+    "photos": [
+        {
+            "height": 475,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106120918943824990736/photos\">Jacalyn Filler L.C.S.W.</a>"
+            ],
+            "photo_reference": "CmRaAAAA-n-jczkljt7xEh93UWkNNngI5eKisyDbSYqZVUsupCrGAdFCV55hPjnVqlo-LTX8ZQP2OR12e45u7kju6SMFrFypiLQ33SzPEb3s86cwBODnDTRtCQkK-RKhT1Pr2qmyEhC1hgV1C6p6vwKIodyCup9WGhSk93_4GRjI6PCoID7pf6qGYb0rvA",
+            "width": 474
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106120918943824990736/photos\">Jacalyn Filler L.C.S.W.</a>"
+            ],
+            "photo_reference": "CmRaAAAAzkVhB58npoT7S3qSG-8wMVEqI6HhONMFkMwvi7PRi8HDrhgQrnnkKTmh0jGySEnQnaPA0TYIzx8Y4xYYV-VmZkovoB0m7aQms2pYSE446ufiAiI_dPDgNmjG1ueslLz0EhCCIPW6lfHQdOYkT_9SE6tXGhR124U-yzJK-TiyI7aEM536bVlKhw",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJ1-NkqqBYwokRhwvCB0YVb34",
+    "plus_code": {
+        "compound_code": "Q2MX+4P New York, United States",
+        "global_code": "87G8Q2MX+4P"
+    },
+    "reference": "ChIJ1-NkqqBYwokRhwvCB0YVb34",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9110523961715854215",
+    "utc_offset": -240,
+    "vicinity": "1651 3rd Avenue #201, New York"
+}

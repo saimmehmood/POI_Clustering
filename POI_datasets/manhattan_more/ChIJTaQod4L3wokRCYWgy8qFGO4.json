@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1614",
+            "short_name": "1614",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1614 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1614 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(315) 517-3673",
+    "geometry": {
+        "location": {
+            "lat": 40.8218976,
+            "lng": -73.9505625
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8231646302915,
+                "lng": -73.9490193197085
+            },
+            "southwest": {
+                "lat": 40.8204666697085,
+                "lng": -73.9517172802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4cc597b5408a15618389b16911386f64c8bdd7a1",
+    "international_phone_number": "+1 315-517-3673",
+    "name": "Metal Bulletin",
+    "place_id": "ChIJTaQod4L3wokRCYWgy8qFGO4",
+    "plus_code": {
+        "compound_code": "R2CX+QQ New York, United States",
+        "global_code": "87G8R2CX+QQ"
+    },
+    "reference": "ChIJTaQod4L3wokRCYWgy8qFGO4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17156609886514087177",
+    "utc_offset": -240,
+    "vicinity": "1614 Amsterdam Avenue, New York"
+}

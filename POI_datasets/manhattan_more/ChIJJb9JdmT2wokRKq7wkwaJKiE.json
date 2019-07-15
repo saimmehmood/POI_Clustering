@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "3484",
+            "short_name": "3484",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5611",
+            "short_name": "5611",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3484 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5611</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3484 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8246401,
+            "lng": -73.95139259999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260299302915,
+                "lng": -73.95013591970849
+            },
+            "southwest": {
+                "lat": 40.8233319697085,
+                "lng": -73.9528338802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "260cd86de6975ac3d07be203e52e5cab94347aea",
+    "name": "Cardtronics ATM",
+    "place_id": "ChIJJb9JdmT2wokRKq7wkwaJKiE",
+    "plus_code": {
+        "compound_code": "R2FX+VC New York, United States",
+        "global_code": "87G8R2FX+VC"
+    },
+    "reference": "ChIJJb9JdmT2wokRKq7wkwaJKiE",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2389873213618302506",
+    "utc_offset": -240,
+    "vicinity": "3484 Broadway, New York",
+    "website": "http://www.cardtronics.com/"
+}

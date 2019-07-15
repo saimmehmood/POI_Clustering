@@ -1,0 +1,297 @@
+{
+    "address_components": [
+        {
+            "long_name": "307",
+            "short_name": "307",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3607",
+            "short_name": "3607",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">307 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-3607</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "307 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 316-3199",
+    "geometry": {
+        "location": {
+            "lat": 40.810555,
+            "lng": -73.9516422
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81183668029149,
+                "lng": -73.9503402197085
+            },
+            "southwest": {
+                "lat": 40.8091387197085,
+                "lng": -73.9530381802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d7af7d5c3c6001fbcfdad747af15f314706fa0de",
+    "international_phone_number": "+1 212-316-3199",
+    "name": "Million Nail Salon",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:30 PM",
+            "Tuesday: 9:00 AM \u2013 7:30 PM",
+            "Wednesday: 9:00 AM \u2013 7:30 PM",
+            "Thursday: 9:00 AM \u2013 7:30 PM",
+            "Friday: 9:00 AM \u2013 7:30 PM",
+            "Saturday: 9:00 AM \u2013 7:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114405412745388154182/photos\">Tresi Rhys Last Name Myrrh</a>"
+            ],
+            "photo_reference": "CmRaAAAAmWwPc2QpEUd43snc2HIMYzmP3U7Ai1IZ-TLWlyyNdVia_lHIGyTBA18ZSlen7zpXW8ukhhzB0h1W-HGaKZtXn9N5D-nvUvmYtCvt1E3tR93AEtqzbgYFgItuHqii64DuEhAievTg-RgFjNPvOZE3OmiBGhTBwhyTNHYnbXq29qca9QzM5tEjjw",
+            "width": 2448
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102510111187173078197/photos\">Alfonso Briggs</a>"
+            ],
+            "photo_reference": "CmRaAAAAmMcsbvreAel6zi0gmNAUsKkoCoHFhGoCTTU1RM5YG70IEw6t4bdL3BFJvaRlfbhTgCkIwEYvsuPzhu8mT7-RmvqC3fk58l79M3CVPcyEH-I37W-dwXyjcr2D7BNu_SLwEhCZ4KzrfRPILPKXlGkJPf2RGhQ6vaBNRVyrLLfXfcPJ2j2Hq5h5MQ",
+            "width": 3456
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102510111187173078197/photos\">Alfonso Briggs</a>"
+            ],
+            "photo_reference": "CmRaAAAAgwzRL519_a_L7-DJ4swhIXthFUEj2BQLq59HJjDJbpe_JQl1ZOcX6aDkaxn3o9tw8EhEFKoXR59OaIVIIm-_iCdV_7F7uVvskOUSyQWLQk9qMmaa2AL8Ya0ZTBW285JVEhBgJ3pnjErUsQxv4nZROB20GhREAIk4ZjLFe-twAEhUzhCIKhDLBA",
+            "width": 2448
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111565760244509558099/photos\">Lily Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAUD7NQu3n4G-HrrhCmzHuCsZgf4KlJgEwEbzR5PvVqs3IJUoDPA5N1sjbBwOenaIRe2sWXm9GZK_mXFCz9XhIRgu-HxESryxexz30Bm-SUJSTIkx4uP9VixfHuBcp3TeKEhAsFd1WA-RFrNiaZer9QBHdGhQooi5INpdWDbUk8tZCV3XsSZ5Iog",
+            "width": 2988
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102510111187173078197/photos\">Alfonso Briggs</a>"
+            ],
+            "photo_reference": "CmRaAAAAIwAitTy7rQl1ToupsKflxOXxr47xFTJh4EawhbmY3vPEPKFELLje8_Sj2u8eFgMqkyGgfNjzH0owsK0ImPWczQKbB12CEbigwjRBiLrFpMF6JW51_pTZhE7AzxbZZSxWEhDF_88pYYjHscm1H5yancYmGhSq19c2YwHejLEac5v-ukR9DtdB6A",
+            "width": 3264
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102510111187173078197/photos\">Alfonso Briggs</a>"
+            ],
+            "photo_reference": "CmRaAAAAF6jSAJtc0sSB7DoIHmzstT4497zFMfWB8PPnh-MZTejl4Uz9lQ0gAudhlEFhJi4w5sDAz1Tguz1eSc8Xppo0XXYO5QoCDfSQVxawVE3srY9MPY5j7mh2DkSEk3RXnqcYEhCx9POMa62pCWcbYXCHi53RGhRLe7SJsVep_e1vfHYtEz_lecVMjQ",
+            "width": 3120
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102510111187173078197/photos\">Alfonso Briggs</a>"
+            ],
+            "photo_reference": "CmRaAAAAH9l6oIudFfHtaqd3J-HHa_StZfEmCxQZKcjhknEIFl9D_FOkXquVJgKF3nLqPaXtulIqJ1lVP5PjUG2o1D_BvSoukawVNuqG7yfTkdoGIrCGmH04hUJXOFFYnlSaBQxoEhAVbN3NdyWCGTpHB8VJszAiGhS_dFLY9Tjvx6lpqoRfnPt4PUqXtQ",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJm5OMz2z2wokREnig3cizgSk",
+    "plus_code": {
+        "compound_code": "R26X+68 New York, United States",
+        "global_code": "87G8R26X+68"
+    },
+    "rating": 4.2,
+    "reference": "ChIJm5OMz2z2wokREnig3cizgSk",
+    "reviews": [
+        {
+            "author_name": "Teshia Haynes",
+            "author_url": "https://www.google.com/maps/contrib/106594729619264936806/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7QjzYiBcYus/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcndAwCGcnwpihYQqSKkvQBZMG6ZQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "They are barely mediocre at best. I go here because they are one of the better ones in the area - that I know of. They don\u2019t speak much English and don\u2019t care too. Pedicure services are better than nail services. The cleanliness of the salon (they use paper towels instead of towels), speed, wait time are not on their list of priorities. The price point is quite expensive for the work they do and the shabby building. I have given them a solid six months but I can\u2019t do it anymore. I have had to wait almost two hours for service which is Ridiculous. Don\u2019t waste your time. I\u2019m from the south and I\u2019m used to quality service no matter where I go. Do better million nail.",
+            "time": 1554314836
+        },
+        {
+            "author_name": "Terry Campbell",
+            "author_url": "https://www.google.com/maps/contrib/106095516770326107432/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oaQL0SVBVuE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reE8ZUEHA6F_1DAgUodNWj54kS83g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "This is the best shop out. I love them.. my girl is janet. All of them is good.",
+            "time": 1561575672
+        },
+        {
+            "author_name": "Lina E Krakue",
+            "author_url": "https://www.google.com/maps/contrib/102244608993907606052/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YnvKSYQHGPQ/AAAAAAAAAAI/AAAAAAAAAPg/ISjCFFEZcQc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My sister has been coming here for years, and you meet great people here! Just made a new friend!",
+            "time": 1559340137
+        },
+        {
+            "author_name": "daisy espinosa",
+            "author_url": "https://www.google.com/maps/contrib/112780375772778771476/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-N1MvmNEyclw/AAAAAAAAAAI/AAAAAAAAJGU/iXq0d8G_iqw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "I have been getting my nails done and pedi for many many years. I preferred Jeanette out of all.  Lately I have been feeling certain way about the staff. Ex. Here I am at 5:30 walked In for a mani and a pedi. The girl in charge tells me you might get a pedi but we def can\u2019t do the mani. I asked why? she said there\u2019s four ppl for pedi. I looked around I see two customer waiting. I asked the girl why i can\u2019t get the mani done if it only takes about 10/15 min? She said you have gel on your fingers. Which normally take my reg girl 5 min to removed. One of the two customers leaves. I asked her so now what? I can get the mani done. She says yes. \nLong story short is the second time I come here and  they don\u2019t want to take customer because they want to run home. Before last I called they told me be here by 6 if you are not here by six we can\u2019t take you. I made it on time to see that the boss was here still taking customer at 7 pm. The staff can be a little ignorant about their comments about the clientele. I consider unprofessional. Oh by the way three more customers just walked in at 6 pm staff didn\u2019t say anything about what they are and not getting done.  What a joke!",
+            "time": 1562104772
+        },
+        {
+            "author_name": "Monty Del",
+            "author_url": "https://www.google.com/maps/contrib/103635945541791681090/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jmoVmNVpvPs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3red6ekyqbo_-8l3s8NIT9NglVEAaQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "My wife Louisa and girlfriend Ann take so good care of me.",
+            "time": 1560611144
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2990869302843832338",
+    "user_ratings_total": 93,
+    "utc_offset": -240,
+    "vicinity": "307 West 125th Street, New York"
+}

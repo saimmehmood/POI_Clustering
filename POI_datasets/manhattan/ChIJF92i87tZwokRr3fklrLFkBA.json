@@ -1,0 +1,136 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 20th Street",
+            "short_name": "W 20th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 W 20th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 W 20th St, New York, NY 10011, USA",
+    "formatted_phone_number": "(917) 596-5136",
+    "geometry": {
+        "location": {
+            "lat": 40.742994,
+            "lng": -73.999388
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7444336302915,
+                "lng": -73.99797276970848
+            },
+            "southwest": {
+                "lat": 40.7417356697085,
+                "lng": -74.00067073029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ee3dc42317629aceb9747db42a22990257650e5a",
+    "international_phone_number": "+1 917-596-5136",
+    "name": "Maguire Public Relations, Inc.",
+    "photos": [
+        {
+            "height": 993,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117941045707933308420/photos\">Maguire Public Relations, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAmd_J5weUeJain8VPcHo0Jl96wztYX6BizNm_0Xs3KohrQRV-ea2lJLvzBb-1v9iFA8IGp9VHtJSSqazcQzSumkSfRxdulde3BgsqSLIPKoabr9RbOIRLl77PxCx75w8kEhDndE4HgnpYPYerwCVSPtmjGhQ1GRBjOUtSq8MY8iZzmp5OWUrcfg",
+            "width": 993
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117941045707933308420/photos\">Maguire Public Relations, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAATa7Ycy9KujM3pH6Q8j177Tipln81Z6N39DgdP4ANZPQ7ZZG_7VVLhymyFI2bpCW7J71cuRZglKToAU9xN2jMNsY0bpWcW_di_AvnMvUr15nx4SsWNlt8ehpMbfOKuF39EhBTy-iBFWZ1TsJlcak_OfYGGhQi-T1R7t_0H6TOBzLre3Ptd1l48w",
+            "width": 450
+        }
+    ],
+    "place_id": "ChIJF92i87tZwokRr3fklrLFkBA",
+    "plus_code": {
+        "compound_code": "P2V2+56 New York, United States",
+        "global_code": "87G8P2V2+56"
+    },
+    "rating": 5,
+    "reference": "ChIJF92i87tZwokRr3fklrLFkBA",
+    "reviews": [
+        {
+            "author_name": "Carol Krol",
+            "author_url": "https://www.google.com/maps/contrib/103994972391830336501/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-q6E4wKjFfMU/AAAAAAAAAAI/AAAAAAAAFBg/YrvRkRXoWwI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Maguire PR is the BEST boutique public relations firm in NYC. Founder Jen Maguire is a consummate professional, bringing smarts and creative thinking to the table every single time. She put us on the map, and she and her team will do the same for you, with passion and dedication. And it will be fun. I\u2019d hire her again in a heartbeat.",
+            "time": 1558754649
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1193671272079587247",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "250 West 20th Street, New York",
+    "website": "http://www.maguirepr.com/"
+}

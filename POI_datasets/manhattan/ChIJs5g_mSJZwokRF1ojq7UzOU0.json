@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-50",
+            "short_name": "1-50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "50th Avenue",
+            "short_name": "50th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-50 50th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-50 50th Ave, Long Island City, NY 11101, USA",
+    "formatted_phone_number": "(917) 749-7947",
+    "geometry": {
+        "location": {
+            "lat": 40.74327530000001,
+            "lng": -73.9590448
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7448182302915,
+                "lng": -73.95763021970849
+            },
+            "southwest": {
+                "lat": 40.7421202697085,
+                "lng": -73.9603281802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "68f5ca1bf8b51a6d46f6ac07310832530060665e",
+    "international_phone_number": "+1 917-749-7947",
+    "name": "Eric Hope Media",
+    "place_id": "ChIJs5g_mSJZwokRF1ojq7UzOU0",
+    "reference": "ChIJs5g_mSJZwokRF1ojq7UzOU0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5564535669946276375",
+    "utc_offset": -240,
+    "vicinity": "1-50 50th Avenue, Long Island City",
+    "website": "https://erichope.com/contact/"
+}

@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81189699999999,
+            "lng": -73.950043
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81322418029149,
+                "lng": -73.94864166970848
+            },
+            "southwest": {
+                "lat": 40.81052621970849,
+                "lng": -73.9513396302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "50260ae7e76d4bcc1cd56fe08a80dd7a310acfeb",
+    "name": "Fred Douglass Blvd/W 128 St",
+    "photos": [
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179/photos\">Sebastian Sinisterra</a>"
+            ],
+            "photo_reference": "CmRaAAAAJck5L-FtJzAJf5znXSK0WCaSDUNmbP54dvn_V3e1TGovgduhkt2br1Nf7u34UFZkWM2m3-bujjxIP6cKiDGAyoDjTZuYbD-Lxi_wIbD8Nmsi_Kj_q7mYhVWEDsCVh21uEhA_uFJJZQuOuucfiayI8NMKGhTrMT1rw5gBgFWYMa_iARqJBXnFaw",
+            "width": 4096
+        },
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179/photos\">Sebastian Sinisterra</a>"
+            ],
+            "photo_reference": "CmRaAAAANYEIHDz2xsltqlwsK6NMchH34rE36wCt89Bej-MiZrvwUA1h0NtoJmcG8Pm3Nbs-kdvFnZsXzsT9gpIveUbOfUpMu-M9aoK-uYH1ae0yBBBpstX1zcnLi6sw-d-nZ-CJEhBKcNX_zKb_ijTUTZhesxVEGhRNcRCQW27AblnarIKDlHelfIde9A",
+            "width": 4096
+        }
+    ],
+    "place_id": "ChIJM51qBm32wokRUmZg1uYO2mE",
+    "plus_code": {
+        "compound_code": "R26X+QX New York, United States",
+        "global_code": "87G8R26X+QX"
+    },
+    "reference": "ChIJM51qBm32wokRUmZg1uYO2mE",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7050964551203841618",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

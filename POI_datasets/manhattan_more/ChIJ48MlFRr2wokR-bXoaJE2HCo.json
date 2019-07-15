@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "21",
+            "short_name": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 111th Street",
+            "short_name": "W 111th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4328",
+            "short_name": "4328",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">21 W 111th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-4328</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "21 W 111th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 831-1777",
+    "geometry": {
+        "location": {
+            "lat": 40.7983413,
+            "lng": -73.9504528
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7996275802915,
+                "lng": -73.9491500697085
+            },
+            "southwest": {
+                "lat": 40.7969296197085,
+                "lng": -73.95184803029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4063ac69eafe22bc450974d154af5d5cedbff4e1",
+    "international_phone_number": "+1 212-831-1777",
+    "name": "Emily Catindig, LMSW",
+    "place_id": "ChIJ48MlFRr2wokR-bXoaJE2HCo",
+    "plus_code": {
+        "compound_code": "Q2XX+8R New York, United States",
+        "global_code": "87G8Q2XX+8R"
+    },
+    "reference": "ChIJ48MlFRr2wokR-bXoaJE2HCo",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3034360247099110905",
+    "utc_offset": -240,
+    "vicinity": "21 West 111th Street, New York"
+}

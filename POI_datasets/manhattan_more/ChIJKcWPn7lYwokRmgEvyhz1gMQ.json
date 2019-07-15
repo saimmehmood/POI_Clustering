@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "414",
+            "short_name": "414",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 82nd Street",
+            "short_name": "E 82nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5902",
+            "short_name": "5902",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">414 E 82nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-5902</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "414 E 82nd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 327-2959",
+    "geometry": {
+        "location": {
+            "lat": 40.77373840000001,
+            "lng": -73.95037599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7751577302915,
+                "lng": -73.9489750697085
+            },
+            "southwest": {
+                "lat": 40.7724597697085,
+                "lng": -73.9516730302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "21c66d0a7bdcd3297fd0383b4b1eabd4210d833a",
+    "international_phone_number": "+1 212-327-2959",
+    "name": "Hungarian Catholic League-Amer",
+    "place_id": "ChIJKcWPn7lYwokRmgEvyhz1gMQ",
+    "plus_code": {
+        "compound_code": "Q2FX+FR New York, United States",
+        "global_code": "87G8Q2FX+FR"
+    },
+    "reference": "ChIJKcWPn7lYwokRmgEvyhz1gMQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14159586732452807066",
+    "utc_offset": -240,
+    "vicinity": "414 East 82nd Street, New York"
+}

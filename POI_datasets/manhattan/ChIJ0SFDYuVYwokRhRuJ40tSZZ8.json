@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "17",
+            "short_name": "17",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "505",
+            "short_name": "505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1106",
+            "short_name": "1106",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505 Park Ave #17</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022-1106</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505 Park Ave #17, New York, NY 10022, USA",
+    "formatted_phone_number": "(212) 888-5633",
+    "geometry": {
+        "location": {
+            "lat": 40.76292409999999,
+            "lng": -73.9693662
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76432288029149,
+                "lng": -73.9681306197085
+            },
+            "southwest": {
+                "lat": 40.7616249197085,
+                "lng": -73.97082858029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9de1a703bdc64673902e4a208d85af1a89933b60",
+    "international_phone_number": "+1 212-888-5633",
+    "name": "Centurion Condominiums",
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114536478047944831776/photos\">Elvin Lopez</a>"
+            ],
+            "photo_reference": "CmRZAAAAb6Fw8jsoIkL7Jimu7a1883gJgdVY6X7xY8V-WI42-DQxtV_MK35dwhYKuluL2kA4RcGEwPkSxAbtqILpwapnOml_yAs_KqN-Y4Ev_-KQNlF3SFWTIvWSEoOrtbV-kK9YEhClPm1MHA1O9Q4i2m0ABC8OGhQILjPLTv-lRiixkhwZwmLG2W2TSg",
+            "width": 1944
+        }
+    ],
+    "place_id": "ChIJ0SFDYuVYwokRhRuJ40tSZZ8",
+    "plus_code": {
+        "compound_code": "Q27J+57 New York, United States",
+        "global_code": "87G8Q27J+57"
+    },
+    "reference": "ChIJ0SFDYuVYwokRhRuJ40tSZZ8",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11485676910571756421",
+    "utc_offset": -240,
+    "vicinity": "505 Park Avenue #17, New York"
+}

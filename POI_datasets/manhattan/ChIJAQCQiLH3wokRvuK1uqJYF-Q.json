@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "558",
+            "short_name": "558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">558 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "558 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(313) 455-5040",
+    "geometry": {
+        "location": {
+            "lat": 40.8232711,
+            "lng": -73.9891093
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8246724802915,
+                "lng": -73.9878793197085
+            },
+            "southwest": {
+                "lat": 40.8219745197085,
+                "lng": -73.9905772802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "23d6d71ac3e11af2be4a5b9be872d6109489aa4d",
+    "international_phone_number": "+1 313-455-5040",
+    "name": "Aquafil Filters",
+    "place_id": "ChIJAQCQiLH3wokRvuK1uqJYF-Q",
+    "plus_code": {
+        "compound_code": "R2F6+89 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+89"
+    },
+    "reference": "ChIJAQCQiLH3wokRvuK1uqJYF-Q",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16435702821052342974",
+    "utc_offset": -240,
+    "vicinity": "558 Anderson Avenue, Cliffside Park",
+    "website": "http://aquafil-filters.com/contact/"
+}

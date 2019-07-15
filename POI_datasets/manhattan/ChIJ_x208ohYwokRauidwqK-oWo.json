@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 3C",
+            "short_name": "# 3C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 78th Street",
+            "short_name": "W 78th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10024",
+            "short_name": "10024",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6630",
+            "short_name": "6630",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 W 78th St # 3C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024-6630</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 W 78th St # 3C, New York, NY 10024, USA",
+    "formatted_phone_number": "(917) 847-3452",
+    "geometry": {
+        "location": {
+            "lat": 40.78296499999999,
+            "lng": -73.97940299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78421673029149,
+                "lng": -73.9781255697085
+            },
+            "southwest": {
+                "lat": 40.78151876970849,
+                "lng": -73.9808235302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "16d6ac9b88a2356911da229343b43fe5d22cc223",
+    "international_phone_number": "+1 917-847-3452",
+    "name": "Audrey H Bedolis Esq",
+    "place_id": "ChIJ_x208ohYwokRauidwqK-oWo",
+    "plus_code": {
+        "compound_code": "Q2MC+56 New York, United States",
+        "global_code": "87G8Q2MC+56"
+    },
+    "reference": "ChIJ_x208ohYwokRauidwqK-oWo",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7683632045529884778",
+    "utc_offset": -240,
+    "vicinity": "215 West 78th Street # 3C, New York",
+    "website": "http://www.bedolislaw.com/"
+}

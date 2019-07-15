@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "312",
+            "short_name": "312",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 85th Street",
+            "short_name": "E 85th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4569",
+            "short_name": "4569",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">312 E 85th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4569</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "312 E 85th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 396-4636",
+    "geometry": {
+        "location": {
+            "lat": 40.7767089,
+            "lng": -73.95160779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7781455802915,
+                "lng": -73.95019746970848
+            },
+            "southwest": {
+                "lat": 40.77544761970851,
+                "lng": -73.95289543029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "85de6b410be4e15d55a9795eb842ea69d5e7d05c",
+    "international_phone_number": "+1 212-396-4636",
+    "name": "Institute Young Adult",
+    "place_id": "ChIJqXsmurtYwokRtoJFD5fA6zU",
+    "plus_code": {
+        "compound_code": "Q2GX+M9 New York, United States",
+        "global_code": "87G8Q2GX+M9"
+    },
+    "reference": "ChIJqXsmurtYwokRtoJFD5fA6zU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3885410858565993142",
+    "utc_offset": -240,
+    "vicinity": "312 East 85th Street, New York"
+}

@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 99th Street",
+            "short_name": "E 99th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 E 99th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 E 99th St, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 722-2600",
+    "geometry": {
+        "location": {
+            "lat": 40.7929785,
+            "lng": -73.951568
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7944930802915,
+                "lng": -73.95032281970849
+            },
+            "southwest": {
+                "lat": 40.7917951197085,
+                "lng": -73.9530207802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e83021211669c9f258e2064973df3be08f6848ab",
+    "international_phone_number": "+1 212-722-2600",
+    "name": "La Casa De La Herencia",
+    "place_id": "ChIJidImShz2wokRhDSSMwH4gYQ",
+    "plus_code": {
+        "compound_code": "Q2VX+59 New York, United States",
+        "global_code": "87G8Q2VX+59"
+    },
+    "rating": 5,
+    "reference": "ChIJidImShz2wokRhDSSMwH4gYQ",
+    "reviews": [
+        {
+            "author_name": "Jazmin Fernandez",
+            "author_url": "https://www.google.com/maps/contrib/106934816117630236847/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iQLE-Spiiu4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqSm7hUW4ncfovqscznVYNBvTRLA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Guitar and cuatro classes, many events",
+            "time": 1557365925
+        },
+        {
+            "author_name": "Dean Martin",
+            "author_url": "https://www.google.com/maps/contrib/100927235408763777565/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xOOPUymSEmU/AAAAAAAAAAI/AAAAAAAAVjs/omkHmLvKcAM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1431840609
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9548185369046037636",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "215 East 99th Street, New York",
+    "website": "http://lacasahcp.wixsite.com/lacasadelaherencia"
+}

@@ -1,0 +1,269 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Main St</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Main St, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 840-9999",
+    "geometry": {
+        "location": {
+            "lat": 40.8036204,
+            "lng": -73.9909622
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8049296302915,
+                "lng": -73.98964056970848
+            },
+            "southwest": {
+                "lat": 40.80223166970851,
+                "lng": -73.9923385302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1a0f5dd90c408059f3f5349f08e0387be0bf30a8",
+    "international_phone_number": "+1 201-840-9999",
+    "name": "Great Clips",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 382,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104184721054072619381/photos\">Great Clips</a>"
+            ],
+            "photo_reference": "CmRaAAAAFOK90g3wFseCQ1PSTA9ZO1JQ8SA8I1dNzidfX0RKM7Iprl7mfXCeyNPCMWIi-nRdULWQzzYwyg3sl3tniZoVW4S-1v5oN8Shdsbhu72PUm3j7_p3-TS3F6TR4OKNFFaQEhAzAD51qH87B7FYkA3jTOWMGhTsfKPiJjEqXZSzyJAHEZleQT5H7w",
+            "width": 679
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103967061093453033505/photos\">Richard Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAaPNSSlmCOWl-FL3kIxWiJUNGTX78i_WW-RY6bVlSstYI6qPWTFZqt-NAHQJkH4yANOP3IBbgyGkTj9zdTfFuYr51MCjGcJOUAmF5peOxfS6FxYd3Jmp3eW1a5FgKFihhEhB6-RHRM6a6APlTpSaLLH2uGhS_OfBdKSqApygWrCxwPQiWERJh4w",
+            "width": 3024
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111252794572399458919/photos\">Shawn Bremner</a>"
+            ],
+            "photo_reference": "CmRaAAAAur0LGgqZeB3yRoT334NamWtes7FgAwwQQmBzHuxngjmEeIViXB4mUxLxcJLK3cE78QVgNyEWrOBfs2ZGxtNnCTLQIooudWR4BhmWHf5Hmbj_phBKaL-fYjZjqsy8lYAwEhDTugDb_Yim0dMCvuhQUsegGhTmbD0OrRoyBgveIZEk_FuA_5i-pg",
+            "width": 2688
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108541741463373132498/photos\">dkmoney007</a>"
+            ],
+            "photo_reference": "CmRaAAAAM-TWZb-uFy6P0FKQrwU-DmyQ-P8f01_jJ2c-IMCrL4G9IE3w8Xq-AIYnLExT-aQ2OtOnCLd6ZQ0uLDuxwSZ1-1AcywEDFvLlw_TCB-9_9CL8EN9DKYp40m-HTdlcaSTcEhBNzlbdPatP_b9pPG_7ErOFGhTfXnz-cv-9GKoF4BuAZUpm6XmCJw",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJDXGYM9D3wokRBkhV_BwlYo4",
+    "plus_code": {
+        "compound_code": "R235+CJ Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+CJ"
+    },
+    "rating": 3.3,
+    "reference": "ChIJDXGYM9D3wokRBkhV_BwlYo4",
+    "reviews": [
+        {
+            "author_name": "Amy Martinez",
+            "author_url": "https://www.google.com/maps/contrib/110792142505271395590/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-d0_-X7LkPhA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoto5P3SDnOxaOb-oAJSsfzpLdcQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Did not listen to me! I repeated 3 times what I wanted, and she kept saying she got it. And she didn\u2019t. Only speaking about my hairdresser. She had curly blond highlighted hair. Do not go to her if you have something in mind. She will not listen to you.",
+            "time": 1561228897
+        },
+        {
+            "author_name": "May Miaotoya",
+            "author_url": "https://www.google.com/maps/contrib/108040138811037943670/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TQBstOkOm6Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdklhgyp5rolusUvy4PSmVxJKlRfw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Not sure why I thought my experience was going to be any different from everyone else's here. I took the chance since I live in the area and wow, the absolute worst haircut I've ever had the unfortunate pleasure of receiving.\n\nTwo people running the place and seems like they're just trying to get people in and out as quickly as possible. My hair is completely uneven after the haircut and it just looks terrible. I rather spend a little more for a quality haircut, at least I wouldn't have to pay twice to get it fixed...",
+            "time": 1561578481
+        },
+        {
+            "author_name": "Joseph Conklin",
+            "author_url": "https://www.google.com/maps/contrib/104529903739564664554/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-C-AewuveJTI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdeG-7wojiE-ZcPahvHlzqZJhCWIg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "Been coming here since it opened & never ever had a problem but can't say that for this evening",
+            "time": 1561159022
+        },
+        {
+            "author_name": "Ravi Viswanathan",
+            "author_url": "https://www.google.com/maps/contrib/115171797446709060232/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UNxq-NZ-DzI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdVTSgobyTFy7ZjIMJVDXSrgFr5lA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "I'd recommend always checking in online. The wait time shown there is fairly indicative of the actual wait time.\n\nService is pretty standard, no-frills, but predictable (which is a huge plus for me). No hot towels or other nice touches their competitors offer. Overall good value.\n\nParking can be a hassle and in one instance have had to cancel my appointment.",
+            "time": 1547248552
+        },
+        {
+            "author_name": "Rayna W",
+            "author_url": "https://www.google.com/maps/contrib/118107477661238459450/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oJUQuILmiQI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfDKrXUxGDAn-QDq9tmXDgNQclboQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "I got the worst hair cut. Lady asked if I was pregnant and pat my belly to make sure when I said no. She was really rude. I wasn\u2019t going to even bother with a bad review because you get what you paid for but I just saw on my bank statement she helped herself to a $5 tip on my card. I\u2019ve gone there in the past for a quick and cheap cut that was passable but this was the worst cut and the worst experience. I\u2019m never going back.",
+            "time": 1541911662
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10259803707526170630",
+    "user_ratings_total": 45,
+    "utc_offset": -240,
+    "vicinity": "1 Main Street, Edgewater",
+    "website": "https://greatclips.com/salons/8714"
+}

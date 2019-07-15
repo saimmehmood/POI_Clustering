@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "242",
+            "short_name": "242",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 20th Street",
+            "short_name": "W 20th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">242 W 20th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "242 W 20th St, New York, NY 10011, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.74292459999999,
+            "lng": -73.9990562
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443375302915,
+                "lng": -73.99766046970849
+            },
+            "southwest": {
+                "lat": 40.7416395697085,
+                "lng": -74.0003584302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "11adcb18ed396ce1fc038196274c4e17c6cb8f32",
+    "name": "Citipups",
+    "place_id": "ChIJtziUjLtZwokRDu9obDWgcJI",
+    "plus_code": {
+        "compound_code": "P2V2+59 New York, United States",
+        "global_code": "87G8P2V2+59"
+    },
+    "reference": "ChIJtziUjLtZwokRDu9obDWgcJI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10552110078241599246",
+    "utc_offset": -240,
+    "vicinity": "242 West 20th Street, New York"
+}

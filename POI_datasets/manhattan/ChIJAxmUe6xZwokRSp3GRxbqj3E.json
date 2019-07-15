@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 7th Ave, New York, NY 10018, USA",
+    "formatted_phone_number": "(212) 398-6401",
+    "geometry": {
+        "location": {
+            "lat": 40.7531589,
+            "lng": -73.9893598
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7544593302915,
+                "lng": -73.9878990197085
+            },
+            "southwest": {
+                "lat": 40.7517613697085,
+                "lng": -73.9905969802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "51ed4252155481160a10bf38c27fd226ed311ece",
+    "international_phone_number": "+1 212-398-6401",
+    "name": "Leading Jewelers of the World",
+    "place_id": "ChIJAxmUe6xZwokRSp3GRxbqj3E",
+    "plus_code": {
+        "compound_code": "Q236+77 New York, United States",
+        "global_code": "87G8Q236+77"
+    },
+    "reference": "ChIJAxmUe6xZwokRSp3GRxbqj3E",
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8183016429369859402",
+    "utc_offset": -240,
+    "vicinity": "500 7th Avenue, New York"
+}

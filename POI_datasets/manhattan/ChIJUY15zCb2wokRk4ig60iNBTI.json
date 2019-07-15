@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "820",
+            "short_name": "820",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Columbus Avenue",
+            "short_name": "Columbus Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">820 Columbus Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "820 Columbus Ave, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 427-8542",
+    "geometry": {
+        "location": {
+            "lat": 40.8000562,
+            "lng": -73.9684479
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8013410302915,
+                "lng": -73.9671455197085
+            },
+            "southwest": {
+                "lat": 40.7986430697085,
+                "lng": -73.96984348029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "16841718723377b26063d3864582368c0c13db84",
+    "international_phone_number": "+1 212-427-8542",
+    "name": "New York City Housing Authority's Douglass II Day Care Center",
+    "place_id": "ChIJUY15zCb2wokRk4ig60iNBTI",
+    "plus_code": {
+        "compound_code": "R22J+2J New York, United States",
+        "global_code": "87G8R22J+2J"
+    },
+    "rating": 1,
+    "reference": "ChIJUY15zCb2wokRk4ig60iNBTI",
+    "reviews": [
+        {
+            "author_name": "Lilly Ruiz",
+            "author_url": "https://www.google.com/maps/contrib/115543370987860619528/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Vnongans9ts/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re_PEMh6_ihk7xnr1v4yiN3JwI_OQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "The staff is very rude and not helpful at all",
+            "time": 1522778581
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3604442421110278291",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "820 Columbus Avenue, New York"
+}

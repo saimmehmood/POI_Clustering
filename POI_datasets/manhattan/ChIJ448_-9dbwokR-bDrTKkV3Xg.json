@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "70",
+            "short_name": "70",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Williamsburg Bridge",
+            "short_name": "Williamsburg Bridge",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11249",
+            "short_name": "11249",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">70 Williamsburg Bridge</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11249</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "70 Williamsburg Bridge, Brooklyn, NY 11249, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.713471,
+            "lng": -73.97155339999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71522760000005,
+                "lng": -73.96579764999998
+            },
+            "southwest": {
+                "lat": 40.71171399999994,
+                "lng": -73.97730944999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d0e22e4f6a15678c63375706c8afbb8b7cd05087",
+    "name": "70 Williamsburg Bridge",
+    "place_id": "ChIJ448_-9dbwokR-bDrTKkV3Xg",
+    "reference": "ChIJ448_-9dbwokR-bDrTKkV3Xg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=70+Williamsburg+Bridge,+Brooklyn,+NY+11249,+USA&ftid=0x89c25bd7fb3f8fe3:0x78dd15a94cebb0f9",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

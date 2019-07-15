@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "75",
+            "short_name": "75",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1580",
+            "short_name": "1580",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1580 Amsterdam Ave #75</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1580 Amsterdam Ave #75, New York, NY 10031, USA",
+    "formatted_phone_number": "(929) 352-8210",
+    "geometry": {
+        "location": {
+            "lat": 40.821137,
+            "lng": -73.950992
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8224249302915,
+                "lng": -73.94949406970849
+            },
+            "southwest": {
+                "lat": 40.8197269697085,
+                "lng": -73.9521920302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6bcc692ae2a86d52329bc055e7d8112fb27a9016",
+    "international_phone_number": "+1 929-352-8210",
+    "name": "Raven Starr Tyler Foundation",
+    "place_id": "ChIJl-hCoWX2wokRRjOVjxe5MkU",
+    "plus_code": {
+        "compound_code": "R2CX+FJ New York, United States",
+        "global_code": "87G8R2CX+FJ"
+    },
+    "reference": "ChIJl-hCoWX2wokRRjOVjxe5MkU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4986251248296866630",
+    "utc_offset": -240,
+    "vicinity": "1580 Amsterdam Avenue #75, New York"
+}

@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 107th Street",
+            "short_name": "W 107th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">400 W 107th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "400 W 107th St, New York, NY 10025, USA",
+    "formatted_phone_number": "(800) 659-5841",
+    "geometry": {
+        "location": {
+            "lat": 40.80296089999999,
+            "lng": -73.9695464
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8043195302915,
+                "lng": -73.96819056970848
+            },
+            "southwest": {
+                "lat": 40.8016215697085,
+                "lng": -73.97088853029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1d606e04554826eda2baacc74251e72cfe4d571d",
+    "international_phone_number": "+1 800-659-5841",
+    "name": "MARKETWARDEN",
+    "place_id": "ChIJeWMSyTr2wokRKBfJEQCmWXQ",
+    "plus_code": {
+        "compound_code": "R23J+55 New York, United States",
+        "global_code": "87G8R23J+55"
+    },
+    "reference": "ChIJeWMSyTr2wokRKBfJEQCmWXQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8383914700555491112",
+    "utc_offset": -240,
+    "vicinity": "400 West 107th Street, New York",
+    "website": "http://marketwarden.com/contact-us/"
+}

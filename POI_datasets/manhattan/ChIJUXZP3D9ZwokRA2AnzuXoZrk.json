@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "56-90",
+            "short_name": "56-90",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">56-90 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "56-90 Green St, Brooklyn, NY 11222, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.733351,
+            "lng": -73.95899899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7346999802915,
+                "lng": -73.957351
+            },
+            "southwest": {
+                "lat": 40.7320020197085,
+                "lng": -73.96064700000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "28ec0ef370100ab568107c32ec60497831edc648",
+    "name": "56-90 Green St",
+    "place_id": "ChIJUXZP3D9ZwokRA2AnzuXoZrk",
+    "reference": "ChIJUXZP3D9ZwokRA2AnzuXoZrk",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=56-90+Green+St,+Brooklyn,+NY+11222,+USA&ftid=0x89c2593fdc4f7651:0xb966e8e5ce276003",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

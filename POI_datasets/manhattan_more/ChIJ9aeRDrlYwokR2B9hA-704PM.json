@@ -1,0 +1,277 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 205-1652",
+            "short_name": "Suite 205-1652",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1562",
+            "short_name": "1562",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1562 1st Avenue Suite 205-1652</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1562 1st Avenue Suite 205-1652, New York, NY 10028, USA",
+    "formatted_phone_number": "(646) 863-8110",
+    "geometry": {
+        "location": {
+            "lat": 40.773714,
+            "lng": -73.95129290000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77512558029149,
+                "lng": -73.9500947697085
+            },
+            "southwest": {
+                "lat": 40.77242761970849,
+                "lng": -73.95279273029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c012cb1290f96b029f7c501a908cee059f27e9fe",
+    "international_phone_number": "+1 646-863-8110",
+    "name": "Custom Metal and Glass",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 7:00 PM",
+            "Tuesday: 8:30 AM \u2013 7:00 PM",
+            "Wednesday: 8:30 AM \u2013 7:00 PM",
+            "Thursday: 8:30 AM \u2013 7:00 PM",
+            "Friday: 8:30 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 4:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111608052851329560266/photos\">Ivan C</a>"
+            ],
+            "photo_reference": "CmRaAAAAwDTS-SWY6ESRugi6UbYLI0m6pFvRlOXVH-5KsiJ9okPye95ywBCMH_mdw7d70bp7H6SRiPhmBs-WcEgJdPnMZZ1G-_SfBkDIXwGu0J91v0BII9WO4yiEZYMYT31z7ejREhAr0r_CuZatIWgkz6oQZ2ExGhRGPU4HQQOHz72_hFX_Sw_3yGQE_w",
+            "width": 750
+        },
+        {
+            "height": 1334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111608052851329560266/photos\">Ivan C</a>"
+            ],
+            "photo_reference": "CmRaAAAA4dt-jw1D4obH9sEt30jROCalBuEkSeGjOuZI6SDPyN4CUW8cof0VxrwSuySCJBeW7spErV9qWyKRMiOjw0KYgzk1cK5BP1as2Cc3MsUi1eXCBkTgKYTqa95q1DA_GH2lEhBbW-qBjKGsLdGQ2qNcAQytGhSgT6eQs4DbcTY2ziUEBWTBoxnN8g",
+            "width": 750
+        },
+        {
+            "height": 1334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111608052851329560266/photos\">Ivan C</a>"
+            ],
+            "photo_reference": "CmRaAAAAZJLwIevyuXnG9B9VPDFvjzUJ7c8TG8p6o38hUa9stxoS3rRT9j0u_CaB37Co9GPsYlQOF1yfqtlULCkBMpm-Eom1kAVCTPd3TAKjrEPQAqIkVJJA3vQozNU9HdU6r1GbEhCGY2utKELPMkzB29lXHnMsGhTtPEYEipH1ae27W69HkYFLG3kxKQ",
+            "width": 750
+        }
+    ],
+    "place_id": "ChIJ9aeRDrlYwokR2B9hA-704PM",
+    "plus_code": {
+        "compound_code": "Q2FX+FF New York, United States",
+        "global_code": "87G8Q2FX+FF"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ9aeRDrlYwokR2B9hA-704PM",
+    "reviews": [
+        {
+            "author_name": "Andrew Maltes",
+            "author_url": "https://www.google.com/maps/contrib/116827390031783070839/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-r16DF5FvbKk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8qdE5USJa3QTXKIt2ZxC-xh6mWg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "The worst place I have ever been working with they has bad experience I don\u2019t recommend any body work with them or for them because you gotta be wasting your time and your money",
+            "time": 1554155719
+        },
+        {
+            "author_name": "Ivan C",
+            "author_url": "https://www.google.com/maps/contrib/111608052851329560266/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-X3uQcipR-t0/AAAAAAAAAAI/AAAAAAAAACg/B79jt7_sKZs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Great company an staff, always delivers the best work.",
+            "time": 1535476063
+        },
+        {
+            "author_name": "Ronen Twiss",
+            "author_url": "https://www.google.com/maps/contrib/112599623669561560315/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UVIpNeGN54o/AAAAAAAAAAI/AAAAAAAAAuw/8v5dWQUnT8I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "We had an excellent experience working with Mor and his firm. They were very professional, timely and cost-effective. We were building a completely new office of more than 5,000 square feet and the entire space was divided by glass walls to delineate multiple offices and meeting rooms. It looks fantastic and I would definitely use their services again. ",
+            "time": 1394237231
+        },
+        {
+            "author_name": "Keren Ceder",
+            "author_url": "https://www.google.com/maps/contrib/104113604082577073203/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vZE6KsmjhAg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdA3FraEOtncFoQcON4_x68RzvrpQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I hired CMG after having a bad experience with another company. CMG not only provided great design, personal assistance and professional work but they also helped me  fix the work the other company did with a very innovated and cost saving way. I hope I will have additional projects with them in the future. It was a real pleasure!\nThank you!",
+            "time": 1394734504
+        },
+        {
+            "author_name": "ronny piotraut",
+            "author_url": "https://www.google.com/maps/contrib/106910391916608171609/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-r2WgtkDuT8M/AAAAAAAAAAI/AAAAAAAE7M0/tz73s192uR8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "we, at MyHome worked with Mor from CMG on several projects over the last year and had a great experience. he was able to meet our budget, go into details in a very professional way and  the result where great! we are highly recommend this company.",
+            "time": 1392134039
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17573315049095765976",
+    "user_ratings_total": 6,
+    "utc_offset": -240,
+    "vicinity": "1562 1st Avenue Suite 205-1652, New York",
+    "website": "http://www.custommetalglass.com/"
+}

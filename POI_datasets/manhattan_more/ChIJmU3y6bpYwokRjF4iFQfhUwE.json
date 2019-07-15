@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "399-301",
+            "short_name": "399-301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 88th Street",
+            "short_name": "E 88th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">399-301 E 88th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "399-301 E 88th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7786862,
+            "lng": -73.949608
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7800352302915,
+                "lng": -73.94723224999998
+            },
+            "southwest": {
+                "lat": 40.7773372697085,
+                "lng": -73.95198365
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "55fd20db376039a15117567bdbf17713438961e2",
+    "name": "399-301 E 88th St",
+    "place_id": "ChIJmU3y6bpYwokRjF4iFQfhUwE",
+    "reference": "ChIJmU3y6bpYwokRjF4iFQfhUwE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=399-301+E+88th+St,+New+York,+NY+10128,+USA&ftid=0x89c258bae9f24d99:0x153e10715225e8c",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

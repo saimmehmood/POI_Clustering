@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-29",
+            "short_name": "1-29",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Place",
+            "short_name": "Park Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10007",
+            "short_name": "10007",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-29 Park Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10007</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-29 Park Pl, New York, NY 10007, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7129156,
+            "lng": -74.00846539999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71426458029151,
+                "lng": -74.00687355
+            },
+            "southwest": {
+                "lat": 40.71156661970851,
+                "lng": -74.01005735
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c615459a8db60816fa60aabcb05502220605892e",
+    "name": "1-29 Park Pl",
+    "place_id": "ChIJNTC86RhawokRaplGhHbftDI",
+    "reference": "ChIJNTC86RhawokRaplGhHbftDI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1-29+Park+Pl,+New+York,+NY+10007,+USA&ftid=0x89c25a18e9bc3035:0x32b4df768446996a",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

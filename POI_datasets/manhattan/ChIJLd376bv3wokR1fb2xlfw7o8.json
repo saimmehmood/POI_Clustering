@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "371",
+            "short_name": "371",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bergen Boulevard",
+            "short_name": "Bergen Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Fairview",
+            "short_name": "Fairview",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07022",
+            "short_name": "07022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1148",
+            "short_name": "1148",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">371 Bergen Blvd</span>, <span class=\"locality\">Fairview</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07022-1148</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "371 Bergen Blvd, Fairview, NJ 07022, USA",
+    "formatted_phone_number": "(201) 943-0732",
+    "geometry": {
+        "location": {
+            "lat": 40.822483,
+            "lng": -73.99919299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8239014802915,
+                "lng": -73.99778526970849
+            },
+            "southwest": {
+                "lat": 40.8212035197085,
+                "lng": -74.00048323029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cc21db45dec52453107b3c214f93d1d789512875",
+    "international_phone_number": "+1 201-943-0732",
+    "name": "Massare Madeline",
+    "place_id": "ChIJLd376bv3wokR1fb2xlfw7o8",
+    "plus_code": {
+        "compound_code": "R2C2+X8 Fairview, New Jersey, United States",
+        "global_code": "87G8R2C2+X8"
+    },
+    "reference": "ChIJLd376bv3wokR1fb2xlfw7o8",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10371491251671725781",
+    "utc_offset": -240,
+    "vicinity": "371 Bergen Boulevard, Fairview"
+}

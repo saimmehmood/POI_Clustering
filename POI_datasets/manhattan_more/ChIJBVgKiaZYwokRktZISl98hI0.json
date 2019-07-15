@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "1491",
+            "short_name": "1491",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1491 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1491 Lexington Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 831-7408",
+    "geometry": {
+        "location": {
+            "lat": 40.78604609999999,
+            "lng": -73.9506085
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7874263802915,
+                "lng": -73.9493323697085
+            },
+            "southwest": {
+                "lat": 40.7847284197085,
+                "lng": -73.9520303302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e6f48dc7c299f682570aa5c368fdb5e1e37dc7e1",
+    "international_phone_number": "+1 212-831-7408",
+    "name": "Pro Barber Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAgqInGe05xa-TiqGuybmZPkjf7d-qGCDCz_gUhjDHyVNq59n00xA8DtrgFY-QNK3EWMqkLra7gQ67q2nr6hq2cHS79MVeOcG1bHO-WHchqz8WstkBjIHwScAqlxseXNeVEhAdWZNSTq2KwBnq5mQJEX7lGhQWI-hjNHaS5IkqQVM4yXovqc60Ww",
+            "width": 6000
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAw1qYrb4YCxiMXnF3-AOFqumynlrVLWAwpxrd4vSZvhEz3WsdzYWb-yqOtIVgtsjI2voqxjMl5rTk3VnAr9Uscmy9ef5r1Fh_lyIT8TQmUN1vgcPTxC8__FfF5NHHC4iwEhCJ0_mI93T0oD8sLt-LPKYiGhTk9OOWpRnNgu4F_mMSsPhwZbt6PA",
+            "width": 3008
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAfV_ry89ZoV9F_YBgKVte2kuQkhgbhdlDdqJVfFodT0GR7qO4NrkKe0AIvDXK2hgYAk7clkZ6F9rU9cpUsCH5sRewqg5YsH0RyiqzwFT7JUfjUQWUKIbxioQ9ECF99MXQEhDt2BEoKpPghWVz9DMfJUzRGhRDy0GYEAtCDnZ9COdiwL6M6gHi_A",
+            "width": 3008
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAxPIUhcDnJfKWuBauORpVP-zwtpaXve8HvZ5Bajs1PZ98hPk7BPm-gxEJqR5THvEC67snfxbnmILGK8xY05j0aTpGPBE58Pncb4dS1cFhgdiLCGATzpFnYKH6lS713RmrEhBty_mq6qKi1DMQyD5BaEeLGhRMtXDhumGArKlVMjXg0OBHX9Z50Q",
+            "width": 3456
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAsp-Q8Y48fjADFJRyqlZZcRQoaqaLYl23oisGYpbQQnIISdgvlkpn26VH5xyRH1DxfXP6pAJVaXvhorB4GNoPHeNLjN_pNa3ORwXTOzgafoT68uIB3kBM-uFiD6Zp3JwUEhCkByDq1HdOWam1aDKEoNR7GhQJaH1xJObrDNiRKd6lbo1mlWJ-PA",
+            "width": 6000
+        },
+        {
+            "height": 2742,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAA8EbYhi1jIPm0Ef9hGBPFTVL_YKPcyvrxm4cdJdnMqHlD0YZ3VQNxEihjNfuK7UGjIFvHLS8v6KTw4ZOuajWqLXte2gn9yzXmNfvFgW3GZ3rb9e1TsxxBuGb3EqF4Go9ZEhAJwwqfAClgmd5EAT77lmmSGhQe9jX8QpAUeaoNMrmx7m1Kaou-qg",
+            "width": 2057
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAl8nGKDalIoXUz7V-Fs0OHnvGkZAJleRybjCDywYQeIKyyQfEzy8RDPZVwZ5N88cQXHSHvhJI17aeMvcD6WOqN9dCBf3Lk9tNzARxAGRA4CCEQa0yBV34p2w54ALxX1_zEhBjnl2tGaylbwGpQhC_N2LFGhRjEZ_9_cPXxfzu2iR28tysMAqLnA",
+            "width": 3008
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAABET-FmCdfxIKSTkyi2PY1cY8RTpfIp110eKOf_ASm05kzhuZWLv0vivcTrCAeMZKb7gfXFiJK2EQuE1f4SKZTrk5GExapXo9MiTSUq-TB5pAVQn0z-2UZ74EXMI3e5bIEhC1LC2K_lQ802bepRpBwgF8GhTVNcfxIwhbOPsnzaf2aLgjOhBobg",
+            "width": 6000
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAIUwrn-WJj0ZeQrAlFR2ubRsdtrdUn6AH3LA02e7WOPhGKGQp1hMDG3q3fwTj7IKrdcZSPnMZr7hr8_OiU7-0Gq6WXMZAKhpyVxfTKNEOEekXmBtBdGGlGlRGk1GEsml-EhD7gl95hk29XS_dk2P5qRbWGhQ8pTTfF2zZ9FChPv-IJeXxvbYJTA",
+            "width": 3456
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109332419302859244948/photos\">Pro Barber Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAocZsdJOwU78IPfab3fv4kAhFljDot-Y0-blLt_JiVEJHb6uPQXld5eHI5cdtLcGYda5a_aeZLliKcjNqn1vlj3wqELTDzEUhq3HCWa7RiHl2ooOQ73sx6U7_1ELZHfH5EhBSOMZNMnbJKlFiAmTGVwJYGhQTajMUUi0car1ULQkJX4KGf7CbbQ",
+            "width": 6000
+        }
+    ],
+    "place_id": "ChIJBVgKiaZYwokRktZISl98hI0",
+    "plus_code": {
+        "compound_code": "Q2PX+CQ New York, United States",
+        "global_code": "87G8Q2PX+CQ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJBVgKiaZYwokRktZISl98hI0",
+    "reviews": [
+        {
+            "author_name": "yelenochka7",
+            "author_url": "https://www.google.com/maps/contrib/117909112319854987342/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qQe97XrtknE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reH3cGxQ7znrPI76laeBm9ZF3DZdQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Such a nice and wonderful place! My husband and son get amazing haircuts! Clean, friendly atmosphere, very welcoming, great and affordable prices! They took their time and did a wonderful job! Definitely going back in 2-3 weeks!",
+            "time": 1545018346
+        },
+        {
+            "author_name": "Andria Kaplan Aylyarov",
+            "author_url": "https://www.google.com/maps/contrib/100834585509253070010/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ka0vhmSv87s/AAAAAAAAAAI/AAAAAAAABXw/AiwQ59-IeDk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "My husband loves getting his haircut here! The service is always fast (so I never have to wait too long).",
+            "time": 1549729411
+        },
+        {
+            "author_name": "Luis Flores",
+            "author_url": "https://www.google.com/maps/contrib/114709670229969095082/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OiTM_FWUxcU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rehePlqLoWpmJvfKg0zBbleUJoKGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "the place is exlent and they give you a cordial and pleasant attention I recommend it.",
+            "time": 1551471148
+        },
+        {
+            "author_name": "Allen TV HD",
+            "author_url": "https://www.google.com/maps/contrib/111215717152606337328/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7z5zSdA0Adw/AAAAAAAAAAI/AAAAAAAAAO0/_64HuFhOI0c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Sadly, the place is closed down forever for those of you who don\u2019t know. #RIP",
+            "time": 1560718597
+        },
+        {
+            "author_name": "Evette Lebron-Dames",
+            "author_url": "https://www.google.com/maps/contrib/100232198321309033694/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-JHWAqMbLmLg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf_U5BE8_U8Lc6fYvfnLCT0jo6FRA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Artur gives great cuts",
+            "time": 1561334243
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10197412204983670418",
+    "user_ratings_total": 39,
+    "utc_offset": -240,
+    "vicinity": "1491 Lexington Avenue, New York",
+    "website": "http://www.probarbershop.net/"
+}

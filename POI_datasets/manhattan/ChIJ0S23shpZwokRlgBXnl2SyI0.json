@@ -1,0 +1,121 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10016",
+            "short_name": "10016",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "FDR Drive &amp; E 35 St, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "FDR Drive & E 35 St, New York, NY 10016, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.744219,
+            "lng": -73.9712121
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7455679802915,
+                "lng": -73.96986311970849
+            },
+            "southwest": {
+                "lat": 40.7428700197085,
+                "lng": -73.9725610802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c88a36fa25e39ceb22b0d9a4f43689de038da234",
+    "name": "Citi Bike",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108335848038640590650/photos\">Shintaro Murase</a>"
+            ],
+            "photo_reference": "CmRaAAAAkRYJzr1jf63XUAD7ulJbaqhpHwlHmXOqEjw91qCYczBpuQ2Ni3Z_9kFplaH3jgm0Y04IoyaBDUxdv477j-ikoHkT2GICtC4jCtSpFUnNnnEdQaMpg-lrHVJYwHOHn929EhCDODpnApvxsIp7Si1noSnpGhSYBZlH5Dkfw3220tGtzz0ay30gPw",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ0S23shpZwokRlgBXnl2SyI0",
+    "plus_code": {
+        "compound_code": "P2VH+MG New York, United States",
+        "global_code": "87G8P2VH+MG"
+    },
+    "rating": 5,
+    "reference": "ChIJ0S23shpZwokRlgBXnl2SyI0",
+    "reviews": [
+        {
+            "author_name": "Daniela Araujo",
+            "author_url": "https://www.google.com/maps/contrib/117223217780750038321/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UECUq_BMkWM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdUXmzKOzJkl8gDw5-b80SwxlR_Mw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I love it.",
+            "time": 1557531416
+        },
+        {
+            "author_name": "John Paul O'Loughlin",
+            "author_url": "https://www.google.com/maps/contrib/104364799262081121207/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OsuCIj1CD7Q/AAAAAAAAAAI/AAAAAAAAVZw/dNzDT0UXgLU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Citibike station.",
+            "time": 1541075507
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10216576685476085910",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "FDR Drive & E 35 St, New York"
+}

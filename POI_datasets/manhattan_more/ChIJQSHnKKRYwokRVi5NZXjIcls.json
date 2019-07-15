@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 45",
+            "short_name": "# 45",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1469",
+            "short_name": "1469",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2529",
+            "short_name": "2529",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1469 Lexington Ave # 45</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2529</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1469 Lexington Ave # 45, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 831-5633",
+    "geometry": {
+        "location": {
+            "lat": 40.78494730000001,
+            "lng": -73.9512695
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7863506802915,
+                "lng": -73.9500530697085
+            },
+            "southwest": {
+                "lat": 40.78365271970851,
+                "lng": -73.95275103029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0e4c45eb8a0b713ddf2a846e147859f7908fb8d9",
+    "international_phone_number": "+1 212-831-5633",
+    "name": "Gregory Burkey Interiors",
+    "place_id": "ChIJQSHnKKRYwokRVi5NZXjIcls",
+    "plus_code": {
+        "compound_code": "Q2MX+XF New York, United States",
+        "global_code": "87G8Q2MX+XF"
+    },
+    "reference": "ChIJQSHnKKRYwokRVi5NZXjIcls",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6589549624217644630",
+    "utc_offset": -240,
+    "vicinity": "1469 Lexington Avenue # 45, New York",
+    "website": "http://gregoryburkeyinteriors.com/contact-gregory/"
+}

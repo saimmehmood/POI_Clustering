@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "371",
+            "short_name": "371",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bergen Boulevard",
+            "short_name": "Bergen Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Fairview",
+            "short_name": "Fairview",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07022",
+            "short_name": "07022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1148",
+            "short_name": "1148",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">371 Bergen Blvd</span>, <span class=\"locality\">Fairview</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07022-1148</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "371 Bergen Blvd, Fairview, NJ 07022, USA",
+    "formatted_phone_number": "(201) 313-7077",
+    "geometry": {
+        "location": {
+            "lat": 40.82252390000001,
+            "lng": -73.9991198
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8239153302915,
+                "lng": -73.9977349697085
+            },
+            "southwest": {
+                "lat": 40.8212173697085,
+                "lng": -74.00043293029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a4f8879d43ace425e075d7ef5fa89664c351f4b1",
+    "international_phone_number": "+1 201-313-7077",
+    "name": "Santos Adalgisa",
+    "place_id": "ChIJLd376bv3wokRGvTdKvOAWyM",
+    "plus_code": {
+        "compound_code": "R2F2+29 Fairview, New Jersey, United States",
+        "global_code": "87G8R2F2+29"
+    },
+    "reference": "ChIJLd376bv3wokRGvTdKvOAWyM",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2547771796092744730",
+    "utc_offset": -240,
+    "vicinity": "371 Bergen Boulevard, Fairview"
+}

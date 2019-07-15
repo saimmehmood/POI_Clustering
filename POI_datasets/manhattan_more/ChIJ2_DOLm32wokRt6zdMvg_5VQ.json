@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "261",
+            "short_name": "261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">261 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "261 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-8197",
+    "geometry": {
+        "location": {
+            "lat": 40.8101169,
+            "lng": -73.9502641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8113456802915,
+                "lng": -73.94900696970849
+            },
+            "southwest": {
+                "lat": 40.80864771970851,
+                "lng": -73.95170493029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "06d7a3038ac3b81a015258b94bb18831f83004a6",
+    "international_phone_number": "+1 212-222-8197",
+    "name": "Banana Republic Factory Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104791289609282244329/photos\">Morris R</a>"
+            ],
+            "photo_reference": "CmRaAAAAkJJV06oUxbhZCzKjGVWZW6BQzlyCMF_xXbT3q7lVYfwOQk4EZEL-uDYVNn-Qh_dv1MdMlX6tE1LoNmhOY8F7R3D0A8V2F8Wh3uZpfiqMT6F92JkWIr1I_eah7_Dyujx1EhDwJbc86bbTcX0jv5PxvGjeGhSHAcSGMcYhgIG8NphLEA6D6rEYWw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAorXIXJqHvJsVoHUq0W8x77dwvETcYOY-ZQgi9hXnGzEdvrl6ibK2-dCS7CL0qtKTGPqeHOP6HAbROj3J9vK8-u0lQCQuOAUS98YBc9wDZdTzsneQCSs4gG7vQikTr8CVEhC2gY8EIoSTF7Ld250mfL2VGhRC0EO2wZrA80o8WHE7bqgdqgcXIw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAA19E6-LyGtdnj70cwyEBpY-y3s87QyZ5i2ESL_rXF7AQWEocxiKHykjkkees6ohn8F0ELoo8m3uAHvA1_IA60fv3r6R3EUOsyPQ3q4AnLodEw7BgmmckRK4_Ah4X79KTrEhBRJF_p-_dLckRwsI3f5LYVGhTlhRM825VxM2r52cNRkyMIq1JCkA",
+            "width": 4032
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115133503595285530953/photos\">Inbar Schwartz</a>"
+            ],
+            "photo_reference": "CmRZAAAACo6ST42vD3z0ih9U_-D-F4OZ3A2voHAMLtEG59t3b55wzqa8k8uIFiDlzTkI8aSgdj0OS8BgRhdBxTFfvLHlnwiq9k_b0eCwIcxDI80YH3FZ1vGdsKUw4xI3GLyi0vbIEhAoT_IF8TrgB_5H2a9Q1yBPGhS-O99Fnzt-NiBF0j8sjkYEs2QAyg",
+            "width": 2160
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110975117485059355790/photos\">Taneda H</a>"
+            ],
+            "photo_reference": "CmRaAAAABFHmyAFsL8epX7YOiLchc6Q_sfK5QyM9SjpOykajDa9RGZf0G9xzhqFpW2xYwfh2g60tqPB02nJv7h46lr5cumNBtJ2Ar1oNOFSbdrgOhsC_U_2UX4JWANab4rFPRnFTEhBBRkhRryWOXqHXqynmYwHTGhS5WXD9NoFRaj0HMnEHnzDu6-C-ug",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAggoGRgbloLItnhUhYdu5tfyvPefw92CRXLxqqp8dGbiPqkCGDp2sVJIk1_2rV-Fgb041pXpD5j33cQag_bkoNRDMBy5kxLhCBDNSJ_LtwvSiLG56wR-G4-ftj1PZghUZEhBVR3YHs6NeAOx5qAHi62NeGhRiB0Hnhm76gjdJ1ZikmF-DFq4vyA",
+            "width": 4032
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115470662578981682402/photos\">Leandro Saint-hilaire</a>"
+            ],
+            "photo_reference": "CmRaAAAAyBnVGqlSjN-s6u5Z8MMV39R2NWlCPTABhK96FEOtkFb8APMdq4kk0ClwQ8wDfJpgBsZAstw-uALgI9zgSTAirsv-HxCR-QPlymg3Us2L178hK0knxSjVevQ7JUi76LOUEhDABu9osxIlfxuzOfGxUT4lGhSJjqaLX23I6std7By-ggqyFvO9rQ",
+            "width": 1080
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115470662578981682402/photos\">Leandro Saint-hilaire</a>"
+            ],
+            "photo_reference": "CmRaAAAAsGAqd2ykywTqju0AaesVZ_Ti0VpQcqyJu5WEq_F61rq_ADm-X_Zk3jOccKowIzzJcO_3T9eQ6jvZdBSDAeNJjyI-kJGrkJkMGPpBUspFFD7SCrDzOvNRXoSb3zOJcrhSEhAyK7zydTWd1A4T4cxqNhLQGhTyHupPVJbYNU12faSg2V5D7ZWrcQ",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAubxlh5_t2f7AdH9MPyWSNBw5dkagbAGZDl5UuYh25M4cNvi-yW_U0TMH50h5ls3eWIF7SLMsk3VUxmWvWMs6t18HphwIsuiHrdypjg6Zle6Vq95cJgVsu_vw_EZDEz1tEhB9mFn5Pjzxw70awk2ajNvBGhRPac_2NFdUi6K3_33qarMO5zbBww",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111613351604542352245/photos\">popsi Kiemkodogo</a>"
+            ],
+            "photo_reference": "CmRaAAAAOu31Fu7s17DH2whDZa7L8urUyVVlxircdEEpKVVvKRL3ky5t2ZWpmuGCLMmPo4dLwCxLy7jVxmYJdstS-M9OPggvRq-8Q_AIYvslxUoMG477m0Utbosq-TFArB9RTJfyEhDZ_848v5voOH2SoEW83i03GhTw3bN0F0LByMvgrqU1s3wiCZGWpg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ2_DOLm32wokRt6zdMvg_5VQ",
+    "plus_code": {
+        "compound_code": "R26X+2V New York, United States",
+        "global_code": "87G8R26X+2V"
+    },
+    "price_level": 3,
+    "rating": 4.2,
+    "reference": "ChIJ2_DOLm32wokRt6zdMvg_5VQ",
+    "reviews": [
+        {
+            "author_name": "Joshua Bautista",
+            "author_url": "https://www.google.com/maps/contrib/101487779232549277024/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7n4eJ5cwICQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rezVxgvO2ZYb4YGBFVsdBqIVendVw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I work very close to the store and frequently come in after work when I see a great sale through the window. I've always had a great experience shopping at this store. People are always very friendly and helpful. The store is very well organized and clean, and items are clearly marked. The sales are great! When the stars align and you get discounts on discounts, this store will feed your wardrobe aplenty. Keep an eye out for those sales because you will thank yourself for it in the long run.",
+            "time": 1552103773
+        },
+        {
+            "author_name": "Benjamin Merritt",
+            "author_url": "https://www.google.com/maps/contrib/117589162439464391066/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pmdrxH0V9sk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdFDtHHrFi5kql_h8iz9LscSGKQcw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "I only come here for the sales. But when they have their sales mannnnnn.\n\nI dont know why but this location never seems to have lines, always less than 10min waiting in line..\n\nBalut I swear every week is a semi annual 50% off something sale lol.\n\nCasual to semi business wear is wha Banana republic is known for.",
+            "time": 1562712483
+        },
+        {
+            "author_name": "Carine N.",
+            "author_url": "https://www.google.com/maps/contrib/117769804952436802286/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GVFY0GbBo9M/AAAAAAAAAAI/AAAAAAAAQgk/-ZdKVZ2tv9U/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love this store. Super clean and you can always find something affordable",
+            "time": 1559387473
+        },
+        {
+            "author_name": "Lennin Reyes",
+            "author_url": "https://www.google.com/maps/contrib/100359310601573380833/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UFkEt-oDGCQ/AAAAAAAAAAI/AAAAAAAADHY/Sg3BrVcVG1c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "At the time that I went to was not  crowded so it was quick and easy is just the outlet so the same thing but at a cheaper price. Last year models. It was clean and organize",
+            "time": 1554418170
+        },
+        {
+            "author_name": "Eric Mallison",
+            "author_url": "https://www.google.com/maps/contrib/106920466949064263143/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-vXSbdBw1klw/AAAAAAAAAAI/AAAAAAAAAEo/bFCtP9eXIuc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "They had one register open & a long line! The cashier did a great job, just needed some help!",
+            "time": 1557185654
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6117366004090514615",
+    "user_ratings_total": 259,
+    "utc_offset": -240,
+    "vicinity": "261 West 125th Street, New York",
+    "website": "https://www.bananarepublicfactory.com/products/new-york-ny-store-7512.jsp"
+}

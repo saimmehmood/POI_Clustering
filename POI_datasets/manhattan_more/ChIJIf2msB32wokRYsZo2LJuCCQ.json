@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "65-1",
+            "short_name": "65-1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 103rd Street",
+            "short_name": "E 103rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5206",
+            "short_name": "5206",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">65-1 E 103rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-5206</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "65-1 E 103rd St, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7920179,
+            "lng": -73.9517206
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7933668302915,
+                "lng": -73.95010535
+            },
+            "southwest": {
+                "lat": 40.7906688697085,
+                "lng": -73.95333595
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fd1171aedb904ae24614dcb70d85c65b44c78a80",
+    "name": "65-1 E 103rd St",
+    "place_id": "ChIJIf2msB32wokRYsZo2LJuCCQ",
+    "reference": "ChIJIf2msB32wokRYsZo2LJuCCQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=65-1+E+103rd+St,+New+York,+NY+10029,+USA&ftid=0x89c2f61db0a6fd21:0x24086eb2d868c662",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

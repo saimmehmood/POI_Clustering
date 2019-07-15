@@ -1,0 +1,217 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "170 E 77th St, New York, NY 10075, USA",
+    "formatted_phone_number": "(212) 369-9200",
+    "geometry": {
+        "location": {
+            "lat": 40.7731158,
+            "lng": -73.95913019999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7745500802915,
+                "lng": -73.9577181697085
+            },
+            "southwest": {
+                "lat": 40.7718521197085,
+                "lng": -73.9604161302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ca97aefe639b9154e227e90202f3d9d79fd3aa7f",
+    "international_phone_number": "+1 212-369-9200",
+    "name": "Carnegie Hill Radiology",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 846,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104638655947320041309/photos\">Carnegie Hill Radiology</a>"
+            ],
+            "photo_reference": "CmRaAAAAtdOsOWgh065nayjiSzSLIOJk6AGaTnjJHJfd5KFgX7X3kThpQb1Gez-gXo-hFCdwrkwFE0X02-uykThNvnrKtqsXrKbrxNFJYQyrK1fVC2rLmnR0-FRPI5qS4ixKmkbVEhCj1pKEXMAFYQvOaIGUO2NvGhThcjHSe2p7GuJkQ1nn5sLVPAWoUQ",
+            "width": 846
+        },
+        {
+            "height": 853,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104638655947320041309/photos\">Carnegie Hill Radiology</a>"
+            ],
+            "photo_reference": "CmRaAAAAn6P-7vlqBmmH4VyTdXttDr29vFSlMzd7amcAmPKoOisD_hu5y_Jkwm7GUCwd00j0FtivzzWDpIg7Xmba8WJGyZXZQSTSgcca6bxwIDSDp0IAgDADo8JYT0-k28x8WfM0EhBhR5qJDCLywABCJFWpMqi7GhRFm3jR_Sila3K_k0OTp-lxtySxtg",
+            "width": 1272
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110452599974688077516/photos\">Matt Sweetwood</a>"
+            ],
+            "photo_reference": "CmRaAAAA2_tjBnnM8tRlyutyfFd51on8-dXgicZ0mS9s2qn0xdWNG9BPT7e6lyTvHmZANSUhT3q1t6n4WZZQV3nUFJmPNsFas4TyW2bsawqXC82vcdfRR5Ey3_hny0ULZrCy5Ua7EhCeCapkEffcYMFw8lhnlkVfGhS2zDGZCSjjtAqJMpLA4WTxzjjxcg",
+            "width": 3264
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110452599974688077516/photos\">Matt Sweetwood</a>"
+            ],
+            "photo_reference": "CmRaAAAAPA0YiVyyYhREtSZO0VC3r07OCYxn7wgJ2nWQFNBEI1xLmhOVupCIio0kHOcxZuWFCRBEKwSUKWOwZohGotE8MDiC6Uq7owSsoxP6FSoXnV7HcFge5FgIAA5erfz7H6TVEhD3U0B2SdXk2cGiGtdOvQCpGhRlncn5fSN1XE0f9zKv0xhK9wAAHA",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJY_iV2r9YwokRe_zZEwEHXvc",
+    "plus_code": {
+        "compound_code": "Q2FR+68 New York, United States",
+        "global_code": "87G8Q2FR+68"
+    },
+    "rating": 5,
+    "reference": "ChIJY_iV2r9YwokRe_zZEwEHXvc",
+    "reviews": [
+        {
+            "author_name": "eric dishman",
+            "author_url": "https://www.google.com/maps/contrib/113010505247127162304/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-eZBZTDpBObU/AAAAAAAAAAI/AAAAAAAAAPQ/Wfq4dHxhoPo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1537231816
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17824692076388416635",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "170 East 77th Street, New York",
+    "website": "http://www.mrict.com/"
+}

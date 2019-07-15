@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "1071",
+            "short_name": "1071",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1071 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1071 5th Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(800) 329-6109",
+    "geometry": {
+        "location": {
+            "lat": 40.7829479,
+            "lng": -73.9591729
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7844289302915,
+                "lng": -73.9578134697085
+            },
+            "southwest": {
+                "lat": 40.7817309697085,
+                "lng": -73.9605114302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4a8b2e4a50d686055bd811fce25fdc8ac5600e45",
+    "international_phone_number": "+1 800-329-6109",
+    "name": "Guggenheim Museum Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 6:00 PM",
+            "Tuesday: 9:30 AM \u2013 8:30 PM",
+            "Wednesday: 9:30 AM \u2013 6:00 PM",
+            "Thursday: 9:30 AM \u2013 6:00 PM",
+            "Friday: 9:30 AM \u2013 6:00 PM",
+            "Saturday: 9:30 AM \u2013 8:30 PM",
+            "Sunday: 9:30 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3464,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102719117898688462485/photos\">Joan Pascual</a>"
+            ],
+            "photo_reference": "CmRaAAAA3uZQu_3QLX1inJiQPFBpCjIHGMUdcjrfBNJCKIZdsn_9zGcoI6c95j5-JFiNuyZszM1LXrPKHFtBmJumqBAoxv8JVa2mfO8HPgZ6FBwp7HWPgppAIuxHaid7j9x70mf8EhBGRRbZqE04yUNjDU_sku9XGhQU6T3xk6K9RyIgEy1H00qac3dPSw",
+            "width": 4618
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110590866171031807476/photos\">KT Longtail</a>"
+            ],
+            "photo_reference": "CmRaAAAAhOL5GLsHsGI05zGFw1J165ByFE5WY3gyUJpbe81-o_HUO7vEStW80TRBF43wurPfbqR-YCmPzZp1ZSDbXPUnBHyNokhoTbEy_dAAvRK0C-odhC8PTTZF1Xw9D_HrU-WwEhDrykouaVAPl4o2JMmxJd12GhT338BBq7df-5qM2y7lTb6TyezPEw",
+            "width": 2048
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109317211540179865068/photos\">Guillermo Schulman</a>"
+            ],
+            "photo_reference": "CmRaAAAAtPBtDAJNkI0SD8TP1au2PUMT0stgctV7-7o4LnXypjKZQEBvGfjS6v79MD1O-UZ5KCTtJS7KWMCM7TN3ayxZ5coIWjGVOah0ysFA2Yny3xqZjnU79XZJdgN2Z6CCgzbWEhDWw0RyArgVctOMor4PxXkyGhTme9v5pJWwFLS0ySoFazY2RuicGw",
+            "width": 2448
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100882852937353276188/photos\">Jose Balladares</a>"
+            ],
+            "photo_reference": "CmRaAAAA0xSFZ9ZK8mVFlcrnnaJry2jQn1FA0KKz_vXlpV7YiAkXHl5vB--Qz1izFHwVhv6yoku---AJu_W2a4FyQzO3cIb8FlXL36fIGIM4cJdVah0jvuST5pb2dIHMgaC60GziEhAeKoi16pse69n6hAi0tv8eGhQ_YR9OTm3gBl3coU63BjI1ENqeOw",
+            "width": 4032
+        },
+        {
+            "height": 3464,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102719117898688462485/photos\">Joan Pascual</a>"
+            ],
+            "photo_reference": "CmRaAAAADoCYq2aeIiriFAdZkn2bEUSI3X02UOYMRipqY18ApyI6mX9atbpzaWFGF-TQB7uqoJ4z4VBcMj4vYNHCcid8uqsdBDcPMJWseBtrV5gwHacq_lZcgikgI9OwnJ51mMemEhDHcrKLFMPZeZvf92-paClnGhTquQjvdDYJUHBR_kcf3iOSkUBAgQ",
+            "width": 4618
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100056434669137483601/photos\">gianlucaverdu verdu</a>"
+            ],
+            "photo_reference": "CmRaAAAA8PxTf3tHgxgQB3oO4BCK8kfBW1VbxGW4ATnMZwwJsl9mpd0sU_iZd0HmmvhG_jxxH4TB4jZ2p2A3RjUZolHM35ndmkFJP46MCOsB6j88AOjXg1DGJxqForb5htJ1B9eSEhDF-gCq1dvRMZrmRmmLs3YJGhRysfEpoR7T6YefQ61i7Y9K-0MZnA",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106227671149657609390/photos\">Jureily Pastrana Sol\u00e1</a>"
+            ],
+            "photo_reference": "CmRaAAAA06KIdEooM9b8O_cItFHlEuLEnodYIqEWC_NVV1pfp0Uief99iWeb4MqqWIvMzXJwpDhe_wK-fPfWjIXoiWfQYL7wMpAesGPZ-5zy9np_iwqp0-LCalPaMubPHJgOLc6TEhDZP84vn7jtoAuhhDChYnTgGhR6OfK9UvVl3VLZO3wJADVwAUgWbg",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117338348059609053870/photos\">Paola Bernasconi</a>"
+            ],
+            "photo_reference": "CmRaAAAAK6mlItWK45MoxrA3IDwMChLrmaP6p--BOqgaILoY0eIYtybFLrbFnVJ7oESRrd5Oj6shj6Dw_hzqYQ8nbpKnhiCU4LOKQMZaZpLTeypdPDhiaYKOAmq_2omkC2xfHyeLEhCwLCGm1bSy65GIQ-CWW8wSGhR6VFjQRW4ZjM0HHdTrNrY94emEQQ",
+            "width": 2268
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAApwkwnLj0jwDe1zSuGYC16npScz6UU7sRCh73Mtgke9MtH7IE-k4DtxwLujIyd6WzcBKfaIwZ_cvMPOnHzG7mjVOPgN09jzh-R2zG3HjrpNNzP-TweWMT9PtI_EZZKrOmEhDmkDkL5_Oeh4Vd1DnrUyaTGhRzUtsSmYBAtZilSz-pOSemdjrJfg",
+            "width": 3024
+        },
+        {
+            "height": 3184,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105258754816290890000/photos\">Andrea Gironda</a>"
+            ],
+            "photo_reference": "CmRaAAAALy_ZkAe9q6FM6MzbWgX0kRLBG_qMwMz9tUR601RRRsBQIvw2SbsP1Ot5m8lCrGXj9o958h908G0jnLNSnuInzj_5h8GUdHp7d6tCmZQorG6WbgUtZw-kPtpxrskWQLbDEhCdDqeRYPSQPBqs1vmyYxr6GhRs5p1BdUIZ8WMJEfEouJtSNUys8A",
+            "width": 4208
+        }
+    ],
+    "place_id": "ChIJmZ5emqJYwokR8hYhTsuMDQU",
+    "plus_code": {
+        "compound_code": "Q2MR+58 New York, United States",
+        "global_code": "87G8Q2MR+58"
+    },
+    "price_level": 3,
+    "rating": 4.2,
+    "reference": "ChIJmZ5emqJYwokR8hYhTsuMDQU",
+    "reviews": [
+        {
+            "author_name": "Gloria Bosa Osorio",
+            "author_url": "https://www.google.com/maps/contrib/113051363473122478269/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-C3annMtBvc8/AAAAAAAAAAI/AAAAAAAAAY4/0koegVLrUmA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "It's a small museum but you get to see your Pollock,  Rothko,  Kline, Degas painting that you wanted  to see. Plus they have a women artist exhibition! And a Jean Mitchell Basquiat in the top floor. Bathroom,  restaurants and shops accessible for handicap. Museum personel available to greet you and inform you immediately of the latest museum activities. The most incredible experience because the museum itself is an art piece.  You have the feeling that you're walking inside a sculpture!",
+            "time": 1562589965
+        },
+        {
+            "author_name": "Filipe Martins",
+            "author_url": "https://www.google.com/maps/contrib/118246049214736284462/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Dp2UaAnt3IY/AAAAAAAAAAI/AAAAAAAAm14/1gC0DTUxrfs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "It has good souvenirs, but the prices are a little bit up.",
+            "time": 1557659407
+        },
+        {
+            "author_name": "Alliss Brea",
+            "author_url": "https://www.google.com/maps/contrib/104622559530061065566/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5vISgzzY4a8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcAMC3nr6Mv-XbxOj4r66drZZP7yA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "The staff is very friendly and the articles are very interesting specially after making the tour and knowing the value of the real pieces",
+            "time": 1546871141
+        },
+        {
+            "author_name": "Lise",
+            "author_url": "https://www.google.com/maps/contrib/115812387355384301973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-i_v11whaM_g/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd669tZsGRiHFBMmuWMZottSXEyVg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "As museum stores go: YAY!. Jackpot!",
+            "time": 1560121875
+        },
+        {
+            "author_name": "Julie Mills",
+            "author_url": "https://www.google.com/maps/contrib/111013756542402874240/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-t6pKFnDxNT0/AAAAAAAAAAI/AAAAAAAAAKQ/i7VIa7TQZBM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Want to visit way more often \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "time": 1558480516
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=364101949703919346",
+    "user_ratings_total": 406,
+    "utc_offset": -240,
+    "vicinity": "1071 5th Avenue, New York",
+    "website": "http://www.guggenheimstore.org/"
+}

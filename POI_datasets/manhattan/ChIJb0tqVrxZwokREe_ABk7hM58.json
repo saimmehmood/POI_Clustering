@@ -1,0 +1,308 @@
+{
+    "address_components": [
+        {
+            "long_name": "417",
+            "short_name": "417",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1123",
+            "short_name": "1123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1123 Broadway #417</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1123 Broadway #417, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 592-0368",
+    "geometry": {
+        "location": {
+            "lat": 40.743304,
+            "lng": -73.989223
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7446470802915,
+                "lng": -73.98782846970849
+            },
+            "southwest": {
+                "lat": 40.7419491197085,
+                "lng": -73.9905264302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3278ba16c9a09fe72a60db2a34a59b9748621f7f",
+    "international_phone_number": "+1 212-592-0368",
+    "name": "Gotham Glow",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 10:00 PM",
+            "Thursday: 9:00 AM \u2013 10:00 PM",
+            "Friday: 9:00 AM \u2013 10:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115640237510078032881/photos\">Gotham Glow</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ6mPyyZDjZGrklxNXDXstIgVKz_Y0Gyd9xy3GzzpTQS6pl84BckV8H7jNMZcYzbGED3K6NJLldgPr7W2nYbQ4M7zpXU7J2KOnTdvaU_VEfOctD8WPw5bVth3pIxMTY3AEhDcWo0Zo7K6DkIkPRWA72HqGhQYxZiMtNFg0_Qlo2i_8a--q_fFgg",
+            "width": 1024
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115640237510078032881/photos\">Gotham Glow</a>"
+            ],
+            "photo_reference": "CmRaAAAAH1nXKFTB9Lhd70_6UDqc5v8_9KSb8IVf_QJGXgteMKqP6vnEAyKzZx-abZTXfn2CIWdWJZKS1oCTB4Ptb-XnKBQ7qCAfJGEYL49cCceg4P4ZYebxdyDqhtq-Ex2U0p5IEhC09fxlDzr1zC05jn0rYmDfGhS5k2C3_aB9nv-a7mUn8vxvpTW49Q",
+            "width": 600
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100917034456454429046/photos\">Daniel Santos</a>"
+            ],
+            "photo_reference": "CmRaAAAARYfYK4eCIM8yYCSbeG7KwCg8WvN2JQ1IIJN_-N_o-W9hCeviPg1ENhOUhsEKog4OgQTTv2_ugH_IDuCPVYaNqXRIFo6bJJv5__cdT9STrtxNi8eDkCzvAazCE05Wtlt_EhAfSBLxD4HSnHqDjFHhhMCrGhR5WKFiYH9K9uY0hirgoojpCTu2hA",
+            "width": 3120
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101445904584406914545/photos\">Hector Gomez Dovigo</a>"
+            ],
+            "photo_reference": "CmRaAAAAsUij5Na42hgCp3QEnVjDvwreaoeOLy1R6Gfw7gApGJEOJGtPW69vNdplIaE4tSfVPNyQrNnDd8dflPaQPv_i15rEFOigm7Yq-FFaKclRa1cDEkTy5WHe2ZseHynsLXGkEhBlqAJoSAPhUk8N2d0FTZlbGhRVS3d_cdStGT7le7aZ1kNVVkOqdA",
+            "width": 2592
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101445904584406914545/photos\">Hector Gomez Dovigo</a>"
+            ],
+            "photo_reference": "CmRaAAAAA-mSSO5Cde9qBmTqrMKSMkqkCI3hJZpiFnjylfj2anu1zqIShjW6PABcsIKVzAt5be01nBIuR7gAa0xhQw4GlPdRdFRjYy76i0Tf42dR4Fm-Cw3f3BsbrkpPAN_JUbRcEhDFLkrOBOSCTZZWHf6GM4T9GhQdrwfoGSmFGAlKWLWExl9K1DFnQg",
+            "width": 2592
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100917034456454429046/photos\">Daniel Santos</a>"
+            ],
+            "photo_reference": "CmRaAAAAgsYe6-VPOpIgaWg3yXvchOHFDUm7fEbKSXFODRw-e4Hs4K2cNWMRhx6ZhtTTtoNlKoyydFpNs7Kzk2WSViaiRVKmqX5knAXeZw48UH7XcVBhqq1kFeFppG1XfZDxVkJ0EhAiJML894xSoJ04oycSOuSEGhTcSahQoU3STsw5lM7qeESvnF3wgQ",
+            "width": 3120
+        },
+        {
+            "height": 275,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115640237510078032881/photos\">Gotham Glow</a>"
+            ],
+            "photo_reference": "CmRaAAAA2T4LeYw23ZHPi-6hZ3BStEy_148LM1RGX7RJdhreNw2n7v7BewLHW7SRxrNLElBUsxYn2AbntfIUPRtSUsTeRfRdbFtjsMySWG1mDulBOth2-gd6GN6MFcEt8-y1NY21EhC8a2uR0ELJBggZl0LlFsHFGhTTCWVpnmFc_8lrrs_F8cQf1XNE5w",
+            "width": 275
+        }
+    ],
+    "place_id": "ChIJb0tqVrxZwokREe_ABk7hM58",
+    "plus_code": {
+        "compound_code": "P2V6+88 New York, United States",
+        "global_code": "87G8P2V6+88"
+    },
+    "rating": 4.4,
+    "reference": "ChIJb0tqVrxZwokREe_ABk7hM58",
+    "reviews": [
+        {
+            "author_name": "Molly Edwards",
+            "author_url": "https://www.google.com/maps/contrib/104479736795741616512/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5bmKgrnB1nA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfS-e5LPLAcP-u4vCY_Wg8zrnp0KQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Gotham Glow was a great experience! The staff made me feel very comfortable throughout the whole tanning process. My tan looks so natural and all my friends agree! Definitely recommend going here.",
+            "time": 1558726258
+        },
+        {
+            "author_name": "Joanna Sheldon",
+            "author_url": "https://www.google.com/maps/contrib/110709610472408817882/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-A2SG6je2yBc/AAAAAAAAAAI/AAAAAAAAHM4/trGTH_v_E4c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Had my first ever spray tan here and it could not have been a better experience. The woman made me feel comfortable and I left looking perfectly bronzed. Even better I was in and out in about 30 minutes. Highly recommend!",
+            "time": 1544110992
+        },
+        {
+            "author_name": "Abby Bavis",
+            "author_url": "https://www.google.com/maps/contrib/107803023191026848362/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-NqP8Oobwj_4/AAAAAAAAAAI/AAAAAAAAHmE/v3oxUQR1hVA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I love this place. I've trusted the skilled technicians at Gotham Glow for my engagement party and every wedding I've ever been in, including my own! They customize color so that it never looks unnatural - always a \"you, but better\" look that I'm obsessed with. The tan stays for at least 5 days every time, but looks best 2 to 3 days after.",
+            "time": 1539285123
+        },
+        {
+            "author_name": "Brittany C",
+            "author_url": "https://www.google.com/maps/contrib/113559388162271615628/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4WWqxqSw7dk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd7WuF0_tfvyQchFRJ71AjV6Kr0gQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "This was my first spray tan experience and it was a great one! The woman that did my tan was very sweet and made me feel super comfortable. My tan looked great and I received so many compliments on how natural it looked. Thanks!",
+            "time": 1534948350
+        },
+        {
+            "author_name": "Mara Chomsky",
+            "author_url": "https://www.google.com/maps/contrib/108236639627017921337/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-nB_SeXoFBqo/AAAAAAAAAAI/AAAAAAAAAAA/SFkfmxRwAgE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "Go to place to get a spray tan. Staff is so friendly. It\u2019s clean. Best lasting tan in nyc.",
+            "time": 1531370488
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11471760401079791377",
+    "user_ratings_total": 43,
+    "utc_offset": -240,
+    "vicinity": "1123 Broadway #417, New York",
+    "website": "http://www.gothamglow.com/"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "522",
+            "short_name": "522",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6753",
+            "short_name": "6753",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">522 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6753</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "522 W 142nd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 844-6833",
+    "geometry": {
+        "location": {
+            "lat": 40.8237499,
+            "lng": -73.9506339
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8251969302915,
+                "lng": -73.94921331970849
+            },
+            "southwest": {
+                "lat": 40.8224989697085,
+                "lng": -73.9519112802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ff7a8670f40bdfd99854c03d38b0a030f61e9295",
+    "international_phone_number": "+1 646-844-6833",
+    "name": "New York Roofing & Restoration",
+    "place_id": "ChIJt9HRiWT2wokRU_GlRaOfVxg",
+    "plus_code": {
+        "compound_code": "R2FX+FP New York, United States",
+        "global_code": "87G8R2FX+FP"
+    },
+    "reference": "ChIJt9HRiWT2wokRU_GlRaOfVxg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1754046103481086291",
+    "utc_offset": -240,
+    "vicinity": "522 West 142nd Street, New York"
+}

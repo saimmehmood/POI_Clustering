@@ -1,0 +1,149 @@
+{
+    "address_components": [
+        {
+            "long_name": "5c",
+            "short_name": "5c",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "210",
+            "short_name": "210",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 90th Street",
+            "short_name": "E 90th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">210 E 90th St #5c</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "210 E 90th St #5c, New York, NY 10128, USA",
+    "formatted_phone_number": "(713) 419-4380",
+    "geometry": {
+        "location": {
+            "lat": 40.7809181,
+            "lng": -73.951435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7823370802915,
+                "lng": -73.9500335197085
+            },
+            "southwest": {
+                "lat": 40.7796391197085,
+                "lng": -73.9527314802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "51b36a0bef93ba8169a2315652c5c50d64ce4b63",
+    "international_phone_number": "+1 713-419-4380",
+    "name": "The Committed Cyclist",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107676799990257625536/photos\">The Committed Cyclist</a>"
+            ],
+            "photo_reference": "CmRaAAAAoAZzuGGrqViC1eerqGYUNG2WAYNiF2lyubxKYA35qD-Lbnvzur7RsBdAdAoIc6xcx-xMrtFWusI5taYGqye-vL7_9pdTFR-BVw7JgbkiwHmAIP62nt9HCpLDIQSA1FJxEhC7bJ6DG6Rp2mkMt8255_sRGhRQgJFlfbeBqiuP27aS3w0tWu4vvA",
+            "width": 560
+        },
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107676799990257625536/photos\">The Committed Cyclist</a>"
+            ],
+            "photo_reference": "CmRaAAAApHhyMEmxZ1qtIh4LHqZbFxlsUhL1KYpTFLi3JG9WU4mBD6Zl_A9IrBOx9ddqjztAUf_NxrcI7HLgKoc7oasWy1fsmUYboWDbYFk8A0nmEPG22qE3M_DVIngRMc_t1eqvEhAyZl4jzyPTEumNixgbqqZRGhScPWeS3EqqPGT_z-WPG6lYIBGsPA",
+            "width": 375
+        }
+    ],
+    "place_id": "ChIJAQBMxaRYwokRLKkWWTZJx3M",
+    "plus_code": {
+        "compound_code": "Q2JX+9C New York, United States",
+        "global_code": "87G8Q2JX+9C"
+    },
+    "reference": "ChIJAQBMxaRYwokRLKkWWTZJx3M",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8342717332498852140",
+    "utc_offset": -240,
+    "vicinity": "210 East 90th Street #5c, New York",
+    "website": "http://thecommittedcyclist.com/"
+}

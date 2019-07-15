@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 E 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 E 84th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-1165",
+    "geometry": {
+        "location": {
+            "lat": 40.77599120000001,
+            "lng": -73.9504248
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7771894802915,
+                "lng": -73.94918726970849
+            },
+            "southwest": {
+                "lat": 40.7744915197085,
+                "lng": -73.9518852302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a250e547ae63d61daa48909ccd8b33000ef77136",
+    "international_phone_number": "+1 212-861-1165",
+    "name": "Tobyann Nemetz, MA",
+    "place_id": "ChIJ0xnCLbpYwokR-WN5VPWtVv8",
+    "plus_code": {
+        "compound_code": "Q2GX+9R New York, United States",
+        "global_code": "87G8Q2GX+9R"
+    },
+    "reference": "ChIJ0xnCLbpYwokR-WN5VPWtVv8",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18399084596864574457",
+    "utc_offset": -240,
+    "vicinity": "351 East 84th Street, New York"
+}

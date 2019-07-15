@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "198-100",
+            "short_name": "198-100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 95th Street",
+            "short_name": "W 95th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">198-100 W 95th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "198-100 W 95th St, New York, NY 10025, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.79278899999999,
+            "lng": -73.9694476
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7941379802915,
+                "lng": -73.9666268
+            },
+            "southwest": {
+                "lat": 40.7914400197085,
+                "lng": -73.9722684
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1f1b550bc9fb7ee1f955cbee40372be198996725",
+    "name": "198-100 W 95th St",
+    "place_id": "ChIJ6Swkiif2wokRLcpmQfzOeU4",
+    "reference": "ChIJ6Swkiif2wokRLcpmQfzOeU4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=198-100+W+95th+St,+New+York,+NY+10025,+USA&ftid=0x89c2f6278a242ce9:0x4e79cefc4166ca2d",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

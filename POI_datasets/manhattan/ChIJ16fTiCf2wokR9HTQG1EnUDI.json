@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "137",
+            "short_name": "137",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 95th Street",
+            "short_name": "W 95th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">137 W 95th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "137 W 95th St, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 749-4448",
+    "geometry": {
+        "location": {
+            "lat": 40.7928898,
+            "lng": -73.96924
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7941669302915,
+                "lng": -73.9679435697085
+            },
+            "southwest": {
+                "lat": 40.7914689697085,
+                "lng": -73.97064153029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "837994d37fe1158bd9f88f45f55a9ae6e83468be",
+    "international_phone_number": "+1 212-749-4448",
+    "name": "Dr. Lynn E. Collins, MD",
+    "place_id": "ChIJ16fTiCf2wokR9HTQG1EnUDI",
+    "plus_code": {
+        "compound_code": "Q2VJ+58 New York, United States",
+        "global_code": "87G8Q2VJ+58"
+    },
+    "reference": "ChIJ16fTiCf2wokR9HTQG1EnUDI",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3625440929345729780",
+    "utc_offset": -240,
+    "vicinity": "137 West 95th Street, New York"
+}

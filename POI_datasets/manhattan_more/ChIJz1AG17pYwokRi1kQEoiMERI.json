@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1719-1707",
+            "short_name": "1719-1707",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "2nd Avenue",
+            "short_name": "2nd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1719-1707 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1719-1707 2nd Ave, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7796141,
+            "lng": -73.95047989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7809630302915,
+                "lng": -73.9491308697085
+            },
+            "southwest": {
+                "lat": 40.7782650697085,
+                "lng": -73.9518288302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9e91185ed8540b5e6dd5972352b84b7802ce2894",
+    "name": "1719-1707 2nd Ave",
+    "place_id": "ChIJz1AG17pYwokRi1kQEoiMERI",
+    "reference": "ChIJz1AG17pYwokRi1kQEoiMERI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1719-1707+2nd+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258bad70650cf:0x12118c881210598b",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

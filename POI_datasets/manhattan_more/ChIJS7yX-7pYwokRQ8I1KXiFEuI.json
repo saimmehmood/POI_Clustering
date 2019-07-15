@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "332",
+            "short_name": "332",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">332 E 87th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "332 E 87th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7780129,
+            "lng": -73.9502205
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7794023302915,
+                "lng": -73.94884176970848
+            },
+            "southwest": {
+                "lat": 40.7767043697085,
+                "lng": -73.9515397302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c8e850d577f49bd2d8a4294da8e6261eda5847fe",
+    "name": "Quik Park",
+    "place_id": "ChIJS7yX-7pYwokRQ8I1KXiFEuI",
+    "plus_code": {
+        "compound_code": "Q2HX+6W New York, United States",
+        "global_code": "87G8Q2HX+6W"
+    },
+    "rating": 1,
+    "reference": "ChIJS7yX-7pYwokRQ8I1KXiFEuI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16290229553286464067",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "332 East 87th Street, New York",
+    "website": "https://iconparkingsystems.com/"
+}

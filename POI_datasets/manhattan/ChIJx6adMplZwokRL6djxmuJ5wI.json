@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 2C",
+            "short_name": "# 2C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "114",
+            "short_name": "114",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 13th Street",
+            "short_name": "E 13th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5334",
+            "short_name": "5334",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">114 E 13th St # 2C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-5334</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "114 E 13th St # 2C, New York, NY 10003, USA",
+    "formatted_phone_number": "(212) 979-6799",
+    "geometry": {
+        "location": {
+            "lat": 40.7329826,
+            "lng": -73.9891488
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7344258302915,
+                "lng": -73.9877302697085
+            },
+            "southwest": {
+                "lat": 40.7317278697085,
+                "lng": -73.99042823029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "806f110dee5081609678c3dbe4efccfcc6a1e8fa",
+    "international_phone_number": "+1 212-979-6799",
+    "name": "Ron Rinaldi Inc",
+    "place_id": "ChIJx6adMplZwokRL6djxmuJ5wI",
+    "plus_code": {
+        "compound_code": "P2M6+58 New York, United States",
+        "global_code": "87G8P2M6+58"
+    },
+    "reference": "ChIJx6adMplZwokRL6djxmuJ5wI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=209287003678943023",
+    "utc_offset": -240,
+    "vicinity": "114 East 13th Street # 2C, New York",
+    "website": "http://ronrinaldi.com/"
+}

@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "321",
+            "short_name": "321",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10014",
+            "short_name": "10014",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">321 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "321 6th Ave, New York, NY 10014, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7311206,
+            "lng": -74.0016772
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7324308302915,
+                "lng": -74.00021116970849
+            },
+            "southwest": {
+                "lat": 40.7297328697085,
+                "lng": -74.0029091302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c8b1eb17cc597ebb636a9927e54848c4505a8e9f",
+    "name": "West Poke",
+    "place_id": "ChIJAQBHz5NZwokRxxxSi-urjf0",
+    "plus_code": {
+        "compound_code": "PXJX+C8 New York, United States",
+        "global_code": "87G7PXJX+C8"
+    },
+    "reference": "ChIJAQBHz5NZwokRxxxSi-urjf0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18270448291455048903",
+    "utc_offset": -240,
+    "vicinity": "321 6th Avenue, New York"
+}

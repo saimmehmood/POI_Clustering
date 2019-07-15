@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-50 51st Ave",
+            "short_name": "1-50 51st Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-50 51st Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-50 51st Ave, Long Island City, NY 11101, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7430801,
+            "lng": -73.9592507
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74438633029149,
+                "lng": -73.9579163697085
+            },
+            "southwest": {
+                "lat": 40.7416883697085,
+                "lng": -73.9606143302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "03da6766e736fcb874c86bbf6dd5ed6553f2849b",
+    "name": "1-50 51st Ave Parking",
+    "place_id": "ChIJK2VinyJZwokRDDVhrqTwLW4",
+    "plus_code": {
+        "compound_code": "P2VR+67 New York, United States",
+        "global_code": "87G8P2VR+67"
+    },
+    "reference": "ChIJK2VinyJZwokRDDVhrqTwLW4",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7939266308214961420",
+    "utc_offset": -240,
+    "vicinity": "1-50 51st Ave, Long Island City"
+}

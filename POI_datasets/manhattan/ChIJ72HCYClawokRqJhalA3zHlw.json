@@ -1,0 +1,268 @@
+{
+    "address_components": [
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 Madison St, New York, NY 10002, USA",
+    "formatted_phone_number": "(646) 842-0239",
+    "geometry": {
+        "location": {
+            "lat": 40.7128365,
+            "lng": -73.9891597
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141302802915,
+                "lng": -73.9878033697085
+            },
+            "southwest": {
+                "lat": 40.71143231970851,
+                "lng": -73.99050133029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6b01e2b014db0f595128dc9d148fdae3a7eabca9",
+    "international_phone_number": "+1 646-842-0239",
+    "name": "Fancy Nails Salon II",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 8:00 PM",
+            "Tuesday: 9:30 AM \u2013 8:00 PM",
+            "Wednesday: 9:30 AM \u2013 8:00 PM",
+            "Thursday: 9:30 AM \u2013 8:00 PM",
+            "Friday: 9:30 AM \u2013 8:00 PM",
+            "Saturday: 9:30 AM \u2013 8:00 PM",
+            "Sunday: 10:30 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1707,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108388678656962607565/photos\">Velma Frezzell</a>"
+            ],
+            "photo_reference": "CmRaAAAAa6Vk5nsupRVKaTd-awHQUZWvAA0aPhK_81LxGFHCzzP2dByOP_p0cL5x0X1fGNzVDeDSaIbiQi9Va6__LneESJAoZQcC7gSbf-G7nVBmgcvL9Z0X8NZbUIVnmUnrtdThEhCrqFmFDnRE7yYhcm0ci2KHGhQ6pRrki4nBxY9m7CbTqfD7B-3yhw",
+            "width": 2268
+        },
+        {
+            "height": 2011,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114240589753047180086/photos\">Nora Qiu</a>"
+            ],
+            "photo_reference": "CmRaAAAAdgMhIep1ugenMGeGsueKrTibbze5sO7zbTBWK6Is2yaS1PdThlp7ssEvUk_59W3IvUokF27pCc9swIU2QmM1aYXz2IQMr_VkffT-eIt-Kw84Oa0Ywy7zeMOzcGmw5mWpEhBIeetAQGumguwv2JBTjDZ8GhRjjBIr3rRNMewsMDbjHnOnFx835A",
+            "width": 3579
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114240589753047180086/photos\">Nora Qiu</a>"
+            ],
+            "photo_reference": "CmRaAAAAZSGG9WPmsqEepSNnGqR2fIynQKT1u3BiqsaLXwM_0uX0VCMb8aOycc2Y4TBaR-j5A8MDrWhU_T6aGxl8o5AngxDjZWdOd6qnVpwbgNgjm3zVIxDXxAZhrOZAVgsuaPPJEhAkvly26R0qTssRfVpatLDzGhRpXJrj_uipXRvUl4p7hrdwpCCG-w",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ72HCYClawokRqJhalA3zHlw",
+    "plus_code": {
+        "compound_code": "P276+48 New York, United States",
+        "global_code": "87G8P276+48"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ72HCYClawokRqJhalA3zHlw",
+    "reviews": [
+        {
+            "author_name": "Velma Frezzell",
+            "author_url": "https://www.google.com/maps/contrib/108388678656962607565/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-64WukMNbY3k/AAAAAAAAAAI/AAAAAAAAACc/40_XJ4PpyAc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Great service, friendly and welcoming. Great pedicures and reasonably priced services. Edit: So after getting pedicures done here regularly I caught a fungus. I thought maybe it was something I did but I was told by a client of mine that she also caught a fungus and had to stop coming here smh. I still come here for my nails but never for my feet. It's okay for a last minute nail emergency",
+            "time": 1559150665
+        },
+        {
+            "author_name": "Ev H",
+            "author_url": "https://www.google.com/maps/contrib/103853239451932277876/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ESJ_MI8BXZ0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcD66ciSGkVpkHiODlbNMlc-U2PpA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I came in for a pedicure that was 20$. I was excited cause it looked nice. She barely spent 10 min on my feet l asked her for a white base because i had a neon color that i brought in. She stated the it was not needed. I was left with mismatched patchy nails. When i brought it to her attention she acted like she could not see it. Horrible customer service and untalented.",
+            "time": 1552517754
+        },
+        {
+            "author_name": "Gabby Rivera",
+            "author_url": "https://www.google.com/maps/contrib/107799474113850059683/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-AoIZ-mZuDKs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rccxGTNKddofWq4EQ00K0YNzbISgw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I love this place! They did my nails very well,  and they always have a very short wait.  I let the man do my nails,  can't think of his name right now,  but he does an awesome job! The place is very,  very small,  but inexpensive and a job well done!",
+            "time": 1535686162
+        },
+        {
+            "author_name": "Danessa Ruffin",
+            "author_url": "https://www.google.com/maps/contrib/107967332777848473574/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AY2LAqnRRIk/AAAAAAAAAAI/AAAAAAAAPls/kLGJXpfkF7I/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Angel is the best!",
+            "time": 1559513307
+        },
+        {
+            "author_name": "Lendy Santiago",
+            "author_url": "https://www.google.com/maps/contrib/111998294546052973098/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1s9TRKdR1AI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reW0Y2dkqRqD8JWOQ689Acvo3JO0Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Thin natural looking acrylic job",
+            "time": 1549127131
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6638010140439779496",
+    "user_ratings_total": 23,
+    "utc_offset": -240,
+    "vicinity": "215 Madison Street, New York"
+}

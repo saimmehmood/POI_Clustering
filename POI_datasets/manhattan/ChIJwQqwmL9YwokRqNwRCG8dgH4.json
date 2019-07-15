@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "170 E 77th St, New York, NY 10075, USA",
+    "formatted_phone_number": "(212) 249-5332",
+    "geometry": {
+        "location": {
+            "lat": 40.77314959999999,
+            "lng": -73.95919549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7745815802915,
+                "lng": -73.9577852197085
+            },
+            "southwest": {
+                "lat": 40.7718836197085,
+                "lng": -73.9604831802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5c45b4c60dbd3d3b500729522d761b8c3d00e4c4",
+    "international_phone_number": "+1 212-249-5332",
+    "name": "Joseph Tatta, PT",
+    "place_id": "ChIJwQqwmL9YwokRqNwRCG8dgH4",
+    "plus_code": {
+        "compound_code": "Q2FR+78 New York, United States",
+        "global_code": "87G8Q2FR+78"
+    },
+    "reference": "ChIJwQqwmL9YwokRqNwRCG8dgH4",
+    "scope": "GOOGLE",
+    "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9115318008511847592",
+    "utc_offset": -240,
+    "vicinity": "170 East 77th Street, New York"
+}

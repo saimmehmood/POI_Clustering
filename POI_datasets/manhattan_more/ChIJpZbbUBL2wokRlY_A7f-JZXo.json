@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8069025,
+            "lng": -73.9500887
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8082331302915,
+                "lng": -73.94869651970849
+            },
+            "southwest": {
+                "lat": 40.8055351697085,
+                "lng": -73.9513944802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "7a7754f3216b115a31b98ac8c362311d5380bf4e",
+    "name": "Adam C Powell Blvd/W 122 St",
+    "place_id": "ChIJpZbbUBL2wokRlY_A7f-JZXo",
+    "plus_code": {
+        "compound_code": "R24X+QX New York, United States",
+        "global_code": "87G8R24X+QX"
+    },
+    "reference": "ChIJpZbbUBL2wokRlY_A7f-JZXo",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8819607177573470101",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

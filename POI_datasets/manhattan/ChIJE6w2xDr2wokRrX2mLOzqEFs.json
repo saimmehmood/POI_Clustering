@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "350-359",
+            "short_name": "350-359",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">350-359 Riverside Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "350-359 Riverside Dr, New York, NY 10025, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8032619,
+            "lng": -73.9693398
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8046108802915,
+                "lng": -73.9679907697085
+            },
+            "southwest": {
+                "lat": 40.8019129197085,
+                "lng": -73.97068873029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "bf35bf9d120380e2629920bd06b229010a03be1a",
+    "name": "350-359 Riverside Dr",
+    "place_id": "ChIJE6w2xDr2wokRrX2mLOzqEFs",
+    "reference": "ChIJE6w2xDr2wokRrX2mLOzqEFs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=350-359+Riverside+Dr,+New+York,+NY+10025,+USA&ftid=0x89c2f63ac436ac13:0x5b10eaec2ca67dad",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

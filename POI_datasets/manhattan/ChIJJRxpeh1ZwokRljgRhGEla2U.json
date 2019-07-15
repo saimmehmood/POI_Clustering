@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "389-301",
+            "short_name": "389-301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 47th Street",
+            "short_name": "E 47th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">389-301 E 47th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "389-301 E 47th St, New York, NY 10017, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7526322,
+            "lng": -73.9690187
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7539811302915,
+                "lng": -73.96729669999999
+            },
+            "southwest": {
+                "lat": 40.7512831697085,
+                "lng": -73.9707407
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d65bd69d9a311b1eb3e1ce52759985b6b6711663",
+    "name": "389-301 E 47th St",
+    "place_id": "ChIJJRxpeh1ZwokRljgRhGEla2U",
+    "reference": "ChIJJRxpeh1ZwokRljgRhGEla2U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=389-301+E+47th+St,+New+York,+NY+10017,+USA&ftid=0x89c2591d7a691c25:0x656b256184113896",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8123747,
+            "lng": -73.95130379999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8136955302915,
+                "lng": -73.94990581970849
+            },
+            "southwest": {
+                "lat": 40.8109975697085,
+                "lng": -73.9526037802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "1ef8de304f81ad2ec1a47260a66214d5eb08a871",
+    "name": "St Nicholas Av/W 128 St",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101133344719731723467/photos\">Elizabeth Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAALEPKXoLoMfNOGSxTM9keuxjYvxsobm6DDsXEAmI-easTtGl4dkTigFrRg2RgcjfC_vSFmV5_TZFFxfWOtO2YuLnjmUwx0NVwWY3RtZQyWmDzwVhGniA0eAnMqmlDy2JJEhADixg5NS_uDjku9xuD6clcGhQFBrIDO6p3oJs1fmB6ldip0ahczg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101133344719731723467/photos\">Elizabeth Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAf22bxG_8fexAIfJClsivZtu6TcGrRmJUoKqPMA00aHr55ShciZkmGPRJ5a46-BIwaqICAhXn8XRzJNR4321IbobpNJdiEm9gqos8U6GEuxMwHDr_mxbD7J-gTABSHAVjEhBFSr5C8y4WlWn82wWq59uHGhRQ_jb3C25Eb_jrs2YpkMybYCPttg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJHRiJUmz2wokR9EdC_Hqm3GM",
+    "plus_code": {
+        "compound_code": "R26X+WF New York, United States",
+        "global_code": "87G8R26X+WF"
+    },
+    "reference": "ChIJHRiJUmz2wokR9EdC_Hqm3GM",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7195809351779633140",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

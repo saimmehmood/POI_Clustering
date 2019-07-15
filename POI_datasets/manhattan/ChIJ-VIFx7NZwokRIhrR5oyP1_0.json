@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "450",
+            "short_name": "450",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 33rd Street",
+            "short_name": "West 33rd Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2603",
+            "short_name": "2603",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450 West 33rd Street</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-2603</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450 West 33rd Street, New York, NY 10001, USA",
+    "formatted_phone_number": "(212) 560-2919",
+    "geometry": {
+        "location": {
+            "lat": 40.7530688,
+            "lng": -73.9994561
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545499302915,
+                "lng": -73.9984134697085
+            },
+            "southwest": {
+                "lat": 40.7518519697085,
+                "lng": -74.00111143029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6a1bd050f2df5b2888d4111a79ccccbb60470cbc",
+    "international_phone_number": "+1 212-560-2919",
+    "name": "Media Alliance",
+    "place_id": "ChIJ-VIFx7NZwokRIhrR5oyP1_0",
+    "plus_code": {
+        "compound_code": "Q232+66 New York, United States",
+        "global_code": "87G8Q232+66"
+    },
+    "reference": "ChIJ-VIFx7NZwokRIhrR5oyP1_0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18291246246919215650",
+    "utc_offset": -240,
+    "vicinity": "450 West 33rd Street, New York",
+    "website": "https://media-alliance.org/"
+}

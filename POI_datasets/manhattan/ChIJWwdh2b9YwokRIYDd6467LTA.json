@@ -1,0 +1,228 @@
+{
+    "address_components": [
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "170 E 77th St, New York, NY 10075, USA",
+    "formatted_phone_number": "(646) 590-0495",
+    "geometry": {
+        "location": {
+            "lat": 40.77309460000001,
+            "lng": -73.9591382
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7745382802915,
+                "lng": -73.95771926970849
+            },
+            "southwest": {
+                "lat": 40.7718403197085,
+                "lng": -73.9604172302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9872be1b6df3572cee83bda5a14d1cf00f2a5436",
+    "international_phone_number": "+1 646-590-0495",
+    "name": "Raisler Testing Center",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0630"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:30 AM \u2013 6:00 PM",
+            "Tuesday: 6:30 AM \u2013 6:00 PM",
+            "Wednesday: 6:30 AM \u2013 6:00 PM",
+            "Thursday: 6:30 AM \u2013 6:00 PM",
+            "Friday: 6:30 AM \u2013 6:00 PM",
+            "Saturday: 6:30 AM \u2013 6:00 PM",
+            "Sunday: 6:30 AM \u2013 6:00 PM"
+        ]
+    },
+    "place_id": "ChIJWwdh2b9YwokRIYDd6467LTA",
+    "plus_code": {
+        "compound_code": "Q2FR+68 New York, United States",
+        "global_code": "87G8Q2FR+68"
+    },
+    "rating": 3.5,
+    "reference": "ChIJWwdh2b9YwokRIYDd6467LTA",
+    "reviews": [
+        {
+            "author_name": "Deniene Sarjeant",
+            "author_url": "https://www.google.com/maps/contrib/110812807462505262537/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dmnSX7pLR0o/AAAAAAAAAAI/AAAAAAAACgY/5Zq-3YlHoUM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "",
+            "time": 1560278770
+        },
+        {
+            "author_name": "Loraine Madeline",
+            "author_url": "https://www.google.com/maps/contrib/116738683396588401233/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dvRO7JhOxu4/AAAAAAAAAAI/AAAAAAAAMtk/zU7xS_a0xFM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1559378998
+        },
+        {
+            "author_name": "Aagrika Neupane",
+            "author_url": "https://www.google.com/maps/contrib/111931675881458695948/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7GbRN-WgwZ8/AAAAAAAAAAI/AAAAAAAAAJw/D-EndY3ywcY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1558141986
+        },
+        {
+            "author_name": "Gina Catania",
+            "author_url": "https://www.google.com/maps/contrib/100878076334173784924/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rUv59V2gvsE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd1IhcBq4L5LqckAgZOtyaQSnOnew/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1549058152
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3471637110289432609",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "170 East 77th Street, New York",
+    "website": "https://www.northwell.edu/find-care/locations/blood-testing-service-center-170-east-77th-street"
+}

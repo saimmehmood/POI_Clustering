@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2739",
+            "short_name": "2739",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 Riverside Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-2739</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 Riverside Dr, New York, NY 10025, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8029786,
+            "lng": -73.9691979
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8043813802915,
+                "lng": -73.9679818697085
+            },
+            "southwest": {
+                "lat": 40.8016834197085,
+                "lng": -73.9706798302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "65a55e689e1020e90b5ddf4318712582ecdec388",
+    "name": "Schinasi Mansion",
+    "place_id": "ChIJR8yszzr2wokR7YiYQ0GbcWg",
+    "plus_code": {
+        "compound_code": "R23J+58 New York, United States",
+        "global_code": "87G8R23J+58"
+    },
+    "reference": "ChIJR8yszzr2wokR7YiYQ0GbcWg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7525967156922058989",
+    "utc_offset": -240,
+    "vicinity": "351 Riverside Drive, New York"
+}

@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "114 East 13th Street, <span class=\"street-address\">FRNT 1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "114 East 13th Street, FRNT 1, New York, NY 10003, USA",
+    "formatted_phone_number": "(516) 669-0562",
+    "geometry": {
+        "location": {
+            "lat": 40.73298299999999,
+            "lng": -73.989149
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73442613029149,
+                "lng": -73.98773056970849
+            },
+            "southwest": {
+                "lat": 40.7317281697085,
+                "lng": -73.99042853029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ddec3e43351ba54a160ff9a285baab094d608682",
+    "international_phone_number": "+1 516-669-0562",
+    "name": "Victor Jung",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJYyBKMplZwokRp8MuexTYNKU",
+    "plus_code": {
+        "compound_code": "P2M6+58 New York, United States",
+        "global_code": "87G8P2M6+58"
+    },
+    "reference": "ChIJYyBKMplZwokRp8MuexTYNKU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11904377297524671399",
+    "utc_offset": -240,
+    "vicinity": "114 East 13th Street, FRNT 1, New York",
+    "website": "http://www.victorjung.com/"
+}

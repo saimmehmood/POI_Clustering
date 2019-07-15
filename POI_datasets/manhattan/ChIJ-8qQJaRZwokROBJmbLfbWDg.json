@@ -1,0 +1,329 @@
+{
+    "address_components": [
+        {
+            "long_name": "6",
+            "short_name": "6",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 25th Street",
+            "short_name": "W 25th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">6 W 25th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "6 W 25th St, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 832-4040",
+    "geometry": {
+        "location": {
+            "lat": 40.74296950000001,
+            "lng": -73.9893858
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7444156302915,
+                "lng": -73.9880225197085
+            },
+            "southwest": {
+                "lat": 40.7417176697085,
+                "lng": -73.9907204802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "ee956551b4f0be3b2f70c3cb8c25e470b6fcb1c2",
+    "international_phone_number": "+1 212-832-4040",
+    "name": "The 40/40 Club",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 PM \u2013 12:00 AM",
+            "Tuesday: 5:00 PM \u2013 12:00 AM",
+            "Wednesday: 5:00 PM \u2013 12:00 AM",
+            "Thursday: 5:00 PM \u2013 12:00 AM",
+            "Friday: 5:00 PM \u2013 4:00 AM",
+            "Saturday: 5:00 PM \u2013 4:00 AM",
+            "Sunday: 5:00 PM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112621518465458489457/photos\">Nijah Young</a>"
+            ],
+            "photo_reference": "CmRaAAAAs8Hzin4-kwLno2qTUDNRt74fxxZ45P1z2_w3BrmwVIlCivtAsFNRYAJIRu9Xyvkvi_KeHuI6XKCd5TNV4AyiIijRpC0CTk0FAUFGiUSh39XoFY7fz8aVWyruz2SFVAPcEhBeYSmdPF6E5ja7lQy9JmC5GhQ27SPrpwzdIBeLrCJtvP7AktULkA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101370076432840740257/photos\">Prisca Benson</a>"
+            ],
+            "photo_reference": "CmRaAAAAjDuNI7oSwDQ6V4qA9eZ8DAGDQVHqQIgsTeUyM0n-OMrq_OirkkiOe7RotLCtDgsaIr5SmUJCCfgxGSoPXHPrwreF9hjzok2EISArzbFNxxCLEX_R74DFQACAUkpIjFkPEhBlUPh5MwlqnXRf3txqOdSeGhQo82YJk4UNw2ToTgD8zAHckl5ENw",
+            "width": 3024
+        },
+        {
+            "height": 3831,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111364158785195534469/photos\">Im Gonna Help You Now</a>"
+            ],
+            "photo_reference": "CmRaAAAAiyWQFX3_hXdSUbYv7iP2TmGLuILgJevsgTmAa5FjeFfuQ4t7V0iH6drdfDhpf8ODPQEoLHYWZqKRRj3RRXaPExdfKyOIbmqsp7248AIM0umoO3uimwWnvoXRMLGDIbGXEhBfNKK997BMJHQzl5bh1KzaGhQljjsXP4Yh31bORK3wgYEfO7LMnw",
+            "width": 7671
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113196736513921813520/photos\">Dorothy Johnson</a>"
+            ],
+            "photo_reference": "CmRaAAAAigu39cGiWtBjulgONnkBuHgfpG2IwrzJ5b6gaHlANSVl6fKkLZ5Rag7VEb5dNFZh9LScBU1pI2El2ayBMOprvF5ak0FBKIbkBRhtjbV4LW80Kt3BcnP4XvMKsWB1ZYq_EhA2M7JjMx-Ygg_rMHst4vayGhTQYdgg8vwVKNv0IB1mP-buY_-Y2w",
+            "width": 4160
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117381007175203154557/photos\">Romaine Paige</a>"
+            ],
+            "photo_reference": "CmRaAAAAGG5lB9HwEEJUf8La000wCO7uZG0VD48fWyj6KpAZgM_xSanHryY8oI9QZf-WM63oCuegqoIVwEfGFV_9e4QQRI7gFXhdPKA9lEHoHuJ5KUYDbOUgIOA6kNUHc638rdv6EhCvRTbPVb_Efa3MqBkL4uhAGhTQ14MSZ2AbvVsAC2zhDY1eDpYuKQ",
+            "width": 4000
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101370076432840740257/photos\">Prisca Benson</a>"
+            ],
+            "photo_reference": "CmRaAAAACSARo7VEOO8uSiajEaT18MaonT31ZatRg_mqY-qsJj3K29cadCXRu_v0YeVNXy37HPHs_qRMeDMHN5sr8y1-fqHkzc08GS2PHQ1PosMnXL1KH2k_89ZFm60m26Cr4bEhEhBcT2Inqyttzut9R2U5w3_ZGhSYEBHc5uCcSLwbHNNYuaYDycOOIg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112042653625073150682/photos\">Sydneys Sweets</a>"
+            ],
+            "photo_reference": "CmRaAAAAkGzd3jbnoswRlpJ23xpmHkzmpEjflpwbdBlZbNC7IRVI_bFgzKiHQNl4Tlxio9rBEO4y44wV6k_qdu0fUNOYDHukmg5bcQVMzfWxEMQncPrn5iUjIn1o3yVBFvmcnwBuEhDUd7nGvq1NjJtbSRKv96HgGhTpNuzCXqXMzowyTcaIW-7721q2Bg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101370076432840740257/photos\">Prisca Benson</a>"
+            ],
+            "photo_reference": "CmRaAAAA0l-7pGS51J3k_aFo5hqDuX1KkprZsU7yldrhpg4W66vyLQwbCuqKYY6c6dLG4vmPJm5y23zWq4NBm9s-o-e7HpSAQC2c-o8DRdFbSbiHzgLqS8Bn7ZUUcp98qX-Xh8AKEhAF0BYIIbYYvhrqoIVwOPY1GhRe4ON4P7miS-1Y28qRzpqYRLvdlQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103232637596215053621/photos\">Jessica Inyere</a>"
+            ],
+            "photo_reference": "CmRaAAAA-BSaD7vGJbiIfTDl4arXHTJD-u66mSBEIj2QaHvvm21uSw51kzvTrzrr8BAn4cHT0KwwxKzJ-GBH1hnN2tYVbWibJm4KE7c-CxbHnOoMcPJoqq6U02I6EQnOiqYC0UtVEhAoOQ-T84hDe2Cs1UpKoap1GhRAERED9s0rXWMKkV-JkpNkSOU5Gw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105407787648692090243/photos\">Jorge Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAVDnvMnUOfZxCk6gnDnWaILjVnt2yRw2jKfF6JA5rzTaJlkyje9zIIPPrgIvvkvNFRDca1P4q6nxpOYSYReNspmMOZ2FnR2OboxGWxyBmHtQzMKQuXKFkFa4Xlj7C3VSGEhATvq4a1EbyThJIY6TJtQZKGhQZroUa7WIyJiDmIYAwFbqeSYlXkA",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ-8qQJaRZwokROBJmbLfbWDg",
+    "plus_code": {
+        "compound_code": "P2V6+56 New York, United States",
+        "global_code": "87G8P2V6+56"
+    },
+    "price_level": 3,
+    "rating": 4.1,
+    "reference": "ChIJ-8qQJaRZwokROBJmbLfbWDg",
+    "reviews": [
+        {
+            "author_name": "Michelle Cornish",
+            "author_url": "https://www.google.com/maps/contrib/101053209679954914417/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FxY5YZ2oX-Q/AAAAAAAAAAI/AAAAAAAAAcE/6uwZy9S9BPI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "We had an awesome experience the 40/40 club!  The staff were attentive, flexible, knowledgeable about the best package for us. The service was first class. The stadium section is first class, all the way! Thanks to James and Ishmael for making sure we were well taken care and received high quality service. There were more staff that ensured we had a great time, also. Not only will I recommend the 40/40 club, but I will definitely book events there in the future.",
+            "time": 1561176150
+        },
+        {
+            "author_name": "Michele Grif",
+            "author_url": "https://www.google.com/maps/contrib/111525821101903001841/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tlaKm8N_KqA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rekmQCJnUiMOhDQsdOIW9usAEH7CA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Date night out with my husband & this was a great choice!! 8:30pm on a Saturday night & it wasn't crowded at all, even though it was Pride wknd! There weren't any events taking place, so it was nice. The music was good & the service was great. My husband had the short rib & LOVED it, my chicken was good as well.  I would definitely recommend this place & plan on going back again.",
+            "time": 1561983931
+        },
+        {
+            "author_name": "Kristian Kennedy",
+            "author_url": "https://www.google.com/maps/contrib/111608472027667238953/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-w3vagLliuaM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcEXxXcwCPOOWgC2QdIUajHeUZhbA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "The music is absolutely amazing. The food is good. The club and atmosphere is excellent. My friends and I went to 2 other clubs till we found the party here. The drinks is kinda pricey. The bathrooms are gross so carry baby wipes and hand sanitizer because they run out of toilet paper and soap.",
+            "time": 1562528763
+        },
+        {
+            "author_name": "Paul Calderon",
+            "author_url": "https://www.google.com/maps/contrib/102402442897801306012/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-kGOCRBbMFrQ/AAAAAAAAAAI/AAAAAAAACCE/U6jj9_FzNl4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This place has a great ambiance, a lot smaller than it looks but a nice way to watch any sporting event. The drinks are not ridiculously priced like other places in the area and the music doesn't get TOO loud. The staff is friendly and the bathrooms are clean.",
+            "time": 1559836271
+        },
+        {
+            "author_name": "Edward Crawford",
+            "author_url": "https://www.google.com/maps/contrib/101614847638508310992/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UHDOkiR5RR8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re0ySv6WfIipxxRjn66MTgksXBU8g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Frequent visitor!!! Use to visit frequently after office with colleagues and had a great time with them by enjoying our drinks. It is the best place in town  to go with colleagues after office for enjoying drinks and feeling relax.",
+            "time": 1561796688
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4060236644918628920",
+    "user_ratings_total": 1001,
+    "utc_offset": -240,
+    "vicinity": "6 West 25th Street, New York",
+    "website": "https://the4040club.com/"
+}

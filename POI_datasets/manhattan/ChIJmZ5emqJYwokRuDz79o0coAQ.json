@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "1071",
+            "short_name": "1071",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1071 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1071 5th Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 423-3500",
+    "geometry": {
+        "location": {
+            "lat": 40.7829796,
+            "lng": -73.9589706
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78443508029151,
+                "lng": -73.95776296970848
+            },
+            "southwest": {
+                "lat": 40.78173711970851,
+                "lng": -73.9604609302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+    "id": "aa09742d854b00192daed833e2a56750587e8185",
+    "international_phone_number": "+1 212-423-3500",
+    "name": "Solomon R. Guggenheim Museum",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 5:30 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 5:30 PM",
+            "Thursday: 10:00 AM \u2013 5:30 PM",
+            "Friday: 10:00 AM \u2013 5:30 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 5:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105208411127921867872/photos\">spajoi local guides</a>"
+            ],
+            "photo_reference": "CmRaAAAAGVtmqy1I15Fvmoe3TSX7W1Si4eRQvO-qta_rZOvGhhDeSr9Oq_sSnVVnyKzkP0sEnBvMFd4M02Ng-CI5nLgRpB2e3sZULHouhsWdZA1y_yBpvXor17_grd1JNHE64IlyEhAoRQMdq_D0b8dL47j8SKKBGhSuj4jkFE9qO65hwS0H06UnHwmhdQ",
+            "width": 2048
+        },
+        {
+            "height": 670,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104115927706676173990/photos\">Alexandra Vender</a>"
+            ],
+            "photo_reference": "CmRaAAAAlQswTmkIFpFibbezlYyjyem7S55tpPsM07IWbMqFfhmEyt3nKysO8PH62PwDBbaKNgIlqHVZbP-HNTnck-ombrEpejeliv1eRrBxsxYrDewOQ0j4Av7PHsxmFInxRhS8EhAUolxV5gxyGTormWDhUB-uGhQND0n-Y9CDKYIx0YB3zMcFQaA_FQ",
+            "width": 1000
+        },
+        {
+            "height": 2993,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108034158598021551223/photos\">stephane blondeau</a>"
+            ],
+            "photo_reference": "CmRaAAAAgkSJWwFc8FMYjr51KTKbiG6eqWgvjxuZrwHaxikPXk1Sbh4p9HWrHaRwE2Y8jP-nP9WPEnXBwIzz2nwcBUIADDFHZalTfS3pakMhcm02OVWESHvjAeoZwuQXjUr6th_3EhCv6pQrwrWHGTYFiIQshhGGGhQmmZI1DkS8CmfR1bugAa7bxLDT3w",
+            "width": 5345
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105667925745680032990/photos\">Paulo Seixas</a>"
+            ],
+            "photo_reference": "CmRaAAAAAc5tqVXT6V0gYK6plmJ3szUW_XrGuuAVk7ywUInpDfysFE1ekggxsq0e4gu977zWARhZ7HA10f6FZam1x7xla7RtxbI_8emPUjo8d-JoAZiLwPWyzInxyiCtJu_bgQ4rEhBuLi_jMIGG0dBLzj92CUWrGhQ7wcGTjWHc7xYttQMz6AZ1XWEYKw",
+            "width": 4032
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114880317574046820941/photos\">Kuba Smieciuszewski</a>"
+            ],
+            "photo_reference": "CmRaAAAAeNiDTql2JviBH_yOxLbdCQm6LUWLouWM4MQGiX_hgk8qewo-dUAsw3K1-YqlfMOgyv9q9nwQxsHkjr-lFbkDE3tSFR49VDvKF1_z02ROS6PI1TA-wvW0iXHDaLfw0cE2EhBEvQvlXwuXTfi6NMHSEDtBGhQHRwv64D-vz99javNdxfrt63Odtg",
+            "width": 4032
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109713850759689908346/photos\">Heike Zeman-Zachar</a>"
+            ],
+            "photo_reference": "CmRaAAAA9aQZeuAIsMQiBQ6_5IxEBYgJLp7RRXE-_SqcDK0yVoJqtfKJEsOUUzo-jQLdjXoSR2pMwsJIJWgbjBTutt9-FU0meDJ4V1DwYNy2Z3sC3CDCizZW0n_WDEu0eG0_AAeCEhCi9Pw-dtWcfMz2iDLUUXojGhRC6SzW8GvLRxi4A6hN6K97fCjIkg",
+            "width": 2560
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104460374277553830556/photos\">Leonardo Finiti</a>"
+            ],
+            "photo_reference": "CmRaAAAAB3HU_GtldwZ1bDuyGWjFhUBKunZFP6mT4z_WDrXAyqb07w1OI7T2S2Kk5tweIXUTGaHGwnVQ0p3Uq9KGRhVoebtTQ5QMaF3N-JKwrC_YdY0i1rBU48Q8ITexfVPuKfckEhDrdSpSn8pnbanNg22R4WDSGhQsJ_He2TBnhP146AuXD947SpC9NQ",
+            "width": 4608
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109998257159163103788/photos\">Karen Kysar</a>"
+            ],
+            "photo_reference": "CmRaAAAAzNVOokR2RSFb2IeDNRl_uv0ULw-f9_56Uoz4Vpo-OgmWTxDDx21PN5ZKSJOqSSkNd59fIb1g_L-l5zuGSA2k7krt6155SyrgVHuGwDrG4T9uHQksC5cpoyhmINzPHtCaEhAEJF57jZ343GBhYjoRferqGhRdnyrVfvKH3G3XGb-74cwP1ooHhA",
+            "width": 1536
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114789474860731576685/photos\">Arry Areizaga</a>"
+            ],
+            "photo_reference": "CmRaAAAARPZoHKgWMezdwyeOY11U8DC_kqv_wO2C2h-rGr0TphKpThfCQFdxomrseix2cCViMR3z9SO5qwEpfJWgmDgfApoqvtM5X-7YFrJtw5TdwdoBJQrf1YmDAga4oyX4g_MIEhCY5hP2VRwjidIKD-Lw8m0EGhTubpDfJAhk3xaa2VnYfOPAAUTERg",
+            "width": 3024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "photo_reference": "CmRaAAAAxzrPc0etPMrGelttvWAVpUxw6aO1vgVy_sjdG1gQzZe_URRuXn0jZGM9r_gT6RXRTOpJox4GvyTDFrDWEVVZxJvWjsHgEj67Xi02DJnydASY8Q8nqBhHPjAJJ60MzBPHEhBtXyPAIP6r7jUJPWjyldLhGhTus2WOM5sSwSGYlN7tbUWhYo6Cpg",
+            "width": 1152
+        }
+    ],
+    "place_id": "ChIJmZ5emqJYwokRuDz79o0coAQ",
+    "plus_code": {
+        "compound_code": "Q2MR+5C Manhattan, New York, NY, United States",
+        "global_code": "87G8Q2MR+5C"
+    },
+    "rating": 4.3,
+    "reference": "ChIJmZ5emqJYwokRuDz79o0coAQ",
+    "reviews": [
+        {
+            "author_name": "Max Ruso",
+            "author_url": "https://www.google.com/maps/contrib/115734042294590761808/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QAovbNwztYk/AAAAAAAAAAI/AAAAAAABTc0/RLoxvHcnizQ/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "It was my first time visiting Guggenheim museum. The spiral in spacious, futuristic architecture building design. Located next to Central Park in Manhattan. The design of the building pathways take you through the top in a spiral direction. Amazing display of talented artists, sculptures and photographers. There is a cafe on the third floor also designed in a spiral style. Sunday noon was a perfect visit with not being overcrowded.",
+            "time": 1561910852
+        },
+        {
+            "author_name": "Mimi Wahinee",
+            "author_url": "https://www.google.com/maps/contrib/107599492442147540543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-mHP9_2Hu1zM/AAAAAAAAAAI/AAAAAAAAA6Y/lbbarwgtXLk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "One of my favourite museums. The architecture is amazing. The rotundas are so well-designed and the art pieces of the permanent collection is great! There is Free Audio available and there's a free tour at 2pm. \n\nIt does get crowded during the weekend so I'd say go as early as you can. On Saturday, it's pay what you wish after 5:45pm so if you decide to do that, be prepared to wait in line for quite some time. The line, when I left the museum at 6pm, went around the block! It is worth every dollar though.",
+            "time": 1562108691
+        },
+        {
+            "author_name": "Star Melgar",
+            "author_url": "https://www.google.com/maps/contrib/106454549080738761890/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-GvD7HjcouPQ/AAAAAAAAAAI/AAAAAAAAL-g/DtDMNISSkvo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "I live in Miami, Florida. I travelled to New York specifically to visit The Guggenheim.  I saw so many beautiful works of art. I truly enjoyed the exhibit that was highlighting the work of Mapplethorpe. The stores have amazing merchandise.  The staff is helpful. The architecture of the building is breathtaking.  I can't wait to go back!",
+            "time": 1560636759
+        },
+        {
+            "author_name": "Angie",
+            "author_url": "https://www.google.com/maps/contrib/105649338152121655993/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-pFU3D6UHB8A/AAAAAAAAAAI/AAAAAAAAMJ4/wRWXxOdRM5M/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Always love the exhibitions here and the building itself is a work of art. The spiral layout with no stairs is so great. It allows you to focus more on the art and the exhibition seems more cohesive because you aren't leaving to get on an elevator or stairs each floor. It flows nicely. The permanent collection is also very nice.",
+            "time": 1559564118
+        },
+        {
+            "author_name": "Alex Rosenberg",
+            "author_url": "https://www.google.com/maps/contrib/112243427146145746674/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-eoMzHRd-oh0/AAAAAAAAAAI/AAAAAAAAURc/_Mr6Yu_iUmA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Marvelous building architecture! Frank Lloyd Wright was certainly a genius, creating such a timeless master piece of design. We managed to explore a wide variety of art displays, beautifully enhanced by the location. Everything here was pristine. Pricing is reasonable and even the restrooms are very unique and tidy. I highly recommend a visit of the museum!",
+            "time": 1557254165
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=333297768485043384",
+    "user_ratings_total": 11002,
+    "utc_offset": -240,
+    "vicinity": "1071 5th Avenue, New York",
+    "website": "http://www.guggenheim.org/"
+}

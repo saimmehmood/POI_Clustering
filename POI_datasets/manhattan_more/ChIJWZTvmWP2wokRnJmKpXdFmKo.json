@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "3513",
+            "short_name": "3513",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5622",
+            "short_name": "5622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3513 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3513 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82562050000001,
+            "lng": -73.9513614
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269401802915,
+                "lng": -73.94994286970848
+            },
+            "southwest": {
+                "lat": 40.8242422197085,
+                "lng": -73.9526408302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "b05b3ae1f3309fd52850577972fbc405f4b7445a",
+    "name": "Community Candy Corp. Grocery",
+    "place_id": "ChIJWZTvmWP2wokRnJmKpXdFmKo",
+    "plus_code": {
+        "compound_code": "R2GX+6F New York, United States",
+        "global_code": "87G8R2GX+6F"
+    },
+    "reference": "ChIJWZTvmWP2wokRnJmKpXdFmKo",
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12292651563088517532",
+    "utc_offset": -240,
+    "vicinity": "3513 Broadway, New York"
+}

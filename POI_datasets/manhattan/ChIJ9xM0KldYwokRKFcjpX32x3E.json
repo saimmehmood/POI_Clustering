@@ -1,0 +1,329 @@
+{
+    "address_components": [
+        {
+            "long_name": "730-732",
+            "short_name": "730-732",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "9th Avenue",
+            "short_name": "9th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">730-732 9th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "730-732 9th Ave, New York, NY 10019, USA",
+    "formatted_phone_number": "(646) 963-2665",
+    "geometry": {
+        "location": {
+            "lat": 40.763079,
+            "lng": -73.9888912
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76448618029151,
+                "lng": -73.9876849697085
+            },
+            "southwest": {
+                "lat": 40.76178821970851,
+                "lng": -73.9903829302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d5491f2ff473bb8dc957c40fdbf1d1195b9f4e21",
+    "international_phone_number": "+1 646-963-2665",
+    "name": "Housing Works Thrift Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 8:00 PM",
+            "Tuesday: 12:00 \u2013 8:00 PM",
+            "Wednesday: 12:00 \u2013 8:00 PM",
+            "Thursday: 12:00 \u2013 8:00 PM",
+            "Friday: 12:00 \u2013 8:00 PM",
+            "Saturday: 12:00 \u2013 8:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107694081394968639848/photos\">Michael Shafran</a>"
+            ],
+            "photo_reference": "CmRaAAAAB2PTTl9uTFGk5ZY_lms2AkDOs4cZMbHDqr5WrjU9q9YIfD0tv4CT6EB1ES8nfiwEFyureLMpKJKDr7tQprdUj2N4FuhYd3akcze8N2vQ9e2bi9HuIcF8atwUvyl3cDTJEhAhBIxp43lAg0qGN1yQTl7lGhSzmOUMXPKq4cxXQIcneahO6kSI3w",
+            "width": 5312
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114703254863534257946/photos\">yuming ren</a>"
+            ],
+            "photo_reference": "CmRaAAAA6PSFAmhvCX9TWKkZP6DynKK3gc49LNyUqrnFhNzpkRL3THvx_NyMHCq4ETV78Nvsx8eCR0UfoJweierZgQ7vARIAoxXqnJfqeIgcfQXZ9Mk3k-ExNczWNRHMmy9QA39rEhDSeJwkGKO_6-8nJ3ax0qFaGhT_9SeDnwmFUme1oTkhtyy1fzMSrg",
+            "width": 3036
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAA0BgEEX_rAJ8Yrg8Jx5D1v4M8wtKn2Mx3oII0olvNTnbJCcTUVIJwH8mpjgNB4dTFtFnd8KukliDlzlLGzrySPu5XEopt9QY_WBcdQE8HZXdC4fzZd5sIfKGPKbplUsB8EhAQ1GO3u3Ys6kQbm9AICDC5GhTJsw06P1UFQnOvuOAhhPZ8zu8YCw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107242808198786134751/photos\">Jenna Cardinale</a>"
+            ],
+            "photo_reference": "CmRaAAAAHAN6LXds4fB3WLgkihPXUUA1JAPeXaNC615lyY0sAlgQSV-_M641SNphT0Ou6fqheZbAkN1z1tkoDensbKH5h9FSnNQaKbO8UVLTKm7Hz7OEyprOro4xcs3pRRLe8jShEhC7UpTC8kdVPC5vh64hKE1zGhQUV7HzzP4HkTtPpOO3Fu5xRcz0EA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAAOCCXAlYDLTn-T7bdAJkR_aOOmSmYRgugvk4sawhzPBzbV5pUmEHJjYhNEMMZSPZcKP7g6y9xncNdsQnLeaf05POUwigD_2qvWcZYZmwsQg3SwLbGCqE6ofpxFm0VV5y5EhBj-WoqSZOLMX1_8wvjsq2wGhR7EeoSDZyTrKKfzCJF76zQU0OBHw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAAtZqb52EMixjC8Nw93499k0g8XslI8QKjk4ovoFIFXV2vO9VOsr0XvQF8lIApuhIOSHKFPnjOJ0WO3SO0-0zDQC8ego4HFEJA45IMI3C947faftp-YusPcyTz0HYfOgzlEhCpf5NQOGEPvBB7syAJeQWQGhTnjGV8k7mVhvM5YvaOAACl1vEgLw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAAK03bqoH0piIdWIpNzenrhd6kbaWvtdxBJ2qwNU6C7UY6mhFh9D1B3JuNVQoPy-kCeslfe44n1lz_eb6zabWQl9xOOdB3umRPzbyCHgpy5ziLE3cneCIZlay6LZi8UCxQEhCvOeDichajniGtxTdEVwSoGhQQMO2osrFuBaqYL-iWGil7HWCigg",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113231998114570783824/photos\">Laura Stein</a>"
+            ],
+            "photo_reference": "CmRaAAAAo84e1K3qA-jcFKLIorPj-_RtZhQpgNQfes11fa7GLsxXtGfxSmo1FXLJzT1FvCoNRn47qqeAAkSFqo-mfHHlx2xn3CewPZTo_R7VZ8l38NDYSABBQ1Ygh7aLso0iaD3kEhD779Ui8IC3i83xRbmJH7UiGhS-Etaji2Ax8cz9EkRZBw10vKFpdg",
+            "width": 3036
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAA-SPcvUcivszLifD2CYddm58ZeVYNxJTDiNsEpXqlQvOpWySJPsr4iChniDKqstiwePP59Flto9qWTRWI5Eqh7NVw7io_vnsZYVNSkWBzRGaQtpft0IGoQXVm_aOe4AiiEhAYbL_fX5cGMGB0KruL0QODGhQynqfR9Gp0jwqfwPtczsvcyTTZ-g",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
+            ],
+            "photo_reference": "CmRaAAAA_9wjpVBCQDO_4JicIVgnyfDGC-XT2hGQDBTToYOoFFKolTAGRHqKgIO_2O0qabnlkew3EzAV6x2CDjdRCBuFsqoZatV0AQq7pxrp-RfaTl26kX2C0dGY-jow6y9rNacaEhCQ44KCqLf9ncmQaIV083PhGhRLFwPmxiouvY5BP3f5jnlA2H1SZA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ9xM0KldYwokRKFcjpX32x3E",
+    "plus_code": {
+        "compound_code": "Q276+6C New York, United States",
+        "global_code": "87G8Q276+6C"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJ9xM0KldYwokRKFcjpX32x3E",
+    "reviews": [
+        {
+            "author_name": "Nate Grenko",
+            "author_url": "https://www.google.com/maps/contrib/110338132713474866704/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-33kUQkX5qNc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd52D8-EtUM6Hg6fxJyKvL-knWc3Q/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "They don't have much in the way of men's clothes, for what it's worth. Still a nice little place overall, though!",
+            "time": 1556296001
+        },
+        {
+            "author_name": "Gretchen Auer",
+            "author_url": "https://www.google.com/maps/contrib/114209606236950907635/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4kwrHL9uVBA/AAAAAAAAAAI/AAAAAAAAABg/3FCDoETHI1I/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This is easily my favorite store in Hell's Kitchen!",
+            "time": 1551019354
+        },
+        {
+            "author_name": "Preston Leslie",
+            "author_url": "https://www.google.com/maps/contrib/102604893937505143516/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-EgoH0Gsuif4/AAAAAAAAAAI/AAAAAAAAACw/E_wPtNefX20/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I love me a Housing Works. All the proceeds support their endeavors to help recovering drug addicts, as well as the homeless and those affected by HIV. This location is well known for its great donations by the young gay men from Hell's Kitchen. You can find great names at a discount here. I say this, but I just bought a really cute sequined skirt here from their womenswear. Some nice home decor is available as well...",
+            "time": 1527460117
+        },
+        {
+            "author_name": "Lisa Scrocco",
+            "author_url": "https://www.google.com/maps/contrib/115189368647635438240/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SPtaJFnVDhg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reIXWmOzhMjA13av5RwlYvni5yDgw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Always a great find at Housing Works...high end designers and brands for a fraction of the cost, and items are generally in great condition.",
+            "time": 1540682732
+        },
+        {
+            "author_name": "Alicia Roberts",
+            "author_url": "https://www.google.com/maps/contrib/109179228263730550844/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5eD2TyCLgVA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re2SG3rlPdXUi1m1px-Ne3YuO-LWA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Nice selection but extremely expensive for a thrift shop.",
+            "time": 1555374387
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8198792666153178920",
+    "user_ratings_total": 100,
+    "utc_offset": -240,
+    "vicinity": "730-732 9th Avenue, New York",
+    "website": "https://www.housingworks.org/locations/hells-kitchen"
+}

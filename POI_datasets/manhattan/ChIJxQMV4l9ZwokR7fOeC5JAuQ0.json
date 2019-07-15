@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "180-224",
+            "short_name": "180-224",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "South 1st Street",
+            "short_name": "S 1st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">180-224 S 1st St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "180-224 S 1st St, Brooklyn, NY 11211, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7130715,
+            "lng": -73.9594127
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7144204802915,
+                "lng": -73.95791209999999
+            },
+            "southwest": {
+                "lat": 40.7117225197085,
+                "lng": -73.9609133
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "179cd33df10108da6d1e65580d601ae0a4444002",
+    "name": "180-224 S 1st St",
+    "place_id": "ChIJxQMV4l9ZwokR7fOeC5JAuQ0",
+    "reference": "ChIJxQMV4l9ZwokR7fOeC5JAuQ0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=180-224+S+1st+St,+Brooklyn,+NY+11211,+USA&ftid=0x89c2595fe21503c5:0xdb940920b9ef3ed",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

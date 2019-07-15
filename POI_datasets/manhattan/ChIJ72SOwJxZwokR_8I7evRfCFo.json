@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "329",
+            "short_name": "329",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8405",
+            "short_name": "8405",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">329 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-8405</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "329 6th Ave, New York, NY 10003, USA",
+    "formatted_phone_number": "(212) 989-9414",
+    "geometry": {
+        "location": {
+            "lat": 40.7313608,
+            "lng": -74.0015349
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7326604302915,
+                "lng": -74.00006841970848
+            },
+            "southwest": {
+                "lat": 40.7299624697085,
+                "lng": -74.00276638029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "caaf9db2eb1dcbfa8b635646fb347537f2a218c7",
+    "international_phone_number": "+1 212-989-9414",
+    "name": "Barrese News Stand",
+    "place_id": "ChIJ72SOwJxZwokR_8I7evRfCFo",
+    "plus_code": {
+        "compound_code": "PXJX+G9 New York, United States",
+        "global_code": "87G7PXJX+G9"
+    },
+    "reference": "ChIJ72SOwJxZwokR_8I7evRfCFo",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6487540766854595327",
+    "utc_offset": -240,
+    "vicinity": "329 6th Avenue, New York",
+    "website": "http://www.merchantcircle.com/business/Barrese.News.Stand.212-989-9414"
+}

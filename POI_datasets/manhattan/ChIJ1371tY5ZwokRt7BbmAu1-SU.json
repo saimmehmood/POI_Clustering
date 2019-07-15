@@ -1,0 +1,293 @@
+{
+    "address_components": [
+        {
+            "long_name": "525",
+            "short_name": "525",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">525 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "525 Broadway, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 625-0778",
+    "geometry": {
+        "location": {
+            "lat": 40.7229859,
+            "lng": -73.9990921
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7242900802915,
+                "lng": -73.99765276970848
+            },
+            "southwest": {
+                "lat": 40.7215921197085,
+                "lng": -74.0003507302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "f6c4d9f7bc7ae1c403a9662a4a158ad0523c7327",
+    "international_phone_number": "+1 212-625-0778",
+    "name": "Chase Bank",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111487073622309890442/photos\">Matt Storms</a>"
+            ],
+            "photo_reference": "CmRaAAAAJMrFGEiIdkgcFA8nh-EG-Kgd-ermvJAU7rO7B2sf0K0E22I7moM2YLOW2FpZKWZB1ckA8UqVLOUtb5-pIjYG2omw8a064sGNhXnT9TFv0LJxiC8JRsFw2rouwQ5wS0dxEhBPwEbe0z2_pqjtbpTYk9ZiGhSY8jRRYc1yNPL3NLOLGvDeJ8sgQQ",
+            "width": 3024
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112083827460901098103/photos\">Jonathan H</a>"
+            ],
+            "photo_reference": "CmRaAAAA288ji3YNjgfc04aLCJ9ik62W8xMgYpreZ1u8mPgsz7uoyAWHJj9Ury8pl1hrpnKfhIz3bN4czi0MzrCU6xIQxqOlunw85TTPF2gf5EIHroA-Mza3TUcC0oBfBSIMu-UPEhBXfI2q2XJcWNo6lfWdPIslGhSFt2SXiHwTlNBgZm_xdRbghiTpeg",
+            "width": 3264
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101569925754267574729/photos\">K\u0131van\u00e7 Ali ANIL</a>"
+            ],
+            "photo_reference": "CmRaAAAAQdUZ33cZWKPKOipM4_RvfBSQJVvIJN3dmP97VncUhMpBSyQo9_sjLhniCrU7HUPfOBLpxBWxDf5zLQiAI3htjp2rwS1RfgfU9v5yvvLSAbYh3lB6ibZCRjxPFMXLf47fEhDns6hRIpEy7sWElI5lfu1KGhRjjf_9qgh6iHplHzy0tUX__Q-meQ",
+            "width": 2048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117357934109968920270/photos\">William B</a>"
+            ],
+            "photo_reference": "CmRaAAAA63zxNAHQGtaB9fSfpbzvZz6T79wq_iYrNZftDO1vu3CnWrx-3eRIJskCuMUlS_r0Fy6WW50R-K1Qh6P66VBxNQ_gjCEVgFjzcd6AZioXOh5aGLk3iVo5YG7VxIi9GKn5EhD0TGHg9uMGl6s6WVrtaCwJGhRpG8AS0Wlab-TM-ZhW1wdf59uSlw",
+            "width": 4032
+        },
+        {
+            "height": 1266,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111114253310457855333/photos\">Chase Bank</a>"
+            ],
+            "photo_reference": "CmRZAAAAQmmprpYmnnlZPy-dyMq_vnGEX73EpIOqDkhkT6jO2yHfBfqUJYkMMOY9QbptH8QXyxXmCGfT_Y7ONblP4nAjbhgc1kzp42eETjLqfshgw23oQGKuHhmidCNHtJG11Vu8EhBVuXcVuH4H12rWZ945zuC-GhSBYsxgfqpBtX86LgDrfFtqV0olSw",
+            "width": 1900
+        },
+        {
+            "height": 2494,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105170431124683218627/photos\">Marc Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAzL2f4MjHF4exaF6vixZ_ylOo2vH7boC1w3Q_Tx7f0EU8_J7GgVIZyAuezmlIfeMFXWVagkEFQYt_b65EYbgYdnDfJsGHYS7xcHv4gVdlhKcY9BMgqzLOwkmC6JmsskPyEhC4iuieK1_cL6xvnR4saALTGhQNecvZsMdW1ATgAvEpu07jsP7-6g",
+            "width": 1798
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111114253310457855333/photos\">Chase Bank</a>"
+            ],
+            "photo_reference": "CmRZAAAAfLhzCFZYuRvij8mQ6RCmo_r8fLINIay5prXV6KQmAPNgmwCkY9PzvzYGVIeUc08mDvT2HtMaa3o6NjL_77nbXRD0E7zdwCNm--vOatHdrU_R-lTbLzrihFxCFMVytzE1EhCijS3gXeNV_dEtwCe8kO23GhShOZZ6w1mAhuKmSzfhT7YiLc1pfA",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJ1371tY5ZwokRt7BbmAu1-SU",
+    "plus_code": {
+        "compound_code": "P2F2+59 New York, United States",
+        "global_code": "87G8P2F2+59"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ1371tY5ZwokRt7BbmAu1-SU",
+    "reviews": [
+        {
+            "author_name": "Alisha Hawkins",
+            "author_url": "https://www.google.com/maps/contrib/106643603850390651775/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-en2UYvjrKEE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQHhqTOtJMS_AFdXJc_sStn_1jpw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I visit this location, they didn\u2019t help me at all with my situation losing my debit card. I go to the park avenue location and they helped me immensely!",
+            "time": 1557858259
+        },
+        {
+            "author_name": "Johana Paredes",
+            "author_url": "https://www.google.com/maps/contrib/100389970669956288543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PKLKOZEZbIQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd4lincsrOMCNUIxgsGe1DUghv7aw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Went in to get some statements printed out was received by Jasmina Uliu. We told her we need statements and she proceeded to tell us, well you can print them yourself at home. With a really bad attitude I told her I don't have a computer or printer at home.(if I did I think I wouldn\u2019t have gone there in the first place). So I mentioned that I have done this before when I need a statement and never had received an answer like this, she said \u201c but that is going to be like 24 pages (so rudely) and it is going to cost money\u201d rolling her eyes. I do not know what her problem was. I told her it is ok i will pay the cost. She got up and sighed and said she was going to ask and walked away. So we just left because her attitude and rudeness were on-called for.",
+            "time": 1554910746
+        },
+        {
+            "author_name": "Zak-anthony",
+            "author_url": "https://www.google.com/maps/contrib/109621708493740283597/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2WPGjuodX6U/AAAAAAAAAAI/AAAAAAAACN0/9urqmC6EFRk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "Horrible, one one teller! Really on Broadway????and the bank manager is to busy on his phone to care if anything is going on....",
+            "time": 1560455627
+        },
+        {
+            "author_name": "Maya Ethridge",
+            "author_url": "https://www.google.com/maps/contrib/100328855527884598897/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-N9ehpj5sWs0/AAAAAAAAAAI/AAAAAAAAABQ/BT5H03Zp4ws/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This is the best location in ny/the only chase I\u2019ll go to I\u2019ve never had an issue here and everyone is so nice and helpful, usually gotta wait in line for like 10/20 if it\u2019s busy but it\u2019s chill",
+            "time": 1525206150
+        },
+        {
+            "author_name": "Sebastien Shan",
+            "author_url": "https://www.google.com/maps/contrib/101272110989778813935/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MefzbSKTE8A/AAAAAAAAAAI/AAAAAAAA6c8/7xuarD7L6UA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "ATM area isn't so clean. Store is quite tall. Helpful staff. ",
+            "time": 1490208881
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2736417310009700535",
+    "user_ratings_total": 14,
+    "utc_offset": -240,
+    "vicinity": "525 Broadway, New York",
+    "website": "https://locator.chase.com/ny/new-york/525-broadway?jp_cmp=rb/LocalListings/aff/branch/na"
+}

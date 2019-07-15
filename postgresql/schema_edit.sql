@@ -118,7 +118,7 @@ select tr.traj_id, st_astext(tr.traj_path), st_astext(ce.coordinates)
  
  -- storing traj_path points with their id's. By seeing if those points intersect with trajectory path. And storing only the distinct points.
  
- select distinct st_astext(tp.trajpoints) as traj_points, tr.traj_id as traj_id into table traj_poi_id
+select distinct st_astext(tp.trajpoints) as traj_points, tr.traj_id as traj_id into table traj_poi_id
 	from traj tr, traj_points tp
 	where st_intersects(tr.traj_path ::geometry, tp.trajpoints ::geometry)
 	order by tr.traj_id

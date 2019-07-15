@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "153",
+            "short_name": "153",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 96th Street",
+            "short_name": "E 96th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153 E 96th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153 E 96th St, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 289-0125",
+    "geometry": {
+        "location": {
+            "lat": 40.78595589999999,
+            "lng": -73.9505166
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78720498029149,
+                "lng": -73.94924181970849
+            },
+            "southwest": {
+                "lat": 40.7845070197085,
+                "lng": -73.9519397802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "be8593471238ae5b9d5a00e982fe83e794f8ce1f",
+    "international_phone_number": "+1 212-289-0125",
+    "name": "Leonardo A Rodriguez Md",
+    "place_id": "ChIJg1ywY6ZYwokRNUCpBfhWy58",
+    "plus_code": {
+        "compound_code": "Q2PX+9Q New York, United States",
+        "global_code": "87G8Q2PX+9Q"
+    },
+    "rating": 1,
+    "reference": "ChIJg1ywY6ZYwokRNUCpBfhWy58",
+    "reviews": [
+        {
+            "author_name": "Annette Santiago",
+            "author_url": "https://www.google.com/maps/contrib/110080728641367969186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-12TP2zcSic8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reZPvEHPEop4LrZeT79l3VRohwp5w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "He's a FANTASTIC DOCTOR. THE BEST...",
+            "time": 1500559110
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11514392495549661237",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "153 East 96th Street, New York"
+}

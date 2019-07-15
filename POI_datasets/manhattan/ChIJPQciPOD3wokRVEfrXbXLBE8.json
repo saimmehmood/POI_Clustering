@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "PO Box 354",
+            "short_name": "PO Box 354",
+            "types": [
+                "post_box"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0354",
+            "short_name": "0354",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"post-office-box\">PO Box 354</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020-0354</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "PO Box 354, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 861-4663",
+    "geometry": {
+        "location": {
+            "lat": 40.8270448,
+            "lng": -73.97569399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8284011302915,
+                "lng": -73.97433741970849
+            },
+            "southwest": {
+                "lat": 40.8257031697085,
+                "lng": -73.9770353802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f51e844d507608febb27fd6f760ef77346d90f7c",
+    "international_phone_number": "+1 201-861-4663",
+    "name": "Nj Home & Financial Services Corporation",
+    "place_id": "ChIJPQciPOD3wokRVEfrXbXLBE8",
+    "plus_code": {
+        "compound_code": "R2GF+RP Edgewater, New Jersey, United States",
+        "global_code": "87G8R2GF+RP"
+    },
+    "reference": "ChIJPQciPOD3wokRVEfrXbXLBE8",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5693899808728368980",
+    "utc_offset": -240,
+    "vicinity": "Edgewater"
+}

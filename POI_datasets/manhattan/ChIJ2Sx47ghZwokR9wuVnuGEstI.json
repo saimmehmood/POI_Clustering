@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "207",
+            "short_name": "207",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 30th Street",
+            "short_name": "E 30th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10016",
+            "short_name": "10016",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8230",
+            "short_name": "8230",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">207 E 30th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016-8230</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "207 E 30th St, New York, NY 10016, USA",
+    "formatted_phone_number": "(212) 886-1083",
+    "geometry": {
+        "location": {
+            "lat": 40.74312199999999,
+            "lng": -73.97919
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74437653029149,
+                "lng": -73.9779100697085
+            },
+            "southwest": {
+                "lat": 40.74167856970849,
+                "lng": -73.98060803029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c6e4f53cf4c761e9b113736286fd679aa0d0a9fd",
+    "international_phone_number": "+1 212-886-1083",
+    "name": "St Raphael Fine Arts Inc",
+    "place_id": "ChIJ2Sx47ghZwokR9wuVnuGEstI",
+    "plus_code": {
+        "compound_code": "P2VC+68 New York, United States",
+        "global_code": "87G8P2VC+68"
+    },
+    "reference": "ChIJ2Sx47ghZwokR9wuVnuGEstI",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15182343398382439415",
+    "utc_offset": -240,
+    "vicinity": "207 East 30th Street, New York"
+}

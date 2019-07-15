@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "97",
+            "short_name": "97",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spring Street",
+            "short_name": "Spring St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">97 Spring St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "97 Spring St, New York, NY 10012, USA",
+    "formatted_phone_number": "(917) 289-0987",
+    "geometry": {
+        "location": {
+            "lat": 40.7233229,
+            "lng": -73.9992094
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7246398302915,
+                "lng": -73.99788601970849
+            },
+            "southwest": {
+                "lat": 40.7219418697085,
+                "lng": -74.0005839802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4bc95c2a869830876307cf17e9b780488bc794b7",
+    "international_phone_number": "+1 917-289-0987",
+    "name": "Modasphere Llc",
+    "place_id": "ChIJeRxSto5ZwokRYAoreI0cmcw",
+    "plus_code": {
+        "compound_code": "P2F2+88 New York, United States",
+        "global_code": "87G8P2F2+88"
+    },
+    "reference": "ChIJeRxSto5ZwokRYAoreI0cmcw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14742846249106082400",
+    "utc_offset": -240,
+    "vicinity": "97 Spring Street, New York",
+    "website": "http://modasphere.com/"
+}

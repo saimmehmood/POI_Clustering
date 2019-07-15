@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "21122",
+            "short_name": "21122",
+            "types": [
+                "post_box"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0018",
+            "short_name": "0018",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"post-office-box\">21122</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-0018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "21122, New York, NY 10025, USA",
+    "formatted_phone_number": "(631) 664-1750",
+    "geometry": {
+        "location": {
+            "lat": 40.7999209,
+            "lng": -73.96831019999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8012690802915,
+                "lng": -73.9669571197085
+            },
+            "southwest": {
+                "lat": 40.7985711197085,
+                "lng": -73.9696550802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a5d478b4952b615442fd47eed80600fdad99d85e",
+    "international_phone_number": "+1 631-664-1750",
+    "name": "Waste Services Llc",
+    "place_id": "ChIJq6qqqiX2wokRxN31155J45A",
+    "reference": "ChIJq6qqqiX2wokRxN31155J45A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10440269307751816644",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

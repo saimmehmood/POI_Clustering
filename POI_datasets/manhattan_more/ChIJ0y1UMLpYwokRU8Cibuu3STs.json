@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1633-1617",
+            "short_name": "1633-1617",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1633-1617 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1633-1617 1st Avenue, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7758725,
+            "lng": -73.9500939
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7772214302915,
+                "lng": -73.94874491970847
+            },
+            "southwest": {
+                "lat": 40.7745234697085,
+                "lng": -73.9514428802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "568ee529317b9f70b00b242b9b33709641841e14",
+    "name": "1633-1617 1st Avenue",
+    "place_id": "ChIJ0y1UMLpYwokRU8Cibuu3STs",
+    "reference": "ChIJ0y1UMLpYwokRU8Cibuu3STs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1633-1617+1st+Avenue,+New+York,+NY+10028,+USA&ftid=0x89c258ba30542dd3:0x3b49b7eb6ea2c053",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

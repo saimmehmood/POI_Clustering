@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "111",
+            "short_name": "111",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 100th Street",
+            "short_name": "E 100th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6260",
+            "short_name": "6260",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">111 E 100th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-6260</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "111 E 100th St, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 410-6475",
+    "geometry": {
+        "location": {
+            "lat": 40.7888863,
+            "lng": -73.949921
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7902038302915,
+                "lng": -73.94859541970848
+            },
+            "southwest": {
+                "lat": 40.7875058697085,
+                "lng": -73.9512933802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b2b327232ca74f90f4585c2e8853ecab1c93d0df",
+    "international_phone_number": "+1 212-410-6475",
+    "name": "East Harlem Houses",
+    "place_id": "ChIJr4sqkadYwokR-J-bP08xFzo",
+    "plus_code": {
+        "compound_code": "Q3Q2+H2 New York, United States",
+        "global_code": "87G8Q3Q2+H2"
+    },
+    "rating": 4,
+    "reference": "ChIJr4sqkadYwokR-J-bP08xFzo",
+    "reviews": [
+        {
+            "author_name": "Teresa Cintron",
+            "author_url": "https://www.google.com/maps/contrib/110442837157607090714/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DhjMB-_FvCw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rde8gTUHck_LT1kXoAA5Y64XoUgNw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Expensive",
+            "time": 1479090473
+        },
+        {
+            "author_name": "Kevin Engram",
+            "author_url": "https://www.google.com/maps/contrib/108452942664450016342/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yLad0_0mjsI/AAAAAAAAAAI/AAAAAAAAACA/lOME6EsBv8Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1487202638
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4185868595103506424",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "111 East 100th Street, New York"
+}

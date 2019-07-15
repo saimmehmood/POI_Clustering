@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "443",
+            "short_name": "443",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwich Street",
+            "short_name": "Greenwich St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10013",
+            "short_name": "10013",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1702",
+            "short_name": "1702",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">443 Greenwich St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-1702</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "443 Greenwich St, New York, NY 10013, USA",
+    "formatted_phone_number": "(212) 219-8700",
+    "geometry": {
+        "location": {
+            "lat": 40.7229769,
+            "lng": -74.0093524
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7243399302915,
+                "lng": -74.00813666970849
+            },
+            "southwest": {
+                "lat": 40.7216419697085,
+                "lng": -74.01083463029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f8a71eb5cd7fec24bf9f87bafce90bc96b3af764",
+    "international_phone_number": "+1 212-219-8700",
+    "name": "Evan Prieston Law Office",
+    "place_id": "ChIJR_nnX_RZwokRNaU21VE1eJ8",
+    "plus_code": {
+        "compound_code": "PXFR+57 New York, United States",
+        "global_code": "87G7PXFR+57"
+    },
+    "reference": "ChIJR_nnX_RZwokRNaU21VE1eJ8",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11490993074821571893",
+    "utc_offset": -240,
+    "vicinity": "443 Greenwich Street, New York"
+}

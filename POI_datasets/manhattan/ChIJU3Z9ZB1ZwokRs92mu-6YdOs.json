@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 11B",
+            "short_name": "# 11B",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "305",
+            "short_name": "305",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 47th Street",
+            "short_name": "E 47th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2323",
+            "short_name": "2323",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">305 E 47th St # 11B</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017-2323</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "305 E 47th St # 11B, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 308-0628",
+    "geometry": {
+        "location": {
+            "lat": 40.752926,
+            "lng": -73.9691689
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7541864302915,
+                "lng": -73.9678844197085
+            },
+            "southwest": {
+                "lat": 40.7514884697085,
+                "lng": -73.9705823802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "35773e1023bc62b05e772ea8f8ffc3d06116ad22",
+    "international_phone_number": "+1 212-308-0628",
+    "name": "Societe Culinaire Phlnthrpq",
+    "place_id": "ChIJU3Z9ZB1ZwokRs92mu-6YdOs",
+    "plus_code": {
+        "compound_code": "Q23J+58 New York, United States",
+        "global_code": "87G8Q23J+58"
+    },
+    "reference": "ChIJU3Z9ZB1ZwokRs92mu-6YdOs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16966353847329414579",
+    "utc_offset": -240,
+    "vicinity": "305 East 47th Street # 11B, New York",
+    "website": "http://www.societeculinaire.com/"
+}

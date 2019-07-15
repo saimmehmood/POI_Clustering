@@ -1,0 +1,331 @@
+{
+    "address_components": [
+        {
+            "long_name": "66",
+            "short_name": "66",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5832",
+            "short_name": "5832",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222-5832</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "66 Green St, Brooklyn, NY 11222, USA",
+    "formatted_phone_number": "(347) 395-0346",
+    "geometry": {
+        "location": {
+            "lat": 40.7331616,
+            "lng": -73.9592816
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7345912802915,
+                "lng": -73.95794541970848
+            },
+            "southwest": {
+                "lat": 40.7318933197085,
+                "lng": -73.9606433802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a54c0f5462038b17940f754455ac3569fa99c867",
+    "international_phone_number": "+1 347-395-0346",
+    "name": "WMA Spaces",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 9:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 667,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAA_tVRuof2V7toXh2qGfRIaZ3Jwxmdw_0H8n6PnpLp8hhiDjJB9w1cDYXtDgr4YHm-DgZruYd5H6a1lX-36mVudHZOzgOpuptGWsAiKp2C6XARVP7A4FHstjvPnpSaSkMxEhBaAMY9Zd5_JxiV2SlCBXqrGhQ2xmtqd9KIOFwcRtIB4wYhUybWDw",
+            "width": 1000
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAANXmkOn5mJVdV-SDpaUCkbaRnClh1-MeifdzYLFgvhpC89kQGYkjoqDH_lfYzYAAPlhb3Dqd-gjzNws9f4g-x9lewO0tUJfm96E2G4mfeW9WXO88Htj9ssMsET-h-EbtuEhDxXwIum1KTYmtGemIIcVLEGhT0agDEimWnEOW2r_jR8FGqaOA6cQ",
+            "width": 500
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAOmMAcLQ1AA2MZtS2Q15sP75mj3dbHEdtXhaYEgeqD2L2H8HC9Pb5J3maTKNe_A9HI4QMyLAZVoo7VNRo6C1rqAP8qIFnRzjP2fDv7w13ZJOFa66oIpSNfJZz5BJFmvCZEhAzCnXcvyLhwv3OI6ODmNjPGhRsFR8Q3MFFT3VNalbMBCl17lwyZA",
+            "width": 500
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101434596985264888526/photos\">Kyle Leneweaver</a>"
+            ],
+            "photo_reference": "CmRaAAAArly1Zyv11skx6CzE8ul35FCQp_dWj2PCIE4EO4kuXbDK-LrrllTFgoueiPA4NcDH_XFKuJgbCqgKB4pkMbjsfIwArcd985lWwLaVGX6spdyL_xJzBnZdvgKF8yWuntDYEhCF54ACYI2awi_fwEopxX_qGhR3xAK8RCxPHkYXxtGcjLz0BQyEUw",
+            "width": 3024
+        },
+        {
+            "height": 1057,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAxBl9g_lwMQqS4J9C9hYU2rM8vSH6FBAGGDPWdeEG214pmG-mrfbIxxPFCbJT0GWFTARlqbYcWOsDOt_mI3ODzTfn1ALSosg9eAzKyrB6YgInBhEBE6IRTA-mHWXnWsiPEhA8C43bGFi_cNYDRAxOT9f8GhTeuPFuwP0rpglpm8JAkqd5N1P4Sg",
+            "width": 2280
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAx2F1_MX_5rOPdGbCMkQ-Ip_J_dL-A2tPjxPluhYISgzfwLZeDXr9ygJ7AZcOByA2RT94kkBztr4wiG8H4R0avbnaUfjZZECR-u9X_64o45nW_vV6ZYyi0TmcxVBM7WtQEhAW9l7lzCWN8WVNLa51WmsdGhTYqEUYxrQucADBLH1-ezCamURpvg",
+            "width": 500
+        },
+        {
+            "height": 667,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAjYitkaLRCelrmP0BYsncFP2BJKvXZTwmc2R412wc3qgnNnIWkXAd52Ow4Z678m4bZtBs6CLfSaVntY5TT0MaCS3lDfzSdH8k6qX_9KunJQjLXF9E-bU-ulURkzDru_xsEhDfVWk39ctc2dnlEV9db0AvGhQUj7tfWCeOHPNfXhXMByBvtq5mSQ",
+            "width": 1000
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101434596985264888526/photos\">Kyle Leneweaver</a>"
+            ],
+            "photo_reference": "CmRaAAAAjQPKRwnfNiRKErh9gx4TOXXdBeyBX0KAJYn9HB6Phzyz3I5HC-5TJ82pYnyFMX0ST0yS-KLT_F0rSimMGM26dn6Qh1NEf6wA8DTSs3w7737PYZc2Zfp021yb4vBRZsU6EhA5T4yR41U7csCvn4H6Ej1UGhSlE8cCzE0mw06xhXcsYmw39u1ahQ",
+            "width": 3024
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAjg4_ABNl__nY3ISBfpe8Duu-VeXarHJZSdo3dGX6N8fjDqbKImK5dxZ6hM774lQjarMKGe712xlluO63Pg1IdJqeIxdOFSp_Pu5D1n72BIIplkfzkeNegtATOBPtibdGEhC3YSkQS7gHkWmHZRrWiJoQGhRSeAKpoeDvrOGkxvW7ImjC7qydMQ",
+            "width": 1000
+        },
+        {
+            "height": 659,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105895033133647461859/photos\">WMA Spaces</a>"
+            ],
+            "photo_reference": "CmRaAAAAEuRG1thCB3CVV6VcvxiTLPZIhqQU4i9BfdAHmnM-zHzU9JqvOxuzVGO7N0fllcPu3GBA1CyjksgXuN1YKMAU27oD6thbmnn5gK8TYnctLjTnrFk5s8kSW0Bs7HDmP67tEhDsrftSs5oz4J1XCEdBVcNsGhQDCCg2RL-ed6SA67mbbwWiqGPGhw",
+            "width": 659
+        }
+    ],
+    "place_id": "ChIJTfWF4D9ZwokRC3ELHgeQkTA",
+    "plus_code": {
+        "compound_code": "P2MR+77 Brooklyn, New York, United States",
+        "global_code": "87G8P2MR+77"
+    },
+    "rating": 5,
+    "reference": "ChIJTfWF4D9ZwokRC3ELHgeQkTA",
+    "reviews": [
+        {
+            "author_name": "Kelly Ford",
+            "author_url": "https://www.google.com/maps/contrib/112638512225441639433/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gFyDRv1Issc/AAAAAAAAAAI/AAAAAAAAAdc/yoQ_k4y2-P8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great venue & event space! Clean, modern, well maintained. Definitely would recommend for any photo or video shoot, gallery show etc.",
+            "time": 1496156303
+        },
+        {
+            "author_name": "Jack Bridgland",
+            "author_url": "https://www.google.com/maps/contrib/109167220649004452809/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-i15uIJLrI7w/AAAAAAAAAAI/AAAAAAAABys/aEZATO9saGk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Had a great time shooting here! The studio is super spacious and also has a rooftop, which was awesome!! It was very easy to access and the staff were really friendly!",
+            "time": 1496141329
+        },
+        {
+            "author_name": "Louis Browne",
+            "author_url": "https://www.google.com/maps/contrib/117246737275915186778/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-F0WLA0x4jwo/AAAAAAAAAAI/AAAAAAAACL4/0C1zcdSTLEo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I've shot at the WMA Studio in Greenpoint several times now, and it remains my favourite place to shoot in Brooklyn. It's a huge, flexible space that I've shot both stills and video in, so would recommend to anyone in need of a big, clean, impressive studio!",
+            "time": 1496138821
+        },
+        {
+            "author_name": "Charlotte Scott",
+            "author_url": "https://www.google.com/maps/contrib/118106238592307304657/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BsIPF7XnFoI/AAAAAAAAAAI/AAAAAAAAAHQ/mfJI4CnOY_c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Fantastic studio and staff, great location.  The shoot came out great for my artist and i would highly recommend it!",
+            "time": 1503221028
+        },
+        {
+            "author_name": "Edward Cooke",
+            "author_url": "https://www.google.com/maps/contrib/113944581058485441142/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7YjqZM8KNwI/AAAAAAAAAAI/AAAAAAAACW8/oHsKKjaJmjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Versatile, professional and clean. Perfect for high end photography, film production and events.",
+            "time": 1496028469
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3499736745686823179",
+    "user_ratings_total": 8,
+    "utc_offset": -240,
+    "vicinity": "66 Green Street, Brooklyn",
+    "website": "http://wmaspaces.com/"
+}

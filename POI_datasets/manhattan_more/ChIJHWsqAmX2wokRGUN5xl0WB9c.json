@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "1616",
+            "short_name": "1616",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1616 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1616 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 850-5959",
+    "geometry": {
+        "location": {
+            "lat": 40.8218986,
+            "lng": -73.95034059999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8232012302915,
+                "lng": -73.94888176970849
+            },
+            "southwest": {
+                "lat": 40.8205032697085,
+                "lng": -73.9515797302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "46730c1b97901aceec7df1576af89a45e08e21ef",
+    "international_phone_number": "+1 646-850-5959",
+    "name": "THE WASH NYC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 11:00 PM",
+            "Tuesday: 7:00 AM \u2013 11:00 PM",
+            "Wednesday: 7:00 AM \u2013 11:00 PM",
+            "Thursday: 7:00 AM \u2013 11:00 PM",
+            "Friday: 7:00 AM \u2013 11:00 PM",
+            "Saturday: 6:00 AM \u2013 11:00 PM",
+            "Sunday: 6:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107595583803186875356/photos\">Odel Javier</a>"
+            ],
+            "photo_reference": "CmRaAAAArGjmIM8olks1XZNuTa2F34TxSMEkwj2C7qe3AtPhACovviDoMK_5SckxveSU7fDExAG7xbDo5gMXMjrhx_2eCtJDKUsZSAmiVVwU56XPrDAWO0PY2KyrVqT0leuzn53gEhBkr6n_LKMy3BXPb-Y57opzGhQ6tFtGTRCvzzlFTSwB2pOYE2KX7g",
+            "width": 2340
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105464466695454649065/photos\">Uliana Malashenko</a>"
+            ],
+            "photo_reference": "CmRaAAAAtnP2rGsptiempwdfBKgu2TalVqhWsssBIAdxuCEl2v5uHbeJcLiRvzrTIpf9GCeEZNmiQZCFNsmfzgCgn9aHiURcGeWPbwRjZzpNK7jouBYY-w8ogEo_FM6cmBAhbvoIEhDyddNTA1O6m6ZJBc1Muj-sGhTL_HPl0piwsg2TcWz6BtsHI_yjMg",
+            "width": 2048
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115044823404667456911/photos\">melaine amazing</a>"
+            ],
+            "photo_reference": "CmRaAAAAmwpDxYk_eEM-OZqaZ9bZthgtRBeGSKMHxUF5MNpGExJxhW9GStb7Qoajpn1IfYthi-J3lubnSXmaU_kSnEbTLj0ncdmzSg4_gXA7aaMgAbGNr3ubJiPgUZ-nF-pHxg6-EhCH8p44VcL7NIUo1okajTXOGhS-wGa8imKN523DF4nsKvbaeopClg",
+            "width": 2448
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109702760238786073042/photos\">Stephanie Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAAQVXv5EzBUKHyXSBoW4y1he_JbSi6jAqvHU6VHtG3VUG4u15_IwTzFF0v-ZPrri1gzxaLh_2oPIt3VVcIpz62IpecHbkBH6B0UYg5ab-V8nryumZ1fabYHlFkQSyAIEAEEhAUjKKNPF14Ung3fC3MyEy1GhTkvNqfPKGJ_xSzmX5e-GbMQfer_A",
+            "width": 2988
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105464466695454649065/photos\">Uliana Malashenko</a>"
+            ],
+            "photo_reference": "CmRaAAAAIJRHSBbOE09WYuSZx4d_TxhDSHYWk74TZqKXFgeud49gspgNumAJcAvcqJgAHFAnGbUQghEtIeatcbQ7sYpU7LiG5hSD1-fGa1VPHFmmD4dfD6GMKamiJLfxuYYca4FAEhA-kuBWOKpQa-6Zcc5YnFZaGhS-qDLbshGDr58PVK0zS2ZUuR_ZfQ",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105464466695454649065/photos\">Uliana Malashenko</a>"
+            ],
+            "photo_reference": "CmRaAAAACj23zt8i1ulItFNBAs-E_kEPBpvd65mOw-_m5OHc7-uGRsu1EyxMiucYQQ03aECbu9xAWm_cUZy6_x55WGGWR3X_ih4bjq6ZC0ZHxk5zaXfs8ylLUMc2bRV4DGRzvtd3EhBEVMcSdnyeDP3mwBD4TOqgGhRW3AQDQn5aIML9gJDis9hDNXt-jw",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105464466695454649065/photos\">Uliana Malashenko</a>"
+            ],
+            "photo_reference": "CmRaAAAAURMZuFYKx5PTCLkaeeh8LwkQ99LHcUBnwTob_AmKO_sZhl-5Mk8VW5I1qzl_XHlfZb_w8xbfLiGzs5cpP6B9G5FAM2Og3z9jhcgwsEAHCpuZDodFoIMv1CRvkZUfVFu4EhAEie0nORQy2ZTAdjXJHp7eGhS2U1NCKCZxkiSazZSS0v3mHbvlAQ",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105464466695454649065/photos\">Uliana Malashenko</a>"
+            ],
+            "photo_reference": "CmRaAAAAwsn5XToaz1ZRHFE4iJ99u8ediF8dPB8u44LLdp56FqfycwbL576FXIEOahPct5_dYayf7f_LfKnwvoZt78s5-YV--CCzJ8Xf8RWqykbrNRXTqTlW5y5zL0hyT3oNaxIoEhAI7QevYZs0_3O7n91S-FQiGhQoQNuxXfKBNJVrHELl3NfmVGI-Qw",
+            "width": 2048
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109702760238786073042/photos\">Stephanie Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAARSr5wYnztmLz4Oaiye4QlG62WD-jKllBPtnsJFzfpYfKxhqH52bP93YJVRhLXCJoFKyHSDOH84qj0J83UvdqOKzD7r9-oLre0KyN3w7gKm7R6bNkDPQnVpJsNpZYZxhMEhCVpG7eQ4mYq7s6p8d9KjsNGhTmo04PmPcXbIq20Wml3zi3fO8MiQ",
+            "width": 2988
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111712464215247881762/photos\">Federico Zanatta</a>"
+            ],
+            "photo_reference": "CmRaAAAAKrZwztBG5MpL0GqQKOWogE-1zpntmRGaz8bQFFgY8Ca7QcFTnl-dfyV5m4emJmBqZqBaM1zGOzAX4VMXbyUxzevAzzXOqZ9xSTYNxjzVehskfFFF8ahZNuN0pikwKm6kEhC_xaiuBPqNpXpv6AKlUQIvGhSfgIQCcrCroeuUWJu6Q5cfbn2tkQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJHWsqAmX2wokRGUN5xl0WB9c",
+    "plus_code": {
+        "compound_code": "R2CX+QV New York, United States",
+        "global_code": "87G8R2CX+QV"
+    },
+    "rating": 3.1,
+    "reference": "ChIJHWsqAmX2wokRGUN5xl0WB9c",
+    "reviews": [
+        {
+            "author_name": "Natte Haas",
+            "author_url": "https://www.google.com/maps/contrib/101840075002208815046/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-F_i-iEtNJYA/AAAAAAAAAAI/AAAAAAAAAmU/dpVxRDBmX34/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The place seems to have changed owners a short while ago since the machines are now from Electrolux instead of LG and are all working and in service. Place looks clean and the payment system is smooth. The staff was very friendly, the lady gave us some washing detergent because we forgot to bring it. Love the plants as well!",
+            "time": 1562253972
+        },
+        {
+            "author_name": "Uliana Malashenko",
+            "author_url": "https://www.google.com/maps/contrib/105464466695454649065/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-z3mwxZtw-8c/AAAAAAAAAAI/AAAAAAAABHo/Camkix9MQRo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "I passed by this place multiple times and then decided to give it a shot. My experience was much worse than I expected. First of all, almost a half of washing machines and dryers are out of service. There are literally lines. Then the washing machine I was using stopped. I did not know that because I ran home to grab another load. When I was back, the lady in charge told me she added more soap and more softener, which did not ask. As a result, when the cycle finished, I still had bubbles on my clothes. So, I had to wash my clothes for the second time They also have this stupid system with money cards (no quarters, no debit/credit cards), and this cards do not work every time you insert it. I did insert the money card and picked the cycle, however, it did not start. I did not realize it, then the same laundry lady picked the hot temperature while I was removing the second load from the washing machine. I realized the disaster only while removing my clothes from the dryer. Obviously, some sweaters got destroyed. The lady refused to do the refund, and was terribly rude. I\u2019m giving this laundromat one star but I would love to have the option to give them a negative rating. I guess I should have read the reviews before I put my cloths in their washing machine. In total: I wasted more time than I expected, spent more money than I expected, and had some clothes destroyed. Part of it can happen any time you go to a laundromat, but again, you kinda expect to hear a simple sorry, which has never happened in this case.",
+            "time": 1541875743
+        },
+        {
+            "author_name": "Amanda Pe\u00f1a Morel",
+            "author_url": "https://www.google.com/maps/contrib/111575050549188210858/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-W8Df9ZsmFNw/AAAAAAAAAAI/AAAAAAAAAq4/lAZayYQfFk4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It is quite there, the machines are great and the staff is very nice. Make sure to have he detergent as these machines are he and they wash better with that type of detergent. Plus you will save more because you would need less detergent. Nice in price and it is a clean place.",
+            "time": 1526723304
+        },
+        {
+            "author_name": "Jos\u00e9 Nina",
+            "author_url": "https://www.google.com/maps/contrib/107442162020467526040/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-def0K05QlSw/AAAAAAAAAAI/AAAAAAAACNI/vlIgI8L3ozk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "2/3 of the washers and dryers are out of service and have been for months. There is no WiFi even though it advertises that there is. Staff is rude. Its worth walking a couple extra blocks to go somewhere else.",
+            "time": 1546008978
+        },
+        {
+            "author_name": "Maria Perez",
+            "author_url": "https://www.google.com/maps/contrib/100702826916619719066/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0Ta_caiuFOM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdeuINN7rrDgYUQVg7Thuv5j6YqpA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Horrible place I was denied service at this location supposedly the last wash was at 10pm I didn\u2019t realize it. When I enter the location two person was entering their clothes in the washer, when the lady that work in the place,  Shout out to me screaming your are not going to wash clothes here. This made me realize racism still exists just because I am Latin she didn\u2019t allow me to wash clothes when two other person from a different races was entering their clothes. I told her I will speak with her manager and she said back with a nasty tone I could provide you with the number. Really have a smart mouth.\n\nReally unprofessional, I just want my money that\u2019s it inside the card cause I am not going to go back.",
+            "time": 1524798292
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15494377635009086233",
+    "user_ratings_total": 39,
+    "utc_offset": -240,
+    "vicinity": "1616 Amsterdam Avenue, New York",
+    "website": "http://www.thewashnyc.com/"
+}

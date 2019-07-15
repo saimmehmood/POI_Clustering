@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10016",
+            "short_name": "10016",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "192 Lexington av, suite 1101, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "192 Lexington av, suite 1101, New York, NY 10016, USA",
+    "formatted_phone_number": "(917) 215-1433",
+    "geometry": {
+        "location": {
+            "lat": 40.79748300000001,
+            "lng": -73.94992479999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7987147802915,
+                "lng": -73.94866206970849
+            },
+            "southwest": {
+                "lat": 40.79601681970851,
+                "lng": -73.9513600302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "51fe9265150094263e2b4c26586e0eb93546c35e",
+    "international_phone_number": "+1 917-215-1433",
+    "name": "Quintessencia LLC",
+    "place_id": "ChIJDxMs4xr2wokRiuHy5SzHHqY",
+    "plus_code": {
+        "compound_code": "Q3W2+X2 New York, United States",
+        "global_code": "87G8Q3W2+X2"
+    },
+    "reference": "ChIJDxMs4xr2wokRiuHy5SzHHqY",
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11970223855247745418",
+    "utc_offset": -240,
+    "vicinity": "192 Lexington av, suite 1101, New York",
+    "website": "http://quintessencia.com/"
+}

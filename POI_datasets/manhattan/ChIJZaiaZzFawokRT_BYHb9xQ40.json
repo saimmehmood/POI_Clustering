@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 720",
+            "short_name": "# 720",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Washington Street",
+            "short_name": "Washington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1064",
+            "short_name": "1064",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Washington St # 720</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201-1064</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Washington St # 720, Brooklyn, NY 11201, USA",
+    "formatted_phone_number": "(212) 747-1230",
+    "geometry": {
+        "location": {
+            "lat": 40.7028278,
+            "lng": -73.9893866
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7041802802915,
+                "lng": -73.9881486697085
+            },
+            "southwest": {
+                "lat": 40.7014823197085,
+                "lng": -73.9908466302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f4b4aeea98d1ea4a17b930d42b9b2783f2c6cacf",
+    "international_phone_number": "+1 212-747-1230",
+    "name": "Mc Mahon Martine & Gallagher",
+    "place_id": "ChIJZaiaZzFawokRT_BYHb9xQ40",
+    "plus_code": {
+        "compound_code": "P236+46 New York, United States",
+        "global_code": "87G8P236+46"
+    },
+    "rating": 4,
+    "reference": "ChIJZaiaZzFawokRT_BYHb9xQ40",
+    "reviews": [
+        {
+            "author_name": "Sharon Murray",
+            "author_url": "https://www.google.com/maps/contrib/115823000088213381445/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-V6pZxox4avo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdxh1t8INIXCmS6DSufGHBktRDelg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Place of businesd",
+            "time": 1551009610
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10179104648432513103",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "55 Washington Street # 720, Brooklyn",
+    "website": "http://www.mmglawyers.com/"
+}

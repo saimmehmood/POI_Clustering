@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "546",
+            "short_name": "546",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">546 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "546 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 943-5544",
+    "geometry": {
+        "location": {
+            "lat": 40.8230123,
+            "lng": -73.989445
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8243912302915,
+                "lng": -73.9881639697085
+            },
+            "southwest": {
+                "lat": 40.8216932697085,
+                "lng": -73.9908619302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8a1fdde0f27494e077f8407d532a3b341b75961f",
+    "international_phone_number": "+1 201-943-5544",
+    "name": "Dr. Milana Maftsir, DDS",
+    "place_id": "ChIJ60TAhLH3wokR-IbBIV6KpFA",
+    "plus_code": {
+        "compound_code": "R2F6+66 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+66"
+    },
+    "reference": "ChIJ60TAhLH3wokR-IbBIV6KpFA",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5810921556112672504",
+    "utc_offset": -240,
+    "vicinity": "546 Anderson Avenue, Cliffside Park"
+}

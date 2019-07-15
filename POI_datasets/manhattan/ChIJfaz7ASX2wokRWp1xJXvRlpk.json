@@ -1,0 +1,278 @@
+{
+    "address_components": [
+        {
+            "long_name": "2727",
+            "short_name": "2727",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3940",
+            "short_name": "3940",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2727 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-3940</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2727 Broadway, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 932-2727",
+    "geometry": {
+        "location": {
+            "lat": 40.8001204,
+            "lng": -73.9683901
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8014516302915,
+                "lng": -73.9669490697085
+            },
+            "southwest": {
+                "lat": 40.7987536697085,
+                "lng": -73.96964703029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e7f970c180c42051852aa80b355e2ad33457bf4b",
+    "international_phone_number": "+1 212-932-2727",
+    "name": "AT&T Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107068838566965446335/photos\">Moe Friedman</a>"
+            ],
+            "photo_reference": "CmRaAAAAehYk2k9S_esPP6FHBgJZiHgAvYZlzGx_Jed2ILliHDL_UdSvu3WK9t-_5r4CpPQhMSZSmVqfYGvxNsGWD-AjdkZVDDXVnS4ToeTCBZJX6cw_mSiLOPzMsGOF-Qjf65eaEhCRPCk-vFXTY-f4lCUMjQVdGhSogDA_KXtlEGqGqUGaNQlaXV9YQw",
+            "width": 3024
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109048084333781558163/photos\">AT&amp;T Store</a>"
+            ],
+            "photo_reference": "CmRaAAAA6F7LiTDSTBgTTKhFUQvgId-FpHICgfEYEzwAmwKmaynQw13wCkfocGuMLr4SHPttIG2Yam2GakmX3HDCJDQSYdTGX0tcNEm51Ca-7v-iP35_Z6x3ByWngG2MmGAvN9qrEhDBxOUYUOsW6l_7UFMnUDHdGhRsBSsv047JnNLRzK0k3WkgwSSOhA",
+            "width": 300
+        },
+        {
+            "height": 576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109048084333781558163/photos\">AT&amp;T Store</a>"
+            ],
+            "photo_reference": "CmRaAAAADITejEU4YN7diU9bNcEkP24PJ0t87cDvuHS01BuJ6iAIzydK3GFsKTiE9C9HAFSUKpHJd_md2ty0R246DK5XQIxlTh-_m-eP5YqVRto6-AeCICB2j9Y0K0xlgrlaYEGBEhB6Y7XqertHss4DKV434W53GhSIk1Ac59ZS5yv2rEK1e8wiQ3hriw",
+            "width": 1024
+        }
+    ],
+    "place_id": "ChIJfaz7ASX2wokRWp1xJXvRlpk",
+    "plus_code": {
+        "compound_code": "R22J+2J New York, United States",
+        "global_code": "87G8R22J+2J"
+    },
+    "price_level": 2,
+    "rating": 2.8,
+    "reference": "ChIJfaz7ASX2wokRWp1xJXvRlpk",
+    "reviews": [
+        {
+            "author_name": "Renata Rapyo",
+            "author_url": "https://www.google.com/maps/contrib/115564875041054388994/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5HL9zIHtnPc/AAAAAAAAAAI/AAAAAAAAA_Y/gc48kGKRDfo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Peter and Emmanuel were great! They helped me activate my phone with ease and we had a nice convo while the setup was being made. I super recommend the store!",
+            "time": 1551718210
+        },
+        {
+            "author_name": "anabel lee",
+            "author_url": "https://www.google.com/maps/contrib/111828332754466427765/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KkCLzSqGV4o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdSV0y9bNcMmY9yBCSQHIC7FDSdqg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "walked in to see Peter but unfortunately he was not there . the young lady Ashley offered to help me even though i had walked in to see the manager. she was very sweet, patient and has a lot of knowledge of what shes doing. i got outstanding service with her, im happy with my new phone! would bring my family and friends with her from now on. THANK YOU",
+            "time": 1545838117
+        },
+        {
+            "author_name": "David Wagner",
+            "author_url": "https://www.google.com/maps/contrib/110896622842536644235/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-42ybxjBr9Ao/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reqFT-Ep3-JFCTtZITyqjnSJ06S-Q/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "My complaint isn't about the in-store customer service or phones they sell or AT&T's service/coverage.  This store's accessories are low quality.  For $25, I received a USB-C cable but the piece of garbage is thin and only useful for downloading pictures or slow, 8 hour, overnight charging.  The thin charging cable charges my phone painfully slowly, even when I've plugged the thin cord to a 2 mAh or 3 mAh charger.  When I plugged in their thin cord, my phone said that it was going to take >3 hours to charge from 60% to 100%.  I should have suffered until I could buy a decent cord from Best Buy or OfficeMax for the same price.",
+            "time": 1554049246
+        },
+        {
+            "author_name": "yanahuara yanahuara",
+            "author_url": "https://www.google.com/maps/contrib/115383992195568130737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HeRLujgviig/AAAAAAAAAAI/AAAAAAAAAD8/OkKyWKZkyIw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Oustanding customer service.  Special praise to Peter for professional and well informed technical support. Hi level of courtesy is also appreciated.",
+            "time": 1544537872
+        },
+        {
+            "author_name": "Pat Faison",
+            "author_url": "https://www.google.com/maps/contrib/117178609825360217719/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xOb3BehTIOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfKJwkc0bCGfnTSnSf3-BX-zZ18yQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Walked in looking for Peter, he no longer there. One of the girls offer to assist my mother but my mother was very disappointed with her service. She started helping my mother her name is chelsie? with something and called the other Representative to help my mother and didn\u2019t apologize or told my mother that she would not be able to assist her and the other representative had to apologize for her manager. That\u2019s very unprofessional of the manager would not ever go back",
+            "time": 1546618775
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11067263461148958042",
+    "user_ratings_total": 48,
+    "utc_offset": -240,
+    "vicinity": "2727 Broadway, New York",
+    "website": "https://www.att.com/stores/new-york/new-york/43531"
+}

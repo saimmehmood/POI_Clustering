@@ -1,0 +1,244 @@
+{
+    "address_components": [
+        {
+            "long_name": "382",
+            "short_name": "382",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 104th Street",
+            "short_name": "E 104th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4422",
+            "short_name": "4422",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 E 104th St #382</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-4422</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 E 104th St #382, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 348-9200",
+    "geometry": {
+        "location": {
+            "lat": 40.7929785,
+            "lng": -73.951568
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7944930802915,
+                "lng": -73.95032281970849
+            },
+            "southwest": {
+                "lat": 40.7917951197085,
+                "lng": -73.9530207802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a913cf97db9d7be4a76daee9e7d8883ecfea5073",
+    "international_phone_number": "+1 212-348-9200",
+    "name": "Harlem Center For Education",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: Closed",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "place_id": "ChIJidImShz2wokRgoSAsb8faww",
+    "plus_code": {
+        "compound_code": "Q2VX+59 New York, United States",
+        "global_code": "87G8Q2VX+59"
+    },
+    "rating": 4.7,
+    "reference": "ChIJidImShz2wokRgoSAsb8faww",
+    "reviews": [
+        {
+            "author_name": "s wills",
+            "author_url": "https://www.google.com/maps/contrib/117709870040975979107/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AxC7Wu3M5ps/AAAAAAAAAAI/AAAAAAAAAB8/6yI2ecbPrms/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Very helpful staff",
+            "time": 1547209206
+        },
+        {
+            "author_name": "Nevin Ram",
+            "author_url": "https://www.google.com/maps/contrib/100744273799586233814/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-lcDJ0dh25zM/AAAAAAAAAAI/AAAAAAAAzj4/uK2yrIqVvME/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Friendly staff.",
+            "time": 1533583136
+        },
+        {
+            "author_name": "Aisha Joseph",
+            "author_url": "https://www.google.com/maps/contrib/109349984587164147959/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RtW0zxiSrWs/AAAAAAAAAAI/AAAAAAAABzs/NtVHMpQZISQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Very helpful staff!!!",
+            "time": 1481451822
+        },
+        {
+            "author_name": "Theresa Temple",
+            "author_url": "https://www.google.com/maps/contrib/108619830302402257082/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-j4ODinsjSkw/AAAAAAAAAAI/AAAAAAAAAJw/YQBsKJbtfmo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1550497694
+        },
+        {
+            "author_name": "Jacinto Herrera",
+            "author_url": "https://www.google.com/maps/contrib/101664961624167268216/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-z40p9HZFIrk/AAAAAAAAAAI/AAAAAAAAEyE/G7ypoh999bc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1528652397
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=894843859140379778",
+    "user_ratings_total": 6,
+    "utc_offset": -240,
+    "vicinity": "1 East 104th Street #382, New York",
+    "website": "http://harlemctred.org/contact-us/"
+}

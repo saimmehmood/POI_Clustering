@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "142-100",
+            "short_name": "142-100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 55th Street",
+            "short_name": "W 55th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5305",
+            "short_name": "5305",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">142-100 W 55th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019-5305</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "142-100 W 55th St, New York, NY 10019, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.76340279999999,
+            "lng": -73.979027
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7647517802915,
+                "lng": -73.97726175
+            },
+            "southwest": {
+                "lat": 40.76205381970851,
+                "lng": -73.98079235
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e16e2760be7e580e9b98aac182d6439ff0e378e8",
+    "name": "142-100 W 55th St",
+    "place_id": "ChIJ10jGxvlYwokROjM5Xj8OJEU",
+    "reference": "ChIJ10jGxvlYwokROjM5Xj8OJEU",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=142-100+W+55th+St,+New+York,+NY+10019,+USA&ftid=0x89c258f9c6c648d7:0x45240e3f5e39333a",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

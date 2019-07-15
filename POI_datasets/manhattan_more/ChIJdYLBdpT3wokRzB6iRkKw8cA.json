@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Robert H. Findley - PS/MS 129 425 W. 130th Street, <span class=\"street-address\">Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Robert H. Findley - PS/MS 129 425 W. 130th Street, Convent Ave, New York, NY 10027, USA",
+    "formatted_phone_number": "(917) 202-1601",
+    "geometry": {
+        "location": {
+            "lat": 40.81501749999999,
+            "lng": -73.9521927
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8163969802915,
+                "lng": -73.9512337697085
+            },
+            "southwest": {
+                "lat": 40.8136990197085,
+                "lng": -73.9539317302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "bdfeef89ea9eacfeb169658b0c65fa39906704b8",
+    "international_phone_number": "+1 917-202-1601",
+    "name": "Uptown Dance Academy",
+    "place_id": "ChIJdYLBdpT3wokRzB6iRkKw8cA",
+    "plus_code": {
+        "compound_code": "R28X+24 New York, United States",
+        "global_code": "87G8R28X+24"
+    },
+    "reference": "ChIJdYLBdpT3wokRzB6iRkKw8cA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13903087323368791756",
+    "utc_offset": -240,
+    "vicinity": "Robert H. Findley - PS/MS 129 425 W. 130th Street, Convent Avenue, New York",
+    "website": "https://uptowndanceacademy.com/"
+}

@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2676",
+            "short_name": "2676",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 W 116th St #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2676</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "115 W 116th St #2, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 961-5740",
+    "geometry": {
+        "location": {
+            "lat": 40.8025764,
+            "lng": -73.95034199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80382378029149,
+                "lng": -73.9490681197085
+            },
+            "southwest": {
+                "lat": 40.8011258197085,
+                "lng": -73.9517660802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "548149880312fcff958c262f75a888db0cb7578e",
+    "international_phone_number": "+1 212-961-5740",
+    "name": "Elliott Fitzroy A MD",
+    "place_id": "ChIJf26wqxH2wokRNhR8WxTTO6s",
+    "plus_code": {
+        "compound_code": "R23X+2V New York, United States",
+        "global_code": "87G8R23X+2V"
+    },
+    "reference": "ChIJf26wqxH2wokRNhR8WxTTO6s",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12338687688499270710",
+    "utc_offset": -240,
+    "vicinity": "115 West 116th Street #2, New York"
+}

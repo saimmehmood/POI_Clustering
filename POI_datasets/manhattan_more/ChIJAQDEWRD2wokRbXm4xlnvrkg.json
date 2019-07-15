@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 115th Street",
+            "short_name": "W 115th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101 W 115th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101 W 115th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(805) 459-0814",
+    "geometry": {
+        "location": {
+            "lat": 40.80143,
+            "lng": -73.95031600000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8027936302915,
+                "lng": -73.9489561697085
+            },
+            "southwest": {
+                "lat": 40.8000956697085,
+                "lng": -73.9516541302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2067545148ff0c0b936e1f1c5732acba1acf3ef9",
+    "international_phone_number": "+1 805-459-0814",
+    "name": "limore kurtz dooley, nyc's expert health educator",
+    "place_id": "ChIJAQDEWRD2wokRbXm4xlnvrkg",
+    "plus_code": {
+        "compound_code": "R22X+HV New York, United States",
+        "global_code": "87G8R22X+HV"
+    },
+    "reference": "ChIJAQDEWRD2wokRbXm4xlnvrkg",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5237386585543571821",
+    "utc_offset": -240,
+    "vicinity": "101 West 115th Street, New York",
+    "website": "http://www.limorekurtzdooley.com/locations"
+}

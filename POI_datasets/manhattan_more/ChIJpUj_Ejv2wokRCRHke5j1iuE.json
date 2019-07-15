@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "2331",
+            "short_name": "2331",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3627",
+            "short_name": "3627",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2331 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-3627</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2331 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8097389,
+            "lng": -73.9512823
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81112033029149,
+                "lng": -73.9500138697085
+            },
+            "southwest": {
+                "lat": 40.8084223697085,
+                "lng": -73.9527118302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "804b073943b62b2da1f6d413356345982c3e06aa",
+    "name": "ATM",
+    "place_id": "ChIJpUj_Ejv2wokRCRHke5j1iuE",
+    "plus_code": {
+        "compound_code": "R25X+VF New York, United States",
+        "global_code": "87G8R25X+VF"
+    },
+    "rating": 4,
+    "reference": "ChIJpUj_Ejv2wokRCRHke5j1iuE",
+    "reviews": [
+        {
+            "author_name": "Hans Straub",
+            "author_url": "https://www.google.com/maps/contrib/115309139533936350178/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1R4SFgATIFc/AAAAAAAAAAI/AAAAAAABq8U/VVXzWr5zdFY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1463215475
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16252072240582234377",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "2331 Frederick Douglass Boulevard, New York"
+}

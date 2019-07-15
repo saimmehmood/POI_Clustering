@@ -1,0 +1,141 @@
+{
+    "address_components": [
+        {
+            "long_name": "1700",
+            "short_name": "1700",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "505",
+            "short_name": "505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9313",
+            "short_name": "9313",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505 Park Ave #1700</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022-9313</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505 Park Ave #1700, New York, NY 10022, USA",
+    "formatted_phone_number": "(212) 686-2400",
+    "geometry": {
+        "location": {
+            "lat": 40.7629379,
+            "lng": -73.9692819
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7643487802915,
+                "lng": -73.9680739197085
+            },
+            "southwest": {
+                "lat": 40.7616508197085,
+                "lng": -73.97077188029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "16a5d3635c80e9c389ccb0c6f5876ab9a93c1d1d",
+    "international_phone_number": "+1 212-686-2400",
+    "name": "Stillman Development International",
+    "place_id": "ChIJ0SFDYuVYwokR5iCSUs9zyJ0",
+    "plus_code": {
+        "compound_code": "Q27J+57 New York, United States",
+        "global_code": "87G8Q27J+57"
+    },
+    "rating": 3,
+    "reference": "ChIJ0SFDYuVYwokR5iCSUs9zyJ0",
+    "reviews": [
+        {
+            "author_name": "Alec Boyajian",
+            "author_url": "https://www.google.com/maps/contrib/104914117899446904916/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dBWVjyRLey0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcePtD7nSPvd-alImSaY32ayhbf8g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1521492155
+        },
+        {
+            "author_name": "Jeffrey Goldman",
+            "author_url": "https://www.google.com/maps/contrib/102687061639891598134/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WHDIQV8i4Gs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re_9fu-LtGk3Cs8lxnfb9zf3x95CA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1474750363
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11369464593577550054",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "505 Park Avenue #1700, New York",
+    "website": "http://www.stillmandevelopment.com/"
+}

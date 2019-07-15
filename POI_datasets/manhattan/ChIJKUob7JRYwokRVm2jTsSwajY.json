@@ -1,0 +1,153 @@
+{
+    "address_components": [
+        {
+            "long_name": "150",
+            "short_name": "150",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1922",
+            "short_name": "1922",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075-1922</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "150 E 77th St, New York, NY 10075, USA",
+    "formatted_phone_number": "(212) 650-0732",
+    "geometry": {
+        "location": {
+            "lat": 40.77325150000001,
+            "lng": -73.95938199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7746696802915,
+                "lng": -73.95797061970849
+            },
+            "southwest": {
+                "lat": 40.7719717197085,
+                "lng": -73.9606685802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cb378913f2289b2a3983eada2b0b56d5284c241e",
+    "international_phone_number": "+1 212-650-0732",
+    "name": "150 East 77th Street",
+    "place_id": "ChIJKUob7JRYwokRVm2jTsSwajY",
+    "plus_code": {
+        "compound_code": "Q2FR+86 New York, United States",
+        "global_code": "87G8Q2FR+86"
+    },
+    "rating": 2.5,
+    "reference": "ChIJKUob7JRYwokRVm2jTsSwajY",
+    "reviews": [
+        {
+            "author_name": "Rashida Malik",
+            "author_url": "https://www.google.com/maps/contrib/102864616885498811097/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-i8f3B296xXM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfoTsXJc5QssRtqtCXweVsLGgRUZQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Customer service is good until you bring car out that has scratch on bumper. I park my car here while at work. Unfortunately I was rushing and could not address it. Will never park here again. As much as they charge they should fix the problem with no questions asked.",
+            "time": 1541704583
+        },
+        {
+            "author_name": "Dominique Peck-Meyer",
+            "author_url": "https://www.google.com/maps/contrib/112863892309274990667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--PoLu6-0_oI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reUEB8Le3RQlPEF-72p_CbsOx3MQA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "Terrible told me I had a discount from hospital and I said I was staying more than five hours. They said no problem when I got back they wouldn't give me discount even with the stamp from hospital. Totally dishonest. Never park here!",
+            "time": 1460412681
+        },
+        {
+            "author_name": "Leon Lamontagne",
+            "author_url": "https://www.google.com/maps/contrib/114381342340204486188/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bnFfdMDvEaY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdoFKvNvo2rKfvAO8zZGSlrHytCGA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1562526978
+        },
+        {
+            "author_name": "John Myers",
+            "author_url": "https://www.google.com/maps/contrib/115029437659460347300/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--ELDD6GKmpM/AAAAAAAAAAI/AAAAAAAAAA0/cAP7jUYwqQg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1540818537
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3921140782758849878",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "150 East 77th Street, New York"
+}

@@ -1,0 +1,333 @@
+{
+    "address_components": [
+        {
+            "long_name": "3517",
+            "short_name": "3517",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5627",
+            "short_name": "5627",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3517 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5627</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3517 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 694-1616",
+    "geometry": {
+        "location": {
+            "lat": 40.8259562,
+            "lng": -73.95115779999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8272701302915,
+                "lng": -73.94972266970848
+            },
+            "southwest": {
+                "lat": 40.8245721697085,
+                "lng": -73.9524206302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "bf7996d575e88c6494596c46bcdd23e46264dca4",
+    "international_phone_number": "+1 212-694-1616",
+    "name": "La Rubia",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 2:00 AM",
+            "Tuesday: 7:00 AM \u2013 2:00 AM",
+            "Wednesday: 7:00 AM \u2013 2:00 AM",
+            "Thursday: 7:00 AM \u2013 2:00 AM",
+            "Friday: 7:00 AM \u2013 4:00 AM",
+            "Saturday: 7:00 AM \u2013 4:00 AM",
+            "Sunday: 7:00 AM \u2013 2:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101324812757605612383/photos\">Ana maria paulino</a>"
+            ],
+            "photo_reference": "CmRaAAAAjhyODgK1XX-mO7CEgnTzWGvNoonLI4BOW2leU34WX3N0N0-ZRoEneyjeVHTYjfbNVEFrDMdQ4LdA4yXTSvoBbBuTPjJGl511YvoQikNjTNQoWMflvu4MobXYIcyjCHVSEhA-E_tRJJglcklYey-hMzKhGhQjLolPVivuCcF2GIVoV0bIeRYu0Q",
+            "width": 769
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108426532248600687829/photos\">Luis Puig</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ulGK6swwe8nGoBYQ685WlTXZ5lS_j-RUR2KzcmDIrvelXQ-zMZL32FRFQ-PhlxoJ7yZDsiapWDBUIfrWbZ4iFd-j6FAgu6ThBqfPeQgBI-Bm1Gtt30J8dIIKBHKbtA6EhCOUJT-b7-I1TDjeYf5w6hCGhTCyiJ1Gm8Dnmsh_Qv36sQgrG-JdQ",
+            "width": 1080
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102592666863352199856/photos\">Alvaro Mendoza</a>"
+            ],
+            "photo_reference": "CmRaAAAAtTFuotdqNFa_YpU_Joj6qith9L8C1vB3XXzuS47SUklhWCPXOaKT71_mUb_q1EolQ9TLwOVg7QZWNSeKiZTcRJ7J54NNN0EIFsXgNUBiidGRyt1UnYa0fIpKOun4AzwzEhDevVe0UQt3ZX792Gw5FgjHGhS9QnO8ueh9hU7apbv3fhYr9GU3zQ",
+            "width": 3984
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107419564391653429185/photos\">Rausa Dos</a>"
+            ],
+            "photo_reference": "CmRaAAAABnRDscPx-8xipONyhvL3nKuqfGcSvh4I4yY7Am6CPI144OVm-CifuM5Lj1dGYa0FKrZuWvCLxa2NnaaexV8iPMbbfAgTu1cxPfDJfhxSUFehVW9mG6rH92VluEgeGBS-EhCdwy690OcDY1MW8EeThUtBGhQqv3URNxp5Zee9tVbeVcOqLLZfoQ",
+            "width": 768
+        },
+        {
+            "height": 2246,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101583382169716899513/photos\">Ana Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Ju0oGf5LhrMJWRmTHjLRGdE8MKCO-tiyhfYVuprUnCu4WeVu3ZAdfshq-X0m8w204hd3aIh-kPHXYfNDFgxQbecvmuaCG4z8l1Bh1f6ApEhsl0C8vOydiP1KRqC-n7pEhCU-3kBlKY4L3aKYpVXkuxXGhQpSudgYn1a-X-pXXm6WGkkd_9KWA",
+            "width": 2995
+        },
+        {
+            "height": 3220,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101583382169716899513/photos\">Ana Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAArK7XTh7NTnPoOxp0MwtKVycxQDNYX5k-PbVJ4yGLJ2IT9NTj0fjxOXxcFUs6-mDJFYLfj4i3GAPXodFK6tt8tl2g_AGECtz5hSvAoTpi945wkQWdsQgrEKSEGBrfTAjsEhBbNb7AgSiVRd9IqMFrmGg5GhQfGTaSmRFf7ieYhK1nbD4LYs3MSQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114108653739248216189/photos\">Alberto Abreu</a>"
+            ],
+            "photo_reference": "CmRaAAAAQFy3LahSD70mJ-Kx1nryj3vDybaqVnw-hnEz6Wc5oN2LZ5Md9wiTLtHo-39KTm_gXxZxA7fI1Nexs67KvXmXFboA9mug_BD9jQ6Tgj3H9dULI3pc0cwbAnruzlSfm2WdEhAnzrfsq8tD0-vvaMC_1645GhTeTDJtxUIbmKtYYjybc91ZAGFWkw",
+            "width": 3024
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107419564391653429185/photos\">Rausa Dos</a>"
+            ],
+            "photo_reference": "CmRaAAAAdBDZSK-8N8YBjqnRBRAbsdHYWiFZBIe3YGh8MT-FVl1BsIrNIAQQMEqap1O3BEx4j7_Q_n6EvAhhneP8_2kco075goOk0jpDWxcWMKK08gOOteWkpNBlK2wNpkP_8N82EhDagXRAOnosziP_Us72mwuGGhSIPkEBLDSxsGUUKlPDWwyaqe0tag",
+            "width": 768
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101583382169716899513/photos\">Ana Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAAeDfzqgGxN-5s4uw2D31kH7pb7oG734dF2yqyuUugg0B2PIvZqN0EHzbhYnfHZpSc6ovq0TbIptlaNbtpoP5_ybJUwjzwI1AeEhdkV0Ew6nKUOCRVVInOtIUs7cslmlmYEhChTUJnUvegivLBA60XaHMlGhQ-wKN0dj5XxtB5A3G0fARGgLWamw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107419564391653429185/photos\">Rausa Dos</a>"
+            ],
+            "photo_reference": "CmRaAAAA9Z5HT2llMp0OXaq_iPtj5VWzzLGBgT8-n1yS5zfyJtb-NTazOwd8pZHHXw2O3VpNHYFIpJ0EOfVSHxfD-VYTDgk8AwIim2nu7AJ2tf-rxUmc3nHrhknx5S9JNMc4cBv-EhAuELuV1ISyX5gRT7u55OghGhQcyp1ba73XbC1Ejmhyc5raL4bI6Q",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJO1j1oWP2wokRb8K8a9tUdPk",
+    "plus_code": {
+        "compound_code": "R2GX+9G New York, United States",
+        "global_code": "87G8R2GX+9G"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJO1j1oWP2wokRb8K8a9tUdPk",
+    "reviews": [
+        {
+            "author_name": "Brad Hostetler",
+            "author_url": "https://www.google.com/maps/contrib/112828900445487233446/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zhw6ChVPq4g/AAAAAAAAAAI/AAAAAAAAT_0/RapbzrSMD6Y/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Love it. Busy with locals. I'm a repeat customer. Small dining area but you get it to go.",
+            "time": 1558221679
+        },
+        {
+            "author_name": "Frank Chan",
+            "author_url": "https://www.google.com/maps/contrib/106805063569111194849/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FcK6Kjv1VR8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfdqikRxnCWEmrj_WifPqbJr3Hg8g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Delicious tasting authentic Dominican home cooked comfort food. They serve enormous portions. I tried their squid with rice, chicken noodle soup and grilled pork. Everything is super fresh. The rice is deliciously marinated in a tomato and herb base. Chicken is fresh chicken with bones.",
+            "time": 1544551518
+        },
+        {
+            "author_name": "Anta Niang",
+            "author_url": "https://www.google.com/maps/contrib/115980399236119848577/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-px7ypUZxVmY/AAAAAAAAAAI/AAAAAAAAGIU/riBfIiCFaqc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Awesome oven baked chicken with onion. I buy that sometimes and add it to my quick home made veggies to save some time cooking.  It also comes with rice or plantain.",
+            "time": 1549353183
+        },
+        {
+            "author_name": "Luis Salgado",
+            "author_url": "https://www.google.com/maps/contrib/113648527770130318760/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-u_wj8mMkX08/AAAAAAAAAAI/AAAAAAAABq8/kKSIyUvyezs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 weeks ago",
+            "text": "This place sucks.    Plain and simple......   I do not recommen.......",
+            "time": 1560358182
+        },
+        {
+            "author_name": "William Preston",
+            "author_url": "https://www.google.com/maps/contrib/109668481008221977333/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MfCp2OBacsw/AAAAAAAAAAI/AAAAAAAACnE/0bkQMPyxUrc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Neighborhood favorite! Fresh & delicious! Outgoing and friendly staff!",
+            "time": 1550970581
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17975085314124595823",
+    "user_ratings_total": 136,
+    "utc_offset": -240,
+    "vicinity": "3517 Broadway, New York"
+}

@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 24F",
+            "short_name": "# 24F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4457",
+            "short_name": "4457",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 E 84th St # 24F</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4457</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 E 84th St # 24F, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 472-2650",
+    "geometry": {
+        "location": {
+            "lat": 40.7760082,
+            "lng": -73.95043989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77720248029151,
+                "lng": -73.9492053697085
+            },
+            "southwest": {
+                "lat": 40.77450451970851,
+                "lng": -73.9519033302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a92f3f06ab1f8c998a5f35dd9b65ba96fe8c2a19",
+    "international_phone_number": "+1 212-472-2650",
+    "name": "Cold Calling For Hot Sales",
+    "place_id": "ChIJ0xnCLbpYwokRBGCaVD7ickM",
+    "plus_code": {
+        "compound_code": "Q2GX+CR New York, United States",
+        "global_code": "87G8Q2GX+CR"
+    },
+    "reference": "ChIJ0xnCLbpYwokRBGCaVD7ickM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4860195705221439492",
+    "utc_offset": -240,
+    "vicinity": "351 East 84th Street # 24F, New York",
+    "website": "http://www.coldcallingforhotsales.com/"
+}

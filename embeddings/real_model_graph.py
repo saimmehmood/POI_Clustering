@@ -46,7 +46,7 @@ for i in range(len(output)):
             temp.append(str(traj_id[j]) + "," + str(cell_id[j]))
 
 
-Splitting data into two lists.
+#Splitting data into two lists.
 s1 = [] # storing traj ids
 s2 = [] # storing cell ids
 

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "153-121",
+            "short_name": "153-121",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153-121 Water St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153-121 Water St, Brooklyn, NY 11201, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.70321939999999,
+            "lng": -73.98918189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70456838029151,
+                "lng": -73.98783296970848
+            },
+            "southwest": {
+                "lat": 40.70187041970851,
+                "lng": -73.9905309302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "436b31b6051dfadbf2237a7c12777146741ddc4f",
+    "name": "153-121 Water St",
+    "place_id": "ChIJlU3vYzFawokRUyxW_WPvFmc",
+    "reference": "ChIJlU3vYzFawokRUyxW_WPvFmc",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=153-121+Water+St,+Brooklyn,+NY+11201,+USA&ftid=0x89c25a3163ef4d95:0x6716ef63fd562c53",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

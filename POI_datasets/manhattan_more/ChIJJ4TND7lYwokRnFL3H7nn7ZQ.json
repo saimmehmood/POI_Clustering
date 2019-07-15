@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 2F",
+            "short_name": "# 2F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "401",
+            "short_name": "401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 81st Street",
+            "short_name": "E 81st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5812",
+            "short_name": "5812",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401 E 81st St # 2F</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-5812</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "401 E 81st St # 2F, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 452-2486",
+    "geometry": {
+        "location": {
+            "lat": 40.77365069999999,
+            "lng": -73.9512294
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77492368029149,
+                "lng": -73.94993616970851
+            },
+            "southwest": {
+                "lat": 40.7722257197085,
+                "lng": -73.95263413029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "94c9e14a5753e23a79178bd37d06e7bcef418a5b",
+    "international_phone_number": "+1 212-452-2486",
+    "name": "Blauner & Dicely Financial",
+    "place_id": "ChIJJ4TND7lYwokRnFL3H7nn7ZQ",
+    "plus_code": {
+        "compound_code": "Q2FX+FG New York, United States",
+        "global_code": "87G8Q2FX+FG"
+    },
+    "reference": "ChIJJ4TND7lYwokRnFL3H7nn7ZQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10731488269385028252",
+    "utc_offset": -240,
+    "vicinity": "401 East 81st Street # 2F, New York"
+}

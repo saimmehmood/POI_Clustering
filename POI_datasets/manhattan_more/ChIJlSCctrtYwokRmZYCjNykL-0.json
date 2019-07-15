@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "399-301",
+            "short_name": "399-301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 85th Street",
+            "short_name": "E 85th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">399-301 E 85th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "399-301 E 85th St, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7767023,
+            "lng": -73.9510543
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77804588029149,
+                "lng": -73.94864585
+            },
+            "southwest": {
+                "lat": 40.77534791970849,
+                "lng": -73.95347045
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fd8454f4fd3ccbd676a81a0c2883e2b82ee877c2",
+    "name": "399-301 E 85th St",
+    "place_id": "ChIJlSCctrtYwokRmZYCjNykL-0",
+    "reference": "ChIJlSCctrtYwokRmZYCjNykL-0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=399-301+E+85th+St,+New+York,+NY+10028,+USA&ftid=0x89c258bbb69c2095:0xed2fa4dc8c029699",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

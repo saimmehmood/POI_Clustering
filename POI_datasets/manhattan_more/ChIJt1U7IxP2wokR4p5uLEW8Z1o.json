@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "259",
+            "short_name": "259",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 123rd Street",
+            "short_name": "W 123rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5429",
+            "short_name": "5429",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">259 W 123rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-5429</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "259 W 123rd St, New York, NY 10027, USA",
+    "formatted_phone_number": "(614) 477-1231",
+    "geometry": {
+        "location": {
+            "lat": 40.8088064,
+            "lng": -73.9513438
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8100556302915,
+                "lng": -73.9500678197085
+            },
+            "southwest": {
+                "lat": 40.8073576697085,
+                "lng": -73.95276578029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4df3ff9ce132c42393dd50b01e1ae2d5447333a1",
+    "international_phone_number": "+1 614-477-1231",
+    "name": "NORTH AMERICA/AUSTRALIA YOUTH",
+    "place_id": "ChIJt1U7IxP2wokR4p5uLEW8Z1o",
+    "plus_code": {
+        "compound_code": "R25X+GF New York, United States",
+        "global_code": "87G8R25X+GF"
+    },
+    "rating": 5,
+    "reference": "ChIJt1U7IxP2wokR4p5uLEW8Z1o",
+    "reviews": [
+        {
+            "author_name": "Victoria Kesse Ahenkorah",
+            "author_url": "https://www.google.com/maps/contrib/108353092421082210117/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_8P6nFBqENQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rem4VRaBrXdSIbfYsiz0qA7kJKGdA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1543850550
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6514382391298924258",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "259 West 123rd Street, New York"
+}

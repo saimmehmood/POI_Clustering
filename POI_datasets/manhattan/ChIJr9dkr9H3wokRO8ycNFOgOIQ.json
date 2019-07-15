@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Main St</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Main St, Edgewater, NJ 07020, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8035826,
+            "lng": -73.99112560000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80492973029149,
+                "lng": -73.98977936970849
+            },
+            "southwest": {
+                "lat": 40.80223176970849,
+                "lng": -73.99247733029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "660302a035c4955a859ecffe2270c39df2c34d72",
+    "name": "1 Main St",
+    "place_id": "ChIJr9dkr9H3wokRO8ycNFOgOIQ",
+    "reference": "ChIJr9dkr9H3wokRO8ycNFOgOIQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1+Main+St,+Edgewater,+NJ+07020,+USA&ftid=0x89c2f7d1af64d7af:0x8438a053349ccc3b",
+    "utc_offset": -240,
+    "vicinity": "Edgewater"
+}

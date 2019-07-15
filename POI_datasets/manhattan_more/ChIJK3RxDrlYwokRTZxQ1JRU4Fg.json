@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "205-2526",
+            "short_name": "205-2526",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1562",
+            "short_name": "1562",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1562 1st Avenue #205-2526</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1562 1st Avenue #205-2526, New York, NY 10028, USA",
+    "formatted_phone_number": "(855) 801-5705",
+    "geometry": {
+        "location": {
+            "lat": 40.773714,
+            "lng": -73.95129290000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77512558029149,
+                "lng": -73.9500947697085
+            },
+            "southwest": {
+                "lat": 40.77242761970849,
+                "lng": -73.95279273029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aeaec501ede1cb365062296e4cde4634c0dc6ae9",
+    "international_phone_number": "+1 855-801-5705",
+    "name": "NorthGate LLC",
+    "place_id": "ChIJK3RxDrlYwokRTZxQ1JRU4Fg",
+    "plus_code": {
+        "compound_code": "Q2FX+FF New York, United States",
+        "global_code": "87G8Q2FX+FF"
+    },
+    "reference": "ChIJK3RxDrlYwokRTZxQ1JRU4Fg",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6404211668314790989",
+    "utc_offset": -240,
+    "vicinity": "1562 1st Avenue #205-2526, New York",
+    "website": "https://www.northgatemarkets.com/"
+}

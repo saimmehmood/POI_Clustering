@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1200",
+            "short_name": "# 1200",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1115",
+            "short_name": "1115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3450",
+            "short_name": "3450",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1115 Broadway # 1200</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010-3450</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1115 Broadway # 1200, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 675-4600",
+    "geometry": {
+        "location": {
+            "lat": 40.7429309,
+            "lng": -73.9893329
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7442735802915,
+                "lng": -73.98791266970849
+            },
+            "southwest": {
+                "lat": 40.7415756197085,
+                "lng": -73.9906106302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7839e98dbc1a6d6f93ac4cc3e31fa7ad45de901c",
+    "international_phone_number": "+1 212-675-4600",
+    "name": "ABS Payroll-Production Accounting",
+    "place_id": "ChIJ4Z_nJaRZwokRQPNj0uPyxvI",
+    "plus_code": {
+        "compound_code": "P2V6+57 New York, United States",
+        "global_code": "87G8P2V6+57"
+    },
+    "rating": 5,
+    "reference": "ChIJ4Z_nJaRZwokRQPNj0uPyxvI",
+    "reviews": [
+        {
+            "author_name": "Hanan Harchol",
+            "author_url": "https://www.google.com/maps/contrib/106281677674002815591/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nOEq1_4bCrw/AAAAAAAAAAI/AAAAAAAACR0/_s84pW-HrcQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Working with ABS was a joy! They explained everything clearly and patiently and took care of the payroll so I could focus on my role as a director. Whenever an actor or agent contacted me with a payroll concern, I simply forwarded the email to ABS and all was resolved thoroughly and professionally. I will be using ABS for my future films. Highly, highly recommend!!!",
+            "time": 1554248107
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17493936862868534080",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "1115 Broadway # 1200, New York"
+}

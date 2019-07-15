@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10004",
+            "short_name": "10004",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10004, USA",
+    "formatted_phone_number": "(646) 447-7205",
+    "geometry": {
+        "location": {
+            "lat": 40.7033226,
+            "lng": -74.0088962
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70482063029149,
+                "lng": -74.0073227697085
+            },
+            "southwest": {
+                "lat": 40.70212266970849,
+                "lng": -74.0100207302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "fab2abd6431d3d0763ee3fcae1417abbddb90600",
+    "international_phone_number": "+1 646-447-7205",
+    "name": "Tina M. Shure, Pharm",
+    "place_id": "ChIJF5SAShRawokR5KzfuWI-z9U",
+    "plus_code": {
+        "compound_code": "PX3R+8C New York, United States",
+        "global_code": "87G7PX3R+8C"
+    },
+    "reference": "ChIJF5SAShRawokR5KzfuWI-z9U",
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15406601444003917028",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

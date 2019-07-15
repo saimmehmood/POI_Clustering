@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "198-146",
+            "short_name": "198-146",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 115th Street",
+            "short_name": "W 115th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">198-146 W 115th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "198-146 W 115th St, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.80210919999999,
+            "lng": -73.95195629999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8034581802915,
+                "lng": -73.9506073697085
+            },
+            "southwest": {
+                "lat": 40.8007602197085,
+                "lng": -73.9533053302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1754a15c856da40141ad72a503b048bda4da0bca",
+    "name": "198-146 W 115th St",
+    "place_id": "ChIJxUBN5RD2wokR2zdpt9H_GAE",
+    "reference": "ChIJxUBN5RD2wokR2zdpt9H_GAE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=198-146+W+115th+St,+New+York,+NY+10026,+USA&ftid=0x89c2f610e54d40c5:0x118ffd1b76937db",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

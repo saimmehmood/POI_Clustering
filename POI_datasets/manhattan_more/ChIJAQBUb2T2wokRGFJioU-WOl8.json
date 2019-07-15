@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "555",
+            "short_name": "555",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7026",
+            "short_name": "7026",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">555 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-7026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "555 W 141st St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8237562,
+            "lng": -73.951435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82501843029149,
+                "lng": -73.9501501197085
+            },
+            "southwest": {
+                "lat": 40.82232046970849,
+                "lng": -73.9528480802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "190a3a671da766a840e254707210601a714df124",
+    "name": "Temple M",
+    "place_id": "ChIJAQBUb2T2wokRGFJioU-WOl8",
+    "plus_code": {
+        "compound_code": "R2FX+GC New York, United States",
+        "global_code": "87G8R2FX+GC"
+    },
+    "reference": "ChIJAQBUb2T2wokRGFJioU-WOl8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6861962251006530072",
+    "utc_offset": -240,
+    "vicinity": "555 West 141st Street, New York"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St, New York, NY 10041, USA",
+    "formatted_phone_number": "(866) 272-2715",
+    "geometry": {
+        "location": {
+            "lat": 40.7033226,
+            "lng": -74.0088962
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7049046802915,
+                "lng": -74.00781401970848
+            },
+            "southwest": {
+                "lat": 40.7022067197085,
+                "lng": -74.0105119802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e12179a9bda3b76b033cf26c6e902ff6d57b82eb",
+    "international_phone_number": "+1 866-272-2715",
+    "name": "hidropedales.es",
+    "place_id": "ChIJ____yBVawokRa1H8c_rQds8",
+    "reference": "ChIJ____yBVawokRa1H8c_rQds8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14949365787209257323",
+    "utc_offset": -240,
+    "vicinity": "55 Water Street, New York"
+}

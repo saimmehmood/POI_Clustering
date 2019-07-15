@@ -1,0 +1,335 @@
+{
+    "address_components": [
+        {
+            "long_name": "221",
+            "short_name": "221",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "South 1st Street",
+            "short_name": "S 1st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8853",
+            "short_name": "8853",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">221 S 1st St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-8853</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "221 S 1st St, Brooklyn, NY 11211, USA",
+    "formatted_phone_number": "(347) 335-0187",
+    "geometry": {
+        "location": {
+            "lat": 40.7130647,
+            "lng": -73.9590199
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71435828029149,
+                "lng": -73.9577060697085
+            },
+            "southwest": {
+                "lat": 40.71166031970849,
+                "lng": -73.9604040302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "1a028d76d5b0e6393b19ab87432459a87428f8d3",
+    "international_phone_number": "+1 347-335-0187",
+    "name": "Tabar\u00e9",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 \u2013 11:00 PM",
+            "Tuesday: 5:00 \u2013 11:00 PM",
+            "Wednesday: 5:00 \u2013 11:00 PM",
+            "Thursday: 5:00 \u2013 11:00 PM",
+            "Friday: 5:00 PM \u2013 12:00 AM",
+            "Saturday: 12:00 PM \u2013 12:00 AM",
+            "Sunday: 12:00 \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2650,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105045592199839629811/photos\">Tabar\u00e9</a>"
+            ],
+            "photo_reference": "CmRaAAAAt7BH49NfJ0Rrr5cu_6w3xa1joU32xCbeX0dAM8pbky6xfzl_x2ubiq8T9Y4H-JJ2ar8XXG6hBzdIHB1tgVBr0yLn5AM0OLXNPgdYFiP9Z2IRHXyj8ot9rZDuI7K85rzIEhAGj8_Is1oVl-bhi6FtQxpDGhSdO4wfvjBRJCH-cmoOn0yJzs3NqQ",
+            "width": 3979
+        },
+        {
+            "height": 3006,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116803508178163920931/photos\">Davi Tavares</a>"
+            ],
+            "photo_reference": "CmRaAAAALNbJZIWmMHONTfLEv39GhCEMgs7f6Ctllme4sc0fFluyhrm8MGJC-jpSevUuRpx0TIPHOp06ku7sqZc41qwTnSpLyhawYHA-wwlNoLFJVeT5U6GYWw2E35mqE0ujwMliEhCMtDy70hLMBOygI_IQHEGPGhSc7CxNXkJiFOZte1XFI-zZeW2fxQ",
+            "width": 5344
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102654014712106401252/photos\">Emily Bennett</a>"
+            ],
+            "photo_reference": "CmRaAAAACyS63nvWEEFDjwAIi60Qy0Iq5_mNUR4MlnnedfJotURBQI13QhqPUS5uyzxplzJsiCR_7RzbWnOEz8yRC95SS_1vrweVKlKVIGKgLNz28IO9hzncyd5B2hdheoYE8rXaEhBkykqaB_Zrp_U7MC41MTzwGhRRXMymDn36idYYpW05HVOVAIpF5g",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104182230920227636398/photos\">Margarita Roxas</a>"
+            ],
+            "photo_reference": "CmRaAAAAPoxtXr43JvvhZbMUVJCMvfTNGGsvwbeTS-L_s0KKgiiyrMmygRRk4sXvIUlLwcecFMX3OfM9fABXHBDGXECLJWPEaIOpQGWKhQXAf_okYgMfmhmcN3PTaX9G8gMpsRtWEhCNS7-9khhvHRWn7VCfyqDrGhRRD4tGwjEYnpSNkbegZJo42fCk-w",
+            "width": 4032
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102654014712106401252/photos\">Emily Bennett</a>"
+            ],
+            "photo_reference": "CmRaAAAAHW7Bt4cu9LrrN2Wt_wgGkDHKzYsdOQ_EMpAktDnUa-yKmDC56IIC6J9eyBUFYce9qY4OoNPYfkzQ28lpqjSzy0OFBB75vlVFdOv0H4Mb8HJMkzRg4vu8GPobOGwzXLAyEhC4hD1w8EybtxUb0ZhdHuHwGhQ7iBiJ6Mip_8yj7awwhuhSEsCyVQ",
+            "width": 4032
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109210863809881166671/photos\">Anthia Murray</a>"
+            ],
+            "photo_reference": "CmRaAAAADrsW3FaRRDvJgJCjItw6nvr39f05SdelnyK5c8SI2wzmcUjRqb525_OPBuHoOGYTIRnExWlxw5YVx7ilUbBugUfne6s7oY2286gMT6z13cZ3LSPysVoZ6ck3DZxljCnkEhC027SWR1GSiic8eSCBQwLuGhTVOmPwxpbYg4UBoJsoExmeWqwRhw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109926345414792443434/photos\">Michelle Dur\u00e1n Ruiz</a>"
+            ],
+            "photo_reference": "CmRaAAAAkIMMMMDeUtKgBTpP_WlcbIgaC6_uWfY4Dxqt2eQYSb5bpD3EWqDWZjWiAwgzywRkv3o-QrGOvJRtbA6qyzsoyzPA2TJGbW1oMWf-ABjMTS8aC0c5VR8iUE7Zf5_XsuSxEhAqmXk6Ym9ZMhr7vmNmIFS9GhRSanLXSDG15_EYKUR63T7eirkrxg",
+            "width": 4032
+        },
+        {
+            "height": 1686,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107175642092753207932/photos\">Chris Fairbanks</a>"
+            ],
+            "photo_reference": "CmRaAAAAyDlK-CmDF_BsWsU7K4Su9IS-vILEBeyLZkYxOQ1VHybMsl3gVbQ4NMENTZhk9weDvGToHw-bUzniRlMQg6xObzjzJGxTmbL8l-1g-kb4ff4FEqfC87raTLVuo5CTIE23EhCVh94jKzBl2EOvx0DzXlnWGhRgC6gqoM3b6ffdi2qGJqwWXJzB-A",
+            "width": 1685
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109926345414792443434/photos\">Michelle Dur\u00e1n Ruiz</a>"
+            ],
+            "photo_reference": "CmRaAAAA5PY3k3ct2NgxpxBzVcIh66JXP4tUTLwWfZQh-sxBoEkuh0X8Lb6oJOwVPjIKQ8vSJp8NRkjr7U73Pr41C2v86PFp32jQX5Yrw12pXBga95uwMJLGPFkobWGbdC97ztMnEhByk_wDY6jmgsKZ2U99OvkAGhTM3et28CdoS2fkaXHCGZ8LXzOtpQ",
+            "width": 4032
+        },
+        {
+            "height": 5616,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112305766560641630496/photos\">diego perez olave</a>"
+            ],
+            "photo_reference": "CmRaAAAAoPQSPRnQePg0L_qQO8pIn3YTQ1wp2rT1-fIpVg6S5zc3vBJYUi06rfefMH6fDEwn2MM5WpWZwlLNOkMZAfPHm_nLJ5EIcYgz4lbeDdRf6R0sW82LLMJtCGVJnO7T53FrEhCDZoA4mqUiAsyHEZrpDlV-GhSdrexDjScvnLpdGGwc1a_aCLCCLA",
+            "width": 3744
+        }
+    ],
+    "place_id": "ChIJ_Xt15F9ZwokRUWuI3cz_VHM",
+    "plus_code": {
+        "compound_code": "P27R+69 Brooklyn, New York, United States",
+        "global_code": "87G8P27R+69"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJ_Xt15F9ZwokRUWuI3cz_VHM",
+    "reviews": [
+        {
+            "author_name": "Richard Shall",
+            "author_url": "https://www.google.com/maps/contrib/104757684172944582250/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MLbOnVJtJQM/AAAAAAAAAAI/AAAAAAAAALE/DyWVVkXxeHg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Fantastic food and great happy hour specials. I would recommend getting a second bartender for happy hour Wednesdays though, the drinks were too slow to come out. I did appreciate the drink compensation though!",
+            "time": 1561667681
+        },
+        {
+            "author_name": "Gromit Lauriello",
+            "author_url": "https://www.google.com/maps/contrib/103882129374252605876/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rWgO4NfyZxI/AAAAAAAAAAI/AAAAAAAAAAs/Fu1xCkGtH5E/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The food was delicious! I have no experience with Uruguayan food but we all enjoyed our meals and wonderful cocktails. Plus the back garden is dog friendly!",
+            "time": 1561929829
+        },
+        {
+            "author_name": "sarah wollschlager",
+            "author_url": "https://www.google.com/maps/contrib/109959984511761573067/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-x22CEc4R9LY/AAAAAAAAAAI/AAAAAAAAAHo/uhYX5iL9MEw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I felt lucky to be eating such an amazing meal, in a warm relaxed atmosphere across from the man I love. Service was excellent. So happy! We will def be back. I can\u2019t say enough good things about the food!",
+            "time": 1552255187
+        },
+        {
+            "author_name": "whitney baca",
+            "author_url": "https://www.google.com/maps/contrib/110246593749652576950/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XoF271KRrus/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfEsnwrNfr9IPxRlsE8s7GT9sq4tA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Food is amazing! But their cocktails aren\u2019t that great. Would deff come back, our waitress was the best and the place is super cozy.",
+            "time": 1554607839
+        },
+        {
+            "author_name": "Juan Carlos Martinez",
+            "author_url": "https://www.google.com/maps/contrib/116498887387640078313/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Qyb-ouG3r44/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcI2h7UyYOIfs98XQI1Wl0NPh7NAg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "What a disappointment. The appetizers were exquisite, but the main course menu was underwhelming. Service was mediocre, and the place was so dark one couldn't read the menu without a flashlight.",
+            "time": 1559186927
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8310548467760524113",
+    "user_ratings_total": 318,
+    "utc_offset": -240,
+    "vicinity": "221 South 1st Street, Brooklyn",
+    "website": "http://www.tabarenyc.com/"
+}

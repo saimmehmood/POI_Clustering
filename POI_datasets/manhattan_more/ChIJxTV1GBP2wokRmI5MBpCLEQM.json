@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "257",
+            "short_name": "257",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 123rd Street",
+            "short_name": "W 123rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8103",
+            "short_name": "8103",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">257 W 123rd St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-8103</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "257 W 123rd St #1, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 749-7354",
+    "geometry": {
+        "location": {
+            "lat": 40.808743,
+            "lng": -73.951241
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8100000302915,
+                "lng": -73.94995931970848
+            },
+            "southwest": {
+                "lat": 40.80730206970851,
+                "lng": -73.9526572802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7819a9ffea82924adc1950fe803d55689f65a1fb",
+    "international_phone_number": "+1 212-749-7354",
+    "name": "Harlembuilt Llc",
+    "place_id": "ChIJxTV1GBP2wokRmI5MBpCLEQM",
+    "plus_code": {
+        "compound_code": "R25X+FG New York, United States",
+        "global_code": "87G8R25X+FG"
+    },
+    "reference": "ChIJxTV1GBP2wokRmI5MBpCLEQM",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=221111307415096984",
+    "utc_offset": -240,
+    "vicinity": "257 West 123rd Street #1, New York",
+    "website": "http://www.harlembuilt.com/"
+}

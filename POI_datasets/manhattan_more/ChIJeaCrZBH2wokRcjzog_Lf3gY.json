@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "1963",
+            "short_name": "1963",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1963 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1963 Adam Clayton Powell Jr Blvd, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8045445,
+            "lng": -73.9510677
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80595453029149,
+                "lng": -73.9498700697085
+            },
+            "southwest": {
+                "lat": 40.8032565697085,
+                "lng": -73.9525680302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "b5deff2bb43db2ace00ced169d05e79480e08a78",
+    "name": "Access to Money",
+    "place_id": "ChIJeaCrZBH2wokRcjzog_Lf3gY",
+    "plus_code": {
+        "compound_code": "R23X+RH New York, United States",
+        "global_code": "87G8R23X+RH"
+    },
+    "reference": "ChIJeaCrZBH2wokRcjzog_Lf3gY",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=495079241745448050",
+    "utc_offset": -240,
+    "vicinity": "1963 Adam Clayton Powell Junior Boulevard, New York",
+    "website": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=321125"
+}

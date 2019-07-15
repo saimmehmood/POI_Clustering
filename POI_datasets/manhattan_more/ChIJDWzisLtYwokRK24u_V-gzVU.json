@@ -1,0 +1,146 @@
+{
+    "address_components": [
+        {
+            "long_name": "317",
+            "short_name": "317",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 85th Street",
+            "short_name": "E 85th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4541",
+            "short_name": "4541",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">317 E 85th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4541</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "317 E 85th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 422-9494",
+    "geometry": {
+        "location": {
+            "lat": 40.7769698,
+            "lng": -73.95121879999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7782441302915,
+                "lng": -73.94992556970848
+            },
+            "southwest": {
+                "lat": 40.7755461697085,
+                "lng": -73.9526235302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f0b1b39c33e9ed770098ba5e5b35d7bdbae66304",
+    "international_phone_number": "+1 212-422-9494",
+    "name": "Withum Brown",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJDWzisLtYwokRK24u_V-gzVU",
+    "plus_code": {
+        "compound_code": "Q2GX+QG New York, United States",
+        "global_code": "87G8Q2GX+QG"
+    },
+    "rating": 1,
+    "reference": "ChIJDWzisLtYwokRK24u_V-gzVU",
+    "reviews": [
+        {
+            "author_name": "Barbara Nahmias",
+            "author_url": "https://www.google.com/maps/contrib/111443154159012742564/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Vj4IIixfDrg/AAAAAAAAAAI/AAAAAAAAAL0/nb3JguCcrNc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1498660484
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6182774197579574827",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "317 East 85th Street, New York",
+    "website": "https://www.withum.com/"
+}

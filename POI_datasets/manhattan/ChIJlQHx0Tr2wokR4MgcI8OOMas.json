@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "317",
+            "short_name": "317",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 107th Street",
+            "short_name": "W 107th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">317 W 107th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "317 W 107th St, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 496-8916",
+    "geometry": {
+        "location": {
+            "lat": 40.8029124,
+            "lng": -73.9689415
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8041750302915,
+                "lng": -73.9676545697085
+            },
+            "southwest": {
+                "lat": 40.8014770697085,
+                "lng": -73.9703525302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6b1c0fa65b1a0b1529ebf032d08b9ceabb7b9b63",
+    "international_phone_number": "+1 212-496-8916",
+    "name": "Dr. Andrea M. Kondracke, MD",
+    "place_id": "ChIJlQHx0Tr2wokR4MgcI8OOMas",
+    "plus_code": {
+        "compound_code": "R23J+5C New York, United States",
+        "global_code": "87G8R23J+5C"
+    },
+    "reference": "ChIJlQHx0Tr2wokR4MgcI8OOMas",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12335797823103355104",
+    "utc_offset": -240,
+    "vicinity": "317 West 107th Street, New York"
+}

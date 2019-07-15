@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2350-2366",
+            "short_name": "2350-2366",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2350-2366 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2350-2366 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81114890000001,
+            "lng": -73.950454
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81249783029151,
+                "lng": -73.9491049697085
+            },
+            "southwest": {
+                "lat": 40.80979986970851,
+                "lng": -73.9518029302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "6732d5554ce62fee965ea8d4082fd114ca5dba67",
+    "name": "2350-2366 Frederick Douglass Blvd",
+    "place_id": "ChIJM-DxHm32wokRkJrTAQVPD10",
+    "reference": "ChIJM-DxHm32wokRkJrTAQVPD10",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2350-2366+Frederick+Douglass+Blvd,+New+York,+NY+10027,+USA&ftid=0x89c2f66d1ef1e033:0x5d0f4f0501d39a90",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

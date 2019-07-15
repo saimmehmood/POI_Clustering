@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "185",
+            "short_name": "185",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Row",
+            "short_name": "Park Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10038",
+            "short_name": "10038",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">185 Park Row</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10038</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "185 Park Row, New York, NY 10038, USA",
+    "formatted_phone_number": "(212) 349-6563",
+    "geometry": {
+        "location": {
+            "lat": 40.7129403,
+            "lng": -73.9991762
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7142910802915,
+                "lng": -73.99791076970848
+            },
+            "southwest": {
+                "lat": 40.7115931197085,
+                "lng": -74.0006087302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "722bd0c35ee4bc05bb9c53df48754add03fa5682",
+    "international_phone_number": "+1 212-349-6563",
+    "name": "Ikenobo Ikebana Society NYC Chapter",
+    "place_id": "ChIJc7QDoCZawokR_dh8Q7T9tpY",
+    "plus_code": {
+        "compound_code": "P272+58 New York, United States",
+        "global_code": "87G8P272+58"
+    },
+    "reference": "ChIJc7QDoCZawokR_dh8Q7T9tpY",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10860146502118725885",
+    "utc_offset": -240,
+    "vicinity": "185 Park Row, New York",
+    "website": "http://ikenobonnyc.blogspot.com/"
+}

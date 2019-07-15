@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "542",
+            "short_name": "542",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">542 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "542 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8229164,
+            "lng": -73.9895171
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8242955802915,
+                "lng": -73.98823666970848
+            },
+            "southwest": {
+                "lat": 40.8215976197085,
+                "lng": -73.99093463029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "630adc106a014e2040afc0b9ffad05460673a73e",
+    "name": "Cliffside Park Foot & Ankle Center",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1230"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 3:00 PM",
+            "Tuesday: 12:30 \u2013 6:00 PM",
+            "Wednesday: 9:30 AM \u2013 4:00 PM",
+            "Thursday: 8:00 AM \u2013 1:00 PM",
+            "Friday: 8:30 AM \u2013 2:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJsxlKnM73wokR47AzRbSDaKg",
+    "plus_code": {
+        "compound_code": "R2F6+55 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+55"
+    },
+    "reference": "ChIJsxlKnM73wokR47AzRbSDaKg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12135094006228168931",
+    "utc_offset": -240,
+    "vicinity": "542 Anderson Avenue, Cliffside Park",
+    "website": "http://www.cliffsidepodiatry.com/"
+}

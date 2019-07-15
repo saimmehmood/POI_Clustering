@@ -1,0 +1,173 @@
+{
+    "address_components": [
+        {
+            "long_name": "125",
+            "short_name": "125",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 115th Street",
+            "short_name": "W 115th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2908",
+            "short_name": "2908",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">125 W 115th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2908</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "125 W 115th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 663-8216",
+    "geometry": {
+        "location": {
+            "lat": 40.80206119999999,
+            "lng": -73.95139
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80333703029149,
+                "lng": -73.95009516970849
+            },
+            "southwest": {
+                "lat": 40.8006390697085,
+                "lng": -73.95279313029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "2c77484e43f52fc39589fe2fbdfc2e831f8c302d",
+    "international_phone_number": "+1 212-663-8216",
+    "name": "Sisulu-Walker Charter School Of Harlem",
+    "photos": [
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105928811308006518314/photos\">Minh T. Nguyen</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Vxkcv1e4zB2b2__DNMpAvgUos8JDFaHWYzWsqG-Yz7yjb6UmPQnmz4A6CUkhWMIWFClDK53AquDdxIlR2XC7VzUlwCqOe9QBkwziORN2tW5ymdNzXeyDpAxZQd3p9hREhC1IGALHVI1IBYbnK_LYE67GhSf2jsxnPzNYR1PUtHgyJA7ZiiGCA",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJazuz-hD2wokRpjEEUX6TpdY",
+    "plus_code": {
+        "compound_code": "R22X+RC New York, United States",
+        "global_code": "87G8R22X+RC"
+    },
+    "rating": 3,
+    "reference": "ChIJazuz-hD2wokRpjEEUX6TpdY",
+    "reviews": [
+        {
+            "author_name": "JakeyYT",
+            "author_url": "https://www.google.com/maps/contrib/107271342154533330931/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-1og0gxOSyDE/AAAAAAAAAAI/AAAAAAAACRk/uwz7_Xu4HDc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "too much work",
+            "time": 1514246876
+        },
+        {
+            "author_name": "Juanisimo Mix",
+            "author_url": "https://www.google.com/maps/contrib/105045786427669912429/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-UuqAvNIpPK0/AAAAAAAAAAI/AAAAAAAAAbM/wHcMADUJpiM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Awesome",
+            "time": 1462109298
+        },
+        {
+            "author_name": "Tiger wolf",
+            "author_url": "https://www.google.com/maps/contrib/107486824892471536038/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-HS_lLf2xt40/AAAAAAAAAAI/AAAAAAAAAAQ/pdAOWNbAxh4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1530582517
+        },
+        {
+            "author_name": "Don Frazier",
+            "author_url": "https://www.google.com/maps/contrib/113486561503074525652/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gg8xWTHZYl8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdraSeqzBQij5sKjdrxLQDwpkIF_g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1528487425
+        },
+        {
+            "author_name": "NunuNunu jcncncbcnxnJiles",
+            "author_url": "https://www.google.com/maps/contrib/110407002397439337653/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AeNjFXzHeR8/AAAAAAAAAAI/AAAAAAAAALg/5MNUczoX8p4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1526388702
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15466930666008228262",
+    "user_ratings_total": 10,
+    "utc_offset": -240,
+    "vicinity": "125 West 115th Street, New York",
+    "website": "http://www.sisuluwalker.org/"
+}

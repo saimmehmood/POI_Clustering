@@ -1,0 +1,335 @@
+{
+    "address_components": [
+        {
+            "long_name": "1490",
+            "short_name": "1490",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4502",
+            "short_name": "4502",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1490 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-4502</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1490 Madison Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 666-0095",
+    "geometry": {
+        "location": {
+            "lat": 40.7913959,
+            "lng": -73.9513952
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79270058029149,
+                "lng": -73.94993791970849
+            },
+            "southwest": {
+                "lat": 40.7900026197085,
+                "lng": -73.9526358802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f97ce040706df67ebd5b7b3c67fca5dd1caa4d8c",
+    "international_phone_number": "+1 646-666-0095",
+    "name": "Superior Cafe",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 9:00 PM",
+            "Tuesday: 6:00 AM \u2013 9:00 PM",
+            "Wednesday: 6:00 AM \u2013 9:00 PM",
+            "Thursday: 6:00 AM \u2013 9:00 PM",
+            "Friday: 6:00 AM \u2013 9:00 PM",
+            "Saturday: 6:00 AM \u2013 5:00 PM",
+            "Sunday: 6:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3752,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112110162861336990395/photos\">Ahmed Allam</a>"
+            ],
+            "photo_reference": "CmRaAAAAjl6dfHTbslO1HeFFAwP1eD0dxONUvjyYeXspCRjedyaJT3uKT-RaZixdkJfD23vPC3JsUKSry_nPlfmaROCL6B8cJ5WNvwJU8PlgnIOakt2zJcqhjQgb1B-uv30xM_7BEhDee-s9NPNN-aGV5wv9LWw1GhRgv8bchoYFLWrvfMimlXg-50QkLQ",
+            "width": 12370
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102684145366063051357/photos\">Panos Kontopoulos</a>"
+            ],
+            "photo_reference": "CmRaAAAAjXb1NbXAzyCIU55vGu7YMaxKC4gCMHP2stRS_4HDcgdRLvTxzvSmdVNz8DUF-xVnzNoDLeksimuY4_XrFH0GEZpqAgDhB7_iRpPPawZCW9kwJzAJFeilx-P6fQyRMxPuEhD8vNYIUA_8apKNC8lgoHZhGhSrZNF6e3OXrzVhh7YwEeCq6f0rUQ",
+            "width": 3024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110771162479286202661/photos\">Hernando Arteaga G\u00f3mez</a>"
+            ],
+            "photo_reference": "CmRaAAAAXzxW6FV8gndoIQsumHGo1KCbNNGLASKrNRV8fhqVTL4dNnVDK_C_wghLWA41BJrVhLfXhvcwvJbHsGjEVvz9Bm7coUaNia6OIQ67pDNbdFTz7BCD3k6PGthrfRDKSmcFEhDMgudI349hZNHAIpTEPoUWGhTYhjJJkByA6oID1abmno6n5-bFWg",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110771162479286202661/photos\">Hernando Arteaga G\u00f3mez</a>"
+            ],
+            "photo_reference": "CmRaAAAAYQeP0HTA02qZTPmBbB3-GUwPZSAvuuKjiWqQZBINEyqFlVs_fIdi3UKwMrCONHjPNA_mNLKh40wciPH6-eSvgLosaZtdz3crQ7cog4brJPBt305IEAhV8N4OGY24n4h7EhA7R9ao0_iS6DTaRmp-PzdwGhSAoBV8XRwpe7cVbL5g35MJPaBXBg",
+            "width": 5312
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115353187733450988280/photos\">Rev Squad</a>"
+            ],
+            "photo_reference": "CmRZAAAAUnb3GKNOSWcfhS22eB3rF7gaqfIlxKaBWpPTDloyBUOXrqjv-qWjLLIZx8miURIXQXNSQwpg5fYfmc2L4mR2NxcTC_LrR99TujgSjnCj8QzSsmGqy0O_anJJ7qKrcxulEhC0qzJy2O-tXrfYKHqqD-OHGhT0ywmgQliP2dE8HKRbZbIvaGOrvw",
+            "width": 3264
+        },
+        {
+            "height": 4056,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101901511073817144342/photos\">Nina North Murphy</a>"
+            ],
+            "photo_reference": "CmRaAAAA9i_n2Xblsjh3zcBkPMyQldWorghQ7g4s5biufwyOpjEicVDPdtxogDvOeEmhVosRbtIyA0UGLVB44BYZgDgyaCZwM90fY9hOpDnudup27MivIb3zwjVY8w09tbAFyub7EhCbFTqCsMWk1zQT3m_NvtJfGhTSnwWcUR2QQ4t17yNi4vCpCA5fdw",
+            "width": 3040
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102042693048913331688/photos\">Olga Campos</a>"
+            ],
+            "photo_reference": "CmRaAAAApwIR7LF21khBw4HISGXPWTmITDM05lSyjNwt0qhzWMow-mUi6o5IDQxhMatJYG3wN1nmwE3p_itIJhZcPydABykCg1iPXpDIWKgeumol5X5ZqPvxQQoOfzFMRDZ9ErUfEhCpzIyF4sj9z7tMGvbOB0onGhTfk2GFEngusEmhyUDET5EdzCffSw",
+            "width": 3096
+        },
+        {
+            "height": 4056,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101901511073817144342/photos\">Nina North Murphy</a>"
+            ],
+            "photo_reference": "CmRaAAAAceuGe3YOFZa0nldhgoJ6krZY_lbLDaMiOWmEwPMUyTEtn---LBV6x6oc38Y4PaB1cqUuyOvg2uHokzwWAAFLsWmBNWhW1_dH3856Dtb2gZbqgA_1vKv094fN-XnZAQGgEhD8VQxleNUGMfpM6DFOUm7CGhSG2NEVcgjZwgHy4r3iqQRkPKi0bw",
+            "width": 3040
+        },
+        {
+            "height": 1131,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101901511073817144342/photos\">Nina North Murphy</a>"
+            ],
+            "photo_reference": "CmRaAAAAYM4bzQTf40DoKUX5tuoK9qFYSXbHtFH9J0t1mskQ24DjyaRHWV6o6hPRqiPYjCqxsV7jyma13E3aq6c5WT0Xz0mnmvIatR2DKaM0dIH6iRHRdTmHvjl-YdIor_HuCX4KEhAzyRwTV-RJq0nL-B9Py085GhTHY3R-xN6mhbxfMKws-08bICykcg",
+            "width": 749
+        },
+        {
+            "height": 4096,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111669885923058444681/photos\">William Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAALNO5gAe_Pj591Xc7nYTg3Z2n8-HZ-sLtS6K9NMZK72jW_gei_5MzVrVJqI3Uc8weRSAsGZrc_GBx9vmQotdCSE55BzAbFBHJNmSIHx3PLNLCl9MdARHYTT_Tnnd4yKqKEhCFnKpmjQJ0ZArQ_2TwoxJVGhRSgW2HB1C5Nk0hzEHXnccQkL71Qg",
+            "width": 3072
+        }
+    ],
+    "place_id": "ChIJ0cq2mR32wokRUV_LBBpmR6E",
+    "plus_code": {
+        "compound_code": "Q2RX+HC New York, United States",
+        "global_code": "87G8Q2RX+HC"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ0cq2mR32wokRUV_LBBpmR6E",
+    "reviews": [
+        {
+            "author_name": "Brittany Hottmann",
+            "author_url": "https://www.google.com/maps/contrib/110923301996910986430/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-DUoRknpmPtM/AAAAAAAAAAI/AAAAAAAAyhQ/wJqTbDAuY2g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Today I tried beef bacon on my bacon egg and cheese. I had never had beef bacon before and it was so flavorful and delicious. What a great sandwich. I'm writing this review so I can remember which place I went was next time I have to go to Mt. Sinai. Y'all should hit it up too!",
+            "time": 1562645707
+        },
+        {
+            "author_name": "Rachel Bates",
+            "author_url": "https://www.google.com/maps/contrib/116501096817801988080/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Jf_ImES1m8Q/AAAAAAAAAAI/AAAAAAAAADQ/sha6ESiiJfE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My favorite deli to grab a quick bite. The salads and sandwiches are superb. The hot food is also good; however it's weighed by pound.",
+            "time": 1557852501
+        },
+        {
+            "author_name": "Mr CaSh",
+            "author_url": "https://www.google.com/maps/contrib/106567834381382789536/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RZdUcoULS_Y/AAAAAAAAAAI/AAAAAAAAAuc/yxExzev4kCQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The Cashier lady Is the Nicest Person In da World Because She is nice to Customers and Also Very Respectful.Guys That Work at the Deli Do VERY GOOD BACON EGG AND CHEESE and Also Very Good Philly Cheese steak. This Is the Best Place I ever Been Too...Say hello To da Cashier For me",
+            "time": 1559604142
+        },
+        {
+            "author_name": "Lilian Urquilla",
+            "author_url": "https://www.google.com/maps/contrib/102096450784300571993/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JqUR2VfUKVc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc5todzP3G_EhJIizf27n3RtFYvjA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Another's good place to eat 98th and Madison's AVE, new York.",
+            "time": 1560450078
+        },
+        {
+            "author_name": "Nina North Murphy",
+            "author_url": "https://www.google.com/maps/contrib/101901511073817144342/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pnPaavxmqFY/AAAAAAAAAAI/AAAAAAAATjA/Fsc-tsVKecI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Great place to grab and go or to sit down for a quick bite.  We are from St. Louis, MO visiting Mt Sinai Hospital.  Took a walk to find somewhere to eat nearby and found this place.  Very glad we did. Friendly staff showed us the ropes and were able to have a quick and yummy meal, well prepared at a reasonable price.",
+            "time": 1545337251
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11621369625388474193",
+    "user_ratings_total": 134,
+    "utc_offset": -240,
+    "vicinity": "1490 Madison Avenue, New York"
+}

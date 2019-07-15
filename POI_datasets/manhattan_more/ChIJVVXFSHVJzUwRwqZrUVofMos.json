@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "690",
+            "short_name": "690",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Frontenac",
+            "short_name": "Frontenac",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "13624",
+            "short_name": "13624",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">690 Riverside Dr</span>, <span class=\"locality\">Frontenac</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">13624</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "690 Riverside Dr, Frontenac, NY 13624, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8277633,
+            "lng": -73.950884
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8291585802915,
+                "lng": -73.9496512197085
+            },
+            "southwest": {
+                "lat": 40.8264606197085,
+                "lng": -73.9523491802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "40810d29c0b216baaa9a07d518c395de101485f5",
+    "name": "R.j. Marine",
+    "place_id": "ChIJVVXFSHVJzUwRwqZrUVofMos",
+    "plus_code": {
+        "compound_code": "R2HX+4J New York, United States",
+        "global_code": "87G8R2HX+4J"
+    },
+    "reference": "ChIJVVXFSHVJzUwRwqZrUVofMos",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10030113792881043138",
+    "utc_offset": -240,
+    "vicinity": "690 Riverside Drive, Frontenac"
+}

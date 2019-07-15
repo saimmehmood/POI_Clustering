@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "451-401",
+            "short_name": "451-401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Newburgh Court",
+            "short_name": "Newburgh Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Bulls Ferry & Jacob's Ferry",
+            "short_name": "Bulls Ferry & Jacob's Ferry",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "West New York",
+            "short_name": "West New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07093",
+            "short_name": "07093",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">451-401 Newburgh Ct</span>, <span class=\"locality\">West New York</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07093</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "451-401 Newburgh Ct, West New York, NJ 07093, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.78548170000001,
+            "lng": -74.0014502
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7868426302915,
+                "lng": -74.0000842197085
+            },
+            "southwest": {
+                "lat": 40.7841446697085,
+                "lng": -74.0027821802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "697ef535fde264ad97ccf530f9dc308559b50a0c",
+    "name": "451-401 Newburgh Ct",
+    "place_id": "ChIJ2e_5z21YwokRoRlcVLWR9VM",
+    "reference": "ChIJ2e_5z21YwokRoRlcVLWR9VM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=451-401+Newburgh+Ct,+West+New+York,+NJ+07093,+USA&ftid=0x89c2586dcff9efd9:0x53f591b5545c19a1",
+    "utc_offset": -240,
+    "vicinity": "West New York"
+}

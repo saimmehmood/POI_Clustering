@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "3520",
+            "short_name": "3520",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3520 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3520 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8257366,
+            "lng": -73.9505847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271241802915,
+                "lng": -73.94933161970849
+            },
+            "southwest": {
+                "lat": 40.8244262197085,
+                "lng": -73.95202958029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "165f0d0b92e303d8a19ded458f9f2feb7aeda26e",
+    "name": "Majestic Deli",
+    "place_id": "ChIJ8f43dWP2wokRl0Ucrqyk_Ts",
+    "plus_code": {
+        "compound_code": "R2GX+7Q New York, United States",
+        "global_code": "87G8R2GX+7Q"
+    },
+    "reference": "ChIJ8f43dWP2wokRl0Ucrqyk_Ts",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4322792278907962775",
+    "utc_offset": -240,
+    "vicinity": "3520 Broadway, New York"
+}

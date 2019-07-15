@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "632",
+            "short_name": "632",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 147th Street",
+            "short_name": "W 147th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4318",
+            "short_name": "4318",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">632 W 147th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-4318</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "632 W 147th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 566-2212",
+    "geometry": {
+        "location": {
+            "lat": 40.828,
+            "lng": -73.95074199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8294432302915,
+                "lng": -73.9493230697085
+            },
+            "southwest": {
+                "lat": 40.8267452697085,
+                "lng": -73.9520210302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1e0288404aadc272a212f35be71515f12b0d38df",
+    "international_phone_number": "+1 917-566-2212",
+    "name": "Raschard Robin J DO",
+    "place_id": "ChIJIcRFX2L2wokR9Vuq05cysSg",
+    "plus_code": {
+        "compound_code": "R2HX+6P New York, United States",
+        "global_code": "87G8R2HX+6P"
+    },
+    "rating": 5,
+    "reference": "ChIJIcRFX2L2wokR9Vuq05cysSg",
+    "reviews": [
+        {
+            "author_name": "solana mahabeer",
+            "author_url": "https://www.google.com/maps/contrib/116986746828369628963/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ZbXS0yyjcDw/AAAAAAAAAAI/AAAAAAAAAFE/vr9baA9s2AI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1549155290
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2932180460067511285",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "632 West 147th Street, New York"
+}

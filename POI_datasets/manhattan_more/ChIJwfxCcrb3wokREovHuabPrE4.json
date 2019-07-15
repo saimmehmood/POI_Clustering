@@ -1,0 +1,221 @@
+{
+    "address_components": [
+        {
+            "long_name": "253",
+            "short_name": "253",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">253 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "253 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 664-0300",
+    "geometry": {
+        "location": {
+            "lat": 40.810033,
+            "lng": -73.9500391
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8112562802915,
+                "lng": -73.94878616970848
+            },
+            "southwest": {
+                "lat": 40.8085583197085,
+                "lng": -73.95148413029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fa4a3d25ca861c7357e0e95f4f14dcc1bf36ba56",
+    "international_phone_number": "+1 212-664-0300",
+    "name": "NYC Sightseeing Tours",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 10:00 PM",
+            "Tuesday: 8:00 AM \u2013 10:00 PM",
+            "Wednesday: 8:00 AM \u2013 10:00 PM",
+            "Thursday: 8:00 AM \u2013 10:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 8:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115333993881798506210/photos\">Otton Pino</a>"
+            ],
+            "photo_reference": "CmRaAAAApYkh462BaJdBq18-HBtXgSpEZYM25WxI6kgN1VXBT_th-RILNwReBVPeEdkD4Mcs1rSGmWEWA-jNWuK3m_IRQ3FZdjTC6Gxqifm5-7U0FkAdogHTfkQMJO7hjxx9znm-EhBcYxscCUAIzJM1JKsJMjgjGhRFYTHdQasT6IDyFBXIQZio5ECyaA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115333993881798506210/photos\">Otton Pino</a>"
+            ],
+            "photo_reference": "CmRaAAAARA6FjTvLcJyzvpAGPeJ4lipR3EOj4cVzENZC9y9CnLgf5ghadc-OVzKjpc6w1Tq_MsjWlSO_Y0iMC3cizvo5KsG58iiDEZEtoGr5OKH8F_e3K2GzhL4GbGNFFSTdgZdCEhBz1CDu8V9uZvMJ7rar47EYGhTF8GaVqWzvNczdzVlRjmjTBlj2Hg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJwfxCcrb3wokREovHuabPrE4",
+    "plus_code": {
+        "compound_code": "R26X+2X New York, United States",
+        "global_code": "87G8R26X+2X"
+    },
+    "rating": 5,
+    "reference": "ChIJwfxCcrb3wokREovHuabPrE4",
+    "reviews": [
+        {
+            "author_name": "Otton Pino",
+            "author_url": "https://www.google.com/maps/contrib/115333993881798506210/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jh9HA4LlEDQ/AAAAAAAAAAI/AAAAAAAAABA/krpHOTWH2jg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "An iconic place in new york",
+            "time": 1537152276
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5669134345940994834",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "253 West 125th Street, New York",
+    "website": "https://www.topviewnyc.com/?utm_source=GoogleMyBusiness&utm_medium=253_W_125th_St&utm_content=StoreCode323"
+}

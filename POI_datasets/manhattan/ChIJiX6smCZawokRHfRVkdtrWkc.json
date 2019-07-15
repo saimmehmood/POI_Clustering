@@ -1,0 +1,184 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Row",
+            "short_name": "Park Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10038",
+            "short_name": "10038",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 Park Row #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10038</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 Park Row #1, New York, NY 10038, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.71274209999999,
+            "lng": -73.9993575
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71411548029149,
+                "lng": -73.99806786970849
+            },
+            "southwest": {
+                "lat": 40.71141751970849,
+                "lng": -74.00076583029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "411e3bfa2105ac6a80c65757fadb2034feb5095c",
+    "name": "Lower Manhattan Sleep Apnea Treatment",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: Closed",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 286,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108771081885960045469/photos\">Lower Manhattan Sleep Apnea Treatment</a>"
+            ],
+            "photo_reference": "CmRaAAAAHOKI6BAz0Zi2DtsbLLC6pwgAN8BzOdkDwZadG-oTSPEoaIKoXHhKXx_CBCCXqdIJlkuYMtWAlXahbozLHEL_WHMpKufdSDgzA0lB-PrgLYcicVD6KBMNAznszQhpRVUDEhBOeZ0Wd3I8uLLG7jEEbi6LGhTryC-rWVPzwPPiDUr_TpzZ0dPJtA",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJiX6smCZawokRHfRVkdtrWkc",
+    "plus_code": {
+        "compound_code": "P272+37 New York, United States",
+        "global_code": "87G8P272+37"
+    },
+    "reference": "ChIJiX6smCZawokRHfRVkdtrWkc",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5141540515377181725",
+    "utc_offset": -240,
+    "vicinity": "215 Park Row #1, New York"
+}

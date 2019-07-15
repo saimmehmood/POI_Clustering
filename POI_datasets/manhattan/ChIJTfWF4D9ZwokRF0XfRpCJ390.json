@@ -1,0 +1,271 @@
+{
+    "address_components": [
+        {
+            "long_name": "66",
+            "short_name": "66",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "66 Green St, Brooklyn, NY 11222, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7331616,
+            "lng": -73.9592816
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7345912802915,
+                "lng": -73.95794541970848
+            },
+            "southwest": {
+                "lat": 40.7318933197085,
+                "lng": -73.9606433802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "a8105a8f30ff35f7b4b0028f5011b5661ea12031",
+    "name": "CAMRISE | DJI Drones",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106969384183885713618/photos\">Jarrell Peak</a>"
+            ],
+            "photo_reference": "CmRaAAAAqlJB5msz52hgUb60otlBaB8shIN_tro1YKNknRQ51j9cCxDCFbQsR_RrHIE4IW-NcNlqvsolx3y9J9G_JvLvlIMfMCooctvwo-U8txwdO2agNTewn-BeVf0tnf8FPyMCEhD8CXUgXl4Q36mIvf10d2sfGhTVtjLGR5bRQUPW-dyIH31QRlWY_g",
+            "width": 2016
+        },
+        {
+            "height": 2952,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102901429608571513767/photos\">Christopher Galdi</a>"
+            ],
+            "photo_reference": "CmRaAAAAYmWGflxE21fl_rfnnLdLOARvbr0M1ALwNWUQeUaldXLpM_uCh1t4a6YC1dCwNrqA6NnX6BS0Jbu_aAw-AMSJL6ATVb2QG5WBcW2PHRIgn0CblIVR15LOkPBo5y6J32dcEhC-vHn1fFIGQbu5xhOaUJA_GhScyt5y5faAWkIRPR4LR1vXcvg04g",
+            "width": 5248
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113383163296782148560/photos\">STC Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAzWEreo_gpzOSAJvW5ZryKYn-DQr5lBVHwWo-6iJ6ixxt0cwE4RVapAH6Z5ywN_JQEGrdakf7FZe42lDJEkpgyyRa1BCKnixgpwZ2enSDdQw7WDXrYKulA64NUGNdduafEhBnfjLEGHXZv72AK7ifE_4pGhTdH-S5IFMNn12I-2TY6AZa4WxOXQ",
+            "width": 2322
+        },
+        {
+            "height": 1512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106969384183885713618/photos\">Jarrell Peak</a>"
+            ],
+            "photo_reference": "CmRaAAAACBuOoQwJ-HtPxXfK7v9bVC7mMe9F465iIMtzAXD7Q-3CaB1VLZiEcNPYjc-sk02gLSaH6HHcCmJv-sIUmbYxjVFphJKpOJ8cou5Ol74qLGCDAV76QRz0GxUm0gP5zOCzEhDK1mvo_D4kBgn6jMZyn26cGhRd2dCWkUQZd1Mjgg5h_CJdZp1qZg",
+            "width": 2016
+        },
+        {
+            "height": 2322,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113383163296782148560/photos\">STC Electronics</a>"
+            ],
+            "photo_reference": "CmRaAAAAvHpcZ6inhfwr6qif59e1tQK1s-vKXCNQSwYJXQNCXCl-Ahj4JUVlvIrvvD8AtrscLJqS4DZRVg_jYwv0L91vocufO1_C7WVenf43Bi7yE8bD54WEUArlXjDUIFMflXucEhCzHThYTtwGDMQ13fjxqkR_GhTDcYBxcqykBEZHD6MmbJg3KYWrpA",
+            "width": 4128
+        },
+        {
+            "height": 411,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106178392322265533685/photos\">Camrise</a>"
+            ],
+            "photo_reference": "CmRaAAAAmvPZ50D_QJ3J-k64yO_nr5ZVHx7_tycMLtSivBXL0fGLE4WTctMY2XC7Cjh5sfVxIlgWcHQV94lL54ZMi9k3LbFdMpXj6f3hYTjrA6zl1GGWD-0ZUqRyFm9xMIM70dx6EhCfPoMW1NyQp-uyMYFlctVRGhQIQkrI5zi8K2VRHshTLYkfu-3Q2Q",
+            "width": 411
+        }
+    ],
+    "place_id": "ChIJTfWF4D9ZwokRF0XfRpCJ390",
+    "plus_code": {
+        "compound_code": "P2MR+77 Brooklyn, New York, United States",
+        "global_code": "87G8P2MR+77"
+    },
+    "rating": 3.3,
+    "reference": "ChIJTfWF4D9ZwokRF0XfRpCJ390",
+    "reviews": [
+        {
+            "author_name": "Sheryln O'maddie",
+            "author_url": "https://www.google.com/maps/contrib/104902322178015120900/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-GkCb5LsoY1M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdISC0omC0z4BkIE5PBAWldEOuDSw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "My husband crashed his drone and was really upset. Sam helped in just a few minutes and we are very happy regarding the professionalism and care they provided. I'm very impressed and hope he crashes again so we can get such royal treatment!",
+            "time": 1459367479
+        },
+        {
+            "author_name": "Eric Vestfals",
+            "author_url": "https://www.google.com/maps/contrib/108290552806344390597/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-sq8-vYXHW-A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcoCuu1HCcFqYjtQ0XoHtDeg3zVUQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I bought a Phantom 3 Standard and couldn't be happier with my purchase! I opted for the refurbished model, and I was extremely pleased with the condition of the done! It looked as if it was new. There were only smudges and very small scratches. If you're looking to get the standard model, I highly recommend going for the refurbished one as you save $80 over a new one.",
+            "time": 1470951480
+        },
+        {
+            "author_name": "Jason Morrow",
+            "author_url": "https://www.google.com/maps/contrib/100524556137211826271/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lwm2NaApqO4/AAAAAAAAAAI/AAAAAAAAvas/bXKAcQnO-lA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "This is the WORST company I have ever dealt with in my life.   They sell knock off versions of things, and pass them along as real.   They send the wrong item twice, and instead of sending the corrected item, they demand they get the incorrect item back first.  I then asked to speak to a manager, in which, I was told they would call me instead the following day.  I advised them of my hours to call, as I am in AZ, and they are in NY.   They called me at 6:25am, WAY before my time advisement.  The \"supervisor\" George, was the rudest person I have ever spoke with.  He could have cared less that he called me at 6:25am.   When I told him that calling someone that early is unacceptable, he started to become irate.  I told him his customer service was the worst, and I would reflect that in my amazon review, to which he snarked, Ohhh, I already read your review.   The conversation ended with him telling me to get a red wig, that I was an A__ clown, and accused me of stealing money from him.  DO NOT DO ANY TYPE OF BUSINESS WITH THIS COMPANY.  CONSUMER BEWARE",
+            "time": 1445350896
+        },
+        {
+            "author_name": "Tyler Roberts",
+            "author_url": "https://www.google.com/maps/contrib/101051274947515802475/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PfZ10HN0St4/AAAAAAAAAAI/AAAAAAAAQSg/2uPeMtJD30Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I ordered an adapter for the DJI Osmo and when a mix up happened with shipping, Sam was very helpful in helping me make sure I get it as fast as possible!",
+            "time": 1463509045
+        },
+        {
+            "author_name": "Jarrell Peak",
+            "author_url": "https://www.google.com/maps/contrib/106969384183885713618/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ysjKeseG28c/AAAAAAAAAAI/AAAAAAAAAjo/51fmecVA93M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "BUYER BEWARE. THEY WILL FRAUD YOU. THEY SENT ME A PHANTOM 3 PROFESSIONAL BROKEN/USED. MAJOR DAMAGE IS VISIBLE ON THE DRONE. THEY ARE NOT WORTH YOUR TIME AND MONEY",
+            "time": 1456090442
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15987648454945883415",
+    "user_ratings_total": 7,
+    "utc_offset": -240,
+    "vicinity": "66 Green Street, Brooklyn",
+    "website": "http://www.camrise.com/"
+}

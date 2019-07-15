@@ -1,0 +1,136 @@
+{
+    "address_components": [
+        {
+            "long_name": "213",
+            "short_name": "213",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">213 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "213 Madison St, New York, NY 10002, USA",
+    "formatted_phone_number": "(888) 762-2265",
+    "geometry": {
+        "location": {
+            "lat": 40.7129441,
+            "lng": -73.9892337
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141817802915,
+                "lng": -73.98786986970849
+            },
+            "southwest": {
+                "lat": 40.7114838197085,
+                "lng": -73.9905678302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "ad5757f87d2b70593bd154312e067840daff134f",
+    "international_phone_number": "+1 888-762-2265",
+    "name": "PNC Bank ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1025,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102657411354146320853/photos\">PNC Bank ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAAos-TfUugoPNV6ONXigBkcLkaRYM8zicsRyvGxuyKzMp7gholflPdoQS6gL1G_sxCesFY5KyuhCakhLxNmcKEW0RfH_QmPBHEY2FqiOYHw5P4dZuMAxT9R3GIds8GepxXEhDvsAG8QlYqVw4oXvNWjkopGhTWy5MhbAJi6P1VZElRLXBU12JiuQ",
+            "width": 1025
+        }
+    ],
+    "place_id": "ChIJz4RwLzJbwokRf5HlioyhAcw",
+    "plus_code": {
+        "compound_code": "P276+58 New York, United States",
+        "global_code": "87G8P276+58"
+    },
+    "reference": "ChIJz4RwLzJbwokRf5HlioyhAcw",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14700208283711803775",
+    "utc_offset": -240,
+    "vicinity": "213 Madison Street, New York",
+    "website": "https://apps.pnc.com/locator/#/result-details/NY000202/mcdonalds"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "54-74",
+            "short_name": "54-74",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">54-74 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "54-74 St Nicholas Terrace, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8157175,
+            "lng": -73.9497447
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81712565000005,
+                "lng": -73.94860341970849
+            },
+            "southwest": {
+                "lat": 40.81435304999994,
+                "lng": -73.9513013802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1eda6c24fb4924734ead1638ab8b581b2e62ddb0",
+    "name": "54-74 St Nicholas Terrace",
+    "place_id": "ChIJEdbfZ272wokRIh4C1qiNREM",
+    "reference": "ChIJEdbfZ272wokRIh4C1qiNREM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=54-74+St+Nicholas+Terrace,+New+York,+NY+10031,+USA&ftid=0x89c2f66e67dfd611:0x43448da8d6021e22",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

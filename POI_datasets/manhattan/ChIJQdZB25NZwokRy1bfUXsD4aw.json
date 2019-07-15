@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "320-338",
+            "short_name": "320-338",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10014",
+            "short_name": "10014",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">320-338 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "320-338 6th Ave, New York, NY 10014, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.73139259999999,
+            "lng": -74.0012045
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73273948029149,
+                "lng": -73.99985021970849
+            },
+            "southwest": {
+                "lat": 40.73004151970849,
+                "lng": -74.0025481802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5881b3017a54ac3431330810a0caa517f369be66",
+    "name": "320-338 6th Ave",
+    "place_id": "ChIJQdZB25NZwokRy1bfUXsD4aw",
+    "reference": "ChIJQdZB25NZwokRy1bfUXsD4aw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=320-338+6th+Ave,+New+York,+NY+10014,+USA&ftid=0x89c25993db41d641:0xace1037b51df56cb",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "401",
+            "short_name": "401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 83rd Street",
+            "short_name": "E 83rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401 E 83rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "401 E 83rd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-4570",
+    "geometry": {
+        "location": {
+            "lat": 40.77486549999999,
+            "lng": -73.9503627
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7761691802915,
+                "lng": -73.94904706970848
+            },
+            "southwest": {
+                "lat": 40.7734712197085,
+                "lng": -73.9517450302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "55f55beb283d2a08cbce89eccbc6d45da9e1750c",
+    "international_phone_number": "+1 212-861-4570",
+    "name": "Lai Lai Tailor & Cleaners",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 6:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117435734237803982606/photos\">Jonathan Simmons</a>"
+            ],
+            "photo_reference": "CmRaAAAAQFwSaVNv_0p-vGU-utjR6M-__bXlUY_V3wz3-oc-15LjFYd8pkBlN6vEs_bez6DlkHwLDGEcBjB6iZyUus7XgzT1BcNhsL4iM2fmok-xh-Y1amQNAkhDoDr4yEsACHXIEhDxFsFvX8xSHMwjtt2bW8_qGhRDeEMFgxukRIAoEwoiroTBa-loYg",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJCyNagblYwokRoS9xR9eVFis",
+    "plus_code": {
+        "compound_code": "Q2FX+WV New York, United States",
+        "global_code": "87G8Q2FX+WV"
+    },
+    "reference": "ChIJCyNagblYwokRoS9xR9eVFis",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3104833744967643041",
+    "utc_offset": -240,
+    "vicinity": "401 East 83rd Street, New York"
+}

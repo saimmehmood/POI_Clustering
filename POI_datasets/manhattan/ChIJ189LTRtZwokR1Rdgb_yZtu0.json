@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "150",
+            "short_name": "150",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "50th Avenue",
+            "short_name": "50th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150 50th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "150 50th Ave, Long Island City, NY 11101, USA",
+    "formatted_phone_number": "(888) 324-7941",
+    "geometry": {
+        "location": {
+            "lat": 40.7433161,
+            "lng": -73.9590139
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7448370302915,
+                "lng": -73.9576067197085
+            },
+            "southwest": {
+                "lat": 40.74213906970851,
+                "lng": -73.9603046802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e076359eb8d7f0656be307128d7f506ea4c083ed",
+    "international_phone_number": "+1 888-324-7941",
+    "name": "Quality Protection Patrol Services Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJ189LTRtZwokR1Rdgb_yZtu0",
+    "plus_code": {
+        "compound_code": "P2VR+89 Long Island City, Queens, NY, United States",
+        "global_code": "87G8P2VR+89"
+    },
+    "reference": "ChIJ189LTRtZwokR1Rdgb_yZtu0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17129047542229637077",
+    "utc_offset": -240,
+    "vicinity": "150 50th Avenue, Long Island City",
+    "website": "https://quality-protection-patrol-services-inc.business.site/?utm_source=gmb&utm_medium=referral"
+}

@@ -1,0 +1,206 @@
+{
+    "address_components": [
+        {
+            "long_name": "303",
+            "short_name": "303",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "505",
+            "short_name": "505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9308",
+            "short_name": "9308",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505 Park Ave #303</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022-9308</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505 Park Ave #303, New York, NY 10022, USA",
+    "formatted_phone_number": "(212) 371-8200",
+    "geometry": {
+        "location": {
+            "lat": 40.76295160000001,
+            "lng": -73.9692965
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76435833029151,
+                "lng": -73.96807911970849
+            },
+            "southwest": {
+                "lat": 40.76166036970851,
+                "lng": -73.9707770802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3fae982d920e9616021629354b50ae05f0ba1029",
+    "international_phone_number": "+1 212-371-8200",
+    "name": "Leslie J Garfield & Co Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 6:00 PM",
+            "Tuesday: 8:30 AM \u2013 6:00 PM",
+            "Wednesday: 8:30 AM \u2013 6:00 PM",
+            "Thursday: 8:30 AM \u2013 6:00 PM",
+            "Friday: 8:30 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ0SFDYuVYwokRKDJt4oGIqYU",
+    "plus_code": {
+        "compound_code": "Q27J+57 New York, United States",
+        "global_code": "87G8Q27J+57"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ0SFDYuVYwokRKDJt4oGIqYU",
+    "reviews": [
+        {
+            "author_name": "Martin Saposnick",
+            "author_url": "https://www.google.com/maps/contrib/112032878376783258078/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Z8yu7v2zV70/AAAAAAAAAAI/AAAAAAAADpY/8c6kgex3bAA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Clearly among the most knowledgeable and professional in this field",
+            "time": 1478191208
+        },
+        {
+            "author_name": "Glenn Yancey",
+            "author_url": "https://www.google.com/maps/contrib/116227578460864554893/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7O9jg56zk_M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdnzMuur3UkBiuvQF37X_FYaT8ikQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1454808406
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9631379369539482152",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "505 Park Avenue #303, New York",
+    "website": "https://lesliegarfield.com/"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "550",
+            "short_name": "550",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">550 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "550 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 790-3232",
+    "geometry": {
+        "location": {
+            "lat": 40.8230771,
+            "lng": -73.9893044
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8244709302915,
+                "lng": -73.98805726970849
+            },
+            "southwest": {
+                "lat": 40.8217729697085,
+                "lng": -73.99075523029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "63ffabc1d5f877c47139cf4b774058ceb9fddbf3",
+    "international_phone_number": "+1 201-790-3232",
+    "name": "Dr. Alexander I. Karapetyan, DDS",
+    "place_id": "ChIJpykAhbH3wokR2w1fN_Bvjy0",
+    "plus_code": {
+        "compound_code": "R2F6+67 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+67"
+    },
+    "reference": "ChIJpykAhbH3wokR2w1fN_Bvjy0",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3282965730888191451",
+    "utc_offset": -240,
+    "vicinity": "550 Anderson Avenue, Cliffside Park"
+}

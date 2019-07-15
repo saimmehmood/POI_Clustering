@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "192-218",
+            "short_name": "192-218",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">192-218 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "192-218 Madison St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7127023,
+            "lng": -73.9894557
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7140512302915,
+                "lng": -73.98810666970849
+            },
+            "southwest": {
+                "lat": 40.7113532697085,
+                "lng": -73.9908046302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c89c54c0fcd090a5738402de582b92e6d79b139c",
+    "name": "192-218 Madison St",
+    "place_id": "ChIJ22RzXSlawokR-9nanAND65g",
+    "reference": "ChIJ22RzXSlawokR-9nanAND65g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=192-218+Madison+St,+New+York,+NY+10002,+USA&ftid=0x89c25a295d7364db:0x98eb43039cdad9fb",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

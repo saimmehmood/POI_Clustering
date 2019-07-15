@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 144th Street",
+            "short_name": "W 144th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10033",
+            "short_name": "10033",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3511 Broadway cnr 600, <span class=\"street-address\">W 144th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10033</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3511 Broadway cnr 600, W 144th St, New York, NY 10033, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8255954,
+            "lng": -73.9514035
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270872302915,
+                "lng": -73.9499482697085
+            },
+            "southwest": {
+                "lat": 40.8243892697085,
+                "lng": -73.9526462302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "070ca26925b348df04009c09f03847e96d414835",
+    "name": "Dolex Dollar Express",
+    "place_id": "ChIJ-bZXl2P2wokRckZEVEPy0qU",
+    "plus_code": {
+        "compound_code": "R2GX+6C New York, United States",
+        "global_code": "87G8R2GX+6C"
+    },
+    "rating": 3,
+    "reference": "ChIJ-bZXl2P2wokRckZEVEPy0qU",
+    "reviews": [
+        {
+            "author_name": "Glenis Alvarez",
+            "author_url": "https://www.google.com/maps/contrib/111810136363445224771/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-VYn8inC8qbw/AAAAAAAAAAI/AAAAAAAAAA4/HyuE0JY1m-w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Very bad customer service, there's a lady that is ridiculous I live 145 and I prefer walking to 137 to not see her face.",
+            "time": 1499292425
+        },
+        {
+            "author_name": "Manfry Martinez",
+            "author_url": "https://www.google.com/maps/contrib/112547967446686540445/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xSsPpCj6VbI/AAAAAAAAAAI/AAAAAAABg4I/L95_j0T271Q/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1525318899
+        },
+        {
+            "author_name": "Vinod kumar",
+            "author_url": "https://www.google.com/maps/contrib/116155346417174344226/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NCDYYJqV87E/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdDkpFPnszmaiV0mPlXP9d4JPkdug/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1493383514
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11948879132357838450",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "3511 Broadway cnr 600, West 144th Street, New York",
+    "website": "https://www.dolex.com/"
+}

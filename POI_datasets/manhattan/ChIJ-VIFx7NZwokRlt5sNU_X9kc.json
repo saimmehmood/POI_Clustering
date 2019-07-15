@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "1101",
+            "short_name": "1101",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "450",
+            "short_name": "450",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 33rd Street",
+            "short_name": "West 33rd Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2629",
+            "short_name": "2629",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450 West 33rd Street #1101</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-2629</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450 West 33rd Street #1101, New York, NY 10001, USA",
+    "formatted_phone_number": "(212) 716-5780",
+    "geometry": {
+        "location": {
+            "lat": 40.7530297,
+            "lng": -73.9994391
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75451838029149,
+                "lng": -73.9984139697085
+            },
+            "southwest": {
+                "lat": 40.75182041970849,
+                "lng": -74.0011119302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "15156930125479d9042a1821bee2ea73533efd7b",
+    "international_phone_number": "+1 212-716-5780",
+    "name": "Bet Tzedek Legal Services Ny",
+    "place_id": "ChIJ-VIFx7NZwokRlt5sNU_X9kc",
+    "plus_code": {
+        "compound_code": "Q232+66 New York, United States",
+        "global_code": "87G8Q232+66"
+    },
+    "reference": "ChIJ-VIFx7NZwokRlt5sNU_X9kc",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5185568756162420374",
+    "utc_offset": -240,
+    "vicinity": "450 West 33rd Street #1101, New York"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "450",
+            "short_name": "450",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 33rd Street",
+            "short_name": "West 33rd Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2603",
+            "short_name": "2603",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450 West 33rd Street</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-2603</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450 West 33rd Street, New York, NY 10001, USA",
+    "formatted_phone_number": "(646) 473-0100",
+    "geometry": {
+        "location": {
+            "lat": 40.753271,
+            "lng": -73.9992607
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7548068802915,
+                "lng": -73.9977808197085
+            },
+            "southwest": {
+                "lat": 40.7521089197085,
+                "lng": -74.0004787802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "1a1b5ce8d6565f0fcd262b71f69039e04e4bb7c3",
+    "international_phone_number": "+1 646-473-0100",
+    "name": "Albanian-American Chamber",
+    "place_id": "ChIJ-VIFx7NZwokRKzse9XyzjNs",
+    "plus_code": {
+        "compound_code": "Q232+87 New York, United States",
+        "global_code": "87G8Q232+87"
+    },
+    "reference": "ChIJ-VIFx7NZwokRKzse9XyzjNs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15820216940315425579",
+    "utc_offset": -240,
+    "vicinity": "450 West 33rd Street, New York"
+}

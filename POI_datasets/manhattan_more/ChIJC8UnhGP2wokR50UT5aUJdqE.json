@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "3496",
+            "short_name": "3496",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3496 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3496 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 926-0166",
+    "geometry": {
+        "location": {
+            "lat": 40.8247857,
+            "lng": -73.95113409999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261996302915,
+                "lng": -73.9499318197085
+            },
+            "southwest": {
+                "lat": 40.82350166970851,
+                "lng": -73.9526297802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "825ff8b517819b14e3a4d4e8615dfe65ad14de18",
+    "international_phone_number": "+1 212-926-0166",
+    "name": "Solace Bar & Grill",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 4:00 PM \u2013 12:00 AM",
+            "Tuesday: 4:00 PM \u2013 12:00 AM",
+            "Wednesday: 4:00 PM \u2013 12:00 AM",
+            "Thursday: 4:00 PM \u2013 12:00 AM",
+            "Friday: 4:00 PM \u2013 2:00 AM",
+            "Saturday: 4:00 PM \u2013 2:00 AM",
+            "Sunday: 11:30 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113701626631860471315/photos\">Solace Bar &amp; Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAiaZT0YDrxDhVWw4sNMz3enY5Czri9WqyBrYH3FIrh_SrGRbgeCsH8wg8v6twYNlFfTIX95jFySkgolBeEInCM5ut-AclceJ7Wap91g_6MxKd5aTXSYcBi-2ZzJtsbljPEhABt-mVWWjgMPxo8msnrCHkGhTgkSWbHDP0CR0SEJZwWdzzKKziYA",
+            "width": 960
+        },
+        {
+            "height": 1194,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAASNqZoya4fg_LIl_e2NDzPUZpAcEQxq4nWtTtmPmX0Ey5YO-Itz-nABfSzlK6YA0UmOXTPPl2uzZ2iFuvz6_mojxJSr7VTBcIMULyv1SLcukLGMXGgCRL4bf4m5fzQ0YDEhAWQZfbbo8lYbii5ikmnte1GhSDzh9pnfFphSvERcj3DWQ4yVklmg",
+            "width": 1200
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116794582591637884932/photos\">Maxwell Korn</a>"
+            ],
+            "photo_reference": "CmRaAAAAaEKPYB3-NM9vWuFMcLQbUIvAvzHEbCiQQZD3g7t65tKdP0zu1NLQmWzETCazjGj58-UZ1tn2JgbZJ3AW2lm-lv69P3g_jVtLEOcyH0QiwChfn8qvl6OlNVwAr5DvvQsaEhAaUIfENfkmi6k9AZ3u14beGhRpsem8FhTRF2Rw3kDNpn9UhFE6yg",
+            "width": 3024
+        },
+        {
+            "height": 478,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAAIinQAvhTFhgC6UxZ1bENpnAN-22JBuxez0r0ylwF2Db0NYzzld_GCC8szU6bR8eFnLhOTHMBuDHEkkM8QeXlrKyO2_v5lRyplOvPlNSYdcYHBIeT8oYf9gxyurhjOZgKEhBtmhj6hNU6Mn-u4R1iy5oaGhSYxc--64eDu3exWyTr6QQoYJWQcQ",
+            "width": 480
+        },
+        {
+            "height": 622,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAAkyZPyTa-ABdufqGpvuzs2DJocO_vsdpyv8HnJJbKGXRHbNrUfiOkYvX4Zw9kS8lKJ7lASAw5yYeD4gDrqsR7ymHP90-7RebS6FCTmh6CJ2aVyfiLEPpEjx6Q4FMizzgDEhBnt0kkiCzYf9-d9z7CLSk6GhTZJnKWSzZX-s0aP0Hw480hM3x7_g",
+            "width": 480
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113701626631860471315/photos\">Solace Bar &amp; Grill</a>"
+            ],
+            "photo_reference": "CmRaAAAAW5ndgHTMzxb0VuxD4rMh9mXfN2iBRajBiKgt8ykJq2OHdbqzxMvfvCWw4QuK6_l31YQ5_wiWuxMaygTSHkkQ_OZFi2hr-3ByE4TFNC3o3cTfywHQo5mVdNAr3nXutatDEhC-3G7pA9t5M_hMNlyjcoCCGhR0Qs3W_Y-gxdDb--GX74KwQaUxBw",
+            "width": 2048
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117941367064010738024/photos\">Toni Burrell</a>"
+            ],
+            "photo_reference": "CmRaAAAAWXqbma9ykRD3pOfDGd5p-GVrfyeK2dl5FVvZQ-HGRdGWrNjBdn3lRGIxLqu5uxrdJuzmZYP1UdEkE9ulSIwcypHWSGFFzg3e9PD4RVZl62mF_ZBL-ts038o6z29bW43vEhC5D6jf6xsthWtOSC-JfZZZGhSQ7KZWFv7OHNESdMDvmOWeHiCDyg",
+            "width": 3264
+        },
+        {
+            "height": 621,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAAH1Bo_qpCgjdJH-1Qa3PRcdSI40eAz9ij92FlIlHBSDOXYN5GBVrsWwLIBoeTQqxDAg7pB1lrn9bZceFTGctdGR9Gw2kvCo7kLu0VERYdjBW80RvtNce5a5QbJFunJhRwEhC18E1D87byfMuWQcyBcKOPGhRBt5KX5C8U4wZnZf7QW7-vpKpKeQ",
+            "width": 480
+        },
+        {
+            "height": 468,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAACy8_PSansUORLw_zePiZFjHgtbGnwVIJGVtdPfBPqlqBuORQUGtU0iPGuAYWcruT-50Wpa6bO-OuzIcyiI8XZoqm67p7awYDqm0cwJgw8iZhbgreOMgyzusCYjemFSBPEhAo9xNaMWJuXSVcZsJ_hPcMGhSeACF-9WDR0IJPWaG6MHq6nytGGg",
+            "width": 480
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952824167840775620/photos\">wolf Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAAjKRyxagBYzxKHfAZoDWMDdT8Q88SbmNjFfvgWTc5KKPWRFzrkL4FhARmywI0SFL_sQtX2psurcDdK_4cbjCtT9AfZhsKZtzeqj6NwtwQXsCmgavCD7t86y5o7Ve-BhjfEhCi5FoAxOCZjLc-TIqhxPehGhQ9M4FAuXKeBO6fjumyk4f6XqjZnQ",
+            "width": 787
+        }
+    ],
+    "place_id": "ChIJC8UnhGP2wokR50UT5aUJdqE",
+    "plus_code": {
+        "compound_code": "R2FX+WG New York, United States",
+        "global_code": "87G8R2FX+WG"
+    },
+    "rating": 4.1,
+    "reference": "ChIJC8UnhGP2wokR50UT5aUJdqE",
+    "reviews": [
+        {
+            "author_name": "Emmanuel Essien",
+            "author_url": "https://www.google.com/maps/contrib/116833775188994707338/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Z7GBYZXCmiA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfoDKDEjxqgkpN5AMbF7FJA3HNx9Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Stopped by for drinks, had great two for one deals and amazing food. They even let me customize my wings and hooked me up with sweet chili jerk wings! Definitely coming back, my new local favorite",
+            "time": 1560723824
+        },
+        {
+            "author_name": "Karla Camero V.",
+            "author_url": "https://www.google.com/maps/contrib/116477742967380276250/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EEeUebQ5q8Q/AAAAAAAAAAI/AAAAAAAAKd0/kF8r88pFCIE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent service. The food spectacular, we ordered three courses and delicious. And the waitress, Marlyn is wonderful, very kind and attentive. For the good service I will be back soon. Thanks Marlyn.\ud83d\udc95",
+            "time": 1557632663
+        },
+        {
+            "author_name": "Krist\u00edn Helga Magn\u00fasd\u00f3ttir",
+            "author_url": "https://www.google.com/maps/contrib/102565450904883514607/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Z89nHeIah3Q/AAAAAAAAAAI/AAAAAAAAAXQ/rOX0wTY7gY0/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "This bar turned out to be a pretty cool place in my neighborhood. Good to chill and talk over a drink and the drinks are very cheap. They have happy hour from 4-7pm and again from 10pm until midnight I think. So the cocktails are $6. Nice service, will go there again :)",
+            "time": 1551645334
+        },
+        {
+            "author_name": "Darkness Fallz",
+            "author_url": "https://www.google.com/maps/contrib/115989375330643297066/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-V_Gd6dqN6m4/AAAAAAAAAAI/AAAAAAAAAFQ/Hgn5dtY3BbA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Visited this spot for the 1st time. Very nice, quaint spot. Pretty good.......had a good time and the friendly staff was a plus!",
+            "time": 1558790834
+        },
+        {
+            "author_name": "CHERYL HURST",
+            "author_url": "https://www.google.com/maps/contrib/113474789442428672653/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-H4Eae629RTQ/AAAAAAAAAAI/AAAAAAAAD7E/kPBNSI2GV9M/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Johnathan was a great waiter. Went for HH. We ordered fries, wings (buffalo which were surprisingly crispy, I'm very picky about my wings !) & margaritas, sangria and the lobster mac and cheese($22) which was better than I thought it would be. I'd go again.",
+            "time": 1558483132
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "night_club",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11634497295475754471",
+    "user_ratings_total": 245,
+    "utc_offset": -240,
+    "vicinity": "3496 Broadway, New York",
+    "website": "http://www.solacebar.com/"
+}

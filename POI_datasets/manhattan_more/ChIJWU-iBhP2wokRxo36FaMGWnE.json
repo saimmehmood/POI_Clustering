@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 122nd Street",
+            "short_name": "W 122nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 122nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 122nd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8076788,
+            "lng": -73.9511969
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8090277802915,
+                "lng": -73.94845729999999
+            },
+            "southwest": {
+                "lat": 40.8063298197085,
+                "lng": -73.9539365
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d7ad28f36c77b2dfd2a41f2438fc4fa7784a5c3f",
+    "name": "201-299 W 122nd St",
+    "place_id": "ChIJWU-iBhP2wokRxo36FaMGWnE",
+    "reference": "ChIJWU-iBhP2wokRxo36FaMGWnE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+122nd+St,+New+York,+NY+10027,+USA&ftid=0x89c2f61306a24f59:0x715a06a315fa8dc6",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

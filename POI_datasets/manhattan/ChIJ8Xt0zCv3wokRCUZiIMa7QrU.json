@@ -1,0 +1,166 @@
+{
+    "address_components": [
+        {
+            "long_name": "558",
+            "short_name": "558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1704",
+            "short_name": "1704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">558 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "558 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(888) 242-5596",
+    "geometry": {
+        "location": {
+            "lat": 40.8232711,
+            "lng": -73.9891093
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8246724802915,
+                "lng": -73.9878793197085
+            },
+            "southwest": {
+                "lat": 40.8219745197085,
+                "lng": -73.9905772802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "af4c60ee3b51fbafaa48241b60fee4513a2cee27",
+    "international_phone_number": "+1 888-242-5596",
+    "name": "CFA Voice",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ8Xt0zCv3wokRCUZiIMa7QrU",
+    "plus_code": {
+        "compound_code": "R2F6+89 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+89"
+    },
+    "reference": "ChIJ8Xt0zCv3wokRCUZiIMa7QrU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13061208328949089801",
+    "utc_offset": -240,
+    "vicinity": "558 Anderson Avenue, Cliffside Park",
+    "website": "http://www.cfavoice.com/"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "271",
+            "short_name": "271",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 126th Street",
+            "short_name": "W 126th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4409",
+            "short_name": "4409",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">271 W 126th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-4409</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "271 W 126th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-3602",
+    "geometry": {
+        "location": {
+            "lat": 40.8108257,
+            "lng": -73.95028669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8121179302915,
+                "lng": -73.94897961970848
+            },
+            "southwest": {
+                "lat": 40.8094199697085,
+                "lng": -73.9516775802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05f591bfd0a99a402272fe54526df9a7d08f3c6e",
+    "international_phone_number": "+1 212-222-3602",
+    "name": "271 West 126 TA",
+    "place_id": "ChIJU1bMI232wokRXOGfujS0UEA",
+    "plus_code": {
+        "compound_code": "R26X+8V New York, United States",
+        "global_code": "87G8R26X+8V"
+    },
+    "reference": "ChIJU1bMI232wokRXOGfujS0UEA",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4634402155126579548",
+    "utc_offset": -240,
+    "vicinity": "271 West 126th Street, New York"
+}

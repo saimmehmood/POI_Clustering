@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "100-148",
+            "short_name": "100-148",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 100th Street",
+            "short_name": "E 100th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">100-148 E 100th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "100-148 E 100th St, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7887477,
+            "lng": -73.9497904
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79009673029149,
+                "lng": -73.94832524999998
+            },
+            "southwest": {
+                "lat": 40.7873987697085,
+                "lng": -73.95125545
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c582bb1a594923a0905edf0897bf6532072c7167",
+    "name": "100-148 E 100th St",
+    "place_id": "ChIJp7Wvl6dYwokRHGMYdufcOQ4",
+    "reference": "ChIJp7Wvl6dYwokRHGMYdufcOQ4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=100-148+E+100th+St,+New+York,+NY+10029,+USA&ftid=0x89c258a797afb5a7:0xe39dce77618631c",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

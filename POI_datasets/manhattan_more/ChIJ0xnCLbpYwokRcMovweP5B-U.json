@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4423",
+            "short_name": "4423",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 E 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4423</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 E 84th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 628-5593",
+    "geometry": {
+        "location": {
+            "lat": 40.7760082,
+            "lng": -73.95043989999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77720248029151,
+                "lng": -73.9492053697085
+            },
+            "southwest": {
+                "lat": 40.77450451970851,
+                "lng": -73.9519033302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "d8301bffd4a9a2eac53ccdb3e88ef9ce9a91ef87",
+    "international_phone_number": "+1 212-628-5593",
+    "name": "Spoke Search",
+    "place_id": "ChIJ0xnCLbpYwokRcMovweP5B-U",
+    "plus_code": {
+        "compound_code": "Q2GX+CR New York, United States",
+        "global_code": "87G8Q2GX+CR"
+    },
+    "reference": "ChIJ0xnCLbpYwokRcMovweP5B-U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16503434116116499056",
+    "utc_offset": -240,
+    "vicinity": "351 East 84th Street, New York"
+}

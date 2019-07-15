@@ -1,0 +1,142 @@
+{
+    "address_components": [
+        {
+            "long_name": "1200",
+            "short_name": "1200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Avenue at Port Imperial",
+            "short_name": "Ave at Port Imperial",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Weehawken",
+            "short_name": "Weehawken",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07086",
+            "short_name": "07086",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1200 Ave at Port Imperial</span>, <span class=\"locality\">Weehawken</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07086</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1200 Ave at Port Imperial, Weehawken, NJ 07086, USA",
+    "formatted_phone_number": "(201) 313-8899",
+    "geometry": {
+        "location": {
+            "lat": 40.77354599999999,
+            "lng": -74.011611
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77497793029148,
+                "lng": -74.01044576970848
+            },
+            "southwest": {
+                "lat": 40.77227996970849,
+                "lng": -74.0131437302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "04cd764c4fb7e1489ef963128e582b5c47c846d2",
+    "international_phone_number": "+1 201-313-8899",
+    "name": "Edgewater Cosmetic & Laser Centers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1272,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100879358901429594087/photos\">Edgewater Cosmetic &amp; Laser Centers</a>"
+            ],
+            "photo_reference": "CmRaAAAAPmrmqiA651eDjQz-Yokn_E6QsnEhUSfPPq3bLrjwlPAZopn9i6c4gIoqj7LDq2snTpO81dV7qFOxhGI9evDtQN70UgV8UAX2Qq5UdnYY5nDa0KJDaKsTIhNQ0K_B_pNWEhCJ-60IihL8a5YKOSUA0FdrGhQhHdCEfIZKIp23PN-oRVV07VUR-g",
+            "width": 1273
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100879358901429594087/photos\">Edgewater Cosmetic &amp; Laser Centers</a>"
+            ],
+            "photo_reference": "CmRaAAAAGv71ZjCRAxymuivTaoNaKVfd8QjTLVxF2kzRKJRoGrGAPvwZJIlUT0Nqaw4ONpR7XYJwCHJuczoeoXP92xpVUP6akv4JeP5JDpLcJM74ADgV1FEskBu3lc9UE5iC-f9oEhARCwVhWSvv7_UYInDYHzxtGhSV5JyQELNeGMnkfL10ZVGcKOp6qg",
+            "width": 960
+        }
+    ],
+    "place_id": "ChIJWcO8HVf2wokR5Q_UO-ZuZxY",
+    "plus_code": {
+        "compound_code": "QXFQ+C9 Weehawken, New Jersey, United States",
+        "global_code": "87G7QXFQ+C9"
+    },
+    "reference": "ChIJWcO8HVf2wokR5Q_UO-ZuZxY",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "spa",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1614380926560899045",
+    "utc_offset": -240,
+    "vicinity": "1200 Avenue at Port Imperial, Weehawken",
+    "website": "http://www.edgewatermedspa.com/"
+}

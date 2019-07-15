@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "100",
+            "short_name": "100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "La Salle Street",
+            "short_name": "La Salle St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">100 La Salle St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "100 La Salle St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81307109999999,
+            "lng": -73.9592414
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81456753029149,
+                "lng": -73.95778176970849
+            },
+            "southwest": {
+                "lat": 40.81186956970849,
+                "lng": -73.9604797302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "28f23c338c82a2e66e21c69940c7ea0a21005997",
+    "name": "Morningside Retirement Health Services",
+    "place_id": "ChIJVVXBg2r2wokRvi9WNcNfGWw",
+    "plus_code": {
+        "compound_code": "R27R+68 New York, United States",
+        "global_code": "87G8R27R+68"
+    },
+    "reference": "ChIJVVXBg2r2wokRvi9WNcNfGWw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7789362322532085694",
+    "utc_offset": -240,
+    "vicinity": "100 La Salle Street, New York"
+}

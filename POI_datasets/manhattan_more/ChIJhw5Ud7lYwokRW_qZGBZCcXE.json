@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1578-1596",
+            "short_name": "1578-1596",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1578-1596 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1578-1596 1st Avenue, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7746126,
+            "lng": -73.95102589999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77596158029149,
+                "lng": -73.94967691970848
+            },
+            "southwest": {
+                "lat": 40.77326361970849,
+                "lng": -73.95237488029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c22e61fbd2d3d4b93523b97edaa38cf75c9f3894",
+    "name": "1578-1596 1st Avenue",
+    "place_id": "ChIJhw5Ud7lYwokRW_qZGBZCcXE",
+    "reference": "ChIJhw5Ud7lYwokRW_qZGBZCcXE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1578-1596+1st+Avenue,+New+York,+NY+10028,+USA&ftid=0x89c258b977540e87:0x717142161899fa5b",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,329 @@
+{
+    "address_components": [
+        {
+            "long_name": "213",
+            "short_name": "213",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">213 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "213 Madison St, New York, NY 10002, USA",
+    "formatted_phone_number": "(212) 619-1848",
+    "geometry": {
+        "location": {
+            "lat": 40.712839,
+            "lng": -73.989226
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141290302915,
+                "lng": -73.98786916970849
+            },
+            "southwest": {
+                "lat": 40.7114310697085,
+                "lng": -73.99056713029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "83663f7ecc227c4d92396be9242fcd999db0d3f6",
+    "international_phone_number": "+1 212-619-1848",
+    "name": "McDonald's",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 12:00 AM",
+            "Tuesday: 6:00 AM \u2013 12:00 AM",
+            "Wednesday: 6:00 AM \u2013 12:00 AM",
+            "Thursday: 6:00 AM \u2013 12:00 AM",
+            "Friday: 6:00 AM \u2013 12:00 AM",
+            "Saturday: 6:00 AM \u2013 12:00 AM",
+            "Sunday: 6:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAAEkaf0vQ4zFlD5CwuppXN-VdI3cTW7LMd54AoOYSIyNSchAIXMT0_zqW_FRbH-0MBHImdRRtSae8qFgiYAsH2JjglmYQs61BwUi_Dwlkc4Flh_Eudj8_K9_6iZWWlM-AXEhAEqKs44GRy_V0-UBBIRyS5GhTb0Q44oScofmV_bmIBARQOLAuqOA",
+            "width": 1025
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101451008968078182655/photos\">Olivier A</a>"
+            ],
+            "photo_reference": "CmRaAAAAqvN7AICz5QwDlzdlqtMzOyWKHuOA442zqb_W8DNv-GV1a0SbsRMUpLZ73OOtyFFWdH7KCUNpj3jNaAhQ4b2ycUUqp0RPPRAUzEmVVwXAbOAx7s8r0IB1tzd85a-7UL9iEhAmmX7n06_bWVriuBjxPSAWGhTWmQwNJlXn0CE1a-Ji6bMYVhpn4w",
+            "width": 4896
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103737790538155814774/photos\">Rohit Bakshi</a>"
+            ],
+            "photo_reference": "CmRaAAAAopLSZoPmv79A5GfKIeHVFzoTn4teaY2jd1k15HaPoMnx_vN23_tapWXHRKg3YObKK_jA-X81Rd7w1ifxI050sX07EbEo2RNw5uBQaKr5SO4uM1N2O3xADyUDZH_pRlrbEhBRTaGpT8GArnubWRPlzkw6GhRZG9lNH5qqcFKUw5Y0Zto5ECZ_ow",
+            "width": 2988
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAAv8b4LHge8mQHAll2n0rdz_mLSooQjDwD4_c1KPiW5ELmQNeht7h2lK5h4v5Kzsd89aNzn9fdYJP36_JdhTcaOHoKWX3scbEtzbDQTZ53bZyx6F5JRxQrDXfgovrMn7dyEhA9irIab4a4N4Lpvo6KEAGBGhTIWSHFktB2K0JB5D6s0GvOji8BIA",
+            "width": 1025
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117490607693266482575/photos\">David W</a>"
+            ],
+            "photo_reference": "CmRaAAAAcPWV2BLWUCeCj8Z34MtebmPpQe5fh0i9gp9D3LbwNfN7PKl1gcce6-M_008KD9R7jR5R1casKCHw04101_chVweh9ul8iuadVg-7xiPnl_pQMfFUHwVMXxkCKMpWG9gWEhC7_FE-tasNbHypGZaDkNhgGhS7CxYwAFS0wdZjjteDBhL3lkUVKg",
+            "width": 4032
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAAxOl0TuRym7Vrllbac4Nj-pc5NCY1zMGVfMGuNc86FHx4JpqfgpiahYudraIQKOQQu8s-t1cdJbz9VR_Kykbgu6-fKlIs4Rc_oOEVU408I_FKHnPnREu--Rs_tNwJ3TcPEhBgfUwRtstN48nezUTLrg6UGhTsvibTbchIrXbsBrUtdWjQvLTnsQ",
+            "width": 1025
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAApHH1VLaljLUq49cRb2OA3bmtQdjMz2fNTdVL5N3Dzhd4JJRhS8q5SEyNkmqNfR26NTP44J71hrDK3r53jYCiyhlNgZnPm-b_MVEfMyMsQLFFN4uztapHQ1dwpZpM2HHnEhCl8yBcXRBxst317N6xgw7IGhQe8xbYffx_fKCWrAV0bO5FJ3Vkgw",
+            "width": 1025
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAA7BIrF6RGRWvNfwokgrNDskNjXa3uJ_HFDpfx8DvyDTENQmL5nVVvCYyGPZGC3ixZKfvkxxC1BcDxsHQjphsv_uIndxNPBBygizuQZ1KVbCpkuSkD9PnT5Afnhb5HftBiEhBlJ9ImOK39UVHYdWIT4eSGGhQTGvHOvgV_YdDH5S-xdI05Y8goMw",
+            "width": 1025
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112908928097176594649/photos\">McDonald&#39;s</a>"
+            ],
+            "photo_reference": "CmRaAAAAkEI3Jo9gdE8hVpl_QQWzYTkbjyhLXYsaXm8ZYueoqsU1QzqN258WZAsUm5VOPy4Dpn6Zarsds2lsxQ6AH0JSON7NzgR3tGujE51MqYrpikQUzfqo9CKSVTaYp2dLvAAFEhDTuh8K4sh3TAyLzuN4oWmDGhRf9NyhusX_f9vj49LPOxGZcd7Cvw",
+            "width": 1025
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100994096830356482311/photos\">\u9ec4\u6069\u8363</a>"
+            ],
+            "photo_reference": "CmRaAAAA7xfculJQgliBrbmFukR92Z7NODEV9Pm6dyyyGmILxeJHT7tdghb3AdUBOQ-Rq5EXXD6_ntum6Kt4EknQB7qvq9dh6NcJyQyOutrp_4U0y4_SKh_Qjgq6HLYXP32mY_8eEhCbcjWhVicx5LSXOHaNaPSRGhT_Uiyxju8hp9JbOSMJEuXWkqSMXA",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJDWjJYClawokRxD9k13W2Bdc",
+    "plus_code": {
+        "compound_code": "P276+48 New York, United States",
+        "global_code": "87G8P276+48"
+    },
+    "price_level": 1,
+    "rating": 3,
+    "reference": "ChIJDWjJYClawokRxD9k13W2Bdc",
+    "reviews": [
+        {
+            "author_name": "Xiomara Maldonado",
+            "author_url": "https://www.google.com/maps/contrib/106665316153062091716/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-LyW3Asa4d7A/AAAAAAAAAAI/AAAAAAAAE3k/IUzq7SFrFJE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Bring my grandma here because she loves the burgers and coffee. McDonalds on Delancey is nicer. This one doesn't have self service kiosks, service is slow because it's always so busy, and staff often have to chase drunks out.",
+            "time": 1559432065
+        },
+        {
+            "author_name": "Serafin Rodriguez",
+            "author_url": "https://www.google.com/maps/contrib/115093225464422773394/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gddvHGq5TEA/AAAAAAAAAAI/AAAAAAAAWic/msexSz6PcSI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Food is great during the day.Its In the neighborhood.its 24hours",
+            "time": 1562507600
+        },
+        {
+            "author_name": "Darnell",
+            "author_url": "https://www.google.com/maps/contrib/116609612425637140384/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-57HqFHSTbBQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re2Dj8IQbo2B1PBTWp69JvE9jtXSg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "The problem is not the service, it's the people that are served there... Loud and extremely disrespectful... A truly ratchet croud",
+            "time": 1560105773
+        },
+        {
+            "author_name": "Iris B. Torres",
+            "author_url": "https://www.google.com/maps/contrib/111719637529180356873/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5D8_X1UfZx4/AAAAAAAAAAI/AAAAAAAAALU/Zi88rlDHriI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "A little skimpy on the side salad, it was a half of salad.",
+            "time": 1561090508
+        },
+        {
+            "author_name": "Bob Jones",
+            "author_url": "https://www.google.com/maps/contrib/105910798044372293533/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ZVRkrl-cpm8/AAAAAAAAAAI/AAAAAAAAAJw/LslJqhJSOwQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I love the customer service and I loved the food and there were nothing bad happening in the McDonalds it was packed but I still loved it",
+            "time": 1556472949
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15493990710279159748",
+    "user_ratings_total": 682,
+    "utc_offset": -240,
+    "vicinity": "213 Madison Street, New York",
+    "website": "https://www.mcdonalds.com/us/en-us/location/NY/NEW-YORK/213-MADISON-STREET/29289.html?cid=RF:YXT:GMB::Clicks"
+}

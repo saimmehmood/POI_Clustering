@@ -3,7 +3,7 @@ import os, json
 
 def getData():
 
-	path_to_json = 'C:\\Users\\saim\\Documents\\POI_Clustering\\POI_datasets\\downtown_berlin'
+	path_to_json = 'C:\\Users\\saim\\Documents\\POI_Clustering\\POI_datasets\\manhattan'
 	json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 	#print(json_files)
 

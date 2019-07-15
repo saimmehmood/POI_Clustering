@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Lincoln Tunnel",
+            "short_name": "NY-495",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Lincoln Tunnel</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Lincoln Tunnel, New York, NY 10018, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7617905,
+            "lng": -74.006271
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76447360000005,
+                "lng": -73.99985235
+            },
+            "southwest": {
+                "lat": 40.75909759999995,
+                "lng": -74.01269695
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c82e2e92bf813433269bc8d2c18c691e7a3926ea",
+    "name": "Lincoln Tunnel",
+    "place_id": "ChIJhw-CdkpYwokRQKAVihYyZ7U",
+    "reference": "ChIJhw-CdkpYwokRQKAVihYyZ7U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Lincoln+Tunnel,+New+York,+NY+10018,+USA&ftid=0x89c2584a76820f87:0xb56732168a15a040",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

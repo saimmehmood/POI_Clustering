@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "138",
+            "short_name": "138",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 118th Street",
+            "short_name": "W 118th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1814",
+            "short_name": "1814",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">138 W 118th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-1814</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "138 W 118th St #1, New York, NY 10026, USA",
+    "formatted_phone_number": "(606) 465-0126",
+    "geometry": {
+        "location": {
+            "lat": 40.803781,
+            "lng": -73.950428
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8051944802915,
+                "lng": -73.9492355197085
+            },
+            "southwest": {
+                "lat": 40.80249651970851,
+                "lng": -73.9519334802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c654cf0aaf274fbbf8ec78d798498646a379578b",
+    "international_phone_number": "+1 606-465-0126",
+    "name": "Kyle Dixon Designs",
+    "place_id": "ChIJ80-TnhH2wokRXIfTwDeL8Y4",
+    "plus_code": {
+        "compound_code": "R23X+GR New York, United States",
+        "global_code": "87G8R23X+GR"
+    },
+    "reference": "ChIJ80-TnhH2wokRXIfTwDeL8Y4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10300166894347585372",
+    "utc_offset": -240,
+    "vicinity": "138 West 118th Street #1, New York",
+    "website": "http://www.kyledixondesigns.com/contactus.html"
+}

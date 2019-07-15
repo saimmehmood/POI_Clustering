@@ -1,0 +1,337 @@
+{
+    "address_components": [
+        {
+            "long_name": "1504",
+            "short_name": "1504",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7102",
+            "short_name": "7102",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1504 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-7102</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1504 Lexington Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 722-8959",
+    "geometry": {
+        "location": {
+            "lat": 40.786764,
+            "lng": -73.95064599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7880540802915,
+                "lng": -73.94919166970848
+            },
+            "southwest": {
+                "lat": 40.7853561197085,
+                "lng": -73.95188963029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "338e55dd3c935058f23451e54b2564110096ce63",
+    "international_phone_number": "+1 212-722-8959",
+    "name": "The Rochard NYC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 2:00 AM",
+            "Tuesday: 11:00 AM \u2013 2:00 AM",
+            "Wednesday: 11:00 AM \u2013 2:00 AM",
+            "Thursday: 11:00 AM \u2013 2:00 AM",
+            "Friday: 11:00 AM \u2013 2:00 AM",
+            "Saturday: 11:00 AM \u2013 2:00 AM",
+            "Sunday: 11:00 AM \u2013 2:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101569280846238003486/photos\">Pam Cheung</a>"
+            ],
+            "photo_reference": "CmRaAAAAyukFaIb_BlT8sbPPXAGAjexPjqlXOmV3Qyz7_44p5Dw2xzjovDr-GLvrojnZe6lfry0IrPc0n9l9bnLvplWT89udG0ZZfKamNw0ZB__pjJM0ATf9gI4vqhhIylQu53TIEhBAJE2dM3lrMQlyLn7yQ-HcGhQwDci1xHyfd-RpGwCj85FPrcBD_g",
+            "width": 4048
+        },
+        {
+            "height": 2417,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103040978327459867391/photos\">Eli Liu</a>"
+            ],
+            "photo_reference": "CmRaAAAAf0MnRqNnrZUo0zyWLQYN3PeabaCgN3Oc4CwnobO1WhgPx71mGeIVTJICau9nc7E0TEoB3IWC6UaaxpZb529xIOHl-QhpiN-yjfOFe2rFWRLVd1NI0-kLv3r0x2R-_7i8EhDAvGTQAo3Ia28YUEzCQbsHGhQHQY8sAaKGjwQsqnhZA9tKsv7Lqg",
+            "width": 4500
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101941738990436117323/photos\">Gregory Weiss</a>"
+            ],
+            "photo_reference": "CmRaAAAA3n8ORuqPp2Ckai7LREsCDr8zoRT15K7bmwFu6G3yOuab9I0t8jbp2p5PjGfrHvtyHS1HXUAq6eLlUVU8cJFiIeRMltDvhJgAShj-N6hsld6btl59ZDmculkJDMQVjmhBEhDldMJcf0O08FATTKO1mf-0GhSuYuyw9MEKbRDVTsNIdodCGTOasA",
+            "width": 4032
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101551454902598617948/photos\">Stephane Wenric</a>"
+            ],
+            "photo_reference": "CmRaAAAAEdzz6n8TxqnU0MVtOlHQIcf79cud9pDZnz_GuJByv2lLWOyX_yDfO2lU81qCvKl1sTrICp-2OXYJTRwWojvgKpnqa7QpM501HXkLJ4NYd7HiDAJkgsNEbf-hBANr76cREhBjbPIYyt1nkw85vRPS5ZrMGhSIVOCeyCSfm-5qVGonnlVrrVNvBQ",
+            "width": 4608
+        },
+        {
+            "height": 2708,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103040978327459867391/photos\">Eli Liu</a>"
+            ],
+            "photo_reference": "CmRaAAAAR_TUYKeLAV-T8LsS0V9m8dd2Nef0pVZQ-oc7ftD_F5Lx_3D32SZwsbRogIuCvcPKL8zrXv3rh0gz_eTzKpnDp2Gk-GujksxfKWqIvUPIPrAfT9_d6VlLIaXTiZhFGPK4EhAxWozrpSM0T-GyifqH1XNmGhRRR5CJObWrjRxY65jrqLruYxB2QA",
+            "width": 3820
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110906200038329750920/photos\">Natalie Diaz</a>"
+            ],
+            "photo_reference": "CmRaAAAApbevaXmonRkbkiHZ2togkS1Vajehbrm63kAsZhp7yZdotR_9vqrCjKV1liMM5M9sW54-NnVKt_O8O748qGR1j_eojOjVWr19T_vE6DAhJimdn_lpWtHKh1F6NrEr8LSZEhAyS1LjmHR9q1eUoKJLWzdUGhT4Jj14fOTVjpouh48wvY0SjTl-eA",
+            "width": 4160
+        },
+        {
+            "height": 2470,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103040978327459867391/photos\">Eli Liu</a>"
+            ],
+            "photo_reference": "CmRaAAAA0DjJLxOnq-gs3j31K9N5fKcZ8z0_AKdqtjR-Okcq5IgtCnh3vwwlvfjRVQzCTePFPLqyLnvlvwrYHamoLEhC87TXv0M0OzmKjvOAgpQ31qjfy_DzJi8BCbGKnzad1OqaEhAyNEHnyMiAx8kEpu7SWY1UGhTCpiRGFhgUeCJAFDQX2YKanjKIPw",
+            "width": 4500
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101551454902598617948/photos\">Stephane Wenric</a>"
+            ],
+            "photo_reference": "CmRaAAAA5HHSQHE8pTvaPm2SJJEnT1j5GTJecN7IfSmH8GNqkTjVB8kFZteXMB6vIA3dmcEnT90cek-Rt_qIt8T9xbMkqKbOXAT2e5fn-E_He-andryddnZnw5aOjlXIyXEkBsqfEhBIdoBjcDjorD43Y2wB78txGhR9pTcMABBZXgsoGODHBoBgnL5EYg",
+            "width": 4608
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111791814210971064400/photos\">James Davydov</a>"
+            ],
+            "photo_reference": "CmRaAAAA2S9wB1kHpkTlRUEaG7JffCWUG7_wEAdeYawKzk7fTBluP0XpoethnLCRTB27iAAZ3G9loPWOQbnkShGAHgZqkmTgQ-w97dVu95d-wcE5rZdeDFAUsyPc47c8_JCzON24EhCpY2JnlGFt_dVvhFhl778lGhQssoklSN9PjI0Wx1cPfBdhyjQTZA",
+            "width": 2268
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115717287216922922649/photos\">Brian Duffy</a>"
+            ],
+            "photo_reference": "CmRaAAAANHyR-CvKem5CH8wdp8s-Xe2Y-OZQ_RFj2ooddvzopCiLhowZQbSNNBz4W5ojUnpohU_uC8qMWbwZRmOpMpbkdftUKYeZyWHqLuJ8xp-DGLfkyWWNH4nDdTvdhHiB3MDAEhAZAnfJmFmcwcOvVeGDp1b6GhTzPiNvJdaIUoi7G1Jtw3zJioiwtA",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJR2OHWKZYwokRhjoGh8OmPyA",
+    "plus_code": {
+        "compound_code": "Q2PX+PP New York, United States",
+        "global_code": "87G8Q2PX+PP"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJR2OHWKZYwokRhjoGh8OmPyA",
+    "reviews": [
+        {
+            "author_name": "Stank Wolf",
+            "author_url": "https://www.google.com/maps/contrib/112609203501767411664/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-q9gNrqf0YdQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf6_GswVdtTpjbzDlpkZ-s_1L9sJA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I go for the all day brunch and the happy hour that includes a free beer. Nothing makes the loneliness of eating a bar alone a little bit better than free alcohol. Didn't I mention my girlfriend in my past review? Why do I always end up here alone?",
+            "time": 1554602362
+        },
+        {
+            "author_name": "Zoilyna Pastor",
+            "author_url": "https://www.google.com/maps/contrib/101907865793643289704/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NHZ6H-3FCec/AAAAAAAAAAI/AAAAAAAAEYI/Vu5RsLAkbSA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Stumbled upon this place and I think it\u2019s our new go to spot. Their food is delicious and they have such a great selection of beers. Their cocktail drinks are also great. The vibe is so warm and inviting. They are short on staff it seems but that never once affected the service. It\u2019s a small place but doesn\u2019t feel cramped. Even on the weekdays there are people here. They have weekly events such as trivia night, taco Tuesday, etc. It\u2019s a fun great place. Definitely recommend.",
+            "time": 1551331231
+        },
+        {
+            "author_name": "Ian Barry",
+            "author_url": "https://www.google.com/maps/contrib/102735446592572286879/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NY-577HLtBA/AAAAAAAAAAI/AAAAAAAAgaQ/MyLfOe3hsoI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "I was pleasantly surprised by the quality of food at this neighborhood establishment. As you might expect, the happy hour was a perfectly good deal, the service was prompt and pleasant, and the atmosphere was open.\n\nSometimes I go in and read at the bar, other times I meet my friends for drinks. Most recently I used it for dinner in a pinch.\n\nWere I to have any substantial complaint, it would likely be that the food could cost a tad less for what I think it is, and the fried pickles (and veggies) could be larger, with more pickles. In all honesty though, I don't think there's much to complain about; solid weeknight option.",
+            "time": 1549702118
+        },
+        {
+            "author_name": "Jat Sandhu",
+            "author_url": "https://www.google.com/maps/contrib/101468179859859245270/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3h0L7Dy9k-4/AAAAAAAAAAI/AAAAAAAAbnw/My37na8q8bY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "First time trying watermelon beer and it was great!  I hope to find it again soon",
+            "time": 1561159357
+        },
+        {
+            "author_name": "Eli Liu",
+            "author_url": "https://www.google.com/maps/contrib/103040978327459867391/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Lo9OaJEvZZk/AAAAAAAAAAI/AAAAAAAAABA/RDHppFpj0w4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I liked the food and beer options here. Came to have a lunch during weekdays, we enjoyed our food and drinks.",
+            "time": 1558295611
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "liquor_store",
+        "bar",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2323759291460631174",
+    "user_ratings_total": 190,
+    "utc_offset": -240,
+    "vicinity": "1504 Lexington Avenue, New York",
+    "website": "http://www.therochardnyc.com/"
+}

@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "1961",
+            "short_name": "1961",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1961 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1961 Adam Clayton Powell Jr Blvd, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 665-3906",
+    "geometry": {
+        "location": {
+            "lat": 40.8046282,
+            "lng": -73.9512745
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80599648029149,
+                "lng": -73.94997336970849
+            },
+            "southwest": {
+                "lat": 40.80329851970849,
+                "lng": -73.95267133029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "77ac40a875c59dd192f32398311dd122f98ba043",
+    "international_phone_number": "+1 646-665-3906",
+    "name": "The Monkey Cup",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 7:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103228519422540832489/photos\">Marcus Withers</a>"
+            ],
+            "photo_reference": "CmRaAAAAWiJhKmP1NV7typvuw59eEXA1wW5_ki767g1ueP2h4MQPMqAIwHmMjtSJz0TkoPM_eLTiokWVcIH-DA-abThjutfwB5D5LEBA4IcP8AW141mjgdtWeBzG_YlVd05PQxFpEhA7yjd1MEwEi1uonY8BgR3FGhTGYma596rVVCm3SoslPiInqfnkIw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114899722066510638084/photos\">Osvaldo Valdes</a>"
+            ],
+            "photo_reference": "CmRaAAAAnjLOABa5HkzasvJYxhL18NmcOug2DVae9thG-jY8YDkGl4hHqT5TZQlqWrH6lq6PNA5rHl_F7T0rnWcC_unk2icxmhYKqMA-WYUjJR677DBz1IMHB55NilXGnrsswvasEhBYr6x4siCb0vVMVU5PwK4jGhR_poBsfo0cJWKoaAio_XyTQb2PWA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100748076339258511251/photos\">Diego Anton</a>"
+            ],
+            "photo_reference": "CmRaAAAA2KnSaaJAjxhUzGKKHUGi0mKyah0tO8vwEGJK_SNhTUnXmYy5htSC-YmqLwDQVBB9QhEdTpbViGQwqrV7-1SpJcNNQkwjxq-Uwx2Y4s29vCQ9aCw8KWU64DGK9JQ4IWAWEhAXVXkBNDAnX11H0Xb9ulwSGhTKSfuUeqdmlJ4PBTvbuq-aZzzHTA",
+            "width": 3024
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111130123654042503332/photos\">Cody Kanz</a>"
+            ],
+            "photo_reference": "CmRaAAAAXwzOwESwFhhn3_zMowb8Mp3lvUZ3GDKDgkvAqOydQya39FBQP94duHIw5FZqGKU7QINe7kYia3Kx7lNgAeZ67Zjta9B3QYAE4a7IEGgnDSeSvUyR4i8jXd041SGMPMkZEhDv2ll_zZHbEB5DWV9zzqqxGhS3C5C4yQPtHhEZFIH50itU3vPZEQ",
+            "width": 2448
+        },
+        {
+            "height": 3738,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104969913355801461503/photos\">Matthew Suozzo</a>"
+            ],
+            "photo_reference": "CmRaAAAA7aB4cQoSuNH8rCIf2eTIiD9qeXvZOr8Nbl9q1KXhA0YK3r2D23-_AHKE5CDBUi69F5yXprir0QE7Xv-xenuq4jSsGsB36b93WzldvBXe8J7e8eBCkL9wKqHLpRjXLUBLEhAkGwY4Ix-RcOap3jvDooIdGhTIALV8Xml4BwXJbR-jNJgG7rejbg",
+            "width": 2835
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111030301821772507433/photos\">Latifa Al-Shaikh</a>"
+            ],
+            "photo_reference": "CmRaAAAA0_UzCm73ku3Hn7yXUN2RlG6ISK2uNZcBIi_W74FCZahEyjMYtaD4yYOhRU5QMkx4SRY56yk8QOd6RtYfulmv65V4AorOA8tF4bb3KqbVG4PmkuSPR5lWXAEW5X9YNK-PEhBQIw26vhruqbLSAkI4hXSfGhR0QQImb-UHniI85-Qrndm2O9MwRg",
+            "width": 3024
+        },
+        {
+            "height": 3904,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107382610679855429570/photos\">Kate Kosaya</a>"
+            ],
+            "photo_reference": "CmRaAAAAl_ISYMljOYBRjzGf6q9VHtIbhVE_u0Ot1ZNYF7qQDjzcSl7mxuaqxoByE1mFWaTPRHgUJUzi7QYUh2-PwhrDLpLpgBbNbaeydTagCflUl8UbsnHspma4j2KOPMLSmlhfEhAV3KlBdVS-sXuZfLzLR0OCGhQW7H0ALvghJtSEZ95EDAoUpJEiQg",
+            "width": 3024
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116958771958962552747/photos\">Jasmine Bayron</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Owt_lk2hFHbBB2swXrHPvOHi5VotuytpB1_ZRfkUYooslF9Axua2Tya8MEMnGmbeLtuKtlOXpvAWlynUhEyinSO7wDfF01zJd_MO8kHRFa7JI8VPzBbXoG-jfRg3vI0EhCprSOhMtVGUkXSwX5CcHSkGhTlGvswWTwyftVnR3Oy2vsPA4sekw",
+            "width": 3120
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106306292977778357283/photos\">Lisa C</a>"
+            ],
+            "photo_reference": "CmRZAAAArWOwA1d5n6frcsGNQyKDBqn-VHXITssINK2KQjxi68X05vj823S_GJuRiNGk9G2yY70iCtbL4QHFrZAQZpPmNCiBqvyhc9CCeSZRqDY6K1LS0k7pbVJzyYvjrhzVt5y9EhCv_c7rDokuXRmw89M1SylxGhS3Z1TLU-ectM3FR0o9NfB85EOIZg",
+            "width": 1080
+        },
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100740174461358323210/photos\">Aytan Taghiyeva</a>"
+            ],
+            "photo_reference": "CmRaAAAAPADiiTV0bVAyYVhOy4hPD1nDwcy8bt-PUNG7ix5ZJMUOCNHBI6UOJjB8Bu_P3qHSOhdSRm8hPEHSpxwY0DcQ0AWMuu5k_jB4uX0wHU3BjYTTf9eEizjTgdopRHTEp-H5EhD1PEicH-yGjc3ZcoSNhUA7GhS7XzzlNpyUG9NDGHQ8kzy_CdBu3Q",
+            "width": 4096
+        }
+    ],
+    "place_id": "ChIJEVVgiCz3wokRjVxrVqLaxcw",
+    "plus_code": {
+        "compound_code": "R23X+VF New York, United States",
+        "global_code": "87G8R23X+VF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJEVVgiCz3wokRjVxrVqLaxcw",
+    "reviews": [
+        {
+            "author_name": "Leah Watson",
+            "author_url": "https://www.google.com/maps/contrib/118188605803714220919/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/--WT7NvKbj-o/AAAAAAAAAAI/AAAAAAAAAaA/UkIlkDFhSM4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "This place is fantastic. The coffee is fresh and delicious, the menu is sizable with plenty of milk options (including almond, coconut, soy, and cow), and the staff is friendly and talented. The pastries are also amazing - especially the apricot danish. \n\nThe atmosphere is great, with leaves lining the ceiling and a substantial tree-shaped bookcase covering the side wall. There is a sense of community and care in the shop which is the quintessential Harlem experience.",
+            "time": 1561518602
+        },
+        {
+            "author_name": "Kristi Ndoja",
+            "author_url": "https://www.google.com/maps/contrib/116497441708574840966/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1b4muVvc6nM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcy9SxE5v6Uv_YzkqcvX-4FWqM_8A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I super like the design and the furniture of this place. I think is a gem of this neighborhood. I took for 3$ the Fruits Monkey Tea, which was an infusion of mixed dried fruits... just DELICIOUS). BUT after 2 hours it became too cold (summer season) so I don't think I am going back to study for a long afternoon.",
+            "time": 1562359636
+        },
+        {
+            "author_name": "Diksha Brahmbhatt",
+            "author_url": "https://www.google.com/maps/contrib/102422117278229210053/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SW2eZWeQM5Q/AAAAAAAAAAI/AAAAAAAAAD8/zvW-uKI6P4Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "GREAT coffee, great prices (a bit more reasonable than the typical Manhattan coffee shop), and even better vibe! This will definitely be my go-to spot to get some work done, meet up with friends, or stop by for a weekend morning latte. The interior looks like a tree house and the ceiling is covered in leaves. \nThe iced matcha latte is so yummy! Milky and a bit sweet. The cappuccino came with cute monkey art!\nThey also have outlets, wifi, and a decent amount of seating.",
+            "time": 1561227597
+        },
+        {
+            "author_name": "Diego Anton",
+            "author_url": "https://www.google.com/maps/contrib/100748076339258511251/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BBo94WPR6mM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcMRvPetnmtg4XUN3selFSxy7v7tg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best coffee we had whilst our visit. We absolutely loved this place plus the guy that served us was incredibly nice. The care they put when making coffee is incredible plus the quality of the coffee itself is top notch. The venue is also incredibly nice and prices are reasonable, which is a lot to say when in Manhattan!",
+            "time": 1557945753
+        },
+        {
+            "author_name": "Brendan Parent",
+            "author_url": "https://www.google.com/maps/contrib/103039210007306191519/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aVpozt2GF4A/AAAAAAAAAAI/AAAAAAAAEKg/D8x4cKcJp70/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best coffee shop in Manhattan. \nWarm and transporting environment. Knowledgeable kind and efficient staff. The basics are delicious, and they also have one of a kind coffee and tea drinks. \nSocially responsible business, thoughtful about environmental protection and species conservation.",
+            "time": 1557780447
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14755440144918731917",
+    "user_ratings_total": 58,
+    "utc_offset": -240,
+    "vicinity": "1961 Adam Clayton Powell Junior Boulevard, New York"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8056948,
+            "lng": -73.95096649999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8070290802915,
+                "lng": -73.94957221970849
+            },
+            "southwest": {
+                "lat": 40.8043311197085,
+                "lng": -73.95227018029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "ea0520fc5b606185ac4b0acb05ccc9d7500feb5c",
+    "name": "Adam C Powell Blvd/W 120 St",
+    "place_id": "ChIJAdLPzRP2wokRSb1dORJlfZM",
+    "plus_code": {
+        "compound_code": "R24X+7J New York, United States",
+        "global_code": "87G8R24X+7J"
+    },
+    "rating": 3,
+    "reference": "ChIJAdLPzRP2wokRSb1dORJlfZM",
+    "reviews": [
+        {
+            "author_name": "Zeco Burt",
+            "author_url": "https://www.google.com/maps/contrib/110954207087453169505/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-H9kXtf3XVpY/AAAAAAAAAAI/AAAAAAAAHOs/fulVc4Iu_MU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Working ",
+            "time": 1477915133
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10627761824610499913",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "123",
+            "short_name": "123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "4th Avenue",
+            "short_name": "4th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4935",
+            "short_name": "4935",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">123 4th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-4935</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "123 4th Ave, New York, NY 10003, USA",
+    "formatted_phone_number": "(212) 668-0808",
+    "geometry": {
+        "location": {
+            "lat": 40.7329659,
+            "lng": -73.989638
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7343389802915,
+                "lng": -73.9884535697085
+            },
+            "southwest": {
+                "lat": 40.7316410197085,
+                "lng": -73.9911515302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c83c4ed24b8f1d441ffe86eef67683fea1c56b4e",
+    "international_phone_number": "+1 212-668-0808",
+    "name": "Spire Integrated Design Inc",
+    "place_id": "ChIJXWr5O5lZwokRvmaccvzopNQ",
+    "plus_code": {
+        "compound_code": "P2M6+54 New York, United States",
+        "global_code": "87G8P2M6+54"
+    },
+    "reference": "ChIJXWr5O5lZwokRvmaccvzopNQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15322628003173525182",
+    "utc_offset": -240,
+    "vicinity": "123 4th Avenue, New York",
+    "website": "http://www.spire-id.com/"
+}

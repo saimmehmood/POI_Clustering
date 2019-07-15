@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "3515-3501",
+            "short_name": "3515-3501",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5622",
+            "short_name": "5622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3515-3501 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3515-3501 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.82550519999999,
+            "lng": -73.9512641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82685413029149,
+                "lng": -73.94991511970849
+            },
+            "southwest": {
+                "lat": 40.82415616970849,
+                "lng": -73.95261308029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1f7221f458036a44c342b079f79313ae100a5d77",
+    "name": "3515-3501 Broadway",
+    "place_id": "ChIJcY-5m2P2wokRRZemfM6elNs",
+    "reference": "ChIJcY-5m2P2wokRRZemfM6elNs",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3515-3501+Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f6639bb98f71:0xdb949ece7ca69745",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

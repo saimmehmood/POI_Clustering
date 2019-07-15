@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 603",
+            "short_name": "# 603",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "525",
+            "short_name": "525",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4411",
+            "short_name": "4411",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">525 Broadway # 603</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-4411</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "525 Broadway # 603, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 925-7600",
+    "geometry": {
+        "location": {
+            "lat": 40.7230378,
+            "lng": -73.9991403
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7243258302915,
+                "lng": -73.99766841970848
+            },
+            "southwest": {
+                "lat": 40.7216278697085,
+                "lng": -74.0003663802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a30d7b47199e26bbce6fcd2ddefa160ba98a5fed",
+    "international_phone_number": "+1 212-925-7600",
+    "name": "Harrington Inc",
+    "place_id": "ChIJ1371tY5ZwokRHLhR-7rm_6I",
+    "plus_code": {
+        "compound_code": "P2F2+68 New York, United States",
+        "global_code": "87G8P2F2+68"
+    },
+    "reference": "ChIJ1371tY5ZwokRHLhR-7rm_6I",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11745360043960285212",
+    "utc_offset": -240,
+    "vicinity": "525 Broadway # 603, New York",
+    "website": "https://www.harringtonconstructionny.net/"
+}

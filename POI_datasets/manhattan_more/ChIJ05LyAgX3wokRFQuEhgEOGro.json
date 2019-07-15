@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "2367",
+            "short_name": "2367",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2367 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2367 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 644-4902",
+    "geometry": {
+        "location": {
+            "lat": 40.81170120000001,
+            "lng": -73.9504248
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8129901302915,
+                "lng": -73.9489314697085
+            },
+            "southwest": {
+                "lat": 40.8102921697085,
+                "lng": -73.9516294302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7f39beff1ad3637d32119cedde868808b3c9f7ee",
+    "international_phone_number": "+1 646-644-4902",
+    "name": "WriterJudy",
+    "place_id": "ChIJ05LyAgX3wokRFQuEhgEOGro",
+    "plus_code": {
+        "compound_code": "R26X+MR New York, United States",
+        "global_code": "87G8R26X+MR"
+    },
+    "reference": "ChIJ05LyAgX3wokRFQuEhgEOGro",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13410046240163629845",
+    "utc_offset": -240,
+    "vicinity": "2367 Frederick Douglass Boulevard, New York",
+    "website": "http://writerjudy.com/"
+}

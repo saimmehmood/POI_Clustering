@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "Somerset Lane",
+            "short_name": "Somerset Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Somerset Ln</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Somerset Ln, Edgewater, NJ 07020, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8038786,
+            "lng": -73.9911248
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8052617802915,
+                "lng": -73.98974741970848
+            },
+            "southwest": {
+                "lat": 40.8025638197085,
+                "lng": -73.9924453802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a4f8df1cae6e2797a251dcb75ae5f9db97e69837",
+    "name": "The View North | One Main Street Edgewater Harbor",
+    "place_id": "ChIJxetxsNH3wokRbLBZskpz6hY",
+    "plus_code": {
+        "compound_code": "R235+HH Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+HH"
+    },
+    "rating": 5,
+    "reference": "ChIJxetxsNH3wokRbLBZskpz6hY",
+    "reviews": [
+        {
+            "author_name": "Odalys Betancourt",
+            "author_url": "https://www.google.com/maps/contrib/105236491377251973703/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-CqSkH_eYYFI/AAAAAAAAAAI/AAAAAAAAEq0/9KzjYBxIdos/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1527441768
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1651258978041704556",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "Somerset Lane, Edgewater"
+}

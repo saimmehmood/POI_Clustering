@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "247",
+            "short_name": "247",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 37th Street",
+            "short_name": "W 37th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">247 W 37th St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "247 W 37th St, Brooklyn, NY 10018, USA",
+    "formatted_phone_number": "(718) 858-2437",
+    "geometry": {
+        "location": {
+            "lat": 40.7028278,
+            "lng": -73.9893866
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7041802802915,
+                "lng": -73.9881486697085
+            },
+            "southwest": {
+                "lat": 40.7014823197085,
+                "lng": -73.9908466302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dc3f21f9e09353c715097023ad80b300ac1b56fa",
+    "international_phone_number": "+1 718-858-2437",
+    "name": "National Elevator Inspection",
+    "place_id": "ChIJZaiaZzFawokRep5W8OMUi44",
+    "plus_code": {
+        "compound_code": "P236+46 New York, United States",
+        "global_code": "87G8P236+46"
+    },
+    "reference": "ChIJZaiaZzFawokRep5W8OMUi44",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10271326344370888314",
+    "utc_offset": -240,
+    "vicinity": "247 West 37th Street, New York",
+    "website": "http://www.us.bureauveritas.com/home/our-services/elevator-inspections"
+}

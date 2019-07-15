@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "606",
+            "short_name": "606",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 145th Street",
+            "short_name": "W 145th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5001",
+            "short_name": "5001",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">606 W 145th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5001</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "606 W 145th St, New York, NY 10031, USA",
+    "formatted_phone_number": "(800) 964-3360",
+    "geometry": {
+        "location": {
+            "lat": 40.8265121,
+            "lng": -73.9510974
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8279395802915,
+                "lng": -73.94969376970849
+            },
+            "southwest": {
+                "lat": 40.8252416197085,
+                "lng": -73.95239173029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "970fc19c8c716f103cdae0e457e9d83826b9af53",
+    "international_phone_number": "+1 800-964-3360",
+    "name": "NYC Rooms 4 Rent",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:30 AM \u2013 5:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100737108473583729180/photos\">Gerard Davis</a>"
+            ],
+            "photo_reference": "CmRaAAAAgFpidxJZkqOy8rSAg2xA63pKCernRDO9x2pnt4Ymii3nl2Pto0oSOP5ko_Q09435iGeumRlKf9_PwtfTtzYpOF1geHa7WplzMcwtwHvd_5enb2utw2nkE_B0qMnWXtn2EhA4Xld4MF-Fz-z2ZE0qnrhNGhS5qI9wlmlWzGAJITDrA37RmSzqbw",
+            "width": 3264
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103014938397807496702/photos\">jawid Haseq</a>"
+            ],
+            "photo_reference": "CmRaAAAAQOL9bEo8TTqi6ywkwaNknUznRp-KrM9Oy5PTzhj8tIMEQb65dM7va7N09z6uALFqCo1NPs76_QdYwQ-KyqZD8ENXLWlvJxW-3haBgKpCh0QaQL0iUqHGzX0eYuzuXTfSEhChFI0WyOPMZDR9g8QgXJGNGhSQZ72B33ZDzPYrUGZIrfJgoGUZNw",
+            "width": 480
+        },
+        {
+            "height": 3042,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100496231846875287237/photos\">CJ Gershon</a>"
+            ],
+            "photo_reference": "CmRaAAAABUomM-gU3dLDugo-Of9HXFwb_lGhJu16np30RL6nXiVuElLQ1vYYFtZpn3n4E1ipHu38_Jnt1KrXh2AnZXw4KtyxAsEAQPSy35oRpfCEOELc2unmD44PQD-Ht_VGPHqLEhBDml7IXt7yzbjcAKDw9d8sGhSrEiU13OOUpS1PDMLmw-XLLVk0Xg",
+            "width": 3802
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106733267949419912476/photos\">Spencer Reid</a>"
+            ],
+            "photo_reference": "CmRZAAAA2ucderjn5kXl2XW9uMN4lpJUy2T7GrVWfq3y4yYc7uDYiSZU2a-2kc1DciMyCu3ZV9bNvLkUncZgOLY2CqwI47BJuxYZ2M33gRU9Jcs3s4WRhjDaxEdW8XQYkCeeyri4EhCI6IuZfEB6-o856NTAZ8XUGhSfOVZWTsF7HMjqTTrtcyDh1z4Qbg",
+            "width": 2340
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114952869281770642238/photos\">Washington alvarez</a>"
+            ],
+            "photo_reference": "CmRaAAAAls5BtBjSBo165lTebgq7LL0vWOItF5jcXEWSyo0LiLHSn1fTAPj3-vJJW027uvJxDIYRX2MQrw5aZE6Hdq6b2HXSouOLQc-ktDikb2WTgRYjkS22Mph38cbN80xZPW9aEhATU8KDZJ0a_vbiD8Od0zFzGhQLxwrlCPIX6soVWIsUv32GddRsHA",
+            "width": 4096
+        },
+        {
+            "height": 336,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110044289304057232302/photos\">NYC Rooms For Rent</a>"
+            ],
+            "photo_reference": "CmRaAAAA32W7LAlG-pxkEk48wSZdOOaRiDAkYGGCEqf5ger1S-oQ3rKvCe3xnkiWMBkvnir633GIjo-9iTbMUWCM3T4sFQ0FSCCrfQ3jQsy9i5dd5lv394bEdx2BwjoGXwo4L-_5EhC7paO_o0PdwclIOoVVvBd1GhQVGiPDhS-1YFsdnxc9ylMsoyEb1A",
+            "width": 448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100737108473583729180/photos\">Gerard Davis</a>"
+            ],
+            "photo_reference": "CmRaAAAAFApnNr82UOkVNwImI991pSz0-eZxZFkS6smDu_A_meAJUkKkI0Aeqjh2_MaK58NLffpceXY0Wj8VClvjQV_BXrHTGQJpoBBI5bthizxR1vGxkCNDrG10PQFdhsUH6wYyEhCURy3Gd6rBvc_iIMuVktqVGhQ9T15jZI2KWRA2EuE2rXArlzaXIw",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100737108473583729180/photos\">Gerard Davis</a>"
+            ],
+            "photo_reference": "CmRaAAAASgNJSXhoZ1EerC-R1J57NPUYNx9H_775eo2D-bQPN4Wu7ZqW--NBRJWLmI_kQtqsRGgu5B5OeDVpn3RGkLLDNbWvMt0Uxrw4_m7Z240D1C2L2uvV3TUydiA4NpPHmCs0EhCiPEVhMTn-U5VU61Uu6YpzGhQ5Nb4z9ktl4zR1SxG9JrceMAI-yA",
+            "width": 2448
+        },
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114952869281770642238/photos\">Washington alvarez</a>"
+            ],
+            "photo_reference": "CmRaAAAAIIGwibLdW5dPKfvakXa5dsuLn2LFFpMuX2ViAqpBUE8cf0QvZyYqYnVbebxwboQLOQj31M99rvhN-A06MK2ysRnpygKu6lb_h5iQFfHoZdaYYGLjfn_JSnUglwrW_9G3EhDPGYWW5dSJ_bJJQ2ErTjv7GhQHmIrJeq5FbdpbZB6C-pKsMl8Isw",
+            "width": 4096
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100737108473583729180/photos\">Gerard Davis</a>"
+            ],
+            "photo_reference": "CmRaAAAA7GYSYm-20WdIw86BlmURu8Y7aOQJMK1cWbp-VvwiME8vuxKoLmvMIzX5DSjLhsVLzU5ugfe1O7SSkYaB1pRQE1KNOq1w0iH3uAobuFP0vBqbarwX-5ikx_nycPyYt98XEhBt31pUZvmtU01OgoTlr6xKGhQ_3Hwf6ZButAQGBR5qg3arZd8vhg",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJZ91Kr2P2wokRT7gNclbv6s4",
+    "plus_code": {
+        "compound_code": "R2GX+JH New York, United States",
+        "global_code": "87G8R2GX+JH"
+    },
+    "rating": 3.1,
+    "reference": "ChIJZ91Kr2P2wokRT7gNclbv6s4",
+    "reviews": [
+        {
+            "author_name": "malcolm thomas",
+            "author_url": "https://www.google.com/maps/contrib/109287831395923885066/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7h-8VbtRiME/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQjSUXx1-TjEcSXCCsjVyuFPNAUQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "To be honest the first time I was looking for a room in the beginning of this year I should had went there to begin with. Erica was very helpful help me got a room just like that the service was definitely what I expected to be. 5 stars up in my book\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "time": 1561162457
+        },
+        {
+            "author_name": "Kevin Ponc\u00e9",
+            "author_url": "https://www.google.com/maps/contrib/116768870469403267156/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-943KJ8cZbww/AAAAAAAAAAI/AAAAAAAAASI/ZrQggLxKnsM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great kind and fast service. First room presented was a keeper. Thank you very much and especially to Jessica the agent.",
+            "time": 1559015440
+        },
+        {
+            "author_name": "Kenneth Riddick",
+            "author_url": "https://www.google.com/maps/contrib/113291338768404116035/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-x0BXUz5pMWA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqNlhGmu4Azb4bYlOb-1Q1kg0AQg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I have used several different rooms for rent places-es since moving too New York City, none have been more professional, hospitable or accommodating as NYC Rooms for rent.. The staff is very friendly and have great phone etiquette, Erika Martinez is exceptional!!! i would, and i do, recommend them to anyone in need of a room and great service. Keep up the good work!!!!!",
+            "time": 1547744078
+        },
+        {
+            "author_name": "Tiffany Ramirez",
+            "author_url": "https://www.google.com/maps/contrib/101629721412581297250/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-d-Oj_Zg5akU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfQtgkhVYH2bcWBiEu1ZUvKN8arpA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Wonder full staff especially Erica, she helped us get a room that same day. i recommend this service to anybody who needs it.",
+            "time": 1562261251
+        },
+        {
+            "author_name": "Ramon Delarosa",
+            "author_url": "https://www.google.com/maps/contrib/111554068393522465897/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rH_anGwgJGg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re24jZ0N2IcC9-yL56dZihQpmFRrA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "They send you liars and criminals with backgrounds that don\u2019t wanna pay and make excuses....",
+            "time": 1562371420
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14909992670923176015",
+    "user_ratings_total": 329,
+    "utc_offset": -240,
+    "vicinity": "606 West 145th Street, New York",
+    "website": "http://www.nycrooms4rent.com/"
+}

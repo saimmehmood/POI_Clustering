@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 120th Street",
+            "short_name": "W 120th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201 W 120th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201 W 120th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8060483,
+            "lng": -73.9509893
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8073501302915,
+                "lng": -73.9496747697085
+            },
+            "southwest": {
+                "lat": 40.8046521697085,
+                "lng": -73.9523727302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "82ca7931ae6a677924b165e2a08405a9ef49bdbf",
+    "name": "Jamroe Cleaning Service",
+    "place_id": "ChIJBVEQyhP2wokRX9Jq03mK7Qk",
+    "plus_code": {
+        "compound_code": "R24X+CJ New York, United States",
+        "global_code": "87G8R24X+CJ"
+    },
+    "reference": "ChIJBVEQyhP2wokRX9Jq03mK7Qk",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=715380171664446047",
+    "utc_offset": -240,
+    "vicinity": "201 West 120th Street, New York"
+}

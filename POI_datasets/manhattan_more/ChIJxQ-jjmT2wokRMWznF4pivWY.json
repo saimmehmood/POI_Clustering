@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "506",
+            "short_name": "506",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 142nd Street",
+            "short_name": "W 142nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6712",
+            "short_name": "6712",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">506 W 142nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6712</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "506 W 142nd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 283-1866",
+    "geometry": {
+        "location": {
+            "lat": 40.82359699999999,
+            "lng": -73.950233
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8250383802915,
+                "lng": -73.9488165697085
+            },
+            "southwest": {
+                "lat": 40.8223404197085,
+                "lng": -73.9515145302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ddeda1c49adc1ebd2d5d5aa3360dd53a954bbc6d",
+    "international_phone_number": "+1 646-283-1866",
+    "name": "Christina Lopes, DPT",
+    "place_id": "ChIJxQ-jjmT2wokRMWznF4pivWY",
+    "plus_code": {
+        "compound_code": "R2FX+CW New York, United States",
+        "global_code": "87G8R2FX+CW"
+    },
+    "reference": "ChIJxQ-jjmT2wokRMWznF4pivWY",
+    "scope": "GOOGLE",
+    "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7403181707713014833",
+    "utc_offset": -240,
+    "vicinity": "506 West 142nd Street, New York"
+}

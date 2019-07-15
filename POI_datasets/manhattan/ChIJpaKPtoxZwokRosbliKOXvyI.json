@@ -1,0 +1,304 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St, New York, NY 10041, USA",
+    "formatted_phone_number": "(212) 235-6500",
+    "geometry": {
+        "location": {
+            "lat": 40.703323,
+            "lng": -74.00889600000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7049049802915,
+                "lng": -74.00781376970849
+            },
+            "southwest": {
+                "lat": 40.7022070197085,
+                "lng": -74.0105117302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7bdbb703c1bc19370c7c13ff347c702c27195652",
+    "international_phone_number": "+1 212-235-6500",
+    "name": "Dune Studios",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114300860526717364876/photos\">Dune Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAA5HX-JSAj0RBDmWcBJYlO5ADdBgymIZw35gG8gWD8aA4H8M7DZj1oeVej7kE3V-ogoWEDCxgHLNG3Xe1Qe4hRt8nu-FjFGyN_wAjU6SmJoQUsFiJFV-_4SHrEKxJHjkO-EhBbzYGj8N_4yIbYuwi-p3i3GhQNah1EzGPduq5xg1LX89U1nvnGNA",
+            "width": 720
+        },
+        {
+            "height": 449,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114300860526717364876/photos\">Dune Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAACT4YcOuS9Ext3pMhX7vfW0IuZvbtGCDkLkLTdBeP5bW2Y2VOnkdsg3d3-9iv1PceUnnxGBNxeU-htmPu4yRp7pr-7-OCRkJYsJ5Nv1CjE6CEeS-NUb8_erT3EQQ9k0vXEhBqm7Oet3ClYI_sZrtcCgtlGhSwH9pt0DGiEiAJl2MG6mhowZmGGg",
+            "width": 800
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113122294376749205485/photos\">Alicia Donati</a>"
+            ],
+            "photo_reference": "CmRaAAAAV0UKPUb55JwSVovPEyx1AwlElFcoxVhwJ3wkuOL3Y7l-yRVOGMRZ7b073B8xp69w25_X22ZO_Az4_J15PTRxa6fwCVMM2FYHW1BTLdFnsVo6t4KWECFxAanHPS9FkqlEEhAn7cPVZXaIVedaG_Jsv0yXGhRl2PyVF0NMyOpCaQQtqrkotAY9ag",
+            "width": 2988
+        },
+        {
+            "height": 449,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114300860526717364876/photos\">Dune Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAAu_n39_6S3UXc5E3kfPBaMiX0c8Y8HIPYLAcTL3CRYnaYtE8Ft7nAqNxoJHhsmhwIPYzr9rSeVXBBzkRg9DFskny7giTyFZKxY1SGBk7PRr-A-yID4FhR65I78G4FKxp_EhCNFpk7QIcs_PwVNDo0gVBqGhQhyIdVrtnvHXrVrJufr8Av2BXorA",
+            "width": 800
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100018663930049598100/photos\">Eamon Wood</a>"
+            ],
+            "photo_reference": "CmRaAAAADGB8jiaNkLuNOwE2WIGsVXoT4QkDMzzcLnh6kEk1ulujRZtQ5ywpA5Gx6liq-q3uBFoHETwEacmiASKQcLc9f5GESXOTAw8Vwx7IiUJF5j8tcLutx73L64gKfksACxDwEhDErmLHhLws4FsxXO_wkQVqGhTI8OJxM7tEP1aAQ4brME63ZWvZoQ",
+            "width": 5312
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116112202331094602033/photos\">Adi Ashkenazi</a>"
+            ],
+            "photo_reference": "CmRaAAAAMs__rzjbvIP-ew1YbTy3cwwXnoPSS0IJrYPC8w4HkmKhrGQnPx6HA16b2eXm4tvYTPONjUGHBLTZtBMov3VYkf6CTkXSlOm9vSg8_z9BSNJp-1ransW6wu5CRp687CTvEhBIkwmE3fa5TOGhUWG_Q5-KGhQEf-R53-lfRaGwu3lhH9i9mnJ7yQ",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100399956663439485298/photos\">Christopher Siemer</a>"
+            ],
+            "photo_reference": "CmRaAAAAo074LGY3c2rNwvHV1UpT0fVTOH6hvFHEVkXlrWDfqp_gwVgyyoY7R3RfCO5mb8Xiho-VatJnY0XxuajS8p50hkjmaOUB30PayAPD3fn5rDBEkIK42zsa4eUbHxtdGcxbEhA1EvIA3rXpWLMy11UGfG5JGhR7C9pwym4bJad0fn8vHB2jq5NKMA",
+            "width": 4032
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114300860526717364876/photos\">Dune Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAA1TCem6w5ulSTJXyyCpaT-0jjSxmY532CNiFcCWfOP-75YPKaHadtiQi6yr1Yzoa_aNnkOuxiw_pyXnVmyqweZQAUjE6iXBfNiTLb6jGgx8UhcKtXo5qhkc01ZzdySJEAEhABLU5vOtm1ExXGIxy67id3GhTYYtQWjCVJS3EXZQ686DppX8L06A",
+            "width": 720
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116112202331094602033/photos\">Adi Ashkenazi</a>"
+            ],
+            "photo_reference": "CmRaAAAAEdhLA8scxlvh7DKcG1RDNkfqUZa-sC7Em_PN4byYIE3SJ8J7Ru-5JcmX2oRd0jpyhuMjwC7WhpsdO8DocrOd6RTnCt17IZwCZ3Vr0-eC371uIhnqegDBE95Sp3KY7bRKEhC2Zz9VPnyyaLRksk8HtPdwGhRjuDEBDeCVP1wyx_KPE-l73fc2Eg",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100399956663439485298/photos\">Christopher Siemer</a>"
+            ],
+            "photo_reference": "CmRaAAAAMWpNk6Z4lmSX9S3Xt_zJcNuoAohNUGSmgIuqBDwwCvbrPeNanUpG5xfVLFl8arf2ZaMflBOCoEeVrvZb_IaGoF0CekcmNcO-R9Dv-b_RBjUKWLOsB15YAJHcIEEC_21yEhDEdQlOOa6EabaXG4RniUAmGhSqVhLBK3qhfdnlpGjLVuw54N0EYA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJpaKPtoxZwokRosbliKOXvyI",
+    "plus_code": {
+        "compound_code": "PX3R+8C New York, United States",
+        "global_code": "87G7PX3R+8C"
+    },
+    "rating": 4.5,
+    "reference": "ChIJpaKPtoxZwokRosbliKOXvyI",
+    "reviews": [
+        {
+            "author_name": "Samanta Mena",
+            "author_url": "https://www.google.com/maps/contrib/107389311344755972037/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ENQhVCI3pMM/AAAAAAAAAAI/AAAAAAAAAMM/Vk9M0rxtD14/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "They have a public park on the third floor, beautiful for getting lunch and rest. It has a relaxing  view of the east river ferries passing by",
+            "time": 1529250229
+        },
+        {
+            "author_name": "Hai Ngo",
+            "author_url": "https://www.google.com/maps/contrib/106293848782047073665/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0EKkIfXNDwI/AAAAAAAAAAI/AAAAAAAAFiY/NiOQyzez6oE/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I'm surprised it's not more popular! Security can sometimes be a pain, but otherwise it's great! No interns with attitudes like some of the other fancy studios. And bottomless oat milk cappuccinos \ud83d\ude06\ud83d\ude06\ud83d\udc4d\ud83d\udcaa\ud83c\udffc",
+            "time": 1531090774
+        },
+        {
+            "author_name": "George Zervoudis",
+            "author_url": "https://www.google.com/maps/contrib/108879055820311978356/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ukl9jXLisS8/AAAAAAAAAAI/AAAAAAAAADg/zECR-7MMRyw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Great spot for drinks. Food is ok.",
+            "time": 1519875614
+        },
+        {
+            "author_name": "Luz Guillermo",
+            "author_url": "https://www.google.com/maps/contrib/101659430074707526460/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MFClUkRlv7s/AAAAAAAAAAI/AAAAAAAAGlk/y2_zdIrrw-g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "very professional. pleasure to work with",
+            "time": 1518231849
+        },
+        {
+            "author_name": "brett bedevian",
+            "author_url": "https://www.google.com/maps/contrib/100570115248323985197/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AJSejDyENeY/AAAAAAAAAAI/AAAAAAAAPeE/0WWvYWWVGGQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Beautiful outdoor space adjacent to the entry",
+            "time": 1510801117
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2503886646473508514",
+    "user_ratings_total": 21,
+    "utc_offset": -240,
+    "vicinity": "55 Water Street, New York",
+    "website": "http://dunestudiosnyc.com/"
+}

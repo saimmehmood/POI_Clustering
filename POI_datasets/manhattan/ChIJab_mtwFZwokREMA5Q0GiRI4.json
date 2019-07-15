@@ -1,0 +1,153 @@
+{
+    "address_components": [
+        {
+            "long_name": "330",
+            "short_name": "330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "330 Madison Ave, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 656-9963",
+    "geometry": {
+        "location": {
+            "lat": 40.7532155,
+            "lng": -73.9795237
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7544671302915,
+                "lng": -73.9779652197085
+            },
+            "southwest": {
+                "lat": 40.7517691697085,
+                "lng": -73.9806631802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "c8dc5215d166c989c3ce923e12980b46d5f2895f",
+    "international_phone_number": "+1 212-656-9963",
+    "name": "Santander Bank ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101735731665347896486/photos\">Addison Wheelslip</a>"
+            ],
+            "photo_reference": "CmRaAAAAniM2ukO_uIGiKVijsCcgvAgRDAsk3JrxkTNkS7un5cm6LvwGtsXgiirdywIsf8ods0kETeLtyz3RaQlPoxTclHtClDUmhzTI-QHGwU5mNQPnj2NQc4fWCOyqe58VyJw7EhC8sL234SCOMrOJFeAbVR8tGhQTH3SmZq-PPAIaa22igRSsp938UA",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101735731665347896486/photos\">Addison Wheelslip</a>"
+            ],
+            "photo_reference": "CmRaAAAARTYDsdTyrMdUSNtnvb5GOTJ9gSJWI9N902QH5Fep-NX8tIdz2TTKkawlIDR027SCYDMv-TmIkxB8GqDRvtJVxiEJPEVg27LJbeXOYP5uzj6vAa0KlDfRLSvh2Og2Yb7REhC-6o9sBNNh7rH7Me7QEH-ZGhRyvOS_-fK0DL8fUB0QQL3flM-0Dw",
+            "width": 5312
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109560711008754910449/photos\">Santander Bank ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAA17sYKym4ImUuwgPUeCsHY4A4FjeR6-CYUhRfTDeLPgl2n6o2Zz_8RHJxDyjKu1V0kpX2XoVTGy--rCr_KA37IdDWDAGY7RAUtCQ40qfD56xuTprVKZGbAwr4JCfO1peJEhBq94qUIWCXFdmwNakv7MROGhRylA_bbAqeErXQF_3l60QWdp2gqw",
+            "width": 450
+        }
+    ],
+    "place_id": "ChIJab_mtwFZwokREMA5Q0GiRI4",
+    "plus_code": {
+        "compound_code": "Q23C+75 New York, United States",
+        "global_code": "87G8Q23C+75"
+    },
+    "reference": "ChIJab_mtwFZwokREMA5Q0GiRI4",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "insurance_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10251497052986523664",
+    "utc_offset": -240,
+    "vicinity": "330 Madison Avenue, New York",
+    "website": "http://www.santanderbank.com/"
+}

@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "159",
+            "short_name": "159",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East Houston Street",
+            "short_name": "E Houston St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1004",
+            "short_name": "1004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">159 E Houston St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-1004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "159 E Houston St, New York, NY 10002, USA",
+    "formatted_phone_number": "(212) 533-1914",
+    "geometry": {
+        "location": {
+            "lat": 40.72283729999999,
+            "lng": -73.98909100000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7242570302915,
+                "lng": -73.9877020197085
+            },
+            "southwest": {
+                "lat": 40.7215590697085,
+                "lng": -73.99039998029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f7bef9c9cf409b8f66e555e1cd70364535a4e88f",
+    "international_phone_number": "+1 212-533-1914",
+    "name": "Mini Cart Convenient Store",
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046090698323206553/photos\">Nathan MacCarter</a>"
+            ],
+            "photo_reference": "CmRaAAAAFORd5yjahZcjepqsMDnS72Dv-dEESxulUf-pZWy8GSzjFVO5Yznzs8er3QDPT9mZ0YOqB7Ay7CEo40doSDsYWD5rA5H10tP5PfzR_ubPmF9UbecQEwQzTM2hX633G4qyEhBIzaNM8clz7LTKmFA3osyWGhRIFsh7aVINQ9Kx9bSYsMoBjQdpEA",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJw1PUdYRZwokRefvcsqdxjtM",
+    "plus_code": {
+        "compound_code": "P2F6+49 New York, United States",
+        "global_code": "87G8P2F6+49"
+    },
+    "reference": "ChIJw1PUdYRZwokRefvcsqdxjtM",
+    "scope": "GOOGLE",
+    "types": [
+        "convenience_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15244246753770011513",
+    "utc_offset": -240,
+    "vicinity": "159 East Houston Street, New York"
+}

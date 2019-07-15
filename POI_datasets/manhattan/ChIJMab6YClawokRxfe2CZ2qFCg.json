@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "215 Madison St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7128394,
+            "lng": -73.9891062
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141337802915,
+                "lng": -73.98774991970849
+            },
+            "southwest": {
+                "lat": 40.7114358197085,
+                "lng": -73.9904478802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6c5e66d63a010a5846c1bb6e04dc87c6fc67c10d",
+    "name": "Moz Art",
+    "place_id": "ChIJMab6YClawokRxfe2CZ2qFCg",
+    "plus_code": {
+        "compound_code": "P276+49 New York, United States",
+        "global_code": "87G8P276+49"
+    },
+    "reference": "ChIJMab6YClawokRxfe2CZ2qFCg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2888120852500903877",
+    "utc_offset": -240,
+    "vicinity": "215 Madison Street, New York"
+}

@@ -1,0 +1,193 @@
+{
+    "address_components": [
+        {
+            "long_name": "33rd Floor",
+            "short_name": "33rd Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1345",
+            "short_name": "1345",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10105",
+            "short_name": "10105",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1345 6th Ave 33rd Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1345 6th Ave 33rd Floor, New York, NY 10105, USA",
+    "formatted_phone_number": "(212) 489-5595",
+    "geometry": {
+        "location": {
+            "lat": 40.7629384,
+            "lng": -73.97895799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7641688802915,
+                "lng": -73.9773221697085
+            },
+            "southwest": {
+                "lat": 40.7614709197085,
+                "lng": -73.9800201302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "25f3a4e080ac5bf3118f836517b73b5a7f578718",
+    "international_phone_number": "+1 212-489-5595",
+    "name": "Katz PR",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1714,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114604027467197046005/photos\">Katz PR</a>"
+            ],
+            "photo_reference": "CmRaAAAA1_WP7lD99Xrw-di0ytF0cbTTSrHlXX6Ot7VaAEXwL_sePi6ZC2VcAm0ciqIOgU4ylzSxSXa0q1_f1poCPs7s_APRH9x8ov3i8RA6GZbDQOFDdVuZ-kLEVRI2kRbqGoiUEhBv1lIkoRJ9R0c9K9EvI0N4GhQqPlcukE-Q5o-mA9ZiaVv2ohk78g",
+            "width": 1714
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114604027467197046005/photos\">Katz PR</a>"
+            ],
+            "photo_reference": "CmRaAAAAlU6A-bKh5FaZAaW8t-aWgF06WBfOwfaoXhiYcP9gi59zJg7qdK9OvigPXLQ_5eKV4uELj4lwbnl-s2iSQOgwbtWSNsCFuk9MF3oGB808INU23N3YzbZs5-BXssGEFetUEhDwwu3vqCkbEXbiszNzEvUVGhRsCNsKoNp-z-XLbMXxo0cbe2UZQg",
+            "width": 2000
+        }
+    ],
+    "place_id": "ChIJNRak5_dYwokRlr5BYt-Gzns",
+    "plus_code": {
+        "compound_code": "Q27C+5C New York, United States",
+        "global_code": "87G8Q27C+5C"
+    },
+    "reference": "ChIJNRak5_dYwokRlr5BYt-Gzns",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8921216205851836054",
+    "utc_offset": -240,
+    "vicinity": "1345 6th Avenue 33rd Floor, New York",
+    "website": "http://www.katzpr.com/"
+}

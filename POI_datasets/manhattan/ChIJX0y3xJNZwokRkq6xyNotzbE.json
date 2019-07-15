@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "331",
+            "short_name": "331",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10014",
+            "short_name": "10014",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6912",
+            "short_name": "6912",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">331 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014-6912</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "331 6th Ave, New York, NY 10014, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.73140059999999,
+            "lng": -74.00140929999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73271578029149,
+                "lng": -73.99997971970849
+            },
+            "southwest": {
+                "lat": 40.73001781970849,
+                "lng": -74.0026776802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "030d3c5418efdf3d4c549486c447691b5ecba211",
+    "name": "Citymd",
+    "place_id": "ChIJX0y3xJNZwokRkq6xyNotzbE",
+    "plus_code": {
+        "compound_code": "PXJX+HC New York, United States",
+        "global_code": "87G7PXJX+HC"
+    },
+    "reference": "ChIJX0y3xJNZwokRkq6xyNotzbE",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12811946932632137362",
+    "utc_offset": -240,
+    "vicinity": "331 6th Avenue, New York",
+    "website": "https://www.citymd.com/"
+}

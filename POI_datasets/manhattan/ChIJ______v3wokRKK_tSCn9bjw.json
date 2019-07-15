@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "North Bergen",
+            "short_name": "North Bergen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07047",
+            "short_name": "07047",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">North Bergen</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07047</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "North Bergen, NJ 07047, USA",
+    "formatted_phone_number": "(201) 206-2223",
+    "geometry": {
+        "location": {
+            "lat": 40.8053731,
+            "lng": -74.0241367
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8066574802915,
+                "lng": -74.02283191970851
+            },
+            "southwest": {
+                "lat": 40.8039595197085,
+                "lng": -74.02552988029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87ec51a680d830e4edc5786e6ce2a3f8fa5b6721",
+    "international_phone_number": "+1 201-206-2223",
+    "name": "Tony Tabbacchino Laundry Equipment Service",
+    "place_id": "ChIJ______v3wokRKK_tSCn9bjw",
+    "rating": 1,
+    "reference": "ChIJ______v3wokRKK_tSCn9bjw",
+    "reviews": [
+        {
+            "author_name": "Cumali Badur",
+            "author_url": "https://www.google.com/maps/contrib/116654437116807233142/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iDzdrDUTw2I/AAAAAAAAAAI/AAAAAAAAB6o/ocvEL9QU3Bs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1473748393
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4354696243472871208",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "North Bergen"
+}

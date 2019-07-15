@@ -1,0 +1,186 @@
+{
+    "address_components": [
+        {
+            "long_name": "207",
+            "short_name": "207",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 30th Street",
+            "short_name": "E 30th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10016",
+            "short_name": "10016",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">207 E 30th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "207 E 30th St, New York, NY 10016, USA",
+    "formatted_phone_number": "(646) 715-7124",
+    "geometry": {
+        "location": {
+            "lat": 40.74312199999999,
+            "lng": -73.97919
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74437653029149,
+                "lng": -73.9779100697085
+            },
+            "southwest": {
+                "lat": 40.74167856970849,
+                "lng": -73.98060803029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2dd9bad41bf43998d52fdf6940647d3916d9b3d6",
+    "international_phone_number": "+1 646-715-7124",
+    "name": "MadDog Bites",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115728871887475106038/photos\">MadDog Bites</a>"
+            ],
+            "photo_reference": "CmRaAAAAeezPHrpQiw5uVriXWjSner-DACV_xWbxkDxqrX0EM-jQ8m1aT5kmPULZEXxPP_MaeyJONe_vshcI9dFEz5fDjeC0JEBDbt3EUnOPdkltfuilQRqQw71uvb-ICjV1bfzeEhBb-gAeeWEfKz0I_RpKpOzHGhSbbZBu7NvhSAd9wNUQz6gHCswAdg",
+            "width": 2048
+        },
+        {
+            "height": 1077,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115728871887475106038/photos\">MadDog Bites</a>"
+            ],
+            "photo_reference": "CmRaAAAA3uvJGWjVQaUSo_vfW6NtK38VuxOHgRTL8jnDYKMCT90HuIhb5fuCl1WX8GFPRejPLPPsI7sEIfimjICBenCsU4Ol1RaL67IIw70rFljwIdmE7IRjEysZhWhTg005tzxeEhC1ckJT-QGpAML4CN0IupK4GhT4qIH6A_t0FZmikw9L5gIeLvVfQQ",
+            "width": 1077
+        }
+    ],
+    "place_id": "ChIJ2Sx47ghZwokRuYwZafQndfs",
+    "plus_code": {
+        "compound_code": "P2VC+68 New York, United States",
+        "global_code": "87G8P2VC+68"
+    },
+    "reference": "ChIJ2Sx47ghZwokRuYwZafQndfs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18119432606483844281",
+    "utc_offset": -240,
+    "vicinity": "207 East 30th Street, New York",
+    "website": "http://www.maddogbites.com/"
+}

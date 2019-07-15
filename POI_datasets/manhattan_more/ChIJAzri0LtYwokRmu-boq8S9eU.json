@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "342",
+            "short_name": "342",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4431",
+            "short_name": "4431",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">342 E 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4431</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "342 E 84th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(917) 509-4778",
+    "geometry": {
+        "location": {
+            "lat": 40.7756901,
+            "lng": -73.95117259999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7771237302915,
+                "lng": -73.94976101970849
+            },
+            "southwest": {
+                "lat": 40.7744257697085,
+                "lng": -73.9524589802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a70775c30bdadb61c8f028bbbaf7712167708405",
+    "international_phone_number": "+1 917-509-4778",
+    "name": "Brad Ascalon Studio NYC",
+    "place_id": "ChIJAzri0LtYwokRmu-boq8S9eU",
+    "plus_code": {
+        "compound_code": "Q2GX+7G New York, United States",
+        "global_code": "87G8Q2GX+7G"
+    },
+    "rating": 5,
+    "reference": "ChIJAzri0LtYwokRmu-boq8S9eU",
+    "reviews": [
+        {
+            "author_name": "niv levy",
+            "author_url": "https://www.google.com/maps/contrib/117638657861595430695/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dQyqcX8LJw0/AAAAAAAAAAI/AAAAAAAAAK8/uaGy03BQ1iU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1506434246
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16570170949536313242",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "342 East 84th Street, New York",
+    "website": "http://bradascalon.com/"
+}

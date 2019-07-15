@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 3H",
+            "short_name": "# 3H",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "153",
+            "short_name": "153",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 96th Street",
+            "short_name": "E 96th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2555",
+            "short_name": "2555",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153 E 96th St # 3H</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2555</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153 E 96th St # 3H, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 427-7259",
+    "geometry": {
+        "location": {
+            "lat": 40.7858415,
+            "lng": -73.9504601
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78712488029149,
+                "lng": -73.9491598197085
+            },
+            "southwest": {
+                "lat": 40.78442691970849,
+                "lng": -73.9518577802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f18fca15c2ba2aa7b49065f1b534cf3f13b0895a",
+    "international_phone_number": "+1 212-427-7259",
+    "name": "Bonnie J Shashua Tax",
+    "place_id": "ChIJg1ywY6ZYwokRVzExl6VuPlQ",
+    "plus_code": {
+        "compound_code": "Q2PX+8R New York, United States",
+        "global_code": "87G8Q2PX+8R"
+    },
+    "reference": "ChIJg1ywY6ZYwokRVzExl6VuPlQ",
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6070411005227250007",
+    "utc_offset": -240,
+    "vicinity": "153 East 96th Street # 3H, New York"
+}

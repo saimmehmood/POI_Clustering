@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "PO Box 1226",
+            "short_name": "PO Box 1226",
+            "types": [
+                "post_box"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1226",
+            "short_name": "1226",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"post-office-box\">PO Box 1226</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-1226</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "PO Box 1226, New York, NY 10025, USA",
+    "formatted_phone_number": "(718) 292-1226",
+    "geometry": {
+        "location": {
+            "lat": 40.7999209,
+            "lng": -73.96831019999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8012690802915,
+                "lng": -73.9669571197085
+            },
+            "southwest": {
+                "lat": 40.7985711197085,
+                "lng": -73.9696550802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6520dd9dd44297cf4cb77d59f6feada4effc098c",
+    "international_phone_number": "+1 718-292-1226",
+    "name": "Sav-A-Life",
+    "place_id": "ChIJq6qqqiX2wokRNhW_gYddIJE",
+    "reference": "ChIJq6qqqiX2wokRNhW_gYddIJE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10457461171333043510",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "1650",
+            "short_name": "1650",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1650 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1650 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(917) 770-1487",
+    "geometry": {
+        "location": {
+            "lat": 40.7828899,
+            "lng": -73.95128679999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7841952302915,
+                "lng": -73.94983321970848
+            },
+            "southwest": {
+                "lat": 40.7814972697085,
+                "lng": -73.9525311802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fd29241d546e4cac3ffaa00a0afa3f707fdcfe28",
+    "international_phone_number": "+1 917-770-1487",
+    "name": "Under NY Sky",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 5:00 PM",
+            "Tuesday: 11:00 AM \u2013 5:00 PM",
+            "Wednesday: 11:00 AM \u2013 5:00 PM",
+            "Thursday: 11:00 AM \u2013 5:00 PM",
+            "Friday: 11:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113478909263841983854/photos\">Under NY Sky</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Qj3HNKFu8rugVwdrrGJKPo0EPM7qoBj2SUXLaWxhcrU1jQPfcaHjbWJWspWJ0-IDf7I2CI1bTN0Eyjhel3Rw9gJvdcyYK3zF-z6NNWcJ_J-EOLeCaedj6X2z857cNDaEhCF2HU47JBhnpQJtre2_cHgGhSfTBR_cOxXwYvjdpZ5ytwu7EYzmQ",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113478909263841983854/photos\">Under NY Sky</a>"
+            ],
+            "photo_reference": "CmRaAAAAIS1zgZhFVSrXXmIq_-Pr7yRG5KrqwHcedvb7OvyamD9-clTxh8SSUb_ZnekcVglxyg9_ECG_PiUSghsrQpjGHcrxgTaescrNa1_glddT3T3Hlba_9POIoyf8JO-7D_lrEhCe4Fp8Bw9g03yJDyotrxhDGhSoiFebg36xc046VNpSBHXA3JYezg",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113478909263841983854/photos\">Under NY Sky</a>"
+            ],
+            "photo_reference": "CmRaAAAAfGkFQVIYUGq_dsI5Fha-Fxbc39BER6e4MrNyLqrz2ZcpAb2ygogMwiCa9sqEjNR5jBvbnsV1JqS9vY434oH4XXjSqiLPg97VyNp5FlKZsgtJpDnHJmwXb7OM4DDnbxRPEhC1DSghnhssVLEy7J9v0cQDGhR7oDlf5jkPHQeONZer21JlEg--rA",
+            "width": 640
+        },
+        {
+            "height": 251,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113478909263841983854/photos\">Under NY Sky</a>"
+            ],
+            "photo_reference": "CmRaAAAAo5woOpDiLjhqbOpckwJ2kxtlniTyXdGC0GJEnwxKgXi_X2pZIcGLeFZW0R6YNi9YKRrZgtQGwGChCx5S0A8obr4Ohvsd6uU5IfPx8bJCHg4JtUuOw1_KrS3TgY8vfXXXEhDHkXtVAeGE9cKfT77xKiBcGhSxhCScuc--HjWl2Tepz6H018LfqA",
+            "width": 251
+        }
+    ],
+    "place_id": "ChIJubMRV6RYwokR_WdPNQyj8CE",
+    "plus_code": {
+        "compound_code": "Q2MX+5F New York, United States",
+        "global_code": "87G8Q2MX+5F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJubMRV6RYwokR_WdPNQyj8CE",
+    "reviews": [
+        {
+            "author_name": "Vitor Veras",
+            "author_url": "https://www.google.com/maps/contrib/115686659183538591122/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-pKImYrJ3xJU/AAAAAAAAAAI/AAAAAAAAQXc/CAlRX_yF15A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The aprons are just beautiful and very stylish. Couldn't find this quality of materials and craft in any other apron brands. Also, the customer service is just amazing. Highly recommend.",
+            "time": 1516719285
+        },
+        {
+            "author_name": "Kurt Wagner",
+            "author_url": "https://www.google.com/maps/contrib/107769983265158930553/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FlDs2cLDXT4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdh01yBnOH2B7zRGBz26YB9WlT_pg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The coolest aprons I have ever seen!! I got another one for my friend, and he loved it too.",
+            "time": 1517255266
+        },
+        {
+            "author_name": "Marie Rogue",
+            "author_url": "https://www.google.com/maps/contrib/115726326782531807528/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Xy8d6Kkm4yE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcbPTeaiDeWiqJEWQu8QfGXewmpfA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The most stylish aprons I've ever had. Fast shipping and friendly customer service are also a big plus!",
+            "time": 1516985338
+        },
+        {
+            "author_name": "Logan Logan",
+            "author_url": "https://www.google.com/maps/contrib/114376917028728316552/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-KdKdWYL4pGw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rctJHqPfskvjfi2tBVFuHJOWDOqUg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The fabric is tough enough to withstand my activities in the workshop. And also makes me look good!",
+            "time": 1517360146
+        },
+        {
+            "author_name": "herbertbierwagen",
+            "author_url": "https://www.google.com/maps/contrib/104628614171526203757/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-x8-lTQGJyrg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfWySBi5k55-WYp5pqvTnUnTbabcw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Regardless your reply, we did have on trade bussiness nd been connected largely. Without the consideration we expected . We are very desapointed to hear that , once any bussiness was carried out by third parts.",
+            "time": 1516853346
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2445633870491510781",
+    "user_ratings_total": 10,
+    "utc_offset": -240,
+    "vicinity": "1650 3rd Avenue, New York",
+    "website": "http://www.undernysky.com/"
+}

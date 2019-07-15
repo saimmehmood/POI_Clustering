@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "521",
+            "short_name": "521",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">521 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "521 Broadway, New York, NY 10012, USA",
+    "formatted_phone_number": "(347) 509-6517",
+    "geometry": {
+        "location": {
+            "lat": 40.72291939999999,
+            "lng": -73.99932439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7241932302915,
+                "lng": -73.99782386970848
+            },
+            "southwest": {
+                "lat": 40.7214952697085,
+                "lng": -74.0005218302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4bf0dbddf5d9240fc642adcfa4e35065bb1c8172",
+    "international_phone_number": "+1 347-509-6517",
+    "name": "HiredScore",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105525469480961126365/photos\">HiredScore</a>"
+            ],
+            "photo_reference": "CmRaAAAAUAVqFL8KYNeiig3sq_x5vSlyQvN4aInuE9X6Wk0kQpmM4Z8HKlYjqDq4HuWmGGknuLFllri9RPBwGgfl9NxV4Pq5aoamlLPwAid7YF3EGW5j34L1O4gSF1pDL9w-cqmXEhCYt-K8Dpi19Csh028t00M9GhTBCD3HY-ytIGjTa-Fu33_Kkf-kiA",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJZXXU-I5ZwokR-gLpnk5Dcbo",
+    "plus_code": {
+        "compound_code": "P2F2+57 New York, United States",
+        "global_code": "87G8P2F2+57"
+    },
+    "reference": "ChIJZXXU-I5ZwokR-gLpnk5Dcbo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13434593168375481082",
+    "utc_offset": -240,
+    "vicinity": "521 Broadway, New York",
+    "website": "https://hiredscore.com/"
+}

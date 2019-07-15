@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "119",
+            "short_name": "119",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">119 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "119 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 293-1328",
+    "geometry": {
+        "location": {
+            "lat": 40.8024645,
+            "lng": -73.9506688
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8038284802915,
+                "lng": -73.94930881970849
+            },
+            "southwest": {
+                "lat": 40.8011305197085,
+                "lng": -73.9520067802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "949fabc077c7f2a3d2b475d3c898112a6961ffd2",
+    "international_phone_number": "+1 212-293-1328",
+    "name": "Central Park North Plumbing and Heating",
+    "place_id": "ChIJ-c2CqhH2wokRIls2VL0AtwU",
+    "plus_code": {
+        "compound_code": "R22X+XP New York, United States",
+        "global_code": "87G8R22X+XP"
+    },
+    "reference": "ChIJ-c2CqhH2wokRIls2VL0AtwU",
+    "scope": "GOOGLE",
+    "types": [
+        "plumber",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=411798704089357090",
+    "utc_offset": -240,
+    "vicinity": "119 West 116th Street, New York",
+    "website": "http://centralparknorthplumbingandheating.info/"
+}

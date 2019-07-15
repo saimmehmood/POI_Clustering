@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "1544",
+            "short_name": "1544",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1544 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1544 Madison Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.792743,
+            "lng": -73.9504382
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7940167302915,
+                "lng": -73.94914141970848
+            },
+            "southwest": {
+                "lat": 40.7913187697085,
+                "lng": -73.95183938029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1784b7caf24b633054880496171868d7e79427a",
+    "name": "Sun Deli & Pizzeria",
+    "place_id": "ChIJUeGu_hz2wokRoNt6dHc6rzw",
+    "plus_code": {
+        "compound_code": "Q2VX+3R New York, United States",
+        "global_code": "87G8Q2VX+3R"
+    },
+    "reference": "ChIJUeGu_hz2wokRoNt6dHc6rzw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4372778047929768864",
+    "utc_offset": -240,
+    "vicinity": "1544 Madison Avenue, New York"
+}

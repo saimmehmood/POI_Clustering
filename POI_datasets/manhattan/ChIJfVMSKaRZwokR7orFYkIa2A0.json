@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "1120",
+            "short_name": "1120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1120 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1120 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 796-5621",
+    "geometry": {
+        "location": {
+            "lat": 40.7432233,
+            "lng": -73.9891103
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74457168029149,
+                "lng": -73.9877564697085
+            },
+            "southwest": {
+                "lat": 40.74187371970849,
+                "lng": -73.9904544302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6c9112dc3e9f8aed6a43408912fb61678ec61400",
+    "international_phone_number": "+1 212-796-5621",
+    "name": "Capital Business Media",
+    "place_id": "ChIJfVMSKaRZwokR7orFYkIa2A0",
+    "plus_code": {
+        "compound_code": "P2V6+79 New York, United States",
+        "global_code": "87G8P2V6+79"
+    },
+    "reference": "ChIJfVMSKaRZwokR7orFYkIa2A0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=997576189889841902",
+    "utc_offset": -240,
+    "vicinity": "1120 Broadway, New York",
+    "website": "http://cbmeg.com/"
+}

@@ -1,0 +1,308 @@
+{
+    "address_components": [
+        {
+            "long_name": "1617",
+            "short_name": "1617",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1617 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1617 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(800) 275-8777",
+    "geometry": {
+        "location": {
+            "lat": 40.78171229999999,
+            "lng": -73.951465
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78313053029149,
+                "lng": -73.9502770197085
+            },
+            "southwest": {
+                "lat": 40.78043256970849,
+                "lng": -73.9529749802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/post_office-71.png",
+    "id": "9dd609948c9df35002cdd3ba8b0e7e2f11ed0b40",
+    "international_phone_number": "+1 800-275-8777",
+    "name": "United States Postal Service",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107331535121516232959/photos\">Jeremy Gordon</a>"
+            ],
+            "photo_reference": "CmRaAAAAS4E8Lh4aCCFE7M3x4FRZTx6mkFmQh0B24W0unjnRJMHIAEco37s9p5XExZLFYWduAocULEosOOuU5jJvr7JCOLp2Qja5_-7hpsapY3YBhvSI2vBy9FEYLg1HjepCJiaqEhB77RX5JoFOsW_6a59JpzqsGhSpyyUcBmQuPcu7HsiuGiU9NVuK1A",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107331535121516232959/photos\">Jeremy Gordon</a>"
+            ],
+            "photo_reference": "CmRaAAAAEJOzRo1Reyz5QcK27_T501okAdTqvSDBFvinQI_KNYlboHc-_vZIOOr51VezViufwdHEBqMz4IjjQIjv1yriYJMmTS88GuOdtUS7Jkq_aN1BlIiHgFRtZKX1lHwtkyzrEhBAULnrFAvrs8Yrjrh4nl-IGhSi3cM3n2X7fKMVENXwci5hRVFadQ",
+            "width": 5312
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112051454711651434795/photos\">Jim Kelly</a>"
+            ],
+            "photo_reference": "CmRaAAAA6h7IpdgFIPGHbkmJ0m9ojbhNunc1M0uGofm-79wwDRi4cuSfqURCbDS6bFLUo-IwlE1WRfUKQJedhqoib1ST5SDocZhaj-cLrWuK6eWXE5h_6CIGJx6bGhUJiMfAxKc-EhADf9pIZluUIGi7F3FSjcuwGhRSBZQbxlWYOcHLiCWkBVsfBJVq_w",
+            "width": 4032
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107774669502496645915/photos\">Susy Santo</a>"
+            ],
+            "photo_reference": "CmRaAAAAsdI909JxX6bzXUzt6ucgvoBoCllaejAfu-LUmTEy6_auCYOw6MnJvVp0XzmeVQoW-aS2iwEv6Ab8gv8oiqGqHc8cRwlf_Fx0nUBuTggYUapV8ZNLCuwBKceE3NebsXNSEhBvGzaQfhN-6BkvaEG-szRCGhTQA0B7SX-unL6V2Aqu1VnElZoIkA",
+            "width": 2322
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116838844525874831562/photos\">Uri Shusterman</a>"
+            ],
+            "photo_reference": "CmRaAAAA4trA3llRdHIgYpetl-EIkLczQtMIlS7e7JXUGNXdN1SXsCl7ZmsUDZxRLs8P7gwKgsklbJv-fcYGbOZv9MmHjibdUyaHQhG9BC1GPPQ0R9Z7FtAwEVPxoPnVmrPajEj2EhDvk5_LgVpYw52Mxt9rv6LCGhQiGHEH3tipVnRx7spdt9KyZyeM-w",
+            "width": 2448
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107331535121516232959/photos\">Jeremy Gordon</a>"
+            ],
+            "photo_reference": "CmRaAAAA1EohuiRQ1BXmBOYDAHTm4-b4uQlynxzRUBMvLzL_aTkEOOVR8Nv28g_T54f9xvyB4iPefHOEYCt1H6pr6Y0EuOfs3nuh-ZMYjTYd1iLYt1Ii4TFEhquycyFICmEOyVw4EhCRZYtoMXv4SavamfZ2TetgGhR-Wy7m6KcLa-1sLufIqPTJJfYyQg",
+            "width": 5312
+        },
+        {
+            "height": 1936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105170431124683218627/photos\">Marc Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAtascl8SAvi7mh9SXkdn-N0BN-uveKOcNA0y_AxxvEolBwIpq7jaFPZrhJI5SRjszDCbd0FQ7Ednx9UaBcob0IcQTE1Jp5VfsGFqCqW_YULs-MGrb7iydPAvck-z9TwKPEhDrvD9J2gspwmh5_Tq0KtkVGhRjH9Gwl3in1YiikjCFd4C4GC3e1A",
+            "width": 2592
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110739563390026908930/photos\">Justin Meyers</a>"
+            ],
+            "photo_reference": "CmRaAAAAeEFVMtV4s9gkxZcVj8GReqQYUoxS4ldst1BRZEsG8lbNLvmq-l47jKnyFLKM7Z0ISPQNQPsQ8lS26lB2SClE0sbjLisnD6qjHn8K4BvAQtX8MCr1TQ6skftu-wolYprbEhDTLjf7CUSkmbT4KyGCEMwcGhSwy2KxUm4dbciAJQB1agcufQBAIA",
+            "width": 1440
+        },
+        {
+            "height": 1025,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115719301981516807432/photos\">United States Postal Service</a>"
+            ],
+            "photo_reference": "CmRaAAAAdOwcx-ol2ByiEGAPjuNrgypBigL7U9-6hyETTaVVfZD5ecbFfgscQKF9ZHtNrqeyxxqu3bwhtiRdkt7G1yupL8S-ULi0j_pe2XFFYJLGvlfJlg1xgkblU0O7ZXnyKQakEhBvRZGNA3FBlZGepQMSNfS4GhS_aXLjjXoE_EHB2m3G55yo29RtEg",
+            "width": 1025
+        }
+    ],
+    "place_id": "ChIJKeRU7qRYwokRS8m3T2rfi5g",
+    "plus_code": {
+        "compound_code": "Q2JX+MC New York, United States",
+        "global_code": "87G8Q2JX+MC"
+    },
+    "rating": 2.5,
+    "reference": "ChIJKeRU7qRYwokRS8m3T2rfi5g",
+    "reviews": [
+        {
+            "author_name": "Rachel Bronheim",
+            "author_url": "https://www.google.com/maps/contrib/116867276351246709492/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-y4uOeX6JysU/AAAAAAAAAAI/AAAAAAAAAUA/QfitN9ovVhM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Had a very good experience here. The staffer that helped me, Saima,  was very professional, and ensured that I was sending my paperwork in the correct type of envelope. Probably the best service I've had at a post office in a long time!",
+            "time": 1556476945
+        },
+        {
+            "author_name": "Daniel McGrath",
+            "author_url": "https://www.google.com/maps/contrib/116549358627912267643/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nYBeyQfHRgU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reNexo8VlGZux61KflsWuq6AAapYQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I've used this post office for 28 years now.  The staff is the best-always helpful.  Line moves quickly.  There is a drop box, if you buy postage online and want to skip the line.  I often pick up packages here.  They've never lost anything of mine.",
+            "time": 1546105664
+        },
+        {
+            "author_name": "Kateryna Strieltsova",
+            "author_url": "https://www.google.com/maps/contrib/102820869530389271934/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qntEEPbrcTU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reYQJeQAH5e1ptdZTMEAXq_-4AkLg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I\u2019ve been using it for about 7 years, the stuff is usually nice and helpful, there are lines but they move quickly",
+            "time": 1559258922
+        },
+        {
+            "author_name": "Starcitys Starcitysm",
+            "author_url": "https://www.google.com/maps/contrib/112697168722172805722/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nNFlyByuKm0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reAabjTgtf2oLsPOONN0uoyhAkYKw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Abusive, uprofessional, rude service by supervisor, Ms. Payton. On 3/6/19, I went to Carnegie Post Office to purchase stamps. I got there around closing time and there were 2 customers on line. As I stood on line, Ms. Payton suddenly appeared. She barked, \"We're closed we're closed!\" I looked around me to see if she was talking to someone else, as I was already standing on the line. Ms. Payton made it clear that me and the lady in front of me, had to go. However, a worker beckoned the customer, in front of me, to come to her retail station so she could service her. This left me, the only customer standing on line - with no one willing to help me. Three times, I said to Ms. Payton, \"I only want to purchase 2 stamps, just 2 stamps.\" I also said that the door was not locked. Shockingly, she said, \"We've been opened all morning!\" Without any knowledge of my responsibilities, arrogantly, she was implying that I should come to her post office in the morning - to fit neatly into her schedule. Seeing the absurdity and unprofessional behavior that was being targeted at me, the customer in front of me, offered me 2 stamps!! At a USPS facility, it was the public giving me service. This kind customer, even refused to accept any money from me. It was freezing outside. The city had a \"code blue\" alert in effect. This supervisor was determined to send me back into the freezing cold - to buy 2 stamps. The helpful lady is standing at the counter, in the gray jacket. Ms. Payton is the heavyset female, in the Black shirt, standing in the background. I intend to file a complaint.",
+            "time": 1551956069
+        },
+        {
+            "author_name": "M",
+            "author_url": "https://www.google.com/maps/contrib/101840365741745810359/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pcUBaikr4IA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcV_Y85uvRpR5appzqQQLs7qbx_Ag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I am definitely rating this site 5. The service I got here today 12.1.18 was superb and beyond what I received at the two other sites I've visited and didn't bother to rate. Hope USPS do hold their employees accountable for unethical conduct. Start sending out some secret shoppers throughout the NYC area especially where the rating is below 2.5 because them folks flip out out of nowhere like they loco and they need a wake up call to repent for that kind of behavior and be professional for once in their lives or look for a new gig cause this ain't it.",
+            "time": 1543721346
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10992124963224799563",
+    "user_ratings_total": 93,
+    "utc_offset": -240,
+    "vicinity": "1617 3rd Avenue, New York",
+    "website": "https://tools.usps.com/go/POLocatorDetailsAction!input.action?&radius=20&locationType=po&locationTypeQ=po&locationID=1388511&utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext"
+}

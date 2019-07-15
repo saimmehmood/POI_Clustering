@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Manhattan Avenue",
+            "short_name": "Manhattan Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3210",
+            "short_name": "3210",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300 Manhattan Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-3210</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300 Manhattan Ave, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 678-5801",
+    "geometry": {
+        "location": {
+            "lat": 40.8028169,
+            "lng": -73.958281
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8041918302915,
+                "lng": -73.9569960197085
+            },
+            "southwest": {
+                "lat": 40.8014938697085,
+                "lng": -73.9596939802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a6bc815d2b15f3a1c74cf508e29ff1b797b2aea5",
+    "international_phone_number": "+1 212-678-5801",
+    "name": "Homeward Bound",
+    "place_id": "ChIJgbedyBf2wokRYUeZj-Ir5gM",
+    "plus_code": {
+        "compound_code": "R23R+4M New York, United States",
+        "global_code": "87G8R23R+4M"
+    },
+    "reference": "ChIJgbedyBf2wokRYUeZj-Ir5gM",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=280960278829025121",
+    "utc_offset": -240,
+    "vicinity": "300 Manhattan Avenue, New York"
+}

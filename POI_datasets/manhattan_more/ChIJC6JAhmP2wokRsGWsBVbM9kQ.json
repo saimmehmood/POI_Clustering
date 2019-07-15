@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "3492",
+            "short_name": "3492",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3492 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3492 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8248447,
+            "lng": -73.9512956
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82622448029149,
+                "lng": -73.95001616970849
+            },
+            "southwest": {
+                "lat": 40.82352651970849,
+                "lng": -73.9527141302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9cf55eab92b9f66bfa3a6aed4fd387d2df9c7a6a",
+    "name": "Casa Linen",
+    "place_id": "ChIJC6JAhmP2wokRsGWsBVbM9kQ",
+    "plus_code": {
+        "compound_code": "R2FX+WF New York, United States",
+        "global_code": "87G8R2FX+WF"
+    },
+    "rating": 5,
+    "reference": "ChIJC6JAhmP2wokRsGWsBVbM9kQ",
+    "reviews": [
+        {
+            "author_name": "Mayra A. Bustamante",
+            "author_url": "https://www.google.com/maps/contrib/108245324054959712432/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-eJJw698TW4c/AAAAAAAAAAI/AAAAAAAACC8/cfUmoNPO8Mg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Hello everyone:\nIt's with great pleasure that I write this post. It's always a pleasure for me to go into this store. Because in all truth they have a great selection not only in bedding but also in bath. I'm always greeted by people who are very professional vas well it's an ease to be able to shop without being followed or harrassed. The store can be bigger. But is not but truly you eel at home bathing. Definitely this store I will rated as 10.\nMayra",
+            "time": 1535934278
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4969383908684359088",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "3492 Broadway, New York"
+}

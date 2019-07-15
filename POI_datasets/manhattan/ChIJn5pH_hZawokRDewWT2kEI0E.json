@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "50th Floor",
+            "short_name": "50th Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10004",
+            "short_name": "10004",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St 50th Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St 50th Floor, New York, NY 10004, USA",
+    "formatted_phone_number": "(212) 931-6864",
+    "geometry": {
+        "location": {
+            "lat": 40.7033124,
+            "lng": -74.0089753
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7048825302915,
+                "lng": -74.0078794697085
+            },
+            "southwest": {
+                "lat": 40.7021845697085,
+                "lng": -74.0105774302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "86a3efe8ec01c0971c9c6539d416c112d8ebfa9a",
+    "international_phone_number": "+1 212-931-6864",
+    "name": "Premium Merchant Funding",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1966,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101478431542895927246/photos\">Premium Merchant Funding</a>"
+            ],
+            "photo_reference": "CmRaAAAAruCGXJaEfVsZEpmlcp3dQvnlbIrwGu09Z2JdTPJbt3gq59aAvKmb-Wk0pXoa9KXIhrjfD_My577MYN01OdqsZ8ZYi-74c1eguN9Y8RC4CQMvBvoamty3N10C8HbtHq2NEhD501mAWX9o-Cekl3pea76wGhR-PQR1pdfykbO9_qeNNsUC-RKXpw",
+            "width": 4021
+        },
+        {
+            "height": 1286,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101478431542895927246/photos\">Premium Merchant Funding</a>"
+            ],
+            "photo_reference": "CmRaAAAAF7X1rC9ClWGUZpNo906O8H3o6w7bC6Mx_OtESPJWb32xhcArjaeibzFKK3K0_Chl_J9JPpIMMU3zXAClUnWce8G_WsquyO3_SNyfvwhkw6rr8puo-a_Na7zUmDhPyvukEhAamBRkInmKnrxojBDJYIIyGhQmdR3cFVG-5vttrGFO3eW7XD1n1g",
+            "width": 1287
+        },
+        {
+            "height": 2007,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101478431542895927246/photos\">Premium Merchant Funding</a>"
+            ],
+            "photo_reference": "CmRaAAAA_V3fVIQzDeeIA4nx6VgmNTO6vkhbg3uMZ1FXYiB-KlwgKCicyKWPviEPNSSW_Rf5_5ojoAxrLCS4EURLO2GYAk13strL_vau7i_Jg9YLQf-ZPbyJ3UDYqUKfLzEAkyZcEhAeIgGUHMNqjkhV-XarZCurGhQ1eVxwkLqt4vFwPdhoWx4YQt9xKw",
+            "width": 3540
+        }
+    ],
+    "place_id": "ChIJn5pH_hZawokRDewWT2kEI0E",
+    "plus_code": {
+        "compound_code": "PX3R+8C New York, United States",
+        "global_code": "87G7PX3R+8C"
+    },
+    "rating": 4.2,
+    "reference": "ChIJn5pH_hZawokRDewWT2kEI0E",
+    "reviews": [
+        {
+            "author_name": "Chris Turley",
+            "author_url": "https://www.google.com/maps/contrib/113122242602723336395/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-mIVbA2OOqZo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfXX8QRTRb1aEpeardfvgzN5T5PFA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Highly recommend Jeffery Germain he goes above and beyond for his clients. He is very knowledgeable, He went hard for me to get the best deal he possibly could and never gave up.  From beginning to end no matter what time of the day and no matter how many times I called he was there. He is amazingly fabulous, truly the best of the best. Very honest and keeps things 100 at all times. I would give him 10 stars if I could.",
+            "time": 1560982438
+        },
+        {
+            "author_name": "chantelle latham",
+            "author_url": "https://www.google.com/maps/contrib/107046487358693780633/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-DdTF5j7cmTs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd0jLoMp0NGJQz5Elr4s_E1kXBPMw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Highly recommend Ben helped me get the funding I needed to help grow my business.  Do extra advertising and expand. Amazing customers service and very helpful!!! Fast and efficient. \nThanks so much Premium Merchant funding",
+            "time": 1553804429
+        },
+        {
+            "author_name": "William Steber",
+            "author_url": "https://www.google.com/maps/contrib/116528866265503478214/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HsB5CrezTsE/AAAAAAAAAAI/AAAAAAAAANI/_G1_CQ7CmY8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Ben Arnold at Premium Merchant Funding made everything so easy to obtain funding.  He asked the questions to help me understand what I really desired. I won't hesitate to use them again.",
+            "time": 1554922588
+        },
+        {
+            "author_name": "JJ Brown",
+            "author_url": "https://www.google.com/maps/contrib/113230257531185613144/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NJSACz4J5Ww/AAAAAAAAAAI/AAAAAAAABT8/4awUnVw6rGE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "They will cold call your physical store fronts offering financing. They purchase your data from third parties and harass you.  This is not good business. Would you want your employees exposed to this? Avoid at all costs.",
+            "time": 1559760228
+        },
+        {
+            "author_name": "Fabianne Simmons",
+            "author_url": "https://www.google.com/maps/contrib/107140735281276967969/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LBf9cAfgZaM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdGAlvGtNuax2FZ_o9k8jnoDOatog/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I must tell you that this is the best funding company in the world to work with. I have had many ups and downs with my business but this company has work closely with me. Trust me i have dealt with many funding companies  over the years and i will not go to another company. They have never lied to me what they say they will do. They do. In this day and time its hard to trust companies especially when you give up your personal information. Please trust me put your faith in this company. Your business is there business. I should have put this post along time ago due to the fact i have been dealing with this company for years. I have experienced years of customer service and dedication from this company. There is no other way to go. Premium Merchant Funding. Thank you from the bottom of my \u2764.  Fabianne Simmons \n .",
+            "time": 1548428256
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4693600086995168269",
+    "user_ratings_total": 193,
+    "utc_offset": -240,
+    "vicinity": "55 Water Street 50th Floor, New York",
+    "website": "http://pmfus.com/"
+}

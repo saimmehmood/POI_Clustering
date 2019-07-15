@@ -1,0 +1,183 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10025, USA",
+    "formatted_phone_number": "(202) 236-0783",
+    "geometry": {
+        "location": {
+            "lat": 40.79992,
+            "lng": -73.96831
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8012682802915,
+                "lng": -73.96695741970849
+            },
+            "southwest": {
+                "lat": 40.7985703197085,
+                "lng": -73.96965538029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d33a2ee460c977bd4d6f06b9af5292a7268152eb",
+    "international_phone_number": "+1 202-236-0783",
+    "name": "Anytime K9",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 370,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113521524245495997213/photos\">Anytime K9</a>"
+            ],
+            "photo_reference": "CmRaAAAAHnhbCIvsI4UF5leNbg-cP924mLxsCbwpus2IcBuGJStakyj9FJzHKUpMLEp6enKHEq7Y7TrI2qZR9qW21zBCeRcLO1BpyuJ09_JgCW8fSbKQL0E-mbjFHJxXxncCWzeLEhC_hE-iio1k0d5M7ocfaE9sGhSlzPtwuAmAdPtghjeWW4-TO4M31g",
+            "width": 1515
+        }
+    ],
+    "place_id": "ChIJq6qqqiX2wokRgIkAGkbY8-w",
+    "plus_code": {
+        "compound_code": "Q2XJ+XM New York, United States",
+        "global_code": "87G8Q2XJ+XM"
+    },
+    "reference": "ChIJq6qqqiX2wokRgIkAGkbY8-w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17074228407887235456",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

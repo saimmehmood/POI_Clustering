@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "47-1",
+            "short_name": "47-1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 88th Street",
+            "short_name": "E 88th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">47-1 E 88th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "47-1 E 88th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7825026,
+            "lng": -73.9586684
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7838522302915,
+                "lng": -73.9570555
+            },
+            "southwest": {
+                "lat": 40.7811542697085,
+                "lng": -73.9602803
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "01adadd3b76c2b9fe16792e84cd8913d5d3d5045",
+    "name": "47-1 E 88th St",
+    "place_id": "ChIJX6_il6JYwokRHnyLOeuskWA",
+    "reference": "ChIJX6_il6JYwokRHnyLOeuskWA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=47-1+E+88th+St,+New+York,+NY+10128,+USA&ftid=0x89c258a297e2af5f:0x6091aceb398b7c1e",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

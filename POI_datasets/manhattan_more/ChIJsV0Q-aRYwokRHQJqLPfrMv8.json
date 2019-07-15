@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "1B",
+            "short_name": "1B",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "155",
+            "short_name": "155",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 91st Street",
+            "short_name": "E 91st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">155 E 91st St #1B</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "155 E 91st St #1B, New York, NY 10128, USA",
+    "formatted_phone_number": "(646) 391-6499",
+    "geometry": {
+        "location": {
+            "lat": 40.7819416,
+            "lng": -73.95063139999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7831559302915,
+                "lng": -73.94938066970849
+            },
+            "southwest": {
+                "lat": 40.7804579697085,
+                "lng": -73.95207863029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bb653393c571ae2eff68e595c2e4053ce64b3319",
+    "international_phone_number": "+1 646-391-6499",
+    "name": "Budoff Hillarie MD",
+    "place_id": "ChIJsV0Q-aRYwokRHQJqLPfrMv8",
+    "plus_code": {
+        "compound_code": "Q2JX+QP New York, United States",
+        "global_code": "87G8Q2JX+QP"
+    },
+    "reference": "ChIJsV0Q-aRYwokRHQJqLPfrMv8",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18389019675341750813",
+    "utc_offset": -240,
+    "vicinity": "155 East 91st Street #1B, New York",
+    "website": "http://www.hbudoff.com/"
+}

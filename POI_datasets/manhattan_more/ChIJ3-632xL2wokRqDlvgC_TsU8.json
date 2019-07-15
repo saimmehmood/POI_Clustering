@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-299",
+            "short_name": "201-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 124th Street",
+            "short_name": "W 124th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-299 W 124th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "201-299 W 124th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8089174,
+            "lng": -73.9502925
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8102663302915,
+                "lng": -73.94754965
+            },
+            "southwest": {
+                "lat": 40.8075683697085,
+                "lng": -73.95303544999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "860bb2cafb08d350ef2af2f77769d157dd329e2e",
+    "name": "201-299 W 124th St",
+    "place_id": "ChIJ3-632xL2wokRqDlvgC_TsU8",
+    "reference": "ChIJ3-632xL2wokRqDlvgC_TsU8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=201-299+W+124th+St,+New+York,+NY+10027,+USA&ftid=0x89c2f612dbb7eedf:0x4fb1d32f806f39a8",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

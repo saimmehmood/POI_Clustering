@@ -1,0 +1,291 @@
+{
+    "address_components": [
+        {
+            "long_name": "330",
+            "short_name": "330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "330 Madison Ave, New York, NY 10017, USA",
+    "formatted_phone_number": "(646) 248-6728",
+    "geometry": {
+        "location": {
+            "lat": 40.75314199999999,
+            "lng": -73.979317
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7544385802915,
+                "lng": -73.97785521970849
+            },
+            "southwest": {
+                "lat": 40.7517406197085,
+                "lng": -73.9805531802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "78cf46ce3f1528d229db43b496c1ba4c27731cca",
+    "international_phone_number": "+1 646-248-6728",
+    "name": "Citibank",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113526135580883460455/photos\">AJ Freedman</a>"
+            ],
+            "photo_reference": "CmRaAAAA5etwhkMr_fQPx4wuuFvRAbVDXBfrbtjwhkDInUZ-eEvot61Tv9CRiBivRRWdJ5fTd2QQ4Tr24P7z7eWLei8jmPLzgh9eapCDRAr8Co9EbgQKo39OxpCxl-nVdIAx7c94EhDj_JqiNLddQIXK_u6buiBzGhTVHe0wWdzTqh1jpyeFc-Ak03d9EQ",
+            "width": 5312
+        },
+        {
+            "height": 3028,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110854164034814697389/photos\">Aaron Johnson</a>"
+            ],
+            "photo_reference": "CmRaAAAAcyNfhOguGmF2XosdBznyMRpjSgad7zuIxojdfx2mmMgDmC-AxqBQqMlYAAKkS66PQGwSfBwqGTQAadv27yi7HsNwPivg1X9eJTeQARrHFEWA3Gh_XJJUGjfVE2p6PmqZEhBh63cQnEwKZgM_LEf2lr0CGhTGN3sz0cxED-JUbtRm6IMLb4L-FQ",
+            "width": 5391
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109483977348485652020/photos\">Tobias Timothy</a>"
+            ],
+            "photo_reference": "CmRaAAAAU-r4GgVDiXApClZujavrRxRvO9l0RPHsksvnTxL0JYvF8YDBVHq0pZSvoZJViARHlh078t5BegkHh-brIOfb3AwxYYWD1PIhnvs-rvw8Yh9ASKR0yi-DFVbbywTi_RleEhAqG6zYLZ-riU7kA7UU2SlFGhScmzWLaSjaxOnYoPw1dUUS6xvVgw",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114965334346603311177/photos\">Chad Ferrigno</a>"
+            ],
+            "photo_reference": "CmRaAAAA0CSXjwteGzN2QbuQVuxabQ9IvXXXnAigheM1RjXlfGlAJcsPXm9romaASC87IREiatk3r-dpfZmwvxNQtXwjWhuSZvU-TPKO9H_KVAuxzUt6KMP73i5gZZvK6hKZLBztEhDmQuth23Htgqa9j7f1m5s9GhRlgPCyt3yglAUxC6_d-O7NMXRr-Q",
+            "width": 3024
+        },
+        {
+            "height": 1563,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105170431124683218627/photos\">Marc Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAgoehGBk8jJgz9uzQDn8OZj1LeaC4gF3SEKpDUKlON6nyhe4jWwfR4bJDVL3VG6-ewdw8xQScZJckcc_d1PBBgEAVS6IHvYkKHfLjtMpXPMrOBtdlUiU-tQZ0RdJrc4GkEhA1CgJEuJOpBAHXV7kJGI5BGhQ_f6KwQnpOSJJ_WZd4QUmF4ndv1Q",
+            "width": 2098
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104030933398668757172/photos\">Leejay Heller</a>"
+            ],
+            "photo_reference": "CmRaAAAAT_pRPy0oXI5jN1UEEJujb-Mcp4L6NqLXQGWroS3zVzlz1KevHvw-x_2t1B7s2kUGNmG2VQQu33NeAQTLKhLTv_4o2cP_N28THs3zAaWtc9X-t7UGyzpB7D265FoHPjX4EhD9ngB8M6zj23PFNfVPXWtWGhR2G9dRkvfO3xeFlAD4GDA5Zhnsfw",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104030933398668757172/photos\">Leejay Heller</a>"
+            ],
+            "photo_reference": "CmRaAAAAuHwuvP1vJNwOtnp0pxgjGzV3UcMVloubnCrRLX7dFviDhUt1j1iO2NuNUZPXLYjaGc7trU0i3kFaRvOrCe8gfhAlhAs690CeIIXAgJcrAWZGHxWTaVTjhF8M7Oc-bhdBEhA6SDp_1MVoCyQTmdeT-4qDGhS_WYBil63IXdXaxJgflCYy2UgUmA",
+            "width": 2448
+        },
+        {
+            "height": 403,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106030271252467255450/photos\">Citibank</a>"
+            ],
+            "photo_reference": "CmRaAAAAIJoJaaLwuECf-stXqd0cW97qTC9_jyI9p-QQx4yXwe2IhbKboIxt5qZDMl-RWY1VtfyBR3oUch8i86KKZpb5bFTTFUhWjGi66luuLHkdHMee5kr5uziMI6H3muq8nnr5EhDZpPmPYMFj5XEEyl6OGfRRGhRV6vmtnUD0VkvZP5g5T3EBIpsc3Q",
+            "width": 403
+        }
+    ],
+    "place_id": "ChIJTc-KuAFZwokRVQMwqGk7vJM",
+    "plus_code": {
+        "compound_code": "Q23C+77 New York, United States",
+        "global_code": "87G8Q23C+77"
+    },
+    "rating": 2.6,
+    "reference": "ChIJTc-KuAFZwokRVQMwqGk7vJM",
+    "reviews": [
+        {
+            "author_name": "erbo bock",
+            "author_url": "https://www.google.com/maps/contrib/112378545293696549131/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--rSXUb7BDvk/AAAAAAAAAAI/AAAAAAAAAGw/yajXU6SBK6U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have no idea why anyone would be dissatisfied by the customer service in that branch. I walked in there 7 years ago as a dumb European citizen trying to open a U.s. account and still present day, this branch gives me top notch customer service every single day! \nTo give you an example even the branch manager himself doesn\u2019t mind to come from behind his desk and walk the steps up to bring me to the correct employee to help me out, he could just instruct someone else or pick up the phone but nope, he walks with me. \nThat\u2019s the spirit in that branch, always. \nI think it\u2019s all about respect and the attitude you enter the branch with. \nThe employees are people who work for a living Just like us but give us advice on what is possible for our budgets and they do that very well. Of course if you walk in thinking your going to get a loan or credit card with a bad record then don\u2019t be angry at the branch, be angry at that person you see in the mirror. \nIt\u2019s sad that some so called customers really use reviews to discredit hard working people who actually do an amazing job and handle all our frustrations we have, everyday on top of what they deal with in day to day job responsibilities. \nYou do know you can give positive and honest reviews as well ha? \nHave a lovely day everyone.",
+            "time": 1556985501
+        },
+        {
+            "author_name": "\u7c21\u5609\u6167",
+            "author_url": "https://www.google.com/maps/contrib/108706897618938304156/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Vg_nLbUZLis/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reDa_bPr1goFyhiKocHXhuWIP3Yyg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Terrible service.\nI arrived at 5:15 p.m. and would like to assign my friend as the authorized person of my account. \nHowever, the Financial Consultant said they closed the system 10 minutes ago, even though this branch closes at 5:30 p.m.\nIs the operating progress NORMAL for all the citi banks???",
+            "time": 1561174607
+        },
+        {
+            "author_name": "Kara Lam",
+            "author_url": "https://www.google.com/maps/contrib/105435455394983237155/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MoPB-cCpPnk/AAAAAAAAAAI/AAAAAAAAA0M/J7mwAXyZoaM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Even though this branch closes at 5:30 don\u2019t expect anyone to pick up the phone after 5:00pm. You can hear the employee manually pick up and transfer your phone call to voicemail, this happened a couple of times.  Terrible service.",
+            "time": 1540502576
+        },
+        {
+            "author_name": "Denise Riedstra",
+            "author_url": "https://www.google.com/maps/contrib/115240245686917429392/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FAUnfFcvnIw/AAAAAAAAAAI/AAAAAAAAB9c/Ac3Uo35dFTs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I have dealt with Pashko and he has been extremely helpful and pleasant",
+            "time": 1493989016
+        },
+        {
+            "author_name": "Daniel Chaitow",
+            "author_url": "https://www.google.com/maps/contrib/107072531984771980451/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ttSwofShRxQ/AAAAAAAAAAI/AAAAAAAAB_k/PA2tM2LAmh4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "I have dealt with Pashko at this bank.  He is incredibly unresponsive and unhelpful - recommend you use someone else if you do go",
+            "time": 1477324258
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10645448944176333653",
+    "user_ratings_total": 13,
+    "utc_offset": -240,
+    "vicinity": "330 Madison Avenue, New York",
+    "website": "http://www.citi.com/"
+}

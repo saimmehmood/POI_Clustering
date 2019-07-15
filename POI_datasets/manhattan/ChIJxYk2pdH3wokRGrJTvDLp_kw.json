@@ -1,0 +1,318 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Main St</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Main St, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 313-5842",
+    "geometry": {
+        "location": {
+            "lat": 40.80357559999999,
+            "lng": -73.99084510000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8048844302915,
+                "lng": -73.9895274697085
+            },
+            "southwest": {
+                "lat": 40.8021864697085,
+                "lng": -73.99222543029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2af47a311c4972574329f79c08bccddd3bedee42",
+    "international_phone_number": "+1 201-313-5842",
+    "name": "Juice Journey Cafe",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 8:00 PM",
+            "Tuesday: 7:30 AM \u2013 8:00 PM",
+            "Wednesday: 7:30 AM \u2013 8:00 PM",
+            "Thursday: 7:30 AM \u2013 8:00 PM",
+            "Friday: 7:30 AM \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 9:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109948561119741811609/photos\">Jerry Lore</a>"
+            ],
+            "photo_reference": "CmRaAAAARhquB_yOYoJ8tLKTkpqcneu6mIgMynaiYVD2TkaPPs1Cg6NE00msj07mKZYHt30vRJPTWEXB1XD-Yg0L-p1GsFaY88jY6nZww9TC-gzEOG5X3-pZaAFIilWi_NoAlquEEhD4QqNnzK373C946tzzzWzLGhRBB7eNDad6CmMEp532cgR2r85kkA",
+            "width": 4032
+        },
+        {
+            "height": 3303,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAiZ_fwuefIaP7GEJcl7ASmE-IcT7l44vDa5A3QluHRySSkyR7Ex0cpnFWAfvI9tVoaTm6Rwq1XC4cqDWen-5okNQpYFKaeUdMt1bky8Kkowxqd1NQHkKdtmgZp4y48KVMEhDZUTqXaftQm-1mo6nh9RdoGhRR_Zfr4tfKGTQyrMpNNPVixdxmlA",
+            "width": 4955
+        },
+        {
+            "height": 1290,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113546115797904090505/photos\">GUY lANZA</a>"
+            ],
+            "photo_reference": "CmRaAAAA1LaJv_2EmBe4Q0jBTGMAYDRomlVFZ_XpEgSXC6ITMQKBdiXEFgFDDCzitQzZ9dfqvXmR18NlBKH09ErIi47in7DB74eUuE0uQjApvjUPI-H7YeIZNGD9qDUCM6vAEZ7sEhBOfkWsSL48e4xwsVlFULZMGhQ9UG3l1GEWw32uGuSYPEObgYJb9A",
+            "width": 1730
+        },
+        {
+            "height": 748,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAA-_NB7VAF0A26qj9sIDE20oNxi3MQJvpn0cAxEYpiYqta1sJsqcYLylFg6FzzvrOVR28hO_qZk8cGYZAfPaQghxfIX2mI5fJFVbtAD0hNLRJVb4Vq3uik5PLGt-hWoljEhCVE0b_yFcgNlw-0V4ahC8sGhRucfNFJzBXkSOd9TQu7cJHu1ck-w",
+            "width": 1120
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116452404945763957836/photos\">Anabelle Duma</a>"
+            ],
+            "photo_reference": "CmRaAAAA7XijI7yioSHXj0J4DodMWTouo60vfy4FJKZO-t84iTfxsUhx69oXrDeerhO2id_aDiCLPhw6iiwW3-GSznVsFWEmJ7iEWS7wfccOee97Fz3ZT8BMpT7G57lKfnhayNrTEhBOizExaCz6pi4oBix11RidGhQYQz9lAkx_j16E1YJ3sSfYK-ymyA",
+            "width": 3024
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAA0pbfJrQopojb8I0wmhn55JNEDECjgXtqKRmy0eFSaFjHiAM-6RQQAlp9vb6RiwTKWF6e9o1M8W7cKinILdRtsdJ6r5AZgb6j9cWdJY59BLGuXgYV-nnj5bNSIIzYkX28EhD8D5XqDd6RKjKZ9WvCU6h_GhRI8dasihgnKrIYN8zFyBZaGrfZdA",
+            "width": 1600
+        },
+        {
+            "height": 3166,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAmbhY-zytyiE6V7uCtBPqMuV_3_B9Q98igN94GfoiV9ppoyl7xXM71Nm-ZAJX5RUqr2-X8vKPoZwtWFb-zKy7slnyWXwYUh1wfbdgPh2X94L0T9xS3Wrcros5uUzHC73oEhCJ9L3XcLTak6CcZ12m5NpdGhQpQycGEwdkx3A09tyyCgMSXldJEA",
+            "width": 4750
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAAhkNv80LYVx0deieucqSfn3kYh8xOoBOaVwFMvhOqJW17ujFVzr7TD8K2NA2-X4IZ0Xp1RuPtdL0IZoWSrbac1_zgROzzhnfF1G6HA-Qv4xz-7y0UBpahAjnPLF5NBwamEhD3hM7sEh8_MsY-y4TIdL8GGhS89Bwa456HjM92aIl6bCxXnfqzLg",
+            "width": 6000
+        },
+        {
+            "height": 3385,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAABDdcEn7uiDwMwzMxqIGNYzG7hMnWhh64B6wIruXzUTgyuvQIOzebOSql8NS0O8bYrOkKHVbeDNHHGkBfwGVjMtFMJYTPvRNzsZb6VcfWm_8V0mPm9NqZFzvnKswwrD1YEhD1P4kxsFymfw-Zjh1AyaFsGhQgUELpUHx8js6JSEhYcSsD2M2ptQ",
+            "width": 5078
+        },
+        {
+            "height": 2609,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102498306026227595525/photos\">Juice Journey Cafe</a>"
+            ],
+            "photo_reference": "CmRaAAAADyV5QuJQPoaACneEstPB1wwXP8CNGHfCm7GGjzqVFxqIslXKnbxz30NRXRGs5_sl4_Miyu3ANjzoQsw2nsfW0zmTSHATnKCAR419X2H5pA9LWBZdkLjQSUTt-bDNoDc8EhAsggVDfCrRETrhIdxcV3-mGhTsi4rg6pAXiqf3ugYJDRYX0GgGgQ",
+            "width": 3914
+        }
+    ],
+    "place_id": "ChIJxYk2pdH3wokRGrJTvDLp_kw",
+    "plus_code": {
+        "compound_code": "R235+CM Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+CM"
+    },
+    "rating": 4,
+    "reference": "ChIJxYk2pdH3wokRGrJTvDLp_kw",
+    "reviews": [
+        {
+            "author_name": "JJ Davis",
+            "author_url": "https://www.google.com/maps/contrib/114960190189282383878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dALfCE6MHrg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcDX2XCdWqOsUB5viqVMe11lKsvPA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "One of my favorite juice spots whenever I visit NJ! The juices are fresh and the bowls are delicious. Beautiful inside , super clean and the outside environment is beautiful as well! A great view , also next to a shopping mall!",
+            "time": 1555790557
+        },
+        {
+            "author_name": "Susan Adriansen",
+            "author_url": "https://www.google.com/maps/contrib/115789108275420948209/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AAuE7mBYNlvgdMDpXLubqU-IrVlITbhAjSBzXyPaXdqzxA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Owners don't know who their regular and frequent customers are. Don't ask them to stamp your frequent buyer card if you buy a $25 gift certificate. No can do! It's not a smoothie. This is a strict policy... by the owner herself in person! Not one stamp for my purchase. (Buy 10 smooties get one free - $100). My gift certificate was like 2 smoothies. ...And be careful of the cleanse. They fail to tell you that you may poop in your pants. I just made it to the bathroom. Luckily I was home. I'm done with this place.",
+            "time": 1558272472
+        },
+        {
+            "author_name": "Kevin Maguire",
+            "author_url": "https://www.google.com/maps/contrib/112839088184130176234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zoriC27Kmco/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcr8PVcc70sWx5C5b2u6SW7DwnuEg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I had the most pleasant morning here. Just all around great vibes. Great services, so kind and awesome. Great food. Great view to just chill and unwind. So looking forward to going back.",
+            "time": 1550161900
+        },
+        {
+            "author_name": "Mariana Peralta",
+            "author_url": "https://www.google.com/maps/contrib/101116937368483790522/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AAuE7mAMTPCR6or-T_ZmtOh-tWLCL8VnYv_1W05TlVOtew=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great service and healthy drink options. I tried the acai bowl which is also amazing. Only thing is you can't make your own smoothies but they still have a lot of options to choose from. Juices always taste fresh. Friendly and clean space. Definitely recommend for someone looking for healthy options.",
+            "time": 1551192576
+        },
+        {
+            "author_name": "Anton B.",
+            "author_url": "https://www.google.com/maps/contrib/114593917145364056478/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/AAuE7mDgAEDhwtJSenAFcbqYyKmVETSp91EwIwKo6bb5i5w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "A nice little place with a healthy vibe. I am not big on vegan food but the kelp noodles were delicious, the smoothie was also very good. It also provides nice view of the Manhattan skyline. It's a bit pricey but I would still recommend it.",
+            "time": 1546883907
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5548128195084268058",
+    "user_ratings_total": 59,
+    "utc_offset": -240,
+    "vicinity": "1 Main Street, Edgewater",
+    "website": "https://juicejourney.com/"
+}

@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-50",
+            "short_name": "1-50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "51st Avenue",
+            "short_name": "51st Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-50 51st Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-50 51st Ave, Long Island City, NY 11101, USA",
+    "formatted_phone_number": "(917) 740-2489",
+    "geometry": {
+        "location": {
+            "lat": 40.7432785,
+            "lng": -73.9590348
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7444719302915,
+                "lng": -73.9577390697085
+            },
+            "southwest": {
+                "lat": 40.7417739697085,
+                "lng": -73.9604370302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "f9b0547a1bb0edef383d0d8f96b0bc0e94cf1973",
+    "international_phone_number": "+1 917-740-2489",
+    "name": "New City Church",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 4:00 PM",
+            "Tuesday: 9:00 AM \u2013 4:00 PM",
+            "Wednesday: 9:00 AM \u2013 4:00 PM",
+            "Thursday: 9:00 AM \u2013 4:00 PM",
+            "Friday: 9:00 AM \u2013 4:00 PM",
+            "Saturday: Closed",
+            "Sunday: 10:30 AM \u2013 12:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4859,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102386485970667567407/photos\">John C. Molina</a>"
+            ],
+            "photo_reference": "CmRaAAAAaXbLJmsF3eMfWlbGMr3V97IxKVvztGETWkNfyrq6idnyzFSErKeZ4OHRBtaSiD0DmWkT-V6NYoJ3_dH7i8jN0M206bh56vMlLck_CugbcDErRAQeXy6MrBGD9a0VMmdrEhAmKIgM_mJr3Kar4ml9N9WmGhTZfnD4iHvZ8T4WePoqHaoYECA11A",
+            "width": 7279
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114474293897735279998/photos\">New City Church</a>"
+            ],
+            "photo_reference": "CmRaAAAAOcs9G8EidhwlcH3tMELSDjEmYDYha2JKXif_8Y3dulaFXts5ahi8EOG9nc95xwEnqo_oV9zymuaJl1244bIjEXM3bt0tpVw5EDidSABkKcApr7UI0p7gu5vDFfLABVokEhCnK8xRhylGpq-fNld503DcGhQtK0H99UP9DpANA3vnsH-S3nVigQ",
+            "width": 800
+        },
+        {
+            "height": 495,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114474293897735279998/photos\">New City Church</a>"
+            ],
+            "photo_reference": "CmRaAAAA_vPodmEtcgqNV3_8WVBlylJ6TWrhwM4VyZRz2IdbPc-okFPQpgUCl86yGqrpoeZ3r0dqNJfXEAAC6FXJetRcy8hPdIul9NkBvVFOGfSmAyJMAU2TNMroacyHqifTgpuzEhDS2rhLAkjBRWNayRbVK03rGhRgxahmN9yGTl7ffRuvuoKlzaKB2w",
+            "width": 600
+        },
+        {
+            "height": 798,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114474293897735279998/photos\">New City Church</a>"
+            ],
+            "photo_reference": "CmRaAAAAVEkdkykIncJ47mJUwJC0z85js_rh_Db_QzwtF46wLBnfNiv5j4IQMO3iCllJnVrSnIWDVP2VGNlT_fOrVUksHe5kF3zzY9VGmf8jwNWYvp6EIlNNPuMMs6uI8-wt4HbKEhBO9kzH5EDpGZ0Nbnb56yu6GhTUE0PmIuYlEQUovoBW-hl2cOYPJA",
+            "width": 798
+        }
+    ],
+    "place_id": "ChIJtUhNwyZZwokRaQVs_vNLC2Q",
+    "plus_code": {
+        "compound_code": "P2VR+89 Long Island City, Queens, NY, United States",
+        "global_code": "87G8P2VR+89"
+    },
+    "rating": 5,
+    "reference": "ChIJtUhNwyZZwokRaQVs_vNLC2Q",
+    "reviews": [
+        {
+            "author_name": "Charles MD",
+            "author_url": "https://www.google.com/maps/contrib/112785637004775486814/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jEOcZywxm-o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re4CuMIWuaPxNgVx6bSvaVeO5fsnQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great genuine pastor, non denominational, southern charm. Great kids ministry. Open and welcome to all.",
+            "time": 1521083856
+        },
+        {
+            "author_name": "Teresa Loce",
+            "author_url": "https://www.google.com/maps/contrib/115200918362730146517/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_BO4RNPY82s/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcX7-yig8svyf5MPE0VXEWlF4Lhhw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Meets at Hunter's Point Community Middle School English and Korean Worship service.\n",
+            "time": 1474391670
+        },
+        {
+            "author_name": "Becky williams",
+            "author_url": "https://www.google.com/maps/contrib/110443033648432691293/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wOHUQ1dSJSI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfa59GBJ01YH7y50Mbem_P4cASiMA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1515375256
+        },
+        {
+            "author_name": "Seung Hyun David Kim",
+            "author_url": "https://www.google.com/maps/contrib/115803205045343286598/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-m2xxcHUo9yY/AAAAAAAAAAI/AAAAAAAAAi8/snjVbXW5zEE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1487971676
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7208939139854239081",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "1-50 51st Avenue, Long Island City",
+    "website": "http://www.new-citychurch.com/"
+}

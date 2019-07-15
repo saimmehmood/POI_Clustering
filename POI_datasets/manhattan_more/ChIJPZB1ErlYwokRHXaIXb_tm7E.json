@@ -1,0 +1,282 @@
+{
+    "address_components": [
+        {
+            "long_name": "1566",
+            "short_name": "1566",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4004",
+            "short_name": "4004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1566 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1566 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 217-1600",
+    "geometry": {
+        "location": {
+            "lat": 40.7737858,
+            "lng": -73.95137369999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77516943029151,
+                "lng": -73.95012941970849
+            },
+            "southwest": {
+                "lat": 40.77247146970851,
+                "lng": -73.9528273802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "820eb7203ec0a25f136e8c82b42a37cc1b648b5b",
+    "international_phone_number": "+1 212-217-1600",
+    "name": "Happy Eyes Optical Boutique",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110755732303132915603/photos\">Ryan</a>"
+            ],
+            "photo_reference": "CmRaAAAANAuChA-yyiPeTWixWQ4d1tGTlss2PSFBZ1S4ct10-JFQYdWlOI0KdF1HteGAT0KMf4inSKm4eKDwlqL2pHSY2bk9szbnv38b3Fkb5_kNuBdSCOjgUWDxsGLer0g9ePXmEhBZqfumCHkqJVQX_6sAGxguGhRa8UqQ_yKqwiYmPdATAsgbMasXSg",
+            "width": 4032
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105134047422370396925/photos\">Amelia Kats</a>"
+            ],
+            "photo_reference": "CmRaAAAAFdTvnihJZYeIAgIf0WUgxSawNpbgPyEyvcWxtM14Pge8Y-LwsA7sAsFYLSkmM_sF9HVoKI59b_nU5Seod3Ok6gbTOxFj2qeqcuhWR8IUsxpxWn0YtEv3PyMG4dVUrJpSEhCVu_o2vgUKQGyv_rCxhXrvGhR_ScdHb3IKj2cRlsyk9A9g7nh7mw",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105134047422370396925/photos\">Amelia Kats</a>"
+            ],
+            "photo_reference": "CmRaAAAAaN9vtFBPOUwtmo4AW1-fM9wpcdwPHfsd85B0w1y9CHW8p5_ZIOad8OgApuPNNtHb8K_CVTcg1LAirKv7qzwOe6GlmtKT-xwFrGyLX-_BPBuQgLjyDnupc3m7J9pLlewHEhAxD7GGV2idCsiveEUvU5DgGhTtQ4ALCU8__jHKY6RTZNfxynr0Ng",
+            "width": 1536
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103936989815765246003/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRZAAAAs1Wyus5hsnDAhhLt3arAQMOGJJzPIo2_2DUqNvDnhLMcHqo5Req6OFEbComH7sBvglhenFBMI7mnBytRMZPgejAJOKYTRIaoBVoyzHcO2vwobApEhCqxwB3_xSXuDgf4EhDUx2u0NW-De9vpBHe9mrDJGhRVDoJIe5umGQIFVlsTLISM-jDtRQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103936989815765246003/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRZAAAAw18dPyVkbPopgg2acRuot5p3bmIzmOh2DhLjlOWZESlrvrFpo4spH1BkLhxhk0QSSU7MH98Zg7P5Pg7mPOhWZKq-GBI1xZOPN4J7xgw5h891jkMbLzz809oibDKP18L8EhAqeELQOyHIYTia57g4hHTGGhRiCfIgWwZDuJSl36ZO6C2q9YtEEw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJPZB1ErlYwokRHXaIXb_tm7E",
+    "plus_code": {
+        "compound_code": "Q2FX+GF New York, United States",
+        "global_code": "87G8Q2FX+GF"
+    },
+    "rating": 3.9,
+    "reference": "ChIJPZB1ErlYwokRHXaIXb_tm7E",
+    "reviews": [
+        {
+            "author_name": "Hana Avezova",
+            "author_url": "https://www.google.com/maps/contrib/106771810689161780822/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mqTMPRxKWYA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reXZYMXzrZxU-QfaMnYKg5OCBfOxQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I recently moved into this lovely neighborhood and luckily found an amazing doctor. I needed to get a contact lens exam before the year was over and Dr. K performed a thorough exam in a timely manner. The staff was very welcoming and professional. Dr. K was able to answer all of my questions and my contacts are great. I look forward to going back there soon to get a new pair of glasses. I highly recommend Advanced Vision Care!",
+            "time": 1543874774
+        },
+        {
+            "author_name": "Amelia Kats",
+            "author_url": "https://www.google.com/maps/contrib/105134047422370396925/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rC62VYjcx9w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc6ZYzzVyQI-4ihJz5P_7ygmZg9Zg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I came in for an exam on Saturday for glasses. The doctor was very nice and helpful. I haven't seen an eye doctor in a while but I felt like my vision has gotten worse over time. This was the first time I ever needed to wear glasses but the workers were very nice. The lady showed me different frames and I really like a pair of purple ones, they have a really cute design on the side. i had a really great experience and the glasses took about a week to be ready. Thank you guys!!",
+            "time": 1543192408
+        },
+        {
+            "author_name": "Amethyst A",
+            "author_url": "https://www.google.com/maps/contrib/100341394294689472410/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_8RfRUDJCZ8/AAAAAAAAAAI/AAAAAAAAADM/c3vM4TzZIVg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I had such a great experience here. I was not sure about what would suit me most in terms of frames but that was not even an issue. They had different shapes and styles. The staff was very polite and the doctor seemed interested to help.",
+            "time": 1543467637
+        },
+        {
+            "author_name": "Melana Khafizova",
+            "author_url": "https://www.google.com/maps/contrib/106203110696018654927/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-zcrQ3lKoEao/AAAAAAAAAAI/AAAAAAAAAKY/gMVb2T2CCto/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Good service and great staff! I went in for a quick contact lens exam and had the contacts shipped to me. The doctor was very attentive. Would recommend this place to everyone.",
+            "time": 1543464785
+        },
+        {
+            "author_name": "Nataly Abramov",
+            "author_url": "https://www.google.com/maps/contrib/111910642071569865739/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kowGLzNBUVk/AAAAAAAAAAI/AAAAAAAAEIY/7H0Ja4vdweY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I really wanted clear frames and the ones I got from warby parker literally snapped. Such a disappointment so I usually have my exams here and thought it was worth it to check if they had what I wanted. The lady at the front desk had all clear frames exactly the way I wanted mine to be (some have funky colored sides and I just wanted a plain pair). Anyways I asked her where she got them from and she showed me them. They were a little more expensive but I LOVE them.",
+            "time": 1542763545
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12798084172267157021",
+    "user_ratings_total": 22,
+    "utc_offset": -240,
+    "vicinity": "1566 1st Avenue, New York"
+}

@@ -1,0 +1,284 @@
+{
+    "address_components": [
+        {
+            "long_name": "66",
+            "short_name": "66",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "66 Green St, Brooklyn, NY 11222, USA",
+    "formatted_phone_number": "(347) 927-6682",
+    "geometry": {
+        "location": {
+            "lat": 40.733164,
+            "lng": -73.9592643
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73459323029149,
+                "lng": -73.9579280197085
+            },
+            "southwest": {
+                "lat": 40.7318952697085,
+                "lng": -73.96062598029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e943461ea1cd3bda73477e66a5c5a7484aac1294",
+    "international_phone_number": "+1 347-927-6682",
+    "name": "Double 6 Studio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 12:00 AM",
+            "Tuesday: 8:00 AM \u2013 12:00 AM",
+            "Wednesday: 8:00 AM \u2013 12:00 AM",
+            "Thursday: 8:00 AM \u2013 12:00 AM",
+            "Friday: 8:00 AM \u2013 12:00 AM",
+            "Saturday: 8:00 AM \u2013 12:00 AM",
+            "Sunday: 8:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA9p1jfgYQBa_w80ZR8_Lu2JjMlV_AgMolvwnCk8gC0Xu68h5BEtSHlZxs1Um9EGiQbjXO08WmIpJlyOEZsmKsflcG7hKVD4vPusCmW_ty8nTsRABbEMnBdad2lgsXW0s6EhAg0GWfmCCKE1wQPV7waEF_GhReschSr5Csc8xofpx6DbtsPBMdlA",
+            "width": 683
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAA44kuHgriuJOxc9Sk1rxVSeRUyC14opM_0v43Cl5PofO__-g7Wt0T8inZZEW78xF37UHMraBGbXpl7DIismyZGkOmcdN6Q8B-cWxonNhoMJ9PgTWIr582OMhEtFqx88fEhDq-j0cRCj4v9Ws37Dx-9y_GhRpf1W-AvR3LA1TQUja-LKBvJh-ag",
+            "width": 683
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAi4zHho5H07deCtPBWz0xBn9pBboFgAcXaDgzJ2lI2iuK9rCNhg8CL1-Jf5pClGAOGv-0ETl6yu69RWJzrtZvQ3jp1NKZy0OwRbuz-3FOEiheZNAL5VQEt9uS7YamQiXVEhC3PYd-DLqftfuBd9DglrnrGhSeGRGTFn4pCtij3Cft1CmVZLpK6A",
+            "width": 2048
+        },
+        {
+            "height": 683,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAOgnwBojtGzJlSLXPTzSiqWrY0Ms_rkerqDpxNZUr-GHFSGHzwzPgDjznSDbtV4-t3zK4gngC-OsLVtjg5Pbe1ir5tgmCiaUCkhZOZ7n-zFUa2hIx_8bHIvQKP67yN9RHEhAG9HJoyPc8QMujdinTsn4GGhRUnMcMSVn_3CDKejpm_GqGDHmkJw",
+            "width": 1024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101190490699390496488/photos\">Andy Perry</a>"
+            ],
+            "photo_reference": "CmRaAAAAEU9UrNAULxATcqQFMzPuuaOJq4qXcnklF8qsP0FMoa5eP3xO-8E4kYvAp5rkl-5YP2z02Isc-d4HszWhh5trcuY29kERcsvzUQEvNi92wsQ-ntG3Ry8f3Y_hsQcnKNE2EhA7abuSFegh93n8yxfxjBpIGhSmxrj51rRpGZ_Ij8clvqK14YfUwA",
+            "width": 3024
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAB0_U0GG5N9PA9nToVzPoxDWyzI5zULbjk8rIhp6UuFMg4KVsmNE9ikDj0LuirvPAlr7B60NulGYjNOe3bFUKkHBxGhvVHBDUfq4wxvPdPFsbfSDcYAwy2ib4z_V4shQREhCX-JsfGIcFikz0jsUl4zKsGhRqkBCw92KNKrHkQlQqljxcaApRRg",
+            "width": 683
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAXfZ0efrGXwnoDsytMhHygwvFARHBhpwjnBJ6J3QP7620tEjxqYLXaMOPYl0nUo0d4KLsFhngwE6nSk7WpN612Sxvq4PLtJG6tzcgdR--GJ-7_lVLD35ny7M2yfWw-q1HEhBJWDi3tEAXVKtof_T0TQIKGhTzyccl9AiNHjkAufMGcxfQEIT57Q",
+            "width": 2048
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAvxYvakzoWqOsFcTj_lOIpIyS1M47iTZQpLFk50cJmF6GWoKMR6QRrW5f44Hpsv3-6fgZuOO9LHCnzGfaRCB7-GJrwjmvEfSyyEKg78ytnL23B4cU4NDHlQomnmTTYLAOEhAJvk83VlEzBxpXLjrawbuFGhS2XBMoPmJUfAaicCw3s_njlmW7Ug",
+            "width": 1024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAa2kuMK0CKu582uSERT2MeCemgKA5Lem5ttYK3XvEN0r8N9dpXUV02qVE32hIYEPbxo6rfkGF_a-GoMzR6sAjLz7Cep7VJinDTyDmnjfN47_xktHZLGXmkmmJ2kabubu3EhB5RWmjYfir-9GNtEVwNKpBGhTbBbGxStiYx4wZa9tFTuTKDgshCQ",
+            "width": 2048
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113079886168624597858/photos\">Double 6 Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAotjfuVIeQQ3Fs5jXYWicv461Ju26hxBWNqrIrXBKecgRFoKSIgmsdVHncOcF52UeDvw3YBc28PXusHnzHAhgsHDIJKfqQ6MlXPedbeDadVSn5rhxF57BJssHEiaTIxYMEhBMM5EynUUBD1Pd8vTQQzByGhSF-8DMXOLQliszD98ay_tDDrZdfw",
+            "width": 683
+        }
+    ],
+    "place_id": "ChIJT2rw4D9ZwokRlqn9pi9SRVw",
+    "plus_code": {
+        "compound_code": "P2MR+77 Brooklyn, New York, United States",
+        "global_code": "87G8P2MR+77"
+    },
+    "rating": 5,
+    "reference": "ChIJT2rw4D9ZwokRlqn9pi9SRVw",
+    "reviews": [
+        {
+            "author_name": "Jose Melendez",
+            "author_url": "https://www.google.com/maps/contrib/109375032810520398505/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-UyftizyyrFE/AAAAAAAAAAI/AAAAAAAAAFk/uo1dKxn9RIs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1447032809
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6648810789500987798",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "66 Green Street, Brooklyn",
+    "website": "http://www.double6studio.com/"
+}

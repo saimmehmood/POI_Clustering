@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "1608",
+            "short_name": "1608",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1608 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1608 Amsterdam Ave, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8217389,
+            "lng": -73.95037839999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8230543802915,
+                "lng": -73.94895006970849
+            },
+            "southwest": {
+                "lat": 40.8203564197085,
+                "lng": -73.9516480302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cd1c07feb87a47fe2d61202651cd4773eafcec94",
+    "name": "Hdfc Co-Op",
+    "place_id": "ChIJhxPNAGX2wokRo0JqRQZQHLY",
+    "plus_code": {
+        "compound_code": "R2CX+MR New York, United States",
+        "global_code": "87G8R2CX+MR"
+    },
+    "reference": "ChIJhxPNAGX2wokRo0JqRQZQHLY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13122451402115400355",
+    "utc_offset": -240,
+    "vicinity": "1608 Amsterdam Avenue, New York"
+}

@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "114",
+            "short_name": "114",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 13th Street",
+            "short_name": "E 13th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5329",
+            "short_name": "5329",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">114 E 13th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-5329</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "114 E 13th St, New York, NY 10003, USA",
+    "formatted_phone_number": "(212) 533-2235",
+    "geometry": {
+        "location": {
+            "lat": 40.7329826,
+            "lng": -73.9891488
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7344258302915,
+                "lng": -73.9877302697085
+            },
+            "southwest": {
+                "lat": 40.7317278697085,
+                "lng": -73.99042823029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "037dde3c46dd8ba0dba9b3f3f27f21417c82134d",
+    "international_phone_number": "+1 212-533-2235",
+    "name": "American Felt Building Management",
+    "place_id": "ChIJx6adMplZwokRaknmiVIlEBc",
+    "plus_code": {
+        "compound_code": "P2M6+58 New York, United States",
+        "global_code": "87G8P2M6+58"
+    },
+    "rating": 5,
+    "reference": "ChIJx6adMplZwokRaknmiVIlEBc",
+    "reviews": [
+        {
+            "author_name": "king sly",
+            "author_url": "https://www.google.com/maps/contrib/117900070983706787141/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Ej7eb0UTHA8/AAAAAAAAAAI/AAAAAAAAABM/IB56lypdPF4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "",
+            "time": 1362751979
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1661869298930829674",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "114 East 13th Street, New York"
+}

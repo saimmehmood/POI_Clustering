@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "312",
+            "short_name": "312",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 127th Street",
+            "short_name": "W 127th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">312 W 127th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-1801</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "312 W 127th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 665-1678",
+    "geometry": {
+        "location": {
+            "lat": 40.81166990000001,
+            "lng": -73.951152
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8130952802915,
+                "lng": -73.9497470697085
+            },
+            "southwest": {
+                "lat": 40.8103973197085,
+                "lng": -73.9524450302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fb0cf7a79099c7ada363cef62487eb4e078c6e99",
+    "international_phone_number": "+1 212-665-1678",
+    "name": "Center For Urban Community Services",
+    "place_id": "ChIJIbHR5Gz2wokR1k7pCQelwxM",
+    "plus_code": {
+        "compound_code": "R26X+MG New York, United States",
+        "global_code": "87G8R26X+MG"
+    },
+    "reference": "ChIJIbHR5Gz2wokR1k7pCQelwxM",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1424163356828847830",
+    "utc_offset": -240,
+    "vicinity": "312 West 127th Street, New York",
+    "website": "https://www.cucs.org/"
+}

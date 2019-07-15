@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10128, USA",
+    "formatted_phone_number": "(646) 245-6776",
+    "geometry": {
+        "location": {
+            "lat": 40.78394249999999,
+            "lng": -73.9499197
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7852162302915,
+                "lng": -73.9486257197085
+            },
+            "southwest": {
+                "lat": 40.7825182697085,
+                "lng": -73.95132368029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e00c1a4ce01aa3447fa4125a81bfbb77c156289c",
+    "international_phone_number": "+1 646-245-6776",
+    "name": "Ashley Bryan, PT",
+    "place_id": "ChIJexO-yKVYwokRC97_tnEow9U",
+    "plus_code": {
+        "compound_code": "Q3M2+H2 New York, United States",
+        "global_code": "87G8Q3M2+H2"
+    },
+    "reference": "ChIJexO-yKVYwokRC97_tnEow9U",
+    "scope": "GOOGLE",
+    "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15403199619403865611",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "# A",
+            "short_name": "# A",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "558",
+            "short_name": "558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1704",
+            "short_name": "1704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">558 Anderson Ave # A</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "558 Anderson Ave # A, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 840-8552",
+    "geometry": {
+        "location": {
+            "lat": 40.82324199999999,
+            "lng": -73.98907799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82465223029149,
+                "lng": -73.9878680697085
+            },
+            "southwest": {
+                "lat": 40.82195426970849,
+                "lng": -73.9905660302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7c75e4a2df756f91b4201a64567968114a3ba588",
+    "international_phone_number": "+1 201-840-8552",
+    "name": "N & D Consulting LLC",
+    "place_id": "ChIJs4k-j7H3wokRAaDVpg0H3qs",
+    "plus_code": {
+        "compound_code": "R2F6+79 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+79"
+    },
+    "reference": "ChIJs4k-j7H3wokRAaDVpg0H3qs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12384343780530429953",
+    "utc_offset": -240,
+    "vicinity": "558 Anderson Avenue # A, Cliffside Park"
+}

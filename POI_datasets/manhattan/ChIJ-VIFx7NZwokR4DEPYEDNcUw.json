@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "450",
+            "short_name": "450",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 33rd Street",
+            "short_name": "West 33rd Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10001",
+            "short_name": "10001",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2601",
+            "short_name": "2601",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">450 West 33rd Street</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-2601</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "450 West 33rd Street, New York, NY 10001, USA",
+    "formatted_phone_number": "(212) 239-8723",
+    "geometry": {
+        "location": {
+            "lat": 40.7530688,
+            "lng": -73.999456
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545499302915,
+                "lng": -73.9984134197085
+            },
+            "southwest": {
+                "lat": 40.7518519697085,
+                "lng": -74.00111138029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a3c8d1068eb53e490007533db867f949c6c03f4e",
+    "international_phone_number": "+1 212-239-8723",
+    "name": "CGI",
+    "place_id": "ChIJ-VIFx7NZwokR4DEPYEDNcUw",
+    "plus_code": {
+        "compound_code": "Q232+66 New York, United States",
+        "global_code": "87G8Q232+66"
+    },
+    "reference": "ChIJ-VIFx7NZwokR4DEPYEDNcUw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5508409495624036832",
+    "utc_offset": -240,
+    "vicinity": "450 West 33rd Street, New York",
+    "website": "http://www.cgi.com/"
+}

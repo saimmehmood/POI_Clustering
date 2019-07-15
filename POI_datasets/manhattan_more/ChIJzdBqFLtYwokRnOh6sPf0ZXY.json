@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 996-1311",
+    "geometry": {
+        "location": {
+            "lat": 40.7788992,
+            "lng": -73.9513432
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78019328029151,
+                "lng": -73.9498714697085
+            },
+            "southwest": {
+                "lat": 40.77749531970851,
+                "lng": -73.9525694302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "007b640e6265808bb8e6234acbd39de23a535439",
+    "international_phone_number": "+1 212-996-1311",
+    "name": "Suzanne Chait, LCSW",
+    "place_id": "ChIJzdBqFLtYwokRnOh6sPf0ZXY",
+    "plus_code": {
+        "compound_code": "Q2HX+HF New York, United States",
+        "global_code": "87G8Q2HX+HF"
+    },
+    "reference": "ChIJzdBqFLtYwokRnOh6sPf0ZXY",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8531494413778217116",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

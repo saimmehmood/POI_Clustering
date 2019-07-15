@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10065",
+            "short_name": "10065",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10065</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10065, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7630402,
+            "lng": -73.9593196
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7644106302915,
+                "lng": -73.95803161970849
+            },
+            "southwest": {
+                "lat": 40.7617126697085,
+                "lng": -73.9607295802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "d3c48fc924c00c4b1938d074489da1f46ba04dd1",
+    "name": "1 Avenue & East 64 Street",
+    "photos": [
+        {
+            "height": 1731,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109587063612267694032/photos\">Benjamin patino</a>"
+            ],
+            "photo_reference": "CmRaAAAA23wi4stLdSz2ATn1NFlSzfCnRNCgcjJEBQ9atpbohX3KHz1pP255SyKC1AttVYvLbRGKomWgeyNZKsMt9arK7BrhF2tlP-kO4yPgKCFpLmggozTNvFmwiZupIbyoyfIJEhBoJif-_JmvLl_4NKvlNkPIGhSGkNfkISAwgAIZnGA2qBHK8QoeVQ",
+            "width": 3228
+        }
+    ],
+    "place_id": "ChIJEVa-n8JYwokRVHf5ZtkYXLg",
+    "plus_code": {
+        "compound_code": "Q27R+67 New York, United States",
+        "global_code": "87G8Q27R+67"
+    },
+    "reference": "ChIJEVa-n8JYwokRVHf5ZtkYXLg",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13284520322850715476",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

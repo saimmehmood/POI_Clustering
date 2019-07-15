@@ -1,0 +1,226 @@
+{
+    "address_components": [
+        {
+            "long_name": "1234",
+            "short_name": "1234",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1234 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1234 5th Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 360-3356",
+    "geometry": {
+        "location": {
+            "lat": 40.79292299999999,
+            "lng": -73.9514817
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7944653302915,
+                "lng": -73.9503102697085
+            },
+            "southwest": {
+                "lat": 40.7917673697085,
+                "lng": -73.95300823029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "56b8c25b517f61c740d2cc1664a0ff7614fc48af",
+    "international_phone_number": "+1 212-360-3356",
+    "name": "Natural Areas Conservancy",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3022,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAAUdczVYMYG7o16_0VjX3dqm4rm6_DqhPwUClj07G17QInInTD6NqmqR8USsCQeJuuhdiTdUs39MWMewnKLhr6qWo12FfRfuJWYE8NiRhf0eldWXikBlydpMtkJEYvSaHgEhBZpNFmh-pSHVOsFOakVd3YGhTfH7e0yAdYTpFVEn9H8PpZqa1I-Q",
+            "width": 3510
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAALrzRFm1xCMCrSXjoawVTqt6RmzOI_V0ZfxWKiIIZ0DOtiDZwZnu_r3mOIzjZGKrF_b8WnS9jX5QUSyrKuyeHtZgzwpxnCmOD4oULDww4rYvLJjiqg-3ljwSsolnfrRmlEhBag3fU2oDsmTU4HdMzRAFOGhR9pNnRas8AOqoysYDk-OTGVWZ5pw",
+            "width": 3872
+        },
+        {
+            "height": 1257,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAATxhoMKec6BJuuUDETfeUKtAY_Jp-W8VFZWSRYiEs0227Cm0c8oRXdV1sKD7PjU7sqfCa11lwheC-WhfLGSM6AHGuXw-XeVdNUGAPm5Ig0kF5vhBDzsXTmdsnz_FeRWLxEhDe9yF2xJHxLqdLcvUnQ8oAGhRbqSwiv_LYIqDyJE2-rHGuyMMPSQ",
+            "width": 943
+        },
+        {
+            "height": 1761,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAAeBamw84e0CEzWLjhINHSuCiO_-S3TsRC_hAvsFcZpZ21_lOX3oIVW4HnMkKI0biTMokC14z7SCqygXDgj22c63SjsnCiQG3YjjbuOV4kIEJsrBeah_rQtZq7uVzE-NFfEhBjpqaT2b7gcwIjlqYXbOVGGhT4D96I8d5E43sogmuMepa0ytdD0Q",
+            "width": 1408
+        },
+        {
+            "height": 1482,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAAyOGEk11MugLewLEG9zpUc6s1L5L_538J_H6_KI1SkIleH0soV_uQMIV37un1j6L4BSYqNjVay2QaVdqFyaRvdVOj4pAXjpIOn7N9DSf4uGLs5H5orzX6TdHwojYR3V7dEhAB_96mKr7Z9kGCv5DgrAI5GhQtnCc13xmvQBxCFHhX1ot3NtpNlQ",
+            "width": 1977
+        },
+        {
+            "height": 548,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAAChh9oGImfiSDdiP-cAWBHHEZgkeJgLg20ICguP7Z6YycFQnl7v96gbeMXwsNWyurjQNtiDz2et7DbKiKUj1uLn7qePZqopOjm_O557O5Bv0PIugYQ5wKJKmaawTyjOzKEhCDxO6yAdrz4P2qREx9dMyvGhQ7_a-ksa8GU5QDPdedXG2H_a2fHg",
+            "width": 880
+        },
+        {
+            "height": 384,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105650793235507580466/photos\">Natural Areas Conservancy</a>"
+            ],
+            "photo_reference": "CmRaAAAARFuUzHWugHaG2HkNR4GLMKi_OIwkO7T6ZNN3G2IUR40a4gbu9pr-Uq8STO6PwVJwfwaGQ6NqSAGUV6gpvgQH1CJbq_ZgvKzoQzdhEuLI0IwA5uM5OKn17hwIBOALbSlbEhCOvwKbrOGuH4WYJ4C2-xkUGhQnMfes8wyXKnO842lhSKXuKCXg4w",
+            "width": 453
+        }
+    ],
+    "place_id": "ChIJydAz4m73wokRlDrbsfLSqQA",
+    "plus_code": {
+        "compound_code": "Q2VX+5C New York, United States",
+        "global_code": "87G8Q2VX+5C"
+    },
+    "reference": "ChIJydAz4m73wokRlDrbsfLSqQA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=47801210871954068",
+    "utc_offset": -240,
+    "vicinity": "1234 5th Avenue, New York",
+    "website": "http://naturalareasnyc.org/"
+}

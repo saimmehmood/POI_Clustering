@@ -1,0 +1,65 @@
+{
+    "address_components": [
+        {
+            "long_name": "Unnamed Road",
+            "short_name": "Unnamed Road",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Unnamed Road</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Unnamed Road, New York, NY, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.708721,
+            "lng": -73.981622
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77686040000005,
+                "lng": -73.93560395
+            },
+            "southwest": {
+                "lat": 40.64512479999994,
+                "lng": -74.05135415000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e66e21465635aabca4c3eb87587e2a66dd4d4994",
+    "name": "Unnamed Road",
+    "place_id": "ChIJRX1ySHhZwokRv18xaoiWKqw",
+    "reference": "ChIJRX1ySHhZwokRv18xaoiWKqw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Unnamed+Road,+New+York,+NY,+USA&ftid=0x89c2597848727d45:0xac2a96886a315fbf",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

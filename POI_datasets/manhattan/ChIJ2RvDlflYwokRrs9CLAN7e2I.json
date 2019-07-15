@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "1345",
+            "short_name": "1345",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10105",
+            "short_name": "10105",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0302",
+            "short_name": "0302",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1345 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10105-0302</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1345 6th Ave, New York, NY 10105, USA",
+    "formatted_phone_number": "(212) 548-2125",
+    "geometry": {
+        "location": {
+            "lat": 40.7630212,
+            "lng": -73.9790517
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76422723029149,
+                "lng": -73.97735681970849
+            },
+            "southwest": {
+                "lat": 40.76152926970849,
+                "lng": -73.9800547802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7452ffac01a18feebdf640b3bcebf25e9de16505",
+    "international_phone_number": "+1 212-548-2125",
+    "name": "Shibuya Naoki H",
+    "place_id": "ChIJ2RvDlflYwokRrs9CLAN7e2I",
+    "plus_code": {
+        "compound_code": "Q27C+69 New York, United States",
+        "global_code": "87G8Q27C+69"
+    },
+    "reference": "ChIJ2RvDlflYwokRrs9CLAN7e2I",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7096400891410042798",
+    "utc_offset": -240,
+    "vicinity": "1345 6th Avenue, New York"
+}

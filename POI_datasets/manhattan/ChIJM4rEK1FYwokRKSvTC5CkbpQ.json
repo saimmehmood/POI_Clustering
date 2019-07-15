@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "739-721",
+            "short_name": "739-721",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "9th Avenue",
+            "short_name": "9th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">739-721 9th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "739-721 9th Ave, New York, NY 10019, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7631798,
+            "lng": -73.98918789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7645287302915,
+                "lng": -73.98783886970848
+            },
+            "southwest": {
+                "lat": 40.7618307697085,
+                "lng": -73.99053683029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7a7b8038c48f626d3bea5b54c263d545bafe3419",
+    "name": "739-721 9th Ave",
+    "place_id": "ChIJM4rEK1FYwokRKSvTC5CkbpQ",
+    "reference": "ChIJM4rEK1FYwokRKSvTC5CkbpQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=739-721+9th+Ave,+New+York,+NY+10019,+USA&ftid=0x89c258512bc48a33:0x946ea4900bd32b29",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

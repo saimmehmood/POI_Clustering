@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "1546",
+            "short_name": "1546",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1546 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1546 Madison Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 964-5314",
+    "geometry": {
+        "location": {
+            "lat": 40.7928038,
+            "lng": -73.95037049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79410753029151,
+                "lng": -73.94891401970848
+            },
+            "southwest": {
+                "lat": 40.79140956970851,
+                "lng": -73.95161198029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8781b1485acda5688ad1183aa0194f180340754c",
+    "international_phone_number": "+1 646-964-5314",
+    "name": "Metro by T-Mobile",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100902859217922498604/photos\">Richard Lewis</a>"
+            ],
+            "photo_reference": "CmRaAAAACQdgWA9oGDdFLRHhw6_kjnRdnEaQG2ElYEUdBRVZ5OgH1CVWpQl3uuNfRPuupz2W3wzTn7nDpSoCZRBYSFB8FC-fcmQoAxexdBtinRXnggkdBjo5CunCHvEOkqfvCV_vEhAA06FecQXawEWL2sH17nR4GhRuAsBwlOhmr3SnjM5_CNOUjSN-xg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100902859217922498604/photos\">Richard Lewis</a>"
+            ],
+            "photo_reference": "CmRaAAAAdZm9WP9pFA4zW5SgUW3393pu3UEvLoNpJdXdcoNJb0d-uoXXb21NiwMPs0ds_w11SPGtgmXNbmEqvPjYFT_YseT2G2X5EyHdGoEfsUpR77tRRhzPy5hHvehcKpnys45GEhDgbiqVBlTGMeIQXzi-Qz1MGhRes1wI42TllFhCs-JAbdGyamkTfw",
+            "width": 768
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951242346764153011/photos\">Yamin Arafath</a>"
+            ],
+            "photo_reference": "CmRaAAAA_hcC8Z36VNVeXj5KdceJ_mPudnY_v7aMYqt7cenGbN9QfORECFPDP1Q0crooGfBtcsv0EXr6kBYj8lJjFzvqxupqijXQzNc4Yq_WTlPbAUGtjb4zX53ugYicVTUuPIdVEhCPlGVKv1i_26gl5d6YL8KhGhQUCI9i9TwQxmiN3VHq-P9mxOySMw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104467292326736204302/photos\">Opu Haq</a>"
+            ],
+            "photo_reference": "CmRaAAAAde6LVKqeYZoVbJh8uW9nHRgsvZHDDggh-Zd1sd_B7pyiz0fs5c8s1ECp0hoP06JXVKP1p26yMo5OQJR1Ja_jsZL6RbOKsNTX7rcdQuNACIDtOZxHEt1RMMBFD9IjT_NpEhD1zmAKpawIeAGbMBzxqrTVGhSlDtaNJb8Iw_VHfbYlyzka9MsZPA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951242346764153011/photos\">Yamin Arafath</a>"
+            ],
+            "photo_reference": "CmRaAAAAY_eMB6131yajFMm5VshmBvcn_iEroS07Do-2XMCARybxGaHerDS-KkpAbhY4mX4eV-6r8PiYTAJzgD-sVMRT4qfDdlBgaQJmehAq_xAtfpeuchNLijWRAW9Vihp7iKHpEhAe-DdPth42Wv7CwInc5UGyGhTyX38UYdf_d1hZIgHXcaYWBlyuAA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104467292326736204302/photos\">Opu Haq</a>"
+            ],
+            "photo_reference": "CmRaAAAAOTPZQxnJURHYzfThD1TTqm-dyYhHb4lTTVXM33-I2nq-jtAAmYoz-7hGNr_dS2Pyog5T_nO3ZKLvSUT_Noz5gJsaB6nlMdFJ3tFXjTS_Jz3p0_9M2GQ1yq-nAkWWPTytEhBj7sd6EkGosGZTztwxMoAdGhSIpjNSFvlC9p1imdsTFhEX0HGY7g",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951242346764153011/photos\">Yamin Arafath</a>"
+            ],
+            "photo_reference": "CmRaAAAA0Az1WpmHKQ47iIbm-ekeXqcGwqDVfctD701D4T9t0h_qm3FCSPX236w-lqEfYQtuJDfPe8OGBC4oY9UVuG33WtyQaTLjVWGvKCsgzoX2hILpqKWcu6iwpJaFdyDcXSOLEhDAeX7rgPW_Gi9dWsvx9sNZGhS8D2STBZgvk4BryOJ3bDNnMsZB9Q",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951242346764153011/photos\">Yamin Arafath</a>"
+            ],
+            "photo_reference": "CmRaAAAAVVwbYDOMiYbuRndfq_nQNavQcOzn1DYobSxViSJBsrhlIo7B2MxpVCal5bb1rL0r98cvd4hWMDW2KH_284p4z269ba7u5i9R4noj64OgIiiY_YB-sWDdivrrsdH8ZJ81EhAtArMW6M9PfKEMDkBNJF4LGhR4rgiKGzfK0jHtagevKDL12deXBg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951242346764153011/photos\">Yamin Arafath</a>"
+            ],
+            "photo_reference": "CmRaAAAAbUQZw4wanuI0vIZvZcgiljgBsNaLKek8lZajrXasj5Nv-0mxEvl6awZ3MTxIMd5187J68R56H-99bcZM3qOC1E0q8o0gzWJkJjHhhEXJWVHpWDvFAgaLazcLrpsQoYdCEhBVV_SERiNimB2OJ_Nr4HhxGhQSmS9WebKNmz8paJklEZNfO6PaIg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104467292326736204302/photos\">Opu Haq</a>"
+            ],
+            "photo_reference": "CmRaAAAAcl-reNOKe0KJvsyZkmZisYHzWO2hyjYHZoBBJJQDWeCX6BbzaNRvq2VRG0ua2V-M6xJJnIAey9nyvwchKHsWS3ZUegOxXXWshPE4MR5qHJae3S_pnsB_Rf4p2ZPFFTXUEhBmFoZIa9NjN6NoklKHCXA-GhRuUvKpNzME1sIx1nkVRc5iSpAROw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJxUZE-Rz2wokRlVrzDvQSQYY",
+    "plus_code": {
+        "compound_code": "Q2VX+4V New York, United States",
+        "global_code": "87G8Q2VX+4V"
+    },
+    "price_level": 1,
+    "rating": 5,
+    "reference": "ChIJxUZE-Rz2wokRlVrzDvQSQYY",
+    "reviews": [
+        {
+            "author_name": "k\u00efttyd\u00e3p\u00f8\u0163\u00e3\u0163\u00f8_ :3",
+            "author_url": "https://www.google.com/maps/contrib/112692876940883901071/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-6_bOLqsutwg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re0lG5E6diNUTsGwqXAfUDOq2vBgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Just upgraded my phone. Got a great deal here. So many nice cases to pick from!",
+            "time": 1557159446
+        },
+        {
+            "author_name": "talat virk",
+            "author_url": "https://www.google.com/maps/contrib/108126414450845341055/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cJ1tnotZ8-U/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdxQIZQ4f75uzcAvvPdPoSAvlAz8g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Really helpful with everything they do. Always eager to help the customers, and always give out great deals, and promotions compared to all other metro locations I've visited. Always will come back here for anything I need. I would highly recommend everyone to be here.",
+            "time": 1539192554
+        },
+        {
+            "author_name": "Salvador Galindo",
+            "author_url": "https://www.google.com/maps/contrib/101778634083768509689/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-epGZJukg-mo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdrVxpezPY0EBUWBt5s8DZe2WCp7w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The staffs here are outstanding. They are always welcoming, and ready to be helpful with anything I need. I will always come here as long as I'm with Metro by T-Mobile.",
+            "time": 1549150958
+        },
+        {
+            "author_name": "Paulino guzman",
+            "author_url": "https://www.google.com/maps/contrib/115062136228424773766/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tbLeUwRq-qQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc_y2ssUl68vYK9EfXGhLOllrg9Yw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely store. Has everything in stock.",
+            "time": 1558129484
+        },
+        {
+            "author_name": "Victor Andaluz",
+            "author_url": "https://www.google.com/maps/contrib/109096759657783815729/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3w1QmRr_9EA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdT-GRny7HUsf4KIyjn7K8CxKZR0w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Only Metro by T-Mobile store that ever has any phones in stock. I called over 5 stores nearby to see if they have the iPhone 5SE. Most of them never even answered, this is the only one that had the phone, and treated me very nicely. Salute, and thank you for giving me Amazon Prime! Can't get nothing better than this in the prepaid industry.",
+            "time": 1540069736
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9674034314000685717",
+    "user_ratings_total": 61,
+    "utc_offset": -240,
+    "vicinity": "1546 Madison Avenue, New York",
+    "website": "https://www.metrobyt-mobile.com/?cid=YEXT|GM-BD|Listings|Q119|Google|"
+}

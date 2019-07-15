@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 12F",
+            "short_name": "# 12F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stuyvesant Oval",
+            "short_name": "Stuyvesant Oval",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10009",
+            "short_name": "10009",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2012",
+            "short_name": "2012",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Stuyvesant Oval # 12F</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009-2012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "15 Stuyvesant Oval # 12F, New York, NY 10009, USA",
+    "formatted_phone_number": "(212) 673-7583",
+    "geometry": {
+        "location": {
+            "lat": 40.732706,
+            "lng": -73.9791012
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7338076302915,
+                "lng": -73.97747176970849
+            },
+            "southwest": {
+                "lat": 40.7311096697085,
+                "lng": -73.9801697302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "723e15bccfc84b00923fdb110d9392a838d8bee6",
+    "international_phone_number": "+1 212-673-7583",
+    "name": "Davis-Thompson Barbara",
+    "place_id": "ChIJuzYZ75hZwokRV1_dIm2l7M4",
+    "plus_code": {
+        "compound_code": "P2MC+39 New York, United States",
+        "global_code": "87G8P2MC+39"
+    },
+    "reference": "ChIJuzYZ75hZwokRV1_dIm2l7M4",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14910474354471821143",
+    "utc_offset": -240,
+    "vicinity": "15 Stuyvesant Oval # 12F, New York"
+}

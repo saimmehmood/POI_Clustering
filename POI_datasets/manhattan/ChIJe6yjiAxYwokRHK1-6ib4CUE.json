@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "399-301",
+            "short_name": "399-301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "67th Street",
+            "short_name": "67th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "West New York",
+            "short_name": "West New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07093",
+            "short_name": "07093",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">399-301 67th St</span>, <span class=\"locality\">West New York</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07093</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "399-301 67th St, West New York, NJ 07093, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7927358,
+            "lng": -74.0091648
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79408473029149,
+                "lng": -74.00765539999999
+            },
+            "southwest": {
+                "lat": 40.7913867697085,
+                "lng": -74.0106742
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "dc349187e25de9bf9bb88c03982d90fd9362860a",
+    "name": "399-301 67th St",
+    "place_id": "ChIJe6yjiAxYwokRHK1-6ib4CUE",
+    "reference": "ChIJe6yjiAxYwokRHK1-6ib4CUE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=399-301+67th+St,+West+New+York,+NJ+07093,+USA&ftid=0x89c2580c88a3ac7b:0x4109f826ea7ead1c",
+    "utc_offset": -240,
+    "vicinity": "West New York"
+}

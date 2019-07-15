@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "396",
+            "short_name": "396",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "10th Avenue",
+            "short_name": "10th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">396 10th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "396 10th Ave, New York, NY 10019, USA",
+    "formatted_phone_number": "(212) 564-8383",
+    "geometry": {
+        "location": {
+            "lat": 40.7530501,
+            "lng": -73.9994467
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545350802915,
+                "lng": -73.99841291970849
+            },
+            "southwest": {
+                "lat": 40.7518371197085,
+                "lng": -74.00111088029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "dcff73ec9ad5c31aa4fd0b16f14cbd1af17f9f1a",
+    "international_phone_number": "+1 212-564-8383",
+    "name": "Arenson Prop Center",
+    "place_id": "ChIJGT-X-rNZwokRXlKtBhVe8KM",
+    "plus_code": {
+        "compound_code": "Q232+66 New York, United States",
+        "global_code": "87G8Q232+66"
+    },
+    "reference": "ChIJGT-X-rNZwokRXlKtBhVe8KM",
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11813045266992157278",
+    "utc_offset": -240,
+    "vicinity": "396 10th Avenue, New York",
+    "website": "https://www.aof.com/p/props"
+}

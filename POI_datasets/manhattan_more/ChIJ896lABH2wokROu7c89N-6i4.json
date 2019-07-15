@@ -1,0 +1,128 @@
+{
+    "address_components": [
+        {
+            "long_name": "121",
+            "short_name": "121",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">121 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "121 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 524-5728",
+    "geometry": {
+        "location": {
+            "lat": 40.8026168,
+            "lng": -73.9507014
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80390678029149,
+                "lng": -73.94939601970849
+            },
+            "southwest": {
+                "lat": 40.80120881970849,
+                "lng": -73.9520939802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "817d2fb6228368d4b1bbb80bb01d2b891026ae19",
+    "international_phone_number": "+1 646-524-5728",
+    "name": "121 Convenience Deli",
+    "place_id": "ChIJ896lABH2wokROu7c89N-6i4",
+    "plus_code": {
+        "compound_code": "R23X+2P New York, United States",
+        "global_code": "87G8R23X+2P"
+    },
+    "rating": 4,
+    "reference": "ChIJ896lABH2wokROu7c89N-6i4",
+    "reviews": [
+        {
+            "author_name": "SERIGNE BOYE",
+            "author_url": "https://www.google.com/maps/contrib/114038767780847542390/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ee2deWU7F4A/AAAAAAAAAAI/AAAAAAAAASc/JnZkFN-5aLQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "All the staff there are super nice and they have a wide selection of items to buy",
+            "time": 1562723865
+        },
+        {
+            "author_name": "Hamidou Barry",
+            "author_url": "https://www.google.com/maps/contrib/116395338366708698631/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fSZEIjx-6ac/AAAAAAAAAAI/AAAAAAAAAE4/OQ4-AXSNukY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1525755427
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3380653919089520186",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "121 West 116th Street, New York"
+}

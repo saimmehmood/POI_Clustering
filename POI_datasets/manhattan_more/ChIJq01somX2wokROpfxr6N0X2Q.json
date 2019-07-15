@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "501-505",
+            "short_name": "501-505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501-505 W 138th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501-505 W 138th St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8209634,
+            "lng": -73.9511558
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82231238029151,
+                "lng": -73.94980681970848
+            },
+            "southwest": {
+                "lat": 40.81961441970851,
+                "lng": -73.95250478029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fc655644e7064e351840330e34c7d1218cf76238",
+    "name": "501-505 W 138th St",
+    "place_id": "ChIJq01somX2wokROpfxr6N0X2Q",
+    "reference": "ChIJq01somX2wokROpfxr6N0X2Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=501-505+W+138th+St,+New+York,+NY+10031,+USA&ftid=0x89c2f665a26c4dab:0x645f74a3aff1973a",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

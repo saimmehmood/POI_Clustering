@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "111",
+            "short_name": "111",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">111 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "111 Malcolm X Blvd, New York, NY 10026, USA",
+    "formatted_phone_number": "(718) 666-1754",
+    "geometry": {
+        "location": {
+            "lat": 40.80184200000001,
+            "lng": -73.9502985
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80313003029151,
+                "lng": -73.94879896970849
+            },
+            "southwest": {
+                "lat": 40.80043206970851,
+                "lng": -73.9514969302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d7a5e083c011c069f5cc00852984959c276e1585",
+    "international_phone_number": "+1 718-666-1754",
+    "name": "Adekunle Saka, LPN",
+    "place_id": "ChIJO-gqURD2wokR4SXgfWYl5M0",
+    "plus_code": {
+        "compound_code": "R22X+PV New York, United States",
+        "global_code": "87G8R22X+PV"
+    },
+    "reference": "ChIJO-gqURD2wokR4SXgfWYl5M0",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14836024194593990113",
+    "utc_offset": -240,
+    "vicinity": "111 Malcolm X Boulevard, New York"
+}

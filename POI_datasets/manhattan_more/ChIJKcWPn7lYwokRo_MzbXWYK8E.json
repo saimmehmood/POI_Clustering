@@ -1,0 +1,153 @@
+{
+    "address_components": [
+        {
+            "long_name": "414",
+            "short_name": "414",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 82nd Street",
+            "short_name": "E 82nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5999",
+            "short_name": "5999",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">414 E 82nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-5999</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "414 E 82nd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-8500",
+    "geometry": {
+        "location": {
+            "lat": 40.77373840000001,
+            "lng": -73.95037599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7751577302915,
+                "lng": -73.9489750697085
+            },
+            "southwest": {
+                "lat": 40.7724597697085,
+                "lng": -73.9516730302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "9a07d3e42a3b64036a54a9e7ad1b7d857ded3679",
+    "international_phone_number": "+1 212-861-8500",
+    "name": "Shrine of St Jude",
+    "photos": [
+        {
+            "height": 503,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110491233874834296469/photos\">Ferenc Nagy-David</a>"
+            ],
+            "photo_reference": "CmRaAAAAljlRsMjuTCzXtc4fHC0K9Q0TkvQNEMaf7sqpDh8tE7F6DFP5kbZ7e74PvZLEGNW6PC_FUljx6O6oUgHo1KvkzHwJm9ky_DukJ7WUIUycqmpRiH9LlpObJnUXf19uHqbVEhAfI_T-RBHKR2AxXDYBI634GhQIi3L2zN-p8DUURVH0QoD1ui9nfw",
+            "width": 960
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110491233874834296469/photos\">Ferenc Nagy-David</a>"
+            ],
+            "photo_reference": "CmRaAAAAJpgIlhPg5NUOylnowZmwJD57TeQjPXx_STg0bRZkYYgw6Xb1WuWPnmop4sbstig-EU4JA8XWDLG7ggH1Jrc8-K34qLMF3vHW3Jw3WSrLLLb3zZFa6jnl8MZ8W8RkFexhEhB6xC1lUjbQLZFoUrOb7XNaGhTIafaw59AAPniP-lpfiIlAwkGLZg",
+            "width": 960
+        },
+        {
+            "height": 330,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110491233874834296469/photos\">Ferenc Nagy-David</a>"
+            ],
+            "photo_reference": "CmRaAAAAQPG12ScdJ0cg_VhIn3XqkEV4sjXnROVvkxDzlHolotutLs1yyD1nVD5gYJ236rqE-1eRaf4Vu6b8VTcwqw4HYxgg0H_YEoFZzCNOtfgkSvuPhMSN3PVsYUlDnjemEnLtEhAFWHB19oLPgaHtrr-kmnzZGhRj97lmoFR5G4JVp78esjX-82THEQ",
+            "width": 496
+        }
+    ],
+    "place_id": "ChIJKcWPn7lYwokRo_MzbXWYK8E",
+    "plus_code": {
+        "compound_code": "Q2FX+FR New York, United States",
+        "global_code": "87G8Q2FX+FR"
+    },
+    "rating": 5,
+    "reference": "ChIJKcWPn7lYwokRo_MzbXWYK8E",
+    "reviews": [
+        {
+            "author_name": "Luciana Imbert",
+            "author_url": "https://www.google.com/maps/contrib/101651416241367078087/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-s8dZGtg4V60/AAAAAAAAAAI/AAAAAAAAT9M/XWTAHrCX0Ts/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Calm \ud83d\ude4f",
+            "time": 1560101208
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13919386703429366691",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "414 East 82nd Street, New York",
+    "website": "http://www.dominicanshrineofsaintjude.org/"
+}

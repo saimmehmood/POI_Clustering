@@ -1,0 +1,207 @@
+{
+    "address_components": [
+        {
+            "long_name": "1123",
+            "short_name": "1123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1123 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1123 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 787-2274",
+    "geometry": {
+        "location": {
+            "lat": 40.74329159999999,
+            "lng": -73.9892929
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74463043029149,
+                "lng": -73.98786576970849
+            },
+            "southwest": {
+                "lat": 40.74193246970849,
+                "lng": -73.9905637302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eddb05a4030c46107e3dc087c62f0b8b67f7bda9",
+    "international_phone_number": "+1 212-787-2274",
+    "name": "Barterhouse",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113048249792636619777/photos\">Barterhouse</a>"
+            ],
+            "photo_reference": "CmRaAAAAq4sA7BefOz2ChUmknr3cfSTVtsAYKkzazbiiXnHNR1ibJmwSyBd0Rkg0SNv8QKy_4XOXUtLc-vnLyjKOrLw2dIwko3m_XoxFlsaxxjS47F4ujb16GoQRuSU4yiEYRQt5EhDgbEs5w6olnaZsGoNsosDIGhTTuCb4GsJ-ht9OmXMgScf7Zlr50w",
+            "width": 360
+        },
+        {
+            "height": 1009,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113048249792636619777/photos\">Barterhouse</a>"
+            ],
+            "photo_reference": "CmRaAAAAd2t7Q6zV5IWYSonOgEyWs320MJB4J_LeFpVRjmocNUm3GtRPsW_6TyAKS-sb8IPGvWFY0IfBuE6Xmu05H0JfHu7OV_wB6SZIAenWBj-zGjMnueBOlyfcvvNCLRdWgP0gEhCQGI50MOmSE5C7IJxgLaCTGhQDeKvMtXzFcMF_d7f1KsS5vYjImw",
+            "width": 758
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113048249792636619777/photos\">Barterhouse</a>"
+            ],
+            "photo_reference": "CmRaAAAAPapuFj40KInB9vwwLjA-myxTDP_dhc7la3iayTgQyrLaKJJS5Ojecurbfwzd_CdKoNHXgs1Wi3CWqRVkUKPeS_xKeoes9CNxWc-gzoRbHryiBfOxxNPa8g1XT5QxoffNEhAChtakyYcK7Taq2km5mg5oGhRFPhBRvQVmkXdSGJ6y2S-MruC2-g",
+            "width": 508
+        }
+    ],
+    "place_id": "ChIJQ_SlLqRZwokRwd4wfS7xC8g",
+    "plus_code": {
+        "compound_code": "P2V6+87 New York, United States",
+        "global_code": "87G8P2V6+87"
+    },
+    "rating": 5,
+    "reference": "ChIJQ_SlLqRZwokRwd4wfS7xC8g",
+    "reviews": [
+        {
+            "author_name": "Harlem Standard",
+            "author_url": "https://www.google.com/maps/contrib/109757735977827163935/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1C6XQ-xI5As/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd5jXWTtixdEwscvhgyc7TSsa8Iow/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1542249269
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14414880214300548801",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "1123 Broadway, New York",
+    "website": "http://www.thebarterhouse.com/"
+}

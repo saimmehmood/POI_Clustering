@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "239",
+            "short_name": "239",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 122nd Street",
+            "short_name": "W 122nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5410",
+            "short_name": "5410",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">239 W 122nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-5410</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "239 W 122nd St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 678-6200",
+    "geometry": {
+        "location": {
+            "lat": 40.807806,
+            "lng": -73.950965
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8090691302915,
+                "lng": -73.9496790697085
+            },
+            "southwest": {
+                "lat": 40.80637116970851,
+                "lng": -73.9523770302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "5477cd7e9123617270f5b53ae1eb190762844f9b",
+    "international_phone_number": "+1 212-678-6200",
+    "name": "Chez Diarra",
+    "place_id": "ChIJydXwjQ32wokRPQtW0pFv4CA",
+    "plus_code": {
+        "compound_code": "R25X+4J New York, United States",
+        "global_code": "87G8R25X+4J"
+    },
+    "reference": "ChIJydXwjQ32wokRPQtW0pFv4CA",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2369016076086676285",
+    "utc_offset": -240,
+    "vicinity": "239 West 122nd Street, New York"
+}

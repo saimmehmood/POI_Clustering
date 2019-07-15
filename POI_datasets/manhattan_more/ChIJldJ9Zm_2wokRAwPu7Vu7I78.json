@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81931600000001,
+            "lng": -73.95183999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82068263029151,
+                "lng": -73.9505330697085
+            },
+            "southwest": {
+                "lat": 40.81798466970851,
+                "lng": -73.9532310302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "f5eb2d0a9c59d53a830c0da786c234ceb3299339",
+    "name": "Amsterdam Av/W 135 St",
+    "place_id": "ChIJldJ9Zm_2wokRAwPu7Vu7I78",
+    "plus_code": {
+        "compound_code": "R29X+P7 New York, United States",
+        "global_code": "87G8R29X+P7"
+    },
+    "rating": 5,
+    "reference": "ChIJldJ9Zm_2wokRAwPu7Vu7I78",
+    "reviews": [
+        {
+            "author_name": "Rogelio Candia",
+            "author_url": "https://www.google.com/maps/contrib/110853863798381904206/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-GSH1XMHvlAA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc6cryG2nr8TZlAPVR1ebqD2NvYIw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Megusta mucho",
+            "time": 1492431022
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13773058088937325315",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

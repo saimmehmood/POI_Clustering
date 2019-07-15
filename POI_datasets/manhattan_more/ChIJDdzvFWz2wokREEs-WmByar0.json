@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "454-400",
+            "short_name": "454-400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 129th Street",
+            "short_name": "W 129th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2540",
+            "short_name": "2540",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">454-400 W 129th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-2540</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "454-400 W 129th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81393020000001,
+            "lng": -73.9522084
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8152791802915,
+                "lng": -73.95043559999998
+            },
+            "southwest": {
+                "lat": 40.8125812197085,
+                "lng": -73.95398120000002
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8f95bfeaeb05c3f444a849212e29252440aabcf0",
+    "name": "454-400 W 129th St",
+    "place_id": "ChIJDdzvFWz2wokREEs-WmByar0",
+    "reference": "ChIJDdzvFWz2wokREEs-WmByar0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=454-400+W+129th+St,+New+York,+NY+10027,+USA&ftid=0x89c2f66c15efdc0d:0xbd6a72605a3e4b10",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

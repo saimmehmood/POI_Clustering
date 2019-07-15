@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "2367",
+            "short_name": "2367",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1807",
+            "short_name": "1807",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2367 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-1807</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2367 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 663-5302",
+    "geometry": {
+        "location": {
+            "lat": 40.8116759,
+            "lng": -73.9503386
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8129815302915,
+                "lng": -73.94888541970849
+            },
+            "southwest": {
+                "lat": 40.8102835697085,
+                "lng": -73.9515833802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "44280e3230c5396578775cfbc51c1b0d028427f2",
+    "international_phone_number": "+1 212-663-5302",
+    "name": "Technocraft Inc",
+    "place_id": "ChIJvR6EA232wokR11cYhfnNKOY",
+    "plus_code": {
+        "compound_code": "R26X+MV New York, United States",
+        "global_code": "87G8R26X+MV"
+    },
+    "reference": "ChIJvR6EA232wokR11cYhfnNKOY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16584732099355367383",
+    "utc_offset": -240,
+    "vicinity": "2367 Frederick Douglass Boulevard, New York"
+}

@@ -1,0 +1,293 @@
+{
+    "address_components": [
+        {
+            "long_name": "123",
+            "short_name": "123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "4th Avenue",
+            "short_name": "4th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">123 4th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "123 4th Ave, New York, NY 10003, USA",
+    "formatted_phone_number": "(718) 576-3010",
+    "geometry": {
+        "location": {
+            "lat": 40.73297549999999,
+            "lng": -73.98959570000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73435138029149,
+                "lng": -73.98843046970849
+            },
+            "southwest": {
+                "lat": 40.7316534197085,
+                "lng": -73.9911284302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6697ff043d7705cb17d3dedf3be19c17f6372cc9",
+    "international_phone_number": "+1 718-576-3010",
+    "name": "Help Your Self",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 10:00 PM",
+            "Tuesday: 10:00 AM \u2013 10:00 PM",
+            "Wednesday: 10:00 AM \u2013 10:00 PM",
+            "Thursday: 10:00 AM \u2013 10:00 PM",
+            "Friday: 10:00 AM \u2013 10:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAEo6P6bHJLe6w3tVUcKSKlRAppd_J6SeXDPVkqjK_Dsty24Ofz9-HtkC3MzPTOt2VfVsPyCzBpTGrtL0bzKRRWQBZqV0898ifwXOmbDHDv-ojqw8rVuqtdRFJRvUgAkA6EhB6MnHZmm6ObD3QsmNDxaS1GhSYYrWY-1x6LMRaHSkZuCj6lnfoUg",
+            "width": 720
+        },
+        {
+            "height": 1239,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAXw6mPMlAPvyDz1630tQy1wviuyblm5wnalbrpPEi57KUQm47UUILUXvpWw81M7CmEhHPQeZbnkYgxQ6s0NaXB1z8Bbj0QALElkKW3q3w572wb6kE6aNP-2apeChq5OAOEhAQPmMfCyx15WwAdAXb1OEUGhTKAfnOfwGI01sHZr33mDlpJ-bNEA",
+            "width": 1858
+        },
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAUGZgLBitmAt2g5pmH_Zem-8jHGJZ8aJ3zHwUXgBub5Tc4LoFWhYcOy1XHrD0zmXIzHnOP2d66uaXA046Wsq78-51BwSmftQc-VgQYqJ8dleCq4sN8ZmSSsjExapdoHaIEhBdv4XX128iqv1QiVKNaeInGhSTyxr-8QSLs18ySaotMsGlU4-WoQ",
+            "width": 1000
+        },
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAA3drnLcRTf0s3mWNM8WSOwapfM_Dcrx2WQueDB7UOkalklBR--fbUzggdEbaiv1fLCXJbg76tF1148Nl6Yzd3j_HlLzZ3jT_t_Ff_3sIo2_FpKXY7ynPIPxkkdpxx_IA9EhC35D1uK6qhR-c9vaCL-CHWGhTVsmSL-OjSzZe1aLxHzVVWVvAMhg",
+            "width": 1000
+        },
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAwVQykC8iXRINDRZ6UBgTnBFmuFdIzx3Q2CvFLOLR1dpR0cDR8sEQOnpR8mpVtB6Fl43W-SN76ZUZNPC7Sct5EhjStF95GqX3c1eaZQCdDCBHLK2ZIKiq-B7wRKMAh_1QEhAPQKNz5XiJnktNKRDeR8mfGhTvN6oFFyqsVtOEdSVwyG_4qgWg_w",
+            "width": 1000
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAv105hU9IFcYROThNO12fbePILRdqDOuFcMs-4W3J-dV4gEzzFnXGDLlZguLcOuFRgsjPDh5xfUHLja1MsZAEUepQolIZR3IyI-95XphseP7ZYvuapdWo--r-m43g1-TzEhB1vuyxPY6yBBBKa54wbsX_GhRAZpRVeYDfi4H8tkg-DI9-iohZEw",
+            "width": 550
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAEoJrUrxYekARx8ObiS7TmYckw2Q-dt9FW2Mihx_VXgon24orvgINOlbjLvVFBcEi9YaVdvbYaVwTvA5yzhltda-qerSmaJ5Z7gDRAxTNIGP5GjRRaUvjsa-xYTNO1jnDEhBfgqjMaGCdQof-z7im0fzLGhSYamUcEqh1h52KuOfci2rBBoIrJA",
+            "width": 1110
+        },
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAA-TWc-xId6fn4d1oxhrP9B6-YHKdWpfs_O5EM6nbph9EFwGG0Czti46BPpEfPvfNAwWT2rMr0QB9UZ_TEfpAN1KiuQ0swI2tI_fJetXomz59kRHKoUKH1MHFj4mBXIVlXEhCwwtSzpsR2RD6GicU9kYqBGhQeMIcxIo22FCfGJ4q6k2UZ4AxcCA",
+            "width": 1000
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAA-GbtFFFr34b0x5wnCZ_VBzIxKG7pzJFk0ZZrTC_rngTx_nM6WPsQXvOr634xE1QDPw8X_Ern3viqSU-LCXCg3T70E8nujFr4PGZbtcrHUt-LBYgMp9XzjhxFj1PQITBTEhCDTT7qcuGlhlP_Ky4_QKvCGhQifPV43oz0fKDTeMNLbV4yXjbc1g",
+            "width": 1100
+        },
+        {
+            "height": 404,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109293634795069491752/photos\">Help Your Self</a>"
+            ],
+            "photo_reference": "CmRaAAAAFBx0Y3zMvpoBS9DolalZSE1d3BxAQ4gX5irAM9qzCihPQac-n7qgczPgZPSxGvAXzqLk4Zryt4YdNIS2np8jPFDsodN4o7BhizPbfmMb57Df8WDs7Gv8-gI6eIcDcfK6EhBv7WRmetyJz3r_9VGU5SMzGhR1h7Bbnzc1PKPBSqvBtJYKN05EIg",
+            "width": 1020
+        }
+    ],
+    "place_id": "ChIJ2ysSUT9ZwokRDPCbhRgQwk0",
+    "plus_code": {
+        "compound_code": "P2M6+55 New York, United States",
+        "global_code": "87G8P2M6+55"
+    },
+    "rating": 5,
+    "reference": "ChIJ2ysSUT9ZwokRDPCbhRgQwk0",
+    "reviews": [
+        {
+            "author_name": "Courtney Stapleford",
+            "author_url": "https://www.google.com/maps/contrib/114794064937801862217/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ssIJLQA_x54/AAAAAAAAAAI/AAAAAAAAAWQ/melDlKvICqw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Catherine is one of the most genuine, caring, warm people I am lucky enough to have met. I have been on a healing journey for about a year and after I stumbled across her website, I knew she was someone that I needed to meet. I originally had wanted to pick her brain to learn about how Help Your Self had come to be and was so inspired by her and the conversation we had that I decided to participate in her Level 1 Reiki Training, truly one of the most transformational experiences I have had as an adult. I have seen Catherine for Reiki and have complete trust in her, it is something I plan to continue to incorporate into my self-care. Thank you Catherine for your guidance and support, absolutely recommend for anyone looking for some \"help\"!",
+            "time": 1557235859
+        },
+        {
+            "author_name": "Laura Ann Fiery",
+            "author_url": "https://www.google.com/maps/contrib/103598453074166934851/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SzwYbApfTSk/AAAAAAAAAAI/AAAAAAABIGs/KNZGWd1H-x8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Catherine is one of the warmest, nurturing and intuitive individuals I've ever met. In the midst of a healing crisis, I started seeing Catherine monthly for Reiki treatments and the Reiki sped up my healing in a very real way. I was so moved by experiences with her, I took Catherine\u2019s Reiki 1 class. It was an intimate, immersive weekend and changed my daily life in large and small ways. Anyone looking for clarity or healing any area of their life should meet Catherine!",
+            "time": 1555185752
+        },
+        {
+            "author_name": "Luna Lee",
+            "author_url": "https://www.google.com/maps/contrib/110578356535602616719/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-WfD7yB1e8Wo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd-mSAUna0PD2tn3EhjEUO0wccXkg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1545745958
+        },
+        {
+            "author_name": "Kim Jefferson",
+            "author_url": "https://www.google.com/maps/contrib/109865613456268091534/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3DpmzWdF9Js/AAAAAAAAAAI/AAAAAAAABdU/oSgkL1TyLiM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1485709682
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5603058583909167116",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "123 4th Avenue, New York",
+    "website": "https://www.helpyourself.com/"
+}

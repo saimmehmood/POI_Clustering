@@ -1,0 +1,334 @@
+{
+    "address_components": [
+        {
+            "long_name": "221",
+            "short_name": "221",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "South 1st Street",
+            "short_name": "S 1st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4396",
+            "short_name": "4396",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">221 S 1st St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-4396</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "221 S 1st St, Brooklyn, NY 11211, USA",
+    "formatted_phone_number": "(718) 387-0563",
+    "geometry": {
+        "location": {
+            "lat": 40.71307780000001,
+            "lng": -73.9590161
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7143655302915,
+                "lng": -73.95770596970848
+            },
+            "southwest": {
+                "lat": 40.7116675697085,
+                "lng": -73.9604039302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "a72190b5b2bd1dde681559ef8e35df4bbae35e95",
+    "international_phone_number": "+1 718-387-0563",
+    "name": "Desnuda",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 PM \u2013 12:00 AM",
+            "Tuesday: 6:00 PM \u2013 12:00 AM",
+            "Wednesday: 6:00 PM \u2013 12:00 AM",
+            "Thursday: 6:00 PM \u2013 12:00 AM",
+            "Friday: 6:00 PM \u2013 2:00 AM",
+            "Saturday: 6:00 PM \u2013 2:00 AM",
+            "Sunday: 5:00 \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAAnvtQ2GA_qHBLNagA0T93vSEfCfgUdr2cMTL90VJ29CJJ8artj6JddJBvTQXL6XTKJynIGM3SFYHjb6W5yuFvJwv2CBw3axd6axkF-ofBC9-eSqQ30-XfHJzNQuCnLVSaEhBZYFFKpQffYxe_me6JafKzGhSaawxOTY68qPq0gwuHh_P3-KcvvA",
+            "width": 1080
+        },
+        {
+            "height": 742,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAAQS7d4Ldvv9-ZV1iQUbfDMbfV8BOVE5GOwgb_B_tw2PRj4Fc03Ttnga1WNx2Vw_soDrryUTKtjda1nut7eeyS8wCzCvs__cjLris-vSZbNJFhMeF1-d8rYyFWNRTWPWOxEhBQY9Ok_bLrGM1mSpf4IdjMGhQDvcp6jUr488yARm9NFR5e3ubkOw",
+            "width": 1080
+        },
+        {
+            "height": 823,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAAqbQ3nZHfJt-ptR1HlhKT54iMMQFxxiycG_hDh9IjMFGZq6xqEDby-Lb8R-LnSH-Iwhx9pWGOjtrB5m0IAjgDhI3T2Yf1k8c5-PLCKoU38YseVi2gXLmPldjXXTZ6O5KCEhA4MTuIrD486jf-c7S8E2lmGhSfMTCFxsz02SkFEu_WZ8X26ANgBA",
+            "width": 826
+        },
+        {
+            "height": 2992,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103432048168369401277/photos\">Riquet Aouad</a>"
+            ],
+            "photo_reference": "CmRaAAAAtHQgKaMgSmCbrwvWoCFdfjtB47qMJTdpSM2nn4AeKvEqdrZZzvFtbpyAXi4rkL1dG694GDS9Eze4WJKfc3KW2ry0dI05E5iTzO-3-GEn_YQfXh0Dr6JTZ-uf3CWj4VUZEhDaWlN8yReOuOVHvAv6AptYGhS_UJE7oXB4YMXIaAnAkFPl7p8MOg",
+            "width": 4000
+        },
+        {
+            "height": 1377,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAABmgyV_-3cI70McHaJ7xAqETCA3sACxwvR2_QIZDtuaVvi8RrV1hAlPm8dqanfQv3MeW0gP6DC3_2JesJBhTr6yRuMSWLUfXHO0V6aDxFfX8Wk6lPUsK1AtXxywOoivHZEhAshWW743RRMyeSt_4c5SCCGhRF0WtGpQfeiyZ0Q0xYMj5XVMLxFw",
+            "width": 1377
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116320031497057396630/photos\">Luis Marroquin</a>"
+            ],
+            "photo_reference": "CmRaAAAAFJx2D5qBoVpnDJYmPC6nwEGQhNl4m5s-z6KN1e4fifkGakYo6IUKNgG8y_-Zc8X1PnBixEhxaeISfQUNAV614e8xHgeMQZUH2x7r046WCfIV9XD7ryQHM0UHufBfxIUbEhCXpKV9C5Tg-0-nCZq9RMT0GhSv-ZV6_Chq8TLfBhgkq5UIMIuKuA",
+            "width": 5312
+        },
+        {
+            "height": 712,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAATedvkg_tzEF5f6CMQDr4i3orcWsfkfBBVmeVFblrfsREVlYBibcDn8Ui9q1jt4H9P4OXw9uaJ_WEwMFZEfIu23IyIeSF9NvrOgIJr37WTqfpUCChrFDTITaFmlUpSGgJEhB6l55Xzg7mlnEKE_G_-XPVGhTRxy1y5l_J_p1dpWtuCaMKWwkJ2w",
+            "width": 712
+        },
+        {
+            "height": 946,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAAHMHHbG_ER4ajuLrmCKfuvHXc_-C8l4H5PWh8fmqMwR_g90PKehrcYDS2NKP9FAZSf2cq2_StTVb4TQRvkjk3AcaXnFlkvvzBHDz_-1heebAsqBGS-NyaBdD4ECmY9gHzEhBw9V27AIaikvWv7gxJJnvNGhTpwaS6nTQ568W1xI_4B8s4GUxchA",
+            "width": 946
+        },
+        {
+            "height": 639,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103992298285421569105/photos\">P G</a>"
+            ],
+            "photo_reference": "CmRaAAAAhwr57qMhJjfVil7SXujCWYwiD9L4TODm4Pir-P9LuhkWtUFNOtB6yCCxVUhYgFQWlGW5qMAr52gooY1WCUZP8RbnT7LrvEOtKuv3BogilgUfzzDJjEQ2EGq40C4w7JhAEhDv3pDYUWCMWJ1uJ-88vD1sGhSx-ogUFjCt5kWf_UaB8jxW2ZoAMw",
+            "width": 1070
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103607405913592780801/photos\">Adam Binder</a>"
+            ],
+            "photo_reference": "CmRaAAAACg48z_caD8hWeYG-sBajBQYg2sdrnxK2NvRvzWyBOQ-VQXgA27_HbsM1qeoAO3BUuyy5Nq0tHulJkB5d-KB4usc-iWRAhL4NqFSvIJEZdg9_JgKpyfvfR6BR3R6nMVTREhBtDtEKds8jg7pXMZ6Xg93sGhR2jqBtjv98Ey5XuB8016Une013Qw",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJd2XT5V9ZwokRnADGUob8DFA",
+    "plus_code": {
+        "compound_code": "P27R+69 New York, United States",
+        "global_code": "87G8P27R+69"
+    },
+    "rating": 4.4,
+    "reference": "ChIJd2XT5V9ZwokRnADGUob8DFA",
+    "reviews": [
+        {
+            "author_name": "Jeremiah Meyer",
+            "author_url": "https://www.google.com/maps/contrib/107095792787511306449/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-kTRdwBIIjlk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re-JRiVZgwRrnpSX9LFxPP-QD_tNw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Good food. Right portions. A bit pricey, but still worth the visit if you're in the area.",
+            "time": 1560647547
+        },
+        {
+            "author_name": "JD Lee",
+            "author_url": "https://www.google.com/maps/contrib/118299783963096008673/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-i1rWciPoN6M/AAAAAAAAAAI/AAAAAAAAAi4/7oTEyQ5d5J8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Fun...fun...fun.  Amazingly good food.  Get to the back bar and hang out!",
+            "time": 1558999826
+        },
+        {
+            "author_name": "Charlie Charlie",
+            "author_url": "https://www.google.com/maps/contrib/111447025072014179447/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gEpdpKAPKsQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfWSAv_UJeEXOn3KkDjHMntaRQrjg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Waitress grumpy and staff a bit disorganised .  Toraditos good.  Menu a but limited.  Environment cool before dinner time; chaotic and annoying once it fills up.",
+            "time": 1561921272
+        },
+        {
+            "author_name": "Benjamin Romero",
+            "author_url": "https://www.google.com/maps/contrib/103440563031631724614/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Jq31iLj-b6Y/AAAAAAAAAAI/AAAAAAAAAZY/qMKIZZvFoP4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Loved. Great music, great food. Nice little spot",
+            "time": 1560955115
+        },
+        {
+            "author_name": "Joe M",
+            "author_url": "https://www.google.com/maps/contrib/110318096414426481131/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HRqDQvlsnaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcP31y12YeK3BWLJuKlM6vpAxoARA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great food and service.  Ceviche and raw bar type of menu with a few hot items as well. Great Happy Hour spot $1 oysters",
+            "time": 1556844794
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5768262876599287964",
+    "user_ratings_total": 145,
+    "utc_offset": -240,
+    "vicinity": "221 South 1st Street, Brooklyn",
+    "website": "http://desnudawbk.com/"
+}

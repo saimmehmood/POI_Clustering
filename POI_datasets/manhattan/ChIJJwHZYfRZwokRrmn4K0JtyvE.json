@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 7",
+            "short_name": "# 7",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "451",
+            "short_name": "451",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwich Street",
+            "short_name": "Greenwich St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10013",
+            "short_name": "10013",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1757",
+            "short_name": "1757",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">451 Greenwich St # 7</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-1757</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "451 Greenwich St # 7, New York, NY 10013, USA",
+    "formatted_phone_number": "(212) 343-2405",
+    "geometry": {
+        "location": {
+            "lat": 40.72321189999999,
+            "lng": -74.0094592
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.72456718029149,
+                "lng": -74.0081699197085
+            },
+            "southwest": {
+                "lat": 40.72186921970849,
+                "lng": -74.0108678802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ca4489fc99bc8242f25121aeb6a8d3422a1063e7",
+    "international_phone_number": "+1 212-343-2405",
+    "name": "Adirondack Pictures",
+    "place_id": "ChIJJwHZYfRZwokRrmn4K0JtyvE",
+    "plus_code": {
+        "compound_code": "PXFR+76 New York, United States",
+        "global_code": "87G7PXFR+76"
+    },
+    "reference": "ChIJJwHZYfRZwokRrmn4K0JtyvE",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17422858239409154478",
+    "utc_offset": -240,
+    "vicinity": "451 Greenwich Street # 7, New York",
+    "website": "http://www.adirondackpics.com/"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "519",
+            "short_name": "519",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6019",
+            "short_name": "6019",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">519 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "519 W 143rd St, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 261-6545",
+    "geometry": {
+        "location": {
+            "lat": 40.82474190000001,
+            "lng": -73.9499656
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8260157302915,
+                "lng": -73.9486730197085
+            },
+            "southwest": {
+                "lat": 40.8233177697085,
+                "lng": -73.95137098029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "853aed6975c57e4d393f568cbdb2ff9b1eec0ed7",
+    "international_phone_number": "+1 917-261-6545",
+    "name": "Jadam Equities LLC",
+    "place_id": "ChIJR3mpZGP2wokRH0dkv_G4toA",
+    "plus_code": {
+        "compound_code": "R3F2+V2 New York, United States",
+        "global_code": "87G8R3F2+V2"
+    },
+    "reference": "ChIJR3mpZGP2wokRH0dkv_G4toA",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9274803831053764383",
+    "utc_offset": -240,
+    "vicinity": "519 West 143rd Street, New York"
+}

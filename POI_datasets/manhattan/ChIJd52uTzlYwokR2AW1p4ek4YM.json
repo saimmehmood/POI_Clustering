@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "1200",
+            "short_name": "1200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Avenue at Port Imperial",
+            "short_name": "Ave at Port Imperial",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Weehawken",
+            "short_name": "Weehawken",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07086",
+            "short_name": "07086",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1200 Ave at Port Imperial</span>, <span class=\"locality\">Weehawken</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07086</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1200 Ave at Port Imperial, Weehawken, NJ 07086, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7736625,
+            "lng": -74.0117667
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7750532302915,
+                "lng": -74.01051021970851
+            },
+            "southwest": {
+                "lat": 40.7723552697085,
+                "lng": -74.01320818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1db174474796bf19a89fc7023c5ae831ce82727",
+    "name": "1200 Avenue Collection",
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114003290150771874352/photos\">William Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAA6KU2dj27qPwgGdNfnKzxwzd11PX8-CPCtLK90sW9H5nwnUMHJ04HCK42YHGPm1NR2mKRDm2f-Nf_svAeOLEeUQMmmarfD7_AAUsIv7sDDYUQFKEGMnsiHyace2A5eS1yEhCbxVDJAFOHUymaWPK0LPpiGhSZh_KpTVHawjXWVDRNCjcjo9884A",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJd52uTzlYwokR2AW1p4ek4YM",
+    "plus_code": {
+        "compound_code": "QXFQ+F7 Weehawken, New Jersey, United States",
+        "global_code": "87G7QXFQ+F7"
+    },
+    "rating": 5,
+    "reference": "ChIJd52uTzlYwokR2AW1p4ek4YM",
+    "reviews": [
+        {
+            "author_name": "mehmet sezgi sur\u00f6z\u00fc",
+            "author_url": "https://www.google.com/maps/contrib/101303797891726904848/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-9SEv0VfBumQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reygo3_v-jiEL88MM8qCXDb2LopfA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "",
+            "time": 1560297035
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9503057591269656024",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "1200 Avenue at Port Imperial, Weehawken",
+    "website": "http://theavenuecollectionnj.com/"
+}

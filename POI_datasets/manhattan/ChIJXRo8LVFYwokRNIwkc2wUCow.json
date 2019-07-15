@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "2jj",
+            "short_name": "2jj",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "393",
+            "short_name": "393",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 49th Street",
+            "short_name": "W 49th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">393 W 49th St #2jj</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "393 W 49th St #2jj, New York, NY 10019, USA",
+    "formatted_phone_number": "(212) 974-0408",
+    "geometry": {
+        "location": {
+            "lat": 40.7628326,
+            "lng": -73.9889522
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76412103029149,
+                "lng": -73.9876471197085
+            },
+            "southwest": {
+                "lat": 40.7614230697085,
+                "lng": -73.9903450802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6343f1e2ee8a248032bb53b0c2c4f8667b232484",
+    "international_phone_number": "+1 212-974-0408",
+    "name": "Cutlip Golf Design",
+    "place_id": "ChIJXRo8LVFYwokRNIwkc2wUCow",
+    "plus_code": {
+        "compound_code": "Q276+4C New York, United States",
+        "global_code": "87G8Q276+4C"
+    },
+    "reference": "ChIJXRo8LVFYwokRNIwkc2wUCow",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10090900371097816116",
+    "utc_offset": -240,
+    "vicinity": "393 West 49th Street #2jj, New York",
+    "website": "http://cutlipgolfdesign.com/"
+}

@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7780956,
+            "lng": -73.9517434
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7793608302915,
+                "lng": -73.95041736970849
+            },
+            "southwest": {
+                "lat": 40.7766628697085,
+                "lng": -73.9531153302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "c6da0318d050ee78ab7c80a137d1eac04470427f",
+    "name": "2 Avenue & East 86 Street",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110111689265379864500/photos\">Jason Lombardo</a>"
+            ],
+            "photo_reference": "CmRaAAAAyIp7GCshJ6rfIBgmnHM9X32a7ARMv1RwQ4y4XASOYv8BsCVhNnCdL9yEIfNNSM4bo0w2hkCXiAS1DsS01_TSiZmKO4qjiR51zRy1PjPc-0_LqxhtSm4SWp6ns6eb2WFpEhCxcv0akm0WMPNXiRJCDTZJGhR8cT7Q2WHPIN4fCGPoEYlDAUJgZA",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110111689265379864500/photos\">Jason Lombardo</a>"
+            ],
+            "photo_reference": "CmRaAAAAbuxV3-E2_np5oL_Yp_PxdIzYSQYUXHwzUqd7Y9iPWLHm2DaUgCp94Nv-L-PSDZG5MGadesKgCvSDMuPnhbQBV6vnLHz98lhLoeY2qDQJnTLtNofbOBfAZbvg6LHtjXjuEhDMAf1RNr4c9AMMhzalCUXiGhQNpZarKpvsEYThEU3tiiEKtaYfHQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110111689265379864500/photos\">Jason Lombardo</a>"
+            ],
+            "photo_reference": "CmRaAAAA8rOoCnwxxeMadnmRLdUyJ8WO_xixzTnPEPXrm6xCPEz1H2vp6Nue1pXxBxUHqbuL2cu5WE0riN-f69SRc4yC18SbTQwIBkQEf6GYhjbAVJYlWcQGHnW_LCNO-YT9elg5EhDHgdb-SRYW99gBYGYn1Uk9GhRvFu4krHsIvOMBnJhoH4hRGlKfrg",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJqRT3obtYwokRrASQHIRBjx0",
+    "plus_code": {
+        "compound_code": "Q2HX+68 New York, United States",
+        "global_code": "87G8Q2HX+68"
+    },
+    "reference": "ChIJqRT3obtYwokRrASQHIRBjx0",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2129993184440222892",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

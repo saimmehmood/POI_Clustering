@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "23",
+            "short_name": "23",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Edgewater Place",
+            "short_name": "Edgewater Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1246",
+            "short_name": "1246",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">23 Edgewater Pl</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020-1246</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "23 Edgewater Pl, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(973) 777-1510",
+    "geometry": {
+        "location": {
+            "lat": 40.827123,
+            "lng": -73.9755189
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8284069302915,
+                "lng": -73.9742377197085
+            },
+            "southwest": {
+                "lat": 40.8257089697085,
+                "lng": -73.9769356802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "755b0f19ea4b82d66b6b16a5a05b94527d2e07aa",
+    "international_phone_number": "+1 973-777-1510",
+    "name": "Andriescu Mircea DDS",
+    "place_id": "ChIJLUWGQFH2wokRnh-nB2P5in4",
+    "plus_code": {
+        "compound_code": "R2GF+RQ Edgewater, New Jersey, United States",
+        "global_code": "87G8R2GF+RQ"
+    },
+    "reference": "ChIJLUWGQFH2wokRnh-nB2P5in4",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9118374599290462110",
+    "utc_offset": -240,
+    "vicinity": "23 Edgewater Place, Edgewater",
+    "website": "http://www.prosmilesnj.com/"
+}

@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gorge Road",
+            "short_name": "Gorge Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1319",
+            "short_name": "1319",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 Gorge Rd</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1319</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 Gorge Rd, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 803-4687",
+    "geometry": {
+        "location": {
+            "lat": 40.812388,
+            "lng": -73.989535
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8137478302915,
+                "lng": -73.98853396970851
+            },
+            "southwest": {
+                "lat": 40.8110498697085,
+                "lng": -73.99123193029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2e35b234521103a74d7bdfdc3db6e467b9f1dd78",
+    "international_phone_number": "+1 201-803-4687",
+    "name": "Jacqueline Pasquale Beauty",
+    "place_id": "ChIJ9fRoesn3wokR8q-cVwbXFNo",
+    "plus_code": {
+        "compound_code": "R266+X5 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R266+X5"
+    },
+    "reference": "ChIJ9fRoesn3wokR8q-cVwbXFNo",
+    "scope": "GOOGLE",
+    "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15714421422042165234",
+    "utc_offset": -240,
+    "vicinity": "250 Gorge Road, Cliffside Park"
+}

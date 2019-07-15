@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1692-1678",
+            "short_name": "1692-1678",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2523",
+            "short_name": "2523",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1692-1678 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2523</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1692-1678 3rd Ave, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.784206,
+            "lng": -73.9500541
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78555498029149,
+                "lng": -73.94870511970849
+            },
+            "southwest": {
+                "lat": 40.7828570197085,
+                "lng": -73.95140308029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "271754c4dd5921de1a2199c40cd13d08e69b0979",
+    "name": "1692-1678 3rd Ave",
+    "place_id": "ChIJR3mgz6VYwokRw51TJgOsXK8",
+    "reference": "ChIJR3mgz6VYwokRw51TJgOsXK8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1692-1678+3rd+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a5cfa07947:0xaf5cac0326539dc3",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

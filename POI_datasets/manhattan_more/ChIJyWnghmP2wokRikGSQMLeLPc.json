@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "3488",
+            "short_name": "3488",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5611",
+            "short_name": "5611",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3488 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5611</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3488 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 283-8101",
+    "geometry": {
+        "location": {
+            "lat": 40.82476929999999,
+            "lng": -73.9513534
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82614913029149,
+                "lng": -73.95007411970849
+            },
+            "southwest": {
+                "lat": 40.82345116970849,
+                "lng": -73.9527720802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1d76483c82c3a6891affab68626dd1f2224fd047",
+    "international_phone_number": "+1 212-283-8101",
+    "name": "Brittany Beauty Salon",
+    "place_id": "ChIJyWnghmP2wokRikGSQMLeLPc",
+    "plus_code": {
+        "compound_code": "R2FX+WF New York, United States",
+        "global_code": "87G8R2FX+WF"
+    },
+    "reference": "ChIJyWnghmP2wokRikGSQMLeLPc",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17810855552231817610",
+    "utc_offset": -240,
+    "vicinity": "3488 Broadway, New York"
+}

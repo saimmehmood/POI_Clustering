@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "3b",
+            "short_name": "3b",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "690",
+            "short_name": "690",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">690 Riverside Dr #3b</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "690 Riverside Dr #3b, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 242-1719",
+    "geometry": {
+        "location": {
+            "lat": 40.82774999999999,
+            "lng": -73.950885
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82914658029149,
+                "lng": -73.94965541970849
+            },
+            "southwest": {
+                "lat": 40.82644861970849,
+                "lng": -73.9523533802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c46e6adaeb695f57f092c20f935c9f02927b47d",
+    "international_phone_number": "+1 212-242-1719",
+    "name": "BARRY M. KATZ, ESQ.",
+    "place_id": "ChIJPXS2WWL2wokRXWZA30rugRs",
+    "plus_code": {
+        "compound_code": "R2HX+3J New York, United States",
+        "global_code": "87G8R2HX+3J"
+    },
+    "reference": "ChIJPXS2WWL2wokRXWZA30rugRs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1982127316360259165",
+    "utc_offset": -240,
+    "vicinity": "690 Riverside Drive #3b, New York",
+    "website": "http://www.barrymkatzlaw.com/contact/"
+}

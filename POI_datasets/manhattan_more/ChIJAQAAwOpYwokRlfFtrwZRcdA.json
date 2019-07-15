@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1562",
+            "short_name": "1562",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4004",
+            "short_name": "4004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1562 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1562 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 744-2526",
+    "geometry": {
+        "location": {
+            "lat": 40.7737171,
+            "lng": -73.95125139999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7751349802915,
+                "lng": -73.95006836970849
+            },
+            "southwest": {
+                "lat": 40.7724370197085,
+                "lng": -73.9527663302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e3bc5fe358d9294868cebfaf2d3b4dec71403821",
+    "international_phone_number": "+1 212-744-2526",
+    "name": "Global Dog Designs",
+    "place_id": "ChIJAQAAwOpYwokRlfFtrwZRcdA",
+    "plus_code": {
+        "compound_code": "Q2FX+FF New York, United States",
+        "global_code": "87G8Q2FX+FF"
+    },
+    "reference": "ChIJAQAAwOpYwokRlfFtrwZRcdA",
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15019875321412186517",
+    "utc_offset": -240,
+    "vicinity": "1562 1st Avenue, New York"
+}

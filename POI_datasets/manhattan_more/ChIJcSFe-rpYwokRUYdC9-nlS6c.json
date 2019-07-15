@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# B1",
+            "short_name": "# B1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "336",
+            "short_name": "336",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4872",
+            "short_name": "4872",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">336 E 87th St # B1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-4872</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "336 E 87th St # B1, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 876-2255",
+    "geometry": {
+        "location": {
+            "lat": 40.77787319999999,
+            "lng": -73.9501516
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7793049302915,
+                "lng": -73.9487418697085
+            },
+            "southwest": {
+                "lat": 40.7766069697085,
+                "lng": -73.9514398302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "85ce08dbbd2083bb3768d19a6713bf5d0eae6f4e",
+    "international_phone_number": "+1 212-876-2255",
+    "name": "Aplus Office On Call Inc",
+    "place_id": "ChIJcSFe-rpYwokRUYdC9-nlS6c",
+    "plus_code": {
+        "compound_code": "Q2HX+4W New York, United States",
+        "global_code": "87G8Q2HX+4W"
+    },
+    "reference": "ChIJcSFe-rpYwokRUYdC9-nlS6c",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12054981620625737553",
+    "utc_offset": -240,
+    "vicinity": "336 East 87th Street # B1, New York",
+    "website": "http://www.aplusoncall.com/"
+}

@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "546",
+            "short_name": "546",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">546 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "546 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 943-5544",
+    "geometry": {
+        "location": {
+            "lat": 40.8229449,
+            "lng": -73.9894131
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82433758029151,
+                "lng": -73.98816336970849
+            },
+            "southwest": {
+                "lat": 40.82163961970851,
+                "lng": -73.99086133029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4e865704b50d979db3e071295e1ec7cc377707e8",
+    "international_phone_number": "+1 201-943-5544",
+    "name": "Children and Family Dental",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ60TAhLH3wokRj7olmFKlNS0",
+    "plus_code": {
+        "compound_code": "R2F6+56 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+56"
+    },
+    "rating": 5,
+    "reference": "ChIJ60TAhLH3wokRj7olmFKlNS0",
+    "reviews": [
+        {
+            "author_name": "jack fritz",
+            "author_url": "https://www.google.com/maps/contrib/114174694955198690251/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Q44yJn8Ky2A/AAAAAAAAAAI/AAAAAAAAAC4/oSlbLn4ouOQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Gentle\ud83d\ude00. Love Her! Great work.",
+            "time": 1513276933
+        },
+        {
+            "author_name": "Yeival",
+            "author_url": "https://www.google.com/maps/contrib/116423185830234770693/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FRbIc7EXBW4/AAAAAAAAAAI/AAAAAAAAAWc/P0jczV5FSIs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1553535541
+        },
+        {
+            "author_name": "Ilenia Perez",
+            "author_url": "https://www.google.com/maps/contrib/110882277319038235945/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5hVScznFB5k/AAAAAAAAAAI/AAAAAAAABMs/nOGckdRzcfM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1546589946
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3257691679630932623",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "546 Anderson Avenue, Cliffside Park",
+    "website": "https://www.facebook.com/pages/Children-and-Family-Dental/146312942092845"
+}
