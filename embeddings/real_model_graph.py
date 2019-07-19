@@ -7,10 +7,10 @@
 import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_cells_berlin.csv')
+df = pd.read_csv('traj_as_poi.csv')
 
 traj_id = df['traj_id']
-cell_id = df['cell_id']
+cell_id = df['poi_enum']
 
 
 graph = nx.Graph()
@@ -44,6 +44,7 @@ for i in range(len(output)):
 
         if (output[i] == traj_id[j]):
             temp.append(str(traj_id[j]) + "," + str(cell_id[j]))
+
 
 
 #Splitting data into two lists.

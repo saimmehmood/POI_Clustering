@@ -1,6 +1,9 @@
- create table poi_new_york(
-  	poi_id text primary key,  this key is fetched from the data retrieved from Google Places API.
-  	geom_point geometry  I'm adding POINT inside the datasets using python script. Just mentioning it as "geometry(POINT, 4326)" doesn't work.
+ 
+ 
+ create table poi_ny(
+	poi_enum serial primary key,
+  	poi_id text,  -- this key is fetched from the data retrieved from Google Places API.
+  	geom_point geometry -- I'm adding POINT inside the datasets using python script. Just mentioning it as "geometry(POINT, 4326)" doesn't work.
  )
 
  update poi_new_york set geom_point = st_setsrid(geom_point, 4326)
@@ -22,7 +25,7 @@ create table cells_new_york (
 update cells_new_york set coordinates = st_setsrid(coordinates, 4326) 
 
 
-  SELECT traj_id, cell_id, cell_names into table traj_as_cells_new_york
+  SELECT traj_id, cell_id, cell_names into table traj_as_cells_ny
   FROM   (
     SELECT tr.traj_id, ce.cell_id, ce.cell_names, ce.grid_id, 
            ST_LineLocatePoint(tr.traj_path, ST_Centroid(ce.coordinates)) AS frac
@@ -61,10 +64,21 @@ select cp.poi_id, st_astext(pn.geom_point)
 select tn.traj_id, cp.poi_id into table traj_as_poi_new_york
 	from traj_as_cells_new_york tn, cell_poi_new_york cp
 	where tn.cell_id = cp.cell_id 	
+
+-- Getting traj poi's from traj_as_poi table and poi table.
+select tp.traj_id, tp.poi_id, st_astext(pn.geom_point) as points
+ 	from traj_as_poi_new_york tp, poi_new_york pn
+ 	where tp.poi_id = pn.poi_id	
 	
 	
+-- Getting cells and pois inside those cells through which trajectory is passing. 
+
+select tp.traj_id, st_astext(pn.geom_point) as point, st_astext(tr.traj_path) as traj_path, tc.cell_id, st_astext(tc.coordinates) as coordinates
+  	from traj_as_poi_new_york tp, poi_new_york pn, real_traj tr, traj_as_cells_ny tc
+  	where tp.poi_id = pn.poi_id and tp.traj_id = tr.traj_id and tp.traj_id = tc.traj_id and tp.traj_id = 560	
 	
 	
-	
-	
-	
+*** POIs = 559
+***	Traj = 100
+
+

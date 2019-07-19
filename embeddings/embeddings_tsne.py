@@ -20,36 +20,39 @@ saved_col_name = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
-    if(grid_id[i] == 625):
+
+    # specifying specific grid id to take cell ids from 
+    if(grid_id[i] == 9):
         saved_col_id.append(cell_id[i])
 
+# sorting id's to avoid issues while creating edges between cells
 sorted_ids = sorted(saved_col_id)
 
-# for i in range(len(sorted_ids)):
-#      print(sorted_ids[i])
 
+
+# storing cell names to get max row and max col
 for i in range(len(cell_names)):
-    if grid_id[i] == 625:
+    if grid_id[i] == 9:
         saved_col_name.append(cell_names[i])
 
-# for i in range(len(saved_col_name)):
-#     print(saved_col_name[i])
 
 graph = nx.Graph()
 
+
 for i in range(len(sorted_ids)):
-    #print(sorted_ids[i])
+
+    # adding cell ids as graph nodes. 
     graph.add_node(sorted_ids[i])
 
-#print(graph.nodes())
 
 # Getting range of rows and columns from last node
-
 list_of_names = list(saved_col_name)
 size = len(list_of_names)
 
 max_row = 0
 max_col = 0
+
+# getting max row and column to use it for assigning edges between grid cells.
 
 for i in range(size):
 
@@ -62,10 +65,13 @@ for i in range(size):
     if(max_col < col):
         max_col = col
 
-#print(max_col, max_row)
 
-# reshaping 1D list into 2D array.
-arr = np.array(sorted_ids).reshape(max_row+1,max_col+1)
+# reshaping 1D list into 2D array. 
+# This helps in using it inside for loop and makes it easier 
+# to generate edges. 
+arr = np.array(sorted_ids).reshape(max_row+1, max_col+1)
+
+
 
 for i in range(max_row + 1):
 
@@ -74,6 +80,8 @@ for i in range(max_row + 1):
         row_pos = i
         col_pos = j
 
+        # getting indexes to move from the current position.
+
         left = max(0, col_pos - 1)
         right = min(max_col, col_pos + 1)
 
@@ -81,28 +89,33 @@ for i in range(max_row + 1):
         bottom = min(max_row, row_pos + 1)
 
         # Adding edges between grid cells.
+
+        # checking if there is a left column from current position
         if (col_pos != left):
             graph.add_edge(arr[row_pos][col_pos], arr[row_pos][left])
 
+        # checking if there is a right column from current position
         if (col_pos != right):
             graph.add_edge(arr[row_pos][col_pos], arr[row_pos][right])
 
+        # checking if there is a top column from the current position
         if (row_pos != top):
             graph.add_edge(arr[row_pos][col_pos], arr[top][col_pos])
 
+        # checking if there is a bottom column from the current position
         if (row_pos != bottom):
             graph.add_edge(arr[row_pos][col_pos], arr[bottom][col_pos])
 
-list_of_edges = list(graph.edges)
+# list_of_edges = list(graph.edges)
 
-nodes = []
-for i in range(len(list_of_edges)):
-    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " "))
+# nodes = []
+# for i in range(len(list_of_edges)):
+#     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " "))
 
-f = open("nodes.edgelist", "w")
+# f = open("nodes.edgelist", "w")
 
-for i in range(len(nodes)):
-    f.write(nodes[i] + "\n")
+# for i in range(len(nodes)):
+#     f.write(nodes[i] + "\n")
 
-f.close()
+# f.close()
 #
