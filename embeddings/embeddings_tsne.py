@@ -106,16 +106,16 @@ for i in range(max_row + 1):
         if (row_pos != bottom):
             graph.add_edge(arr[row_pos][col_pos], arr[bottom][col_pos])
 
-# list_of_edges = list(graph.edges)
+list_of_edges = list(graph.edges)
 
-# nodes = []
-# for i in range(len(list_of_edges)):
-#     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " "))
+nodes = []
+for i in range(len(list_of_edges)):
+    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " "))
 
-# f = open("nodes.edgelist", "w")
+f = open("nodes.edgelist", "w")
 
-# for i in range(len(nodes)):
-#     f.write(nodes[i] + "\n")
+for i in range(len(nodes)):
+    f.write(nodes[i] + "\n")
 
-# f.close()
+f.close()
 #

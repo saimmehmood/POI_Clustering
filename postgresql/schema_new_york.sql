@@ -39,10 +39,10 @@ update cells_new_york set coordinates = st_setsrid(coordinates, 4326)
   ; 
 
 
--- cell_poi_new_york contains cell ids and poi ids for the POIs that are inside cell coordinates.
+-- cell_poi_ny contains cell ids and poi ids for the POIs that are inside cell coordinates.
 
- select c.cell_id, p.poi_id into table cell_poi_new_york
-   from poi_new_york p, cells_new_york c
+ select c.cell_id, p.poi_id into table cell_poi_ny
+   from poi_ny p, cells_new_york c
    where st_within(p.geom_point, c.coordinates) and grid_id = 1225
    
    
@@ -61,8 +61,8 @@ select cp.poi_id, st_astext(pn.geom_point)
 
 -- Storing traj_id and poi_id based on if they are part of the same cell.
 	
-select tn.traj_id, cp.poi_id into table traj_as_poi_new_york
-	from traj_as_cells_new_york tn, cell_poi_new_york cp
+select tn.traj_id, cp.poi_enum into table traj_as_poi_ny
+	from traj_as_cells_ny tn, cell_poi_new_york cp
 	where tn.cell_id = cp.cell_id 	
 
 -- Getting traj poi's from traj_as_poi table and poi table.

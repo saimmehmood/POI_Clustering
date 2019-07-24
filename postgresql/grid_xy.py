@@ -26,9 +26,10 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
         for col in range(grid_x):
 
             
-            # new_lat_coord = top_left[0] + cell_height * row
-            # new_long_coord = top_left[1] + cell_width * col
 
+
+            # moving to specific cell coordinate from top left position using cell height and width 
+            # and multiplying it with row and column number. 
 
             cell_top_left = ( top_left[0] + cell_height * row, top_left[1] + cell_width * col )
 
