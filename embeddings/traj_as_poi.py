@@ -112,18 +112,18 @@ for i in range(len(list_of_lists)): # i gives access to individual list
         except IndexError:
             print("reached end")
 
-print(graph.edges())
 
-# list_of_edges = list(graph.edges)
 
-# nodes = []
-# for i in range(len(list_of_edges)):
-#     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
+list_of_edges = list(graph.edges)
 
-# f = open("nodes_traj.edgelist", "w")
+nodes = []
+for i in range(len(list_of_edges)):
+    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
 
-# for i in range(len(nodes)):
-#     f.write(nodes[i] + "\n")
+f = open("nodes_traj.edgelist", "w")
 
-# f.close()
+for i in range(len(nodes)):
+    f.write(nodes[i] + "\n")
+
+f.close()
         
