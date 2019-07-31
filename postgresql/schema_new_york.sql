@@ -62,7 +62,7 @@ select cp.poi_id, st_astext(pn.geom_point)
 -- Storing traj_id and poi_id based on if they are part of the same cell.
 	
 select tn.traj_id, cp.poi_enum into table traj_as_poi_ny
-	from traj_as_cells_ny tn, cell_poi_new_york cp
+	from traj_as_cells_ny tn, cell_poi_ny cp
 	where tn.cell_id = cp.cell_id 	
 
 -- Getting traj poi's from traj_as_poi table and poi table.

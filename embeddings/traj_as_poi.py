@@ -9,8 +9,8 @@
 ### Null Model ###
 # This code generates a graph by adding edges between POI's inside grid cells.
 # Each POI is considered as a node. 
-# Each POI is picked randomly from each cell and gets 
-# connected to a POI from other cell.
+# Each POI is picked from each cell and gets 
+# connected to a POI from other adjacent cell.
 
 import networkx as nx
 import pandas as pd
@@ -105,25 +105,25 @@ for i in range(len(list_of_lists)): # i gives access to individual list
 
         try: 
             
-            for k in range(len(list_of_lists[i + 1])):
+            for k in range(len(list_of_lists[i + 1])): # k gives access to individual elements of next list
 
-                graph.add_edge(list_of_lists[i][j], list_of_lists[i+1][k])
+                graph.add_edge(list_of_lists[i][j], list_of_lists[i+1][k]) # creating edge between adjacent cell poi's.
 
         except IndexError:
             print("reached end")
 
+print(graph.edges())
 
+# list_of_edges = list(graph.edges)
 
-list_of_edges = list(graph.edges)
+# nodes = []
+# for i in range(len(list_of_edges)):
+#     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
 
-nodes = []
-for i in range(len(list_of_edges)):
-    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
+# f = open("nodes_traj.edgelist", "w")
 
-f = open("nodes_traj.edgelist", "w")
+# for i in range(len(nodes)):
+#     f.write(nodes[i] + "\n")
 
-for i in range(len(nodes)):
-    f.write(nodes[i] + "\n")
-
-f.close()
+# f.close()
         

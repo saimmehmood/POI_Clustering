@@ -46,7 +46,6 @@ for i in range(len(output)):
             temp.append(str(traj_id[j]) + "," + str(cell_id[j]))
 
 
-
 #Splitting data into two lists.
 s1 = [] # storing traj ids
 s2 = [] # storing cell ids
@@ -64,7 +63,7 @@ for i in range(len(s1)):
     
     try:
         if (s1[i] == s1[i + 1]):
-            graph.add_edge(s2[i], s2[i + 1])
+            graph.add_edge(s2[i], s2[i + 1]) # connecting all poi's that are part of the same traj.
             st_edge.append(s2[i])
 
         if (s1[i] != s1[i + 1]):
@@ -76,7 +75,8 @@ for i in range(len(s1)):
     except IndexError:
         st_edge.append(s2[i])
         list_of_lists.append(st_edge.copy())
-       
+
+#print(graph.edges())       
 
 list_of_edges = list(graph.edges)
 

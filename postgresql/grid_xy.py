@@ -7,9 +7,11 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     # Area Boundaries:
     top_left = lat1, long1
 
+    # calculating total height and width
     height = lat2 - lat1
     width = long2 - long1
 
+    # calculating individual cell height and width 
     cell_width = width/grid_x
     cell_height = height/grid_y
 
