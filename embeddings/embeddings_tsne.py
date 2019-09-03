@@ -10,30 +10,25 @@ import numpy as np
 
 
 
-df = pd.read_csv('cells.csv')
+df = pd.read_csv('cells_ny.csv')
 
 cell_names = df['cell_names']
 grid_id = df['grid_id']
 cell_id = df['cell_id']
 
-saved_col_name = []
+list_of_names = []
 saved_col_id = []
 
 for i in range(len(cell_id)):
 
     # specifying specific grid id to take cell ids from 
-    if(grid_id[i] == 9):
+    if(grid_id[i] == 1225):
         saved_col_id.append(cell_id[i])
+        # storing cell names to get max row and max col
+        list_of_names.append(cell_names[i])
 
 # sorting id's to avoid issues while creating edges between cells
 sorted_ids = sorted(saved_col_id)
-
-
-
-# storing cell names to get max row and max col
-for i in range(len(cell_names)):
-    if grid_id[i] == 9:
-        saved_col_name.append(cell_names[i])
 
 
 graph = nx.Graph()
@@ -46,7 +41,6 @@ for i in range(len(sorted_ids)):
 
 
 # Getting range of rows and columns from last node
-list_of_names = list(saved_col_name)
 size = len(list_of_names)
 
 max_row = 0
@@ -70,7 +64,6 @@ for i in range(size):
 # This helps in using it inside for loop and makes it easier 
 # to generate edges. 
 arr = np.array(sorted_ids).reshape(max_row+1, max_col+1)
-
 
 
 for i in range(max_row + 1):
@@ -118,4 +111,3 @@ for i in range(len(nodes)):
     f.write(nodes[i] + "\n")
 
 f.close()
-#

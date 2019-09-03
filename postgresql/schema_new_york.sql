@@ -27,7 +27,7 @@ update cells_new_york set coordinates = st_setsrid(coordinates, 4326)
 
   SELECT traj_id, cell_id, cell_names into table traj_as_cells_ny
   FROM   (
-    SELECT tr.traj_id, ce.cell_id, ce.cell_names, ce.grid_id, 
+    SELECT tr.traj_id, ce.cell_id, ce.coordinates, ce.grid_id, 
            ST_LineLocatePoint(tr.traj_path, ST_Centroid(ce.coordinates)) AS frac
     FROM   cells_new_york AS ce
     JOIN   real_traj AS tr

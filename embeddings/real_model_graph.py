@@ -1,24 +1,15 @@
 ### Real Model ###
 
-# This code generates edge list and walks of trajectory paths based on cells ids.
-# 1st: it outputs a file that represents cell ids as edge lists in a format accepted by node2vec.
-# 2nd: it outputs trajectory paths as list of cell ids.
+# This code generates walks of trajectory paths based on cells ids. 
+# It outputs trajectory paths as list of cell ids.
 
-import networkx as nx
+#import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_poi.csv')
+df = pd.read_csv('traj_as_cells_ny.csv')
 
 traj_id = df['traj_id']
-cell_id = df['poi_enum']
-
-
-graph = nx.Graph()
-
-# graph only stores distinct nodes.
-for i in range(len(cell_id)):
-    graph.add_node(cell_id[i])
-
+cell_id = df['cell_id']
 
 output = []
 
@@ -63,7 +54,8 @@ for i in range(len(s1)):
     
     try:
         if (s1[i] == s1[i + 1]):
-            graph.add_edge(s2[i], s2[i + 1]) # connecting all poi's that are part of the same traj.
+        
+         # connecting all cell id's that are part of the same traj.
             st_edge.append(s2[i])
 
         if (s1[i] != s1[i + 1]):
@@ -73,25 +65,11 @@ for i in range(len(s1)):
             st_edge.clear() # making it clear for the cell id's of next trajectory
 
     except IndexError:
+
+        # adding last element (cell id) belonging to the same trajectory. 
         st_edge.append(s2[i])
         list_of_lists.append(st_edge.copy())
 
-#print(graph.edges())       
-
-list_of_edges = list(graph.edges)
-
-nodes = []
-for i in range(len(list_of_edges)):
-    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
-
-
-# Storing edge list for real model nodes.
-
-f_edgelist = open("realm_nodes.edgelist", "w")
-
-for i in range(len(nodes)):
-   f_edgelist.write(nodes[i] + "\n")
-f_edgelist.close()
 
 # storing trajectory walks as cell ids as list on each line.
 f_walk = open("walks.txt", "w")
@@ -104,12 +82,11 @@ for i in range(len(list_of_lists)):
 
 # Converting list of lists into a single list each line
 
+ls[0] = str(ls[0]).replace("[[", "")
+ls[len(ls) - 1] = str(ls[len(ls) - 1]).replace("]]", "")
+
 for i in range(len(ls)):
-
-    str(ls[0]).replace("[[", "")
-    str(ls[len(ls) - 1]).replace("]]", "")
-
-    if(ls[i] != ls[0] and ls[i] != ls[len(ls) - 1]):
-        f_walk.write(str("["+ls[i] + "]\n"))
+    
+    f_walk.write(str("["+ls[i] + "]\n"))
 
 f_walk.close()
