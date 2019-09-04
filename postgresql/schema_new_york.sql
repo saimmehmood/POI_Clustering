@@ -16,7 +16,7 @@
  update real_traj set traj_path = st_setsrid(traj_path, 4326) 
 
 create table cells_new_york (
-	cell_id serial primary key,  changed to serial in cell_01
+	cell_id serial primary key,  -- changed to serial in cell_01
 	grid_id float references grids(grid_id),
 	cell_names text,
 	coordinates geometry  -- Creating POLYGON geometry: need to specify first and last coordinate same for each of them. 
@@ -24,6 +24,9 @@ create table cells_new_york (
 
 update cells_new_york set coordinates = st_setsrid(coordinates, 4326) 
 
+
+
+-- This query misses the revisited polygons by the same trajectory (new query written further).
 
   SELECT traj_id, cell_id, cell_names into table traj_as_cells_ny
   FROM   (
@@ -49,7 +52,7 @@ update cells_new_york set coordinates = st_setsrid(coordinates, 4326)
 -- Getting the above cell coordinates that contains POI. (Doing visualization)
  
 select cp.cell_id, st_astext(cn.coordinates)
-	from cell_poi_new_york cp, cells_new_york cn
+	from cell_poi_ny cp, cells_new_york cn
 	where cp.cell_id = cn.cell_id
 	
 
@@ -80,5 +83,52 @@ select tp.traj_id, st_astext(pn.geom_point) as point, st_astext(tr.traj_path) as
 	
 *** POIs = 559
 ***	Traj = 100
+
+
+-- Getting cell_names of the cells from which traj is passing through. (Considering single traj id)
+
+
+SELECT tr.traj_id, ce.cell_id, ce.grid_id
+FROM cells_new_york ce, real_traj tr
+where ce.grid_id = 9 and tr.traj_id = 572
+
+ORDER BY ST_LineLocatePoint(
+    tr.traj_path,
+    ST_CENTROID(
+        (ST_DUMP(
+            ST_Intersection(ce.coordinates, tr.traj_path)
+        )).geom
+    )
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
