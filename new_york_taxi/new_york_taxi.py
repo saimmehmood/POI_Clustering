@@ -150,12 +150,12 @@ start_lat = df['pickup_latitude']
 end_lon = df['dropoff_longitude']
 end_lat = df['dropoff_latitude']
 
-f_traj  = open("real_trajectory.csv", "w")
+f_traj  = open("new_york_traj_01.csv", "w")
 f_traj.write("trajectory\n")
 
 start_time = time.time()
 
-for i in range(1000):
+for i in range(10):
 
     start = start_lat[i], start_lon[i]
     end = end_lat[i], end_lon[i]

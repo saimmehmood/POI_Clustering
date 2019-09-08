@@ -113,6 +113,7 @@ def main(args):
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")
 			t = tmp.split(" ")
+			
 			for i in range(len(t)):
 				walk.append(t[i])
 

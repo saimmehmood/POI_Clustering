@@ -85,7 +85,7 @@ select tp.traj_id, st_astext(pn.geom_point) as point, st_astext(tr.traj_path) as
 ***	Traj = 100
 
 
--- Getting cell_names of the cells from which traj is passing through. (Considering single traj id)
+-- Getting traj_ids and cell_ids of the cells from which traj is passing through. (Considering single traj id)
 
 
 SELECT tr.traj_id, ce.cell_id, ce.grid_id
