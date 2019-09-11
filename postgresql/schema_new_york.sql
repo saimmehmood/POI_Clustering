@@ -10,7 +10,7 @@
 
  create table real_traj (
   	traj_id serial primary key,  
- 	traj_path geometry  Adding LINESTRING in the data column through notepad++
+ 	traj_path geometry -- Adding LINESTRING in the data column through notepad++
   )
 
  update real_traj set traj_path = st_setsrid(traj_path, 4326) 
@@ -44,9 +44,10 @@ update cells_new_york set coordinates = st_setsrid(coordinates, 4326)
 
 -- cell_poi_ny contains cell ids and poi ids for the POIs that are inside cell coordinates.
 
- select c.cell_id, p.poi_id into table cell_poi_ny
+ select c.cell_id, p.poi_enum into table cell_poi_ny
    from poi_ny p, cells_new_york c
    where st_within(p.geom_point, c.coordinates) and grid_id = 1225
+   order by c.cell_id
    
    
 -- Getting the above cell coordinates that contains POI. (Doing visualization)
@@ -70,7 +71,7 @@ select tn.traj_id, cp.poi_enum into table traj_as_poi_ny
 
 -- Getting traj poi's from traj_as_poi table and poi table.
 select tp.traj_id, tp.poi_id, st_astext(pn.geom_point) as points
- 	from traj_as_poi_new_york tp, poi_new_york pn
+ 	from traj_as_poi_ny tp, poi_ny pn
  	where tp.poi_id = pn.poi_id	
 	
 	
@@ -91,6 +92,21 @@ select tp.traj_id, st_astext(pn.geom_point) as point, st_astext(tr.traj_path) as
 SELECT tr.traj_id, ce.cell_id, ce.grid_id
 FROM cells_new_york ce, real_traj tr
 where ce.grid_id = 9 and tr.traj_id = 572
+
+ORDER BY ST_LineLocatePoint(
+    tr.traj_path,
+    ST_CENTROID(
+        (ST_DUMP(
+            ST_Intersection(ce.coordinates, tr.traj_path)
+        )).geom
+    )
+);
+
+-- storing traj_as_cells for 1000 real new york trajectories. (with 35 * 35 grid).
+
+SELECT tr.traj_id, ce.cell_id into table traj_as_cells_ny_1000
+FROM cells_new_york ce, real_traj_1000 tr
+where ce.grid_id = 1225 -- and tr.traj_id = 550 and tr.traj_id = 511 -- and tr.traj_id = 513
 
 ORDER BY ST_LineLocatePoint(
     tr.traj_path,
