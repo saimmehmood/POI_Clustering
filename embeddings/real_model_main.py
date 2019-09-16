@@ -108,7 +108,7 @@ def main(args):
 
 	walks = []
 	walk = []
-	with open("walks.txt") as file:
+	with open("walks_poi.txt") as file:
 
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")

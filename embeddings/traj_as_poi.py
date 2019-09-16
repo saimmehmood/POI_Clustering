@@ -12,10 +12,10 @@
 # Each POI is picked from each cell and gets 
 # connected to a POI from other adjacent cell.
 
-import networkx as nx
+#import networkx as nx
 import pandas as pd
-import numpy as np
-import random
+#import numpy as np
+#import random
 
 
 df = pd.read_csv('cell_poi_ny.csv')
@@ -24,106 +24,153 @@ df = pd.read_csv('cell_poi_ny.csv')
 cell_id = df['cell_id']
 poi_id = df['poi_enum']
 
-
-# initializing graph
-graph = nx.Graph()
-
-
-for i in range(len(poi_id)):
-
-    # adding poi ids as graph nodes. 
-    graph.add_node(poi_id[i])
-
-
 output = []
-
-# Keeping distinct cell id's.
-# As one cell id appears multiple times.
-# This helps us in storing all the poi id's
-# against a single cell id i.e., the cells through
-# which poi has passed.
 
 for x in cell_id:
     if x not in output:
         output.append(x)
 
+# creating a dictionary with empty lists.
 
-temp = []
-
+new_dict = {new_list: [] for new_list in output}
 
 for i in range(len(output)):
 
     for j in range(len(cell_id)):
 
         if (output[i] == cell_id[j]):
-            temp.append(str(cell_id[j]) + "," + str(poi_id[j]))
+
+            # storing all poi id's as list against key value of cell id
+            new_dict[output[i]].append(poi_id[j])
+
+
+# x = 1317
+
+# if (x in new_dict):
+
+#     print(new_dict[x])
+
+# f_walk = open("null_walks_poi.txt", "w")
+
+
+with open("exp.txt") as file:
+
+    walks = file.readlines()
+
+
+for i in range(len(walks)):
+
+    walk = walks[i].replace("[", "").replace("]", "").replace(" ", "").split(",")
+
+    for w in walk:
+
+        if(int(w) in new_dict):
+
+            print(new_dict[int(w)])
+        
+
+        
+
+#print(walks[0][0])
+# initializing graph
+#graph = nx.Graph()
+
+
+# for i in range(len(poi_id)):
+
+#     # adding poi ids as graph nodes. 
+#     graph.add_node(poi_id[i])
+
+
+# output = []
+
+# # Keeping distinct cell id's.
+# # As one cell id appears multiple times.
+# # This helps us in storing all the poi id's
+# # against a single cell id i.e., the cells through
+# # which poi has passed.
+
+# for x in cell_id:
+#     if x not in output:
+#         output.append(x)
+
+
+# temp = []
+
+
+# for i in range(len(output)):
+
+#     for j in range(len(cell_id)):
+
+#         if (output[i] == cell_id[j]):
+#             temp.append(str(cell_id[j]) + "," + str(poi_id[j]))
 
 
 
-#Splitting data into two lists.
-s1 = [] 
-s2 = [] 
+# #Splitting data into two lists.
+# s1 = [] 
+# s2 = [] 
 
-for tmp in temp:
-    t = tmp.split(",")
-    s1.append(t[0])
-    s2.append(t[1])
+# for tmp in temp:
+#     t = tmp.split(",")
+#     s1.append(t[0])
+#     s2.append(t[1])
 
 
-list_of_lists = [] 
-st_edge = [] 
+# list_of_lists = [] 
+# st_edge = [] 
 
-for i in range(len(s1)):
+# for i in range(len(s1)):
     
-    try:
+#     try:
 
-        # if first and second element has same cell id, add their relevant poi's 
-        if (s1[i] == s1[i + 1]):
-            # graph.add_edge(s2[i], s2[i + 1])
-            st_edge.append(s2[i])
+#         # if first and second element has same cell id, add their relevant poi's 
+#         if (s1[i] == s1[i + 1]):
+#             # graph.add_edge(s2[i], s2[i + 1])
+#             st_edge.append(s2[i])
 
-        # if both are not the same, then the other is last one to be added
-        if (s1[i] != s1[i + 1]):
-            st_edge.append(s2[i])
-            list_of_lists.append(st_edge.copy())
+#         # if both are not the same, then the other is last one to be added
+#         if (s1[i] != s1[i + 1]):
+#             st_edge.append(s2[i])
+#             list_of_lists.append(st_edge.copy())
 
-            st_edge.clear() # making it clear for the cell id's of next trajectory
+#             st_edge.clear() # making it clear for the cell id's of next trajectory
 
-    except IndexError:
-        st_edge.append(s2[i])
-        list_of_lists.append(st_edge.copy())
+#     except IndexError:
+#         st_edge.append(s2[i])
+#         list_of_lists.append(st_edge.copy())
 
 
-#print(list_of_lists)
+# print(list_of_lists)
 
 # relating poi's from one cell to another cell randomly by creating edges between them.
 
-for i in range(len(list_of_lists)): # i gives access to individual list 
+# for i in range(len(list_of_lists)): # i gives access to individual list 
 
 
-    for j in range(len(list_of_lists[i])): # j gives access to individual element
+#     for j in range(len(list_of_lists[i])): # j gives access to individual element
 
-        try: 
+#         try: 
             
-            for k in range(len(list_of_lists[i + 1])): # k gives access to individual elements of next list
+#             for k in range(len(list_of_lists[i + 1])): # k gives access to individual elements of next list
 
-                graph.add_edge(list_of_lists[i][j], list_of_lists[i+1][k]) # creating edge between adjacent cell poi's.
+#                 graph.add_edge(list_of_lists[i][j], list_of_lists[i+1][k]) # creating edge between adjacent cell poi's.
 
-        except IndexError:
-            print("reached end")
+#         except IndexError:
+#             print("reached end")
 
 
 
-list_of_edges = list(graph.edges)
+# list_of_edges = list(graph.edges)
 
-nodes = []
-for i in range(len(list_of_edges)):
-    nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
+# nodes = []
+# for i in range(len(list_of_edges)):
+#     nodes.append(str(list_of_edges[i]).replace("(", "").replace(")", "").replace(", ", " ").replace("'", ""))
 
-f = open("nodes_traj.edgelist", "w")
+# f = open("nodes_traj.edgelist", "w")
 
-for i in range(len(nodes)):
-    f.write(nodes[i] + "\n")
+# for i in range(len(nodes)):
+#     f.write(nodes[i] + "\n")
 
-f.close()
+# f.close()
         

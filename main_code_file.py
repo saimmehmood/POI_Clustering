@@ -41,7 +41,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 
 
 	#k = 0 # to keep in check google api limit of 1000 requests per 24h (in case you need it)
-	
+	lat_lng = dict()
 	# traversing through all the latitude and longitude points
 	for i in range(len(x_points)):
 		x = x_points[i]		#lat
@@ -51,8 +51,9 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 			
 
 			# querying google api
+			lat_lng = {'lat': x, 'lng' : y}
 			query_result = google_places.nearby_search(
-				location=str(x) + ',' + str(y), radius=30)
+				location = lat_lng, radius=30)
 
 
 			# getting ID's from the specified location
@@ -93,7 +94,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 		# storing POI detail with ID as a file name.
 		if str(data["place_id"]) in Id_of_places:
 			print(str(data["place_id"]))
-			with open('POI_datasets\\manhattan_more\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
+			with open('POI_datasets\\toronto_more\\'+ str(data["place_id"]) +'.json', 'w') as outfile:
 				json.dump(place_details[i], outfile, indent=4, default=decimal_default)
 
 	
@@ -106,7 +107,7 @@ def scanAreaForPOIs(lat1, long1, lat2, long2, step, your_api):
 YOUR_API_KEY = 'AIzaSyBbYoTz9oF-7rK09tB9e6SKYkx4Yj2IVZs'
 
 # (un-comment below function calling line to generate more data sets)
-scanAreaForPOIs(40.828186, -73.951329, 40.773820, -73.949348, 0.001, YOUR_API_KEY)  # upper manhattan
+scanAreaForPOIs(43.651386, -79.389880, 43.645052, -79.367023, 0.001, YOUR_API_KEY)  # upper manhattan
 
 # This function calculates the distance between POIs and trajectories.
 def getPOIAroundTrajectory(route, threshold): # using Euclidean distances

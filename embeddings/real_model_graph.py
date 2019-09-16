@@ -6,10 +6,10 @@
 #import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_poi_ny_1000.csv')
+df = pd.read_csv('traj_as_cells_ny_1000.csv')
 
 traj_id = df['traj_id']
-cell_id = df['poi_enum']
+cell_id = df['cell_id']
 
 output = []
 
@@ -72,7 +72,7 @@ for i in range(len(s1)):
 
 
 # storing trajectory walks as cell ids as list on each line.
-f_walk = open("walks_poi.txt", "w")
+f_walk = open("walks.txt", "w")
 
 ls = []
 
