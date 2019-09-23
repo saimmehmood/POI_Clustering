@@ -27,10 +27,10 @@ def parse_args():
 	parser.add_argument('--dimensions', type=int, default=128,
 	                    help='Number of dimensions. Default is 128.')
 
-	parser.add_argument('--walk-length', type=int, default=17,
+	parser.add_argument('--walk-length', type=int, default=20,
 	                    help='Length of walk per source. Default is 80.')
 
-	parser.add_argument('--num-walks', type=int, default=1,
+	parser.add_argument('--num-walks', type=int, default=10,
 	                    help='Number of walks per source. Default is 10.')
 
 	parser.add_argument('--window-size', type=int, default=10,
@@ -108,7 +108,7 @@ def main(args):
 
 	walks = []
 	walk = []
-	with open("walks_poi.txt") as file:
+	with open("walks.txt") as file:
 
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")

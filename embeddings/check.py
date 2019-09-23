@@ -1,20 +1,44 @@
-# import numpy as np
 
-# x = np.arange(10)
-
-# print("Original array:")
-# #print(x)
-
-# np.random.shuffle(x)
-
-# print(x)
-
-# n = 3
-# print (x[np.argsort(x)[-n:]])
 
 import random
 
-for i in range(5):
-	print(random.randint(0,5))
+with open("walks.txt") as file:
 
+    walks = file.readlines()
+
+
+# s_walk = open("shuffled_walks.txt", "w")
+
+# walk = []
+
+#print(len(walks))
+
+# taking average of cell walks
+sum_of_walks_size = 0
+
+for i in range(len(walks)):
+
+	walk = list(walks[i].replace("[", "").replace("]", "").replace(" ", "").replace("\n","").replace("'", "").split(","))
+
+	sum_of_walks_size = sum_of_walks_size + int((len(walk)))
+
+
+avg = sum_of_walks_size / int(len(walks))
+
+
+print(avg)
+
+# 	break
+
+# 	#print(walk[i])
+# 	# getting first element from walk and removing it
+# 	first = walk.pop(0)
+
+# 	random.shuffle(walk)
+
+# 	walk.insert(0, first)
+
+# 	s_walk.write(str(walk) + "\n")
+
+# s_walk.close()
 
