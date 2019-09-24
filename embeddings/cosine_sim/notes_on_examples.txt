@@ -1,0 +1,52 @@
+Cosine Similarity Interesting Examples
+
+1. 1663,2269,0.38258641312726566,0.9861818262204289,0.6035954130931633 (Let's verify this)
+
+# Traj Ids for 1663
+
+1222		
+706
+432
+1115
+1194
+886
+297
+1107
+485
+314
+981
+1094
+634
+933
+373
+508
+794
+412
+704
+888
+489
+323
+899
+523
+910
+502
+287
+627
+310
+889
+831
+644
+811
+630
+669
+630
+
+
+-- select st_astext(coordinates)
+-- 	from cells_new_york
+-- 	where grid_id = 1225 and cell_id = 2269
+
+
+select tr.traj_id, st_astext(r.traj_path)
+	from traj_as_cells_ny_1000 tr, real_traj_1000 r
+	where tr.cell_id = 2269 and tr.traj_id = r.traj_id

@@ -35,95 +35,98 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
             labels_array_01.append(sr[0])
 
             # storing all the vectors
+            print(sr[2:])
+
+            break
             numpy_array_01.append(np.array([float(i) for i in sr[1:]]))
 
-    labels_array_01.pop(0)
-    numpy_array_01.pop(0)
+    # labels_array_01.pop(0)
+    # numpy_array_01.pop(0)
+
+    #print(numpy_array_01[0])
+
+    # with open(vector_file_02, 'r') as f:
+    #     for c, r in enumerate(f):
+    #         sr = r.split()
+
+    #         # storing all the labels
+    #         labels_array_02.append(sr[0])
+
+    #         # storing all the vectors
+    #         numpy_array_02.append(np.array([float(i) for i in sr[1:]]))
+
+    # labels_array_02.pop(0)
+    # numpy_array_02.pop(0)
 
 
 
-    with open(vector_file_02, 'r') as f:
-        for c, r in enumerate(f):
-            sr = r.split()
-
-            # storing all the labels
-            labels_array_02.append(sr[0])
-
-            # storing all the vectors
-            numpy_array_02.append(np.array([float(i) for i in sr[1:]]))
-
-    labels_array_02.pop(0)
-    numpy_array_02.pop(0)
-
-
-
-    # storing cell_ids and their embedded vectors in dict.
-    # dict gives nearly constant time searching.
+    # # storing cell_ids and their embedded vectors in dict.
+    # # dict gives nearly constant time searching.
     
-    null_dict = {}
+    # null_dict = {}
 
-    for i in range(len(labels_array_01)):
-        null_dict.update({labels_array_01[i]: numpy_array_01[i]})
-
-
-
-    real_dict = {}
-
-    for i in range(len(labels_array_02)):
-        real_dict.update({labels_array_02[i]: numpy_array_02[i]})
+    # for i in range(len(labels_array_01)):
+    #     null_dict.update({labels_array_01[i]: numpy_array_01[i]})
 
 
 
-    i = int(min(labels_array_01))
-    m = int(max(labels_array_01))
+    # real_dict = {}
 
-
-    f_cos_sim = open("cos_sim_shuffle_walks.csv", "w")
-    f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
-
-
-
-    start = time.time()
-
-
-    # two while loops only get n*(n-1) / 2 pairs out of cell nodes. (Avoid comparing similar nodes)
-
-    while i < m:
-
-        j = i + 1
-
-        while j <= m:
-
-            #print(i, j)
-
-            # storing node combinations and cosine similarity of null model values.
-            #f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
-
-            # writing cosine similarity and it's difference if the nodes exist in real model.
-            if (str(i) in real_dict) and (str(j) in real_dict):
-
-                #if(str(j) in real_dict):
-
-                # f_cos_sim.write(str(i) + ", "+ str(j) + "\n")
+    # for i in range(len(labels_array_02)):
+    #     real_dict.update({labels_array_02[i]: numpy_array_02[i]})
 
 
 
-                f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
-                f_cos_sim.write(str(cos_sim(real_dict[str(i)], real_dict[str(j)])) + "," + str(float(abs(cos_sim(null_dict[str(i)], null_dict[str(j)]) - cos_sim(real_dict[str(i)], real_dict[str(j)])))) + "\n")
+    # i = int(min(labels_array_01))
+    # m = int(max(labels_array_01))
 
-            # writing infinite if the nodes doesn't exist.
-            else:
+
+    # f_cos_sim = open("cos_sim_shuffle_walks.csv", "w")
+    # f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
+
+
+
+    # start = time.time()
+
+
+    # # two while loops only get n*(n-1) / 2 pairs out of cell nodes. (Avoid comparing similar nodes)
+
+    # while i < m:
+
+    #     j = i + 1
+
+    #     while j <= m:
+
+    #         #print(i, j)
+
+    #         # storing node combinations and cosine similarity of null model values.
+    #         #f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
+
+    #         # writing cosine similarity and it's difference if the nodes exist in real model.
+    #         if (str(i) in real_dict) and (str(j) in real_dict):
+
+    #             #if(str(j) in real_dict):
+
+    #             # f_cos_sim.write(str(i) + ", "+ str(j) + "\n")
+
+
+
+    #             f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
+    #             f_cos_sim.write(str(cos_sim(real_dict[str(i)], real_dict[str(j)])) + "," + str(float(abs(cos_sim(null_dict[str(i)], null_dict[str(j)]) - cos_sim(real_dict[str(i)], real_dict[str(j)])))) + "\n")
+
+    #         # writing infinite if the nodes doesn't exist.
+    #         # else:
                 
-                f_cos_sim.write("infinite,infinite\n")
+    #         #     f_cos_sim.write("infinite,infinite\n")
 
 
-            j = j + 1
+    #         j = j + 1
 
-        i = i + 1
+    #     i = i + 1
 
-    end = time.time()
+    # end = time.time()
 
-    print(end - start)
+    # print(end - start)
 
 
 
