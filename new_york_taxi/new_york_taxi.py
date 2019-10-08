@@ -6,7 +6,7 @@ import math
 import time
 
 
-API_KEY = 'AIzaSyBbYoTz9oF-7rK09tB9e6SKYkx4Yj2IVZs'
+#API_KEY = 'AIzaSyBbYoTz9oF-7rK09tB9e6SKYkx4Yj2IVZs'
 
 
 def getPath(API_KEY, start, end, waypoints, traj_mode, index, threshold):

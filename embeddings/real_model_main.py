@@ -36,7 +36,7 @@ def parse_args():
 	parser.add_argument('--window-size', type=int, default=10,
                     	help='Context size for optimization. Default is 10.')
 
-	parser.add_argument('--iter', default=1, type=int,
+	parser.add_argument('--iter', default=9, type=int,
                       help='Number of epochs in SGD')
 
 	parser.add_argument('--workers', type=int, default=8,
@@ -108,7 +108,7 @@ def main(args):
 
 	walks = []
 	walk = []
-	with open("walks.txt") as file:
+	with open("shuffled_walks_10.txt") as file:
 
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")

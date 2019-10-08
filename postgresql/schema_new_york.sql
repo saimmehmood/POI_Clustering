@@ -117,7 +117,17 @@ ORDER BY ST_LineLocatePoint(
     )
 );
 
+-- fetching traj related stuff
 
+-- all traj's passing through cell
+select tr.traj_id, st_astext(r.traj_path)
+	from traj_as_cells_ny_1000 tr, real_traj_1000 r
+	where tr.cell_id = 1729 and tr.traj_id = r.traj_id
+
+-- Getting cell coordinates
+select cell_id, st_astext(coordinates)
+from cells_new_york 
+where cell_id = 1729
 
 
 
