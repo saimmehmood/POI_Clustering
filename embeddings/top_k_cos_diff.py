@@ -4,6 +4,7 @@ import time
 
 df = pd.read_csv('cos_sim.csv')
 
+# fetching all the columns from file.
 
 diff = df['diff']
 node1 = df['node1']
@@ -18,17 +19,17 @@ cleaned = []
 
 #start = time.time()
 
-# for i in range(len(diff)):
+for i in range(len(diff)):
     
-#     if(diff[i] != "infinite"):
+    if(diff[i] != "infinite"):
     
-#         cleaned.append(float(diff[i]))
+        cleaned.append(float(null_cos[i]))
+ 
+# for i in range(len(real_cos)):
 
-for i in range(len(real_cos)):
+# 	if(real_cos[i] != "infinite"):
 
-	if(real_cos[i] != "infinite"):
-
-		cleaned.append(float(real_cos[i]))
+# 		cleaned.append(float(real_cos[i]))
 
 # reverse sorting to show the plot from highest to lowest. 
 cleaned = sorted(cleaned, reverse=True)

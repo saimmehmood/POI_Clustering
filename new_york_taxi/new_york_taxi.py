@@ -153,21 +153,22 @@ end_lat = df['dropoff_latitude']
 f_traj  = open("new_york_traj_01.csv", "w")
 f_traj.write("trajectory\n")
 
-start_time = time.time()
+#start_time = time.time()
 
 for i in range(10):
 
     start = start_lat[i], start_lon[i]
     end = end_lat[i], end_lon[i]
 
-    path = getPath(API_KEY, start, end, waypoints, mode, 0, 0.05)
-    trajectory = findRoute(path, start, end, waypoints, mode, 0, 0.05)
+    # path = getPath(API_KEY, start, end, waypoints, mode, 0, 0.05)
+    # trajectory = findRoute(path, start, end, waypoints, mode, 0, 0.05)
 
-    f_traj.write(str('\"') + str(trajectory) + str('\"'))
-    f_traj.write("\n")
+    # f_traj.write(str('\"') + str(trajectory) + str('\"'))
+    # f_traj.write("\n")
+    f_traj.write(str(start) + "," + str(end) + "\n")
 
 f_traj.close()
 
-end_time = time.time()
+#end_time = time.time()
 
-print(end_time - start_time)
+#print(end_time - start_time)
