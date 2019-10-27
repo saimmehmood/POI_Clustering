@@ -49,4 +49,4 @@ def build_word_vector_matrix(vector_file, n_words):
     return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
 
 
-tsne_plot(*build_word_vector_matrix('null_nodes.emb', 1225))
+tsne_plot(*build_word_vector_matrix('intermediate_nodes.emb', 872))

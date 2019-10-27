@@ -13,44 +13,41 @@ import numpy as np
 df = pd.read_csv('cells_ny.csv')
 
 cell_names = df['cell_names']
-grid_id = df['grid_id']
-cell_id = df['cell_id']
+cell_ids = df['cell_id']
 
-list_of_names = []
-saved_col_id = []
-
-for i in range(len(cell_id)):
-
-    # specifying specific grid id to take cell ids from 
-    if(grid_id[i] == 1225):
-        saved_col_id.append(cell_id[i])
-        # storing cell names to get max row and max col
-        list_of_names.append(cell_names[i])
-
-# sorting id's to avoid issues while creating edges between cells
-sorted_ids = sorted(saved_col_id)
-
-
+# list_of_names = []
+# saved_col_id = []
+#
+# for i in range(len(cell_id)):
+#
+#     # specifying specific grid id to take cell ids from
+#     if(grid_id[i] == 1225):
+#         saved_col_id.append(cell_id[i])
+#         # storing cell names to get max row and max col
+#         list_of_names.append(cell_names[i])
+#
+# # sorting id's to avoid issues while creating edges between cells
+# sorted_ids = sorted(saved_col_id)
 graph = nx.Graph()
 
 
-for i in range(len(sorted_ids)):
+for i in range(len(cell_ids)):
 
     # adding cell ids as graph nodes. 
-    graph.add_node(sorted_ids[i])
+    graph.add_node(cell_ids[i])
 
 
-# Getting range of rows and columns from last node
-size = len(list_of_names)
+# # Getting range of rows and columns from last node
+# size = len(list_of_names)
 
 max_row = 0
 max_col = 0
 
 # getting max row and column to use it for assigning edges between grid cells.
 
-for i in range(size):
+for i in range(len(cell_names)):
 
-    val = list_of_names[i].split(":")
+    val = cell_names[i].split(":")
     row = int(val[0].replace("C", ""))
     col = int(val[1])
 
@@ -63,8 +60,7 @@ for i in range(size):
 # reshaping 1D list into 2D array. 
 # This helps in using it inside for loop and makes it easier 
 # to generate edges. 
-arr = np.array(sorted_ids).reshape(max_row+1, max_col+1)
-
+arr = np.array(cell_ids).reshape(max_row+1, max_col+1)
 
 for i in range(max_row + 1):
 
@@ -82,7 +78,6 @@ for i in range(max_row + 1):
         bottom = min(max_row, row_pos + 1)
 
         # Adding edges between grid cells.
-
         # checking if there is a left column from current position
         if (col_pos != left):
             graph.add_edge(arr[row_pos][col_pos], arr[row_pos][left])

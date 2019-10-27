@@ -6,7 +6,7 @@
 #import networkx as nx
 import pandas as pd
 
-df = pd.read_csv('traj_as_cells_ny_1000.csv')
+df = pd.read_csv('traj_as_cells_ny_sample_1000.csv')
 
 traj_id = df['traj_id']
 cell_id = df['cell_id']

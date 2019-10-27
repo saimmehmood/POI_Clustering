@@ -32,11 +32,12 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
             sr = r.split()
 
             # storing all the labels
-            labels_array_01.append(sr[0])
+            labels_array_01.append(int(sr[0]))
 
             # storing all the vectors
             numpy_array_01.append(np.array([float(i) for i in sr[1:]]))
 
+ 
     labels_array_01.pop(0)
     numpy_array_01.pop(0)
 
@@ -47,7 +48,7 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
             sr = r.split()
 
             # storing all the labels
-            labels_array_02.append(sr[0])
+            labels_array_02.append(int(sr[0]))
 
             # storing all the vectors
             numpy_array_02.append(np.array([float(i) for i in sr[1:]]))
@@ -77,6 +78,8 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
     i = int(min(labels_array_01))
     m = int(max(labels_array_01))
 
+    print(i)
+    print(m)
 
     f_cos_sim = open("cos_sim.csv", "w")
     f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
@@ -94,27 +97,49 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
 
         while j <= m:
 
-            #print(i, j)
-
             # storing node combinations and cosine similarity of null model values.
-            f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
+            f_cos_sim.write(str(i) + "," + str(j) + ",")
+
+            if (i in null_dict) and (j in null_dict):
+
+                if(cos_sim(null_dict[i], null_dict[j]) > 0):
+                    f_cos_sim.write(str(cos_sim(null_dict[i], null_dict[j])) + ",")
+                else:
+                    f_cos_sim.write("less,")
+
+            else:
+
+                f_cos_sim.write("infinite,")
 
             # writing cosine similarity and it's difference if the nodes exist in real model.
-            if (str(i) in real_dict) and (str(j) in real_dict):
+            if (i in real_dict) and (j in real_dict):
 
-                #if(str(j) in real_dict):
+                if(cos_sim(real_dict[i], real_dict[j]) > 0):
 
-                # f_cos_sim.write(str(i) + ", "+ str(j) + "\n")
+                    f_cos_sim.write(str(cos_sim(real_dict[i], real_dict[j])) + ",")
+                else:
 
+                    f_cos_sim.write("less,")
 
-
-                #f_cos_sim.write(str(i) + "," + str(j) + "," + str(cos_sim(null_dict[str(i)], null_dict[str(j)])) + ",")
-                f_cos_sim.write(str(cos_sim(real_dict[str(i)], real_dict[str(j)])) + "," + str(float(abs(cos_sim(null_dict[str(i)], null_dict[str(j)]) - cos_sim(real_dict[str(i)], real_dict[str(j)])))) + "\n")
 
             # writing infinite if the nodes doesn't exist.
             else:
                 
-                f_cos_sim.write("infinite,infinite\n")
+                f_cos_sim.write("infinite,")
+
+            if (i in null_dict) and (j in null_dict) and (i in real_dict) and (j in real_dict):
+
+                if (cos_sim(null_dict[i], null_dict[j]) > 0) and (cos_sim(real_dict[i], real_dict[j]) > 0):
+
+                    f_cos_sim.write(str(abs(cos_sim(null_dict[i], null_dict[j]) - cos_sim(real_dict[i], real_dict[j]))) + "\n")
+
+                else:
+
+                    f_cos_sim.write("less\n")
+
+            else:
+
+                f_cos_sim.write("infinite\n")
 
 
             j = j + 1
