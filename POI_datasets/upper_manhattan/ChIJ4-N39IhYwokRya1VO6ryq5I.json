@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "248-200",
+            "short_name": "248-200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 78th Street",
+            "short_name": "W 78th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10024",
+            "short_name": "10024",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">248-200 W 78th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "248-200 W 78th St, New York, NY 10024, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7827989,
+            "lng": -73.9796135
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7841478302915,
+                "lng": -73.9780391
+            },
+            "southwest": {
+                "lat": 40.7814498697085,
+                "lng": -73.9811879
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e27e52062214d730c040f1b6dbc10df3d2e5e2c0",
+    "name": "248-200 W 78th St",
+    "place_id": "ChIJ4-N39IhYwokRya1VO6ryq5I",
+    "reference": "ChIJ4-N39IhYwokRya1VO6ryq5I",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=248-200+W+78th+St,+New+York,+NY+10024,+USA&ftid=0x89c25888f477e3e3:0x92abf2aa3b55adc9",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

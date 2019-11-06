@@ -1,0 +1,147 @@
+{
+    "address_components": [
+        {
+            "long_name": "3515",
+            "short_name": "3515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5622",
+            "short_name": "5622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3515 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3515 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 690-5310",
+    "geometry": {
+        "location": {
+            "lat": 40.8258293,
+            "lng": -73.9514532
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8271094802915,
+                "lng": -73.9499410197085
+            },
+            "southwest": {
+                "lat": 40.82441151970851,
+                "lng": -73.95263898029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "3dfe9ddf15711b0186908d59fbf05b2aa36ba501",
+    "international_phone_number": "+1 212-690-5310",
+    "name": "ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJjyy6mGP2wokR4803JJpwu1k",
+    "plus_code": {
+        "compound_code": "R2GX+8C New York, United States",
+        "global_code": "87G8R2GX+8C"
+    },
+    "rating": 4,
+    "reference": "ChIJjyy6mGP2wokR4803JJpwu1k",
+    "reviews": [
+        {
+            "author_name": "Hector Ask",
+            "author_url": "https://www.google.com/maps/contrib/113374246088414793187/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UbxRjdeAjb4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reSki4wQlYBMZ-qeTVTuEA2p54yFw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "24 hours access ",
+            "time": 1491284320
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6465885497355390435",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "3515 Broadway, New York",
+    "website": "http://www.chase.com/"
+}

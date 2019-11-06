@@ -1,0 +1,126 @@
+{
+    "address_components": [
+        {
+            "long_name": "344",
+            "short_name": "344",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4405",
+            "short_name": "4405",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">344 E 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4405</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "344 E 84th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 535-9450",
+    "geometry": {
+        "location": {
+            "lat": 40.7756954,
+            "lng": -73.951122
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7771188302915,
+                "lng": -73.9497179697085
+            },
+            "southwest": {
+                "lat": 40.77442086970851,
+                "lng": -73.95241593029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "26e0e6068c54c2971e9b2e0753ee4c71ce4299d3",
+    "international_phone_number": "+1 212-535-9450",
+    "name": "Gushin Stephen R MD",
+    "place_id": "ChIJLWtz0btYwokRsisl3eQz3uc",
+    "plus_code": {
+        "compound_code": "Q2GX+7H New York, United States",
+        "global_code": "87G8Q2GX+7H"
+    },
+    "rating": 5,
+    "reference": "ChIJLWtz0btYwokRsisl3eQz3uc",
+    "reviews": [
+        {
+            "author_name": "Bob Lazaar",
+            "author_url": "https://www.google.com/maps/contrib/112778414550756429835/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4CoFUJeXzSQ/AAAAAAAAAAI/AAAAAAAAIhM/hH4uUtagljM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Dr Gushin helped me over 20 years after I left the New York metropolitan area.  ",
+            "time": 1392278217
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16707848725646879666",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "344 East 84th Street, New York"
+}

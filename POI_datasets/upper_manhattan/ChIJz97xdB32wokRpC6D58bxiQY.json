@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 102nd Street",
+            "short_name": "E 102nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6050",
+            "short_name": "6050",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 E 102nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-6050</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 E 102nd St, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 289-2708",
+    "geometry": {
+        "location": {
+            "lat": 40.7910918,
+            "lng": -73.95043179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7923423802915,
+                "lng": -73.94885211970849
+            },
+            "southwest": {
+                "lat": 40.7896444197085,
+                "lng": -73.9515500802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7ebda52e6c6c289cb0703dba6618edbc5c2021ba",
+    "international_phone_number": "+1 212-289-2708",
+    "name": "Aging Department",
+    "place_id": "ChIJz97xdB32wokRpC6D58bxiQY",
+    "plus_code": {
+        "compound_code": "Q2RX+CR New York, United States",
+        "global_code": "87G8Q2RX+CR"
+    },
+    "reference": "ChIJz97xdB32wokRpC6D58bxiQY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=471173472626880164",
+    "utc_offset": -240,
+    "vicinity": "55 East 102nd Street, New York",
+    "website": "http://nyc.gov/html/dfta/html/home/home.shtml"
+}

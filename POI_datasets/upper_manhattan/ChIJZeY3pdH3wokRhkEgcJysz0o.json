@@ -1,0 +1,176 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite F",
+            "short_name": "Suite F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 Main St Suite F</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2 Main St Suite F, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 401-2268",
+    "geometry": {
+        "location": {
+            "lat": 40.8037242,
+            "lng": -73.9909894
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80499603029151,
+                "lng": -73.9896918197085
+            },
+            "southwest": {
+                "lat": 40.80229806970851,
+                "lng": -73.9923897802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f623e73978fe879e354ff419a4617dfbc59119ba",
+    "international_phone_number": "+1 201-401-2268",
+    "name": "Judy NJ Goldcoast - Prominent Properties Sotheby's International Realty",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJZeY3pdH3wokRhkEgcJysz0o",
+    "plus_code": {
+        "compound_code": "R235+FJ Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+FJ"
+    },
+    "reference": "ChIJZeY3pdH3wokRhkEgcJysz0o",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5390717066881810822",
+    "utc_offset": -240,
+    "vicinity": "2 Main Street Suite F, Edgewater",
+    "website": "http://www.judynjgoldcoast.com/"
+}

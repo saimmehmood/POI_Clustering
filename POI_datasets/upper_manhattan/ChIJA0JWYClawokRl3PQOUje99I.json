@@ -1,0 +1,153 @@
+{
+    "address_components": [
+        {
+            "long_name": "217",
+            "short_name": "217",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7547",
+            "short_name": "7547",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">217 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-7547</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "217 Madison St, New York, NY 10002, USA",
+    "formatted_phone_number": "(212) 571-3188",
+    "geometry": {
+        "location": {
+            "lat": 40.712962,
+            "lng": -73.989064
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141973302915,
+                "lng": -73.98769916970849
+            },
+            "southwest": {
+                "lat": 40.7114993697085,
+                "lng": -73.99039713029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a8e8073e9982090036f310b1508a2c23a70f510a",
+    "international_phone_number": "+1 212-571-3188",
+    "name": "99 Cents Great Wealth",
+    "photos": [
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107497650029045747216/photos\">Francisco Tovar</a>"
+            ],
+            "photo_reference": "CmRaAAAAiQgwc32xi-x0pAt0YpDhdhlL1wGB04PwuR22KXQTncZhtgh6ZGG-IDySbwaqcXc8ueYnf5yldq0W6XrZX4IF1do89R_xnCpJSHQnIKcbgstUvuX-xg9E0IHkvR4Gg8-kEhBvvf_uOX04eS3kBuSZW8YXGhSVTj-wzYke317hcFa-efw4raa43g",
+            "width": 3456
+        }
+    ],
+    "place_id": "ChIJA0JWYClawokRl3PQOUje99I",
+    "plus_code": {
+        "compound_code": "P276+59 New York, United States",
+        "global_code": "87G8P276+59"
+    },
+    "rating": 3.3,
+    "reference": "ChIJA0JWYClawokRl3PQOUje99I",
+    "reviews": [
+        {
+            "author_name": "ndukwe agwu",
+            "author_url": "https://www.google.com/maps/contrib/116584654608045002218/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Jz9OhDWmad0/AAAAAAAAAAI/AAAAAAAACSM/-LJ5Eksy70w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Local",
+            "time": 1497400711
+        },
+        {
+            "author_name": "Francisco Tovar",
+            "author_url": "https://www.google.com/maps/contrib/107497650029045747216/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tHpAjiDWtE4/AAAAAAAAAAI/AAAAAAAAAUM/TtQUcREj83w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1469143289
+        },
+        {
+            "author_name": "Hi Hi",
+            "author_url": "https://www.google.com/maps/contrib/106987782328547808699/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SIgETBs86Xk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reS3RxPwR30HWiJPh1ZWMPKlmpgbQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1519951517
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15201863469001372567",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "217 Madison Street, New York"
+}

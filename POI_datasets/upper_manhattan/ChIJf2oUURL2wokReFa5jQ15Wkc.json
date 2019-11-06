@@ -1,0 +1,126 @@
+{
+    "address_components": [
+        {
+            "long_name": "2026",
+            "short_name": "2026",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6204",
+            "short_name": "6204",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2026 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-6204</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2026 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 678-8708",
+    "geometry": {
+        "location": {
+            "lat": 40.8068144,
+            "lng": -73.95035589999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8081126302915,
+                "lng": -73.9488862697085
+            },
+            "southwest": {
+                "lat": 40.8054146697085,
+                "lng": -73.9515842302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "00c268827873b72aac8d024c13c383468690911b",
+    "international_phone_number": "+1 212-678-8708",
+    "name": "Osorio Fruits",
+    "place_id": "ChIJf2oUURL2wokReFa5jQ15Wkc",
+    "plus_code": {
+        "compound_code": "R24X+PV New York, United States",
+        "global_code": "87G8R24X+PV"
+    },
+    "rating": 1,
+    "reference": "ChIJf2oUURL2wokReFa5jQ15Wkc",
+    "reviews": [
+        {
+            "author_name": "hansel castillo",
+            "author_url": "https://www.google.com/maps/contrib/102970053743672679044/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-699gqejTxYc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd0QDfb4g8vIQcOfXBysztTP1MW9A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1526412773
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5141555023716111992",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "2026 Adam Clayton Powell Junior Boulevard, New York"
+}

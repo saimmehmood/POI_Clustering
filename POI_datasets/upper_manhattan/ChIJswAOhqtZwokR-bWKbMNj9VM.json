@@ -1,0 +1,307 @@
+{
+    "address_components": [
+        {
+            "long_name": "501",
+            "short_name": "501",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501 7th Ave, New York, NY 10018, USA",
+    "formatted_phone_number": "(212) 575-7031",
+    "geometry": {
+        "location": {
+            "lat": 40.7529467,
+            "lng": -73.9889811
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7543352302915,
+                "lng": -73.9877232697085
+            },
+            "southwest": {
+                "lat": 40.7516372697085,
+                "lng": -73.99042123029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2872a601c09441c4d1bb6dc61ab117366629bcff",
+    "international_phone_number": "+1 212-575-7031",
+    "name": "Zaro's Family Bakery",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 5:00 PM",
+            "Tuesday: 6:00 AM \u2013 5:00 PM",
+            "Wednesday: 6:00 AM \u2013 5:00 PM",
+            "Thursday: 6:00 AM \u2013 5:00 PM",
+            "Friday: 6:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 498,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAABLmPZ0KigvjGM2Xjk1Y9nlDiZCFDX8a3V3IOaom4KFJ8MV1enpLyQSfX3KqUg_S-SkhlZm3sMRSNc-o9eH1dbixmdHHoYhSt3H4LZNpxP6BVsyebYLB-QcK6tTS5fs7qEhD1Nmy11RrOKMDK9Yl9sH6pGhRAQnmM3XqevZ-vYtOISWUk1TRW7Q",
+            "width": 887
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115076057373810761767/photos\">ashish rai</a>"
+            ],
+            "photo_reference": "CmRaAAAAlBLUreFeAeldgbfbHp5lqZvuZyAyaGNFpCF-Ik4d_5pPSDxjIfCYr75TKtclOfTANBKMVG8TxwYWdtphvynVwIM7yPlHKnsdC2cmnLiUDXFAZLosgJu-aH2_lMKewjFIEhDp_KBamBIwZOqpx_mdcLfWGhRSF2JN0UHRlrOLs991eef_JNWd0w",
+            "width": 3024
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAADxUSnzAad5h5RJ-_CcukBjWeBj2fRu299dUEQrcKsMd9iYu5lMGUPrR-sHbUSR35e6tjlUbJDuK7VuKIL5q0Hn_8Iki6inoV5NtAcBhIemc9pduie072NtKv2GdXcMEbEhAUIu0YOsy-w6ZGjXQ9qTmkGhRlkY3y1G7gomft4IwZaF-bOxQuYg",
+            "width": 1000
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112988782576004261280/photos\">Cesar Mateo</a>"
+            ],
+            "photo_reference": "CmRaAAAA5_1M0V1WUV_VnCAQPQKoBQ-iYPPdnTUjR8-hyeOBkX6pouxHZxs1c4ud926k6N2BCwM6k-djtLvogZir_NQ6ubRuXi0jJrU4hjW5_Zb525tXC9glITMNS6VUToDa3GpuEhCKVCt__nlwsMMYpmaHUDJxGhQeh8WNvKzAxIRJzC2eJFZHEBMfWQ",
+            "width": 4032
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAAZewqtzDJxrPqxYk9yLBrdSP_dqnJZzcqHius6KnIN8x1Bxrx_ISyyz4VUPr4GdZ0XwbmT-5hHjVve4VrL1Dn8fRiWq5ezNVbbQg0ON3j5wSxzBbRTUbCYhVGcyRv0x3PEhAiSPnul--fqlpzPx7oEUCoGhROrJwRQZgKcpNu7AL-k4i7Q7JM0Q",
+            "width": 1000
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108489388594158290246/photos\">Nigel Lake</a>"
+            ],
+            "photo_reference": "CmRaAAAAuI5W56JdQXOvJB3EeKNl9rNp6CU26XomtmrE8mgavgqSJnnpd1Efh69frS8zfc4_oq4NXR41cyJEaVcn9R1ntN1r0M2Z1vFNV-BbhY7Vi2x0n_BBnZY2AeVTVhact_wCEhBjM586jKe6xtj_ZeOeI2SWGhTav7AF99AcFyex1nu8aFK2TqrDRA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105668259361494305397/photos\">KaCd Lau</a>"
+            ],
+            "photo_reference": "CmRaAAAARoBJJC-0LjWSzfeQveOlQvfDEBJ_mDsCEVArs0zcWniZrKOBrNivyQ5ouO189cSI6jwrX9TAOCO3RghqRvH0GeO5gvVVy-9JjvmVKsYdWwqTZGdcOITR1E6YgH7HS_pVEhCnuLJTXCCN5tX0OGphPCQ6GhSh2tnPAW_misZRNDvln4ssTIrM1w",
+            "width": 4032
+        },
+        {
+            "height": 3540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ67YybnjYfccexdgg-RLKQKHyHRISJoxYIjJU3OE9-0Qyvtbc2KMXb5-PFf_3Ybpoc8pNVLqMISTNR5lQN950bWplTi6reHB4SkrkSwnJxYthSju6Yeo0taHqiiUkKY9EhDBl2WdpnFnI-IHbDlXyzGYGhTL-eMvZb7OWQBdlKiqf705hDHRuw",
+            "width": 5310
+        },
+        {
+            "height": 1900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAAocmoRK6vAIKbJW2I_ipriT7e4z9Dashcd9-jM0x_NtnKtouGHfm1_ITTVrgv6vKMli-MtI8xzVjgq6am9ejhtxVNLl7ISSKzb7JCLwl7GHw-qHwwc5zhXMDNgWRjo4vAEhAkh5zqKvIcXDOp4zBtvNe5GhSPkJEM1T0S0wso5dyn23hux5QDPw",
+            "width": 2850
+        },
+        {
+            "height": 4912,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104328844516403527037/photos\">Zaro&#39;s Family Bakery</a>"
+            ],
+            "photo_reference": "CmRaAAAARmMwOc5_28rnVP-gODLNnGVbW_xN_69I3lfJSfZ1k_R1n5P1rsJs_2_BxTbzpd812POW80tVa_7iOrRtICmj0MVHC4PVMzZD-exKp8JHJzpKiV0UaDKwqbyi8PxvApRUEhDMqJk4lz0bGWNOy39l7QpDGhQV4qg53p6ymb52ILOjS0Ci_aSCdQ",
+            "width": 4912
+        }
+    ],
+    "place_id": "ChIJswAOhqtZwokR-bWKbMNj9VM",
+    "plus_code": {
+        "compound_code": "Q236+5C New York, United States",
+        "global_code": "87G8Q236+5C"
+    },
+    "rating": 4.3,
+    "reference": "ChIJswAOhqtZwokR-bWKbMNj9VM",
+    "reviews": [
+        {
+            "author_name": "Kinga N",
+            "author_url": "https://www.google.com/maps/contrib/108271398117520630300/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-W4LDWp_l4CI/AAAAAAAAAAI/AAAAAAAAACI/Oxn6VXFO2hY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "I was excited to grab a bagel here based on the reviews but I was very disappointed with the experience and the food. The place was filthy, floors were so dirty it was disgusting to look at, tables had ketchup stains on them and I was handed already opened packets of salt and pepper. I had ordered an egg and cheese and was so disappointed to see the staff microwave something that resembled an egg and slap cheese on it. The bagel was below average and the staff seemed annoyed I came in. This place is way too pricey for the mediocre food they serve. I would not recommend it.",
+            "time": 1559230751
+        },
+        {
+            "author_name": "George Olesh",
+            "author_url": "https://www.google.com/maps/contrib/107976392204490255078/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-swn6DqJHqjs/AAAAAAAAAAI/AAAAAAAAAGc/XMK2X1fxFuQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great bagels and other kwik eats. Very fast work.",
+            "time": 1556142274
+        },
+        {
+            "author_name": "Nigel Lake",
+            "author_url": "https://www.google.com/maps/contrib/108489388594158290246/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-alLkblrayaA/AAAAAAAAAAI/AAAAAAAAIcQ/XAGiM5nGagc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Good quality bagels and bakery items, friendly service, and much nicer inside than the street frontage might suggest... all too easy to walk past!",
+            "time": 1551799844
+        },
+        {
+            "author_name": "monkeybutttsxd",
+            "author_url": "https://www.google.com/maps/contrib/114920476792288340506/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--J0d_utnPd4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfZYigNDMJT7yjtRcx971ZhZ7x7Dw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This is my new breakfast spot. The bagels are great and the ladies are always so pleasant in the morning.",
+            "time": 1547257651
+        },
+        {
+            "author_name": "James Mifflin",
+            "author_url": "https://www.google.com/maps/contrib/110183418735038505447/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-pLIfd9C6n4E/AAAAAAAAAAI/AAAAAAAAB1Y/oz0hS5T-87Q/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Very fresh very clean! Great customer service!",
+            "time": 1551184595
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6049851365432931833",
+    "user_ratings_total": 57,
+    "utc_offset": -240,
+    "vicinity": "501 7th Avenue, New York",
+    "website": "http://www.zaro.com/"
+}

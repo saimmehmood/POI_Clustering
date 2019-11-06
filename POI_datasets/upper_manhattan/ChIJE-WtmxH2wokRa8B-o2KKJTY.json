@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "101-165",
+            "short_name": "101-165",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 118th Street",
+            "short_name": "W 118th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101-165 W 118th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "101-165 W 118th St, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8037452,
+            "lng": -73.9496973
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80509413029149,
+                "lng": -73.94791305
+            },
+            "southwest": {
+                "lat": 40.80239616970849,
+                "lng": -73.95148164999999
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "465e630e014bb32d68d9211a25d270f84c98ab91",
+    "name": "101-165 W 118th St",
+    "place_id": "ChIJE-WtmxH2wokRa8B-o2KKJTY",
+    "reference": "ChIJE-WtmxH2wokRa8B-o2KKJTY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=101-165+W+118th+St,+New+York,+NY+10026,+USA&ftid=0x89c2f6119bade513:0x36258a62a37ec06b",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

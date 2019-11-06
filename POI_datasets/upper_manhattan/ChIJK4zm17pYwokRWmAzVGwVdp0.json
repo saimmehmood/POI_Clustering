@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.779671,
+            "lng": -73.950539
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78100373029149,
+                "lng": -73.9491514697085
+            },
+            "southwest": {
+                "lat": 40.7783057697085,
+                "lng": -73.9518494302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "14b4feb48a2158644e6249517c6f9d43fd31d376",
+    "name": "2 Av/E 89 St",
+    "photos": [
+        {
+            "height": 5120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100514952120205406976/photos\">\u05de\u05e9\u05ea\u05de\u05e9 Google</a>"
+            ],
+            "photo_reference": "CmRaAAAAKCvHwSyb1O2aF0EnXpR8VmEdbP0mjr2qKo-YSUdPowY4pbhWbXSP6D1LS6juFg2nZAaZY51brsDymSWMbxMZwpW3fbAztKnqhNflAHA0n7rVa4ZIQhOcpdsmZDdw3GvzEhDZ_S38X-yC4QGjWX_bDYlGGhQX_4Enu8UVi5E-zcJF044WEX4xDQ",
+            "width": 3840
+        },
+        {
+            "height": 5120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100514952120205406976/photos\">\u05de\u05e9\u05ea\u05de\u05e9 Google</a>"
+            ],
+            "photo_reference": "CmRaAAAAsIGigLPVG-44f5YVYdSKX_S4CFUiMUVoMrKZfSk3pKjkrJg307XcHaf7fCf6Sz8dibdOWAzAmgOEecMUdCDqOR6Rm4BdYA3BqtciS8Zyk1bZ_txyFroFQuVwjMvpRDeYEhAjF7ynpviJh1jqP1s4-rFeGhRNApINU7AAKm0_ievgX5F8QXlTMw",
+            "width": 3840
+        },
+        {
+            "height": 5120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100514952120205406976/photos\">\u05de\u05e9\u05ea\u05de\u05e9 Google</a>"
+            ],
+            "photo_reference": "CmRaAAAAQD_TqD5FiW8lvOD7xPxd5bTCXkyxqA3tUsGfWijFTPlorvnadDtxrYh5t6vLDCRySgJ3J3b3RBXa2xPO3oUPvu-2Uw5N2K4bmW8dt0eoAP9K9f0DwDUJ3iQG_OfUFTuvEhBeAI6DlYR_Ue52dcvNDOh6GhRmxYfbYP-auhiuo4OQ8SLzH8qK0w",
+            "width": 3840
+        }
+    ],
+    "place_id": "ChIJK4zm17pYwokRWmAzVGwVdp0",
+    "plus_code": {
+        "compound_code": "Q2HX+VQ New York, United States",
+        "global_code": "87G8Q2HX+VQ"
+    },
+    "rating": 5,
+    "reference": "ChIJK4zm17pYwokRWmAzVGwVdp0",
+    "reviews": [
+        {
+            "author_name": "\u05de\u05e9\u05ea\u05de\u05e9 Google",
+            "author_url": "https://www.google.com/maps/contrib/100514952120205406976/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XBwk9VwBhIk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf1FqiYHiumBa-NP5Q1BUbxSDrY-A/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The best bus stop \ud83d\uded1!\nThis is a great place. Station \ud83d\ude89 nice. It is hot in the summer and usually cold in the winter. But this is the uniqueness of New York City",
+            "time": 1547401857
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11346279866219847770",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "2367",
+            "short_name": "2367",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Frederick Douglass Boulevard",
+            "short_name": "Frederick Douglass Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2367 Frederick Douglass Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2367 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-1922",
+    "geometry": {
+        "location": {
+            "lat": 40.8116845,
+            "lng": -73.950395
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81298013029149,
+                "lng": -73.94891776970849
+            },
+            "southwest": {
+                "lat": 40.81028216970849,
+                "lng": -73.95161573029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "69a4d6694799910a2ef15546bd418abe4d7926ce",
+    "international_phone_number": "+1 212-222-1922",
+    "name": "Harlem Bar-B-Q",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 11:00 PM",
+            "Tuesday: 12:00 \u2013 11:00 PM",
+            "Wednesday: 12:00 \u2013 11:00 PM",
+            "Thursday: 12:00 \u2013 11:00 PM",
+            "Friday: 12:00 PM \u2013 12:00 AM",
+            "Saturday: 12:00 PM \u2013 12:00 AM",
+            "Sunday: 12:00 \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105666489312271967002/photos\">Kharis Catchings</a>"
+            ],
+            "photo_reference": "CmRaAAAA1eLw4AaW7sp2jBhI6PudUL4VKjYusxejOXMiIOGr_fUmh8A9EijQQVfCks_KJQgp_ElQplaIr7jR9M91L5p1D4ik6zZXGKg0g_yWpUPofoNlFxjtjwFo-lVZaLz2OR1oEhDJdI15-lLFBJz41mh3N6TVGhS3F_1XM4BJXDhXf_zx80R3DJVanA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117224476650939043611/photos\">James Dottin</a>"
+            ],
+            "photo_reference": "CmRaAAAATxcCxZI1zmMeEIRc27bqmE3WqvKTWslvG_LTmMc1wSd5gcPlQ1yV1z2nHTsNqD6TzfFjoWdFD-IIVen7ywPWB7KlPY-kJBZ8I9RP4i3lOf-s_uGn5T1GHCwtykwSVeL7EhDIrYuugxXdCUzt8gmjn4WTGhTKmePgPHVndSE_h9f0UzJ_lGCUTw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109297422846831044420/photos\">Jannette Coleman</a>"
+            ],
+            "photo_reference": "CmRaAAAAmoOdBaehPGyWOyxW2g5YsdRzejkQpJdXo1VCXC-vj2RfRg0pmNjoecIhkdkqBFkxTXWlE6zYYmYyKIe2ATA5MIfjOaIL1afLvf35JOXCY_hFV1vLLLoQGTC08-k4QBMzEhDi-Qt0HwiG1pkZgUTHYcu-GhSmopPuhzHLm9uqSZ_CsBbZavQ6Dg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105666489312271967002/photos\">Kharis Catchings</a>"
+            ],
+            "photo_reference": "CmRaAAAAExawByeNrUJddPZb50tDQAO9ovxSpuYdenlwRUin5du2H45AFrmVGV6fzPug2z11FwKwSfg2bkrjoDuO03iucO51BnpM1ty-8e_lY_-cQ9BOO-cdO_9p3mRE8y9A_26VEhCm6FbbORKPEww8du5ujDbAGhTLzKhbTWnl47p0Cv7GNz-kEYvFhQ",
+            "width": 4032
+        },
+        {
+            "height": 4144,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112969466074425544763/photos\">Rockin Rana</a>"
+            ],
+            "photo_reference": "CmRaAAAArV58qykNNjS9bZ95d6paz9rxFXXMwPQmavZNk2l-2V3K660bdZ20zBUafHewGaNps7Oh5m2II7oJ7NT71SLkPVd6rwG9NKJxTFadeUcfTMQNIwMeTYr4P7akrlyy2K4TEhBz2MqFxOor1FjwPk4750qIGhQe8gHtszf4TiOq6WO8jxhMhwdvRw",
+            "width": 5520
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105666489312271967002/photos\">Kharis Catchings</a>"
+            ],
+            "photo_reference": "CmRaAAAA_jaDXXsp2vTgOsL-jlJHz7c8bsXJ4-3isCEWbmWcnfPLXUnuI7ziaEgrP8UVtTF2LSy6zQ8ZW1PR6fY4NoivsjesosDWzY1nltLAsv6lj6WR_jhBu-YtUiYal96Avq7hEhAIkFaTFZ_C_Z1cfbevbcGsGhRRzgmzSxmd6ztanzkNbGO1EhVPqA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109297422846831044420/photos\">Jannette Coleman</a>"
+            ],
+            "photo_reference": "CmRaAAAAX60j1fCZN_KVGpOVhF-99oiay7mhkob9-iWi-xJFccWh_jJGzZxLuimzE12BFuuzWC9uNk7yp9ryHhAA0PYg6zt8RZ1hbbf6TQp5M3csdbODyDGxEsc4QC22D2UZJsKvEhB8gqzwWioy4_ilH34TJ7IPGhTKhIUzpDpeecMu_YChkDSergJkCQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111772660933262896750/photos\">Sean Virgo</a>"
+            ],
+            "photo_reference": "CmRaAAAA6Dzynvyziggkgl9mEVbstj2_Djw19vPLRjwMDy-h-pOWcaMH8qv6ZvapEhZ-eiCJhHDEZXcBEnaanNvdjQ3_wsMS-iQ0VYwO2LniDh8nvhP4nsnPv6MvMjH2LJpqNaAOEhC25Vx0AWCf_h7pG4apbj2EGhQyybXDxgakc0dm5MS3sZvoWEXFHA",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105275742362160143584/photos\">Geniece Hodge</a>"
+            ],
+            "photo_reference": "CmRaAAAAe9BzACJvi0EyONDZ_KkvafN6D4bHjvTfcFXfdX3LA1zKhTYZQmsolS6hY__AWCzl5bZSrbspMKrUyXDy3c_wX-_UFfqDadfB-8I_92YokXphEGc4A8s-HmCSQv_zWvzyEhCYqNZ7uL-jOAk7neM02yAgGhSP4VYwF_xJimD7n2S6ZEhpUfSQOg",
+            "width": 3036
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116300728822934129745/photos\">amanda lickables</a>"
+            ],
+            "photo_reference": "CmRaAAAAwtguL9kDwZnCuHfsNIwB7ZedyDoAHjejidK2Avn9GCPf7FTmBFQX29EWy97OSSFdYsCEiUhOyVzGauKq8i0e3JJ2nRfohqJ9yAQ5uxriCgdqaNigd-lf3Wogw2Xyh1-BEhDrGUTyWfk946bTeE2bk8u1GhT2KpGVuMg1_FMWRKhaA3nS58tMpw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJvR6EA232wokR6E4MpK7dcyo",
+    "plus_code": {
+        "compound_code": "R26X+MR New York, United States",
+        "global_code": "87G8R26X+MR"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJvR6EA232wokR6E4MpK7dcyo",
+    "reviews": [
+        {
+            "author_name": "Nolan Knablein-Greene",
+            "author_url": "https://www.google.com/maps/contrib/110016633196401942970/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-IXqHzA8zESA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rerXW33KHuIleyCsn6--4_Z6BJ9uw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Food and service was absolutely amazing! The manager is absolutely amazing, came to the table and welcomed us himself. Would defiantly recommend this place to everybody! One to watch for the future!",
+            "time": 1561850204
+        },
+        {
+            "author_name": "Tissh S.A",
+            "author_url": "https://www.google.com/maps/contrib/118054664264130179473/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-A4zDKRYH8gg/AAAAAAAAAAI/AAAAAAAAAFg/0UFhyivPXow/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "I come here numerous times and the customer service is always good and friendly. Today I had the delicious mac and cheese, collard greens and the Honey Fried Chicken with a blue moon. (happy hour beer was only $4!) I can never finish the large portions but it's definitely worth it!",
+            "time": 1558057524
+        },
+        {
+            "author_name": "Rimona Smith",
+            "author_url": "https://www.google.com/maps/contrib/103285442369089768994/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-b1W8bqujYAc/AAAAAAAAAAI/AAAAAAAAADY/PjC7HU3QLCI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Harlem BBQ is a good spot to dine with others over some great cocktails.. I ordered honey BBQ wings with shrimp side of macaroni and cheese and collard greens which was delicious and plentiful. I'll definitely suggest this spot if you're hanging out with the girls or the fellas over good conversation and good food/ drinks...",
+            "time": 1558796620
+        },
+        {
+            "author_name": "Sandra Jordan",
+            "author_url": "https://www.google.com/maps/contrib/113150666910767926448/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-CSdmZVuvs2s/AAAAAAAAAAI/AAAAAAAAAAk/oVIH_d8APh0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent meat. Great seating on a summer evening during the week. The mac & cheese isn't as good as they say it is, though. And my fries were burnt and soggy. Meat is just so good. Perfect place to take a date when you think she's crazy. Lots of exits.",
+            "time": 1556694198
+        },
+        {
+            "author_name": "Gina C.",
+            "author_url": "https://www.google.com/maps/contrib/115899655290217350402/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FZgnBRSYJVo/AAAAAAAAAAI/AAAAAAAASrY/d_nCqts7m-A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "A nice place for good food and drinks. Friendly staff. I forgot to mention their salt & pepper shrimp is really good",
+            "time": 1562776415
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3059032314061016808",
+    "user_ratings_total": 544,
+    "utc_offset": -240,
+    "vicinity": "2367 Frederick Douglass Boulevard, New York"
+}

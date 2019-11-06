@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "426-416",
+            "short_name": "426-416",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Undercliff Avenue",
+            "short_name": "Undercliff Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">426-416 Undercliff Ave</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "426-416 Undercliff Ave, Edgewater, NJ 07020, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8272784,
+            "lng": -73.97571359999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8286273802915,
+                "lng": -73.9743645697085
+            },
+            "southwest": {
+                "lat": 40.8259294197085,
+                "lng": -73.9770625302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fb9a8b49327092e98c95124b24b1c3449128fdb6",
+    "name": "426-416 Undercliff Ave",
+    "place_id": "ChIJD2-nOFH2wokRKc-p2PTxLUE",
+    "reference": "ChIJD2-nOFH2wokRKc-p2PTxLUE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=426-416+Undercliff+Ave,+Edgewater,+NJ+07020,+USA&ftid=0x89c2f65138a76f0f:0x412df1f4d8a9cf29",
+    "utc_offset": -240,
+    "vicinity": "Edgewater"
+}

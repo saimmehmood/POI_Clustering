@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "200-244",
+            "short_name": "200-244",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 93rd Street",
+            "short_name": "E 93rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">200-244 E 93rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "200-244 E 93rd St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7829048,
+            "lng": -73.9498734
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78425188029149,
+                "lng": -73.94814359999998
+            },
+            "southwest": {
+                "lat": 40.78155391970849,
+                "lng": -73.951606
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7b6c9fc8f6c12aac3bc9b2283d4be4541b4feb09",
+    "name": "200-244 E 93rd St",
+    "place_id": "ChIJayyRpaVYwokRmJTBbNrkr_U",
+    "reference": "ChIJayyRpaVYwokRmJTBbNrkr_U",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=200-244+E+93rd+St,+New+York,+NY+10128,+USA&ftid=0x89c258a5a5912c6b:0xf5afe4da6cc19498",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

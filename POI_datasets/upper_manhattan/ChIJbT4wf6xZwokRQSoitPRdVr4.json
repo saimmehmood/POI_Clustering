@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "501-519",
+            "short_name": "501-519",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501-519 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501-519 7th Ave, New York, NY 10018, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7532138,
+            "lng": -73.98902129999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545627302915,
+                "lng": -73.9876722697085
+            },
+            "southwest": {
+                "lat": 40.7518647697085,
+                "lng": -73.99037023029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8f8c974e95833d0567e92448d3710ced648b3078",
+    "name": "501-519 Fashion Ave",
+    "place_id": "ChIJbT4wf6xZwokRQSoitPRdVr4",
+    "reference": "ChIJbT4wf6xZwokRQSoitPRdVr4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=501-519+7th+Ave,+New+York,+NY+10018,+USA&ftid=0x89c259ac7f303e6d:0xbe565df4b4222a41",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

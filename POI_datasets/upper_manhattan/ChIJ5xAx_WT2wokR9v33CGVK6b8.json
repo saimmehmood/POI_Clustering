@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 5C",
+            "short_name": "# 5C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 140th Street",
+            "short_name": "W 140th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6139",
+            "short_name": "6139",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 W 140th St # 5C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-6139</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 W 140th St # 5C, New York, NY 10031, USA",
+    "formatted_phone_number": "(917) 972-5626",
+    "geometry": {
+        "location": {
+            "lat": 40.8220511,
+            "lng": -73.9504096
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82348628029149,
+                "lng": -73.9489963197085
+            },
+            "southwest": {
+                "lat": 40.8207883197085,
+                "lng": -73.9516942802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05f0469b5e629bb54acdfd9aff5e63c0f4343851",
+    "international_phone_number": "+1 917-972-5626",
+    "name": "Stephen B Cowart Inc",
+    "place_id": "ChIJ5xAx_WT2wokR9v33CGVK6b8",
+    "plus_code": {
+        "compound_code": "R2CX+RR New York, United States",
+        "global_code": "87G8R2CX+RR"
+    },
+    "reference": "ChIJ5xAx_WT2wokR9v33CGVK6b8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13828665928620441078",
+    "utc_offset": -240,
+    "vicinity": "500 West 140th Street # 5C, New York"
+}

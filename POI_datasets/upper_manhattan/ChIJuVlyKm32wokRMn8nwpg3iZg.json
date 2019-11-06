@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "271",
+            "short_name": "271",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4424",
+            "short_name": "4424",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">271 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-4424</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "271 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 864-6998",
+    "geometry": {
+        "location": {
+            "lat": 40.8100903,
+            "lng": -73.95057609999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8113802302915,
+                "lng": -73.9492722697085
+            },
+            "southwest": {
+                "lat": 40.80868226970851,
+                "lng": -73.95197023029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9cbfd9c9c3924b1aa76fc0854c324af46198efc3",
+    "international_phone_number": "+1 212-864-6998",
+    "name": "Williams Karen",
+    "place_id": "ChIJuVlyKm32wokRMn8nwpg3iZg",
+    "plus_code": {
+        "compound_code": "R26X+2Q New York, United States",
+        "global_code": "87G8R26X+2Q"
+    },
+    "reference": "ChIJuVlyKm32wokRMn8nwpg3iZg",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10991377494806331186",
+    "utc_offset": -240,
+    "vicinity": "271 West 125th Street, New York"
+}

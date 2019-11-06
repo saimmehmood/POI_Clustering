@@ -1,0 +1,341 @@
+{
+    "address_components": [
+        {
+            "long_name": "3488",
+            "short_name": "3488",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway BSMT",
+            "short_name": "Broadway BSMT",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3488 Broadway BSMT</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3488 Broadway BSMT, New York, NY 10031, USA",
+    "formatted_phone_number": "(929) 378-6879",
+    "geometry": {
+        "location": {
+            "lat": 40.8247569,
+            "lng": -73.9513089
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261456802915,
+                "lng": -73.95004976970849
+            },
+            "southwest": {
+                "lat": 40.8234477197085,
+                "lng": -73.9527477302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "962d1a779fbfa0fefe68cee9efb849a6bc3436f4",
+    "international_phone_number": "+1 929-378-6879",
+    "name": "Herbalife Nutrition Club of Arly",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Tuesday: 6:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Wednesday: 6:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Thursday: 6:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Friday: 6:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Saturday: 7:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM",
+            "Sunday: 7:00 AM \u2013 1:00 PM, 5:00 \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAVL8SLWIKsw3bVj30Q1U9UA2osaUEhbvvIeW7k88Hv9Nb-Iqj_AH6pdwjleJ-OI9ogyEoqaCzOLkndmu8lBAvxAZxn0Yfm27gJaCRodI8sWbrQ2j5OC5WeH14PfXUHKaoEhDhctDqMi3jM6BnvSuhRidkGhSNNPzj7uPj0fu5OGXA-Tffckfrew",
+            "width": 3024
+        },
+        {
+            "height": 1483,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAXJyicRdVlFj9a3Ttp21HMSwFu6vZdJkpMdQFXDE9072b43hpcKY1jI2tG7eU43deo2qCWb8F2jrGIi0jL7-Xgd63GwQKpW24h7qRo1TbgtsrTCLJwPFVjezMODV3RfkaEhAeClQo2jxTqKZze3NVjLXoGhQ6nVFTd4UuSy474SJeAuK5VBoRaw",
+            "width": 1242
+        },
+        {
+            "height": 1820,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAi-uYb7yaxHeGa_oiLak8xaHft6qglHR9defT2OK1Ftq7dKc8qiT7iUW3z7PNu2po2bY0_Bsf05EjPCUCHtWE8wuNpnRejaCS5upTj-_pXBMnhoP0PpHH-lgf_j6y0A11EhD7OJ4ZCpgSRUeEMCaEWr-lGhSTPxi8GnAfmIFHlQNE0clV-qJgxA",
+            "width": 1024
+        },
+        {
+            "height": 1820,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAYJy1V2fTaoN5QarsDGbskGT5u12w_U5nasXjc7zvGLUGn-6E-546wKxuEZc8Ia0oy6kY09bMNhT1bA9i31FzyX2cj0HWPboWp0E-vPrCkwARFIAz93khJ62HYFOft8D0EhBta5AB3leuK9Pv2XEpJL8pGhTyHurvoDLpDQZY-8Sq3nhsMO3Vfg",
+            "width": 1024
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAobnLJ_poWDcNct3-xgb-l1uUIKI2hmGMKlEHJIzEwDRfMKEPPBlq1BUhy145X2zLbMmtsZBCAQ1qXAUC2y4OGbMQQbxY0nGo-E3cY1Ct-orxaHA_EH53h6Vq0bOvt5L3EhCQ4wAUeLKObaLudubtSULTGhTZoN8dyjB9g2H8QI_73siiF7b3fg",
+            "width": 2160
+        },
+        {
+            "height": 1924,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAJy99p-cCdaOFLAAFumg0G5B94IcWE8ujoo0-TkRwHkjssfEJASlBt0No6kC5ftBtZIb-7DJyZJZrqkJKo1cH-5blteCXDbi0xpWJjbl1oAvQ4s-KYZbyD1T2GC2eKDWgEhB9G2vQSTNWX9VJRfliKJpUGhTzlImsXkwQf14ef73xsUpzYIn8tQ",
+            "width": 1242
+        },
+        {
+            "height": 982,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAH3dfy8DRbvFZlh_-_PyDgcMPN-QRlLSOwxCgSoagLe8LfaVJkMHDhI2dSz2eRALJRaaHpilUthTELfb6LAjWlAZws-b31w561R4Nki__fsqkyasAE4wHHZ7bhi7CpGriEhC7BSbYm5wFWSQwtppwRLB0GhTbcXMJGGx4_eAhZQ6saPu-_lnG_A",
+            "width": 981
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAqQDeL-YYMoc1pWI4Thv-jAjd6-9aTxE3qFna6-dWWb9rN2GG-Pua1T8dSoG3BspgZn3MhZH4M8dkGAiiUp2HWZIwOF5x9sF6snmT_E3y71j4Bxe4JVZS56usuMd6EVBSEhBII4dcsOBadR_SebMlF8RaGhSGwRRMy4DX9qjTTysi-Nv5nQ17_A",
+            "width": 4032
+        },
+        {
+            "height": 1820,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAAvdGFB5bXW0Mujp7Lgfi_qRk-4noouJ1s2O83A6J9wPxKzra1-H00xlCvmv7YMk47kY_h_ZY1KDZ0_QoS_-uDvP0z03XdVtcZsYs10NzUd3U4ed293tf5DpY3v-O9JdqTEhArPaBa7bLoUXlb-blS8EiqGhR-IJqSFs18xD585lxJZx4OR8beyA",
+            "width": 1024
+        },
+        {
+            "height": 2208,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115390059066832244233/photos\">Herbalife Nutrition Club of Arly</a>"
+            ],
+            "photo_reference": "CmRaAAAA0aDS8iuQ20PXB4yTGpwzBDn6d3iTJD71_3yD8IUehMI4J6eHt76qkCTqhGny4lQ691Sq2U7UeycSszEJE7j8LGZE6ds50W4wZ58sPZwrbU4Em1yNGwFFtCi9fe3UJHRnEhC2fUdMSwhSJyiV6tY_KeURGhRbU5fbyP6vjO4tI3rVzrkwc9n4NQ",
+            "width": 1112
+        }
+    ],
+    "place_id": "ChIJpakwn1r3wokRbzw36Y4CjA0",
+    "plus_code": {
+        "compound_code": "R2FX+WF New York, United States",
+        "global_code": "87G8R2FX+WF"
+    },
+    "reference": "ChIJpakwn1r3wokRbzw36Y4CjA0",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=976158032053877871",
+    "utc_offset": -240,
+    "vicinity": "3488 Broadway BSMT, New York",
+    "website": "http://arlygomez.goherbalife.com/es-us"
+}

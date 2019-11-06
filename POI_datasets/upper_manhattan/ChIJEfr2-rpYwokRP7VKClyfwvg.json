@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "300-398",
+            "short_name": "300-398",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">300-398 E 87th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "300-398 E 87th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.77805949999999,
+            "lng": -73.9500795
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7794084302915,
+                "lng": -73.94768969999998
+            },
+            "southwest": {
+                "lat": 40.7767104697085,
+                "lng": -73.95246930000002
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9215c09b30d099ec555222ab24a44fb8bd404b40",
+    "name": "300-398 E 87th St",
+    "place_id": "ChIJEfr2-rpYwokRP7VKClyfwvg",
+    "reference": "ChIJEfr2-rpYwokRP7VKClyfwvg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=300-398+E+87th+St,+New+York,+NY+10128,+USA&ftid=0x89c258bafaf6fa11:0xf8c29f5c0a4ab53f",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

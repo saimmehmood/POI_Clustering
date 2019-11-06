@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "253",
+            "short_name": "253",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">253 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "253 W 125th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8100231,
+            "lng": -73.9500564
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81125293029149,
+                "lng": -73.94879846970849
+            },
+            "southwest": {
+                "lat": 40.80855496970849,
+                "lng": -73.9514964302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+    "id": "dbb9b4bd72652af49f4dc77d3902eeddf6c9f0fe",
+    "name": "Apollo Theater",
+    "place_id": "ChIJw1jbn_X3wokR9oikK606O9g",
+    "plus_code": {
+        "compound_code": "R26X+2X New York, United States",
+        "global_code": "87G8R26X+2X"
+    },
+    "reference": "ChIJw1jbn_X3wokR9oikK606O9g",
+    "scope": "GOOGLE",
+    "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15581111851254319350",
+    "utc_offset": -240,
+    "vicinity": "253 West 125th Street, New York"
+}

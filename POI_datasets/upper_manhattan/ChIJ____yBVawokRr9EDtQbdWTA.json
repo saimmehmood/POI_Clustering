@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St, New York, NY 10041, USA",
+    "formatted_phone_number": "(212) 747-9120",
+    "geometry": {
+        "location": {
+            "lat": 40.7033226,
+            "lng": -74.0088962
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70477498029149,
+                "lng": -74.0074685197085
+            },
+            "southwest": {
+                "lat": 40.70207701970849,
+                "lng": -74.0101664802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "872f0de42c1a63137a2795bdfd34b81f145a5fb7",
+    "international_phone_number": "+1 212-747-9120",
+    "name": "Elevated Acre",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:00 PM",
+            "Tuesday: 7:00 AM \u2013 10:00 PM",
+            "Wednesday: 7:00 AM \u2013 10:00 PM",
+            "Thursday: 7:00 AM \u2013 10:00 PM",
+            "Friday: 7:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: 7:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111184863530452108436/photos\">Wilmy Cruz</a>"
+            ],
+            "photo_reference": "CmRaAAAAdUxmbQfUyG9vpC-Hz0Z-S7-mngvsJouIMCR7aHa7H7l2vmYqnQ3ehNVSNpU1tGhyiAtR8wA5hrRXfXnZ3_jEZ0B7aI5zoziaj0NkA9Y708TW-AWbUmvWrAHlLxSG-rTJEhDXnG81c0kSKXKvYsTo8M_AGhQ8p5Bre-zbfiGa2bz5GOLgEVCJNA",
+            "width": 4160
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101547528622004657076/photos\">Luann Suhr</a>"
+            ],
+            "photo_reference": "CmRaAAAATAGKc_nHWK2witQPxZvABuWjQYP1ODjFjsiFPL0MZ8AhBf1P9YudPNkYBBRNDst9HKzTtDu1C-buTyFNWFn0L9r1gCISKWeeT4sS3ptMk79Dym2Ve6uSisacH_jfGQlkEhDJpr7kjfJjwKZiIxRsLww4GhTrsPMWq7J6_Dpoorc_Zf_jWfRVng",
+            "width": 3248
+        },
+        {
+            "height": 1818,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115321576672704603406/photos\">Isabella Campbell-Moore</a>"
+            ],
+            "photo_reference": "CmRaAAAAQJnDu_4-agDnEJOpYt5XkjJSqLGb5JYfV9YcuoTTITLxjGFqEzyG9WWZWRnciK4_G5KznuM8n2aG3mmj6CK0Zuoo1Mcj-sB87_-EfX_WsZdmX9vDyVe3CWWAajvAWU97EhACRAvaGzx2SYxmud1UO6QyGhQgNYGbT8O0RDwcKqMJ4R90mjLeRA",
+            "width": 4414
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113861314658152674639/photos\">Gustaf Engstr\u00f6m</a>"
+            ],
+            "photo_reference": "CmRaAAAAtSwVJ7cr6rRMyL3HZIKT1lAJrMcM75tRn5QrcG0IzLGvR8KJkDtNUAti1Yq7b97oe8Nb4HGeOtnZeS4gFCse5fJ2f8TuOZion3OeW_P6sedDE4oVzqir75EBw0Ld_JnhEhAFi9zR1LYElP20K1pWX9k2GhSByNUmthWu_XedatfNX4Ckku1RXw",
+            "width": 1920
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105132240931234166669/photos\">Cookie Leibler</a>"
+            ],
+            "photo_reference": "CmRaAAAADReszXFLk6IUwkA2bcvSl0kdTWauGEJ1pLPQfOf9In7JoregicSijW1XiQcj2xHJdEfjnmUadi3qNjC7IQ64-8B3ktQXNpB2-tFXYlA3AHGiKsLvri8qA-QWRDGNuix1EhCh4xkuCKs14vFSOVlgHDuJGhRi5brJM0pdhiE7T1HVJljyCDD3pw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102690038651237521180/photos\">Travis Trudgeon</a>"
+            ],
+            "photo_reference": "CmRaAAAAk9SSr83UvzHKqhl9EuDjfaqdhppWdOXhINdV62g3hvPCbRk772CDETeNuwU5_EFyVBiQ5RgtnyoiscD0_HXp0YakXX7AsOWnybj4x4MawFPmiJCSgjTFqOf05mhlt3iQEhB3xoHGBWnm5EhxuV0l3Hn1GhQMEXzkwD6tkZOvWQ3WYbIJMwWV3A",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108818507672613615403/photos\">Julian Harmsen</a>"
+            ],
+            "photo_reference": "CmRaAAAAdbug2mHOzilNwahh5ROfoHSoq01ld1DW5GxnurWWCsQrU_EObVXaRHOdg9L3ysaHWMCMsm0zUL69u4quY755OzMI0suFRQF2GwjG2JLceT9LQNL-rQYrO87PUAsf3kEGEhDHqpWiZwZsy_mSeSlgUymiGhRknJ0DBeUhlbGy7Inl8DsMpnbZVw",
+            "width": 3024
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115553905077980632447/photos\">Liz Reasoner</a>"
+            ],
+            "photo_reference": "CmRaAAAASOzZZlWH_ix12P7kE0M7ll38jhsOdFuj1dXusKd-aY9DKOnDLnS7IIzLZ6GRK1H9BqjoQOO6mhVF831Kk1m0A-f5Z4q3rAVaJ_eetWcC7cecAq0WafRjcmBAK8NA5WCQEhC_wwbZaFpXjKmdNSTJ_Xh3GhS_imbUtSCNFAZa8u5HmbBT5PfVZQ",
+            "width": 3264
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117836610960244235245/photos\">Brenda Paris</a>"
+            ],
+            "photo_reference": "CmRaAAAA91CB-xZrXopI7LzYPZJR1UHMCDcYEPCm2SjXhKHbF-OmqGfDliavBFGTrwsv9TVr3BMgfRrUnPhmR1ZD_XuTKHkTjcExBwYXMC2xPElZuF1Z-UPjjvoLaD5ltfawYujcEhDQFt04IwKTM5YTmca0n9gPGhRoYs1t9Bc_zV0XsptQNxg27uT98g",
+            "width": 3120
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAmjB171GqvY7Qq1WNQm8QeaNJTpsbTdE3JUxE3s-ZqrcqakXfbd3UKhdGJW-87t20_525cEne0khjsx8yPHE0dtdnlJbrADYjgfIB84BpB_dcLRaQnlWovFIQccjkjw8TEhBJdDf5mQNFnZEoW1OBJLWcGhTtXJrQWRXQnpSjCRUnevP_l8PrAQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ____yBVawokRr9EDtQbdWTA",
+    "plus_code": {
+        "compound_code": "PX3R+8C New York, United States",
+        "global_code": "87G7PX3R+8C"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ____yBVawokRr9EDtQbdWTA",
+    "reviews": [
+        {
+            "author_name": "M T",
+            "author_url": "https://www.google.com/maps/contrib/113375420028360875067/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-pv7mr4vxvDw/AAAAAAAAAAI/AAAAAAAAAAc/jR3_dO1-xDI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Amazing public space to relax in the middle of Wall Street. Great atmosphere, nice seating areas, and very unique space in downtown Manhattan. \n\nDefinitely worth a visit if you're in the area.",
+            "time": 1561581922
+        },
+        {
+            "author_name": "Dr. Who Time Lord",
+            "author_url": "https://www.google.com/maps/contrib/106736871141171038140/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3ZB4PKDKnSM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcndg5ULsIaCui3z6YiwpHUCpfIIQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I love this place. It has a great view on a river, Brooklyn, bridges and helicopters docket. I go there frequently for lunch. It does get crowded when weather gets better. It unfortunately has limited amount of seats and tables. But I think it's necessary to maintain green look of this place.",
+            "time": 1553545074
+        },
+        {
+            "author_name": "Ram Kumar",
+            "author_url": "https://www.google.com/maps/contrib/111648660761645447631/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iCm3NvN_OcE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reANjx6RcnWH9WMjpdJEiV6wVQTGQ/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This park is a hidden gem! I knew I had to visit this place after looking at the pictures. The views from here are amazing. This is a great place to click some nice photos of Brooklyn. There are tables here which makes it a good spot to relax and enjoy a takeout. There were few people at the park during my visit. It's best to wear a jacket because the winds that blow are cold. This park is not open 24hrs. From May 1 to Sep 30, the park is open from 7 AM to 10 PM. From Oct 1 to April 30, they are open from 8 AM to 8 PM. This is a nice place to check out when you're near Wall Street.",
+            "time": 1546157890
+        },
+        {
+            "author_name": "bodna miah",
+            "author_url": "https://www.google.com/maps/contrib/102609863778476027710/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BKs3h1pbl8M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqv8bKACB-3c0hB_-2_6LWzg_Q3Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Charming. Really nice area and view.",
+            "time": 1561498068
+        },
+        {
+            "author_name": "Carlos R. Chavez",
+            "author_url": "https://www.google.com/maps/contrib/100884780966276529471/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9m8kUCuL4Zk/AAAAAAAAAAI/AAAAAAAAAC4/W8RCBiBW4hM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "ELEVATED ACRE:\nIn a city where space is at a premium, there remains hidden away a lush garden of solitude, known to only a very few. Remarkably, this pleasant, quiet meadow can be found in the jostling streets of the busy Financial District in Lower Manhattan. Or more specifically, above it!\nThe Elevated Acre is precisely that: a one-acre meadow flanked by delightfully designed gardens and plantings elevated above the city streets. Its entrance is fairly anonymous, an escalator at 55 Water Street, set back from the sidewalk. Currently surrounded by construction, passersby will often overlook it. But if you venture up the escalators you will find the marvelous Elevated Acre.\nThe secretive urban oasis features a lawn, an amphitheater, a summer beer garden, winding paths of Brazilian hardwood, spectacular views of the East River, Brooklyn, and the Brooklyn Bridge, and above all, pleasant solitude. This elevated one-acre park is one of Manhattan\u2019s most relaxing secrets.\nACRE ELEVADO:\nEn una ciudad donde el espacio es escaso, queda escondido un exuberante Escondido jard\u00edn, conocido por muy pocos. Sorprendentemente, esta agradable y tranquila pradera se puede encontrar en las calles del distrito financiero de Lower Manhattan. O m\u00e1s espec\u00edficamente, por encima de \u00e9l!\nEl Acre Elevado es precisamente eso: una pradera de un acre flanqueada por jardines y plantaciones deliciosamente dise\u00f1adas elevadas sobre las calles de la ciudad. Su entrada es bastante an\u00f3nima, una escalera mec\u00e1nica en 55 Water Street, apartada de la acera, menudo los transeuntes lo pasan por alto. Pero si te aventuras por las escaleras mec\u00e1nicas, encontrar\u00e1s el maravilloso Elevated Acre.\nEl secreto oasis urbano cuenta con un c\u00e9sped, un anfiteatro, una cervecer\u00eda al aire libre de verano, caminos sinuosos de madera dura brasile\u00f1a, vistas espectaculares del East River, Brooklyn y el Puente de Brooklyn, y sobre todo, una agradable soledad. Este elevado parque de un acre es uno de los secretos m\u00e1s relajantes de Manhattan.",
+            "time": 1557515262
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3484058807624257967",
+    "user_ratings_total": 253,
+    "utc_offset": -240,
+    "vicinity": "55 Water Street, New York",
+    "website": "http://www.55water.com/"
+}

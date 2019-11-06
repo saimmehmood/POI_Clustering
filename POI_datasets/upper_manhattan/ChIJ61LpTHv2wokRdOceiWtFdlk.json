@@ -86,13 +86,67 @@
     "id": "ffcbb5cf0be011786c6e848d04f59e409a1ad39b",
     "international_phone_number": "+1 212-650-7155",
     "name": "Morris Raphael Cohen Library",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
     "photos": [
         {
             "height": 5312,
             "html_attributions": [
                 "<a href=\"https://maps.google.com/maps/contrib/116162760669204277840/photos\">Harrold Leonardo Paredes Lopez</a>"
             ],
-            "photo_reference": "CmRaAAAAiBlvwYK6AazdJReCfPxF6cm7drxoHZT95LQxpOK2NZHAZeLoGoxsTpNE-cdocpn9eK1MueInB6TrLSvdF8kd4S-htvmwo1BK90gq25fHA44JHPtUEcb5COoyioh9rkrqEhApd8OCAoLw4YOmMHmgL9ELGhRMb-DpaIoQW56zWQ1SynWOaOr3lg",
+            "photo_reference": "CmRaAAAAiwk2Knxsp6G8Z06MBd0f6lgzeIkEuLX6rPNtRKodQGGUKGyBGcysGIOv6xa29V1yfNIt5XREQFLdDYZ51ia9uZMRN011b08w3RfdBojYru8KdAxwrgZkqKZeRBJYkYLJEhCX2UDG7Z7ZnFscgx_jo6iZGhTfzVC2czwLKDX3i6YVIkNljFmHSg",
             "width": 2988
         }
     ],
@@ -101,7 +155,7 @@
         "compound_code": "R29X+VQ New York, United States",
         "global_code": "87G8R29X+VQ"
     },
-    "rating": 4.3,
+    "rating": 3.9,
     "reference": "ChIJ61LpTHv2wokRdOceiWtFdlk",
     "reviews": [
         {
@@ -110,45 +164,46 @@
             "language": "en",
             "profile_photo_url": "https://lh5.googleusercontent.com/-CjEwGPPb9Yo/AAAAAAAAAAI/AAAAAAAAALk/Tl_FHe26Qo0/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 4,
-            "relative_time_description": "3 months ago",
+            "relative_time_description": "10 months ago",
             "text": "Guys, please be respectful and keep silent on the \u201cquiet floors\u201d , you could go ahead and use the first second and third floors for group study . I wish the library was open 7days a week 7-12 , just like Baruch college library, hopefully someday after they finally finish the renovation :)",
             "time": 1536253717
         },
         {
+            "author_name": "Kristen Tomaino",
+            "author_url": "https://www.google.com/maps/contrib/109986893670761078784/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ZB4t5JKeOx8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcQnZ0_KE1KkVo0xQ85WHuYOc8-3Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "The place is still very dirty & noisy, the hours of certain desks & services stink, the books are always out of order &/or not on the shelves, & the professor that manages the circulation desk is very rude.",
+            "time": 1549170044
+        },
+        {
             "author_name": "Asia Jones",
             "author_url": "https://www.google.com/maps/contrib/101413124477837300682/reviews",
-            "profile_photo_url": "https://lh6.googleusercontent.com/-EfrSU8p1VlY/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbI5tRAr0urBkN13SghqGp9rxB4_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-EfrSU8p1VlY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdOgVWsniKrWKcVsNG06gTbTmeiwA/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 5,
-            "relative_time_description": "2 weeks ago",
+            "relative_time_description": "7 months ago",
             "text": "",
             "time": 1544022075
         },
         {
             "author_name": "kaba mohamed alkhaly",
             "author_url": "https://www.google.com/maps/contrib/112712111200315560589/reviews",
-            "profile_photo_url": "https://lh3.googleusercontent.com/-a6YpRX6Vqyk/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaKELxo4ibYuip7EHaSZpFQ9LToSw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-a6YpRX6Vqyk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reLdjgwfpZKE2dKxGNcT--TwaA1BQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 5,
-            "relative_time_description": "9 months ago",
+            "relative_time_description": "a year ago",
             "text": "",
             "time": 1521516748
         },
         {
             "author_name": "Neil M",
             "author_url": "https://www.google.com/maps/contrib/100363933392115541334/reviews",
-            "profile_photo_url": "https://lh3.googleusercontent.com/-aXl0uigSYmE/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZuESVefrZy6jRAJQgqKZDHjDMFZA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aXl0uigSYmE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcbDoEvCA6IEH55tpM6u7WHhYwyqg/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 4,
-            "relative_time_description": "9 months ago",
-            "text": "",
-            "time": 1520461400
-        },
-        {
-            "author_name": "KwangWon Lee",
-            "author_url": "https://www.google.com/maps/contrib/101835623669304562472/reviews",
-            "profile_photo_url": "https://lh4.googleusercontent.com/-uxeMqP6yhEw/AAAAAAAAAAI/AAAAAAAAAdI/kiii9fl22eY/s128-c0x00000000-cc-rp-mo/photo.jpg",
-            "rating": 5,
             "relative_time_description": "a year ago",
             "text": "",
-            "time": 1491210807
+            "time": 1520461400
         }
     ],
     "scope": "GOOGLE",
@@ -158,7 +213,8 @@
         "establishment"
     ],
     "url": "https://maps.google.com/?cid=6446416244791764852",
-    "utc_offset": -300,
+    "user_ratings_total": 8,
+    "utc_offset": -240,
     "vicinity": "160 Convent Avenue, New York",
     "website": "http://library.ccny.cuny.edu/"
 }

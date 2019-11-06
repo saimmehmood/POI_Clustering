@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1510 Lexington Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 467-4637",
+    "geometry": {
+        "location": {
+            "lat": 40.7870559,
+            "lng": -73.95053519999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7885441302915,
+                "lng": -73.94921096970849
+            },
+            "southwest": {
+                "lat": 40.7858461697085,
+                "lng": -73.9519089302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5002e491e559725f955d33d5d4bcdedd7de09696",
+    "international_phone_number": "+1 646-467-4637",
+    "name": "Shira Weinberger Photography",
+    "place_id": "ChIJY4w6_QVZwokRyJk02JDTNVM",
+    "plus_code": {
+        "compound_code": "Q2PX+RQ New York, United States",
+        "global_code": "87G8Q2PX+RQ"
+    },
+    "rating": 5,
+    "reference": "ChIJY4w6_QVZwokRyJk02JDTNVM",
+    "reviews": [
+        {
+            "author_name": "Juan Rafael Lopez",
+            "author_url": "https://www.google.com/maps/contrib/114014485551743967838/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jd0Bhh_q13o/AAAAAAAAAAI/AAAAAAABIDI/tbPvYMe-_g8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Shira is extremely talented and a pleasure to work with!",
+            "time": 1293490732
+        },
+        {
+            "author_name": "Eddy Sirett",
+            "author_url": "https://www.google.com/maps/contrib/106052699554284954058/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rAFsROJ2Rew/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3red4rVo8BMij5LSLzUXkC6tH5T2pA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1448763666
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5995931097969760712",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "1510 Lexington Avenue, New York",
+    "website": "http://www.shiraweinberger.com/"
+}

@@ -1,0 +1,305 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Main St</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Main St, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 568-8700",
+    "geometry": {
+        "location": {
+            "lat": 40.8037352,
+            "lng": -73.99098
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80500123029151,
+                "lng": -73.9896862697085
+            },
+            "southwest": {
+                "lat": 40.80230326970851,
+                "lng": -73.9923842302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0e9e9635c8fe8fdedbbc1c36c9e19ba913040aad",
+    "international_phone_number": "+1 201-568-8700",
+    "name": "TailormadeBodiez,LLC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 9:00 PM",
+            "Tuesday: 5:00 AM \u2013 9:00 PM",
+            "Wednesday: 5:00 AM \u2013 9:00 PM",
+            "Thursday: 5:00 AM \u2013 9:00 PM",
+            "Friday: 5:00 AM \u2013 1:00 PM",
+            "Saturday: Closed",
+            "Sunday: 6:00 AM \u2013 3:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAADeaetRCtbLYkFoTwpeTaP0qH7RTweH1ZeKt9I0sYJN9fuHdU54_UR2lAQH3gci_7rYrFpAS7-4I8lBuO3ZCib3IwvEJZmnh0PL9bYGbApQfmBl92_iz61phff989ekAYEhC9LbdSUWBXV9DziaRWBTodGhSQLcnbEPdU8hU3kKuf0P70sLlumA",
+            "width": 3840
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAhDGqc_jxxZQATgwQeTOuO8NWXwtOfYIVgrlopp5JHr7H6RLf-s5kC_2gR8ctv8NX18K5j9iGaH_8I7PvqLzvzrFwny4IpobQ05uvjCY0Cwzf_p4orGoqybtSZKVwOnpCEhAGBEwFkITnh3FYlWRM8Sm8GhQSCks2FTPJdvet2LCxbczoRBsUNQ",
+            "width": 1440
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAArXb5dohe1JDZyPxNgjfdyCQELBZFz1peiVaLQXyy68Si2QpCUNkNHg6wk-tWNBIAaeDiiQiYMooaQFJeb35c5hkHY0KCSv2H48ps0WEMcyVAQ2mzCcNdS0Gr1DV2kwQbEhA7hKE6gxYKpJJcYW210bAZGhQ8Mx1GF5NNi8UcxhOLx4i5LHA2iw",
+            "width": 1080
+        },
+        {
+            "height": 571,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAACVl_QJEmfxljw-TAnJGiCtJ9qYazg9IKq9VXJ-I5lIOcu5SKnvzM9mbazia7em3yfBPh8qfDlVX8Hn8-kgeYZSMrZmVSJeLFfX5n-Y1CXdcaB2TdYQklBJ8aBd2PCs7uEhCMbFneXip-ayqPzyyDu_0gGhSnttUYwc52dtWmv-Bq6AGnCxihVw",
+            "width": 401
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAqIuWRmCGfO1UKzcBaTKig89rwkfwQn8PJXz0MgfcLIOuhlm0dlKJWZirIvSKRWL2EbeEQnsWBOIxFW6f346lz3lrkv6DgX4HvlqoPHH7zcRjJu1T76hh8Nwh5hCMFqc6EhCCQxrbIlKigFAMD3w3pUvTGhQwrs6J4YlCP5Htsc0KDcGzeu8YMg",
+            "width": 1000
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAA-59ki56MxHVhC1KoOxlt4y0xSeqq3-0_X2R5t-Vwpu0lPiiQX6OTHQPJOuQLRg2EvL6kGbSU9KnV_2fUZCon5vhVbVpaQR9ehfSHNorkuI7ubJS8aW8vasBAklzA0j3NEhBaG211DAR0IcxbEvzC3YIZGhSm7lCNr9WDplbAGIGZ9xqcWIQwXg",
+            "width": 1024
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAoG8nREWmz4TnuVy330CC-bB6q2QfSu_Jf8I5MZBISwjR180NLLOSinKQhs0FffA4DhadMZyypaykZ8FUvYEMEDxbzWPfp-YosckSPDXRvHR9bm3k15N_iWx1yFnauINZEhClsBhmTlA7keNCfxuf4JrVGhSYdMoyMwrTSGfOpnDlcjTZN87iag",
+            "width": 1920
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAA2IzhcInhEYm-Pc0keToWXTHVaNzs0RTzDmJaUN1HbqofaLpHjRcKS2q4Yj5khKw2WYlYrindntfP1FM4zUbHNOYNTO3BxLV2BP1xKQxEYSmQdpoJu29WCRtJoNvXjgbIEhCdRTFVB-UiJg4jqWFRVkFeGhTWSfvhztBQpKkmnLiLCK22R11X5w",
+            "width": 5760
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAdqMkYly5_geTaqKDPEa5F3FUXZ0usVus69IUTm9srBlwkiSLS9juHX6WE5fo2g110m7pZCk6XwJbCzvWPSuzkUcjjbIi1kfPUwbQ-MMVFv7DAHX0ZdxUWqsZzKB2Oqm1EhBEyS7VcoOehE-3B2Gb9b02GhRTLW_fAwTK0bTYKSkjyvaa8q8_Ow",
+            "width": 3840
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101248685457301202664/photos\">TailormadeBodiez,LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAsruSaQcRXvtXIhDMSi5GII7XgOXDm3C23t6cLkD8AK_NNWMkRdpES1DCq4wrtoOmUat2RyEvVzL6eyl7yH6tII6k53OB3WPoHI4-dzCuD5Ca6-PJ1vztffhxYQ4bsAEdEhC3KV-VOFC6HZl7OBJ4LlZUGhRno6x63H0q9bh7kDS8LYtmdcewyQ",
+            "width": 800
+        }
+    ],
+    "place_id": "ChIJxYk2pdH3wokRzmWV9ov_ICU",
+    "plus_code": {
+        "compound_code": "R235+FJ Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+FJ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJxYk2pdH3wokRzmWV9ov_ICU",
+    "reviews": [
+        {
+            "author_name": "Shivonne Smith",
+            "author_url": "https://www.google.com/maps/contrib/105331598978583809889/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ZtFkIfFUtX4/AAAAAAAAAAI/AAAAAAAAYeQ/wUp1GlDZuCw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Be careful when you join because I joined after I saw a promo on Instagram. Once the promo ended the owner charged me for the second month automatically. I never signed up nor signed anything indicating I was committing another month, and when I asked for a refund for the month he charged me , He refused too, and tried to force me to take a credit. It\u2019s a bummer because the trainers are great but the owner isn\u2019t.",
+            "time": 1551470970
+        },
+        {
+            "author_name": "Greg Whelan",
+            "author_url": "https://www.google.com/maps/contrib/114719741847222684483/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-nF77GTLC0yw/AAAAAAAAAAI/AAAAAAAAkZU/MB3tbsYtb7U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wow, do I miss Aaron - the best Personal Trainer I have worked with!  We moved to the burb\u2019s and I have not signed on with a new trainer, going to the local gym and working out solo....it sucks.  \n\nI had been working with an excellent trainer from 24hr Fitness, but hated the high cost and short workout sessions - knowing my trainer did not see most of the money.  My wife found a Groupon deal for Tailor Made and they were local (I live in West New York) with a location super close in Cliffside Park.  I ended up spending a year with Aaron and really miss it - if we hadn\u2019t moved I would still be there.\n\nAaron was very easy to work with - we had our first session, discussed my progress to that point and what my objectives were.  He did his best to work with my schedule and his, and we found 2 morning slots, 30min, that worked out great for me.\n\nI have to say, I never left feeling I did not get a work out, sometimes not able to lift my arms for a day!  Aaron was able to pack a ton of variety and action in to 30min, focusing on my core strength, flexibility and basic cardio.  I was often humbled but he was good at motivating...not so much ra ra, \u2018you are awesome, you can do it\u2019, more like \u2018get it done\u2019.  I liked that.  And it was never boring - I always looked forward to the early sessions as it set my mood for the day.  Of course, i am in much better shape - core is solid and I love how I look.\n\nThe rates are very reasonable, especially when you aren\u2019t paying a gym fee on top of it.  The space is clean and is very well looked after.  And the Englewood location is even nicer..so check that out.\n\nWorking with a trainer is a game changer - Aaron and his Team will not disappoint.",
+            "time": 1558052072
+        },
+        {
+            "author_name": "noobstin 9",
+            "author_url": "https://www.google.com/maps/contrib/100172817945736869997/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-t3vA82up9Fw/AAAAAAAAAAI/AAAAAAAANHw/8K3POpd4Gdk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I hadn't worked out in awhile and I told myself that I needed to get back into shape. I contacted Aaron and he really has helped me so much. His knowledge about workouts and nutrition really helped me to learn, not only from our sessions but how to apply them outside of the gym. He does know what he's talking about when it comes to doing certain exercises and he works you to the bone but that's what you'd expect if you want to get the results. Very flexible as well, being able to reschedule when I could make it and never cheats you a session. Very accommodating to how your body feels every session and optimizes your results with different workouts and advice along the way. I'd definitely recommend him to anyone looking for a jump start in their workouts or those that want a new challenge.",
+            "time": 1503693929
+        },
+        {
+            "author_name": "Veronica M. McClain",
+            "author_url": "https://www.google.com/maps/contrib/117100211437583262233/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-y3nniOJhe74/AAAAAAAAAAI/AAAAAAAAAAw/O3Nx3JU5vUY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I hate working out! Haha but Tailormadebodiez trainers really do make it fun, they're always switching it up and keeping it fresh ,which for me is really important as I get bored easily",
+            "time": 1515782895
+        },
+        {
+            "author_name": "Rodney Macelus",
+            "author_url": "https://www.google.com/maps/contrib/107397428724645580542/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Hvry8_eMDMM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd832NLExmVMC_nu1O97EQTFgAwkQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I randomly found Tailormade Bodiez through groupon back in February. I was at a point in my life where I knew I needed a personal trainer because I didn't have the discipline to commit myself to a stable diet and routine. I played sports growing up and frequented the gym (inconsistently) so I knew how to work out, but sometimes you have to switch it up. The groupon was for four sessions and the price was right so I purchased it. I went in for my first session and at the conclusion of it, knew Aaron and Tailormade Bodiez was the perfect fit for me. I ultimately ended up signing up for an extended fitness plan for 6 months. In those six months I can honestly say I was the healthiest and most in shape I'd been in years. Aaron is very calculated in his approach as it relates to the diet and fitness plan. I truly understood why the company is called 'Tailormade Bodiez' because I felt that diet and fitness plan were tailored perfectly for me, taking into consideration many different aspects of my life. Though it wasn't easy, the goal set was achieveable, attainable and realistic. I can honestly say that I'm excited and happy with the progress I've made because I did reach my goal. I'm confident that without Aaron's help, I wouldn't be in the position I am now. I'm thankful and grateful for Aaron's help and guidance over the past 6 months. I learned a lot about dieting and fitness during this time. I know getting a personal train can be nerve wracking because you really never know who you're going to be paired with up. Can you trust this person? Are they truly invested in you? Do they have your best interest at the forefront? Does this person make you feel comfortable?I can assure you that the answer to all these questions is 'Yes.' There are a number of personal trainers out there, but if it ain't tailormade then it ain't right!",
+            "time": 1507678172
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2675419155260597710",
+    "user_ratings_total": 7,
+    "utc_offset": -240,
+    "vicinity": "1 Main Street, Edgewater"
+}

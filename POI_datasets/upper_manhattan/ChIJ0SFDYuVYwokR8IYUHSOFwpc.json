@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "11",
+            "short_name": "11",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "505",
+            "short_name": "505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505 Park Ave #11</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505 Park Ave #11, New York, NY 10022, USA",
+    "formatted_phone_number": "(212) 750-4800",
+    "geometry": {
+        "location": {
+            "lat": 40.7629375,
+            "lng": -73.9692427
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7643548802915,
+                "lng": -73.96804951970849
+            },
+            "southwest": {
+                "lat": 40.7616569197085,
+                "lng": -73.9707474802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9e985e2e7e5c4a669d0cb5ed8b593eaddfd0dec9",
+    "international_phone_number": "+1 212-750-4800",
+    "name": "Olayan America Corporation",
+    "place_id": "ChIJ0SFDYuVYwokR8IYUHSOFwpc",
+    "plus_code": {
+        "compound_code": "Q27J+58 New York, United States",
+        "global_code": "87G8Q27J+58"
+    },
+    "reference": "ChIJ0SFDYuVYwokR8IYUHSOFwpc",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10935449231067219696",
+    "utc_offset": -240,
+    "vicinity": "505 Park Avenue #11, New York",
+    "website": "http://olayan.com/"
+}

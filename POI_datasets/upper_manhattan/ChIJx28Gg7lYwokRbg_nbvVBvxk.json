@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 83rd Street",
+            "short_name": "E 83rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">400 E 83rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "400 E 83rd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-0149",
+    "geometry": {
+        "location": {
+            "lat": 40.7746897,
+            "lng": -73.95063139999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77610373029149,
+                "lng": -73.9492345197085
+            },
+            "southwest": {
+                "lat": 40.7734057697085,
+                "lng": -73.9519324802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a3c8593031c195e7c7ed1016734d235358551a31",
+    "international_phone_number": "+1 212-861-0149",
+    "name": "Embrassez Vous skin care products",
+    "photos": [
+        {
+            "height": 952,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101307970158241829827/photos\">Embrassez Vous skin care products</a>"
+            ],
+            "photo_reference": "CmRaAAAABYf1BqAvhiESTBEaDlAmCExnuGJ2nFzab71AeG_Z5E-GMqVhPaJeHhk6MiHCWATBMReUxiZ4_fJCpXV31fiZqLR8r3pfuXtrqozIsZgL8IlDycwX-bJRRODSjku5gO0IEhAw8krH1eUtSnjcuJcHtdb2GhTIulN96tN84M3r6w4e9ZJPmhflvQ",
+            "width": 1429
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101307970158241829827/photos\">Embrassez Vous skin care products</a>"
+            ],
+            "photo_reference": "CmRaAAAAWzSnqwUcr0samDJyS9p0i7U6fjxrZOIR-OsfRuHQk7V6ZzBpcjJ4zEu8HkdzPF0RrCYzRhNa6774I3Y0HWrq2nSLueznra_v6eS_s-9ubn-QntPmXFpScY9EWAnrBEH6EhDKXtOB4rvK04tD79kPSIUpGhTxufdeu405e-KK9UgW8ChGsRVAPw",
+            "width": 824
+        }
+    ],
+    "place_id": "ChIJx28Gg7lYwokRbg_nbvVBvxk",
+    "plus_code": {
+        "compound_code": "Q2FX+VP New York, United States",
+        "global_code": "87G8Q2FX+VP"
+    },
+    "reference": "ChIJx28Gg7lYwokRbg_nbvVBvxk",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1855274093883363182",
+    "utc_offset": -240,
+    "vicinity": "400 East 83rd Street, New York"
+}

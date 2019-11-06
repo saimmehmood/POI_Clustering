@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "150-198",
+            "short_name": "150-198",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 93rd Street",
+            "short_name": "E 93rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3711",
+            "short_name": "3711",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150-198 E 93rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3711</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "150-198 E 93rd St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7836016,
+            "lng": -73.95154219999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7849506302915,
+                "lng": -73.9499386
+            },
+            "southwest": {
+                "lat": 40.7822526697085,
+                "lng": -73.9531458
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c24b69cb390bc855ff27af90e1cb1274adfdeaed",
+    "name": "150-198 E 93rd St",
+    "place_id": "ChIJn0zERaRYwokRUG9s7rP8kPQ",
+    "reference": "ChIJn0zERaRYwokRUG9s7rP8kPQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=150-198+E+93rd+St,+New+York,+NY+10128,+USA&ftid=0x89c258a445c44c9f:0xf490fcb3ee6c6f50",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

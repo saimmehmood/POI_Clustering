@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "558",
+            "short_name": "558",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1704",
+            "short_name": "1704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">558 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "558 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 945-0700",
+    "geometry": {
+        "location": {
+            "lat": 40.82324199999999,
+            "lng": -73.98907799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82465223029149,
+                "lng": -73.9878680697085
+            },
+            "southwest": {
+                "lat": 40.82195426970849,
+                "lng": -73.9905660302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4376af986d661f24333aaa0eddd0aa2f56788417",
+    "international_phone_number": "+1 201-945-0700",
+    "name": "Gyro Tech of New York",
+    "place_id": "ChIJs4k-j7H3wokRQzdjB8t0SX4",
+    "plus_code": {
+        "compound_code": "R2F6+79 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+79"
+    },
+    "reference": "ChIJs4k-j7H3wokRQzdjB8t0SX4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9099932937429923651",
+    "utc_offset": -240,
+    "vicinity": "558 Anderson Avenue, Cliffside Park"
+}

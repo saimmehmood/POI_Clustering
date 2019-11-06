@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "214",
+            "short_name": "214",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 123rd Street",
+            "short_name": "W 123rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">214 W 123rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "214 W 123rd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.80790160000001,
+            "lng": -73.9502067
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80931458029151,
+                "lng": -73.94881086970848
+            },
+            "southwest": {
+                "lat": 40.80661661970851,
+                "lng": -73.9515088302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "128bd182c18f70c0c39adaeb37e8c6fb5d5211c0",
+    "name": "Rescue Baptist Church Inc",
+    "place_id": "ChIJVVXA5BL2wokRPqFUC6u46Z0",
+    "plus_code": {
+        "compound_code": "R25X+5W New York, United States",
+        "global_code": "87G8R25X+5W"
+    },
+    "reference": "ChIJVVXA5BL2wokRPqFUC6u46Z0",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11378828978297282878",
+    "utc_offset": -240,
+    "vicinity": "214 West 123rd Street, New York"
+}

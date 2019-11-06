@@ -1,0 +1,282 @@
+{
+    "address_components": [
+        {
+            "long_name": "3",
+            "short_name": "3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "505",
+            "short_name": "505",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9303",
+            "short_name": "9303",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">505 Park Ave #3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022-9303</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "505 Park Ave #3, New York, NY 10022, USA",
+    "formatted_phone_number": "(212) 688-6498",
+    "geometry": {
+        "location": {
+            "lat": 40.7629379,
+            "lng": -73.9692819
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7643487802915,
+                "lng": -73.9680739197085
+            },
+            "southwest": {
+                "lat": 40.7616508197085,
+                "lng": -73.97077188029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "049b5d3abfe0d48ff3f013b0408b751f5050771a",
+    "international_phone_number": "+1 212-688-6498",
+    "name": "Mizu Salon",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 7:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114316675117586432221/photos\">Mizu Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAdh6EZYDAOCWUjqWuakabbJl6Faz3vV6MTGqEjWJVnWyGVi6Af5KeH9rg8GJW2QJihMDpLE86JDi4ZECSXczmFRw1kAZi3usVgkhRu7lR_Mlgli6cdzryL5v_allire_5EhD42bkDzpq2L5FIj_Q_BAQcGhRIdz2jihnC7orESJHbSdauu4PFIw",
+            "width": 340
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114010058638904765348/photos\">Marisa Marino</a>"
+            ],
+            "photo_reference": "CmRaAAAAORpTcGSbhc22V0aKzY4g4BQuZeJZvVZ13F6oCboqMewcZrOkyEdlbvS5ZMVI2OL3lV293Bs5LBvbI-lqaLdHz1UMbYfStDQu4yZNWzwr0rCAVVPA0ZdDk1iYnZg_qBfkEhBA0IHWKSgBZ38pYub1cXLzGhRzfRednOJ0XBRJYll6FesvQZxgXg",
+            "width": 3024
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100083082466087392505/photos\">Elliana Dividu</a>"
+            ],
+            "photo_reference": "CmRaAAAAGnNuOWYAK6FyWU4Ap2aXt8CWrKfGbkysFBce5P7I6050_lUmmknDlAtJuSv-CmL4w5ZCiFEEpPTyFADtyDY3OivV2MrHlKHuYZKRWPmdPHmAeOTl2I024wWG05EffWzKEhAiIQWFwx9DusMv-d6yUAGUGhQATmoKFCN8VgY0DXkr_GDH8_pgSQ",
+            "width": 3264
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101390794216092799379/photos\">Laurel Egan Kenny</a>"
+            ],
+            "photo_reference": "CmRaAAAA-UUcB5i3JRjnwa0dt6RfQTehIjkA8bzNaVBxN3l67HTz28p9L9fnRzW-l2VH_iRoA6uNlx5as3ywmYFKervD9zghzHKDibEs-S5xNWxQgv2YnBcSj9F6fo-lXlVS0l2iEhAHYUsg1PEebUFld2q857wIGhSPiN1gDc27yHA8lovcU9ajOIcAjw",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJ0SFDYuVYwokRXJvyfmR9kec",
+    "plus_code": {
+        "compound_code": "Q27J+57 New York, United States",
+        "global_code": "87G8Q27J+57"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ0SFDYuVYwokRXJvyfmR9kec",
+    "reviews": [
+        {
+            "author_name": "Yesenia Covarrubias",
+            "author_url": "https://www.google.com/maps/contrib/105235292572291789047/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9eqOElNZ8g0/AAAAAAAAAAI/AAAAAAAACYM/UdKoKMBGg2A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Beautiful salon and great staff. Everyone was welcoming and made me feel comfortable while I got my hair cut. Helik was such a gem and made me feel beautiful afterwards.",
+            "time": 1561317231
+        },
+        {
+            "author_name": "Rudy Rowan",
+            "author_url": "https://www.google.com/maps/contrib/108539745417236937918/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JYnZVkh1qZ4/AAAAAAAAAAI/AAAAAAAAAAg/Evo0HYJtqMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I loved this place. The staff is all very detailed and nice. They listen to exactly what you want. I'm very very happy with my hair. It's never looked so natural and pretty!!!!",
+            "time": 1550564194
+        },
+        {
+            "author_name": "Dora Lamb",
+            "author_url": "https://www.google.com/maps/contrib/111983231455726381253/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-OixLARZk8ss/AAAAAAAAAAI/AAAAAAAAAAk/UOA4qnI13-s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "As always, hands down best service! Been going to victor for 3 years now. Always gives me the best cuts and styles! Takes his time and I never feel rushed. Gives me honest feed back and expectations on my cut. Love this guy! Even offers me a free clean up in between cuts so that I'm always looking my best and fresh! Everyone here is awesome too! Friendly and consistent about reminders cuz we all get busy so it's helpful to get calls and emails reminding me about my appointments.",
+            "time": 1548921828
+        },
+        {
+            "author_name": "Elliana Dividu",
+            "author_url": "https://www.google.com/maps/contrib/100083082466087392505/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-e-zuH2IUO6M/AAAAAAAAAAI/AAAAAAAAAFU/AG_rbKZLm6Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Danielle did a wonderful job on my hair color! I'm in love! Open and spacious salon with a wonderful ambiance.",
+            "time": 1551719511
+        },
+        {
+            "author_name": "Charles Hura",
+            "author_url": "https://www.google.com/maps/contrib/109443955628385034482/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-VM_XltVU5Ck/AAAAAAAAAAI/AAAAAAAAAsA/ex_qQdG6-q0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I cant say enough great things about Mizu.  Ask for Judy - incredible haircut.  The entire experience from start to finish was exceptional.  I didnt want to leave!",
+            "time": 1551306163
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16686255964964428636",
+    "user_ratings_total": 47,
+    "utc_offset": -240,
+    "vicinity": "505 Park Avenue #3, New York",
+    "website": "http://www.mizuforhair.com/"
+}

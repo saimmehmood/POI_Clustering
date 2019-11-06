@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "apt 510",
+            "short_name": "apt 510",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 128th Street",
+            "short_name": "W 128th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "5686, <span class=\"street-address\">300 W 128th St apt 510</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "5686, 300 W 128th St apt 510, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 348-2656",
+    "geometry": {
+        "location": {
+            "lat": 40.81203199999999,
+            "lng": -73.950172
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81347263029149,
+                "lng": -73.94875611970849
+            },
+            "southwest": {
+                "lat": 40.8107746697085,
+                "lng": -73.9514540802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "df41866de69be0508805bb9e8f270127af464fb3",
+    "international_phone_number": "+1 212-348-2656",
+    "name": "Little Gray House Inc",
+    "place_id": "ChIJT76Oqg32wokRk6xbeNCKG0A",
+    "plus_code": {
+        "compound_code": "R26X+RW New York, United States",
+        "global_code": "87G8R26X+RW"
+    },
+    "reference": "ChIJT76Oqg32wokRk6xbeNCKG0A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4619438470775680147",
+    "utc_offset": -240,
+    "vicinity": "5686, 300 West 128th Street apt 510, New York"
+}

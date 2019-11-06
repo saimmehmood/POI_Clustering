@@ -87,77 +87,87 @@
     "international_phone_number": "+1 917-324-8250",
     "name": "Siya Healing Spa 2",
     "opening_hours": {
-        "open_now": false,
+        "open_now": true,
         "periods": [
             {
                 "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
                     "day": 1,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 1,
-                    "time": "1000"
+                    "time": "1100"
                 }
             },
             {
                 "close": {
                     "day": 2,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 2,
-                    "time": "1000"
+                    "time": "1100"
                 }
             },
             {
                 "close": {
                     "day": 3,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 3,
-                    "time": "1000"
+                    "time": "1100"
                 }
             },
             {
                 "close": {
                     "day": 4,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 4,
-                    "time": "1000"
+                    "time": "1100"
                 }
             },
             {
                 "close": {
                     "day": 5,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 5,
-                    "time": "1000"
+                    "time": "1100"
                 }
             },
             {
                 "close": {
                     "day": 6,
-                    "time": "2000"
+                    "time": "2100"
                 },
                 "open": {
                     "day": 6,
-                    "time": "1000"
+                    "time": "1100"
                 }
             }
         ],
         "weekday_text": [
-            "Monday: 10:00 AM \u2013 8:00 PM",
-            "Tuesday: 10:00 AM \u2013 8:00 PM",
-            "Wednesday: 10:00 AM \u2013 8:00 PM",
-            "Thursday: 10:00 AM \u2013 8:00 PM",
-            "Friday: 10:00 AM \u2013 8:00 PM",
-            "Saturday: 10:00 AM \u2013 8:00 PM",
-            "Sunday: Closed"
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 9:00 PM",
+            "Sunday: 11:00 AM \u2013 9:00 PM"
         ]
     },
     "photos": [
@@ -166,7 +176,7 @@
             "html_attributions": [
                 "<a href=\"https://maps.google.com/maps/contrib/111218086234939588800/photos\">siya wisamon</a>"
             ],
-            "photo_reference": "CmRaAAAAcJuFSgu7PjI5s9nAGn1ETwfepD0ii2I212xkoASiKRp8ju_uM98O-4FcDM1CiAa9NcfADSsaJufTqfXNqTP5GY-IDkrv8u392puXz4hC4ExNzvS77dSVIV9hcqOIenUiEhAqHSSGEIjLEVPKUHRhCf4TGhQEltcdHJ7iA57mgvB23vMXnJIqKQ",
+            "photo_reference": "CmRaAAAACU2zSMV6BO9x2Bsy7Uba2i_ZlKHdD8RLhwnzW7tPJCC0aZEJHOXELJzOcpXpJSfPEk3mGS7G3VMI5roB1KFAqlIdLRuG66IAm7Cil6oAnleqD4trhc-SWNR_sn9rxh4QEhDWwNNDkeF5ra8vYXbakOzKGhSfhZHlqIGCu4o_s5bLqgk8z4CnNA",
             "width": 1242
         },
         {
@@ -174,7 +184,7 @@
             "html_attributions": [
                 "<a href=\"https://maps.google.com/maps/contrib/111993434061778815551/photos\">Siya Healing Spa 2</a>"
             ],
-            "photo_reference": "CmRaAAAAuTqRp5WccUydR6suY5Xn9N8pU7OxWwuA9Wv2lmR0mA84PdS6Oy0GJQ4TK1YMyWM849XiWtq_kkPVxXehzpQj1bmsR0rZEOxmYbpv0FxjD60mIiuGfdlon1fwrOcN01HGEhDxuG3XhfW2mJaEBuMOYloWGhQBnVqBGHy5huoWnycMkThkMq7PFg",
+            "photo_reference": "CmRaAAAAGP3tZH_cXODg5_al_Nk_4oyhiT25jAsLD48lqXpC6ec4q3vZMgsxMusaOnblV_gvj25tIXW3k0z-ygW1PZfTUv8NWvCgfTUSZWiNZZbr_stAhrS9HwY0UTbVSYvhz25QEhBpkpOnZ1buS_EudWCBHJz-GhSUav4u01Xu-8iBltMHyCGl17kPuQ",
             "width": 839
         }
     ],
@@ -192,19 +202,38 @@
             "language": "en",
             "profile_photo_url": "https://lh3.googleusercontent.com/-OYq6hI9EvW4/AAAAAAAAAAI/AAAAAAAAAAA/qbDazJGpba4/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 5,
-            "relative_time_description": "2 weeks ago",
+            "relative_time_description": "7 months ago",
             "text": "Truly an amazing massage!  Siya is very intuitive and warm and exceptionally skilled as a healer.  She has the ability to find the root cause of my pain and tension and uses a combination of stretching and deep tissue massage to relax and reintegrate my body.  I hight recommend her.",
             "time": 1544293931
+        },
+        {
+            "author_name": "Anthony Nunya",
+            "author_url": "https://www.google.com/maps/contrib/102358498514267992374/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NSoNwv_dM6Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdC-k1LpTaeF9ANNHqcQTjXn_S2zQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I had a VERY positive experience with Siya today. She is extremely well versed in the art of massage and the atmosphere was perfect.\nI went in feeling like I needed a vacation, Siya's expertise helped me to leave resfreshed & clear headed. I already booked my next visit.  I definitely recommend Siya Healing! \nRoderick",
+            "time": 1550348281
         },
         {
             "author_name": "Blondie Brownie",
             "author_url": "https://www.google.com/maps/contrib/113333866799463519664/reviews",
             "language": "en",
-            "profile_photo_url": "https://lh5.googleusercontent.com/-RoNHD7xPFGw/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZhRHE33uLU1-jsj6wq-913sKSa2A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RoNHD7xPFGw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcb3G41K_JY056bV0YIwULXlAPohQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
             "rating": 5,
-            "relative_time_description": "2 weeks ago",
+            "relative_time_description": "7 months ago",
             "text": "Siya is amazing. She is so kind and has lovely grounding energy. I feel like I have a new body! 5 stars.",
             "time": 1544236121
+        },
+        {
+            "author_name": "Guislain Bonnard",
+            "author_url": "https://www.google.com/maps/contrib/117984285212153418627/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mV9nr7RKitU/AAAAAAAAAAI/AAAAAAAAYos/PY3rQNAnlMM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1552256521
         }
     ],
     "scope": "GOOGLE",
@@ -213,7 +242,8 @@
         "establishment"
     ],
     "url": "https://maps.google.com/?cid=13635920247375974302",
-    "utc_offset": -300,
+    "user_ratings_total": 4,
+    "utc_offset": -240,
     "vicinity": "520 West 142nd Street, New York",
     "website": "http://www.siyahealingspa.com/"
 }

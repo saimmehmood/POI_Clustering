@@ -1,0 +1,136 @@
+{
+    "address_components": [
+        {
+            "long_name": "1345",
+            "short_name": "1345",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10105",
+            "short_name": "10105",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0302",
+            "short_name": "0302",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1345 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10105-0302</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1345 6th Ave, New York, NY 10105, USA",
+    "formatted_phone_number": "(212) 621-3000",
+    "geometry": {
+        "location": {
+            "lat": 40.762989,
+            "lng": -73.979067
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76419633029149,
+                "lng": -73.9773751197085
+            },
+            "southwest": {
+                "lat": 40.76149836970849,
+                "lng": -73.98007308029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a31b679255ca8ea8acf1f747519e8f93fdc472e3",
+    "international_phone_number": "+1 212-621-3000",
+    "name": "Burlington House Area Rugs",
+    "place_id": "ChIJ2RvDlflYwokREQq6X0GzQXg",
+    "plus_code": {
+        "compound_code": "Q27C+59 New York, United States",
+        "global_code": "87G8Q27C+59"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJ2RvDlflYwokREQq6X0GzQXg",
+    "reviews": [
+        {
+            "author_name": "Pedro Castillo",
+            "author_url": "https://www.google.com/maps/contrib/111180616582342565804/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8v-IOiG7ujw/AAAAAAAAAAI/AAAAAAAASTc/QhaTDUwSEx4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1554488146
+        },
+        {
+            "author_name": "Alejandro Savino",
+            "author_url": "https://www.google.com/maps/contrib/102025724217586286239/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--JCS9F1VKko/AAAAAAAAAAI/AAAAAAAAADo/y7uA1GmtRyU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1541384935
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8665404251397818897",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "1345 6th Avenue, New York",
+    "website": "https://www.burlington.com/b/rugs-68961.aspx"
+}

@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 17G",
+            "short_name": "# 17G",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "245",
+            "short_name": "245",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3242",
+            "short_name": "3242",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">245 E 87th St # 17G</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3242</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "245 E 87th St # 17G, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 860-5560",
+    "geometry": {
+        "location": {
+            "lat": 40.778883,
+            "lng": -73.9513692
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7801247802915,
+                "lng": -73.95009876970849
+            },
+            "southwest": {
+                "lat": 40.7774268197085,
+                "lng": -73.95279673029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f80be95dea407dd08a7af32a9f2694e0cdbc2cef",
+    "international_phone_number": "+1 212-860-5560",
+    "name": "Phobia Center",
+    "place_id": "ChIJzdBqFLtYwokRZ3hvLggm03c",
+    "plus_code": {
+        "compound_code": "Q2HX+HF New York, United States",
+        "global_code": "87G8Q2HX+HF"
+    },
+    "reference": "ChIJzdBqFLtYwokRZ3hvLggm03c",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8634286727180023911",
+    "utc_offset": -240,
+    "vicinity": "245 East 87th Street # 17G, New York"
+}

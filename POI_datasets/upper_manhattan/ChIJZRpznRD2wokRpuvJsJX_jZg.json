@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Malcolm X Blvd, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 360-4512",
+    "geometry": {
+        "location": {
+            "lat": 40.800034,
+            "lng": -73.9514616
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8013453802915,
+                "lng": -73.9500278197085
+            },
+            "southwest": {
+                "lat": 40.7986474197085,
+                "lng": -73.9527257802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "508d4228f9c0f21e1441430570de5522b518897d",
+    "international_phone_number": "+1 646-360-4512",
+    "name": "Black Ink Gallery",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 9:00 PM",
+            "Tuesday: 12:00 \u2013 9:00 PM",
+            "Wednesday: 12:00 \u2013 9:00 PM",
+            "Thursday: 12:00 \u2013 9:00 PM",
+            "Friday: 12:00 PM \u2013 12:00 AM",
+            "Saturday: 12:00 PM \u2013 12:00 AM",
+            "Sunday: 12:00 \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112023597217797990357/photos\">Roneisha Gale</a>"
+            ],
+            "photo_reference": "CmRaAAAAgyXhN5aIqsPx4cVBerNLW_sTdXI-MMehdK2eRMeJNf9VISf28D2eeJh2Sh5rRUvO52tbLimlyxCi_NZ8sr0mKDtNDXhSNxOWPVlIFq9c9J3mxEtM77oZUKIwRju_Uum9EhDa5m3Z1V7083bkwYKmaxS7GhTCm_kel6CtVt2nS9MXXuS7USVZCw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107969865575909676566/photos\">Jerae Epps</a>"
+            ],
+            "photo_reference": "CmRaAAAAS6OdBuEjlWEkyZYXW0VoMcxcVow6Sl5sVFwBIzfhp_SbRvKvF7t8m0fgYRTtMikJHHkPJTONA1rVAG0uEQpygME3Eu0Wenq5YrBDPkFyEba_FyMJmqbSwRAWIYLuAHHOEhDllUCzGnP9DIjJ1M2gbY7sGhSFAD4axPaNUrUbrjLfZAPXEBxR3Q",
+            "width": 3024
+        },
+        {
+            "height": 1693,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106396910026244157622/photos\">Nikia Jordan</a>"
+            ],
+            "photo_reference": "CmRaAAAAIvrTVZHyIoQptveKDfdrOuznU_5I4id7uikmQfcvtTY62nskBnaHPZVsJGxJ8keD2V7m4BYNgp82fByvGjltyrXHvPr7jHYTYDy5q_0Bly99h3p6r_P4Kd0puH3bQqu6EhD--HoL0KvQz_CymI5FLDUXGhTo3bDqr83LCwC16Pf6HjeXet0V6g",
+            "width": 1692
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101105352536858393986/photos\">jhaylan yo main man</a>"
+            ],
+            "photo_reference": "CmRaAAAACmJCeOD4BIr_UPLNvsZBQNiAq0Ncs4Qf-NVly3OUGABnbrlHs7P7yoashF1gjkWubf79XeOUXRqNbQd3Pc0ylRnv4KTF_4zH5gzUN6D4KBllkTVKruvjsUiKyJYbJZ8uEhDFvukG9Fd0cK7rcM0tCRQDGhQeE3y3_H-wc6ifYoyvSebTiwoB6A",
+            "width": 2448
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104571020954018575045/photos\">Chunky Diva</a>"
+            ],
+            "photo_reference": "CmRaAAAAkYNCnO19pzErlJeCTttyoPNDsjKArRbKF2OZJrPXajAKlHslW9mYc-sE_8GLq-EI5N0IuJMu2d4KTjA4ZpAYEKrXJR1M69AarZny9j90VvKzhNAwlXTGYEmGags7qV5CEhDQwFb4aoNkcKj53s7HEayEGhQ3xPslmTcWMed1J1a6SLPXJBctYQ",
+            "width": 1080
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115346297797852416028/photos\">Legendary M.C. El Bee Boatright / woods</a>"
+            ],
+            "photo_reference": "CmRaAAAA4uIjqheNMM9HCB0sTuLs_FSSUtAj96qhFoGLcG1lqN_2YrvT9UuFixDK5SkmeFAA15ITaZ-WjIH-keTKPMbPhySippPj7BauC2dlU_YUDbsDToZQBoQZ0O8TVlnlzDdqEhBc-tTI0MzRBx_q0cfDSR10GhQh0HHV0bLTStOezaLUTeVbHzqBxw",
+            "width": 1200
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100836916977428069973/photos\">Brooklyn Nimoh</a>"
+            ],
+            "photo_reference": "CmRaAAAAjBO081LvsElUsuw5WiRrkQIhVXsBzvUDPohYuwrdaqe_cHisBDhbAczBLqXGWeHV9DLKsPfZf-5mgV1pG3WEOvJn6EgU6XcNfh-Bkynn1uHzUa6rCAKtpdGKyr224bpJEhCwGLMGND39X0bvp87qiQW6GhRCoJeYrfRroAJOpBeLqeM2woV17w",
+            "width": 3024
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106396910026244157622/photos\">Nikia Jordan</a>"
+            ],
+            "photo_reference": "CmRaAAAAeQ9qvW9kIb51ZWSZ9AjiJUO9_-ghG9TLdMCgoj0f2UFTBsep4b0Ydh3dreP7bOoS7q_EfJ-DVD7rOnIwthupqrcRxx8dZyFH3Low767WHY1OVNUGjZIC5JoEC-REzWMgEhC6FpzoD73lKIHMB7rGeS_mGhTXvwsZ0rWspuqV38J7xLBHbRcaEg",
+            "width": 4160
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100836916977428069973/photos\">Brooklyn Nimoh</a>"
+            ],
+            "photo_reference": "CmRaAAAAGLAkJsJM0z_BJklgR1xsSFLyXZN5m2i2uk9pGG8V3f7n3b7M3HRZFlC2MvLQ4essvdsPGQDIkcP7XT2x2M9Bv3Xb6HTv37zXUenOK6esWI6VdYnDtxysIg7aBw9JB9e3EhAnoDwQny6ww36Qw7au_AaTGhQniL6E5X_13hjsTdcff9OJx0S67Q",
+            "width": 2268
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107233488207729344512/photos\">Kareem Montes</a>"
+            ],
+            "photo_reference": "CmRaAAAAg52WfhwG0u-8wXI8N_YGznAa2E3U5QpFmsV5_Jo5OJW5xnpSkvOjPRvbQQU77C6s3GC2ylvQGzGQ2qtTRa3eRwD9Z_vVpUqSh3lcO8TLIOLzLeBBLRtsZAh0Gag52K13EhC-r_gp5GqOAieuMlkWMPS4GhTKfm8zci47F-bsHMwu-JGVSiCA9g",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJZRpznRD2wokRpuvJsJX_jZg",
+    "plus_code": {
+        "compound_code": "R22X+2C New York, United States",
+        "global_code": "87G8R22X+2C"
+    },
+    "rating": 4.2,
+    "reference": "ChIJZRpznRD2wokRpuvJsJX_jZg",
+    "reviews": [
+        {
+            "author_name": "Regal Sadie",
+            "author_url": "https://www.google.com/maps/contrib/113860700220152321702/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xDAtH3t0-1I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfbsO_ugOT0vmSzLs_iJkWgNj_tOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "IT IS A FILMING STUDIO -- NOT TATTOO SHOP! I wish people would understand this. I live around the corner and the only time it is ever \"open\" is when they have a camera crew inside filming. The real location is in a dump on 125th. Also some of the \"Artist\" don't even work for the company and are just on the show while working elsewhere. It is all for TV!",
+            "time": 1559437938
+        },
+        {
+            "author_name": "Yasmin Vega",
+            "author_url": "https://www.google.com/maps/contrib/118321759130740355473/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-13EVbk59cvI/AAAAAAAAAAI/AAAAAAAABII/z2n228dCvvY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The shop was closed while we got some great pictures out front we were hoping it was open at the time we later found out the other shop was open got Amazing pics out front.",
+            "time": 1553639882
+        },
+        {
+            "author_name": "Brooklyn Nimoh",
+            "author_url": "https://www.google.com/maps/contrib/100836916977428069973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-u-m7KlVgbM0/AAAAAAAAAAI/AAAAAAAAM3g/fak0YOLQB0s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Had wait a while for artist but it was definitely worth the wait my sister-in-law got a great and amazing tattoo from fresh definitely go get tatted at  Black Ink on 113...  Oh p.s don't go expecting any of the cast members that you see on TV show you'll be seriously disappointed!",
+            "time": 1526579692
+        },
+        {
+            "author_name": "SOPHIA VALDES",
+            "author_url": "https://www.google.com/maps/contrib/109620369131533178815/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-G55irFHg0GY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rec3Y-lYBk7iLAaGUADORix7nApeA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Would love to get a tattoo",
+            "time": 1551064398
+        },
+        {
+            "author_name": "InterStateKeem",
+            "author_url": "https://www.google.com/maps/contrib/103736562704847645599/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Tntcb9TniR8/AAAAAAAAAAI/AAAAAAAAAPg/B8miBxUxItI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Sucks ass why have a shop if it's never open & non of the artist,  you see on tv & want their work is never around or at the shop .  The other guy shop is always open , I think his name is Puma & the Art2Ink shop . His artist is always there & always open Puma & his shop & artist at Art2Ink are great. Forget BlackInk it's About Art2Ink , they always there & great.",
+            "time": 1531059816
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10992723283862481830",
+    "user_ratings_total": 88,
+    "utc_offset": -240,
+    "vicinity": "55 Malcolm X Boulevard, New York"
+}

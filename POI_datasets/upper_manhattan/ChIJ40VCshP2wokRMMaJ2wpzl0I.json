@@ -1,0 +1,266 @@
+{
+    "address_components": [
+        {
+            "long_name": "220",
+            "short_name": "220",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 121st Street",
+            "short_name": "W 121st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">220 W 121st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "220 W 121st St, New York, NY 10027, USA",
+    "formatted_phone_number": "(347) 815-3720",
+    "geometry": {
+        "location": {
+            "lat": 40.80647199999999,
+            "lng": -73.9511952
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80796073029149,
+                "lng": -73.9497433697085
+            },
+            "southwest": {
+                "lat": 40.80526276970849,
+                "lng": -73.9524413302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "1df38bbadd56f65e9e95ee45293f871716048c92",
+    "international_phone_number": "+1 347-815-3720",
+    "name": "Renaissance Church NYC",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 10:00 AM \u2013 1:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAwN3P3gsCeAINXhWQQbia6PO92ZihxbJxywbNoiYy91tmzSsazaIv3k8jYcTIismL1YvSuyVJQl-RcTxwFM9YMx1m-tujIuTJou6Zhh3trB8evFVMGwLXOjYo4T-Z3m31EhBY9cl_9_nIO5Bttek7ZT3GGhT21WA6wFKY62IeI1ooks4-zbQINQ",
+            "width": 6016
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115454213166083911466/photos\">Ainz Bainz</a>"
+            ],
+            "photo_reference": "CmRaAAAAHiS_15q9ZPBl0NRYbMyxPe18tQjSgz36ux95oJEogk_3lOMVD-zFolw0CmIDKiV5q09PnHJF31gicmVP7re2VcVrTJ1gyiiHqylzecl9j8M35qsAMnfyTLbNl6igGdJzEhB3a9SV32CAEfYUZisYfdPQGhRVHOgLQK6M-TdPnKGDovfql0nkqw",
+            "width": 3024
+        },
+        {
+            "height": 6016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAu-F-OFl583oxPlJsUWwwvEjdIDCClZ8fJw9SWuXwTHSNJgBOcaKLESKYg-iyRSgDYkdBNJC635AqysaGSSLOxZxRIW7gTyvrwjKsvfPplIqS-Zvf2rbfZhmwjZIcNShdEhCQLo-cC78IWiMr4DUrGYDRGhSDmdR1ODczcaiHF-A1XBVNAduFpg",
+            "width": 4016
+        },
+        {
+            "height": 254,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAIC6MumPBSpcxFDb853z-xDiz8FMFmeOPvCBZOdU2YKLHRPlnDP3tRUaFbf7R0tm_vZQI-qS3r4L17jzQtPQfmRdsybawOmkSySH5IRZ0X-bZSPH_NWJCGuU6hPNq-m1jEhDWVlYfB7Vns2Cmu8VSqTtsGhT973g4cZxuC05xujDp4B-PvZA8uQ",
+            "width": 598
+        },
+        {
+            "height": 793,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAQV7WBV-1kWePtIgk_LNQN7y_064lFmoF19V5qouBNYhO02VtsZxGRzBIIt40dAAP7GqaWKSloew4XYyf0lX3SXuleuXsf_lMLWzZbwc5IVPdNGkV_GmvKkwKQROWKQT4EhBs7voK73XfyO7Ugwf2M98QGhSGzVn1QP-LMP8IJNDBhqmfiHPA2Q",
+            "width": 2048
+        },
+        {
+            "height": 4016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA_fY_Lqj1BTwvDf08xYPIvZrhAH5VCz7kSdhaiXKC12EjjTDFtk9zvdObpVEFPRnthhezzlmNYobDxmAam524hHWea8XC0uySEdXQaAV4J5M_9m_3r3HzR7flu1h0jiarEhDLELmh6WZOX7J0THdrgmMnGhQCreP2uwFY6ZiXWBoX0PsRO51hAw",
+            "width": 6016
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA79tZLBpSLWG2JGh-O5MAYakzMRX1bwayID_DtvAbxjvPk9lMpEmnEJsB3SWDLxMz-yvqLVc1m2WcMDer_pgnmk1iYF4d4YwE4RxSNYIfBI7ttZqavURNZxhh-xjv2BjzEhAoO2UcLS_zQuXL8BFt2xv7GhT6CGmV9zzoaXd9PDbXAqp5twqqyg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105938006000537928954/photos\">Brian Dillard</a>"
+            ],
+            "photo_reference": "CmRaAAAA7PiXPBo8cPNtdAzqBN2_862h-9nMhdE1hjn7po9EREHExHymOqZmf_FvHodQJZTSHeJl1gn_vPJnlHgwrBKiB4-QfRXXFSnEuY0J5K7k3wjD-LQ0o4DN_OpJhZDZg_urEhAUOcKwajEf591H2m77Q6V8GhRZ3K9C2MuYgjB5wWNQlzah4bmvjA",
+            "width": 4032
+        },
+        {
+            "height": 6016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100052596314733612105/photos\">Renaissance Church NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA5M8yWKtdXIg4s04fDqEiop8ELQTQPJmAQPgImmPWPSe0Bb85JLFQnQoPC7zuN8aco1NhXx3YESGPngTWm3zeYPENB-ArRlBMxg2XkRyhYf6HL603a1BMQk_PeufmEjVKEhD954emVEM_DeDF8PzZyPYBGhS9_PRJVXxateTJXYOHx8bvOsCLaw",
+            "width": 4016
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115454213166083911466/photos\">Ainz Bainz</a>"
+            ],
+            "photo_reference": "CmRaAAAAmKzUShFvillmxsnXZEYTlPBufEY9_XtRpea6nYJfMHDqBVpJaavUPNHbanmJIqLLt9wi1ypuRkHEY3NdnPVd5EhjO-hE0QGyfYSia2LVGTAvrT8sfwYaDBnjC5GwoEAPEhBP5TgRBBqqoAWpD9I4mAdzGhTSPAqrEb1WQblsU_VT5Fjz4gUsAw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ40VCshP2wokRMMaJ2wpzl0I",
+    "plus_code": {
+        "compound_code": "R24X+HG New York, United States",
+        "global_code": "87G8R24X+HG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ40VCshP2wokRMMaJ2wpzl0I",
+    "reviews": [
+        {
+            "author_name": "Roman Brown",
+            "author_url": "https://www.google.com/maps/contrib/102546006340223215824/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4PbHKF04OQk/AAAAAAAAAAI/AAAAAAAAAAc/wafGnJZA6I4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I visited this unique church when Housefires the place performing, I think it could of been last month. I had an fantastic time and really felt Jesus was around. I bought the CD and spoke for some amazing people who Like Our Lord and Messiah with True Hearts.",
+            "time": 1559467829
+        },
+        {
+            "author_name": "Kwame Williams",
+            "author_url": "https://www.google.com/maps/contrib/104299658738631706254/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SF_ruHjgZw4/AAAAAAAAAAI/AAAAAAAAAFQ/XnDUq60Ck_c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Come as you are to this family and community friendly house of worship. The pastor boasts an amazing service,  while offering a plethora of fun and engaging activities. Feel free to sign up and be a part of this ever growing and exciting church.",
+            "time": 1556837375
+        },
+        {
+            "author_name": "Jade Watkins",
+            "author_url": "https://www.google.com/maps/contrib/105250855200978553864/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wLPuTrI2ihQ/AAAAAAAAAAI/AAAAAAAAAB8/0HSwKDWttWY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Super welcoming church with easy going people. If you want to meet people you can, if you want to sit and watch you can. They make it easy to participate as much as you're comfortable with!",
+            "time": 1552710546
+        },
+        {
+            "author_name": "Samantha Hinkle",
+            "author_url": "https://www.google.com/maps/contrib/105458073010542855902/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uO8vpPHO3_Q/AAAAAAAAAAI/AAAAAAAAPuk/gyHYsshKxVo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great church, a must visit for Harlem residents looking for a church community. Very tight community and great place to grow spiritually. Worth checking out.",
+            "time": 1547972837
+        },
+        {
+            "author_name": "Kendra Thomas",
+            "author_url": "https://www.google.com/maps/contrib/115549517619298707159/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-vFBLUYHRGs8/AAAAAAAAAAI/AAAAAAAAJXQ/r7uhPSX-n-s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Love here alot clean and lively and very nice friendly.",
+            "time": 1556644585
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4798430418456659504",
+    "user_ratings_total": 26,
+    "utc_offset": -240,
+    "vicinity": "220 West 121st Street, New York",
+    "website": "http://www.renaissancenyc.com/"
+}

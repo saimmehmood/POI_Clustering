@@ -1,0 +1,185 @@
+{
+    "address_components": [
+        {
+            "long_name": "66",
+            "short_name": "66",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5832",
+            "short_name": "5832",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222-5832</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "66 Green St, Brooklyn, NY 11222, USA",
+    "formatted_phone_number": "(347) 395-0346",
+    "geometry": {
+        "location": {
+            "lat": 40.7331044,
+            "lng": -73.95927929999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7345623302915,
+                "lng": -73.9579475697085
+            },
+            "southwest": {
+                "lat": 40.7318643697085,
+                "lng": -73.9606455302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a03618bacac1335fc4d228c6431093f790b5426e",
+    "international_phone_number": "+1 347-395-0346",
+    "name": "WMA",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 6:00 PM",
+            "Tuesday: 9:30 AM \u2013 6:00 PM",
+            "Wednesday: 9:30 AM \u2013 6:00 PM",
+            "Thursday: 9:30 AM \u2013 6:00 PM",
+            "Friday: 9:30 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106996414975403368086/photos\">WMA</a>"
+            ],
+            "photo_reference": "CmRaAAAAsPMrXnA30b1TkI23oj6XBMIPrP-IVN2jKdWvxVPV-330orQy_-LM-eappVR5CFRl4ER9SSFJY3lAhlTkHlrmO2ucGp0KgxVTGNXqIJW90nm8gaDccwvKPBOP8FGfWEEvEhCztKfEEJJwpFtV5FX2uJpLGhTzXnPNIbZBJqKpGWBnJhfIFxc9BQ",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJtcqa4D9ZwokRZZBAzJXIWhU",
+    "plus_code": {
+        "compound_code": "P2MR+67 Brooklyn, New York, United States",
+        "global_code": "87G8P2MR+67"
+    },
+    "reference": "ChIJtcqa4D9ZwokRZZBAzJXIWhU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1538762768402911333",
+    "utc_offset": -240,
+    "vicinity": "66 Green Street, Brooklyn",
+    "website": "http://wma.agency/"
+}

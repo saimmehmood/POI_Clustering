@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "261",
+            "short_name": "261",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">261 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "261 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-7000",
+    "geometry": {
+        "location": {
+            "lat": 40.8100654,
+            "lng": -73.9502535
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81131173029151,
+                "lng": -73.94898296970851
+            },
+            "southwest": {
+                "lat": 40.80861376970851,
+                "lng": -73.95168093029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "885c0e0184b7cb771062e715aa72ec34b91a206b",
+    "international_phone_number": "+1 212-222-7000",
+    "name": "Blick Art Materials",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAoYMYrqTUmGv2Jq-AbwXTdaaLcnzBKZTkVOxrOXRBvaWfFD7HMQg9_IedHpTrphTIHi9rdZbLqAS4KjIwKJ_WJ80xz5QYFWkXChi49GgyG6uqm7Q1Xoa-j-ul320_tk8iEhCYAC8jaej3HVftqe0VUoZLGhTaMlMlZrHcJtdCfIemlF1EuD13DQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115748203638620031897/photos\">Leeta Gato</a>"
+            ],
+            "photo_reference": "CmRaAAAAh1U_JDZNI3l00WSEQ80gioBJTe3y0d0x8aRt75olcqA6nPwMGw18AZpvhyoI4f4tnHMj00O-lbSNOJsyi45cFbX76rMId88anvYGJA5HC6Rfu2YkA0mgIufgIP-JpjD1EhDZwDuvHaoPg5MHf0zX13IOGhSpZ3s6htRxucLnes_F-8FdJ_PDOA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117160824309901394475/photos\">I&#39;AM Ummu chat with you plus reviews</a>"
+            ],
+            "photo_reference": "CmRaAAAAOJm-cXB_a3PBOMWkOuIvS4F0izw4tZkllCQQHTpv5KfbZEA65CBGaTlW0DU9YNkUxXJOqfgp_9XNStFviu28qdid0n8cvWEVR0n6UTq01dr2_98Z5eRUb-Zy7yYKrGlZEhCbiSLZxrdL-Ruc3n-DoVcKGhQYoVJI4oTPavqzH7c250UCnsrmFA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAA0dkZ9Zacsf54dHzJJC7aq7Lghytmxj8W-kJLg2lSfxHe44DKY8F6LHctXvU5ZlwtQrS9YZY9EH452qfBArD2mGQy8o-9F-PZ09Vp2SkGKK8QtuDJhk0N46sVuf9hqovBEhAC1XsJMCnKx_F7GK8-xTuTGhSddIc7lMcK-ngVcdTXPrTJnuUkyQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAeCpZo827PczThztTzTn01JWmN8FOMyNeEQIfZVo9QMYbtxZLUnNay60hv0VdAYfqRTAB2Xs814d4eASDwS7LKZ6ooX6fsrlfEnbI0DduuV4oXn-7jYlWn9pUmJtunQLOEhBYEngQwrqAHHh8CWQpy28NGhRUCvgwaxjXSZp_h3-kAbY_9pig-w",
+            "width": 4032
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105235998017701317869/photos\">takashi harada</a>"
+            ],
+            "photo_reference": "CmRaAAAAlW9gwYE3Z8uipzuSC_yJnKuBtoKe2BSE8vfiWGvql-v0zDwwcLEbqKNYxduZFHfisj7poblKgtmV9yTw-T9N0zOPuBxqXd82rMN_MW7zs2N-O_wIg1YviiA_2pMmi3_wEhBSclYC0vQZtAiL_YssFxAiGhQ0XaitePkhI6doncvWwmDiqHmseg",
+            "width": 1600
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105235998017701317869/photos\">takashi harada</a>"
+            ],
+            "photo_reference": "CmRaAAAAnVnoP7O4HwLmz98KlFN-PJ2zMKvBWEcHJClxGk31Ckv7EzALtP1u389gR4TRC_96ILvC73mBBL2QpLWs1BR6NHNXlRZoLz5mXgmE62xiHbr2k6kfZ5DjoDAebj5xZHlxEhCF03Vw4TOYldPHcgQoQW6gGhT3UQK3VXQ-Qs_fi2e0rwXzWIaCLg",
+            "width": 4160
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117913961904946612936/photos\">Zawad Faisal</a>"
+            ],
+            "photo_reference": "CmRaAAAAiCoQgmeyHY9TLnUu8LZaXogWKrmtYv1VRiCaS6FcPR34J9a6Y7yDG3RfVwrPKBjb7pYIhu7STzibHiRwuzOsihK4HVd3NylIdH1j7VkAa8kr5g-yMKULzVAOhrGg8VPJEhDmJH7mL66s3tlFOIoB0yc3GhQlQvtX9fYPqKX8nISnCZ23h2MS7g",
+            "width": 3456
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101305727001909192087/photos\">Andrius Jankauskas</a>"
+            ],
+            "photo_reference": "CmRaAAAAr718JGZmGnJy_o6F-rYt0H1uWUFIaljIZMs1upa1bEiUYGphXP5YUVv2riDzMPNXhCFKT_D5UJpPuj23PvaGgnVFdmmvRZ_COnxEEc4wxJhD0YAophFFpnh6txdrJ307EhBSjs7L_z49ErXjYNjQ9dDuGhRyeIYJhkFFcHjgROTbUUH1hnS2uA",
+            "width": 2610
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116462426235660113217/photos\">Charlton Davenport</a>"
+            ],
+            "photo_reference": "CmRaAAAAFHKbFl_jTczsGqiL1OJ9D6r-mTnAvt8dSl4dOG30AFR8NRIHQaEajbYF4Ht0JQ3A6qa3J4AF4JX_yuY9w7UHzyfeLIxbP19bn25KqQ2v8d8CYNHK1_d0C31M6cGIknw8EhDbiHcGFLL3nqbSKjV5q16rGhS7okSls1Qp6m_cQ8uSfgd8ZtL3HA",
+            "width": 2268
+        }
+    ],
+    "place_id": "ChIJ2_DOLm32wokRMN573HTuOXo",
+    "plus_code": {
+        "compound_code": "R26X+2V New York, United States",
+        "global_code": "87G8R26X+2V"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ2_DOLm32wokRMN573HTuOXo",
+    "reviews": [
+        {
+            "author_name": "Sophia Guzman",
+            "author_url": "https://www.google.com/maps/contrib/116051093909228829751/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Tsoitc-2Xpk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reikRTICIB6OC5g-L2lHZIHjYudww/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "I work for a nonprofit organization in New York and reached out to Blick Art Materials for a donation of Stonehenge paper for our arts workshops. They generously donated 20 sheets for our camp and now we can make awesome art with our campers! They were very nice and extremely helpful.",
+            "time": 1562741824
+        },
+        {
+            "author_name": "Jessie Jensen",
+            "author_url": "https://www.google.com/maps/contrib/116585920332214817295/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bGp50LGlU_0/AAAAAAAAAAI/AAAAAAAAAAk/TzL8fPMwqrU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Friendly staff, flat back parking, competitive prices. They have all kinds of art supplies. I buy from them many of the stuff I need.",
+            "time": 1562740348
+        },
+        {
+            "author_name": "bry bry",
+            "author_url": "https://www.google.com/maps/contrib/116964503682964190585/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2fmbNwAtbuc/AAAAAAAAAAI/AAAAAAAAAEk/cOr7-5fHIhM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Walked in, great selection and organization. Staff was on point and was super helpful in assisting me with looking for things, suggestions and how to help with the project I was working on and even with deals/discounts. I\u2019ll definitely be coming back here when I\u2019m on my Picasso flow",
+            "time": 1560318092
+        },
+        {
+            "author_name": "Ron Kagan",
+            "author_url": "https://www.google.com/maps/contrib/118219818024850918118/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XhccZUoSjLY/AAAAAAAAAAI/AAAAAAAAUJI/AKtmhHZdXLo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely, helpful, not pushy employees. Great inventory. Wish it had better temperature control / ventilation but otherwise, it's a fun spot to discover novelty items that make great gifts.",
+            "time": 1560122281
+        },
+        {
+            "author_name": "David Rosensaft",
+            "author_url": "https://www.google.com/maps/contrib/105587223238578682116/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bptRzsXcFP4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcMQ4CyEvOt0M2wZIdOI0H3d52clA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Always an outstanding experience.  Superb selection of interesting artists' materials.  Helpful and attentive staff.",
+            "time": 1561842258
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8807332731982437936",
+    "user_ratings_total": 316,
+    "utc_offset": -240,
+    "vicinity": "261 West 125th Street, New York",
+    "website": "https://www.dickblick.com/stores/new-york/harlem/"
+}

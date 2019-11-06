@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "213",
+            "short_name": "213",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7505",
+            "short_name": "7505",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">213 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-7505</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "213 Madison St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.71291340000001,
+            "lng": -73.9892241
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7141666802915,
+                "lng": -73.98786236970848
+            },
+            "southwest": {
+                "lat": 40.7114687197085,
+                "lng": -73.9905603302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1bdf8fb9b55b1028ba3390182336ce876be7d8b8",
+    "name": "Actors Federal Credit Union",
+    "photos": [
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116584654608045002218/photos\">ndukwe agwu</a>"
+            ],
+            "photo_reference": "CmRaAAAAWw06XcRzPJI2ve2aa4O9ILkYfChfeYcqldH5NIqwmtNuaSbtkMHWsGXn5rY6gA2ymf0N-D364kokxrxg6DDeTuP-TSMtvGCCHcacbIviOgNpOUYy7oHWkX8FtNE2-ZW0EhD6_YnQ9dXfe9rwCS2tHZhTGhTZCEjvBtd-lXiWwONAaG-nJ1TBcQ",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJDWjJYClawokRbmzc6QWcrjs",
+    "plus_code": {
+        "compound_code": "P276+58 New York, United States",
+        "global_code": "87G8P276+58"
+    },
+    "rating": 5,
+    "reference": "ChIJDWjJYClawokRbmzc6QWcrjs",
+    "reviews": [
+        {
+            "author_name": "ndukwe agwu",
+            "author_url": "https://www.google.com/maps/contrib/116584654608045002218/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Jz9OhDWmad0/AAAAAAAAAAI/AAAAAAAACSM/-LJ5Eksy70w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Credit Union for actors",
+            "time": 1497397571
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4300546243397708910",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "213 Madison Street, New York",
+    "website": "https://www.actorsfcu.com/"
+}

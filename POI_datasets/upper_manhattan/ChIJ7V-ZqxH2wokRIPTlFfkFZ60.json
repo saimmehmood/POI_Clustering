@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "113",
+            "short_name": "113",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2521",
+            "short_name": "2521",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">113 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2521</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "113 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 531-0441",
+    "geometry": {
+        "location": {
+            "lat": 40.8025045,
+            "lng": -73.950318
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8037754302915,
+                "lng": -73.94902671970848
+            },
+            "southwest": {
+                "lat": 40.8010774697085,
+                "lng": -73.95172468029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "0cf91dc4cab526896739e3af27ae0c9717bd7726",
+    "international_phone_number": "+1 212-531-0441",
+    "name": "Inner City Management",
+    "place_id": "ChIJ7V-ZqxH2wokRIPTlFfkFZ60",
+    "plus_code": {
+        "compound_code": "R23X+2V New York, United States",
+        "global_code": "87G8R23X+2V"
+    },
+    "reference": "ChIJ7V-ZqxH2wokRIPTlFfkFZ60",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "local_government_office",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12494962258535117856",
+    "utc_offset": -240,
+    "vicinity": "113 West 116th Street, New York"
+}

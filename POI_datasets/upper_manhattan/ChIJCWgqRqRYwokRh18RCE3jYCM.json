@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "4b",
+            "short_name": "4b",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "179",
+            "short_name": "179",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 93rd Street",
+            "short_name": "E 93rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">179 E 93rd St #4b</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "179 E 93rd St #4b, New York, NY 10128, USA",
+    "formatted_phone_number": "(917) 405-9097",
+    "geometry": {
+        "location": {
+            "lat": 40.78377709999999,
+            "lng": -73.9514176
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7850388802915,
+                "lng": -73.95013226970849
+            },
+            "southwest": {
+                "lat": 40.7823409197085,
+                "lng": -73.9528302302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ec246c5a6f17740f342efbeb70036e1a60dd9ba1",
+    "international_phone_number": "+1 917-405-9097",
+    "name": "Korean Chefs Association of America",
+    "place_id": "ChIJCWgqRqRYwokRh18RCE3jYCM",
+    "plus_code": {
+        "compound_code": "Q2MX+GC New York, United States",
+        "global_code": "87G8Q2MX+GC"
+    },
+    "reference": "ChIJCWgqRqRYwokRh18RCE3jYCM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2549287309079043975",
+    "utc_offset": -240,
+    "vicinity": "179 East 93rd Street #4b, New York",
+    "website": "http://www.kochefusa.com/#!contact/c23a6"
+}

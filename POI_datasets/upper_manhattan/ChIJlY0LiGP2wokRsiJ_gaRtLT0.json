@@ -1,0 +1,334 @@
+{
+    "address_components": [
+        {
+            "long_name": "3486",
+            "short_name": "3486",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5611",
+            "short_name": "5611",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3486 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5611</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3486 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(646) 918-6207",
+    "geometry": {
+        "location": {
+            "lat": 40.8246962,
+            "lng": -73.95141199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82607568029151,
+                "lng": -73.9501319697085
+            },
+            "southwest": {
+                "lat": 40.82337771970851,
+                "lng": -73.9528299302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "ff32c5a0d6a23854ef439e47ae915194366afd95",
+    "international_phone_number": "+1 646-918-6207",
+    "name": "Texas Chicken & Burgers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 3:00 AM",
+            "Tuesday: 11:00 AM \u2013 3:00 AM",
+            "Wednesday: 11:00 AM \u2013 3:00 AM",
+            "Thursday: 11:00 AM \u2013 3:00 AM",
+            "Friday: 11:00 AM \u2013 4:00 AM",
+            "Saturday: 11:00 AM \u2013 4:00 AM",
+            "Sunday: 11:00 AM \u2013 3:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 583,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAAwYB_kevHYKukUVDfHXIEdOZgp4JuLV-TtN7yCPP9PrCLMzq_kyHf0HYMtlv4lSp9_cGGkO-8Eboq55cgFDysQUZYBNnAa2C5x9wXfvWqUGnnSN-yPqDyIhbtAeJLAjGVEhARLcIyjkv9bGhOlOpFnchmGhStYOapaE7MxTtbWQLUmFL-aaG3UQ",
+            "width": 1334
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101451251457664323968/photos\">Beryl Reid</a>"
+            ],
+            "photo_reference": "CmRaAAAAGlgInn3DPyyjvEr6-tt2fg5AUTjtJKsN9yxOgNE2Zv6R45dXfMNxIVWeZAttJwo9lDXf-zNxmVm8G-tvWQtFj8a4jCcDbs0vYEPyvf_PpBzCKy3-d16en6mvNslcyFTYEhD5aaip4DN77mgyiRLpT7p7GhQGkUpdZxAYQqbDGWQcIhT7LTWqBw",
+            "width": 2992
+        },
+        {
+            "height": 638,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAAIQJr3SFtPhrRgYNvgPmRRHKODxn8B5HRTRC99HirZo_x1-cgVTRq3B6MaiuRIUaA1fKPjLMNGsyVpbWVCgYgQE07MUa-zrXqaTsYrUMJZB0OStY8O-7vxBMd9Vock8JcEhCbfy5oCOyNScKwEck7F1OaGhTSG2C81MDtcLPYgJAXGDOGA0QQKw",
+            "width": 801
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102766871302965814394/photos\">Juliet Germanotta</a>"
+            ],
+            "photo_reference": "CmRaAAAAeI_yGe8yJPRFrujyxGuGdMPcuSPp7rVDGPCR-G4bK63jTjNHoUariYDrF4DZd56suRMK3eUNvKzMZ8efDeP_4PoM9owfc-fNzivFzzB2wqXzRdhEor477dmgej0mp99QEhBshB6hQ5cBKIdm5RP1rNTbGhRGIEXg4un2zZN-lNtbnOVJE_kW3A",
+            "width": 3024
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAA119t4u64dEtlb_-D_fdLzzCZRdCWb_H-5VwWVDRbMraaKTSSQa7TpGGl7X9cvbmLgOVgbAhdc_ifskZZ14_e_p9cBHYn_HC2Z3CkKQozINx7MxGa7ZiFMSqWj2Wl712qEhAauKeWFOrnHFvRggm-nzsoGhQTi_7j4kayV7yeAu3NHkcIUjRdtw",
+            "width": 900
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102766871302965814394/photos\">Juliet Germanotta</a>"
+            ],
+            "photo_reference": "CmRaAAAAwaHIEWfxhPlU8CYHG0U3V0i_suR_ZFI1t6FY_CH6S9KDlAqWt40HcrUFCB5tgY3QucpJPiyUlPyYtNYrPd5oUS7FySzOL1uOluWz1N9nD_mGdeQQwZX8cRmVwjN_UEsnEhCfDZK8DBBuJta8bx26R2B9GhRC-AfHCyYmFTyuQtD6BbH6es2e6Q",
+            "width": 3024
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAAu_GQixHLOLiDGXCGyNDHqCkv5pDeOHkXoBMoorF7UPN7p_eke6AtbF2LCfBLLZ7PnfyYQSHinXqzR42aec2Tw-LBGftD5sRZylTqZdwz7mdiTEW_Vj4DXIRzawUyHDnvEhB8l2X7i33WUSoVgOe815fGGhTIuORQPxwQzMIK-sN3vMNe4rim8A",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAAjG-IwZ7DsA7J08sTKBaG2GCF_fywHIUoaRYjG6o-o8xJLYW9qJ_CY0ZZe-zorzzSauyZB8-1RYc-FMuT5fysVGyfxf6jTFUhUgANlVXOcXjSAaRqZMraVsaZYombDVbiEhC0ZmE5mC6042rh7536Ykt5GhTBSqE-WtqTspSzjdD8ScUoID3TqQ",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAAVdnMox1TM295u08RYjmFmPaoqag2jbfjWqutMrdDdLN0qQcZIi5VpOkjTFIXtVtxGj4sDMcA84oDL5rrgmqH0Jhjcq0rZjD4eWXue4mESia3leTG32wwCbdsJdqidn44EhBBgj6Of4XZHL9SPIxgABSLGhRGRFs3R9f0goN-DX-TLVpnFuSk7Q",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114379358243478524968/photos\">Texas Chicken &amp; Burgers</a>"
+            ],
+            "photo_reference": "CmRaAAAARHf1ZayY-MszUWOTtp2fF7Co15T15RHJGkpU6wYv9GHSQN8CbYHh3JGn96Np5nMDla5NPfMGYBIU6Y6v_gYIkR4YPiLwMzCeUGZGYy4Mi9Q0pQXR8NZ20zCdNQAg6Yl4EhBxm3nMos1-IauU4GQ061uGGhQP-sqaEp9r-jh34aX5QNYqnlp8dg",
+            "width": 900
+        }
+    ],
+    "place_id": "ChIJlY0LiGP2wokRsiJ_gaRtLT0",
+    "plus_code": {
+        "compound_code": "R2FX+VC New York, United States",
+        "global_code": "87G8R2FX+VC"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJlY0LiGP2wokRsiJ_gaRtLT0",
+    "reviews": [
+        {
+            "author_name": "Purple Unicorn",
+            "author_url": "https://www.google.com/maps/contrib/103134754906928489371/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Eaf_YLrd4W0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcwBZ4ZMcefTQpcqJq3JQg5OU5xMA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "I love Texas their chicken taste best if it is Spicy, Fresh and you eat it with their hot sauce",
+            "time": 1560906917
+        },
+        {
+            "author_name": "Lamar Chavez",
+            "author_url": "https://www.google.com/maps/contrib/107263627953321747587/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-42-VN8Tendg/AAAAAAAAAAI/AAAAAAAAAAk/wq6EnYhTmGk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "A m a z i n g burgers and great fries. Friendly staff. Small, so there's not much seating but such a good place to go for a quick bite or to fill a craving.",
+            "time": 1555491391
+        },
+        {
+            "author_name": "Tearre Williams",
+            "author_url": "https://www.google.com/maps/contrib/118109095497253730663/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-P2oiaaPaMqo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfVetMMifDjkiDyWzM44IQk0M5mUw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Go for some cheap chicken under 4.00 for a 3 piece\ud83d\ude0d\ud83e\udd37\ud83c\udfff\u200d\u2642\ufe0f",
+            "time": 1560097602
+        },
+        {
+            "author_name": "Hafsa Ors",
+            "author_url": "https://www.google.com/maps/contrib/114594556749056046544/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QqobOJHteTM/AAAAAAAAAAI/AAAAAAAAAyE/lUR2QzF-_zU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Average burger with good prices. Friendly and fast service.",
+            "time": 1560452478
+        },
+        {
+            "author_name": "Geno Monroe",
+            "author_url": "https://www.google.com/maps/contrib/105533240316373409283/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UBZzsgh2YiE/AAAAAAAAAAI/AAAAAAAAFMU/0ujVfM1nQJ4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Amazing fried chicken. I had the spicy kind & the flavor was great!",
+            "time": 1557991526
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4408300163580240562",
+    "user_ratings_total": 178,
+    "utc_offset": -240,
+    "vicinity": "3486 Broadway, New York",
+    "website": "http://www.texaschickenandburgers.com/locations"
+}

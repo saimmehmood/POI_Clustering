@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "1234",
+            "short_name": "1234",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1234 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1234 5th Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.79306880000001,
+            "lng": -73.95150009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7945382302915,
+                "lng": -73.95031946970849
+            },
+            "southwest": {
+                "lat": 40.7918402697085,
+                "lng": -73.9530174302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "2b3ce59ed50aa3bd779a97745fe6a353c337dff6",
+    "name": "New York City Department of Parks and Recreation",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:30 PM",
+            "Tuesday: 9:00 AM \u2013 6:30 PM",
+            "Wednesday: 9:00 AM \u2013 6:30 PM",
+            "Thursday: 9:00 AM \u2013 6:30 PM",
+            "Friday: 9:00 AM \u2013 6:30 PM",
+            "Saturday: 9:00 AM \u2013 6:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAeWeDhtEO-148b3aYHI2BhK93w98P8644doevbYpH8_pIa4kTmVQV-u-DWdNHQOrlqeCPs5yOQ9XgXDF1H9E2Vz9DGaMfCy9ta0pzNC4-HOZv9eH4-zITvbZUGFhbBimnEhB4Ub-J37u33pekJ2aOffO8GhS7iNkkTtArzKqv5pImvj7RlePS4A",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAA7atsZoIxZGTBjSSzhXrctBv7ItERoekn6sdAvRHdi0XFnbFdHFDd9xVYL4Su0Ec6DqhaCChT5DB1njbtEbx4puB0rk3ITRa7oBUrwzrhnH0hF8Kp9JZISqJKSaVUilPlEhCuaehxUG1RbUDaCM94E9Z-GhRtyrVR6eiaOEpv4BbW6hNpLVjLpQ",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAogV23OyoVHxGD4hR2L6DpA-fQKnR5Hfxd7buRia9hgWKWdHwllTPrDyO96IEZJnfJiXm9BuCO3J7R1RuBxyei5f8ili55rFT3-8q30Js-cI35ajA_nXpE7VuAhkSoW1aEhBBKHXcXJDL5BfyVKzNkDUMGhRrCZe-wrzB9c2VvpQ5jU3fCc4iQQ",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAABPiA8pO6ytMS0443swLYN5LlUF_jcMyfOciG_4YwU91x9JO0unrlW3NttTvn3Bp5JhfE1m85GRSVAUVtLbBS_GSFtA-DN1b4bkUYEb-V9YAGRHagI5Eqnr7yT0A6PWs1EhCq4LJqU2UGyJgczYzGag-MGhQtscGD-zFzq4FmbKztS31tbkCYxQ",
+            "width": 1932
+        },
+        {
+            "height": 1932,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAUlsUSeNBH3G-TUR0Mac22D1uZR_Nm7O-U_oy7YSU1G1ND54mJuPdrYdwySLx_KSmfbWL8_YZzbbRdwF48cJ-6IgK9-StRaynhAXHOLijVOPPyxgDMVr31h9ns3lRt9rcEhBvRxgs-nBLoS3AvyVZ6ZiPGhQEUo_VbvvGXulE7ITVhOpoo21tWQ",
+            "width": 2576
+        },
+        {
+            "height": 1932,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ7DXacu1icWExM1rMylYWHcSNiglv9Y0Z11_wEjGCWBKcU3Up2bMu8w0YPN0wAn_jc5hxj_lMR2KNr-Q4OZRTFIABLoaVUN-qoYa6ewgGlU4cY0w3qdr1Yh74GqY5RtcEhD4oB4dupSTL5dR9B4zKxKgGhTZcOPik7emJKPqzLAXhJtpJQy5VA",
+            "width": 2576
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAaiIMyWYCDLVLNUke9Qt1XkSApTUS9J6W7HUV3BYYOFVW311y8RaFkZSmhQ_6YeR97Tq8Cr_2JtA1sqG3MDf6qQji6_A6UaBrUjBXohOS9bmzew29kYYX822ZO39KEbrXEhCOeMqEc1iBBx_8ryJqH_WgGhRRoWBpecnb0fS7ZfN7hkOepRch0Q",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAW3zjbPM2oUcsMvPeHN1kgiOtaLc8w54bvCccaVtbgFrn8EtzCJgeEWaVyTFf0hnvpCuMEyJx93gaaKIwYWLblUHH-wQWwi_qdJt199yucdBHDfpq3q1C6K6xNfEaxmmREhA6BjmJRlKP4QH0nMqgwncmGhTKds8NOv0Qws6kC7zqNlddF7l-iw",
+            "width": 1932
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAzKFChfuD6LRRoFmOIhGwAdsK8Tt9hiTl4eauZ4tCEEcj3qXSemLaG7wzZKSivN7E4VGUFhqjKLaoCenIqkwrxKz5bM_WIgM34EuOWLHuMSYJ1cLaCiwrr0T-g9EKt_pYEhAGd0Ub-lzWZvQsNNAlOzJ4GhTPWu2wb33sKtUxVE17NYsf7jIbPQ",
+            "width": 1932
+        },
+        {
+            "height": 1932,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117654382772749761095/photos\">Lillian Mcfarlane</a>"
+            ],
+            "photo_reference": "CmRaAAAAYThXuq3xQ9amC1rulKNsPIRctLV71ZYhSSv68XdtbfGZ9cCe6jil5ntOjkQ-OxiDgN_WGzxCd_KvomrfFHiXH3TeZYH9B2QooTWkSZ3aZwApK1UrJwk2jdynCWDyFXF9EhBV3jWGjBlRvIDZV8IGY7A_GhTRliQba4FpnVUw_NAENvRgQ3L1Sw",
+            "width": 2576
+        }
+    ],
+    "place_id": "ChIJixKvYBz2wokRTl_OIWH09SM",
+    "plus_code": {
+        "compound_code": "Q2VX+69 New York, United States",
+        "global_code": "87G8Q2VX+69"
+    },
+    "rating": 4.6,
+    "reference": "ChIJixKvYBz2wokRTl_OIWH09SM",
+    "reviews": [
+        {
+            "author_name": "Solange Cary",
+            "author_url": "https://www.google.com/maps/contrib/100424059919068721028/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-QFG-XcLfBZo/AAAAAAAAAAI/AAAAAAAAAAo/iWklxU-hs0s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Took my family today to check this park out.  Nice little park.  We found a parking spot quickly. The trail is a nice short trail with flat ground. The park is nice and shaded by the trees. We found a rock slide the kids were able to play in. Overall it was a nice 20 minute walk.",
+            "time": 1542375699
+        },
+        {
+            "author_name": "Maureen Packer",
+            "author_url": "https://www.google.com/maps/contrib/108897516314269256800/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OooQS_Cseg0/AAAAAAAAAAI/AAAAAAAAAGM/Rsi4WKIm-n8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Conservatory at 106th street is beautiful this time of year.",
+            "time": 1555767626
+        },
+        {
+            "author_name": "Shea Sylvester",
+            "author_url": "https://www.google.com/maps/contrib/114914652402416675666/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qYCtV_xlKmM/AAAAAAAAAAI/AAAAAAAAAV0/qR6J67wL8dM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Very nice",
+            "time": 1538606313
+        },
+        {
+            "author_name": "Dre Ward",
+            "author_url": "https://www.google.com/maps/contrib/101506847102346499715/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_LiZhlXrNJE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfIIrLAwZLhAEk8h7CDgDxFwQ8aoA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "",
+            "time": 1541729526
+        },
+        {
+            "author_name": "Babygirl bovell",
+            "author_url": "https://www.google.com/maps/contrib/114150948859121306607/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-sw6lKx2psuM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re5lRWbMJmRMuT9noeaM45NRmjtug/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1525897478
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2591245858637766478",
+    "user_ratings_total": 10,
+    "utc_offset": -240,
+    "vicinity": "1234 5th Avenue, New York",
+    "website": "http://www.nycgovparks.org/"
+}

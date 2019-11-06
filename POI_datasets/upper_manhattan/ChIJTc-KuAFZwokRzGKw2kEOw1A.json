@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "330",
+            "short_name": "330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "330 Madison Ave, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 759-5300",
+    "geometry": {
+        "location": {
+            "lat": 40.75315459999999,
+            "lng": -73.9793758
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75443953029149,
+                "lng": -73.97788896970849
+            },
+            "southwest": {
+                "lat": 40.7517415697085,
+                "lng": -73.9805869302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8adf170dc013ffcdbf5a6352455256290e21ab23",
+    "international_phone_number": "+1 212-759-5300",
+    "name": "Peters & Associates",
+    "place_id": "ChIJTc-KuAFZwokRzGKw2kEOw1A",
+    "plus_code": {
+        "compound_code": "Q23C+76 New York, United States",
+        "global_code": "87G8Q23C+76"
+    },
+    "reference": "ChIJTc-KuAFZwokRzGKw2kEOw1A",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5819510819497468620",
+    "utc_offset": -240,
+    "vicinity": "330 Madison Avenue, New York",
+    "website": "http://www.petersandassociates.com/"
+}

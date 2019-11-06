@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "205",
+            "short_name": "205",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1562",
+            "short_name": "1562",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4004",
+            "short_name": "4004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1562 1st Avenue #205</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1562 1st Avenue #205, New York, NY 10028, USA",
+    "formatted_phone_number": "(646) 480-0310",
+    "geometry": {
+        "location": {
+            "lat": 40.773714,
+            "lng": -73.95129290000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77512558029149,
+                "lng": -73.9500947697085
+            },
+            "southwest": {
+                "lat": 40.77242761970849,
+                "lng": -73.95279273029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ead8344d1f38e8cbf9b96fcda02e57da4e00d677",
+    "international_phone_number": "+1 646-480-0310",
+    "name": "Anabolic Technology",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 894,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106012919120575802498/photos\">Anabolic Technology</a>"
+            ],
+            "photo_reference": "CmRaAAAAUC4sWJsj99A5khUGqwW1FNMnhVEcGBbIC6jw35nE1CUsnBEsboJ9Yf0hu1HP8-8b85Zm95j8_Jw-cUXIFRMAp6_ZCuN1hgwlaxQoVADZH1WSkNEKYXib_agZoaPdBPqREhAJN_LpEC8DPoKnsVyzskNpGhQIamS_9mj_dQJQupzmQligIVsAtQ",
+            "width": 894
+        }
+    ],
+    "place_id": "ChIJK3RxDrlYwokR7CeTX4njunI",
+    "plus_code": {
+        "compound_code": "Q2FX+FF New York, United States",
+        "global_code": "87G8Q2FX+FF"
+    },
+    "reference": "ChIJK3RxDrlYwokR7CeTX4njunI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8267170245145470956",
+    "utc_offset": -240,
+    "vicinity": "1562 1st Avenue #205, New York",
+    "website": "http://www.anabolictechnology.com/"
+}

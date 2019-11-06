@@ -1,0 +1,77 @@
+{
+    "address_components": [
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 941-9227",
+    "geometry": {
+        "location": {
+            "lat": 40.8270448,
+            "lng": -73.97569399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8284011302915,
+                "lng": -73.97433741970849
+            },
+            "southwest": {
+                "lat": 40.8257031697085,
+                "lng": -73.9770353802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4f4d9accb30cbdd8920859ca2e6a43336adf97f3",
+    "international_phone_number": "+1 201-941-9227",
+    "name": "Greenberger David",
+    "place_id": "ChIJLUWGQFH2wokRaQQ-FoBF2uI",
+    "reference": "ChIJLUWGQFH2wokRaQQ-FoBF2uI",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16346454213925930089",
+    "utc_offset": -240,
+    "vicinity": "Edgewater"
+}

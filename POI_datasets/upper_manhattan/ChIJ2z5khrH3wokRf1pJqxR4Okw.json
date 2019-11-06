@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "556",
+            "short_name": "556",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">556 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "556 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 943-2500",
+    "geometry": {
+        "location": {
+            "lat": 40.8231832,
+            "lng": -73.9891652
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8245865302915,
+                "lng": -73.9879395697085
+            },
+            "southwest": {
+                "lat": 40.8218885697085,
+                "lng": -73.99063753029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3a465cc7b4b8d81fa0f4bc42b31c7de4371c36f2",
+    "international_phone_number": "+1 201-943-2500",
+    "name": "Legree Eyewear",
+    "place_id": "ChIJ2z5khrH3wokRf1pJqxR4Okw",
+    "plus_code": {
+        "compound_code": "R2F6+78 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+78"
+    },
+    "reference": "ChIJ2z5khrH3wokRf1pJqxR4Okw",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5492834725700131455",
+    "utc_offset": -240,
+    "vicinity": "556 Anderson Avenue, Cliffside Park",
+    "website": "http://www.legre.com/"
+}

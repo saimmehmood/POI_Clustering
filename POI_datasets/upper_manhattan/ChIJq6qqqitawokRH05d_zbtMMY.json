@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "249",
+            "short_name": "249",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Eldridge Street",
+            "short_name": "Eldridge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">249 Eldridge St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "249 Eldridge St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.72294219999999,
+            "lng": -73.9896832
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7242702802915,
+                "lng": -73.98826516970851
+            },
+            "southwest": {
+                "lat": 40.7215723197085,
+                "lng": -73.99096313029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "f72ebaef832e3645a9f701ebc99fd258aff76c1a",
+    "name": "Best Products Sales & Service, Inc.",
+    "place_id": "ChIJq6qqqitawokRH05d_zbtMMY",
+    "plus_code": {
+        "compound_code": "P2F6+54 New York, United States",
+        "global_code": "87G8P2F6+54"
+    },
+    "reference": "ChIJq6qqqitawokRH05d_zbtMMY",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14281175238860164639",
+    "utc_offset": -240,
+    "vicinity": "249 Eldridge Street, New York"
+}

@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1700",
+            "short_name": "1700",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2627",
+            "short_name": "2627",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1700 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2627</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1700 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 360-0022",
+    "geometry": {
+        "location": {
+            "lat": 40.78489510000001,
+            "lng": -73.950212
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78613973029151,
+                "lng": -73.94860986970848
+            },
+            "southwest": {
+                "lat": 40.78344176970851,
+                "lng": -73.9513078302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d3f934daded50204e1638e2f8d3625dfd51aa730",
+    "international_phone_number": "+1 212-360-0022",
+    "name": "YYAA Start Page",
+    "place_id": "ChIJPcBC1qVYwokRrJRz9NZ_gKs",
+    "plus_code": {
+        "compound_code": "Q2MX+XW New York, United States",
+        "global_code": "87G8Q2MX+XW"
+    },
+    "reference": "ChIJPcBC1qVYwokRrJRz9NZ_gKs",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12358017938705585324",
+    "utc_offset": -240,
+    "vicinity": "1700 3rd Avenue, New York"
+}

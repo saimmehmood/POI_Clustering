@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "160",
+            "short_name": "160",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 95th Street",
+            "short_name": "E 95th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2511",
+            "short_name": "2511",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">160 E 95th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2511</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "160 E 95th St, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 828-4230",
+    "geometry": {
+        "location": {
+            "lat": 40.7848401,
+            "lng": -73.9510103
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7862562302915,
+                "lng": -73.94961161970849
+            },
+            "southwest": {
+                "lat": 40.7835582697085,
+                "lng": -73.9523095802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "47775f0fc2d0d23fe199a9aa0a0976bf175cda23",
+    "international_phone_number": "+1 212-828-4230",
+    "name": "Leaderfinder Inc",
+    "place_id": "ChIJS4KoLqRYwokRj3wSUOx57CI",
+    "plus_code": {
+        "compound_code": "Q2MX+WH New York, United States",
+        "global_code": "87G8Q2MX+WH"
+    },
+    "reference": "ChIJS4KoLqRYwokRj3wSUOx57CI",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2516520347655896207",
+    "utc_offset": -240,
+    "vicinity": "160 East 95th Street, New York"
+}

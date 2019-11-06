@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1651",
+            "short_name": "1651",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3679",
+            "short_name": "3679",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1651 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3679</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1651 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 864-0379",
+    "geometry": {
+        "location": {
+            "lat": 40.7828262,
+            "lng": -73.95068410000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78423543029149,
+                "lng": -73.94947946970849
+            },
+            "southwest": {
+                "lat": 40.78153746970849,
+                "lng": -73.9521774302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e411e6cfda14de05460a51d3addfa86b10b8140c",
+    "international_phone_number": "+1 212-864-0379",
+    "name": "Angela T. Delli Sante, PHD",
+    "place_id": "ChIJ3RsHU6RYwokRT_i6DO3pZrE",
+    "plus_code": {
+        "compound_code": "Q2MX+4P New York, United States",
+        "global_code": "87G8Q2MX+4P"
+    },
+    "reference": "ChIJ3RsHU6RYwokRT_i6DO3pZrE",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12783161796667832399",
+    "utc_offset": -240,
+    "vicinity": "1651 3rd Avenue, New York"
+}

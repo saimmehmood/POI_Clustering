@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "99-79",
+            "short_name": "99-79",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Fairview",
+            "short_name": "Fairview",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07022",
+            "short_name": "07022",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">99-79 Anderson Ave</span>, <span class=\"locality\">Fairview</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07022</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "99-79 Anderson Ave, Fairview, NJ 07022, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8126098,
+            "lng": -73.99916390000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81393213029149,
+                "lng": -73.9977646697085
+            },
+            "southwest": {
+                "lat": 40.81123416970849,
+                "lng": -74.00046263029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "1e2c70592a79643598f19241756c1c0407898ead",
+    "name": "99-79 Anderson Ave",
+    "place_id": "ChIJA2YFlsb3wokRUFEoFo9qef4",
+    "reference": "ChIJA2YFlsb3wokRUFEoFo9qef4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=99-79+Anderson+Ave,+Fairview,+NJ+07022,+USA&ftid=0x89c2f7c696056603:0xfe796a8f16285150",
+    "utc_offset": -240,
+    "vicinity": "Fairview"
+}

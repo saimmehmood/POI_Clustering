@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "519-599",
+            "short_name": "519-599",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 141st Street",
+            "short_name": "W 141st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">519-599 W 141st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "519-599 W 141st St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8234944,
+            "lng": -73.9513546
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8248434302915,
+                "lng": -73.94965724999999
+            },
+            "southwest": {
+                "lat": 40.8221454697085,
+                "lng": -73.95305185
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7d955b8406304fff95bbe55dc07f707842558c55",
+    "name": "519-599 W 141st St",
+    "place_id": "ChIJkfxvaGT2wokRO8PQ9ySjp2g",
+    "reference": "ChIJkfxvaGT2wokRO8PQ9ySjp2g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=519-599+W+141st+St,+New+York,+NY+10031,+USA&ftid=0x89c2f664686ffc91:0x68a7a324f7d0c33b",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

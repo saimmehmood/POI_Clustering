@@ -1,0 +1,223 @@
+{
+    "address_components": [
+        {
+            "long_name": "305",
+            "short_name": "305",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 47th Street",
+            "short_name": "E 47th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">305 E 47th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "305 E 47th St, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 751-2100",
+    "geometry": {
+        "location": {
+            "lat": 40.7529073,
+            "lng": -73.96907159999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7541592802915,
+                "lng": -73.9677932697085
+            },
+            "southwest": {
+                "lat": 40.7514613197085,
+                "lng": -73.97049123029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5e30d29594a2fae57ef886a75c28694f3a7f4947",
+    "international_phone_number": "+1 212-751-2100",
+    "name": "Midtown Surgery Center",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0630"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:30 AM \u2013 5:30 PM",
+            "Tuesday: 6:30 AM \u2013 5:30 PM",
+            "Wednesday: 6:30 AM \u2013 5:30 PM",
+            "Thursday: 6:30 AM \u2013 5:30 PM",
+            "Friday: 6:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJAw3Pex1ZwokRV3YHPPOV2zg",
+    "plus_code": {
+        "compound_code": "Q23J+59 New York, United States",
+        "global_code": "87G8Q23J+59"
+    },
+    "rating": 4.9,
+    "reference": "ChIJAw3Pex1ZwokRV3YHPPOV2zg",
+    "reviews": [
+        {
+            "author_name": "Barry Koski",
+            "author_url": "https://www.google.com/maps/contrib/111736690315067424043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dIGUpsmyeVo/AAAAAAAAAAI/AAAAAAAAADE/HJHAdvyMBN0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent, well run facility. Friendly, professional staff who do everything to make you comfortable and well informed. I had my carpal tunnel surgery done there a few days ago and I was very impressed with how competent, patient and sincere staff was. They did everything to make sure I was comfortable and that things went smoothly. Would definitely return to MSC for other procedures.",
+            "time": 1550948133
+        },
+        {
+            "author_name": "Toye Whitley",
+            "author_url": "https://www.google.com/maps/contrib/115271444990750069121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-OePF7vDLPV8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcdd5MsSb63_4HWGCyuuUqnnaAxOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I loved midtown surgery center I came from up state ny to have a procedure done,midtown surgery center made me feel so comfortable they treat u like family and they are there to support u from the beginning to the end, they even call u after the surgery I'm so happy I went there.",
+            "time": 1553385167
+        },
+        {
+            "author_name": "Nicole A Kunst",
+            "author_url": "https://www.google.com/maps/contrib/114982796577552647914/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oqGsC7mwVy8/AAAAAAAAAAI/AAAAAAAAAAs/O4iEPS9pD9c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Absolutely fantastic facility, from top to bottom. Surgical coordination with this center is seamless. The staff is helpful, knowledgeable and caring. They go above and beyond to help both the doctors office as well as patient. It is one of the best places to have a surgery performed in the city. Thank you for your consistency and for taking very good care of our patients at Brummer Surgical Podiatry!",
+            "time": 1538748848
+        },
+        {
+            "author_name": "Gary Albert",
+            "author_url": "https://www.google.com/maps/contrib/103120364481503625107/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Je1KFx18s3M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf2c-tf2tpeXuAoUNHJX4n-bHe_fw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great staff nurses were amazing thanks Brittany and Shavana.\n\nDr. Jacob amazing surgeon thank you for being so skilled and compassionate.\n\nDay 2 home recovering from double hernia yes take few more days but thats normal.",
+            "time": 1537118091
+        },
+        {
+            "author_name": "Kshitij Nagpal",
+            "author_url": "https://www.google.com/maps/contrib/113444320234650554319/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-eGxvA2-6ffU/AAAAAAAAAAI/AAAAAAAAAMg/Coa-AGxh2kw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I'd highly recommend this surgery center. The staff is super friendly and goes above and beyond to help their patients. Nurses, anesthesiologist and doctors are great! \n\nI'd like to say a few words about Emily who was my nurse when I was there. She did everything possible to make me feel comfortable. Keep up the good work!\n\n-KJ",
+            "time": 1490103016
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4097033157940311639",
+    "user_ratings_total": 11,
+    "utc_offset": -240,
+    "vicinity": "305 East 47th Street, New York",
+    "website": "http://www.midtownsurgery.com/"
+}

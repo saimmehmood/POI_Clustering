@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "1115",
+            "short_name": "1115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1115 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1115 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(646) 415-2255",
+    "geometry": {
+        "location": {
+            "lat": 40.7429365,
+            "lng": -73.9893111
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7442934802915,
+                "lng": -73.9878986697085
+            },
+            "southwest": {
+                "lat": 40.7415955197085,
+                "lng": -73.9905966302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "28b62c5e94b264025078a145a8e86f5ab7cdc0bd",
+    "international_phone_number": "+1 646-415-2255",
+    "name": "ScandaLush LLC",
+    "place_id": "ChIJ4Z_nJaRZwokRkBq4OfoIGB0",
+    "plus_code": {
+        "compound_code": "P2V6+57 New York, United States",
+        "global_code": "87G8P2V6+57"
+    },
+    "reference": "ChIJ4Z_nJaRZwokRkBq4OfoIGB0",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2096435497344178832",
+    "utc_offset": -240,
+    "vicinity": "1115 Broadway, New York"
+}

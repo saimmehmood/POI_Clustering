@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "PO Box 2047",
+            "short_name": "PO Box 2047",
+            "types": [
+                "post_box"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1552",
+            "short_name": "1552",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"post-office-box\">PO Box 2047</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-1552</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "PO Box 2047, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 666-4664",
+    "geometry": {
+        "location": {
+            "lat": 40.7999209,
+            "lng": -73.96831019999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8012690802915,
+                "lng": -73.9669571197085
+            },
+            "southwest": {
+                "lat": 40.7985711197085,
+                "lng": -73.9696550802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "82e792b2edb2b20b5692b2b34364b20a231abf6b",
+    "international_phone_number": "+1 212-666-4664",
+    "name": "Fclh Inc",
+    "place_id": "ChIJq6qqqiX2wokR6M7CDIhrPhk",
+    "plus_code": {
+        "compound_code": "Q2XJ+XM New York, United States",
+        "global_code": "87G8Q2XJ+XM"
+    },
+    "reference": "ChIJq6qqqiX2wokR6M7CDIhrPhk",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1819009531578076904",
+    "utc_offset": -240,
+    "vicinity": "New York",
+    "website": "http://www.fclh.org/"
+}

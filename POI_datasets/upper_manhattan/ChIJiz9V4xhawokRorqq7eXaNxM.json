@@ -1,0 +1,262 @@
+{
+    "address_components": [
+        {
+            "long_name": "27",
+            "short_name": "27",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Barclay Street",
+            "short_name": "Barclay St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10007",
+            "short_name": "10007",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">27 Barclay St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10007</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "27 Barclay St, New York, NY 10007, USA",
+    "formatted_phone_number": "(646) 880-1999",
+    "geometry": {
+        "location": {
+            "lat": 40.71266139999999,
+            "lng": -74.0091884
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7139593302915,
+                "lng": -74.00790776970851
+            },
+            "southwest": {
+                "lat": 40.7112613697085,
+                "lng": -74.01060573029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "56ac081281eb9d58541dbfb75b45173d35b0590f",
+    "international_phone_number": "+1 646-880-1999",
+    "name": "Four Seasons Hotel New York Downtown",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116746159959704619895/photos\">Four Seasons Hotel New York Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAACdlazWLebwLiIRdrKFFenvp1OqTaYkCf7zKQFaFc3j5zg_8OPKeS3pnzRdNhV7P4KLeeSGXVvejMClv1EwQ42-AMC_x97q4f2lSJXOXzxH1CAXviuYhDoaK8cAtzIxKJEhDQG4YgtAmKCLgb8UQ1UZW8GhQqlwDTpq8PnVKU_-1O7Rx0vROqRA",
+            "width": 1908
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105052759422672519013/photos\">Hiro H</a>"
+            ],
+            "photo_reference": "CmRaAAAA-NWFZr-34MDeQvsZXto8MXE6vDwrMcSZ8qn7e838l8jAA3h-Aox-RJgymANU-Zl52JTC9xUDtpfqr3NYTLxw_TkGwvNTt_FECMYlkD_7AiF0C4Bg3bgAZPU7VGsKaNxyEhC1RC0Qvnh0OnswyNjWt5iHGhRotSIpiQktGS2uuRXHOlxQ6Chbrw",
+            "width": 4032
+        },
+        {
+            "height": 745,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116111868658521143222/photos\">Bronte La Valliere</a>"
+            ],
+            "photo_reference": "CmRaAAAAP-rrC-T7yngsqDLyPZJTYhpb8fUnBWh6ECFCrP5iLI9gncq9-F0utHckkqpXJmYGiq5DBKLQErd469Ovmo9VGa9xyL5TrpHHCqHfcWrvdv1gwO2FkfKeliYXEfRgt-XvEhC5xKP2Ak6X-MZF3D3dYjlsGhRA4VpbXkmDKO9tcmzHJce3Ts1A-g",
+            "width": 1280
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115702646110554413084/photos\">Felicia Kazin Penchina</a>"
+            ],
+            "photo_reference": "CmRaAAAAp-oag7fnWQuVm__2vc1yRHFSAzSbFGSUSJU1q7xIdyo61SRWF3GCXA8bb983uJvQ2arzhyUGTUJALtTQubocGSuos83p8FT8tXBCs0FO0s0En9eIHeC8I45sToPGnBcmEhAILdDjt63GvXPIvP0wUDhiGhTjC_S8XOXRmS4lIvsWqRm_WlIlSA",
+            "width": 2048
+        },
+        {
+            "height": 1047,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116111868658521143222/photos\">Bronte La Valliere</a>"
+            ],
+            "photo_reference": "CmRaAAAAp8UjBqp1wl-rbVszpQpb_vTbUdrIawsOvoVOP3vVtoFJChrlHSyOnSxVEBpZCNzEK4tymCfrI9kiCZvqOz6n4UkoPlmQU8VXbfz-hHqBW_lDYlyvOQVm8HWHR1OG2zIYEhAeSX6eeRufSgb5cRFLm_ZrGhSa58fKzcMsHC7dRkXxcXFebNmiEA",
+            "width": 1860
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116111868658521143222/photos\">Bronte La Valliere</a>"
+            ],
+            "photo_reference": "CmRaAAAAlJ9O4Syy2Z6JA1mBTWX9m1DFTw_S2CB5yVpOhwDbevN9VtUKUcoPKAVNeiYkHT1672VYpHNMfMtOUAKtyWmX4jlGBTME7A7_GyjWTlgfgsfJZoJAIK8uzHoA-JpSWYCfEhAV4X6iHYd_fcGbnUZ_dyC9GhQ_XejTXMlE6uf7fXi4HrdcLPNpRw",
+            "width": 600
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110819917570557692963/photos\">Jack Crawford</a>"
+            ],
+            "photo_reference": "CmRaAAAATStsSChjaKx04OZ09a8MxkvW-YrhAOCeR0XCaL3fHcbfKAdO-sNjxBQOflQ19AkIrpWtA-IAyYPQVn0wNjT9Y0PLeGagsQl34Lar9fSguHs0k4priFEuVb9y02RSVWr6EhAnuHqUoxntsLvAEgOGfj0TGhQUqVUNeC2e_-UUj285ZogIj1xQdg",
+            "width": 4032
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107636661161183037770/photos\">Shaera Shepard</a>"
+            ],
+            "photo_reference": "CmRaAAAA0nqkOhdaYZRYYoYGkTpSEfFpGRbz_7pavtijNstgpDxh_IIvbCAlZDKfQ2su5RDqHsT4tajNO_slFxdZTBozP8Y4_VcE3Cgn2UUu-1waoODMu4nClQ378os4ebackoG6EhD_gEQAgZvax30LNUwZ5dM4GhQpa_ZIRWZEyNhtu_LphqmZEuOwmw",
+            "width": 4608
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105261023412291181288/photos\">Mike Glinski</a>"
+            ],
+            "photo_reference": "CmRaAAAAFiq1Zxoo3RmJEsRxPS3SNGaJAulE4dfCQ-IzMqoorsgZmHm3UrmZ8qKkBripE2ICxPrbckrBeXO6nWqPsSRUXLspqU2G30PnM3_dRSJetXJ9CWI4Cqcz_cWNxRfgp6VIEhBebC7fl4KT08AqbGLq1ezOGhQw4aXitFQbNfuPnoCLvv8Qjgh4Hw",
+            "width": 3024
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106352763474076805788/photos\">Ariel Torres Silva</a>"
+            ],
+            "photo_reference": "CmRaAAAASu2xVIWgDQ5ArQqD63HjDS14PeDiQZbREPbxN9jpS01D3K6aPxGzqzx2RbFKoS9_JlUv7d13p8MS0tDkMHdZTr1maXvhaAYMwy4WblKMrTEQUwKm8Vx7UpMB-chAr8RFEhC6UCBg0CHx9xdXSd-4qxx_GhTrueP4P6FDr9XSHIa4n-krwFI23A",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJiz9V4xhawokRorqq7eXaNxM",
+    "plus_code": {
+        "compound_code": "PX7R+38 New York, United States",
+        "global_code": "87G7PX7R+38"
+    },
+    "rating": 4.7,
+    "reference": "ChIJiz9V4xhawokRorqq7eXaNxM",
+    "reviews": [
+        {
+            "author_name": "Robert Cain",
+            "author_url": "https://www.google.com/maps/contrib/101522391424665867582/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-n7xX1wVK_iQ/AAAAAAAAAAI/AAAAAAAAABA/wUH5v0wYoX0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "All I want to say is  that, this is one of the best hotel i ever visit. Neat and clean views. Interior is amazing. Staff are very attentive.",
+            "time": 1559897103
+        },
+        {
+            "author_name": "Rene Palomo",
+            "author_url": "https://www.google.com/maps/contrib/114377134505597586722/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lbk_HFo_LX8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf_TCv8qqs28lqMD2xUcU-mCopCGA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "This is a first for me, staying at a high end Hotel that I was not impressed. Driving up to front door is a nightmare street narrow for vehicle traffic causing traffic nightmare. When you arrive your hopping there\u2019s a space to pull into to unload. The personnel was fantastic they were friendly and always helpful. Room was great and luxurious, just one flaw the water in the shower did not get hot like I\u2019m expected at home I had to place in full hot to get the hot water I\u2019m comfortable with at home. I had two of my business partners have to change rooms because they was no hot water to take shower.",
+            "time": 1551983672
+        },
+        {
+            "author_name": "Mimi Macklin",
+            "author_url": "https://www.google.com/maps/contrib/102465516561225274539/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-whowDF8V1Bo/AAAAAAAAAAI/AAAAAAAAAAc/4D0Yts8ENTM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Beautiful place, amazing! \nExcpensive to stay there every time. But for one time experience was great",
+            "time": 1560353628
+        },
+        {
+            "author_name": "vargavision",
+            "author_url": "https://www.google.com/maps/contrib/107281663141974072217/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-K-jQL11e9MA/AAAAAAAAAAI/AAAAAAAAIFQ/bOt4PoGVwnE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Excellent staff. The decore is spot on and has space that's taylored for private events. Well worth the stay.",
+            "time": 1562523955
+        },
+        {
+            "author_name": "Haikal Siregar",
+            "author_url": "https://www.google.com/maps/contrib/106367534689325905772/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8eNZLNH7RBw/AAAAAAAAAAI/AAAAAAAAAEo/aq8T-TR31RM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Great service, big rooms (at least for NYC) and nice gym & pool",
+            "time": 1561862655
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "spa",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1384816091509471906",
+    "user_ratings_total": 596,
+    "utc_offset": -240,
+    "vicinity": "27 Barclay Street, New York",
+    "website": "https://www.fourseasons.com/newyorkdowntown?seo=google_local_nyd1_amer"
+}

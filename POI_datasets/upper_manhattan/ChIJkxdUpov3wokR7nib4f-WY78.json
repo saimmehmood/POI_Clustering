@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "#26",
+            "short_name": "#26",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "41",
+            "short_name": "41",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">41 St Nicholas Terrace #26</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "41 St Nicholas Terrace #26, New York, NY 10027, USA",
+    "formatted_phone_number": "(347) 620-5047",
+    "geometry": {
+        "location": {
+            "lat": 40.8138539,
+            "lng": -73.95167459999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81511143029149,
+                "lng": -73.9501051697085
+            },
+            "southwest": {
+                "lat": 40.8124134697085,
+                "lng": -73.9528031302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b2360fff00484febad0e3ec0242e9888178696f4",
+    "international_phone_number": "+1 347-620-5047",
+    "name": "Rebecca MB. Pearson Photography",
+    "place_id": "ChIJkxdUpov3wokR7nib4f-WY78",
+    "plus_code": {
+        "compound_code": "R27X+G8 New York, United States",
+        "global_code": "87G8R27X+G8"
+    },
+    "rating": 5,
+    "reference": "ChIJkxdUpov3wokR7nib4f-WY78",
+    "reviews": [
+        {
+            "author_name": "Luis Salcedo",
+            "author_url": "https://www.google.com/maps/contrib/113188194409296614813/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MxPbfgEEDvI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfd0aeMHU4P1j6o4MQgbPyA8Wb2wA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Rebecca is a treasure. If you're in the lookout for someone to capture stunning photos of yourself, she should be your photographer of choice. She is reliable, professional and generous. She invests time in her clients to see what works best for them.",
+            "time": 1557446128
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13791032509684480238",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "41 Saint Nicholas Terrace #26, New York",
+    "website": "http://www.rmbpearson.com/"
+}

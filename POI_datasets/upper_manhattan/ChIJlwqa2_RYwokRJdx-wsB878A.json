@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "30",
+            "short_name": "30",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 67th Street",
+            "short_name": "W 67th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "0038",
+            "short_name": "0038",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">30 W 67th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023-0038</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "30 W 67th St, New York, NY 10023, USA",
+    "formatted_phone_number": "(212) 456-3412",
+    "geometry": {
+        "location": {
+            "lat": 40.77329909999999,
+            "lng": -73.979423
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7747310802915,
+                "lng": -73.97801291970849
+            },
+            "southwest": {
+                "lat": 40.7720331197085,
+                "lng": -73.9807108802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b33d0a7b397ab691ba2f9923333d2689a874aa44",
+    "international_phone_number": "+1 212-456-3412",
+    "name": "Dr. Lori A. Schwartz, MD",
+    "place_id": "ChIJlwqa2_RYwokRJdx-wsB878A",
+    "plus_code": {
+        "compound_code": "Q2FC+86 New York, United States",
+        "global_code": "87G8Q2FC+86"
+    },
+    "reference": "ChIJlwqa2_RYwokRJdx-wsB878A",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13902467742054669349",
+    "utc_offset": -240,
+    "vicinity": "30 West 67th Street, New York"
+}

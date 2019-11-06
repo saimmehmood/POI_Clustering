@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "319",
+            "short_name": "319",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 107th Street",
+            "short_name": "W 107th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2715",
+            "short_name": "2715",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">319 W 107th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-2715</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "319 W 107th St, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 864-7752",
+    "geometry": {
+        "location": {
+            "lat": 40.80293899999999,
+            "lng": -73.969002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80420093029149,
+                "lng": -73.96771551970849
+            },
+            "southwest": {
+                "lat": 40.80150296970849,
+                "lng": -73.9704134802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+    "id": "75fcb7a749d63b0350f5a989b60519d9f99deda9",
+    "international_phone_number": "+1 212-864-7752",
+    "name": "Nicholas Roerich Museum",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 4:00 PM",
+            "Wednesday: 12:00 \u2013 4:00 PM",
+            "Thursday: 12:00 \u2013 4:00 PM",
+            "Friday: 12:00 \u2013 4:00 PM",
+            "Saturday: 2:00 \u2013 5:00 PM",
+            "Sunday: 2:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100096791984400180072/photos\">Michelle Shagenov</a>"
+            ],
+            "photo_reference": "CmRaAAAAoRN40K-_tAo6YpP_d2S73J1IVC3CsEX-RM7UAN7bIiSlN99T_480OUdyL76CErRF33krYf2dCiN3UrZUNmEEgoYYTVQIB8ispWhv8dMa9aaMsZsHMZalr90kpOWqH2lCEhALlGkMp6DVx5Q1dr0DYa2xGhRdAUh1TqS-1m7Ok3V9ICQbjFWIbw",
+            "width": 3120
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113790791006941994645/photos\">Ilya Kravtsov</a>"
+            ],
+            "photo_reference": "CmRaAAAAhGggUXqyOeUlZTTnUG7P4HNuDCEcv3kIsml71Sbxs3p6Fr3z1zvP5X7_bs71z48QQ2j7aoD4ebUUJI1n38wJp99ldujjjXY31ZBvPuVS87Xr2wdTQ7hWzk-mYbaex8LbEhAljQBStN5dnumvec_KvxVtGhTwb_aEVwnKjbHAlpy1elr57Q8NJQ",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117798982819324814995/photos\">Olesya Ganicheva</a>"
+            ],
+            "photo_reference": "CmRaAAAAz77YMZoqwer5GzJDwpyMLP7r1QEUzWWKKUAYu5ICKX9UOhY5TCFJT2Z27rTMmqnQ3jlXAQn4hxwX7-NmcXxoA2_jX9uqYrr8kcr5lfOPqmLh00ntLw4EbgSB-HSJsDKhEhAvwOjt94eWeSfR4_jB0dg5GhSc-4gp_YhDyDH3vg7nMHtNMk1S8A",
+            "width": 3024
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115108808868720176360/photos\">Sanghee Lee</a>"
+            ],
+            "photo_reference": "CmRaAAAA2o9N3RtwtI_7SvvL1zKjiguzsbYYFhOnbxQBHiLBRxLE6xaUVc0IlflROurLOMveUU__XTGyfuvnM0M6YRKL5CJLtPUGi8Km2PpyI4Adpk_AmLoVO710fRvhTJymTJu_EhBhjbWCzIE91bj5_9OdtHGAGhQolpR_BDZ6WQiOWslD2IBtjIr7tA",
+            "width": 3000
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113106796351062510069/photos\">Aaron Chauncey</a>"
+            ],
+            "photo_reference": "CmRaAAAAiG7-7PHyAGyZXSsKjBospCfIETmKz-xEmLWdrXg-N94P47oG3r8RRizcEo8_M61mquLlrSXO4ERDB0XmAFKU9zkgfNKK2f814d9_fGdcDYDRuCvfndStpx_fUhgivbjQEhDgp_nux1qQD-Gqvp_VkHelGhSP9UK6y2UWpnH-g6DhQzL4oTPMEg",
+            "width": 1960
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106455995168586582337/photos\">\u041c\u0438\u043a\u043e\u043b\u0430 \u0421\u0435\u043d\u044c\u043a\u043e</a>"
+            ],
+            "photo_reference": "CmRaAAAAPRqCRPM-B_iYLFzowILBX80sVN-CaB0idWhXSU-3GP3vgkgezZR-JcFdWP6RsJigV5nJUDypyomPm4HthN0DESgS-oU3-HuYlvBqNh6BGI9JnrwooGEg9uSyxTRO6YgwEhDiA8lUFDy1GFZJ37OO_MwKGhSL7rU5dO7fKOLCRqoM0naxqVC5ow",
+            "width": 640
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104927304307052352791/photos\">Dhyana</a>"
+            ],
+            "photo_reference": "CmRaAAAATyKLzNOvwJAa0WwMfvEvX5C-xAZhbuMN1mHkqGwU1Qb7qjaOIrtPtQ2_i23oXCy1_MeFc8ptbEOpvkWiQG-Xw9CRBnLRTf2ZO_xJv-pE9G5VY7_vkuT6MwHVN_I3xeSEEhA7vidDS3fF_Vj5LNgfyVHDGhSUTL7uNQ4q4ESHD1rZevt5pY6s4Q",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102104496084009726923/photos\">Val L</a>"
+            ],
+            "photo_reference": "CmRaAAAAdwR-wB3jQmmlqbXn7qx3Gz4FJlkpugw1aYot5KTdCyCWLbhjR7E--QWx6zVqsEjZQjFIyOmGMOqj2cwOn4SIkk412asHdQEaaJPGoCB0FdUKsEyaI8QQjzN18FODFZHuEhDXktgd7DsYvmgoeQin1ZpuGhSfUnqKrJIg--4YQaIcsO5xqZafLA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111481274009351735334/photos\">Jessica Emory</a>"
+            ],
+            "photo_reference": "CmRZAAAAs_QikbNMjQti0WdHR9oDpXCPZZTKZTSv8GlmCBFy0eZypvXl9jEMCkBLYecit_lhpRjPyTERl-8mLvTS9FHmMHr_AfhZ7IpmO_S_p-fiYPOvN8GcbN9YxUpFte76xZqIEhAF3i6XCg3leR9K0Q1U-01HGhR4dsESYEXC3z50bEKSriKBLMrx2w",
+            "width": 3024
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106765350556195002063/photos\">Ilsa Bartlett</a>"
+            ],
+            "photo_reference": "CmRaAAAAvNGNl-Jkm-6OCKzCW5KU0X_gr53_WjJIbMaImcqxCDGikuEcboiPSmg7F-gPqSEdQM8WNh-eibNINCxcgID7AqSXqBFNbJz6o-UsZkrUMIMrqfiB3-4PHBZudhyH_pRVEhAnN9B_loXuHXORNsWRGXeTGhTh5i_xxNh_CUydSfVIvnoLzzFyhA",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJCYAz0Dr2wokRe49DUpkvIL4",
+    "plus_code": {
+        "compound_code": "R23J+59 New York, United States",
+        "global_code": "87G8R23J+59"
+    },
+    "rating": 4.7,
+    "reference": "ChIJCYAz0Dr2wokRe49DUpkvIL4",
+    "reviews": [
+        {
+            "author_name": "asha chheda",
+            "author_url": "https://www.google.com/maps/contrib/113365347781963119875/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8d54t5vXJmE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reK9AQuYY46DTLHaGTHJgSRYo2n0Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "One of the best collection of paintings depicting mighty Himalayas done by Roerich are exhibited here in a very homely place. Though not very big in size the gallery is full of mesmerizing works by the renowned artist. Art lovers, Himalaya lovers and mysticism lovers do not miss this tiny little collection in a miss if you wink place. Timings are narrow and entry is by voluntary donation. I am glad i got an opportunity to see this museum.",
+            "time": 1556651448
+        },
+        {
+            "author_name": "Val L",
+            "author_url": "https://www.google.com/maps/contrib/102104496084009726923/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-IOtRvLGhK70/AAAAAAAAAAI/AAAAAAAAQMs/pfOBUeeuuy4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "What a beautiful collection... FREE TO SEE!!! UFO TV on YouTube has a great mystery of a story to tell about this man. He was truly special and rumour has it that he carried some very important items to America.",
+            "time": 1557665982
+        },
+        {
+            "author_name": "Leigh Bernstein",
+            "author_url": "https://www.google.com/maps/contrib/111195981421181765996/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1MH4_dMveLQ/AAAAAAAAAAI/AAAAAAAAAPw/CdrApJs6xTQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "A gem! Tucked away on the upper west side, this lovely home turned museum offers a serene & welcome change from the bustle of most NYC museums. You feel like you've stuck your head through the clouds at 14k feet on 107th street.",
+            "time": 1560603059
+        },
+        {
+            "author_name": "Michelle",
+            "author_url": "https://www.google.com/maps/contrib/113617621536298788621/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-r-HKcFZqP_8/AAAAAAAAAAI/AAAAAAAAB58/c1zE-FQIWpI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Small but great museum to spend an hour or two. Beautiful, hypnotic, bold artwork from a painter I had never heard of before.",
+            "time": 1554872625
+        },
+        {
+            "author_name": "Yulia Gruver",
+            "author_url": "https://www.google.com/maps/contrib/100832584890424329247/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pjuju7_bXPU/AAAAAAAAAAI/AAAAAAAAABE/0xG8YBIxGiQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One if my favorite museums in the world. Has a unique collection of beautiful masterpieces by Nicholas Roerich, an outstanding Russian artist and philosopher. This museum also hosts classical music concerts on Sundays during wintertime.",
+            "time": 1554918961
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13700002402017709947",
+    "user_ratings_total": 137,
+    "utc_offset": -240,
+    "vicinity": "319 West 107th Street, New York",
+    "website": "http://www.roerich.org/"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "153",
+            "short_name": "153",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East Houston Street",
+            "short_name": "E Houston St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1004",
+            "short_name": "1004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153 E Houston St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-1004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153 E Houston St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.72292179999999,
+            "lng": -73.98924939999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7243275802915,
+                "lng": -73.98786831970848
+            },
+            "southwest": {
+                "lat": 40.7216296197085,
+                "lng": -73.9905662802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2624c07b1279a19a932727ac133a110d5a33314d",
+    "name": "Good Taste Corporation",
+    "place_id": "ChIJrxhVcYRZwokRHqHWbLIwtzw",
+    "plus_code": {
+        "compound_code": "P2F6+58 New York, United States",
+        "global_code": "87G8P2F6+58"
+    },
+    "reference": "ChIJrxhVcYRZwokRHqHWbLIwtzw",
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4375019105902043422",
+    "utc_offset": -240,
+    "vicinity": "153 East Houston Street, New York"
+}

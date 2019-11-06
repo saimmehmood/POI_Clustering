@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "107",
+            "short_name": "107",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">107 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "107 Malcolm X Blvd, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8016474,
+            "lng": -73.9503236
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80295313029151,
+                "lng": -73.94886776970849
+            },
+            "southwest": {
+                "lat": 40.80025516970851,
+                "lng": -73.95156573029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "51d99973dd174b78ec9ce34b006347c0d1f6ec2d",
+    "name": "Atlas ATM",
+    "place_id": "ChIJP8m-UBD2wokRvHvSQ2bO_Lk",
+    "plus_code": {
+        "compound_code": "R22X+MV New York, United States",
+        "global_code": "87G8R22X+MV"
+    },
+    "reference": "ChIJP8m-UBD2wokRvHvSQ2bO_Lk",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13401813529767607228",
+    "utc_offset": -240,
+    "vicinity": "107 Malcolm X Boulevard, New York"
+}

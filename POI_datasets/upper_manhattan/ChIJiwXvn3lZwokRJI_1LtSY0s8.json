@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "700-798",
+            "short_name": "700-798",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 5th Street",
+            "short_name": "E 5th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10009",
+            "short_name": "10009",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">700-798 E 5th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "700-798 E 5th St, New York, NY 10009, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.72239800000001,
+            "lng": -73.9785433
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7237469802915,
+                "lng": -73.9761669
+            },
+            "southwest": {
+                "lat": 40.7210490197085,
+                "lng": -73.9809197
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7094412f417f8f3ad09720540a784319215ce73a",
+    "name": "700-798 E 5th St",
+    "place_id": "ChIJiwXvn3lZwokRJI_1LtSY0s8",
+    "reference": "ChIJiwXvn3lZwokRJI_1LtSY0s8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=700-798+E+5th+St,+New+York,+NY+10009,+USA&ftid=0x89c259799fef058b:0xcfd298d42ef58f24",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

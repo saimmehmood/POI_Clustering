@@ -1,0 +1,114 @@
+{
+    "address_components": [
+        {
+            "long_name": "245",
+            "short_name": "245",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 87th Street",
+            "short_name": "E 87th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">245 E 87th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "245 E 87th St, New York, NY 10128, USA",
+    "formatted_phone_number": "(646) 522-0107",
+    "geometry": {
+        "location": {
+            "lat": 40.778883,
+            "lng": -73.9513692
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7801247802915,
+                "lng": -73.95009876970849
+            },
+            "southwest": {
+                "lat": 40.7774268197085,
+                "lng": -73.95279673029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ae484e8ec41a7b5ffbf7d2b1107b909e95319a87",
+    "international_phone_number": "+1 646-522-0107",
+    "name": "Distinctly Digital Services",
+    "photos": [
+        {
+            "height": 318,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106984700431386668432/photos\">Distinctly Digital Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAp7IJGqlXcmj_oRuIbUyOIz53Ws19KlucbbGY4ht9jQLQLCHzQaWZKe5YaWDYapncQFYKSAt9BPzmdsrS1bps2-eNiy1K9Wc1tWDMeRGzVlh5ICpaOaj9UTcQUNSyha0hEhCyCFQW1qcMEfkdmRm7bgNjGhSRW-FgwiOB-LeaDdpZZZrrXa8CUw",
+            "width": 424
+        }
+    ],
+    "place_id": "ChIJzdBqFLtYwokRRq_scigqfqE",
+    "plus_code": {
+        "compound_code": "Q2HX+HF New York, United States",
+        "global_code": "87G8Q2HX+HF"
+    },
+    "reference": "ChIJzdBqFLtYwokRRq_scigqfqE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11636784840387112774",
+    "utc_offset": -240,
+    "vicinity": "245 East 87th Street, New York",
+    "website": "http://www.ddsc.com/"
+}

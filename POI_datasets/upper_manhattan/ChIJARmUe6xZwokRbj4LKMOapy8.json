@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 7th Ave, New York, NY 10018, USA",
+    "formatted_phone_number": "(646) 595-1822",
+    "geometry": {
+        "location": {
+            "lat": 40.7531589,
+            "lng": -73.9893597
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7544593802915,
+                "lng": -73.9878989697085
+            },
+            "southwest": {
+                "lat": 40.7517614197085,
+                "lng": -73.9905969302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3cb18eabfffddcb9b77398f007e636ba4e0aad83",
+    "international_phone_number": "+1 646-595-1822",
+    "name": "Fashionware Technologies Corp",
+    "place_id": "ChIJARmUe6xZwokRbj4LKMOapy8",
+    "plus_code": {
+        "compound_code": "Q236+77 New York, United States",
+        "global_code": "87G8Q236+77"
+    },
+    "reference": "ChIJARmUe6xZwokRbj4LKMOapy8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3433883403874418286",
+    "utc_offset": -240,
+    "vicinity": "500 7th Avenue, New York"
+}

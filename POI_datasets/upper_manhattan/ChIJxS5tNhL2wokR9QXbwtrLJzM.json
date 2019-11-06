@@ -1,0 +1,192 @@
+{
+    "address_components": [
+        {
+            "long_name": "2005",
+            "short_name": "2005",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2005 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2005 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 663-1324",
+    "geometry": {
+        "location": {
+            "lat": 40.8058403,
+            "lng": -73.95027379999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8072286802915,
+                "lng": -73.94901861970848
+            },
+            "southwest": {
+                "lat": 40.8045307197085,
+                "lng": -73.9517165802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2c4549a9dae56d0d563fe6807bead53d5f8df325",
+    "international_phone_number": "+1 212-663-1324",
+    "name": "R Kenyatta Punter & Associates Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJxS5tNhL2wokR9QXbwtrLJzM",
+    "plus_code": {
+        "compound_code": "R24X+8V New York, United States",
+        "global_code": "87G8R24X+8V"
+    },
+    "rating": 3,
+    "reference": "ChIJxS5tNhL2wokR9QXbwtrLJzM",
+    "reviews": [
+        {
+            "author_name": "Justin Williams",
+            "author_url": "https://www.google.com/maps/contrib/107525365507012195407/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6ws__FehdjU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rchkUQ3HKeuiKR3mimbmn9V_0Z8SQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very understanding and approachable business, in addition to understanding of personal expenses and matching with the most appropriate housing. Very experienced and thoughtful employees.\nExceeds expectations by far!",
+            "time": 1515638089
+        },
+        {
+            "author_name": "Ian S. Sharps Sr.",
+            "author_url": "https://www.google.com/maps/contrib/118145664296495067868/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-APq2JxhySx0/AAAAAAAAAAI/AAAAAAAAFcg/DEPJfmIIyzQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Very un ethical business practices... does not pay employees in a timely manner.  Bounce weekly payment checks..etc.",
+            "time": 1496845329
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3686138960458483189",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "2005 Adam Clayton Powell Junior Boulevard, New York"
+}

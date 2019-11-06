@@ -1,0 +1,158 @@
+{
+    "address_components": [
+        {
+            "long_name": "307",
+            "short_name": "307",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">307 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "307 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 870-0288",
+    "geometry": {
+        "location": {
+            "lat": 40.8107922,
+            "lng": -73.9515073
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81196008029149,
+                "lng": -73.95028476970849
+            },
+            "southwest": {
+                "lat": 40.8092621197085,
+                "lng": -73.9529827302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d447ad67da5baaae1b03542a1e0b6efa61f00bbd",
+    "international_phone_number": "+1 212-870-0288",
+    "name": "Anna Spa",
+    "place_id": "ChIJPY__xGz2wokRIXCv8uwb5yY",
+    "plus_code": {
+        "compound_code": "R26X+89 New York, United States",
+        "global_code": "87G8R26X+89"
+    },
+    "rating": 4.1,
+    "reference": "ChIJPY__xGz2wokRIXCv8uwb5yY",
+    "reviews": [
+        {
+            "author_name": "linda- Marie",
+            "author_url": "https://www.google.com/maps/contrib/106064600758007930947/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0uD56BsP3LA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdgCPkJtjTwNDopLLdWdaiBZ2pcYA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "93rd floor spa is great",
+            "time": 1545597283
+        },
+        {
+            "author_name": "Matt Johnston",
+            "author_url": "https://www.google.com/maps/contrib/103848533133422521005/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-FoGdSxGhx9M/AAAAAAAAAAI/AAAAAAAACLI/KgPC3EVcnRI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Terrific, healing hands at a very very attractive price point. Super kind and reliable. My new secret place in Harlem",
+            "time": 1515365647
+        },
+        {
+            "author_name": "Yasmine Gharib",
+            "author_url": "https://www.google.com/maps/contrib/101239487979610695313/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uhJQK-nXX18/AAAAAAAAAAI/AAAAAAABKmk/5QBI1NWa780/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "One of the best massages I've ever had!",
+            "time": 1527877269
+        },
+        {
+            "author_name": "Rene Calvo",
+            "author_url": "https://www.google.com/maps/contrib/105490710426655626169/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jtaVEKuxVsE/AAAAAAAAAAI/AAAAAAAADRs/o_P9NmQgbuQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great massages by true healers at affordable prices. Don't forget to tip generously.",
+            "time": 1498938344
+        },
+        {
+            "author_name": "Tyra Demarest",
+            "author_url": "https://www.google.com/maps/contrib/118351334811185823915/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-LLDgUgHu-kQ/AAAAAAAAAAI/AAAAAAAAAkc/LWFN2Gzjc1Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1562432829
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2803239997559238689",
+    "user_ratings_total": 10,
+    "utc_offset": -240,
+    "vicinity": "307 West 125th Street, New York"
+}

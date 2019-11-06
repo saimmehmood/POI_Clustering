@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "4",
+            "short_name": "4",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 107th Street",
+            "short_name": "E 107th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3870",
+            "short_name": "3870",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4 E 107th St #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-3870</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "4 E 107th St #2, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 427-2600",
+    "geometry": {
+        "location": {
+            "lat": 40.7946926,
+            "lng": -73.9503409
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7961021802915,
+                "lng": -73.9489476697085
+            },
+            "southwest": {
+                "lat": 40.7934042197085,
+                "lng": -73.95164563029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e4220aa5ec62d15a86035ef5065ecb677fcb1f2a",
+    "international_phone_number": "+1 212-427-2600",
+    "name": "Moreno Vilma I",
+    "place_id": "ChIJJe63gxz2wokRe9-Qsr8AyCQ",
+    "plus_code": {
+        "compound_code": "Q2VX+VV New York, United States",
+        "global_code": "87G8Q2VX+VV"
+    },
+    "reference": "ChIJJe63gxz2wokRe9-Qsr8AyCQ",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2650369204042129275",
+    "utc_offset": -240,
+    "vicinity": "4 East 107th Street #2, New York"
+}

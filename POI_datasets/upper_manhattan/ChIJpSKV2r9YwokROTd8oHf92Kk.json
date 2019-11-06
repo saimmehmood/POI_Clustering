@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "170",
+            "short_name": "170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1929",
+            "short_name": "1929",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">170 E 77th St #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075-1929</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "170 E 77th St #1, New York, NY 10075, USA",
+    "formatted_phone_number": "(212) 369-9200",
+    "geometry": {
+        "location": {
+            "lat": 40.7731091,
+            "lng": -73.9592289
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7745618802915,
+                "lng": -73.9578032197085
+            },
+            "southwest": {
+                "lat": 40.7718639197085,
+                "lng": -73.9605011802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d8d7d23896a91ea6964bb5278562a19b0e0ccda3",
+    "international_phone_number": "+1 212-369-9200",
+    "name": "Advanced Cardiovascular Imgng",
+    "place_id": "ChIJpSKV2r9YwokROTd8oHf92Kk",
+    "plus_code": {
+        "compound_code": "Q2FR+68 New York, United States",
+        "global_code": "87G8Q2FR+68"
+    },
+    "reference": "ChIJpSKV2r9YwokROTd8oHf92Kk",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12238810677614753593",
+    "utc_offset": -240,
+    "vicinity": "170 East 77th Street #1, New York",
+    "website": "http://www.mrict.com/"
+}

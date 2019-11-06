@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Washington Street",
+            "short_name": "Washington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1036",
+            "short_name": "1036",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Washington St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201-1036</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Washington St, Brooklyn, NY 11201, USA",
+    "formatted_phone_number": "(718) 852-3828",
+    "geometry": {
+        "location": {
+            "lat": 40.70285829999999,
+            "lng": -73.9893922
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70421063029149,
+                "lng": -73.9881506697085
+            },
+            "southwest": {
+                "lat": 40.70151266970849,
+                "lng": -73.99084863029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "77c18347e30dff49c93441eb482be755a2c45ce0",
+    "international_phone_number": "+1 718-852-3828",
+    "name": "With An S Production",
+    "place_id": "ChIJZaiaZzFawokR4un-UvjqLho",
+    "plus_code": {
+        "compound_code": "P236+46 New York, United States",
+        "global_code": "87G8P236+46"
+    },
+    "reference": "ChIJZaiaZzFawokR4un-UvjqLho",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1886703646180043234",
+    "utc_offset": -240,
+    "vicinity": "55 Washington Street, Brooklyn"
+}

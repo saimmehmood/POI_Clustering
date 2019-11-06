@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "577A",
+            "short_name": "577A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Grand Street",
+            "short_name": "Grand St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">577A Grand St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "577A Grand St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.713206,
+            "lng": -73.9793595
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7145376302915,
+                "lng": -73.9782597697085
+            },
+            "southwest": {
+                "lat": 40.7118396697085,
+                "lng": -73.98095773029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1594b5aa1f2f9d117651b27c0883ec5b844b3332",
+    "name": "Grand Tower",
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115498511289914630405/photos\">JAYDEN ZHANG</a>"
+            ],
+            "photo_reference": "CmRaAAAATIkfWcm0NbJ51_4QjZpULapdP1IxJdVehwBRqRrJ4JplnKG6dUKNo50lKf3LYOSmW4FySBr2FI1aE3QevDL4dWGv3FDyhRk5gRa03O1juiwZwvoy-kryxG8Ct3WksDGZEhCMXWRCMW5Dbzyvdds6FYC7GhSBNsQ2ZZZXNG4SyqTdCM9JUNvHLw",
+            "width": 450
+        }
+    ],
+    "place_id": "ChIJT7ucjDBbwokRHd7HM41Rx0A",
+    "plus_code": {
+        "compound_code": "P27C+77 New York, United States",
+        "global_code": "87G8P27C+77"
+    },
+    "reference": "ChIJT7ucjDBbwokRHd7HM41Rx0A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4667789205693783581",
+    "utc_offset": -240,
+    "vicinity": "577A Grand Street, New York"
+}

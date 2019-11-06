@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "155",
+            "short_name": "155",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 117th Street",
+            "short_name": "W 117th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2210",
+            "short_name": "2210",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">155 W 117th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2210</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "155 W 117th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 932-1832",
+    "geometry": {
+        "location": {
+            "lat": 40.8038743,
+            "lng": -73.9512828
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80511733029151,
+                "lng": -73.9500118697085
+            },
+            "southwest": {
+                "lat": 40.80241936970851,
+                "lng": -73.95270983029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "2fbad76cad83bc7a0b71b9d9b75d8111b42e744e",
+    "international_phone_number": "+1 212-932-1832",
+    "name": "Faith Mission Baptist Church",
+    "place_id": "ChIJvSNfchH2wokRE8wQFWDdr2A",
+    "plus_code": {
+        "compound_code": "R23X+GF New York, United States",
+        "global_code": "87G8R23X+GF"
+    },
+    "rating": 5,
+    "reference": "ChIJvSNfchH2wokRE8wQFWDdr2A",
+    "reviews": [
+        {
+            "author_name": "cunliffe parker",
+            "author_url": "https://www.google.com/maps/contrib/111445797116289758096/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5wrY2Hy_vVY/AAAAAAAAAAI/AAAAAAAAQlg/1QgzxXfPcTU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Another Home church for me love faithmission and always will",
+            "time": 1441482365
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6967030553305467923",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "155 West 117th Street, New York",
+    "website": "http://wespeaklife.com/FMBC.html"
+}

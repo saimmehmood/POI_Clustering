@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "243-299",
+            "short_name": "243-299",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 61st Street",
+            "short_name": "W 61st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">243-299 W 61st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "243-299 W 61st St, New York, NY 10023, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7727394,
+            "lng": -73.9892389
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7740883802915,
+                "lng": -73.9878898697085
+            },
+            "southwest": {
+                "lat": 40.7713904197085,
+                "lng": -73.9905878302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "431fd4f3e4d0f22b0ac4e59a745d6715851ef263",
+    "name": "243-299 W 61st St",
+    "place_id": "ChIJETtxm15YwokR7dtVScDQuhQ",
+    "reference": "ChIJETtxm15YwokR7dtVScDQuhQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=243-299+W+61st+St,+New+York,+NY+10023,+USA&ftid=0x89c2585e9b713b11:0x14bad0c04955dbed",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

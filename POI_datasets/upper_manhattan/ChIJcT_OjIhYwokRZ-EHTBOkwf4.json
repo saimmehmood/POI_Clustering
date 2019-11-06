@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "219",
+            "short_name": "219",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 78th Street",
+            "short_name": "W 78th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10024",
+            "short_name": "10024",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6668",
+            "short_name": "6668",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">219 W 78th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024-6668</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "219 W 78th St, New York, NY 10024, USA",
+    "formatted_phone_number": "(212) 579-6898",
+    "geometry": {
+        "location": {
+            "lat": 40.783021,
+            "lng": -73.9795939
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7842820802915,
+                "lng": -73.9783096197085
+            },
+            "southwest": {
+                "lat": 40.7815841197085,
+                "lng": -73.9810075802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4d2cdc7f6a85468c9ae51e2974f1a9513d6f8d7f",
+    "international_phone_number": "+1 212-579-6898",
+    "name": "Joseph Feingold Office",
+    "place_id": "ChIJcT_OjIhYwokRZ-EHTBOkwf4",
+    "plus_code": {
+        "compound_code": "Q2MC+65 New York, United States",
+        "global_code": "87G8Q2MC+65"
+    },
+    "reference": "ChIJcT_OjIhYwokRZ-EHTBOkwf4",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18357133958925771111",
+    "utc_offset": -240,
+    "vicinity": "219 West 78th Street, New York"
+}

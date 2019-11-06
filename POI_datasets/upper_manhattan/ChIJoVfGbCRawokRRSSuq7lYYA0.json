@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "185",
+            "short_name": "185",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Row",
+            "short_name": "Park Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10038",
+            "short_name": "10038",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">185 Park Row</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10038</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "185 Park Row, New York, NY 10038, USA",
+    "formatted_phone_number": "(212) 233-5654",
+    "geometry": {
+        "location": {
+            "lat": 40.7128737,
+            "lng": -73.9992072
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7142583302915,
+                "lng": -73.9979321197085
+            },
+            "southwest": {
+                "lat": 40.7115603697085,
+                "lng": -74.0006300802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "02b38376a31bd060e80274180eee36fadacf4b40",
+    "international_phone_number": "+1 212-233-5654",
+    "name": "Chu Paul DDS",
+    "place_id": "ChIJoVfGbCRawokRRSSuq7lYYA0",
+    "plus_code": {
+        "compound_code": "P272+48 New York, United States",
+        "global_code": "87G8P272+48"
+    },
+    "reference": "ChIJoVfGbCRawokRRSSuq7lYYA0",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=963867874729796677",
+    "utc_offset": -240,
+    "vicinity": "185 Park Row, New York"
+}

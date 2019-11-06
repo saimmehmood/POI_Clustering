@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 1",
+            "short_name": "# 1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "611",
+            "short_name": "611",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bedford Avenue",
+            "short_name": "Bedford Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7960",
+            "short_name": "7960",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">611 Bedford Ave # 1</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-7960</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "611 Bedford Ave # 1, Brooklyn, NY 11211, USA",
+    "formatted_phone_number": "(718) 963-2111",
+    "geometry": {
+        "location": {
+            "lat": 40.702903,
+            "lng": -73.959367
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7041772802915,
+                "lng": -73.9581330197085
+            },
+            "southwest": {
+                "lat": 40.7014793197085,
+                "lng": -73.9608309802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0dcc5f48d3d2fc316f09d8a30e229217614b796a",
+    "international_phone_number": "+1 718-963-2111",
+    "name": "Kleinman Robert CPA",
+    "place_id": "ChIJ1yAl-OdbwokRRhXnWPWpBK8",
+    "plus_code": {
+        "compound_code": "P23R+57 New York, United States",
+        "global_code": "87G8P23R+57"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ1yAl-OdbwokRRhXnWPWpBK8",
+    "reviews": [
+        {
+            "author_name": "Bill Williams",
+            "author_url": "https://www.google.com/maps/contrib/103469783189230217375/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dzbEN8tGIT8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdoYQU5DzGovpl4Ny8ueKvxFi7-JQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "I called this CPA to happily pay them to help me with discerning a form I received from the IRS. The first receptionist I spoke with asked if they had prepared my taxes. After I responded no, she said that they could not help me. I questioned that and she put me through to another woman. I repeated my situation to this woman and the first thing she asked was, \"How did you get this number?\" !! (Answer: I googled \"CPA Brooklyn\"). At that point I let them know that I did not need their assistance. Really unbelievable they would treat a potential client this way! I obviously cannot speak to the disposition of Mr. Kleinman himself, but the staff... whew...",
+            "time": 1454444943
+        },
+        {
+            "author_name": "Sara Leff",
+            "author_url": "https://www.google.com/maps/contrib/103739776456874649080/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Zn3LwVVmViA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfdQBFWjjonU0Q6-ybAmAba2xXtRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Awesome Accountant. \nVery Knowledgeable, Great Staff, Prompt Service",
+            "time": 1432222354
+        },
+        {
+            "author_name": "Abe Tikulski",
+            "author_url": "https://www.google.com/maps/contrib/115585436118635079969/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BKzbCe4Vd4k/AAAAAAAAAAI/AAAAAAAADEw/uou9xJ-ghrg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1499877904
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12611391727767852358",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "611 Bedford Avenue # 1, Brooklyn"
+}

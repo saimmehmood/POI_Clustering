@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "1700",
+            "short_name": "1700",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1700 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1700 3rd Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7849174,
+            "lng": -73.9497805
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78622808029149,
+                "lng": -73.94833861970848
+            },
+            "southwest": {
+                "lat": 40.7835301197085,
+                "lng": -73.9510365802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "460382d6045eb9daeeb747a934a685660244d053",
+    "name": "ISI Dor Ans Ida Straus School",
+    "place_id": "ChIJYXl82KVYwokRFL9PxLwc5-I",
+    "plus_code": {
+        "compound_code": "Q3M2+X3 New York, United States",
+        "global_code": "87G8Q3M2+X3"
+    },
+    "reference": "ChIJYXl82KVYwokRFL9PxLwc5-I",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16350068569264865044",
+    "utc_offset": -240,
+    "vicinity": "1700 3rd Avenue, New York"
+}

@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "1490",
+            "short_name": "1490",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4502",
+            "short_name": "4502",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1490 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-4502</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1490 Madison Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 410-2508",
+    "geometry": {
+        "location": {
+            "lat": 40.79140589999999,
+            "lng": -73.9515498
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7926794802915,
+                "lng": -73.9500338197085
+            },
+            "southwest": {
+                "lat": 40.7899815197085,
+                "lng": -73.9527317802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "18c9343a72727680d4d84921866e855ad43333e1",
+    "international_phone_number": "+1 212-410-2508",
+    "name": "Dorothy Tieng, PharmD",
+    "place_id": "ChIJI-XXlx32wokRM-sReotCC3g",
+    "plus_code": {
+        "compound_code": "Q2RX+H9 New York, United States",
+        "global_code": "87G8Q2RX+H9"
+    },
+    "price_level": 2,
+    "reference": "ChIJI-XXlx32wokRM-sReotCC3g",
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8650080676111051571",
+    "utc_offset": -240,
+    "vicinity": "1490 Madison Avenue, New York",
+    "website": "http://www.walgreens.com/"
+}

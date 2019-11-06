@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "145",
+            "short_name": "145",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hewes Street",
+            "short_name": "Hewes St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8902",
+            "short_name": "8902",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">145 Hewes St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-8902</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "145 Hewes St, Brooklyn, NY 11211, USA",
+    "formatted_phone_number": "(718) 875-0586",
+    "geometry": {
+        "location": {
+            "lat": 40.703038,
+            "lng": -73.958945
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7043122802915,
+                "lng": -73.9575104197085
+            },
+            "southwest": {
+                "lat": 40.7016143197085,
+                "lng": -73.9602083802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "78f91f29784894d657a8f31fe3863483133b1205",
+    "international_phone_number": "+1 718-875-0586",
+    "name": "Berkowitz Martin",
+    "place_id": "ChIJs3MA8edbwokRhVTM0ehTFGI",
+    "plus_code": {
+        "compound_code": "P23R+6C New York, United States",
+        "global_code": "87G8P23R+6C"
+    },
+    "reference": "ChIJs3MA8edbwokRhVTM0ehTFGI",
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7067365974668498053",
+    "utc_offset": -240,
+    "vicinity": "145 Hewes Street, Brooklyn"
+}

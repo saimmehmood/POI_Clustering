@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 706",
+            "short_name": "# 706",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Washington Street",
+            "short_name": "Washington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1064",
+            "short_name": "1064",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Washington St # 706</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201-1064</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Washington St # 706, Brooklyn, NY 11201, USA",
+    "formatted_phone_number": "(718) 643-9082",
+    "geometry": {
+        "location": {
+            "lat": 40.7028278,
+            "lng": -73.9893866
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7041802802915,
+                "lng": -73.9881486697085
+            },
+            "southwest": {
+                "lat": 40.7014823197085,
+                "lng": -73.9908466302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "834e382a4e103a581d9550e23e88fd51a57ac8fc",
+    "international_phone_number": "+1 718-643-9082",
+    "name": "Zazza Development Group",
+    "place_id": "ChIJZaiaZzFawokRnMOGTqb9TdU",
+    "plus_code": {
+        "compound_code": "P236+46 New York, United States",
+        "global_code": "87G8P236+46"
+    },
+    "reference": "ChIJZaiaZzFawokRnMOGTqb9TdU",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15370219994009224092",
+    "utc_offset": -240,
+    "vicinity": "55 Washington Street # 706, Brooklyn"
+}

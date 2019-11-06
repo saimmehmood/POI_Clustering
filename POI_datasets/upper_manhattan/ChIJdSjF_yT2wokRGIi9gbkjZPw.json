@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "2723",
+            "short_name": "2723",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2723 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2723 Broadway, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 316-5000",
+    "geometry": {
+        "location": {
+            "lat": 40.8000562,
+            "lng": -73.9684479
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8013832802915,
+                "lng": -73.9669902697085
+            },
+            "southwest": {
+                "lat": 40.7986853197085,
+                "lng": -73.96968823029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2c26c49fc2d435befc96da57e1ca70d66407aa69",
+    "international_phone_number": "+1 212-316-5000",
+    "name": "Cafe Du Soleil",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 10:00 PM",
+            "Tuesday: 11:00 AM \u2013 10:00 PM",
+            "Wednesday: 11:00 AM \u2013 10:00 PM",
+            "Thursday: 11:00 AM \u2013 10:00 PM",
+            "Friday: 11:00 AM \u2013 11:30 PM",
+            "Saturday: 9:00 AM \u2013 11:30 PM",
+            "Sunday: 9:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 506,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAN7AoInFfdwGE8rqghbYjqqhoerw6K_ZDdkTMwqUkFAFRAvfwhjPYTg9JM039VUXixyaDOAqqV1WfnEwT0bojn74w_LQH9EycrmoiRT9ZThn6UBGpSed3rTHIjsmTKb-9EhBfdb7roPR9OvFsk4cPx-53GhTe1nOu2clTuoIZUuGmDPffWOcSmQ",
+            "width": 1024
+        },
+        {
+            "height": 457,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAsq4EfxsveBiZ_UKEHub34yveWFtZRqln7ucKd73Kc-87p6aMhLJ_JWxIPFWR-YTqW9qvjqXpuGknWFlhMS-aK0RwIhg4p22Nd8iq_x_TJt3pB8G88yRUtIhnFzXyxFItEhDEZJ3WXNaheaJ3SCQoi-2dGhTDkYRhJiZ72hHJhvqNgDV1B30YKw",
+            "width": 700
+        },
+        {
+            "height": 4516,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAPV0z4wq3J9uNzWZ8gQdkkRD-EB0N-RMzK5Qlofb7b9OOH9ImnRtvsMJt8b0t5efnKaJ2Ep5nnRkGpABeiYCaphaB6JlYRMMzn8LdAMnFKbB0NCDInW2ve1DQunQlVLtaEhCw2IZxWK4hMAabadQ3lNVdGhR1wGkNXIkCKINes85feNnlVABpgw",
+            "width": 6873
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAkpCf-DIaE8kjZBlT2sJngTmfxqc3a_8o8X8gbscvFE-0ZvaUPL90aHwBBWdGWB2kTWnocaLZnwAmqbdi_5neYzqBixARww5Qa32aYAAsMcDpfky4gmh-Zo5D0fx840TnEhBAChuQU_MWGLvUgILAvq_aGhTNcLz4gqdsTAzrk3QHyAHQnntMfA",
+            "width": 1500
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ2Bz-SlNfDPQN0ND4yoeKOivK8L7pEoYvVC1V2Df1nbvfXT2NEP8F2SIUKJgxnDnYlU40QYeHZl2_HBu1pLPX_fj_AF8a0Vk-Vbz3U7sednXdrGZJxEz0jkMFgKSL-DIEhCqThOLMwbseNVSsEKaMh7HGhT84cNagpBR4HCta9l8py0RIrjwkQ",
+            "width": 2048
+        },
+        {
+            "height": 566,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAA6wQzA-Pub8XekhF_355u5I0FibcG11Ia0fwQfDl6vDWCVNqYdgfGL5IphT_qSm02Z6BAgvAkaNIQY6Fe5M3ZR8TJ5NFR5dhMbmtP5ELtm9Bm4zcZr_0UMiulhoqE3TToEhBBxWJ_MX9ccxm5SkW8ZWf8GhSe-LQhnfy1ol8PpGakBu6woPbWLw",
+            "width": 950
+        },
+        {
+            "height": 607,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAAzIlluPCbQOZwVDFs9sV_wGsE9HPEm3MrskT6UzqoJY2YNJD6AWBUo83wAgsdHoYRyNIvPNhXaR6w0DdAHiZGA-7mn4yHd1VnsbqvEJ4WdIFfY12XlVKHUORnAHuIggZ0EhBVgXPqAJQyKdUYEnsJkXPaGhQTsVs-BMLLm0T9-k-m6Lph7np-Yg",
+            "width": 468
+        },
+        {
+            "height": 2910,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAA-Cy82grie_nnRlf7dGxF76zXfYRfb7Wqt4WxCfT1U6G6o71SdLe8HMSZyqKmyErRMjcHPxp-wYrKZuRae4cbyLmY1wbJyeQGwnJ0LMwMbCMvy5jwg5PnmXcqtM3gU6jiEhDwLwDXk1rpPaHfAeaCu_fIGhS9ySIuD-tUUeAVU08U73SZ8In3hw",
+            "width": 2448
+        },
+        {
+            "height": 424,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAA7OMJnSx48vUCAfuuMvbRsTRmC_0kNPjbnDHcw2l50mhadYh80fjY0T3d1nhCYgau0QiIcCaKPP2U0r4sRaAM1IkGaUJDQqXerNJd4AXoSXXx3De_a_6zHKesUQ4W45GVEhC16VLps9gC6-wJc_gD5uZBGhSJA2kSoXZ-S2jT5GOs3YuskCg6hw",
+            "width": 640
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109473970338954049092/photos\">Cafe Du Soleil</a>"
+            ],
+            "photo_reference": "CmRaAAAA5hDnssLeePGGvQVLhNrAuWxIm74ZuLuXbLmcWJTWjfGgQk1C4T1SfppTzh3Hyr3Uadn8xz2LetEpgwGnvs5lccwF55ec8t_3t3z-GNqIkuKC65KAt2rald4UbdN9by-QEhCsSeGjTKX3hSuzA39IT6gqGhTEX6Pof0yTAO2R-13_fL5n88chPg",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJdSjF_yT2wokRGIi9gbkjZPw",
+    "plus_code": {
+        "compound_code": "R22J+2J New York, United States",
+        "global_code": "87G8R22J+2J"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJdSjF_yT2wokRGIi9gbkjZPw",
+    "reviews": [
+        {
+            "author_name": "Haneen AlQunaibit",
+            "author_url": "https://www.google.com/maps/contrib/115871042449768872985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-djkqb1RwlOQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcAHZKJKSXEKmvDXtaMW5w-TPvsjw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Liked the place and the very nice staff. Reminded me of Parisian bistros. Had eggs Benedict but the eggs were almost well-done. I should have asked to make sure they were runny. Other than that it was a delightful experience",
+            "time": 1556849965
+        },
+        {
+            "author_name": "Ron Gillen",
+            "author_url": "https://www.google.com/maps/contrib/107866515779295436921/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vkLm5IIGmw8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcUBR7Y8DFGEAcZFoibMjeijWKWSw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Food and service was great!! Loved it!! This time I did not take photos.. but again the food is great!! Recommend.",
+            "time": 1561483877
+        },
+        {
+            "author_name": "Laura Frye",
+            "author_url": "https://www.google.com/maps/contrib/116853159735073736227/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bGlLd5VpAL0/AAAAAAAAAAI/AAAAAAAAN3Y/5Agz3rLsuF0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We didn't have a reservation at brunch time on a Sunday and they accommodated us quickly. The service was solid if muted (how I prefer it) and the food was great, though a little pricey. That said, I ordered off menu and they charged me just for sides which was nice. Overall nice place. I recommend it.",
+            "time": 1554059898
+        },
+        {
+            "author_name": "Ana Lucia Varon Ocampo",
+            "author_url": "https://www.google.com/maps/contrib/100560003068869842530/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Z6ABaJghgAo/AAAAAAAAAAI/AAAAAAAAAIg/5Bafs14F9zA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Brunch is pretty good here. They have outdoor seating. The restaurant has a nice vibe to it. The service is good too.",
+            "time": 1559435172
+        },
+        {
+            "author_name": "Mary Kelly",
+            "author_url": "https://www.google.com/maps/contrib/116953127841919191209/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-HTWhJ3F0jv8/AAAAAAAAAAI/AAAAAAAAAE8/gnhPgGtKdVw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "An excellent local bistro on the Upper West Side at mid-range prices. They do a happy hour but I recommend sticking with the a la carte wine. Food is top quality and I would highly recommend the fried sardines",
+            "time": 1559500841
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18186700474881509400",
+    "user_ratings_total": 314,
+    "utc_offset": -240,
+    "vicinity": "2723 Broadway, New York",
+    "website": "http://cafedusoleilny.com/"
+}

@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "20",
+            "short_name": "20",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">20 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "20 Malcolm X Blvd, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 361-2298",
+    "geometry": {
+        "location": {
+            "lat": 40.798968,
+            "lng": -73.9513753
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8003927302915,
+                "lng": -73.95020801970848
+            },
+            "southwest": {
+                "lat": 40.7976947697085,
+                "lng": -73.95290598029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ce0b6478e0b4e267e949f2050355aba4f87b58ae",
+    "international_phone_number": "+1 646-361-2298",
+    "name": "Lawrence Appah, LPN",
+    "place_id": "ChIJjwoiZhr2wokRjEFezsaAiMM",
+    "plus_code": {
+        "compound_code": "Q2XX+HC New York, United States",
+        "global_code": "87G8Q2XX+HC"
+    },
+    "reference": "ChIJjwoiZhr2wokRjEFezsaAiMM",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14089653025582760332",
+    "utc_offset": -240,
+    "vicinity": "20 Malcolm X Boulevard, New York"
+}

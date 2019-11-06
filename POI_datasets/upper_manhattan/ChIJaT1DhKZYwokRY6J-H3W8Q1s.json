@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1486-1476",
+            "short_name": "1486-1476",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1486-1476 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1486-1476 Lexington Ave, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.78553489999999,
+            "lng": -73.9511874
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7868824802915,
+                "lng": -73.9498351197085
+            },
+            "southwest": {
+                "lat": 40.7841845197085,
+                "lng": -73.9525330802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3626006f1bd3c7303968917ae0be8212775b2a61",
+    "name": "1486-1476 Lexington Ave",
+    "place_id": "ChIJaT1DhKZYwokRY6J-H3W8Q1s",
+    "reference": "ChIJaT1DhKZYwokRY6J-H3W8Q1s",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1486-1476+Lexington+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258a684433d69:0x5b43bc751f7ea263",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

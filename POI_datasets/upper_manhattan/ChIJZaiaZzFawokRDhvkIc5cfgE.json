@@ -1,0 +1,136 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Washington Street",
+            "short_name": "Washington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Dumbo",
+            "short_name": "Dumbo",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1036",
+            "short_name": "1036",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Washington St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201-1036</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Washington St, Brooklyn, NY 11201, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7028278,
+            "lng": -73.9893866
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7041802802915,
+                "lng": -73.9881486697085
+            },
+            "southwest": {
+                "lat": 40.7014823197085,
+                "lng": -73.9908466302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ecfbf00de94b5477c4e98c5cc9c03381f03a8739",
+    "name": "Ricoh Business Solutions",
+    "photos": [
+        {
+            "height": 325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102480222609663856011/photos\">Ricoh Business Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAADBM_ylBvOsJDpav3_Ylt0_3HWAmhcgR1FUMHp-jI8ujkdf18_WsrU7Re6Aah5FjSyVBz-E2OwBdKwfRCqrae8NH_RLYwpADKvQTd_Jy5MuI66wvW_3b2_orLt747dFnEhBcEKR-0lDar6rdFpXxWlR5GhT8OC00Jn9VMyOH6gwhztiU1QHU8g",
+            "width": 906
+        },
+        {
+            "height": 325,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102480222609663856011/photos\">Ricoh Business Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAHRvHlEkK-M5Ml70gtjr3ShvY1ShR9ydcDsc4rRaslH1AzhaVpaRtdZeG0VV6LAD63BFpBkmASOL_bnkPFhHun3Iqq34ygMB4ADy-3L7sA7uyUsj0gffJkMd_rwPpB05NEhAltiyBEBQEMk_eHfoORk_yGhS-8f3aPQAV--5n_lha5OSsCARsxQ",
+            "width": 906
+        },
+        {
+            "height": 638,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102480222609663856011/photos\">Ricoh Business Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAlhBenO3iH5WGCh-OAeIUGSxEgkwDp6AQQrOHkQMxQiYBDRhOplr3LkJkvS11t9nuoqZVIvXE0MDLyTDFJMofyfv75VFFX0tjd_ZOzZ4aaSc7YRA_fGcRrxbWWT1dIa0GEhAGOaKD5SZntuKsMwCesRlYGhQMrPw6rajaMdrEDr23X08Ny59zDg",
+            "width": 638
+        }
+    ],
+    "place_id": "ChIJZaiaZzFawokRDhvkIc5cfgE",
+    "plus_code": {
+        "compound_code": "P236+46 Brooklyn, New York, United States",
+        "global_code": "87G8P236+46"
+    },
+    "reference": "ChIJZaiaZzFawokRDhvkIc5cfgE",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=107625481505086222",
+    "utc_offset": -240,
+    "vicinity": "55 Washington Street, Brooklyn",
+    "website": "http://www.ricoh-usa.com/"
+}

@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 737-0295",
+    "geometry": {
+        "location": {
+            "lat": 40.81055399999999,
+            "lng": -73.95145699999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81180933029149,
+                "lng": -73.95018036970849
+            },
+            "southwest": {
+                "lat": 40.80911136970849,
+                "lng": -73.95287833029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "3fce0d5a3e80300d87cdae140ba6ccdafe2bf81b",
+    "international_phone_number": "+1 646-737-0295",
+    "name": "DSW Designer Shoe Warehouse",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 10:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117658262639785792617/photos\">Warren Jacobi</a>"
+            ],
+            "photo_reference": "CmRaAAAAFYIAwtxyUCLVFqZkOsCBOz20uw9zHEgvv4sCsSPbkjc0JWhC6MY3ot2p80f_RQwFU2uRi2HdyL_a_uhO1O90KpjZKfNwEEzA39rpOpp3DdDrR5XK3b72g7vSzmCWEMjbEhB7jOH-Yc-tRcBiCSmatrcbGhTTm8kES6si-iqtL3aBHlrgKkrRKw",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAA0ihteAmtxOF5_zXb60hve7Neisw-hC6qlcmwBa2uh5jzB--qVpmzaZVXLUaNN84cinNaKqzLn7ySwmy4W458nYR_MlMse3xWHXLj54APxzVS-5BPvG-S5MGd37e_p8U1EhAleC0E-8XitJUrmxvcKf1dGhRphLJ7y0rjAanrfMTuYkmY0h339A",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAJrpbvayDhOgmpk35UVwyZxX8tXbVchZuFHJy0m2n2Sf8HaI3mM81k-WJtT4k-SrAAiBoF_G3CCnJqsSeMFjJdo6aPc1XIIoymvAeJXJG7LJLjW98MdW5D9o1wBa26b0AEhDdLE89msFrJgCW24Xt6EhQGhQGXCc-qi-Mx59Qo2y2Ug7z4sFZcA",
+            "width": 4032
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117658262639785792617/photos\">Warren Jacobi</a>"
+            ],
+            "photo_reference": "CmRaAAAA2pkU6CX3wwisS8vNE7D8wDt2lgsqyThj346KPFkDbGPzKWWp9bun9r2S3ofLaONLVUwI0P-zvmW_NzSTY6lgOCKnU0eehKSxhGJh33UTsar1giqWeTxbau7mepwn_v0MEhCqiTPlISlLo9L71MknvwDCGhTpql3P1FhttRYv5OeLS5OQrKctpw",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAjyk7j29mgeHCBBIgW1ncvW57y9s6LLjqfm4b8U1APYKGJrnv7ePWPem7HJSbyGX6kezEPQ9Pe-76RC4mFryC-rACQMry2wJlOO4Wj491ZDyD-dlJyuWyfpiniaI8muIFEhBT-mcC69WI4oZWAOnUZqmLGhRdE8sm76Gc2TwQY2yEqzWrtrK9Dg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAv6utIVeJpZYBL08aPvzqVZv_l2ydcXwCR84i6pSSdWxDJGbcXY26kGbp2G-KuIPGOdejpUZ2r-_14caOMpNyVhVXI1LVTIYUbWOlxVdjGu5KMrSfLLUkMCcTjWNOCgO4EhBatH-a8oyuRd07dWSCw-sIGhSvpnlxYCZsoTVj_4kA1gm4T5lENw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109989705060334597589/photos\">jam</a>"
+            ],
+            "photo_reference": "CmRaAAAAy2A1KRHqyyKVQhZ2NRkwZpGU1KEjHCtuAQ0RdCcGueIXXJCTD_zXPGKpIRfv5eTihAnzO_JNGfmHnvwH0XFnqbBvvDv0KqY1rasf7-xupzZdzym2pytgvs3oYUwtSGoJEhClr3FYJmg0aoHMSvw_c4JXGhSqD9pF4G7qAcsFbpVXE0tyLCVANw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAAb_wZ2czTj7V1MFgvHxWzLyvKhInNOhs9CXGAiFU4YuNOrX8S-LDpc3SfWp_YfP0GVpRqfcUxQTHrCxAa0shUjWP3hgILyDovY8j0Sj6yI_vM4_vv3MetEYku5Iyff-fpEhBByFuT3NshaVmtH-o3AHXyGhS0VfzvZbfvOcFZ13OKkn210PscqQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117770177084808441805/photos\">Iva Kukovska</a>"
+            ],
+            "photo_reference": "CmRaAAAATDZKELBp1ZSS0v0h0wV_147V2Zrx8PH9-O30wEY0P4fvM9I_aNrrj7iE9aa4eV6z-jCLTcTlpI0rn-kTqvZgJS5KybG6IFOa5NG2CX2F9DaTPxhwgRSYTG3jG7UNkGzyEhDosJJO_UBvfKTqfULBheHPGhTzRJnGqNTE9I_QylbeyIpMZXoE-Q",
+            "width": 4032
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116851081087503729976/photos\">Mary Booker</a>"
+            ],
+            "photo_reference": "CmRaAAAAKupfMCR0OtFjMhD6w17LEoE1JTZ8EASm0f6zNzbjPPNa5mUvLYd0e5O6_Ugm7NntO7GvsZBWixwAKVHxSBSDqtxiNwI34RbnvauY4iY1ZckDB3mrpBqBjVxUPWQptxICEhCH8EBHoqnrYy205Cdxhz49GhSJs3GiOoIQStRq0zcyNgOIku8hMQ",
+            "width": 1932
+        }
+    ],
+    "place_id": "ChIJryVKxWz2wokRMrhiwX8pT9c",
+    "plus_code": {
+        "compound_code": "R26X+6C New York, United States",
+        "global_code": "87G8R26X+6C"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJryVKxWz2wokRMrhiwX8pT9c",
+    "reviews": [
+        {
+            "author_name": "Eleanor Kendrick",
+            "author_url": "https://www.google.com/maps/contrib/101701705677232958498/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-hlxie0MzKfk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rev6-c3IR8mzX16WKwVFz4MMneLRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "They didn't open on time (per the time shown online). Waited until 10:10, left to do other shopping and returned around 10:40. People still waiting. Saw no posted hours at the store location.",
+            "time": 1561911372
+        },
+        {
+            "author_name": "Donna Waller",
+            "author_url": "https://www.google.com/maps/contrib/117957279594807005999/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TbChsXpJcGg/AAAAAAAAAAI/AAAAAAAABW4/IZpR8uj6IIc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Nice place to shop for all types of shoes. Has a wide variety.",
+            "time": 1561140764
+        },
+        {
+            "author_name": "Scharmell Reese",
+            "author_url": "https://www.google.com/maps/contrib/100629067345371213665/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-eQQIY9Kz30s/AAAAAAAAAAI/AAAAAAAABds/P-ycrbVaSz4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "The selection was great wish there was enough staff to get assistance tho",
+            "time": 1560396510
+        },
+        {
+            "author_name": "Zachary Wilcox",
+            "author_url": "https://www.google.com/maps/contrib/117193136774193988328/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-n6CJL2UM5cQ/AAAAAAAAAAI/AAAAAAAAABU/KJk86Fx518w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Decent shoe selection, but I wish they had more good deals. They don't have a public bathroom.",
+            "time": 1558625243
+        },
+        {
+            "author_name": "Sandy sh",
+            "author_url": "https://www.google.com/maps/contrib/103274108708287198414/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jg5EGT085D0/AAAAAAAAAAI/AAAAAAAACiM/3LwT-KCs094/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "DSW has a large selection of shoes for the whole family as well as many women's accessories.   Nothing really unique, mostly casual wear.  They should hire more people as they seem a bit understaffed.",
+            "time": 1558138065
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15514664869996705842",
+    "user_ratings_total": 429,
+    "utc_offset": -240,
+    "vicinity": "301 West 125th Street, New York",
+    "website": "https://stores.dsw.com/usa/ny/newyork/dsw-designer-shoe-warehouse-harlem---125th-street.html"
+}

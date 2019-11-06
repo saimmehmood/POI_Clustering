@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "136",
+            "short_name": "136",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 118th Street",
+            "short_name": "W 118th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1809",
+            "short_name": "1809",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">136 W 118th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-1809</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "136 W 118th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 865-7089",
+    "geometry": {
+        "location": {
+            "lat": 40.80381499999999,
+            "lng": -73.95034439999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80524133029149,
+                "lng": -73.94893861970849
+            },
+            "southwest": {
+                "lat": 40.80254336970849,
+                "lng": -73.9516365802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "18cd175382578a0e6cd5e134f704782d35fe310f",
+    "international_phone_number": "+1 212-865-7089",
+    "name": "Champion Restoration & Cleanin",
+    "place_id": "ChIJJ_vGnhH2wokR4pIMXQdJ5G4",
+    "plus_code": {
+        "compound_code": "R23X+GV New York, United States",
+        "global_code": "87G8R23X+GV"
+    },
+    "reference": "ChIJJ_vGnhH2wokR4pIMXQdJ5G4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7990591934836806370",
+    "utc_offset": -240,
+    "vicinity": "136 West 118th Street, New York"
+}

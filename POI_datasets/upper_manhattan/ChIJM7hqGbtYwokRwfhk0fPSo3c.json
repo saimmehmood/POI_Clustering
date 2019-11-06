@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1682-1690",
+            "short_name": "1682-1690",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "2nd Avenue",
+            "short_name": "2nd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1682-1690 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1682-1690 2nd Ave, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7787285,
+            "lng": -73.9511452
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7800774802915,
+                "lng": -73.9497961697085
+            },
+            "southwest": {
+                "lat": 40.7773795197085,
+                "lng": -73.95249413029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "af588145fea1b6e8df8fc9a5830f4a8bd40e77ec",
+    "name": "1682-1690 2nd Ave",
+    "place_id": "ChIJM7hqGbtYwokRwfhk0fPSo3c",
+    "reference": "ChIJM7hqGbtYwokRwfhk0fPSo3c",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1682-1690+2nd+Ave,+New+York,+NY+10128,+USA&ftid=0x89c258bb196ab833:0x77a3d2f3d164f8c1",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

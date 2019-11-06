@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 104th Street",
+            "short_name": "E 104th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 E 104th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 E 104th St, New York, NY 10029, USA",
+    "formatted_phone_number": "(917) 376-8543",
+    "geometry": {
+        "location": {
+            "lat": 40.7929785,
+            "lng": -73.951568
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7944930802915,
+                "lng": -73.95032281970849
+            },
+            "southwest": {
+                "lat": 40.7917951197085,
+                "lng": -73.9530207802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "7f4745fbe94662ce0b96487cd71cfcf044891c37",
+    "international_phone_number": "+1 917-376-8543",
+    "name": "REACH swim academy",
+    "place_id": "ChIJR9xmThz2wokRcnJ65AzGeVU",
+    "plus_code": {
+        "compound_code": "Q2VX+59 New York, United States",
+        "global_code": "87G8Q2VX+59"
+    },
+    "rating": 5,
+    "reference": "ChIJR9xmThz2wokRcnJ65AzGeVU",
+    "reviews": [
+        {
+            "author_name": "Johan Lopez",
+            "author_url": "https://www.google.com/maps/contrib/105572882860191842864/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dcAV-IVhQIw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd5U-oYx2fn12TrNW8THJ-GWPSRyg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "",
+            "time": 1561406117
+        },
+        {
+            "author_name": "Guillermo Rosas",
+            "author_url": "https://www.google.com/maps/contrib/117413455154468940774/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-boZMvJmthns/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcRLkjOp5SvxHryHFh53IVwH-MbPA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1554256859
+        },
+        {
+            "author_name": "Rosanna Diaz",
+            "author_url": "https://www.google.com/maps/contrib/106079398207120251679/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-X1Ls0N_0I_A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc19zh4yKoalnDp-NUvdgQ1PT9SEA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1552100728
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6159171724081001074",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "1 East 104th Street, New York",
+    "website": "http://reachswim.org/"
+}

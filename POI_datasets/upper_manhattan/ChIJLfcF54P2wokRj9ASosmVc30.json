@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10032",
+            "short_name": "10032",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10032</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "St Nicholas Ave, New York, NY 10032, USA",
+    "formatted_phone_number": "(347) 224-3244",
+    "geometry": {
+        "location": {
+            "lat": 40.8120118,
+            "lng": -73.951509
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8133422302915,
+                "lng": -73.9501282697085
+            },
+            "southwest": {
+                "lat": 40.8106442697085,
+                "lng": -73.9528262302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "59d051a72cefa3198e319842f03fde8b74676be5",
+    "international_phone_number": "+1 347-224-3244",
+    "name": "RGB Multimedia Solutions",
+    "place_id": "ChIJLfcF54P2wokRj9ASosmVc30",
+    "plus_code": {
+        "compound_code": "R26X+R9 New York, United States",
+        "global_code": "87G8R26X+R9"
+    },
+    "reference": "ChIJLfcF54P2wokRj9ASosmVc30",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9039733570302824591",
+    "utc_offset": -240,
+    "vicinity": "Saint Nicholas Avenue, New York"
+}

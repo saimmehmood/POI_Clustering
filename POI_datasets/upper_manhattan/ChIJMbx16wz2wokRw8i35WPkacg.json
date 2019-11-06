@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "2181",
+            "short_name": "2181",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 129th Street",
+            "short_name": "W 129th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2181 W 129th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2181 W 129th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 369-7340",
+    "geometry": {
+        "location": {
+            "lat": 40.81313829999999,
+            "lng": -73.9502795
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81451473029149,
+                "lng": -73.94891006970849
+            },
+            "southwest": {
+                "lat": 40.81181676970849,
+                "lng": -73.95160803029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92888fadafc41aa6678215af3defb53303a5eafb",
+    "international_phone_number": "+1 212-369-7340",
+    "name": "Dr. Jignasa Joshi",
+    "place_id": "ChIJMbx16wz2wokRw8i35WPkacg",
+    "plus_code": {
+        "compound_code": "R27X+7V New York, United States",
+        "global_code": "87G8R27X+7V"
+    },
+    "rating": 5,
+    "reference": "ChIJMbx16wz2wokRw8i35WPkacg",
+    "reviews": [
+        {
+            "author_name": "Jerome Hartzog",
+            "author_url": "https://www.google.com/maps/contrib/103007307061459680453/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5y_ax1D-ZPk/AAAAAAAAAAI/AAAAAAAAAcc/xylWkQBowvg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Jignasa Joshi is the truth. Her modern office is equipped with the latest equipment and she and her team has the knowledge to tackle any problem dealing with the human foot.  She actually cares about the people in Harlem.",
+            "time": 1459786301
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14441324797847128259",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "2181 West 129th Street, New York",
+    "website": "http://www.montefiore.org/body.cfm?id=1735&action=detail&ref=3148"
+}

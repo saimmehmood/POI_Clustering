@@ -1,0 +1,213 @@
+{
+    "address_components": [
+        {
+            "long_name": "98",
+            "short_name": "98",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 99th Street",
+            "short_name": "E 99th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">98 E 99th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "98 E 99th St, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 241-0795",
+    "geometry": {
+        "location": {
+            "lat": 40.7885707,
+            "lng": -73.9512517
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7899540302915,
+                "lng": -73.95011666970849
+            },
+            "southwest": {
+                "lat": 40.7872560697085,
+                "lng": -73.9528146302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2ef57a03b19cb569d10d7c96c31e1f7d55a6725f",
+    "international_phone_number": "+1 212-241-0795",
+    "name": "SP+ Parking",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111316125577516962714/photos\">Juan J Gomez</a>"
+            ],
+            "photo_reference": "CmRaAAAAdZDayzApwAOPpDBBAgchSkhbbnZjoFC0Bfd2QMjKe3m9OXTFHLKaXp8UYF7HZgJnfEOXb_iBAI6QNmhA1-NF9aJY7C7iE0dNiMSNUeWt9MNu33Ml7Xza73TrPvTUefkyEhAW7YvwZ8reFLxuWByWGDamGhRTC0POu4xZTeBWiY4FcKcB1s46Bg",
+            "width": 4032
+        },
+        {
+            "height": 1936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105170431124683218627/photos\">Marc Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAIPVRAU4xahd8XN-QCHbunIzBHVNweqmQb7cZuT4aqRnS82MzLIHhV-BdvbfWB6-RYQZJeW9hsbgjsNYR5Go1EZWj05HCNRjdiOerkXFXZE3m_iCldhGinWt9gmSMMy-LEhDVWL5piBcF3lwPKCqaUJQ7GhTgPqj9JkdHmf40gCDeTZj-mtyx2w",
+            "width": 2592
+        },
+        {
+            "height": 2614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108957865719113409363/photos\">Sharon Sim</a>"
+            ],
+            "photo_reference": "CmRaAAAAnSBEKPhl9Zrj2vARvu_SKPNWrHQBkdkhwB3lD6XXzXsBRuNmpf6zy48xhZAAQ2uMVhmoRJZJm4V1M_0KJpKnf6dC8UHSKqgfzb_2vULSRW1SiSY9rQVG838cEAAgkZGqEhAFmaTs0TlOzUh_LWIgefeUGhT0YsLdw13cYwdzXlLaGtYHl7ifIw",
+            "width": 1961
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111569895964348890647/photos\">SP+ Parking</a>"
+            ],
+            "photo_reference": "CmRaAAAAyma1fT8G-g5TWX00ItJTmeY5flGPps8-QzZ4IUeBkVOtUP5cp4nz2JdgCoJ6jS1i3TMFO9sn5gUkZKJ4Bgt8kFAYxzKG0PmXeQ9ILMA4_CvKwSHq9DMuY0qQJ7mfqzpoEhBaC6YoaMk7ykSMhnH8Hj_mGhQkx6P6BXgKVe7EB4PkAi2pIlIV8Q",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJ1bZLF6dYwokRyEV3RPxu4R8",
+    "plus_code": {
+        "compound_code": "Q2QX+CF New York, United States",
+        "global_code": "87G8Q2QX+CF"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1bZLF6dYwokRyEV3RPxu4R8",
+    "reviews": [
+        {
+            "author_name": "Kenny Zhang",
+            "author_url": "https://www.google.com/maps/contrib/107027990693416817667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ebAX0pcsffs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdXv3nPt5K2pdiW0QWTtgo7_f6n0w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "I was not able to find any parking spot around 11 to 12 on a weekday. Parking is in such a high demand in the area or in general in Manhattan. The street parking is more expensive and has a two hour limit, so I can see why the lot is full quickly during weekday. Your luck might be better finding a spot at earlier time in the morning or late afternoon.",
+            "time": 1541992513
+        },
+        {
+            "author_name": "Billy Ferrell",
+            "author_url": "https://www.google.com/maps/contrib/107439242470674611333/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qavfT7sax08/AAAAAAAAAAI/AAAAAAAAAew/toYY-UXN7yw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Al;ways crowded, most times have to park on rooftop;  Sometimes the vehicle must be left in the aisle with keys so that attendant can park it.\nI didn't like leaving my car in aisle.",
+            "time": 1558039450
+        },
+        {
+            "author_name": "Joel Freund",
+            "author_url": "https://www.google.com/maps/contrib/117724663257159603626/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dmbWGadGfEA/AAAAAAAAAAI/AAAAAAAAFS8/-IMk5gYBSE4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Good service",
+            "time": 1552439517
+        },
+        {
+            "author_name": "aLanni Neverson",
+            "author_url": "https://www.google.com/maps/contrib/110328804854333657515/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-LwYZ3Bwa6Gk/AAAAAAAAAAI/AAAAAAAAAGs/d4f1TTus0SA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Fills up by 10/11Am. They don't turn people away even if they know the lot is full. When all the parks are taken people double park and leave the keys in the car. The workers move the car when someone needs to get out.",
+            "time": 1509078885
+        },
+        {
+            "author_name": "Robert Royal",
+            "author_url": "https://www.google.com/maps/contrib/105311985397841311880/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6frhaZlpFPg/AAAAAAAAAAI/AAAAAAAAAAs/QTZkaTvUFqM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Lovely place to work",
+            "time": 1482625320
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2297239314695144904",
+    "user_ratings_total": 19,
+    "utc_offset": -240,
+    "vicinity": "98 East 99th Street, New York",
+    "website": "https://parking.com/nyc/lot/mount-sinai-medical-center?utm_source=Yext&utm_medium=Yext&utm_campaign=Yext-NY"
+}

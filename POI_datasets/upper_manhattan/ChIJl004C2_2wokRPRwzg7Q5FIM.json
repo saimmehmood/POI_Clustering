@@ -1,0 +1,311 @@
+{
+    "address_components": [
+        {
+            "long_name": "150",
+            "short_name": "150",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Convent Avenue",
+            "short_name": "Convent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "9200",
+            "short_name": "9200",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150 Convent Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-9200</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "150 Convent Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-9240",
+    "geometry": {
+        "location": {
+            "lat": 40.81841989999999,
+            "lng": -73.9515126
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81969223029149,
+                "lng": -73.95004701970849
+            },
+            "southwest": {
+                "lat": 40.81699426970849,
+                "lng": -73.9527449802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d812a04a6c8544abd22ac2073715d44937e04a2c",
+    "international_phone_number": "+1 212-281-9240",
+    "name": "Harlem Stage",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111793281148483537299/photos\">Warren Sze</a>"
+            ],
+            "photo_reference": "CmRaAAAAG4tAOSDlfq_NyWwY4auUDUJdsMQEe-9uXS1OldRAn7Umaq5VUE6wu53YiHT-P0I562yjNByzkQQ0KQqggyNIGyRtcCAGDMLSzOm83OsvHouJDtH1CtYx_65JiynLarMaEhDehD94-IH52vgnyJYX45QNGhTlmi1vl2LeD2EgEpD-2cuZSUEhrw",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116703244896377236679/photos\">David Miron</a>"
+            ],
+            "photo_reference": "CmRZAAAAlhdx4PQp7suPs4dW3y857ldWz2xhFUXzO_BCSdO-kGYe-KWjhqUiELe5lgGioU5GgMZxPRipdfBQH19SB0mrYbPH6jlIaIRxcAdUXoyAdzynMUc4_rbG7ACRekjwFXsUEhDgX7kK2FJiTgKtuNqfxBklGhTfqCZYvhhb7FlSEx4l4teFpnkZvg",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110419057232313338757/photos\">Sara Hill</a>"
+            ],
+            "photo_reference": "CmRaAAAAAOBrDBxL3JJw4ox8mHZsnGaov1VDdTdae0LF0iTAMUvKWrOmzRlp8kqRoN9ueFRJZJCAWFYy2VlGaEtBhvLSnkv88CvJv8rOHLh_1bHUok6KCT9L-EnHbusQCWlo3tcFEhAreR3ABwcpnj-QRuRIaQSkGhR-KxciUfP5QlUs2_rXQ91L6qi_4Q",
+            "width": 2988
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106242506960924136129/photos\">Carmen Iglesias</a>"
+            ],
+            "photo_reference": "CmRaAAAAt77F7EXuzpCBbMFQ8jGchTeMWHWiKv9oUg3WjKjmgiH1yTCNUa-9sod9Itd0B8kggei8KZpza4aEAGmdd9UtaSlzGOxLT3ckZ6jETciiRrDAwE3Jgd4irNHdhA7CxWzdEhBWqPWC8C2QvD0CQO2Tavg_GhScXwQckiwAQ97NH6YmQ3V56cYGyg",
+            "width": 3456
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104318656290350571346/photos\">Darlene jackson</a>"
+            ],
+            "photo_reference": "CmRaAAAAqUNrsdhA3A7NxwjrZ2ZfDvX1YBM4MG9ZOYGF20lH7eEKp0yQ1nXJZfb8R7LW_OPb5uz9Je47FkgtKF6jwILYAsQmd5fy32iPEaTtQiCgM62bamRM5FFdht0IQ_wCfCL2EhBYYzS9OKjQtLnCFgK5Pq6QGhTEdegjZMwJCz-ewV-xm6GA9Q_xng",
+            "width": 1440
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112604215264707157443/photos\">Gerry Cain</a>"
+            ],
+            "photo_reference": "CmRaAAAAR2vQt7kBl7y4hIbmm2bzsI7-vOe9k0eR68w7kuXbn1veKpj-tavgTKyZkbRpSiBHKpdKku32pjQ0UjSLQPbyHj38jFYpUcGSMMfZ1NAd1h99KjbjGeDVWpgaimxV9_bjEhDPvw-gGK4lpXY-fScLeok8GhSUeCYi-IcCEvPjz_exLxs8RYbK5A",
+            "width": 2880
+        },
+        {
+            "height": 2560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107038748858018748354/photos\">monique martin</a>"
+            ],
+            "photo_reference": "CmRaAAAAJlU9aMQeFa4mkupDJjENnhUzqO3BNOjHmdnDAopq8vO47Xuzix1fwG2sT-4TJGtjGqp9fdr8TaQN1R7d8RON02YCELGpPRUF1ofQ_t1az-ndzZbE3qm7R1pofsLqMAweEhB-KK7dCFgcmQPbaGNkVAj2GhRD7XUUzidxjv_UHboyEPvoQ-wyOw",
+            "width": 1440
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110632083856467368792/photos\">Omar Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAvBtikhP9UdWB-ICrrriWvOTSrUf_8YcGCLDA2Fn-iNhXwJ5IXpmpJSYF60Xo-bfScZAc70XGQYC9vpSg8J7W95zaMmJoccCYhfaGAyV5WeItevpC0sSbVsdOdGIvzVkvEhAjIQIK24lsgdi7i15kmpmYGhSDuJGvavJzDVf-YvZR69TPXfBLMQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100580791054680898891/photos\">frankemi hernandez zorrilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAwD9n4218azhS7x1g96kXPBxcim-B0eFpKFDOIiRwxRs30PghVb7ZH3oxj7P_h5D4IgDcuO-ISAOWdD4sNt3ZiJdqbh3qWCsC_oervCPn1wSjHoIebyaxMMdclo4icwsREhB5PEj-kJZGHEh1OG5LOYaWGhQtbxpaS-43mb7vaMZxWn4uVXCwdQ",
+            "width": 4032
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114204232918697190167/photos\">Tamir Z. Brown</a>"
+            ],
+            "photo_reference": "CmRaAAAALMwKuRnWNalRimn2wxZTQUJ5EKjFsU4MdXjiPmW5QDzc8c6CYl-3hXYCVqIlqJjr0Va0c_NQy3SRNEA-s_TnneGPUS9vxu43TCz8P3gbiqbyUotYeUIjIQjmtVwBRWCIEhB_uCxymIhP9Gbk5uoezhv_GhTQFgHCrxqGdxXqPz6ZvyvtFOor4Q",
+            "width": 3840
+        }
+    ],
+    "place_id": "ChIJl004C2_2wokRPRwzg7Q5FIM",
+    "plus_code": {
+        "compound_code": "R29X+99 New York, United States",
+        "global_code": "87G8R29X+99"
+    },
+    "rating": 4.7,
+    "reference": "ChIJl004C2_2wokRPRwzg7Q5FIM",
+    "reviews": [
+        {
+            "author_name": "Bernice Brown",
+            "author_url": "https://www.google.com/maps/contrib/105887562371907835001/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-K3XihdguqiM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf6CD7uW2MfL4FVoES85dShIMiO1Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I enjoyed the Benefit Gala I attended. Harlem Stage Gatehouse would be a beautiful place to hold any elegant event. I was marveled by the architect of the place. Wonderfully put together. Perfect place for the rising and upkeep of Harlem community.",
+            "time": 1554560937
+        },
+        {
+            "author_name": "DJMOHAN28 !!!",
+            "author_url": "https://www.google.com/maps/contrib/111598469153047228267/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ibWsWY8Q9qM/AAAAAAAAAAI/AAAAAAAAC0A/svUOapeqAks/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great shows and preformances there. It is nice clean and sleek. I would recommend going there!!!\ud83d\udc4d\ud83d\udc4d",
+            "time": 1555531660
+        },
+        {
+            "author_name": "Daniel Adams",
+            "author_url": "https://www.google.com/maps/contrib/112986588220310150934/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Q1CkiKT_O6A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdBZ0iGdbZSGKb2WarwZlHNPYk3pQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is the coolest place I\u2019ve ever been. My bae and I attended the Stretch Music & Jazz Then and Now on Thursday 11.04.2019. Steve Turre Quintet\u2019s live performance was amusing. The conversation between him and Christian Scott aTunde Adjuah was fascinating. The present and the future of jazz was told in an enchanting way.",
+            "time": 1557924648
+        },
+        {
+            "author_name": "Omar Gonzalez",
+            "author_url": "https://www.google.com/maps/contrib/110632083856467368792/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fQ275yTFR20/AAAAAAAAAAI/AAAAAAAABDo/T1reZbqyrFs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One of the best performance spaces uptown, that also helps developing local artists.",
+            "time": 1554474140
+        },
+        {
+            "author_name": "Charles Powell",
+            "author_url": "https://www.google.com/maps/contrib/110129220152254083707/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PMe57t1Dx44/AAAAAAAAAAI/AAAAAAAAMk8/A3n7zNUKCas/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Beautiful place inside and out. Just saw Antigone and Ferguson this evening and love this place.  Sound is great and there are no bad seat views. Wish the seats were a little more comfy.",
+            "time": 1537672840
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9445237765960834109",
+    "user_ratings_total": 82,
+    "utc_offset": -240,
+    "vicinity": "150 Convent Avenue, New York",
+    "website": "https://www.harlemstage.org/"
+}

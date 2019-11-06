@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "1601",
+            "short_name": "1601",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1601 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1601 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 427-2420",
+    "geometry": {
+        "location": {
+            "lat": 40.7814468,
+            "lng": -73.9514236
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7829041302915,
+                "lng": -73.95032656970848
+            },
+            "southwest": {
+                "lat": 40.7802061697085,
+                "lng": -73.9530245302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "df5612c02783d2f278ba1d41dbe71ffb8a8bd964",
+    "international_phone_number": "+1 212-427-2420",
+    "name": "Jessica A. Semmel, LMSW",
+    "place_id": "ChIJAd0uwqRYwokRz5ssiTaLr24",
+    "plus_code": {
+        "compound_code": "Q2JX+HC New York, United States",
+        "global_code": "87G8Q2JX+HC"
+    },
+    "reference": "ChIJAd0uwqRYwokRz5ssiTaLr24",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7975746531442334671",
+    "utc_offset": -240,
+    "vicinity": "1601 3rd Avenue, New York"
+}

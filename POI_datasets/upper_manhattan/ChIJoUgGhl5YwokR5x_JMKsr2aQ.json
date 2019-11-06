@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 61st Street",
+            "short_name": "W 61st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 W 61st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 W 61st St, New York, NY 10023, USA",
+    "formatted_phone_number": "(212) 262-7256",
+    "geometry": {
+        "location": {
+            "lat": 40.7729139,
+            "lng": -73.9890404
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7742078802915,
+                "lng": -73.9875626197085
+            },
+            "southwest": {
+                "lat": 40.7715099197085,
+                "lng": -73.9902605802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4aed124770bc3fcbe06c7ab581ad579c296a931c",
+    "international_phone_number": "+1 212-262-7256",
+    "name": "Amsterdam Housing Tenant",
+    "place_id": "ChIJoUgGhl5YwokR5x_JMKsr2aQ",
+    "plus_code": {
+        "compound_code": "Q2F6+59 New York, United States",
+        "global_code": "87G8Q2F6+59"
+    },
+    "rating": 4.3,
+    "reference": "ChIJoUgGhl5YwokR5x_JMKsr2aQ",
+    "reviews": [
+        {
+            "author_name": "Aleksei Bykov",
+            "author_url": "https://www.google.com/maps/contrib/109994648804778158852/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YymUW5ZHBkk/AAAAAAAAAAI/AAAAAAAAC5w/pfHQZcFWNYM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1548526880
+        },
+        {
+            "author_name": "Moshe Henderson",
+            "author_url": "https://www.google.com/maps/contrib/106309917088572701345/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-55G3bXbdW-w/AAAAAAAAAAI/AAAAAAAAI44/VsINGQjReKc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1546463463
+        },
+        {
+            "author_name": "Yocelyn Quezada",
+            "author_url": "https://www.google.com/maps/contrib/101775748223876977224/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-d_dml14wJvo/AAAAAAAAAAI/AAAAAAAArHM/YsAUkQy4XJc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1397494459
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11878573506424283111",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "250 West 61st Street, New York"
+}

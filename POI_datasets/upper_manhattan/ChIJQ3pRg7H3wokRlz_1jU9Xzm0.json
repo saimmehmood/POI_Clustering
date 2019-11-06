@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "542",
+            "short_name": "542",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1721",
+            "short_name": "1721",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">542 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010-1721</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "542 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "formatted_phone_number": "(201) 943-7977",
+    "geometry": {
+        "location": {
+            "lat": 40.8229072,
+            "lng": -73.9895252
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82428623029149,
+                "lng": -73.9882444197085
+            },
+            "southwest": {
+                "lat": 40.82158826970849,
+                "lng": -73.9909423802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0d563a5f08623f8efc8162c1ee05efa4da020df4",
+    "international_phone_number": "+1 201-943-7977",
+    "name": "Eugene M. Manno, DPM",
+    "place_id": "ChIJQ3pRg7H3wokRlz_1jU9Xzm0",
+    "plus_code": {
+        "compound_code": "R2F6+55 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+55"
+    },
+    "reference": "ChIJQ3pRg7H3wokRlz_1jU9Xzm0",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7912357594532233111",
+    "utc_offset": -240,
+    "vicinity": "542 Anderson Avenue, Cliffside Park"
+}

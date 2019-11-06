@@ -1,0 +1,80 @@
+{
+    "address_components": [
+        {
+            "long_name": "79th Street",
+            "short_name": "79th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "North Bergen",
+            "short_name": "North Bergen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07047",
+            "short_name": "07047",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">79th St</span>, <span class=\"locality\">North Bergen</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07047</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "79th St, North Bergen, NJ 07047, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8030468,
+            "lng": -74.00936500000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8043957302915,
+                "lng": -74.00801606970849
+            },
+            "southwest": {
+                "lat": 40.8016977697085,
+                "lng": -74.0107140302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7d64698b7a7166f4feed23f1cce1b54ecc99a9e9",
+    "name": "79th Street",
+    "place_id": "ChIJ6wHv1eD3wokRF-xaoqHMXM0",
+    "reference": "ChIJ6wHv1eD3wokRF-xaoqHMXM0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=79th+St,+North+Bergen,+NJ+07047,+USA&ftid=0x89c2f7e0d5ef01eb:0xcd5ccca1a25aec17",
+    "utc_offset": -240,
+    "vicinity": "North Bergen"
+}

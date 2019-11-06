@@ -1,0 +1,179 @@
+{
+    "address_components": [
+        {
+            "long_name": "250",
+            "short_name": "250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "W 61st Dr",
+            "short_name": "W 61st Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">250 W 61st Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "250 W 61st Dr, New York, NY 10023, USA",
+    "formatted_phone_number": "(646) 902-1115",
+    "geometry": {
+        "location": {
+            "lat": 40.7729258,
+            "lng": -73.98902149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7742214302915,
+                "lng": -73.98754756970848
+            },
+            "southwest": {
+                "lat": 40.7715234697085,
+                "lng": -73.99024553029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d206232a916a157b603e76c394699d4a1b930875",
+    "international_phone_number": "+1 646-902-1115",
+    "name": "Accesorios Y Micscelaneas",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 3:00 PM",
+            "Tuesday: 7:00 AM \u2013 3:00 PM",
+            "Wednesday: 7:00 AM \u2013 3:00 PM",
+            "Thursday: 7:00 AM \u2013 3:00 PM",
+            "Friday: 7:00 AM \u2013 3:00 PM",
+            "Saturday: 9:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJoUgGhl5YwokRtShpVa5dlys",
+    "plus_code": {
+        "compound_code": "Q2F6+59 New York, United States",
+        "global_code": "87G8Q2F6+59"
+    },
+    "reference": "ChIJoUgGhl5YwokRtShpVa5dlys",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3141082268452858037",
+    "utc_offset": -240,
+    "vicinity": "250 W 61st Dr, New York",
+    "website": "http://www.accesoriosymicscelaneas.us/"
+}

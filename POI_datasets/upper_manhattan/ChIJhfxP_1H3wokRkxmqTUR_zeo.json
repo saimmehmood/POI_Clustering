@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 126th Street",
+            "short_name": "W 126th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">W 126th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "W 126th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.810843,
+            "lng": -73.95067999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8122194302915,
+                "lng": -73.94931061970848
+            },
+            "southwest": {
+                "lat": 40.8095214697085,
+                "lng": -73.95200858029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "202fe90c7d4ce81c103ff7e0d80f7fd2e7ba158f",
+    "name": "West 126th Street",
+    "place_id": "ChIJhfxP_1H3wokRkxmqTUR_zeo",
+    "plus_code": {
+        "compound_code": "R26X+8P New York, United States",
+        "global_code": "87G8R26X+8P"
+    },
+    "reference": "ChIJhfxP_1H3wokRkxmqTUR_zeo",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16919319306438318483",
+    "utc_offset": -240,
+    "vicinity": "West 126th Street, New York"
+}

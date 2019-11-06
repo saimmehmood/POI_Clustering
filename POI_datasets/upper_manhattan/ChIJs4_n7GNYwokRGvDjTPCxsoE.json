@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Hudson River Greenway",
+            "short_name": "Hudson River Greenway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10024",
+            "short_name": "10024",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Hudson River Greenway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Hudson River Greenway, New York, NY 10024, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7816508,
+            "lng": -73.9879825
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7829935802915,
+                "lng": -73.9866136697085
+            },
+            "southwest": {
+                "lat": 40.7802956197085,
+                "lng": -73.98931163029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "40af1aa720670fa16509a9955af57cda6bd7020a",
+    "name": "Hudson River Greenway",
+    "place_id": "ChIJs4_n7GNYwokRGvDjTPCxsoE",
+    "reference": "ChIJs4_n7GNYwokRGvDjTPCxsoE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Hudson+River+Greenway,+New+York,+NY+10024,+USA&ftid=0x89c25863ece78fb3:0x81b2b1f04ce3f01a",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

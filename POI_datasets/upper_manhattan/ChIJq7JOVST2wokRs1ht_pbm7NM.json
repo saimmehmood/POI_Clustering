@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "2721-2719",
+            "short_name": "2721-2719",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3940",
+            "short_name": "3940",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2721-2719 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-3940</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2721-2719 Broadway, New York, NY 10025, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7998595,
+            "lng": -73.9682843
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8012084802915,
+                "lng": -73.96693531970848
+            },
+            "southwest": {
+                "lat": 40.7985105197085,
+                "lng": -73.9696332802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ab52b4a76894d3c7581bc6ea2d5b26645cb4df97",
+    "name": "2721-2719 Broadway",
+    "place_id": "ChIJq7JOVST2wokRs1ht_pbm7NM",
+    "reference": "ChIJq7JOVST2wokRs1ht_pbm7NM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2721-2719+Broadway,+New+York,+NY+10025,+USA&ftid=0x89c2f624554eb2ab:0xd3ece696fe6d58b3",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "122-62",
+            "short_name": "122-62",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 114th Street",
+            "short_name": "W 114th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">122-62 W 114th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "122-62 W 114th St, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8011405,
+            "lng": -73.9516321
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8024894302915,
+                "lng": -73.94976410000001
+            },
+            "southwest": {
+                "lat": 40.7997914697085,
+                "lng": -73.9535001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c607730f8379ef16a9a7689dd342476cd1f09e85",
+    "name": "122-62 W 114th St",
+    "place_id": "ChIJK4X7khD2wokRE4q-AcaNw7w",
+    "reference": "ChIJK4X7khD2wokRE4q-AcaNw7w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=122-62+W+114th+St,+New+York,+NY+10026,+USA&ftid=0x89c2f61092fb852b:0xbcc38dc601be8a13",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

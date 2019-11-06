@@ -1,0 +1,109 @@
+{
+    "address_components": [
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7149",
+            "short_name": "7149",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-7149</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1510 Lexington Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7869928,
+            "lng": -73.95051509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7882764302915,
+                "lng": -73.9490114697085
+            },
+            "southwest": {
+                "lat": 40.7855784697085,
+                "lng": -73.9517094302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1eb9786d7ec5f682239a3f1aca79f2ca078c20c1",
+    "name": "Harley Construction Management Corporation",
+    "place_id": "ChIJJ6WcV6ZYwokR7d3vbDeFBLA",
+    "plus_code": {
+        "compound_code": "Q2PX+QQ New York, United States",
+        "global_code": "87G8Q2PX+QQ"
+    },
+    "reference": "ChIJJ6WcV6ZYwokR7d3vbDeFBLA",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12683408923679514093",
+    "utc_offset": -240,
+    "vicinity": "1510 Lexington Avenue, New York"
+}

@@ -1,46 +1,178 @@
 import numpy as np
 import pandas as pd
 import time
+import csv
 
-df = pd.read_csv('cos_sim.csv')
 
-# fetching all the columns from file.
+def top_k():
+    df = pd.read_csv('cos_sim.csv')
 
-diff = df['diff']
-node1 = df['node1']
-node2 = df['node2']
+    # fetching all the columns from file.
 
-real_cos = df['real_cos_sim']
-null_cos = df['null_cos_sim']
+    diff = df['diff']
+    node1 = df['node1']
+    node2 = df['node2']
 
-f = open("real_cos.txt", "w")
+    real_cos = df['real_cos_sim']
+    null_cos = df['null_cos_sim']
 
-cleaned = []
+    # f = open("real_cos.txt", "w")
 
-# for i in range(len(null_cos)):
-#
-#     # if (null_cos[i] == "less"):
-#     #     print(i)
-#
-#     if (null_cos[i] != "less") and (null_cos[i] != "infinite"):
-#         cleaned.append(float(null_cos[i]))
+    # cleaned = []
 
-# start = time.time()
+    for i in range(len(null_cos)):
 
-# for i in range(len(diff)):
-#
-#     if (diff[i] != "less") and (diff[i] != "infinite"):
-#         cleaned.append(float(diff[i]))
+        if (null_cos[i] == "less"):
+            print(i)
 
-for i in range(len(real_cos)):
+    #     if (null_cos[i] != "less") and (null_cos[i] != "infinite"):
+    #         cleaned.append(float(null_cos[i]))
 
-    if (real_cos[i] != "infinite") and (real_cos[i] != "less"):
-        cleaned.append(float(real_cos[i]))
+    # start = time.time()
 
-# reverse sorting to show the plot from highest to lowest. 
-cleaned = sorted(cleaned, reverse=True)
+    # for i in range(len(diff)):
+    #
+    #     if (diff[i] != "less") and (diff[i] != "infinite"):
+    #         cleaned.append(float(diff[i]))
 
-for i in range(len(cleaned)):
-    f.write(str(cleaned[i]) + "\n")
+    # for i in range(len(real_cos)):
+    #
+    #     if (real_cos[i] != "infinite") and (real_cos[i] != "less"):
+    #         cleaned.append(float(real_cos[i]))
+    #
+    # # reverse sorting to show the plot from highest to lowest.
+    # cleaned = sorted(cleaned, reverse=True)
+    #
+    # for i in range(len(cleaned)):
+    #     f.write(str(cleaned[i]) + "\n")
+    #
+    # f.close()
 
-f.close()
+#top_k()
+
+def sample_nodes():
+
+    df_real_null = pd.read_csv("cos_sim_ten.csv")
+
+    real_cos = df_real_null['real_cos_sim']
+    node1_null = df_real_null['node1']
+    node2_null = df_real_null['node2']
+
+    # storing nodes that are part of real model
+    file_nodes = open("sample_nodes.csv", "w")
+    file_nodes.write("node1,node2\n")
+
+    for i in range(len(real_cos)):
+
+        if(real_cos[i] != "infinite") and (real_cos[i] != "less"):
+
+            file_nodes.write(str(node1_null[i]) + "," + str(node2_null[i]) + "\n")
+
+
+    file_nodes.close()
+
+#sample_nodes()
+
+# This function creates a file
+# to store only cosine similarities
+# for real, intermediate and null model
+# for the nodes existing in real model.
+def sample_cos():
+
+    df_nodes = pd.read_csv("sample_nodes.csv")
+
+    # Taking nodes which are part of real model
+    node1 = df_nodes['node1']
+    node2 = df_nodes['node2']
+
+    # reading through cosine similarity comparison between real, intermediate and null models.
+    df_null = pd.read_csv("cos_sim_ten.csv")
+    df_inter = pd.read_csv("cos_sim_ten_10.csv")
+
+    # Taking columns from real_inter model
+    # value
+    real = df_inter['real_cos_sim']
+    inter = df_inter['null_cos_sim']
+
+    #key
+    node1_inter = df_inter['node1']
+    node2_inter = df_inter['node2']
+
+
+    # making dictionary of real and intermediate cosine similarities
+    dict_inter = pd.Series(list(zip(real,inter)), index=list(zip(node1_inter, node2_inter))).to_dict()
+
+    # Taking columns from real_null model
+    #value
+    null = df_null['null_cos_sim']
+
+    # key
+    node1_null = df_null['node1']
+    node2_null = df_null['node2']
+
+    # making dictionary of null cosine similarities
+    dict_null = pd.Series(null.values, index=list(zip(node1_null,node2_null))).to_dict()
+
+
+
+    file_plot = open("plot_nodes.csv", "w")
+    file_plot.write("node1,node2,real_cos,inter_cos,null_cos\n")
+    #
+    for i in range(len(node1)):
+
+        # storing the nodes from intermediate and null cosine similarities which are part of real model.
+        if tuple((node1[i],node2[i])) in dict_inter:
+
+            file_plot.write(str(node1[i]) + "," + str(node2[i]) + "," + str(dict_inter[tuple((node1[i],node2[i]))]) + "," + str(dict_null[tuple((node1[i],node2[i]))])  +"\n")
+
+
+    file_plot.close()
+#sample_cos()
+
+# we remove the nodes that contains infinite or less values for nodes
+def clean_plots():
+
+    file_clean = open("clean_plots.csv", 'w')
+
+    with open("plot_nodes.csv","r") as csvFile:
+
+        reader = csv.reader(csvFile)
+
+        index = 0
+        for row in reader:
+
+            if index == 0:
+                file_clean.write(str(row).replace("[","").replace("]","").replace("'","").replace(" ","") + "\n")
+                index = index + 1
+
+            elif str(row).__contains__("less") or str(row).__contains__("infinite"):
+                print(row)
+
+            else:
+                file_clean.write(str(row).replace("[", "").replace("]", "").replace("'", "").replace(" ","") + "\n")
+
+    file_clean.close()
+
+#clean_plots()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "157",
+            "short_name": "157",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 117th Street",
+            "short_name": "W 117th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">157 W 117th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "157 W 117th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 933-4205",
+    "geometry": {
+        "location": {
+            "lat": 40.80384519999999,
+            "lng": -73.9515728
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8051460302915,
+                "lng": -73.9502593197085
+            },
+            "southwest": {
+                "lat": 40.8024480697085,
+                "lng": -73.9529572802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c2b8be67096cde4bbe9b222679ac3d8e415a8f47",
+    "international_phone_number": "+1 212-933-4205",
+    "name": "Rafael Hilario Z. Obusan, PT",
+    "place_id": "ChIJR7TnbBH2wokRIYP6EYL-iQU",
+    "plus_code": {
+        "compound_code": "R23X+G9 New York, United States",
+        "global_code": "87G8R23X+G9"
+    },
+    "reference": "ChIJR7TnbBH2wokRIYP6EYL-iQU",
+    "scope": "GOOGLE",
+    "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=399129876599833377",
+    "utc_offset": -240,
+    "vicinity": "157 West 117th Street, New York"
+}

@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "3480-3498",
+            "short_name": "3480-3498",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5611",
+            "short_name": "5611",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3480-3498 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5611</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3480-3498 Broadway, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8247931,
+            "lng": -73.9515222
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261420802915,
+                "lng": -73.95017316970849
+            },
+            "southwest": {
+                "lat": 40.8234441197085,
+                "lng": -73.95287113029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5a3e232301f325e33c779a256ba922d9b1e615c1",
+    "name": "3480-3498 Broadway",
+    "place_id": "ChIJT26qiWP2wokRI_qkSUfPWlg",
+    "reference": "ChIJT26qiWP2wokRI_qkSUfPWlg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=3480-3498+Broadway,+New+York,+NY+10031,+USA&ftid=0x89c2f66389aa6e4f:0x585acf4749a4fa23",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

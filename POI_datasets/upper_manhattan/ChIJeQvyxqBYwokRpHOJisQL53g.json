@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "hall 4th floor",
+            "short_name": "hall 4th floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "130",
+            "short_name": "130",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Black, <span class=\"street-address\">130 E 77th St hall 4th floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Black, 130 E 77th St hall 4th floor, New York, NY 10075, USA",
+    "formatted_phone_number": "(212) 241-5315",
+    "geometry": {
+        "location": {
+            "lat": 40.7866264,
+            "lng": -73.9516785
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7878077302915,
+                "lng": -73.9504534197085
+            },
+            "southwest": {
+                "lat": 40.7851097697085,
+                "lng": -73.9531513802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ae436fd88fb997282106853c7bfb24aabb767dd8",
+    "international_phone_number": "+1 212-241-5315",
+    "name": "Carraccio Alfio MD",
+    "place_id": "ChIJeQvyxqBYwokRpHOJisQL53g",
+    "plus_code": {
+        "compound_code": "Q2PX+M8 New York, United States",
+        "global_code": "87G8Q2PX+M8"
+    },
+    "reference": "ChIJeQvyxqBYwokRpHOJisQL53g",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8711944942937273252",
+    "utc_offset": -240,
+    "vicinity": "Black, 130 East 77th Street hall 4th floor, New York"
+}

@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "3513",
+            "short_name": "3513",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5622",
+            "short_name": "5622",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3513 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-5622</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3513 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 281-4444",
+    "geometry": {
+        "location": {
+            "lat": 40.8257126,
+            "lng": -73.9516031
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8269825302915,
+                "lng": -73.9500664697085
+            },
+            "southwest": {
+                "lat": 40.8242845697085,
+                "lng": -73.95276443029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "55265298b7f355a96ea1cf8ca72297cf10ae8d9f",
+    "international_phone_number": "+1 212-281-4444",
+    "name": "Queen Natasha Pawn Shop",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJFV2ol2P2wokR1i3x7tRj84w",
+    "plus_code": {
+        "compound_code": "R2GX+79 New York, United States",
+        "global_code": "87G8R2GX+79"
+    },
+    "rating": 5,
+    "reference": "ChIJFV2ol2P2wokR1i3x7tRj84w",
+    "reviews": [
+        {
+            "author_name": "DaQuaan Washington",
+            "author_url": "https://www.google.com/maps/contrib/113489931299902781193/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Cgph517sGSI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcgBtJlZqCMIuJGgj3zbBfOmQLxHA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1465846202
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10156571350843600342",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "3513 Broadway, New York"
+}

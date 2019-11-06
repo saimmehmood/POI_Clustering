@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 E 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 E 84th St, New York, NY 10028, USA",
+    "formatted_phone_number": "(646) 942-3516",
+    "geometry": {
+        "location": {
+            "lat": 40.7759436,
+            "lng": -73.95048899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77717038029149,
+                "lng": -73.94923041970848
+            },
+            "southwest": {
+                "lat": 40.77447241970849,
+                "lng": -73.9519283802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "275daf331a4422f495d354f06ef155c43f39ad9e",
+    "international_phone_number": "+1 646-942-3516",
+    "name": "jurbanconsulting",
+    "place_id": "ChIJI7SqM7pYwokRDrK-AzwVzH8",
+    "plus_code": {
+        "compound_code": "Q2GX+9R New York, United States",
+        "global_code": "87G8Q2GX+9R"
+    },
+    "reference": "ChIJI7SqM7pYwokRDrK-AzwVzH8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9208758685570871822",
+    "utc_offset": -240,
+    "vicinity": "351 East 84th Street, New York"
+}

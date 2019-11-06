@@ -1,0 +1,242 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1604",
+            "short_name": "1604",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4314",
+            "short_name": "4314",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1604 1st Avenue #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4314</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1604 1st Avenue #1, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 737-8484",
+    "geometry": {
+        "location": {
+            "lat": 40.775052,
+            "lng": -73.9505034
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7764321802915,
+                "lng": -73.94923001970848
+            },
+            "southwest": {
+                "lat": 40.7737342197085,
+                "lng": -73.9519279802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b0dbb81f3322ee7877a53db0063e723b28dbd323",
+    "international_phone_number": "+1 212-737-8484",
+    "name": "Smile Cleaner",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ8XQjgblYwokRrNCAa7Zd28E",
+    "plus_code": {
+        "compound_code": "Q2GX+2Q New York, United States",
+        "global_code": "87G8Q2GX+2Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ8XQjgblYwokRrNCAa7Zd28E",
+    "reviews": [
+        {
+            "author_name": "Jen Temkin",
+            "author_url": "https://www.google.com/maps/contrib/108227931451012927583/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--DNeU6gbMeQ/AAAAAAAAAAI/AAAAAAAAAA0/Yc74d1EORJU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Do NOT do business with Smile cleaners!! I had dropped off two pairs of expensive paints and when my laundry was delivered the pants were not with them! When I went to inquire about the pants they told me \"they don't know what happened, but it was not their fault.\" They didn't offer to do anything for the cost of the pants. I called twice and dropped in 4 times to ask for the Manager who I still have yet to hear from!  DO NOT USE THIS COMPANY! There are many other cleaners on the block that I would recommend way before this one!",
+            "time": 1524246392
+        },
+        {
+            "author_name": "Gabriel Medrano",
+            "author_url": "https://www.google.com/maps/contrib/115546855940430697010/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6RAPQsmMCbM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re_WQJUocir_v9-nSNGP54ZcvBjuQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1524485095
+        },
+        {
+            "author_name": "Jacob Sachs",
+            "author_url": "https://www.google.com/maps/contrib/108710283455195652432/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nh_thz6PC60/AAAAAAAAAAI/AAAAAAAAF1E/vezkBW08s6w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1501707575
+        },
+        {
+            "author_name": "Dylan Green",
+            "author_url": "https://www.google.com/maps/contrib/114314570725917935884/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Ucdmci5R-L4/AAAAAAAAAAI/AAAAAAAACm4/BLCdrhcb_-w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1462021685
+        },
+        {
+            "author_name": "Eddie Larned",
+            "author_url": "https://www.google.com/maps/contrib/101205543631045851933/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HU69Cub45Ik/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3regoqGZ-fTXoeMiNnGyQHCYgFvJrw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "",
+            "time": 1447368250
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13968861707288760492",
+    "user_ratings_total": 7,
+    "utc_offset": -240,
+    "vicinity": "1604 1st Avenue #1, New York"
+}

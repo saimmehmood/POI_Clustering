@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "364-398",
+            "short_name": "364-398",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Avenue",
+            "short_name": "St Nicholas Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">364-398 St Nicholas Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "364-398 St Nicholas Ave, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.81297459999999,
+            "lng": -73.9505447
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8143233802915,
+                "lng": -73.94919536970849
+            },
+            "southwest": {
+                "lat": 40.81162541970851,
+                "lng": -73.9518933302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "15dcaf71614f275fa47f6f316ab9e183fe5cb17b",
+    "name": "364-398 St Nicholas Ave",
+    "place_id": "ChIJTS0Zs232wokRgflMY-PXLqc",
+    "reference": "ChIJTS0Zs232wokRgflMY-PXLqc",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=364-398+St+Nicholas+Ave,+New+York,+NY+10027,+USA&ftid=0x89c2f66db3192d4d:0xa72ed7e3634cf981",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

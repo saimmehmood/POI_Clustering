@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "1100",
+            "short_name": "1100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Avenue at Port Imperial",
+            "short_name": "Ave at Port Imperial",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Weehawken",
+            "short_name": "Weehawken",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07086",
+            "short_name": "07086",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1100 Ave at Port Imperial</span>, <span class=\"locality\">Weehawken</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07086</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1100 Ave at Port Imperial, Weehawken, NJ 07086, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7737016,
+            "lng": -74.0119867
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77505058029151,
+                "lng": -74.01063766970849
+            },
+            "southwest": {
+                "lat": 40.77235261970851,
+                "lng": -74.0133356302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a563a2cc6f78401081fded8a655307d7db9ae2a6",
+    "name": "1100 Ave at Port Imperial",
+    "place_id": "ChIJCepNUTlYwokRXYbzR6k7hp8",
+    "reference": "ChIJCepNUTlYwokRXYbzR6k7hp8",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1100+Ave+at+Port+Imperial,+Weehawken,+NJ+07086,+USA&ftid=0x89c25839514dea09:0x9f863ba947f3865d",
+    "utc_offset": -240,
+    "vicinity": "Weehawken"
+}

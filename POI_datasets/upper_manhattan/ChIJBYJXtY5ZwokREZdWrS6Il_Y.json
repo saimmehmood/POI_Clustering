@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "523",
+            "short_name": "523",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">523 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "523 Broadway, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 965-0493",
+    "geometry": {
+        "location": {
+            "lat": 40.7229657,
+            "lng": -73.99918819999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7242562302915,
+                "lng": -73.99772131970849
+            },
+            "southwest": {
+                "lat": 40.7215582697085,
+                "lng": -74.0004192802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "544dfe091f280dbec49875f1c5afb3f32a878600",
+    "international_phone_number": "+1 212-965-0493",
+    "name": "Lady Foot Locker",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 9:00 PM",
+            "Sunday: 11:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101169930365434219742/photos\">Saundra Kiczenski</a>"
+            ],
+            "photo_reference": "CmRaAAAAUCAd0jQYan8KpH-G9ocgVnHkZJIUOaevbrym55bnOqw12fDHsRfmE9zjy19sGqLWDXHC6dlspYFWPCPUccgIauVrHdkuD28L_5Eb640SMvBlB3sOKv7Df05XuVenplH2EhDehy2tIMp9PHhGNxtFLeqmGhQel9z05S_khRIF463X7apNcklzdA",
+            "width": 4032
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116854495727947207680/photos\">Lenny The</a>"
+            ],
+            "photo_reference": "CmRaAAAAMNlRkBVfiSBaAiHjVG4lVAQc_ZIjYCuJSqfrKOI2c0hx0eniRbb-8UQ4Wy9N81a_WufTWGCUpp_Eld8rYB2MbxcOsihn-CnX-Pjx8vuWDNgqRddxXo5_aMDkLHHvi2QHEhBIaEqGJ5B_w-ZyYfd6sqCkGhRDCWz3F3xgM1ZnQUm4NM8hCReX-g",
+            "width": 1536
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104580591489373103664/photos\">kelly crenshaw</a>"
+            ],
+            "photo_reference": "CmRaAAAAB_LkicrrymO2dliItRdBU-ouFysm2aagBT0XV2vhPZ8WEBfcYxyErdmih4qJL9yCkTJhr1b0-l55qku6VH8dnBqdBaa4kdtV8Outg4nYzX-japTHFAROcUHFAPXyPNMAEhBm0L8KO4n--VGi0RDHABIiGhTv8HwqUzudTnBENG7C2n6L4kKkRA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117357934109968920270/photos\">William B</a>"
+            ],
+            "photo_reference": "CmRaAAAAn3a9nog4ct69uT-FuiXeGHQzK598Uy3DxjURNzmbYMiF3HpzidfC9v9fEIx3SB79SrLFezF72WIKwdnHXr3xvcAU_e-y-CjegYulch5UUQc5qRPXJhtkVDGCw9V15AVUEhBaqpJWianEBmfu0EWeqS9GGhT3QHnPrvAV604EOmv0HV1pAfuPIw",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112131467583970748178/photos\">Mamuka Rogava</a>"
+            ],
+            "photo_reference": "CmRaAAAAtwSimaIMmgjt3LBwTk-qg9D8iwc8UO5TyzqD8_SaFdeTrJVHlRU9hzhEsPvL9CPLjcRZel5Y2jwvaxIKFI1F3OrdWhrBosMDixt0zlijU7XsOsmQjInEJYXep7twQ-8PEhB14je5UZ_KbSWfpFxobVsKGhSuZf0djNIGD0LoQeSp60rUo2l5hw",
+            "width": 2448
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104580591489373103664/photos\">kelly crenshaw</a>"
+            ],
+            "photo_reference": "CmRaAAAAw8pDQVXqyogW0QhaFYfw6Ftwqpm3nBOjqjwctF9gYU6BkVwDInzrjJDmP181zh1wvcDk6mJnLPCNX-cJOG0_L70XuWFE9_0dZUNo0iesGt4a2MpBonBRfABfabHgFH68EhAxmygA64sZlqzVde7ae4JWGhQME6ZNMqL6DXPfli10NxssAmeDdQ",
+            "width": 3024
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106998064201637533246/photos\">marciano gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAGFB78A9_3VSNCPBzfHJ0x6BQAJJ44l7t9rdWAyz2q-Q0znmNpGt1yK0ayBf5viXdg93lBTXDLiBEFEAGthIZih-Ul57NMKR5OIikg8pIOSlcQpruB4Uc3pF5kJuO0rchEhD5NbcIlXsORqO8rkzJKrgRGhSFn70RVCBjDMgXyXV6skz5qsxocA",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110005574342400830864/photos\">Roy M</a>"
+            ],
+            "photo_reference": "CmRaAAAADvP1YMpWQJSc1fJ1itqTBX2gOU_fqy7h_Z9t3PO-HL0m4Odi_4j8PP_FlGPMjjdoBYw0038wREwCvs7gsdNpAfOkZwkJx5bs0XgWVGxe409S9yjSPA1AQgUj_uTzy7LfEhBGKq18R6AstqrfJX0JDAIRGhT6pD6tBUgpMXaJlHwzLLNWbfg2TA",
+            "width": 4032
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100529801101939583056/photos\">GiGi C</a>"
+            ],
+            "photo_reference": "CmRaAAAAqhJnM0GYQOtUL-gHsli5NNJ-7Lcx9NFvpPptqBbC4CKLL-YyTFUjUOGinYNjDp9lDg9ENx2Mc2KT1l1nhzEfwcYvPdcxMHI-bCjHg1uwM5TvISK8lLX0l7dRj0Cl1LJ_EhBTWn0Cpxo8bhpdT-MSOqqCGhQlpyYp2HFRZwvFLQNs4MNV2oWyTg",
+            "width": 1080
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104022540999790715236/photos\">Gino Cingolani Trucco</a>"
+            ],
+            "photo_reference": "CmRaAAAA41i_7UJg5oLAWpMemQ1goz4ocD2kTrB14CKVDOKcSy2bfzoV5Rti5ORc1Saj2pie9plcR5yjURyyw8rEKglAzxKleoeZUhYW-xAuY1ijwM_OWWaTYQ43pJnHhNMbs8WCEhC8ueAPoxenhsZZOKmq-hYtGhQl3wN7fDaw8yeR5zT2om6AGsoM4A",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJBYJXtY5ZwokREZdWrS6Il_Y",
+    "plus_code": {
+        "compound_code": "P2F2+58 New York, United States",
+        "global_code": "87G8P2F2+58"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJBYJXtY5ZwokREZdWrS6Il_Y",
+    "reviews": [
+        {
+            "author_name": "Yeet 69420",
+            "author_url": "https://www.google.com/maps/contrib/113304808185121387075/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rk8SfbJZv2o/AAAAAAAAAAI/AAAAAAAADtQ/DRSY8cgqblM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The place is very welcoming and comfortable compared to the other loud and crowded foot Lockers I\u2019ve been too. The staff are super friendly and ask if I need help or anything. ",
+            "time": 1562459873
+        },
+        {
+            "author_name": "Roy M",
+            "author_url": "https://www.google.com/maps/contrib/110005574342400830864/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Gvo8c7dZeNw/AAAAAAAAAAI/AAAAAAAAV-I/qVmPYMQwMiE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great selection! And scored some sick Adidas NMD for the wife at a solid price.",
+            "time": 1559612729
+        },
+        {
+            "author_name": "Tracy Mckeever",
+            "author_url": "https://www.google.com/maps/contrib/101553014622471509539/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-VQNeyRXGt08/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reSGV52nJSn07lHuq929LCb8MIySg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great selection of women's footwear",
+            "time": 1560893499
+        },
+        {
+            "author_name": "Kathy James",
+            "author_url": "https://www.google.com/maps/contrib/104463662756582145310/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vIm7mNacxbI/AAAAAAAAAAI/AAAAAAAAAAg/SWNKGOaMKnM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Great selection of tennis racquets. Very knowledgeable employees that helped we pick out the right fit and strings. Thanks.",
+            "time": 1550311764
+        },
+        {
+            "author_name": "Emahn Erving",
+            "author_url": "https://www.google.com/maps/contrib/109211925987489090485/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mWkd5KVDi7A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdgs5tNDBG2mTNxqgr69BRH2ju8fQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "As soon as we walked into the Soho location we were immediately greeted by their sales people. I was with my boyfriend shopping looking for a shirt/hat combo, but a jacket immediately stood out to him. My boyfriend didn't see his size and Lance(? ) offered to check in back. They only had the size in a different color. Lance offered to have my boyfriend try the jacket on to make sure it fits so he could find it in another store and have it shipped to us. Lance also showed him the matching top and hat. My boyfriend decided to purchase the hat and have the jacket mailed to him. We thought it was smart to secure a sell in this way instead of simply telling someone to buy online or go to a different location. The experience was great until we were at the register and possibly a manager? Pointed out to Lance(?) that there were other customers behind us. I'm 100% sure he was aware of the line in front of his face. He says Okay. Then communicates to that he is doing the procedure for sending merchandise to the customer's home. Just letting her know that it wouldn't be fast. Then she rudely says, \"Well you need to move faster\". As a customer I was completely offended by this. Why do I need to be rushed when I'm giving my name and address? Why do I need to be made to feel unimportant? I'm so glad Lance did not rush us because we had to correct part of the address that was initially misread. And honestly speaking in 2018 it's a bad look to tell your sales person to rush with the black couple in order to help the non Blacks behind them. Eventually she returned to take the customers behind us but not without letting Lance know that she would take BOTH customers at another register. She clearly could have taken them without informing Lance, but she had to make her point. We really appreciated Lance's help and an Asian gentleman who helped too. But someone needs to teach the manager lady some basic manors.",
+            "time": 1527008234
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17768820588871587601",
+    "user_ratings_total": 63,
+    "utc_offset": -240,
+    "vicinity": "523 Broadway, New York",
+    "website": "https://stores.ladyfootlocker.com/ny/new-york/523-broadway.html"
+}

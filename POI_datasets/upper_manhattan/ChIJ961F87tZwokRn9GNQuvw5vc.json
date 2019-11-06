@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "246",
+            "short_name": "246",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 20th Street",
+            "short_name": "W 20th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">246 W 20th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "246 W 20th St, New York, NY 10011, USA",
+    "formatted_phone_number": "(212) 255-7964",
+    "geometry": {
+        "location": {
+            "lat": 40.7429692,
+            "lng": -73.9991981
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443878302915,
+                "lng": -73.99779821970849
+            },
+            "southwest": {
+                "lat": 40.7416898697085,
+                "lng": -74.0004961802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c454808be9f750e7df5d93a85d8d40bb4386c36d",
+    "international_phone_number": "+1 212-255-7964",
+    "name": "Dr. Anthony J. Dowidowicz, MD",
+    "place_id": "ChIJ961F87tZwokRn9GNQuvw5vc",
+    "plus_code": {
+        "compound_code": "P2V2+58 New York, United States",
+        "global_code": "87G8P2V2+58"
+    },
+    "reference": "ChIJ961F87tZwokRn9GNQuvw5vc",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17863229865236222367",
+    "utc_offset": -240,
+    "vicinity": "246 West 20th Street, New York"
+}

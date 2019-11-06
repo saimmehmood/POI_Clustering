@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "9",
+            "short_name": "9",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 110th Street",
+            "short_name": "W 110th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">9 W 110th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "9 W 110th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 964-4126",
+    "geometry": {
+        "location": {
+            "lat": 40.7973402,
+            "lng": -73.94990179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7986227802915,
+                "lng": -73.94860171970849
+            },
+            "southwest": {
+                "lat": 40.7959248197085,
+                "lng": -73.9512996802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "cb6496d433f38f13c820bd0af5661f4274959d20",
+    "international_phone_number": "+1 646-964-4126",
+    "name": "Central Park Organic Deli & Grocery",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 11:00 PM",
+            "Tuesday: 6:00 AM \u2013 11:00 PM",
+            "Wednesday: 6:00 AM \u2013 11:00 PM",
+            "Thursday: 6:00 AM \u2013 11:00 PM",
+            "Friday: 6:00 AM \u2013 11:00 PM",
+            "Saturday: 7:00 AM \u2013 10:00 PM",
+            "Sunday: 7:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113950364973271531882/photos\">Christ Baez</a>"
+            ],
+            "photo_reference": "CmRaAAAAgYgM0OMqHzub8HAWW5ykk0gdd5jgRDGX4x4AFFVAXU7_CG0kR7b_ldsxpy6WThoRyUBllK0K3V21GpLNvStV0Woaus9FbyA0Ss19dlnBRbsy9p2WoDz6z0jh4vY2w0RtEhDUz50plxRKXMRKVItqHEcVGhRAy_6IkHI-KYaSvht5nGr7QDG_Mg",
+            "width": 1600
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111745754697237604440/photos\">Mick Bonde</a>"
+            ],
+            "photo_reference": "CmRaAAAAtbXW2WPFZXTIeOpEzyI3n2_PyQH4Ae1A-S0TGT49-_YGj_H4-PiyFUGvJRgUlNv0-ofirk3Fovr8VxBvp_hlcj8-feuFB7_LbKnkCt_J2RPx_1IhTH_QI9bTaL8w0tABEhDqheSK6-WVpmGD0sL4gHLnGhRGjWAl0wbS1UBU7fmvZiKvrCik2g",
+            "width": 4032
+        },
+        {
+            "height": 1145,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108596170910112903249/photos\">Central Park Organic Deli &amp; Grocery</a>"
+            ],
+            "photo_reference": "CmRaAAAAU92XRDYE8Lth97clz-HwWZFrCurDbThkvlDIBDcE8G-enXj7XGyDMKov72qKEIZws--uYr3soqGqVoulJi_F0407tYWiI6yHD2j10joco4B6ypR611CNDR0EV_KOSQMvEhCaEx5HMgJ0rAzLYvkd0s-KGhQ4AeaClCR1ADH5XTazN9Hns13LAQ",
+            "width": 1151
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111745754697237604440/photos\">Mick Bonde</a>"
+            ],
+            "photo_reference": "CmRaAAAA7zrlZTVGdcLPPL6Mknp-joUHn65vgd7tDGf1mBer9tjca7UYNnaX--rXfGW-QbWs_bnOck5vz6mAE9eU0I44IzCOwCzwBNxjh1ES2QUqICXcwCvCqh7oftCq3RppOfDHEhCBvXuwjX0z4Ym3AEMX4A6wGhSjQLnUXtNR-tl7qZ0fKF1pzA3b3g",
+            "width": 4032
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111243465929537961906/photos\">George Marte</a>"
+            ],
+            "photo_reference": "CmRaAAAACV1_noZO5uhkzOt6I0muflHiRmxBJ30zBYzjJlV9cuJhlyvUPcIyYL9pYWbiz1yaK7ZnELOu8Alptkah6K2_2L52dLV9Rb0zNrpsJEwe3ake27XFQ5kzc4Z-nQ7EA6KkEhDW7TSTk5EXGbsgqvuXHcanGhS6AGIeITGxk-S2S0kBBPldSMRaxg",
+            "width": 1536
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111745754697237604440/photos\">Mick Bonde</a>"
+            ],
+            "photo_reference": "CmRaAAAAynQ7Ve4JPVy5BTT1S0swm2yCqzOfb00YlkPw6Oqj5oO_eWUDzp3TKCJz6Ji7tArig3ExXYe7eu66wj-bttPLwLfkIXTtjMVX0IFOf5Qz8Mpp0V1GMX0Dov-VTVL4NHmZEhBz5W1RhaCjbLUAd4tvdkTAGhQIZ1_ZTwKyxvxITHs5DpV1uNCxmw",
+            "width": 4032
+        },
+        {
+            "height": 3492,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109665035918198386615/photos\">Jason Elmer</a>"
+            ],
+            "photo_reference": "CmRaAAAAaP36y39cN6aBQKDSKZApd3O7KMucNO9ZTKKRn8uoxR4ivlXex8dO4p3Ms8WxM-itXYfUY8isO8lxq0PH3OOO-Nk8qoXHZOv7wt2l9_mbEr7UBspuX9-DSb-rGPgpEad0EhAXUyZblKujcPgwl7e4ylSCGhRTc6XQRr-vdn22BMYGnadH43qXPg",
+            "width": 4656
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113677709334706834088/photos\">Mayer</a>"
+            ],
+            "photo_reference": "CmRaAAAANpWna984_NDf4-GfsEJoxY-IeMcZWsd8YWaoIEuKrAERQjmbw-s2ad58nC3xJoiYX-R0T3AKe0LLP5-awDNDNBh1hGtpbb0Dh83ckTkVr0sN0ANUdBS-uU2N62TXNc9HEhCUigqu4f8WbfsrkyZwtYMyGhThVqcaTBhUNzj4iWoMKYJ_6JRsmw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111035476343162527704/photos\">george ambrose</a>"
+            ],
+            "photo_reference": "CmRaAAAABsovpHOEuZveYtlEvZKUvxt8vm-LJVBRNCb5JGxZoi_pUk8UIEIuDxe5kdx2elaf78-_v_-jnzNJu8Q6RETwJtUHgdk3guFyNhX-yd5w94S4hcMSa0zauxK4NPLEWuoTEhAL1YNiBvzMgnfklqrkc01WGhQe-jjWsBKJ04rNm1Sorj_vk8fKUw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111035476343162527704/photos\">george ambrose</a>"
+            ],
+            "photo_reference": "CmRaAAAAWAkEKoiZakUehY8d2WVIj8A0qES171tVuaK_wFF98xrcpv0vcKBRdPvswUxer2b1fPD7_s8u3E5KKJRqryHoJRZz0MTXKLtAOI9VxOevIVIWzhQnQe29eZxvkdFtnHXbEhCI728kmAsz5qD3BUT8tXr7GhSjj3CIksTjmVJZKuFeBE_MWyIIcQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJKeev4hr2wokRHJaPHsPogFM",
+    "plus_code": {
+        "compound_code": "Q3W2+W2 New York, United States",
+        "global_code": "87G8Q3W2+W2"
+    },
+    "rating": 3.9,
+    "reference": "ChIJKeev4hr2wokRHJaPHsPogFM",
+    "reviews": [
+        {
+            "author_name": "Ceecee Jean",
+            "author_url": "https://www.google.com/maps/contrib/102080946504955422785/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5Wdo978LKZ0/AAAAAAAAAAI/AAAAAAAAABc/-hIhgHu-iLc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "They have a variety of things to choose from, however the man that made my son his salad was a bit rude my son held his cool as did i. Other then that i would recommend someone to shop there.",
+            "time": 1557565326
+        },
+        {
+            "author_name": "Percy Saunders",
+            "author_url": "https://www.google.com/maps/contrib/109048280527724978975/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_1Oq7nYaTVQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdukrF2QdvTfb-qmCidZvqDBEQ2Wg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "The place looks clean but the staff kept following me even when i expressed my displeasure as a regular customer because their milk was the lowest priced at the time. I live on the same block and walk past this store everyday as I'm not comfortable spending money where profiling exist.",
+            "time": 1509383710
+        },
+        {
+            "author_name": "Iftach Ian Amit",
+            "author_url": "https://www.google.com/maps/contrib/112136314686359773362/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-R8vjpgCXoko/AAAAAAAAAAI/AAAAAAAAAn8/JDKdNziyx-8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Love the staff here. Super friendly. Lots of variety.\nExcellent coffee, and fresh salads.",
+            "time": 1472605299
+        },
+        {
+            "author_name": "Lars Christian Andresen",
+            "author_url": "https://www.google.com/maps/contrib/117755311753733205700/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-EkjQMic2iBU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re-Cr_HMcJ6-j70ExUIRvYcASFc6w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Excellent local deli with fresh ingredients. Highly recommend their bagels, salads and freshly squeezed juices",
+            "time": 1490218736
+        },
+        {
+            "author_name": "Sue Norfort",
+            "author_url": "https://www.google.com/maps/contrib/105927408469558394127/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-16UT7YOX8Xg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfC3lfUMlrhZpRiLO-sQgOtAoqpCg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "Not that  good",
+            "time": 1551351783
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6017065026895975964",
+    "user_ratings_total": 22,
+    "utc_offset": -240,
+    "vicinity": "9 West 110th Street, New York"
+}

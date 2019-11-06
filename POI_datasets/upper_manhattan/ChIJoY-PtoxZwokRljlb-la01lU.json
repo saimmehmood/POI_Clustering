@@ -1,0 +1,200 @@
+{
+    "address_components": [
+        {
+            "long_name": "3rd floor",
+            "short_name": "3rd floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St 3rd floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St 3rd floor, New York, NY 10041, USA",
+    "formatted_phone_number": "(212) 235-6510",
+    "geometry": {
+        "location": {
+            "lat": 40.703323,
+            "lng": -74.00889600000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7049049802915,
+                "lng": -74.00781376970849
+            },
+            "southwest": {
+                "lat": 40.7022070197085,
+                "lng": -74.0105117302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "33b43b8696a681b1f57342490cda09b19a285398",
+    "international_phone_number": "+1 212-235-6510",
+    "name": "Totem Creative LLC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102701407841394716428/photos\">Totem Creative LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAez1ef-YfPxZ_jiSU7y9IAS4bJ76g9BorxDLtWQKpan69Bi2S3c3we4_UIvnS6j-6_jNK9i_xPP8Fci0Wh0pSrj2o03cqw4O-W-oqBXWUSuDqo__F2bGh_jImV8Qe2ED-EhCZxWZlWL1ye3sqjEs71-ZuGhS8bTvH6dcuh6P4XKs7wsdDHITA3A",
+            "width": 720
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102701407841394716428/photos\">Totem Creative LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAABCSwt7uyS9xhEaLpET7N1HwTodcPBK_jONWDSMzbdlL8aLdfZC3QChVZ5m8NlCa1zC4_7-ElOmQtg0NftgMlHWOIhSWIknDiivYeMQgzgt_qJ8tKDgI1NrueLYHkPA6HEhA4gfreZvnaCoSMreBv-cJ2GhT99KgWoKDBxxd7E0wUWdXgKPuEug",
+            "width": 720
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102701407841394716428/photos\">Totem Creative LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAA5LsDtBpu0KHGw9BnUlnPL07Bf3VqKqys9N6nNFG0onwdsYO_x5y3-53j6viilVIGao-3XGbzRS39C-5dOc0JBMfQquttGEC2DQ2Ck3Dlz23zShKXaZU8yOxTI-_uCH0-EhA2K3c4p3-THHVkOUMK2gNLGhRdLv8UzdayOwVRsOXHjGtZAZh35w",
+            "width": 959
+        }
+    ],
+    "place_id": "ChIJoY-PtoxZwokRljlb-la01lU",
+    "plus_code": {
+        "compound_code": "PX3R+8C New York, United States",
+        "global_code": "87G7PX3R+8C"
+    },
+    "reference": "ChIJoY-PtoxZwokRljlb-la01lU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6185329423900424598",
+    "utc_offset": -240,
+    "vicinity": "55 Water Street 3rd floor, New York"
+}

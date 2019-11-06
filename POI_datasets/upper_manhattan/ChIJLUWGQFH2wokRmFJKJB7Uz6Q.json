@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Moorings Ln",
+            "short_name": "Moorings Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4301",
+            "short_name": "4301",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Moorings Ln</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020-4301</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "18 Moorings Ln, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 224-0839",
+    "geometry": {
+        "location": {
+            "lat": 40.8270448,
+            "lng": -73.97569399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8284011302915,
+                "lng": -73.97433741970849
+            },
+            "southwest": {
+                "lat": 40.8257031697085,
+                "lng": -73.9770353802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87cb2abe35605a27ab338cb6abaa3708c5a3e1ea",
+    "international_phone_number": "+1 201-224-0839",
+    "name": "Purchase Partners LLC",
+    "place_id": "ChIJLUWGQFH2wokRmFJKJB7Uz6Q",
+    "reference": "ChIJLUWGQFH2wokRmFJKJB7Uz6Q",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11875943968322245272",
+    "utc_offset": -240,
+    "vicinity": "18 Moorings Ln, Edgewater"
+}

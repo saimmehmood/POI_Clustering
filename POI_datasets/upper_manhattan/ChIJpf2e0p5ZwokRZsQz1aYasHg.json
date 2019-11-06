@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "199-101",
+            "short_name": "199-101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 13th Street",
+            "short_name": "E 13th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">199-101 E 13th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "199-101 E 13th St, New York, NY 10003, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.733073,
+            "lng": -73.9887782
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73442198029149,
+                "lng": -73.9865914
+            },
+            "southwest": {
+                "lat": 40.73172401970849,
+                "lng": -73.990965
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "122cd9a0e6b78b5790796b001131433b36af9d2f",
+    "name": "199-101 E 13th St",
+    "place_id": "ChIJpf2e0p5ZwokRZsQz1aYasHg",
+    "reference": "ChIJpf2e0p5ZwokRZsQz1aYasHg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=199-101+E+13th+St,+New+York,+NY+10003,+USA&ftid=0x89c2599ed29efda5:0x78b01aa6d533c466",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

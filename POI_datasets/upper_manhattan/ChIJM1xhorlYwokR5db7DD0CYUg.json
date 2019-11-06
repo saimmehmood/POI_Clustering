@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "499-401",
+            "short_name": "499-401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Stephen of Hungary Way",
+            "short_name": "King Stephen of Hungary Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">499-401 King Stephen of Hungary Way</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "499-401 King Stephen of Hungary Way, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7738232,
+            "lng": -73.9501399
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77517218029149,
+                "lng": -73.94789505
+            },
+            "southwest": {
+                "lat": 40.77247421970849,
+                "lng": -73.95238484999997
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "11416cddef2cd62f0276181133d48f4b0f250d91",
+    "name": "499-401 King Stephen of Hungary Way",
+    "place_id": "ChIJM1xhorlYwokR5db7DD0CYUg",
+    "reference": "ChIJM1xhorlYwokR5db7DD0CYUg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=499-401+King+Stephen+of+Hungary+Way,+New+York,+NY+10028,+USA&ftid=0x89c258b9a2615c33:0x4861023d0cfbd6e5",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

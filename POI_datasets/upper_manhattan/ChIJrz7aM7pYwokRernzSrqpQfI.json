@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "1621",
+            "short_name": "1621",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1621 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1621 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 452-1305",
+    "geometry": {
+        "location": {
+            "lat": 40.7760477,
+            "lng": -73.95033409999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77733498029149,
+                "lng": -73.9488451197085
+            },
+            "southwest": {
+                "lat": 40.77463701970849,
+                "lng": -73.9515430802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4ae551dafa72ee3a054684b8c1317e9c5a7ce66a",
+    "international_phone_number": "+1 212-452-1305",
+    "name": "Basics Plus Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 10:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 307,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAyMA4vVV-Er0rdSXfr7brjKQ_OxArsMWGGi2WiCI_d-804DhE0SNDrC5UCV2qDkW8teosTJqkU8JFQ5yukmNW4U2TJ1xKzCffLzQZNMycnU-hGbEepMxswQvZ0Q6Gubj9EhCjJKcRPldK42sos3EuYLB6GhTM5CdghefIrWo0M6FfkVQ3aQOvww",
+            "width": 460
+        },
+        {
+            "height": 582,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAK9snkkEcShEdnD1MPum0t5X_hkMBdsnOYa2ftQ5sqZuNmokS6sk6rmPvg0qC_deN2sdm8T1EC1rIB8-E73UfeDe8TkCU7FXZn5Df6GkezhjFtQAtDjKA_uwUHo-pEzzdEhCj0o3hmhDJeWG1kVvpgvn9GhQPioKvB_bu3DbIiLwnAC9k5kJc_w",
+            "width": 1038
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA4QQsF_4jArL5jgjS68YSMy12V3sT5_53JofUVJaIiC6DikanI3BIN_i1HBnbFdoSawf4ZgExDfqGHDQ0z7pMhNjh06AVf7ND6f5DB1NqjQmlvCVwTkkZz8sd-kjh_XRdEhAQf1-I8YWOWb3oi-TGRmrqGhQSbj7f5XU4-mlsS-jeRh368VvXZw",
+            "width": 3024
+        },
+        {
+            "height": 307,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAIwXl_khLUDEjpsfkwRPCfmMsyJ8pYug3bVCgKzIghKEBn9436eze_bTy3_D3NDNnIrkllx7Qr8t39PhmBV6sqb1viFDkppI7f_X0DthEX-4qBMIpRyiUDXciao-1vDP9EhBdhM9vrOKcCOeZx4HhMkCCGhQGc5YgD1boenubWypc_j7ZHuI9aA",
+            "width": 460
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAoa_HZ50Dw827zvUF-BFVO5ERz_YQNNg7_KGWqK0rE-gA6SDNRJD2f3_Ocim-3sgsTF_7M39viokV8F1Y10ZBECa1dix1SU6owkwLD-XlN95244reo72X92O0hxdJsQPFEhD_kn5U_6zqt6WTXoTkk3kxGhTksGglE5Z2IeIkl1lN21TRnH-PSQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA219faTMwRnEt37LUr05yeOa4Uh3z4rL_72z8J4hCNs0XYmhyqQoQUxk-e5j_dSkwDLSf_JUdJzIWb-OurQJnwRm1fJZ7jF-Bqx9v8zjctwWpRKRPiwbZYI7C_gypHKNpEhBElH_oL5aZ7SUyZe6EUAqCGhThn2eUrlkljyFf3zf2_1JSnfk_zQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAYLWZTBuE5Ea0N5vkxVdBnQa5PZCQG2Y16IlXDOiWC8kX3FUnTXPjtPyBM9u3m2PFFhFHfQi8RjLIPBoAbJdshcW6mjGUoE7FQfej76_1gAk6F0fD-CldctfDdJo7lEv7EhAGRMPIAMu5tLl3WNje8djgGhQb2hLCT5GDMnq86csvnmLR6UTxNA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAZFUi4Ut6fyLgpFkmZo7BAfCDhUihaMQuuJUAzL55UUJA3HB5BV9EYlr93A8w-yhRaDSebsyN3HAaSEKR0oxh3HidwngRkRVVH_leYwP5_Xo76EvIGooSXNyS4aOPxneeEhCtyN2HsSHFowsdd3Ah8wiVGhS1O9kp3iBsb5VAsAOz3wo-Q8vtKQ",
+            "width": 3024
+        },
+        {
+            "height": 307,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAARqdhuDI4RJCW5LCgJMA2NjQZppMSdPJx68FtrRhzP6R7Rqzal-0dNJH5YPryf6JwljRT3aJF3jgLHXWpTQyg2dY2D2OsGzQfO3VmEOqyOo1v2f0doMp-HM6HXabuBLkcEhDrDgjb5LRC7vGOOZ16LMq9GhSJa5T8jxSkfj3d-UTCnjwDK2bIeA",
+            "width": 460
+        },
+        {
+            "height": 307,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115598798549535533994/photos\">Basics Plus Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA40nfbmyUdb0Nk4AZaix1JvB3NGGyV6_7Sx0SxXUwZ7GJcjX0Vd4NENNIWbOo6YUzuBLQ5sjSHEsIAJeLqrBR8PXJDk_-qQuc8vMUuOKD609bKJM7ISbogWberMkrgXm8EhAYugyZZtxCpf7WDDrJY5HtGhShxCEDfNLHdMgjFA9mvueaZCn59A",
+            "width": 460
+        }
+    ],
+    "place_id": "ChIJrz7aM7pYwokRernzSrqpQfI",
+    "plus_code": {
+        "compound_code": "Q2GX+CV New York, United States",
+        "global_code": "87G8Q2GX+CV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJrz7aM7pYwokRernzSrqpQfI",
+    "reviews": [
+        {
+            "author_name": "Audree Rueger",
+            "author_url": "https://www.google.com/maps/contrib/102160242632367629950/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Od4Ehzak2f4/AAAAAAAAAAI/AAAAAAAAAA8/U78-tsA11SI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Excellent customer service - I have an A+ experience every time. I always check here first whenever I need something around the house or to copy a key, etc.",
+            "time": 1560730264
+        },
+        {
+            "author_name": "Kimberly Mills",
+            "author_url": "https://www.google.com/maps/contrib/115184730304935326011/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wDlFYKMA1Fw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc-dKQm5m9CgHsaTjElnxcoF5t3pQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I absolutely \u2764\ufe0f  basics plus on 84th and 1st!  Get all my keys made as well as all my household goods.  Highly reccomend!!",
+            "time": 1557000474
+        },
+        {
+            "author_name": "Eric R",
+            "author_url": "https://www.google.com/maps/contrib/111339139915750585602/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QZljNKdUPHQ/AAAAAAAAAAI/AAAAAAAAG74/2W7uRKYvF7s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Always a helpful staff.",
+            "time": 1560260454
+        },
+        {
+            "author_name": "Nina Prescott",
+            "author_url": "https://www.google.com/maps/contrib/112408695618281790017/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-N0SgvZKaMwM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3red9pd3mj3_9KXRtjYW9VqSPi1KVg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Bought a laundry bag here at a high price and it broke after 1 use. If you\u2019re looking for quality items look elsewhere, it\u2019s not worth the convenience.",
+            "time": 1537315753
+        },
+        {
+            "author_name": "Marco Roberto Cavallari",
+            "author_url": "https://www.google.com/maps/contrib/101266559785906373733/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kkwx_8_6bgc/AAAAAAAAAAI/AAAAAAAAAGY/Aknoj6HeWlw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Really convenient store. Love to copy my keys here. Fast and good service. Affordable prices. ",
+            "time": 1499201018
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "locksmith",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17456420248251251066",
+    "user_ratings_total": 18,
+    "utc_offset": -240,
+    "vicinity": "1621 1st Avenue, New York",
+    "website": "http://www.basicsplus.com/"
+}

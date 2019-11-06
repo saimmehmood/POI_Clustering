@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "401",
+            "short_name": "401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 81st Street",
+            "short_name": "E 81st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5811",
+            "short_name": "5811",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401 E 81st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-5811</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "401 E 81st St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 744-6145",
+    "geometry": {
+        "location": {
+            "lat": 40.77365069999999,
+            "lng": -73.9512294
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77492368029149,
+                "lng": -73.94993616970851
+            },
+            "southwest": {
+                "lat": 40.7722257197085,
+                "lng": -73.95263413029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e44b5fa4e6ab791b342d23eccc49fb5221d84a32",
+    "international_phone_number": "+1 212-744-6145",
+    "name": "Humanistic Psychotherapist",
+    "place_id": "ChIJJ4TND7lYwokRL3FdAptRU7Q",
+    "plus_code": {
+        "compound_code": "Q2FX+FG New York, United States",
+        "global_code": "87G8Q2FX+FG"
+    },
+    "rating": 5,
+    "reference": "ChIJJ4TND7lYwokRL3FdAptRU7Q",
+    "reviews": [
+        {
+            "author_name": "anna jordan",
+            "author_url": "https://www.google.com/maps/contrib/102530643695792448197/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-7WwgXkqCyc4/AAAAAAAAAAI/AAAAAAAAABE/oEDUAZwMJ88/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1520212168
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12993819076095471919",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "401 East 81st Street, New York"
+}

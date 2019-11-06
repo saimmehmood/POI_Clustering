@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1651",
+            "short_name": "1651",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3679",
+            "short_name": "3679",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1651 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3679</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1651 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(917) 334-3530",
+    "geometry": {
+        "location": {
+            "lat": 40.7828262,
+            "lng": -73.95068410000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78423543029149,
+                "lng": -73.94947946970849
+            },
+            "southwest": {
+                "lat": 40.78153746970849,
+                "lng": -73.9521774302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "14ebdbab14cb0f134a30c3c99f525060d96f3fb8",
+    "international_phone_number": "+1 917-334-3530",
+    "name": "carol hogg",
+    "place_id": "ChIJVVXFVKRYwokRgx8y-J11GyI",
+    "plus_code": {
+        "compound_code": "Q2MX+4P New York, United States",
+        "global_code": "87G8Q2MX+4P"
+    },
+    "reference": "ChIJVVXFVKRYwokRgx8y-J11GyI",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2457687342995087235",
+    "utc_offset": -240,
+    "vicinity": "1651 3rd Avenue, New York",
+    "website": "http://www.carolhoggtherapy.com/contact"
+}

@@ -1,0 +1,151 @@
+{
+    "address_components": [
+        {
+            "long_name": "85",
+            "short_name": "85",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">85 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "85 St Nicholas Terrace, New York, NY 10031, USA",
+    "formatted_phone_number": "(877) 768-2265",
+    "geometry": {
+        "location": {
+            "lat": 40.8156524,
+            "lng": -73.95014139999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8169439802915,
+                "lng": -73.94865626970851
+            },
+            "southwest": {
+                "lat": 40.8142460197085,
+                "lng": -73.95135423029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "d24555b888e274f8e7ef5089e05e06aa6ce9513f",
+    "international_phone_number": "+1 877-768-2265",
+    "name": "Santander Bank ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2326,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112972350259804576093/photos\">Santander Bank ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAADcDjPXr0Pv79UXZGb8eQS-rbTKS5ovNcI4OSB0c5G74X6BddNXScK1jg0OvLFgSY-mOLthHVGGNStFMLXJ9EpdjiL2sglgqNbat357wVs4kCJP5Ml4ClJWTcsltlf0BQEhDLVpDFsk7407FCCCFYq2t0GhTPcs4yJyeJmJuEH4Q1N9nCe847jA",
+            "width": 2326
+        }
+    ],
+    "place_id": "ChIJCySXYW72wokR8WMO9CfUtgY",
+    "plus_code": {
+        "compound_code": "R28X+7W New York, United States",
+        "global_code": "87G8R28X+7W"
+    },
+    "rating": 1,
+    "reference": "ChIJCySXYW72wokR8WMO9CfUtgY",
+    "reviews": [
+        {
+            "author_name": "Harry Valle",
+            "author_url": "https://www.google.com/maps/contrib/101240244565934182054/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jZOgdTHmb0w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcWm0kX44z4BjF_Ab7XL58LARnqgw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "ATM???? We need a bank",
+            "time": 1536613345
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "insurance_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=483807278052303857",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "85 Saint Nicholas Terrace, New York",
+    "website": "https://locations.santanderbank.com/ny/new-york/85-st-nicholas-terrace.html?utm_source=YextGMB&utm_medium=Local&utm_content=NY-0120&utm_campaign=URL"
+}

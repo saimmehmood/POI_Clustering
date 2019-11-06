@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "350",
+            "short_name": "350",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 83rd Street",
+            "short_name": "E 83rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">350 E 83rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "350 E 83rd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 744-0355",
+    "geometry": {
+        "location": {
+            "lat": 40.7750199,
+            "lng": -73.951244
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7764089802915,
+                "lng": -73.9498649697085
+            },
+            "southwest": {
+                "lat": 40.7737110197085,
+                "lng": -73.95256293029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ffb904f9487363acd5270667c19a56306d843e9",
+    "international_phone_number": "+1 212-744-0355",
+    "name": "Apartments & Apartment Houses",
+    "place_id": "ChIJXyD-ObxYwokR62skmRE5Fo4",
+    "plus_code": {
+        "compound_code": "Q2GX+2G New York, United States",
+        "global_code": "87G8Q2GX+2G"
+    },
+    "reference": "ChIJXyD-ObxYwokR62skmRE5Fo4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10238433550619929579",
+    "utc_offset": -240,
+    "vicinity": "350 East 83rd Street, New York"
+}

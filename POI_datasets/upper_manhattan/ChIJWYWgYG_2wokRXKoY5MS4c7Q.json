@@ -1,0 +1,160 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 2",
+            "short_name": "# 2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1536",
+            "short_name": "1536",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8972",
+            "short_name": "8972",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1536 Amsterdam Ave # 2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-8972</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1536 Amsterdam Ave # 2, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 694-9300",
+    "geometry": {
+        "location": {
+            "lat": 40.8195352,
+            "lng": -73.9520126
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208483802915,
+                "lng": -73.95057826970849
+            },
+            "southwest": {
+                "lat": 40.8181504197085,
+                "lng": -73.95327623029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c1b785bd4dac19cf2ead5f881500059124a12a77",
+    "international_phone_number": "+1 212-694-9300",
+    "name": "Moma Travel Services Inc",
+    "place_id": "ChIJWYWgYG_2wokRXKoY5MS4c7Q",
+    "plus_code": {
+        "compound_code": "R29X+R5 New York, United States",
+        "global_code": "87G8R29X+R5"
+    },
+    "rating": 5,
+    "reference": "ChIJWYWgYG_2wokRXKoY5MS4c7Q",
+    "reviews": [
+        {
+            "author_name": "Fernando Severino",
+            "author_url": "https://www.google.com/maps/contrib/102409450173199658846/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fB0Fx_-Ftt4/AAAAAAAAAAI/AAAAAAAAAEw/uIw6m1IUCz0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Una agencia de viajes y multiservicios con un trato familiar y amable. ",
+            "time": 1479492938
+        },
+        {
+            "author_name": "elsa alvarez",
+            "author_url": "https://www.google.com/maps/contrib/114541282670543080423/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TUnkR7U10rQ/AAAAAAAAAAI/AAAAAAAAEi4/_Ya1p-xv05E/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "El dinero llega rapido",
+            "time": 1455463992
+        },
+        {
+            "author_name": "Anthony Guzman",
+            "author_url": "https://www.google.com/maps/contrib/115891944771475026129/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Nqk312zdxp0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc-XV-YQhmMu3MK-IYRgaBjI-FYuw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1498737368
+        },
+        {
+            "author_name": "wilquin alberto medrano ortega",
+            "author_url": "https://www.google.com/maps/contrib/103383482526512502720/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-smN5l4QWUTU/AAAAAAAAAAI/AAAAAAAAotw/2C52e-WQNF4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1493330440
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13002939704928676444",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "1536 Amsterdam Avenue # 2, New York"
+}

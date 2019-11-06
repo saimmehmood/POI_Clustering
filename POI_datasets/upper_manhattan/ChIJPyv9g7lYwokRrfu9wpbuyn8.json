@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "401",
+            "short_name": "401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 83rd Street",
+            "short_name": "E 83rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6107",
+            "short_name": "6107",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401 E 83rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-6107</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "401 E 83rd St, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-4570",
+    "geometry": {
+        "location": {
+            "lat": 40.7748833,
+            "lng": -73.9503945
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7761853302915,
+                "lng": -73.9490801197085
+            },
+            "southwest": {
+                "lat": 40.7734873697085,
+                "lng": -73.95177808029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ea5b65c7674f2cd1394260322ea68d5616ea8f7f",
+    "international_phone_number": "+1 212-861-4570",
+    "name": "O K Wang Custom Tailor",
+    "place_id": "ChIJPyv9g7lYwokRrfu9wpbuyn8",
+    "plus_code": {
+        "compound_code": "Q2FX+XR New York, United States",
+        "global_code": "87G8Q2FX+XR"
+    },
+    "reference": "ChIJPyv9g7lYwokRrfu9wpbuyn8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9208434719392136109",
+    "utc_offset": -240,
+    "vicinity": "401 East 83rd Street, New York"
+}

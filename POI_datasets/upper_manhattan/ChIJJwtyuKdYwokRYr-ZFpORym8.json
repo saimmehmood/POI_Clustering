@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "1491",
+            "short_name": "1491",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1491 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1491 Lexington Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 370-4100",
+    "geometry": {
+        "location": {
+            "lat": 40.7860907,
+            "lng": -73.9505815
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7874699302915,
+                "lng": -73.9493029197085
+            },
+            "southwest": {
+                "lat": 40.7847719697085,
+                "lng": -73.95200088029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2e52825bb4beb7b3310ea9d34a6fc651b19c1abf",
+    "international_phone_number": "+1 646-370-4100",
+    "name": "Vinyl Wine",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 10:00 PM",
+            "Tuesday: 12:00 \u2013 10:00 PM",
+            "Wednesday: 12:00 \u2013 10:00 PM",
+            "Thursday: 12:00 \u2013 10:00 PM",
+            "Friday: 12:00 \u2013 10:00 PM",
+            "Saturday: 11:00 AM \u2013 10:00 PM",
+            "Sunday: 11:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113297494434436672067/photos\">Motti Seligson</a>"
+            ],
+            "photo_reference": "CmRaAAAAjex6xZZPB2P5-OqkQtCxM3gwdDE-Ismbig35LgIBt_uq6LX1d1zX0WA_MdL3lBDXvSl6vW_NcFKSgPmHtm5WuHb3kw0GdYh010WVUCOnGHVqEjSOlC1Q61D8jfhlIQNREhDUh_0r2fNpJa1SvpxJadEAGhSGwUdcQHEh5Ea9_3oFiXYoh6o2Zw",
+            "width": 4032
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109979007372693871283/photos\">Stephen Matzat</a>"
+            ],
+            "photo_reference": "CmRaAAAASmCK-fqMZ5dYycf5tch-MOZvXz3LNbqQxSgx5nKjTxKThRd7FiCZBt1l9em8QcJdkL3zvXj0s1RjhiTgttgettoTBHLqGE0xY8OkdnGX2j32TvAGG76UdQcDGPrP59XZEhABJwqzrdcMHzMflIHuyHURGhSvfcNsI17BmT26BfEa0qt7GU-3lg",
+            "width": 4048
+        },
+        {
+            "height": 3011,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106814058743186582667/photos\">Tom Harper</a>"
+            ],
+            "photo_reference": "CmRaAAAAlHdV-4OmiiFkCZcRg-01kUWxwLsPBRf_0i0A8R9vXLbphzXvouh-P96ooTmMD8sfinqVQgrdBFKzmVS-LWx1BmLEUQzeESQ8WPV70XxNNb8JBie7ueIgjXBTYlf11LE7EhBdM757z-V0_TZil7wMzzrCGhS_VTsUlpFxiVjvNfeS_Ij2YrCwmw",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106814058743186582667/photos\">Tom Harper</a>"
+            ],
+            "photo_reference": "CmRaAAAANMsYU7i5O9QbK_KcY4In3Josi_0aVLDqkNe6gRSF9P4c59GPTydojkNbK9APaBZMam9toclwqCb5HSALN-O-1Ds4Zq3Xpzm3KjrSLB4s_tWKjPWnFlVwm_NEVPhXSBk6EhCIThNxIss4_4tDMX3pJ8jZGhRDK98LQ20Vc5UhaZz0bq_-y0iSgA",
+            "width": 2988
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113451760166238183775/photos\">Vinyl Wine</a>"
+            ],
+            "photo_reference": "CmRaAAAAsycSoXVhY40Iib9G64Q-TpD7YHux38hs0qSIazaA2iZG2TpfkhUSePo592KF-N_0xnPgq5TGS_Yii2dnIChJ6c5hbEERpAj_Shg0P23UfrF_KEP9Cot8ti13IuRA5jt2EhDckWP6zqr6kTe0gydSZWdPGhSaMHlNqq21iMZG3ax_FPSzCln7fg",
+            "width": 1200
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113297494434436672067/photos\">Motti Seligson</a>"
+            ],
+            "photo_reference": "CmRaAAAAyeI-2Hua7q3AfMGicKiHsUUaOY6-tvfXAOcUplR1kkAcwdInWMIaGA0Ci7YOUfE5RBO_Qf99GplwaFmFGZxpadkmflmiTWFawJ_AoaM5bjGrXCJdrDcrU4XfLEu3C_PcEhCY6NzqBSqfaTiIDwMWyhapGhTJ_S1-ExUhMPqqdl7F2erGyeWBsQ",
+            "width": 4032
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100509366556150204033/photos\">Mg 0</a>"
+            ],
+            "photo_reference": "CmRaAAAA8gEH7-dbWfnELZaErI3Nh4ALY5zLr3tyUphpso7FVPbKmkFV4cxvA5zPpI8S8nwyVqEq2w7sYMRJlA0UFEpyo81I76D0CFTbncUgKDOvvBFGYT1gZpZ93JA4-kdblToUEhBwC9yzUYrTButwXFXzlCKkGhQ8Vl45lZ4AwJXYOupQPDPs1CnIPA",
+            "width": 3264
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109979007372693871283/photos\">Stephen Matzat</a>"
+            ],
+            "photo_reference": "CmRaAAAAX0DfCQhRapHBSz8DWSS1WW80ez2N_XPALBYTiFimXHcOGka8ai1JIFgdFKFkHoY72THuOs0uq2ELPO5TjuNhngHhfpeDlASrPg7S-f54jZL13RDm-_YF1kEeD6AsIcozEhBnf9Xeb6W8SPJrIsJI_hg_GhQQvoRWH56rBbFj9bjfcGa6y_nAFA",
+            "width": 4048
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100509366556150204033/photos\">Mg 0</a>"
+            ],
+            "photo_reference": "CmRaAAAA0IZH5teX5z6gEl7mfTQhAb28LD4ezIA2AVH7iWA_HZL4mgvD_LWNbxqYgMVIR3CfHmUapyaaDqPKa_xxGcX2RwpuEMPxAYYm0tcnDCvIVQINdxUB4jMoKT13aQEkcTMVEhBTwZCepduUhKpwfgtdNbV2GhSx1BY1jObt5pEtUoGW1zSUCx1oXA",
+            "width": 2448
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113297494434436672067/photos\">Motti Seligson</a>"
+            ],
+            "photo_reference": "CmRaAAAAlFV0rP0H7ptla2LFWmxsrsfBtJzJFEOMgWb1rSlsfU7yOr3Albrl32OC_MXzsS4LShg7QNw_jGAh_0ocGcPlkTIVI_oL3koRHHK4XRHbPs2IRKybdZKnwUSANjNKXLtQEhDSNOJWdEn9R-Bn_zDdurxwGhRa0P02HFrc5L2b62lhcQbP7fBnrw",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJJwtyuKdYwokRYr-ZFpORym8",
+    "plus_code": {
+        "compound_code": "Q2PX+CQ New York, United States",
+        "global_code": "87G8Q2PX+CQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJwtyuKdYwokRYr-ZFpORym8",
+    "reviews": [
+        {
+            "author_name": "Kevin Davis",
+            "author_url": "https://www.google.com/maps/contrib/108198797958465609294/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qgNxNgnMxBI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdiGIEr5jOqzfObUO89vIox0Af6FQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "On vacation from UK. So lucky to find Vinyl wine round the corner from our appartment. Super helpful staff ... great suggestions (all three to date have proved spot on). We have to travel a long way in London to find such a gem. Seek it out!",
+            "time": 1559697615
+        },
+        {
+            "author_name": "Abhishek Nandgaonkar",
+            "author_url": "https://www.google.com/maps/contrib/105402106898010765926/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-n8N_xCeRNU4/AAAAAAAAAAI/AAAAAAAAFos/5v6KRrJYuKo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "This cute little wine store has a surprisingly nice collection of wines. It's becoming my go to place for stocking up.",
+            "time": 1556245115
+        },
+        {
+            "author_name": "Saebra Waterstraut",
+            "author_url": "https://www.google.com/maps/contrib/113212867938617699788/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-sp0LmsPNZb4/AAAAAAAAAAI/AAAAAAAACrA/hcK_94FcBEQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Cute and good and everyone that works there was really helpful and patient.",
+            "time": 1544252911
+        },
+        {
+            "author_name": "Alvin Lee",
+            "author_url": "https://www.google.com/maps/contrib/112721691831877397215/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2zIZf46Gf-c/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcAfknQq4RMmbZ9ML_wcPKePHdBUg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "Boutique whisky/whiskey store in UES Manhattan. Great selections for liquors. Worth your time to stop by and check it out.",
+            "time": 1534895894
+        },
+        {
+            "author_name": "Stephen Matzat",
+            "author_url": "https://www.google.com/maps/contrib/109979007372693871283/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0NG8p7scJKI/AAAAAAAAAAI/AAAAAAADPUQ/EMozmsTqG7A/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Nice small collection of wined with a notably dynamic range of prices. White wines are usually available chilled from the refrigerator, and staff loves to help out with selection if you're into that.",
+            "time": 1528240463
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "liquor_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8055410944430948194",
+    "user_ratings_total": 38,
+    "utc_offset": -240,
+    "vicinity": "1491 Lexington Avenue, New York",
+    "website": "http://www.vinylwineshop.com/"
+}

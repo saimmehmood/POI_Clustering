@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "97",
+            "short_name": "97",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Fairview",
+            "short_name": "Fairview",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07022",
+            "short_name": "07022",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2051",
+            "short_name": "2051",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">97 Anderson Ave</span>, <span class=\"locality\">Fairview</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07022-2051</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "97 Anderson Ave, Fairview, NJ 07022, USA",
+    "formatted_phone_number": "(201) 424-5779",
+    "geometry": {
+        "location": {
+            "lat": 40.812904,
+            "lng": -73.99920999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81417968029149,
+                "lng": -73.9977589697085
+            },
+            "southwest": {
+                "lat": 40.8114817197085,
+                "lng": -74.0004569302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+    "id": "2f9ccc2c088db7a2c65fbc9170a6caea507359a9",
+    "international_phone_number": "+1 201-424-5779",
+    "name": "Iglesia de Jesucristo Palabra miel",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1945"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1945"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1945"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:45 \u2013 10:00 PM",
+            "Tuesday: 7:45 \u2013 10:00 PM",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 7:45 \u2013 10:00 PM",
+            "Saturday: Closed",
+            "Sunday: 9:00 AM \u2013 1:00 PM"
+        ]
+    },
+    "place_id": "ChIJR_bvv8b3wokRGSGBQuat00w",
+    "plus_code": {
+        "compound_code": "R272+58 Fairview, New Jersey, United States",
+        "global_code": "87G8R272+58"
+    },
+    "rating": 3,
+    "reference": "ChIJR_bvv8b3wokRGSGBQuat00w",
+    "reviews": [
+        {
+            "author_name": "Jack Donis",
+            "author_url": "https://www.google.com/maps/contrib/114907585792413802911/reviews",
+            "language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cwgWbVXdm7I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc1b1eimrN3AOlHhtDjKwV9yJfuew/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Iglesia Palabra Miel",
+            "time": 1538869225
+        },
+        {
+            "author_name": "MT YUNIOR Tambriz",
+            "author_url": "https://www.google.com/maps/contrib/112726317599587228648/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kYAYfMJUdlM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdnlw4n0COSv8cgO0G8SqMLnVDguQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1535437950
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5535959571438313753",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "97 Anderson Avenue, Fairview"
+}

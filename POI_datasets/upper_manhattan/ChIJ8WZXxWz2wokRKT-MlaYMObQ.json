@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 253-9700",
+    "geometry": {
+        "location": {
+            "lat": 40.810537,
+            "lng": -73.951461
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8117974302915,
+                "lng": -73.95017386970848
+            },
+            "southwest": {
+                "lat": 40.8090994697085,
+                "lng": -73.9528718302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "216a1e4903f9062dc6e649130ee523a472996a11",
+    "international_phone_number": "+1 646-253-9700",
+    "name": "Blink Fitness",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 11:00 PM",
+            "Tuesday: 5:00 AM \u2013 11:00 PM",
+            "Wednesday: 5:00 AM \u2013 11:00 PM",
+            "Thursday: 5:00 AM \u2013 11:00 PM",
+            "Friday: 5:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 7:00 PM",
+            "Sunday: 7:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3279,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAA6CT4o5Vsft7mGcm_cMPkUahteRI0-K_S29hGv5hpOpozINXaNeXXf390p-BQGvmNcn9SgulrtJOrOdoaZKKHPEXzpQtfKnG_LRwXdQa5pY5kT-iB8ifUWFABp1iwv2QKEhChHDhuH3S_8WTL_Mvu2SdMGhQ8d-fwXplvw08pdk218sC6IrRWiA",
+            "width": 4972
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAA3xnHjh21vK6Yk4fWxhKgthe50SIOl5ax0nmfQHPcv6CczjvOnapLQppAkl6ipatA9wnJaVMZR74mN7pcYLP8T2yICpk9Z3iwtRAWYTMSdRb77hVD3tPZ1nJAGZuNVXEFEhBfo2v5DEzLI477Tt9Gcx6dGhRNxYVwsJHC1oHzm5OTPrd4Iry1NA",
+            "width": 5201
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111613351604542352245/photos\">popsi Kiemkodogo</a>"
+            ],
+            "photo_reference": "CmRaAAAAG6WzmiCT2SnQ5A7QLdovvVbermT2EiKSDxHJlH4x2XHlQnAtdCsouN_lhf8k8ri6MoZK1o70gIpKIp8YV32_RtLvDzEtVS0_1wlDwi_GH-ZqZ9siWG3s5JCJO8zW2XnbEhDSWAoPF8bNp2_CE-JuuW_IGhR0snvVUe7oM11fOoHkx7n1ByjGYA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675511104456920869/photos\">Tecnolog\u00eda Actualizada</a>"
+            ],
+            "photo_reference": "CmRaAAAARfQWSCaZEeUB3L922OmJjTDW2SL07NKSKVFSO6W38fRTlv880u1XICzy6MuG14hafN9J0jLlZ8e86CQxuyDaxU7MHFlL6oTnculA9WbmDTKlT5r0WU7eYbDxeWnk00IbEhDepLE8NSmkJmNmohwg8xcgGhTRJE1hVW9RsuoZjPHI5gZel7iwWw",
+            "width": 3024
+        },
+        {
+            "height": 3202,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAkgSY35f8f5O_NdcSmg1TJe8ZXaI8eqbObfFXYhvH8pqmmViDkTj6HTSu8lEu2k4b3faPkyYUVg9Zhn5BoDOLFVm5d-XjJ_VkGlEUlyQWsN6Zd8JFL3RMYJN7AcPrztJAEhDCch6ki387frBGmYzVuM_AGhQsfUlyzCww6JR-jDeeTjktTviUxQ",
+            "width": 5202
+        },
+        {
+            "height": 5331,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAA65BH9SVDLvQn9gB8_HLH-q3fFmpTYvjRHdEdU-WUnEorREypg1vc00cmFganlgWdeqiIGrtYufXSip3EM757CqEhJkZFxPO_a_8C3CAvWYi9YGsMiICucXchW3wH_wG9EhCJjvSCRVZHC92rxnKO6h0MGhQQaBJAUBiC21c5wpLvuAAZ5IefZQ",
+            "width": 3561
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117859065201553353546/photos\">Rich Cebada</a>"
+            ],
+            "photo_reference": "CmRaAAAAlBaDh7LP7AIitZUCpl9WMvbwoYMaIUQMm6JNolInApKBNKEOHePr4b5qRxs3cAJCCOj3IQoqBhE7e86Z_Xjk8wV_fYIv4z-rfsqmBntoa0WnasYiz_ADInUOrLA9aPwkEhBFrbhFMFVWjcmWIY-xw3aiGhSabTxBdEQ40fYc1bJAb5YxgdojSQ",
+            "width": 3024
+        },
+        {
+            "height": 3181,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAKkOd4caOR423kMasJcS0RCCh0x108JqFMdmKFqJXxpppYA03RwzQwrHX4inIQeyGt6qIKZEgi5lQwJuUL9AJJaTbFzv_TrO7eclKJeHZhmKVstNm0hLfYXSuts5xUbp3EhCQUNe8fU3N-h9pDSsFf0AbGhTGCOBhBXfDVvCgGeOBB8cR9hogeg",
+            "width": 3413
+        },
+        {
+            "height": 3103,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110278455415939634304/photos\">Blink Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAGIRygpPNKpPy1TNa2pIOHgjzCmJETxd4yIMhJo1mY2ksdzCrsARvB5lKLGkEeLl3X1icU98yPg8t3pyhD2EuEhp8BgBQd82LtjtN9yqgHdyzfLa0-Bh6C4BW66XgIFlsEhCxsj2wjal16Dq-HTkb-GDtGhQpomjU-ppve1pWsbAuIl4qjPOgtg",
+            "width": 5057
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108027925864030510249/photos\">carlondon london</a>"
+            ],
+            "photo_reference": "CmRaAAAAePwkC_dBL_ZBgBTpjWyrpaJqGyFLdQ9zioOH4VmUFJY7FTePCP-lo3X9P8yl9BVdMdib8D0C3gHZ3weK-Q2zV2O1rN20-rCO1uWGrQ0u22TnKoa_hS-wRyG-xG1V780DEhB_-dTexroP4ES3H26z4YaTGhSMe3i1-tvyF6uBu00ADfmaKP0bSw",
+            "width": 2272
+        }
+    ],
+    "place_id": "ChIJ8WZXxWz2wokRKT-MlaYMObQ",
+    "plus_code": {
+        "compound_code": "R26X+6C New York, United States",
+        "global_code": "87G8R26X+6C"
+    },
+    "rating": 4,
+    "reference": "ChIJ8WZXxWz2wokRKT-MlaYMObQ",
+    "reviews": [
+        {
+            "author_name": "Lamar Newman",
+            "author_url": "https://www.google.com/maps/contrib/110125757554812466138/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-khiKugS5aJI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgfLz5X7UFn_acTL0o2YyFFdoFZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Gym is clean and well equipped. The staff is friendly and approachable. This location is often busy so it\u2019s best to get there outside of peak hours if you can.",
+            "time": 1555851816
+        },
+        {
+            "author_name": "Sylvia Sullivan",
+            "author_url": "https://www.google.com/maps/contrib/113568291392855591643/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-02GvxK9CFak/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reF_OJ_SDXO1GcIyCUVdUrip8vWrA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great gym. It is very clean, tends to be crowded but people are polite, and the price is unbeatable. I've been going for more than a year and a half and no complaints",
+            "time": 1559474425
+        },
+        {
+            "author_name": "Lewis Lane",
+            "author_url": "https://www.google.com/maps/contrib/106023395362911159495/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-hWJ8RUCIsTQ/AAAAAAAAAAI/AAAAAAAAAP0/adW1OKwLnXg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Cleanest gym I ever been in ..staff is always wiping and mopping..kudos",
+            "time": 1562355154
+        },
+        {
+            "author_name": "J G",
+            "author_url": "https://www.google.com/maps/contrib/110556171167974023347/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wmItOWpN8cg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdvfoAhheTqHoAyb122_wYLOF4OZg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "great gym until recent rude harassment from the new staff maintaining the bathrooms to leave \"on time\", which in her dictionary, reasons as, \"much MUCH(!?) earlier than closing time so she doesn't(?) have to clean the entire bathroom again. Best customer service ever.\nThe old staff of blink's used to be so cordial and friendly.",
+            "time": 1553837338
+        },
+        {
+            "author_name": "Alyssa Jones",
+            "author_url": "https://www.google.com/maps/contrib/105561854330167032650/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MMYzSFKiWK8/AAAAAAAAAAI/AAAAAAAAD30/rvZKQmNnWTI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "This is your typical big box gym that mostly caters to the cardio crowd, but it\u2019s pretty decent if you\u2019re on a budget. \n\nPros: staff is friendly, in my experience it has always been clean , they have a decent selection of equipment \n\nCons: not enough racks for the volume of lifters that use this gym, really crowded except for a few hours on weekday afternoon\n\nYou can get a good workout here but you either have to be willing to wait or get creative with swapping out for similar exercises.",
+            "time": 1553618675
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12986424910112636713",
+    "user_ratings_total": 238,
+    "utc_offset": -240,
+    "vicinity": "301 West 125th Street, New York",
+    "website": "http://www.blinkfitness.com/locations/125th-Street"
+}

@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 10G",
+            "short_name": "# 10G",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1510",
+            "short_name": "1510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7163",
+            "short_name": "7163",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1510 Lexington Ave # 10G</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-7163</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1510 Lexington Ave # 10G, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 730-1141",
+    "geometry": {
+        "location": {
+            "lat": 40.7869928,
+            "lng": -73.95051509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7882764302915,
+                "lng": -73.9490114697085
+            },
+            "southwest": {
+                "lat": 40.7855784697085,
+                "lng": -73.9517094302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "da98e659390656f46fd5e0c5deb84c750fd5c558",
+    "international_phone_number": "+1 212-730-1141",
+    "name": "Saitex International",
+    "place_id": "ChIJJ6WcV6ZYwokRl-HylWNG7BI",
+    "plus_code": {
+        "compound_code": "Q2PX+QQ New York, United States",
+        "global_code": "87G8Q2PX+QQ"
+    },
+    "reference": "ChIJJ6WcV6ZYwokRl-HylWNG7BI",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1363542180717846935",
+    "utc_offset": -240,
+    "vicinity": "1510 Lexington Avenue # 10G, New York"
+}

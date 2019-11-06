@@ -1,0 +1,221 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St, New York, NY 10041, USA",
+    "formatted_phone_number": "(212) 924-4410",
+    "geometry": {
+        "location": {
+            "lat": 40.7033757,
+            "lng": -74.0090872
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7049068302915,
+                "lng": -74.00794661970849
+            },
+            "southwest": {
+                "lat": 40.7022088697085,
+                "lng": -74.01064458029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0480c0908d8aeb6719775fa7c235259752d6b4e0",
+    "international_phone_number": "+1 212-924-4410",
+    "name": "Sandbox Studio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114289491808039031533/photos\">Sandbox Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAL9AWvJB1ikFtuQuSnhXbR5g5XQyLjssj7cacKdNlkNz4dW-6uW1x0y_WNbDCtcBU8DP9K0TilAir2_3obmLorewa8fcyKdOOt3j7IXTgCNSQqApc2wsJzYr95TVddj4nEhA9VD_oSM1WKtW1nnNgxEsVGhQ0WRNVSI2zzXIhHW1LDmhIuNxL5g",
+            "width": 900
+        },
+        {
+            "height": 3464,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100660968537066339724/photos\">Simone Minichino</a>"
+            ],
+            "photo_reference": "CmRaAAAAY3rAKkFTPDLhWueAKI1SOThS3F36SmHZpbT6LJ-zQycO1giOS4mHnIdfVvBAWmCKhCDqAUtVLPzQ55qx1-ZB2o_HKHxrW-U_qXfbztFmFknYKUOks3VQFTUxBcdXAqfZEhCcF_9Jv2rAL5emw1jqU-29GhREjRRE3BjHnsgFFslF37CbxyJWtQ",
+            "width": 4618
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114289491808039031533/photos\">Sandbox Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAarOPM6jFrZKUbHbVR5kAYy81jpg_-sDUyBFHqeRmZHMQaklPN2JX0rsJblRbPJi1m8W7kqBLFjWldzfgeZwi5FsRKFTv9d1zKYTeEkG-p31Y4kBxxnYNVj9cg0zptghCEhB_5Fgk-qqIxmXASH900uwOGhR0HT4ciRaCTEzCiP7vcrqqq6i1Ow",
+            "width": 250
+        },
+        {
+            "height": 288,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114289491808039031533/photos\">Sandbox Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAngRT7WVAVXFmFwBfguO2HpUMkXEF_xzrDYHngK2VRmXSBZqSmtRMwP8cvySVVHgvy6isWpVyDgEN8FPPg6hWr5c-xsRl-5LORJQzeeVFjXPsRXjp0BlEYsckmR0z21M-EhDBsQl2VfMp8pG-TzH0ge7JGhR6eDQk-Ut8HYeNfl0cmL7e22mxAA",
+            "width": 288
+        }
+    ],
+    "place_id": "ChIJaQsDQ_NZwokRch-xrEyc7-U",
+    "plus_code": {
+        "compound_code": "PX3R+99 New York, United States",
+        "global_code": "87G7PX3R+99"
+    },
+    "reference": "ChIJaQsDQ_NZwokRch-xrEyc7-U",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16568633407248080754",
+    "utc_offset": -240,
+    "vicinity": "55 Water Street, New York"
+}

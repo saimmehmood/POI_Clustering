@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "251",
+            "short_name": "251",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 123rd Street",
+            "short_name": "W 123rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">251 W 123rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "251 W 123rd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8087404,
+            "lng": -73.95102179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80996323029149,
+                "lng": -73.94976511970849
+            },
+            "southwest": {
+                "lat": 40.80726526970849,
+                "lng": -73.9524630802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a9920ab3c9663be52671ca35083bb7a7d63fd55f",
+    "name": "Alpha 137 Gallery",
+    "place_id": "ChIJq6p-IRP2wokRUb3y2V4gwFg",
+    "plus_code": {
+        "compound_code": "R25X+FH New York, United States",
+        "global_code": "87G8R25X+FH"
+    },
+    "reference": "ChIJq6p-IRP2wokRUb3y2V4gwFg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6395147062621683025",
+    "utc_offset": -240,
+    "vicinity": "251 West 123rd Street, New York"
+}

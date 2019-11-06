@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7857203,
+            "lng": -73.95008039999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7870988302915,
+                "lng": -73.94872996970848
+            },
+            "southwest": {
+                "lat": 40.7844008697085,
+                "lng": -73.95142793029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "5fb48227e15d0b1a4a2d0af7e4030d9a0c5b6659",
+    "name": "Monterey Public Garden",
+    "place_id": "ChIJnX4IZaZYwokRnXc6LWAStIY",
+    "reference": "ChIJnX4IZaZYwokRnXc6LWAStIY",
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?q=New+York,+NY+10128,+USA&ftid=0x89c258a665087e9d:0x86b412602d3a779d",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

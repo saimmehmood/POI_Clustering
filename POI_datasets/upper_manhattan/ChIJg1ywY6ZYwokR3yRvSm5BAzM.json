@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "153",
+            "short_name": "153",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 96th Street",
+            "short_name": "E 96th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2517",
+            "short_name": "2517",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">153 E 96th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-2517</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "153 E 96th St, New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 289-0549",
+    "geometry": {
+        "location": {
+            "lat": 40.7859274,
+            "lng": -73.9505382
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7871907802915,
+                "lng": -73.9492527697085
+            },
+            "southwest": {
+                "lat": 40.7844928197085,
+                "lng": -73.9519507302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a2c67c2bb16e6535239b1ce1914581d3902fccab",
+    "international_phone_number": "+1 212-289-0549",
+    "name": "Park Avenue Apartments",
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102990759742095234569/photos\">Anadel Rosa</a>"
+            ],
+            "photo_reference": "CmRaAAAACBmddym6Z3POpzeJ5aFfDEZQAP7pPB_lS6Csk2YonLQ6-luUZ9TsN5UGFzc-Kc1m6RXTFLmOKnyM5u2aHlY1DkNkC0AG91USxcFTgTiaQ1IprW5nKvL0AjCBcfaX6F2eEhD2NczJGJIVgnowUa7jgHQHGhRrIJqjf_9D3VJPU8nd4Wc0kUhHEA",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJg1ywY6ZYwokR3yRvSm5BAzM",
+    "plus_code": {
+        "compound_code": "Q2PX+9Q New York, United States",
+        "global_code": "87G8Q2PX+9Q"
+    },
+    "reference": "ChIJg1ywY6ZYwokR3yRvSm5BAzM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3675853662815462623",
+    "utc_offset": -240,
+    "vicinity": "153 East 96th Street, New York"
+}

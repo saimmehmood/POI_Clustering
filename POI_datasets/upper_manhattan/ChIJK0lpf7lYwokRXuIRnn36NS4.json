@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "1600",
+            "short_name": "1600",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4303",
+            "short_name": "4303",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1600 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4303</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1600 1st Avenue, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7748903,
+            "lng": -73.95049320000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77629058029149,
+                "lng": -73.94926861970849
+            },
+            "southwest": {
+                "lat": 40.7735926197085,
+                "lng": -73.95196658029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b244ca5ee8ff0c13d887e9b2ba3a23d32fa6f9c7",
+    "name": "Total System Services",
+    "place_id": "ChIJK0lpf7lYwokRXuIRnn36NS4",
+    "plus_code": {
+        "compound_code": "Q2FX+XR New York, United States",
+        "global_code": "87G8Q2FX+XR"
+    },
+    "reference": "ChIJK0lpf7lYwokRXuIRnn36NS4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3329842916940178014",
+    "utc_offset": -240,
+    "vicinity": "1600 1st Avenue, New York"
+}

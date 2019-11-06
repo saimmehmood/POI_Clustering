@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "151",
+            "short_name": "151",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 19th Street",
+            "short_name": "W 19th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">151 W 19th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "151 W 19th St, New York, NY 10011, USA",
+    "formatted_phone_number": "(212) 675-2662",
+    "geometry": {
+        "location": {
+            "lat": 40.743166,
+            "lng": -73.9994895
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7442637802915,
+                "lng": -73.9983236697085
+            },
+            "southwest": {
+                "lat": 40.74156581970851,
+                "lng": -74.0010216302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ab297078d76e687bb03ec0ea2ee43a81cf8c2231",
+    "international_phone_number": "+1 212-675-2662",
+    "name": "BrickWork Management Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1289,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101565183562169024136/photos\">BrickWork Management Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAA1UCRkyPXeUEhLnbxHwOrrl3H_3PuvNdnS86S5oyBKYLeCpRgqdphs3QfBG3jURsLHUzMISpMWwVS7nrlDiIm7a95mMjL5dhgis4xe4jInVh7mxmlaEd-Dra6__QyAAVCEhCuqiU-jqs9UmlHWXtNTI-EGhT_oi_ZizxtGR03SSV-Xi8iHE8gJQ",
+            "width": 1290
+        }
+    ],
+    "place_id": "ChIJKUiEuLlZwokRbjhQz1Dqxjc",
+    "plus_code": {
+        "compound_code": "P2V2+76 New York, United States",
+        "global_code": "87G8P2V2+76"
+    },
+    "rating": 3,
+    "reference": "ChIJKUiEuLlZwokRbjhQz1Dqxjc",
+    "reviews": [
+        {
+            "author_name": "Jen Prieur",
+            "author_url": "https://www.google.com/maps/contrib/116280138003372753512/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-yHpnArBVkxw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcs8vpSd1mhRtNZ0MHVFAJZkdmUGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Management is unresponsive to concerns and Ralph does not respond to specific questions/concerns. I asked him several times about a specific concern and he never responded.",
+            "time": 1558619191
+        },
+        {
+            "author_name": "Sam Rosado",
+            "author_url": "https://www.google.com/maps/contrib/110444890255609469758/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wdi-Mqr9Y18/AAAAAAAAAAI/AAAAAAAAJIo/inVS-pNmY3s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Always a pleasant experience",
+            "time": 1549568352
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4019157350271170670",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "151 West 19th Street, New York",
+    "website": "http://www.bwmgmt.com/"
+}

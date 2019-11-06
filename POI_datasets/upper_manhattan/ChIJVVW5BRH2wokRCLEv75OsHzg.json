@@ -1,0 +1,328 @@
+{
+    "address_components": [
+        {
+            "long_name": "137",
+            "short_name": "137",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">137 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "137 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 596-9622",
+    "geometry": {
+        "location": {
+            "lat": 40.8029381,
+            "lng": -73.95115950000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80417968029149,
+                "lng": -73.9498899197085
+            },
+            "southwest": {
+                "lat": 40.80148171970849,
+                "lng": -73.95258788029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "45381c9dc4dcfb6aa13c0eb370492b3475b1a03a",
+    "international_phone_number": "+1 646-596-9622",
+    "name": "Shuteye Coffee",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 5:00 PM",
+            "Tuesday: 7:00 AM \u2013 5:00 PM",
+            "Wednesday: 7:00 AM \u2013 5:00 PM",
+            "Thursday: 7:00 AM \u2013 5:00 PM",
+            "Friday: 7:00 AM \u2013 5:00 PM",
+            "Saturday: 7:00 AM \u2013 5:00 PM",
+            "Sunday: 7:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111029857712434145997/photos\">Anthony Edwards</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Ts6G_Q6IkXcR11Cs-xX24Wk0GOUP3LKacVhwY1u20Kn29mQF2Vnr1cZEVlzTqJiXkQGbKC2i_LlZYe14AxZe2SnsyQ_q7QLGZpBNevi7hvH4TJP4HSf5I9_h4RFqjnfEhCFJKzhSyakeRTH9mlPyEcNGhQKA5enKcG8fq31_uomiM0sVp1nVw",
+            "width": 4032
+        },
+        {
+            "height": 2131,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114948134011598979280/photos\">Devuroasts</a>"
+            ],
+            "photo_reference": "CmRaAAAAAAtiHFVaYcAFDb4oJTAKJ8I9GD8gUA5vBlQwmCHT0ElW5UXTve7XyWf4CtpBxaDSmGX3lcwdGJfGTZVSyL4jrSIZ5FUGOrwktRIY8ZiVQu0HuIhYcNm3uqdlvi1CsaFaEhC_pPO7Z-xoqexyneLybyAcGhRVh_Iay2BVL3SrpTwlfchlVcjtXA",
+            "width": 2915
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104521187771627639109/photos\">\u0414\u0430\u043d\u0438\u043b</a>"
+            ],
+            "photo_reference": "CmRaAAAA-9zQ9Kw2NLiMj8Tz81t_RuJyR1aB4dI5V9BMegSKbegMHJ9qnH6vRLvSNCCHBoT_CfIA3KybfGSV_MyQAw45TMPHeYE4a7lTowk8458kZDiDao9s6JHIzv9WZPw3ZNqIEhCROOkZVBR1kZ8_D5atd_eCGhSlkLW4d0Igzt3jTCpf6XdvZGbNJA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118393561776948926915/photos\">Kat Mon</a>"
+            ],
+            "photo_reference": "CmRaAAAACOeLufXf15dWbXK6D2MrAS8yBgq4SqlhOsuRQ0orGdKG1bSUuTHxt9y4abYpcygvKjRDRxnCLu-ei0rGpl9Iiunlq5YTKkBXh_ALRgeraZoF2jrqE6kgMIhsaMMvwH29EhBTcWsXscEN-OViDtJ4H_PVGhSYqXsGYFeGOre3HWdZqz9-vFSFSg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114398650216435240496/photos\">Veronica Maravilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAXVmYytlFw3qwWkhs68kePaTrk-Bb4uwFR-K4Aene6O2A57ms4Uf2PQfkZ90b-6TKp31ViXGQqe-405vl_NG611jAOkGkvxuYyIGbZwhibggmQi9QWzIlNOn4-5kopMVLEhDHUdajI_vB7edbBVTWIuQsGhSicUDTB_vCChB8v4ruQZK5fKfr5A",
+            "width": 3024
+        },
+        {
+            "height": 3744,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537196242295701053/photos\">Shuteye Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAAY5rpsDozOiqMqVyc2pfnUGORX2G9mCG1sEmZLU7QpoEb2GLEYTrw98fNd4C_MGXVamrn8Kp0mwVUtJ9sCfZA_figZqV8v2KzFwMP-ikZU84ybNW1_JGCoC2scGPEU_thEhAB791Dqcxtb6CCoQdghEK0GhSzlb6cxY1dX-Da4sg69RNCLHU9cQ",
+            "width": 5616
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118393561776948926915/photos\">Kat Mon</a>"
+            ],
+            "photo_reference": "CmRaAAAAr5pGfY50bY4VUnGHi96fz8o1xYd6AUN2BvycJOq9gLPj30vSxQJpx0PTn5kFEPBN2X5UzwJ3Uo0vswX2IviWK3iZ3na5h4_79neV73CmqayPqKAzDlvOkUaWsOTKdgrsEhDmCQ6YBtfixmp2-XLtMHjfGhS3nAhncMYiuHKPWVGU_Q3x7Fuv5A",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116869666155602691751/photos\">Milan Kune\u0161</a>"
+            ],
+            "photo_reference": "CmRaAAAADlpz5B1k1zoArI-auNN6RjvzOJER5NO5hbkY8qa2JYCY4hKnDf-TeUvwXqR3_Lfy1UosSR46yfh7DaAv4mpbq5mCpBm3P-wMkAZyfl29yqZPIU_bc2JEOUzFsZITqoUWEhCfOCIhgj-a5DWunz0RN7gPGhRqXzE-UFvQlqp8Z4k3r3tJNI2YLg",
+            "width": 3024
+        },
+        {
+            "height": 1019,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116537196242295701053/photos\">Shuteye Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAA1-f-Vpu7b769esAj2E1NGhnsW8FZN1G4uHVpkwpiBYAue-f-ONH-s9DrOFxANEWIy1Jo4aFnkpzI3fpS2AY7hioM04Dp-XUQK-qblBZpF8_79I40bvKPuV0J7NXk8vMsEhArUP5EcQX-FszZhkxMw1rbGhSWNuNUIQPW1aRr4oxxVNrvtu0rtQ",
+            "width": 1020
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118393561776948926915/photos\">Kat Mon</a>"
+            ],
+            "photo_reference": "CmRaAAAAK44PPcj3-ljtY3CEpnTl8vWfjyT7XPiUp5SJP4Xu0Ge4tczsQkIABPMNgB-HkQ52-ccYCJpa70RNq60VLoJk0L2-TW8Nnuhege_JLd1En4rLo0HoL1fdhs7LyLrKz-qxEhC9vHDaab8PhZc1t2sOIfLSGhSKt7hYIwRE0t8oxCQq7is9-KpzSQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJVVW5BRH2wokRCLEv75OsHzg",
+    "plus_code": {
+        "compound_code": "R23X+5G New York, United States",
+        "global_code": "87G8R23X+5G"
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reference": "ChIJVVW5BRH2wokRCLEv75OsHzg",
+    "reviews": [
+        {
+            "author_name": "Veronica Rojas",
+            "author_url": "https://www.google.com/maps/contrib/111253235698653068321/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gtxAZUD9h6Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdrg7E43v_NVyP9GJYLW7ciYCemYg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great coffee shop with an Amazing vibe. The baristas are friendly and take time with your drink to make it perfect. They have milk alternatives for your coffee taste. The decor of the shop is homey and green with lots of plants. Coffee was great my husband had a drip coffee and I had a oat milk latte. Would recommend.",
+            "time": 1554928532
+        },
+        {
+            "author_name": "Sedariest Hammond",
+            "author_url": "https://www.google.com/maps/contrib/113196427321027467691/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-135SZkuGdkg/AAAAAAAAAAI/AAAAAAAAO7c/MadOap0q-Oo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Awesome small business in Harlem! This is everything you want in a coffee shop, a great environment to hangout and/or study, a beautiful aesthetic, and great selections of coffee roast. Try their Colombian roast!",
+            "time": 1559821991
+        },
+        {
+            "author_name": "Veronica Maravilla",
+            "author_url": "https://www.google.com/maps/contrib/114398650216435240496/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-E9U44k0UXnc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re0wpXNNirKZ6T74Ru-Nh5wYRc0Qg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great coffee shop with the best vibe. The baristas are friendly and the decor is fresh with a lot of plants which makes it feel homey. there is a decent amount of seating for the size of the coffee shop. Kind of a walk from public transportation but worth it. Coffee is great and they have pastries to snack on with your drink. Alternative milk available. Would recommend!",
+            "time": 1554928379
+        },
+        {
+            "author_name": "Josh Miller",
+            "author_url": "https://www.google.com/maps/contrib/103064922057611266262/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ahGX6fn_vRc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc8XrXqupFbv4cB_JV43J6PW3pFPA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This is my favorite local spot for coffee. The espresso is EXCELLENT. One of the best in the city. There\u2019s free WiFi, lots of plants, and often room for seating. The two owners Joe and Guy are great, and make a real effort to source local products. \n\nIf you\u2019re local, or visiting from out of town I highly recommend.",
+            "time": 1551045608
+        },
+        {
+            "author_name": "Andres Cardona",
+            "author_url": "https://www.google.com/maps/contrib/102487501249897162701/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Xct8qoWOCjc/AAAAAAAAAAI/AAAAAAABr0k/EOjwzNz1-3M/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Best coffee in Harlem. The cappuccino and the latte are amazing. The service is also very good",
+            "time": 1561399421
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4044140741775044872",
+    "user_ratings_total": 97,
+    "utc_offset": -240,
+    "vicinity": "137 West 116th Street, New York",
+    "website": "http://www.shuteyecoffee.com/"
+}

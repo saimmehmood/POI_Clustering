@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 3J",
+            "short_name": "# 3J",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "420",
+            "short_name": "420",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 82nd Street",
+            "short_name": "E 82nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5958",
+            "short_name": "5958",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">420 E 82nd St # 3J</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-5958</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "420 E 82nd St # 3J, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 585-2586",
+    "geometry": {
+        "location": {
+            "lat": 40.7736214,
+            "lng": -73.9501722
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77505248029149,
+                "lng": -73.94876261970849
+            },
+            "southwest": {
+                "lat": 40.7723545197085,
+                "lng": -73.95146058029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "36f4afcc0600c62ecee23634a75eac5203f48947",
+    "international_phone_number": "+1 212-585-2586",
+    "name": "Beyond Pure Wealth Inc",
+    "place_id": "ChIJNySmo7lYwokRpvjrZbPg9gQ",
+    "plus_code": {
+        "compound_code": "Q2FX+CW New York, United States",
+        "global_code": "87G8Q2FX+CW"
+    },
+    "reference": "ChIJNySmo7lYwokRpvjrZbPg9gQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=357720281536264358",
+    "utc_offset": -240,
+    "vicinity": "420 East 82nd Street # 3J, New York",
+    "website": "http://www.maxvictor.com/"
+}

@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "1604",
+            "short_name": "1604",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1604 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1604 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 879-6500",
+    "geometry": {
+        "location": {
+            "lat": 40.774972,
+            "lng": -73.950384
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7763803302915,
+                "lng": -73.9491788197085
+            },
+            "southwest": {
+                "lat": 40.7736823697085,
+                "lng": -73.9518767802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0a65475c52ed4a3882df4ed5f462a86f30bbefd0",
+    "international_phone_number": "+1 212-879-6500",
+    "name": "Splendid Nail Studio",
+    "place_id": "ChIJ8XQjgblYwokRAeW0GWtVOsw",
+    "plus_code": {
+        "compound_code": "Q2FX+XR New York, United States",
+        "global_code": "87G8Q2FX+XR"
+    },
+    "rating": 5,
+    "reference": "ChIJ8XQjgblYwokRAeW0GWtVOsw",
+    "reviews": [
+        {
+            "author_name": "alesandra pham",
+            "author_url": "https://www.google.com/maps/contrib/108299577689822428866/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tz_We5QCbuQ/AAAAAAAAAAI/AAAAAAAAWyw/pzCiQ2dYo6A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I was hesitant to try this place but I\u2019m glad I did. Very friendly nail technicians and Nana did a very pretty job on my manicure/pedicure. I also asked for a massage while my nails dry and that was wonderful as well. I will be a regular client.",
+            "time": 1509657361
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14716168650867664129",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "1604 1st Avenue, New York"
+}

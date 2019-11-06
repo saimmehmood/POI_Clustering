@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "99",
+            "short_name": "99",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Church Street",
+            "short_name": "Church St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10007",
+            "short_name": "10007",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2704",
+            "short_name": "2704",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">99 Church St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10007-2704</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "99 Church St, New York, NY 10007, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7128554,
+            "lng": -74.0093466
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7143357302915,
+                "lng": -74.00796796970847
+            },
+            "southwest": {
+                "lat": 40.7116377697085,
+                "lng": -74.0106659302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "24ba23291900c208af130022002660749c904cd0",
+    "name": "Cut",
+    "place_id": "ChIJn_KS4RhawokRTuODfkvDE7w",
+    "plus_code": {
+        "compound_code": "PX7R+47 New York, United States",
+        "global_code": "87G7PX7R+47"
+    },
+    "reference": "ChIJn_KS4RhawokRTuODfkvDE7w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13552390432700490574",
+    "utc_offset": -240,
+    "vicinity": "99 Church Street, New York"
+}

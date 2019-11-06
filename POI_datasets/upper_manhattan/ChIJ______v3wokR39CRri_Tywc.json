@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "North Bergen",
+            "short_name": "North Bergen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07047",
+            "short_name": "07047",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">North Bergen</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07047</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "North Bergen, NJ 07047, USA",
+    "formatted_phone_number": "(315) 849-1087",
+    "geometry": {
+        "location": {
+            "lat": 40.8053731,
+            "lng": -74.0241367
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8066574802915,
+                "lng": -74.02283191970851
+            },
+            "southwest": {
+                "lat": 40.8039595197085,
+                "lng": -74.02552988029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f1cf82582517c055acc14cc99b7916f60675d3f1",
+    "international_phone_number": "+1 315-849-1087",
+    "name": "Travel in Style",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 10:00 AM \u2013 2:00 PM"
+        ]
+    },
+    "place_id": "ChIJ______v3wokR39CRri_Tywc",
+    "reference": "ChIJ______v3wokR39CRri_Tywc",
+    "scope": "GOOGLE",
+    "types": [
+        "travel_agency",
+        "amusement_park",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=561774780283474143",
+    "utc_offset": -240,
+    "vicinity": "North Bergen",
+    "website": "http://www.thetravelinstyle.com/"
+}

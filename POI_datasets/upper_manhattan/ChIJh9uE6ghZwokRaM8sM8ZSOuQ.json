@@ -1,0 +1,206 @@
+{
+    "address_components": [
+        {
+            "long_name": "2r",
+            "short_name": "2r",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 31st Street",
+            "short_name": "E 31st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10016",
+            "short_name": "10016",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6333",
+            "short_name": "6333",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 E 31st St #2r</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016-6333</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "222 E 31st St #2r, New York, NY 10016, USA",
+    "formatted_phone_number": "(212) 933-4811",
+    "geometry": {
+        "location": {
+            "lat": 40.743176,
+            "lng": -73.9788851
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7446702802915,
+                "lng": -73.9774283197085
+            },
+            "southwest": {
+                "lat": 40.7419723197085,
+                "lng": -73.9801262802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9a5716e594ce005866ae6e59bf3c4231fae3ede1",
+    "international_phone_number": "+1 212-933-4811",
+    "name": "The Laboratory",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJh9uE6ghZwokRaM8sM8ZSOuQ",
+    "plus_code": {
+        "compound_code": "P2VC+7C New York, United States",
+        "global_code": "87G8P2VC+7C"
+    },
+    "rating": 1,
+    "reference": "ChIJh9uE6ghZwokRaM8sM8ZSOuQ",
+    "reviews": [
+        {
+            "author_name": "Jennifer Fragale",
+            "author_url": "https://www.google.com/maps/contrib/111770354995335101914/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-y2E0L3DFDXA/AAAAAAAAAAI/AAAAAAAAJBY/477VrUA5tTo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Don't be fooled by the name or URL, this is not a bioreference lab",
+            "time": 1550497226
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16445548000512364392",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "222 East 31st Street #2r, New York"
+}

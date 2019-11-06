@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "108",
+            "short_name": "108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 13th Street",
+            "short_name": "E 13th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">108 E 13th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "108 E 13th St, New York, NY 10003, USA",
+    "formatted_phone_number": "(781) 664-9797",
+    "geometry": {
+        "location": {
+            "lat": 40.7331055,
+            "lng": -73.98942749999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7345468802915,
+                "lng": -73.9880103197085
+            },
+            "southwest": {
+                "lat": 40.7318489197085,
+                "lng": -73.9907082802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7359e538bdb56b77cdaa2314be75342f35b40cac",
+    "international_phone_number": "+1 781-664-9797",
+    "name": "Trezorbits",
+    "place_id": "ChIJDcbMMZlZwokRbNgJKkPPF2A",
+    "plus_code": {
+        "compound_code": "P2M6+66 New York, United States",
+        "global_code": "87G8P2M6+66"
+    },
+    "reference": "ChIJDcbMMZlZwokRbNgJKkPPF2A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6924230839480473708",
+    "utc_offset": -240,
+    "vicinity": "108 East 13th Street, New York"
+}

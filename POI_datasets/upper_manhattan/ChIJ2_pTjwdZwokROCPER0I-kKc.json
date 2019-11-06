@@ -1,0 +1,258 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 203",
+            "short_name": "Suite 203",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "501",
+            "short_name": "501",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">501 7th Ave Suite 203</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "501 7th Ave Suite 203, New York, NY 10018, USA",
+    "formatted_phone_number": "(212) 481-5550",
+    "geometry": {
+        "location": {
+            "lat": 40.7529467,
+            "lng": -73.9889811
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7543352302915,
+                "lng": -73.9877232697085
+            },
+            "southwest": {
+                "lat": 40.7516372697085,
+                "lng": -73.99042123029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92ab41af83c2ccf5e8e49a264b9342b6b2a35e00",
+    "international_phone_number": "+1 212-481-5550",
+    "name": "Central Interiors",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 4:30 PM",
+            "Tuesday: 8:00 AM \u2013 4:30 PM",
+            "Wednesday: 8:00 AM \u2013 4:30 PM",
+            "Thursday: 8:00 AM \u2013 4:00 PM",
+            "Friday: 8:00 AM \u2013 4:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1284,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAyGEKlChFxVrvD5tx9xKNQRV0QEZIk7Pxyt1-Y4QZKtNLx9NjnKBHqttLq_giHn_PvHZFaPPVcQX5MnsOv8eMrSKNtnyXdFdPreDFtQ8WWKHTWPhdGxq8lJXbPFtN48lIEhAsnqbM1i4yFFP11o6DsmC4GhT03SpGkmYmpXvN1fZRKogHPl8Puw",
+            "width": 1920
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAkA5G22-Bhs-ndTmAPa-40r95cyhgf66nJFfiqRTDiTm3tFw_DoFzCfV0dGMtDj6wBIZ-5P6Ustc-BmvaFJ2oUpiaEd6IZPevYjXne24YPwk--ylfQP0_YAImUG2DtljKEhCpxc5vzZd_INpdA1Mi2JLyGhSUZyKlFE3ZnXYd7fImn4zwa2GXNg",
+            "width": 1920
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAnjakGcyYCn78Gbs_yBGf7ShYzPbmdTfE_1uHL5OThP7Mf2yB7pAAp1gngW3K3cWearR06TQVevFRZXAKpEkVbBOixEfE-2rWObGOCMHPviYeKQ1QPvrnWRxvHeqGpc7oEhDBWOs0zWG_taAn59LFpoQnGhQymv0itKvWQE4YM3vII0X-O8ygzg",
+            "width": 1920
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAaM8CMbOyP8U8SDbUx8_nh9b8AgOU7_TqTjhaNB-8CTk84gNEB6CbZH31lifQC1SPSbSzKLFe1HY9JttHqUeK7eBIht6q1Ej1tkx8qMCUMGp3U0iIkoHgQoY4ueRWLXseEhBwqc1KD6I0srD50n40OWnDGhQtS7cnUjmVI2Y6JuGgcLoZ9UDCuQ",
+            "width": 515
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAZGFMkxS5cwxYdXXWxoHZn7Jo6UuywuONGlBGYqGufHGhiCbEkkAZExclwVIjP9xSmNi9dcIMQs9j-fzn_V17XzxHC-R_6zMRxJ7xEkmm8GyQhgSK_hQmNa9JmgcgnyFtEhDhl-gi67j90BsdaDs25sslGhTW3Zx69TkI8DaAdZ81Dji385kbXg",
+            "width": 515
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAeJPXq3N7Fik5mXGPuY96iFMvte6pzc4Wdoo52cwR4N2ZSqgAEEW2T087FePHGVxmk5-y7dpfo689hdwoydaLqRfb4EiJ_hSflE7c0D0HMthXTzYQrr1bcYzMJz1xkVbuEhBnyH8cUJwL8kSBWfRrEV3eGhRwvrCmP2CIC0MhW2p9SAxnciTZJA",
+            "width": 515
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAHsnMBy0qvwcx3SU-LBlfYOAhqTYtjAYLIdEIHM5-vLfY8YQNbNIEwY_Ceg5A6P6s7MNWQD1jQCQwc549IVm_QtEPQQQr6bQyk1Nlp4_IfKByT-Z5ER-TDsyFbNjGpPe4EhAey6TfehbRg1NwPcNZWRumGhSBYQiehsWO4RJpVU2YmwaU1L8MoA",
+            "width": 515
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAA5wB3aYOWcG5qSiPFzzzpru4uD4W8VgPV-IbPdoagd-sRpANofKwV3lJ9iW_EbcT7MVl8w9px61RdCvJ6Myf83DmGazAVA9Ev6AfwgyQ8lKzdnDAQ4eDgMGymasxN4aR_EhB8T8C6yTNe1u2C9b11wSdeGhQi3kV3ZQ2uCogg3xODVYKgPAZ7zA",
+            "width": 515
+        },
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAAeFpqK2U-TUN6YDqQWc1ACpW8HYWdaL-PHGBwOKfg1X1-uXFjhaSzpQKoq4jgRa-pbT2Cg5x7wJ-vPKnIi6Ptyn5OZj5E7v2AvBG58htTV4ieItnYrltCNd8t6GnrO9k6EhBeDJRazqvpa6OABxok_B5SGhRSqBKexLj8yKrIoOqwq4Qln1JQ0g",
+            "width": 515
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106841237156007580417/photos\">Central Interiors</a>"
+            ],
+            "photo_reference": "CmRaAAAATL1q_SZi2dMttMdcu8T-iASOzYm_dFdX8U2Go-FzmuntMjIami_PVOfuSMupUGGfG-irGHdKs6FuCo4NCplHZy4S7wyjXxCGBOXB4dkM69HTB2mdecK_2UJ8SAcPmVrhEhDHFI-iXRRj9_OUaah9DdPwGhSyRN003xj7MvXR9lVoSEKbXUzt3g",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJ2_pTjwdZwokROCPER0I-kKc",
+    "plus_code": {
+        "compound_code": "Q236+5C New York, United States",
+        "global_code": "87G8Q236+5C"
+    },
+    "reference": "ChIJ2_pTjwdZwokROCPER0I-kKc",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12074219055373099832",
+    "utc_offset": -240,
+    "vicinity": "501 7th Avenue Suite 203, New York",
+    "website": "https://central-interiors.com/"
+}

@@ -1,0 +1,156 @@
+{
+    "address_components": [
+        {
+            "long_name": "1536",
+            "short_name": "1536",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "8972",
+            "short_name": "8972",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1536 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031-8972</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1536 Amsterdam Ave, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 234-6409",
+    "geometry": {
+        "location": {
+            "lat": 40.8196143,
+            "lng": -73.9521239
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8210112802915,
+                "lng": -73.9507390197085
+            },
+            "southwest": {
+                "lat": 40.81831331970851,
+                "lng": -73.95343698029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "fa83ea067ba691e6f60341ec1205bff97ff7f5c2",
+    "international_phone_number": "+1 212-234-6409",
+    "name": "Suhail Deli",
+    "place_id": "ChIJJYDZYG_2wokRgOWJ4GbIxCw",
+    "plus_code": {
+        "compound_code": "R29X+R5 New York, United States",
+        "global_code": "87G8R29X+R5"
+    },
+    "rating": 3,
+    "reference": "ChIJJYDZYG_2wokRgOWJ4GbIxCw",
+    "reviews": [
+        {
+            "author_name": "Camille Melendez",
+            "author_url": "https://www.google.com/maps/contrib/111878558159665166113/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-bBLgilHgmPU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3retD5rb9rEW6Hjhwle-NOSpaNWv-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Super friendly, tons of choices and yummy Dominican snacks.",
+            "time": 1516508716
+        },
+        {
+            "author_name": "Ashik A",
+            "author_url": "https://www.google.com/maps/contrib/113933122122479895505/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Ks9TIJeNu_o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqW9EVBnt-QAI7tZrkD1DHpnHM2w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "They will mess up your order for sandwiches. Promise.",
+            "time": 1485978373
+        },
+        {
+            "author_name": "Elina I",
+            "author_url": "https://www.google.com/maps/contrib/104570326448382921765/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-uFskMr9OeqI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdP9PmyG8l75J1xDKX5gtxo9J3jtw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "Be aware, they steal from you.  Purchased $120 lotto tickets.  Got home and only $90 worth tickets was given to me with the receipt.  Yeah, welcome to Harlem.",
+            "time": 1452470777
+        },
+        {
+            "author_name": "Imad Djedid",
+            "author_url": "https://www.google.com/maps/contrib/109090491030404952277/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GXqvMlgDTCg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reXYHwfyDFPUVojS5Wu9T7Ta-NrVQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "thanks\n",
+            "time": 1422382526
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3225923577283470720",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "1536 Amsterdam Avenue, New York"
+}

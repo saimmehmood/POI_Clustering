@@ -1,0 +1,259 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Water Street",
+            "short_name": "Water St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10041",
+            "short_name": "10041",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Water St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10041</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 Water St, New York, NY 10041, USA",
+    "formatted_phone_number": "(800) 564-9501",
+    "geometry": {
+        "location": {
+            "lat": 40.7032,
+            "lng": -74.00914
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70477133029149,
+                "lng": -74.0080454197085
+            },
+            "southwest": {
+                "lat": 40.70207336970849,
+                "lng": -74.0107433802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "509567b2e32f74c2235cbd693957fb4e46e610a7",
+    "international_phone_number": "+1 800-564-9501",
+    "name": "Guardian Service Industries, Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104740979066633566056/photos\">Humayoun Jahangeer</a>"
+            ],
+            "photo_reference": "CmRaAAAAF0F1qLW8Ye-8QuF08PVvExbQpk53HPSSt2viUZnCIyAziLmLqa5udfu9xHLjtLEanMN6nrIcrUo7NIyRJ3bcrUdUScTL7lIhQmMVY_kqlZl7Qz7k_f8VUcjUgp3W5C20EhC4dxihPWwVdUE3JAHY08ofGhQdBkjk5XjH_lbfYxfIoRHd9AkMsw",
+            "width": 1285
+        },
+        {
+            "height": 1376,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115610174565016163774/photos\">Guardian Service Industries, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAZQ6V-azJo9_NR6G_cj2-e3Ejjfz8ZTwRH0Kj5IA39S02Sod0vMHxRoIwgiiYJbzoHKHyvB9XwdHUXAnBuK8oDN_ETfa8JvGeWvel3GnNmkSRhAIM-QjfgMRUHmR90xekEhBbUuFfKtOlt0Dc2zJxwDw4GhTdZPASn-5-8ZigntE1sHD1N2-ekQ",
+            "width": 1900
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115610174565016163774/photos\">Guardian Service Industries, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAkdsC8G8n65jHGYU_scGdXdldNWcysPNr9T9LRF3tVuqKK79stNMuF_zzdd6ke84nPccTHvI92zpNBiHdczkNRW2s8x8ztBxcD8M3UC0O1d-KwmiqulDWDWOIR6LpJAHWEhAZX1fysPla-GWSRC6KlhNWGhSuDb83uuCjLjgTNWXbh7ZOAh9aKg",
+            "width": 2048
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115610174565016163774/photos\">Guardian Service Industries, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAWk94_P2qQhVShp7N_ivbCkC6zHG2lNg8DK84hIcqGa1Lo-fkmzBfdHbLhHzX0LkPlJ4y-0_IfjRb5taKGtCAq-BRQRFDPk5BCdugm4G2_Qr2pRb5TbvWN4hAcgSbsP4LEhB_zc4QwNMkC7vEuwU1KPHvGhRkGMSE5GuOowGYxLdcFx3KCGWm3Q",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJYzd3_YxZwokRC7BIA8cLQ2Y",
+    "plus_code": {
+        "compound_code": "PX3R+78 New York, United States",
+        "global_code": "87G7PX3R+78"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYzd3_YxZwokRC7BIA8cLQ2Y",
+    "reviews": [
+        {
+            "author_name": "Ed Karwatske",
+            "author_url": "https://www.google.com/maps/contrib/110241610301336617055/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-pdxp3tf1MOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcVnYVKlFP5n182zFuhUMkPvroOZA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I have worked for Guardian Service Industries for 6 years. This is a wonderful company to work for in many respects. First and foremost, they truly care about their employees. Guardian is a family owned company and they extend that family atmosphere throughout the company making you feel appreciated and a valuable part of their business. They extend trust to their employees, compensation and benefits are excellent and upper management always has the time to listen to you. It truly is a pleasure working for and with them.",
+            "time": 1550064341
+        },
+        {
+            "author_name": "kevin caro",
+            "author_url": "https://www.google.com/maps/contrib/113054095609439601723/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PeG569EtTaQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reLtjpiRgZF4ka2XjYlsgXX5XeeqA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Guardian's workplace takes on a unique identity, leveraging corporate structure onto its core personality of being a family owned business. The owners know their employee's personally and have a vested interest in their well being. Confident leadership has led to immense growth and the willingness to adapt is refreshing as every day provides new and fun ways to problem solve. Look forward to seeing how much this company can expand over the next decade.",
+            "time": 1550602324
+        },
+        {
+            "author_name": "Sushi Roy",
+            "author_url": "https://www.google.com/maps/contrib/102802878824633759662/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JlZW_cFZFl8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfrMSRbKnWg8mSpHWvFpzpreB5KjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I love working at Guardian. I am constantly learning new things and I am given quite a lot of freedom to pitch my ideas. Everyone at the workplace is really friendly too.\n\nAll the employees here have been working for decades now and they wouldn't have it any other way. The office location is great and can be accessed through any part of the city tbh. They have free lunches on Wednesdays and personally,  I love their selection of coffee and tea.",
+            "time": 1550073223
+        },
+        {
+            "author_name": "Destiny Bangura",
+            "author_url": "https://www.google.com/maps/contrib/101418507229211349091/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-u1Fcu4b1CmY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfbLTA5C0SRqBErWvmIV1N1HghAqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I\u2019ve been working at Guardian Service a little over 4 months now. Awesome company and work environment. I love how fast paced everything is! Constantly keeps me on my feet!",
+            "time": 1550187436
+        },
+        {
+            "author_name": "Rosangel Ventura",
+            "author_url": "https://www.google.com/maps/contrib/110243185039362739119/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-32OsyewqVBc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re3m9hWWKmiLr0gs2apAdH2QKhb5g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place to work for ! I've been working at Guardian for about 3 years and it has been a great experience.",
+            "time": 1550674851
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7368746364689756171",
+    "user_ratings_total": 39,
+    "utc_offset": -240,
+    "vicinity": "55 Water Street, New York",
+    "website": "https://www.guardian-service.com/"
+}

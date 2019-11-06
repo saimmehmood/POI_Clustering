@@ -1,0 +1,225 @@
+{
+    "address_components": [
+        {
+            "long_name": "1123",
+            "short_name": "1123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1123 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1123 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 929-8390",
+    "geometry": {
+        "location": {
+            "lat": 40.74329159999999,
+            "lng": -73.9892929
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74463043029149,
+                "lng": -73.98786576970849
+            },
+            "southwest": {
+                "lat": 40.74193246970849,
+                "lng": -73.9905637302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6dfa2807e0e06c0432f53f3980bfc0688eae80b1",
+    "international_phone_number": "+1 212-929-8390",
+    "name": "JSN Properties",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 336,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113155876128988895069/photos\">JSN Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAkpfvv7R_6J6mVaiWCVlAnNC20U9cpFDX05RUjtNK8_B2NwjEEWAh-woWfv8qBohmWpa-jU3VuunPQnVtZVmh6LeUz60hIKPTJz3AZMyN_JIcAofIFV8YIWjWPhPAXEVMEhDxWhMbGx8nsDj6PCmiBmNeGhTP4JhIMo4rYTKIM93rEukudJhIYg",
+            "width": 448
+        },
+        {
+            "height": 420,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113155876128988895069/photos\">JSN Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAMBWrreT3sUL1Xy43Mr843IzJ6abOXLlbioY43CmjTvDvybSeTDs9jWYyPCd6mZ3UiFnjT2WHeN8jCYiNiDf0LXtcLgj4e3KKejf9V-wg4n7c_Bc5f_pIve7u0TzoxdPzEhBgexZ8eC53ZitlIue-SLKmGhRzjKHWWGUYivIILzKUkGJ_zZrpVg",
+            "width": 920
+        },
+        {
+            "height": 420,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113155876128988895069/photos\">JSN Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAy9Apr_w0JpWNCLxWXw9GG0S3UccaykzwoqcGIjya1qYYV3txZEmt80wf_Y6UgCIwvzWNp1ilgIHabCEZHmlU2x_-wXbORC7hhcbFAUXNYxjeUOPhy2Za40wCCRA3g5d6EhBDzpkswCv7cpUAC8tIAdzpGhRPPU7K1M9gJlKCI2DOd3NFNV3mUg",
+            "width": 920
+        },
+        {
+            "height": 336,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113155876128988895069/photos\">JSN Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAA1zFUCiDzKAMdYe_x_XlyUwocgPbD_nnE2bEG0TG60g1WxmwVBa-_cK-uWhxnLfZGI8dha2c778no23CRSmmaUzbjw7VUX6KCEbA-Iah9F81HQaPddKEkF-9IPf2MWB0EhCKmnDB_utUAU0-jnwRVO0PGhQlRMykYq2IZLR2pdlpVEIig06jfQ",
+            "width": 448
+        },
+        {
+            "height": 336,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113155876128988895069/photos\">JSN Properties</a>"
+            ],
+            "photo_reference": "CmRaAAAAada95UnsuKowh16RTBp1wFYCX9-t8r1fPhZ8SJB4iC8bz_RgRh5upuxrRjsq3S8bU37Djiv2AaMhp6Z5vMafZ7WCdxYXuj2O4Cn5zU9osj4ffsAHKPc8-uAcQLdAkXdfEhC-Y2CBTkKdGjBp9FIureW4GhQxUIcasVxfmUpANfof9spJORbJog",
+            "width": 448
+        }
+    ],
+    "place_id": "ChIJEcTZLqRZwokRxdUjesWrefE",
+    "plus_code": {
+        "compound_code": "P2V6+87 New York, United States",
+        "global_code": "87G8P2V6+87"
+    },
+    "rating": 5,
+    "reference": "ChIJEcTZLqRZwokRxdUjesWrefE",
+    "reviews": [
+        {
+            "author_name": "Gilson Oliveira",
+            "author_url": "https://www.google.com/maps/contrib/116737212968039256957/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Ai4wHMezOjU/AAAAAAAAAAI/AAAAAAAAAME/fa4zkpcD7B4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Working with Jeffrey Nissani has been a very positive experience. The office space listings that he manages are among the better ones I had the chance to check before renting an office space. I recommend office space JSN Properties and Jeff Nissani to your business.",
+            "time": 1339448562
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17400127499968697797",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "1123 Broadway, New York",
+    "website": "http://www.jsnproperties.com/"
+}

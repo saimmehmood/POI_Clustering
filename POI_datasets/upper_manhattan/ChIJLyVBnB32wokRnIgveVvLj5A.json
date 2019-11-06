@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 102nd Street",
+            "short_name": "E 102nd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6050",
+            "short_name": "6050",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 E 102nd St #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-6050</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "55 E 102nd St #2, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 426-2194",
+    "geometry": {
+        "location": {
+            "lat": 40.7910918,
+            "lng": -73.95043179999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7923423802915,
+                "lng": -73.94885211970849
+            },
+            "southwest": {
+                "lat": 40.7896444197085,
+                "lng": -73.9515500802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6529792f02cbdf8995ecc5995b87de5213630488",
+    "international_phone_number": "+1 212-426-2194",
+    "name": "Itrhe Home Bound Program",
+    "place_id": "ChIJLyVBnB32wokRnIgveVvLj5A",
+    "plus_code": {
+        "compound_code": "Q2RX+CR New York, United States",
+        "global_code": "87G8Q2RX+CR"
+    },
+    "rating": 5,
+    "reference": "ChIJLyVBnB32wokRnIgveVvLj5A",
+    "reviews": [
+        {
+            "author_name": "Robert Gonzalez",
+            "author_url": "https://www.google.com/maps/contrib/108098382331734467552/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-3QmSsXGLU5A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcv8dz018rEyDqrM0L442OYge4HUQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1499533399
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10416768056866867356",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "55 East 102nd Street #2, New York"
+}

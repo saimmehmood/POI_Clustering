@@ -1,0 +1,257 @@
+{
+    "address_components": [
+        {
+            "long_name": "3rd Floor",
+            "short_name": "3rd Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4603",
+            "short_name": "4603",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 7th Ave 3rd Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018-4603</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "500 7th Ave 3rd Floor, New York, NY 10018, USA",
+    "formatted_phone_number": "(212) 354-2265",
+    "geometry": {
+        "location": {
+            "lat": 40.7532064,
+            "lng": -73.9893264
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75450643029149,
+                "lng": -73.98786466970849
+            },
+            "southwest": {
+                "lat": 40.7518084697085,
+                "lng": -73.9905626302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "e1613c0be483ac9195fcbdb8fd3894c4211689ef",
+    "international_phone_number": "+1 212-354-2265",
+    "name": "Sterling National Bank",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110968561918604665079/photos\">Westry Robinson</a>"
+            ],
+            "photo_reference": "CmRaAAAAhcbAQJPx8ifvGLT0PqXkHaVwcDbpAkzNFzYPXLTxmeOsVs5GmOBTR7U4B4isXQSjYPoCIba8eNkProhikJ7p53ScqlwHBPMc3eyQoHNVyHqdr5neQozl_1jxWWcLg2l9EhDAuOziyMCAIOSET8hErqMzGhRNJpfq0eOomoskmvEFp3J6a7l1JQ",
+            "width": 3024
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113621743676876058118/photos\">von Teufel</a>"
+            ],
+            "photo_reference": "CmRaAAAAPvgT85P94SK7pqFOxtv_wWGg-AHoiftt4qFPjkNcQwkXjZS5vLTEDi1uIaScRi9LVOSI5mdp_z6mupvNuP2b8bZ9FFZ_tE-knw0KDQQIU1m-5KJCkkZP7c4Xwv3RX2JnEhCNGYExWuU348OUjC526Mw2GhTLwwIimN-Ad_oOgyYYHnxVKVgjYA",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJjZDcf6xZwokRUosyCVqCKuw",
+    "plus_code": {
+        "compound_code": "Q236+77 New York, United States",
+        "global_code": "87G8Q236+77"
+    },
+    "rating": 1.9,
+    "reference": "ChIJjZDcf6xZwokRUosyCVqCKuw",
+    "reviews": [
+        {
+            "author_name": "Adam Deyong",
+            "author_url": "https://www.google.com/maps/contrib/114459278105439871096/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_lPzK0JitZ0/AAAAAAAAAAI/AAAAAAAAUs8/5TTT7zrlLIQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "SNB unfortunately bought out a great community bank, Astoria Federal, and it shuttered all but one branch in Manhattan which doesnt even have an ATM on location. App is terrible and cant handle mobile deposits. Will be closing my account.",
+            "time": 1549378547
+        },
+        {
+            "author_name": "CARLOS ASANG",
+            "author_url": "https://www.google.com/maps/contrib/104807019805098311971/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4vYfMbBpF8U/AAAAAAAAAAI/AAAAAAAAAM8/BzsLMc5gdn4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Sterling is on the 3rd floor of 500 7th.....the rating of 1 star is because of the service these employees here provide. You would think two older gentleman (tellers) would know and have the knowledge of the computer system they have but no not here....what would\u2019ve took 10 mins anywhere else to cash a check took over 50 mins here. Asking a manager as to why it\u2019s taking so long the response received is a general statement like reading it off a piece of paper. Try to avoid this place",
+            "time": 1541176569
+        },
+        {
+            "author_name": "TIFFANY GILMORE",
+            "author_url": "https://www.google.com/maps/contrib/107284015608366796836/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ruKdhN0QnBg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdYvJn5YoL3NlCUBNebdDq4Q19ocw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "The worst bank in world. Their banking app malfunctioned on me and they expect me to physically come in and take time out of my work day to have t fixed. Isn\u2019t the point of a banking app so you don\u2019t have to go in person ??",
+            "time": 1544113182
+        },
+        {
+            "author_name": "von Teufel",
+            "author_url": "https://www.google.com/maps/contrib/113621743676876058118/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-RPJdNLW4JO8/AAAAAAAAAAI/AAAAAAAAACI/rSm4AJMMVV4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "It's HSBC! Don't go there if you looking for Sterling Bank!",
+            "time": 1538504188
+        },
+        {
+            "author_name": "Anne Lee",
+            "author_url": "https://www.google.com/maps/contrib/111188405340626665896/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-LhSEfDQW9AU/AAAAAAAAAAI/AAAAAAAAAJU/a8eRcygtlYU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Terrible terrible terrible. On a Monday afternoon they only had ONE teller available. The line was way too long and there was no one to even cover the other teller who was probably out. It took me more than 25 minutes just to make a deposit.",
+            "time": 1541444128
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17017557465185815378",
+    "user_ratings_total": 9,
+    "utc_offset": -240,
+    "vicinity": "500 7th Avenue 3rd Floor, New York",
+    "website": "https://www.snb.com/seventh-avenue"
+}

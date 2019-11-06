@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 98th Street",
+            "short_name": "E 98th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 E 98th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "115 E 98th St, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 427-8542",
+    "geometry": {
+        "location": {
+            "lat": 40.7876093,
+            "lng": -73.9507569
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7889199302915,
+                "lng": -73.94943576970849
+            },
+            "southwest": {
+                "lat": 40.78622196970851,
+                "lng": -73.95213373029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "b9e65159f633f20aa6b64983f1bd688656f87d0d",
+    "international_phone_number": "+1 212-427-8542",
+    "name": "New York City Housing Authority's Lexington Day Care Center",
+    "place_id": "ChIJId0qCKdYwokRq83hpcTkCYE",
+    "plus_code": {
+        "compound_code": "Q2QX+2M New York, United States",
+        "global_code": "87G8Q2QX+2M"
+    },
+    "reference": "ChIJId0qCKdYwokRq83hpcTkCYE",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9298214438930861483",
+    "utc_offset": -240,
+    "vicinity": "115 East 98th Street, New York"
+}

@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "98-2",
+            "short_name": "98-2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 67th Street",
+            "short_name": "W 67th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">98-2 W 67th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "98-2 W 67th St, New York, NY 10023, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7736385,
+            "lng": -73.9797115
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7749874802915,
+                "lng": -73.97687749999999
+            },
+            "southwest": {
+                "lat": 40.7722895197085,
+                "lng": -73.9825455
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "70c2ce9a7baefa9b8902b32e5a6c82e577b5af3e",
+    "name": "98-2 W 67th St",
+    "place_id": "ChIJI9Yq2vRYwokRFUUHzhDGz1g",
+    "reference": "ChIJI9Yq2vRYwokRFUUHzhDGz1g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=98-2+W+67th+St,+New+York,+NY+10023,+USA&ftid=0x89c258f4da2ad623:0x58cfc610ce074515",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

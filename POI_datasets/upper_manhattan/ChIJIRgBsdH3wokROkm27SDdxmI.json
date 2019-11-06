@@ -1,0 +1,326 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite A",
+            "short_name": "Suite A",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Main St Suite A</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1 Main St Suite A, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 840-8885",
+    "geometry": {
+        "location": {
+            "lat": 40.8037996,
+            "lng": -73.991216
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80508188029149,
+                "lng": -73.98991926970848
+            },
+            "southwest": {
+                "lat": 40.80238391970849,
+                "lng": -73.99261723029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "38e6b211397200d628b606f93d15e7813bb5efa5",
+    "international_phone_number": "+1 201-840-8885",
+    "name": "TUTTI Spa & Nails",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:30 AM \u2013 8:00 PM",
+            "Tuesday: 10:30 AM \u2013 8:00 PM",
+            "Wednesday: 10:30 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 9:30 AM \u2013 7:30 PM",
+            "Sunday: 10:00 AM \u2013 6:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAna-dOsSA0ezn5Y856fxJffQGmc__XTP23cH0VubQCdk9Dr0nAnciQi7i1mVWWmruUf2fzJ-7U5zYMf6z6SxnS6zFePb6-4HR_hQI9N-ct0x9Z0WNzQFNbst2r1xlYCXOEhBuxYHUEFxCy0Ly9q17VMbVGhRtk7HCTnVL7hl4f8OzGIETCsgfhQ",
+            "width": 375
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAjJeq3hfZyeM0Y8_xZ7vO-ek08hw-DH-5jg6GESxG4xKtbJ1wroXwNW0KwTrDBTmZ1iqKoogotgdF0THecCnLMZWFcRWZyj-L3GZwv7a4iv_LHWuAqYfnE96mUuE5hHqJEhAxDvjEJVpSwT5X6c0usamkGhRZFXSKVO2F13MLmYi-yjfpr5t6hQ",
+            "width": 375
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAB3CmXGika-Ym6MdoLL4nrSL0fxr0JXAmPGxtTOX-WeqrjweizL5Dk2MD_2QVu0bZUDmgIlrPlDconAhDlvfzDxH9k8CFdqgmYiiCJ70ZkOL3fmeco10C3o0yqnjpTjFzEhD3hHdPjlflVvO8zOgAofnLGhRVVYkFjTzYPoaZMpywwgiTjrW6og",
+            "width": 375
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAFBcWD4KfnpLB8-A3A5-1RIgo3FrLUtEVcrfKnQah_Kf8qKCjfsv-iw4-elahTTdvL2WVKSUPg-8Jd511jL7Uj_Gl1VavnRjXAtPN68viSTUtpKxlr70kRmEmP2_B1tXSEhCGf-AV5_iGvBKTvtBOlEJoGhRKKaEnty3kttzeCz_V2q4nlYMwJw",
+            "width": 398
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAA0FLjKeVHs6RocX4-l0pg-NrYxOl-LOgzkSUniranhxzcsRTlVaunbUGzyMMxnOPqv1fxgv4TeWhp1Ai4U7e1mrJ7c1G5NhvJqmCvObta-c6YnaB1pmzRh4vuNe2WVI3ZEhCyaQ5f6ew7y_CufIw0sEiMGhRp1_YbyZABsXiVzocYVuWgoh_Vcg",
+            "width": 407
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112456051368748874109/photos\">TUTTI Spa &amp; Nails</a>"
+            ],
+            "photo_reference": "CmRaAAAAAec3TDIXLViCnaGlmzwh2wHY7RPt2S0uYXsaICGer0VVSRyQrqqxGhDjPFPXHKNdahc__wdv4X7HbXy7qy-DIbGjLSKRDd8p7Zp2Du8GTSt5x_jXtqwiY1gLYNB8YJDtEhARFcDZkUBzBpDz2O6gkq-MGhQfDfcrYdVfLnEbbtMS1y-iWCSPxg",
+            "width": 390
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104924082775693880708/photos\">tanea 3112</a>"
+            ],
+            "photo_reference": "CmRaAAAAS5yqn-HHfjq_o7mnCiK_T5AnTe4Z0reN9_f-oNHcUMO2fEOEVFdwcFsr8kNassHMU284RuaT0zBKeoccQkwDF9VWZMu3XXEBintcN2_C5APMRqyhD1_f0LayZ6XYiqH7EhBbqaNkBKXvySZNq3Q1z5K1GhRBvsHRrFgeuWApUooAtn6Yyle3VA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116928123141288436634/photos\">Genesis Sandoval</a>"
+            ],
+            "photo_reference": "CmRaAAAAcKuCOw7wDuXjNcXql2RQcSKRrQTBstPHWnZZzMUTTMJKLz08eWieCsLj1Z1wTGM68A3wqYDq_-oKFlPhEB6tCzwFrRwpolwHPPQa_P2WJ10IKy9_54C1-fqJeikcZSf2EhB652X8wn7J_UkyGZLoxX9lGhRxs7WByqPs4ZzQcZ2BTG-wBkDhXg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114158791143549869305/photos\">Margarita Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAAU75esH2EZWcUcSirGxXSNh5tShsqlBuKefOvBQLhdbJLX7BpCJVtzxBhxh3swuRPQq2m7YppLJRhMV9KogpGlEw9X3Zm9dhC7wyu91t3on-bRMlh84zXaDfjzRxEScPREhD_26-Wu6aiVo8rUr-t0p3NGhTer7QQb33PRt6Mouyj7QD1ZU3oDg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114158791143549869305/photos\">Margarita Garcia</a>"
+            ],
+            "photo_reference": "CmRaAAAANP41owZMOh0Cl4Eqh3hlMCpZNAkHvh76HiuxMHH8chidbzFcXletnXTY_GdAN0yVlTvpla9xl7vwbP7BQYrDwpLGVW7CIMwjNvRbaJbkOXhtBrXGXaKs_MCbhwd4FspTEhCLyFx0BQT-C8pJJm0DFfNHGhQueCieXLXthXiKsRZQ1HtFBRvpkQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJIRgBsdH3wokROkm27SDdxmI",
+    "plus_code": {
+        "compound_code": "R235+GG Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+GG"
+    },
+    "rating": 3.1,
+    "reference": "ChIJIRgBsdH3wokROkm27SDdxmI",
+    "reviews": [
+        {
+            "author_name": "Lindsay H",
+            "author_url": "https://www.google.com/maps/contrib/108824489344714769028/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-wWL6NlYGXcA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdk9MuIriaeCEk41SO_TFEiqdYJsQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I Love Tutti Nails! Cathy is always so kind to speak to and it's always easy to make appointments. Jenny is fantastic, my manicures last 2 weeks with regular nail polish! She has done my nails for years and they always look perfect. Tutti Nails is always clean and they always have new colors. I highly recommend Tutti Nails to all my friends and family.",
+            "time": 1555947084
+        },
+        {
+            "author_name": "Ray Bianco",
+            "author_url": "https://www.google.com/maps/contrib/109825315634581667760/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0IU-pw3gwKI/AAAAAAAAAAI/AAAAAAAAAfk/5ybtdgzdhJQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Always willing to accommodate a walk in; appointments easy to make. Welcoming staff, spacious and modern design, equipment that's well cared for, professional service, soft with upsells, and above all sanitary conditions.  I've been satisfied each and every time I've visited.  Worth every penny.",
+            "time": 1561899320
+        },
+        {
+            "author_name": "Corie Rhodes",
+            "author_url": "https://www.google.com/maps/contrib/108046948230265377295/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-P987zNja3BE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc9ADQCC25QFb60HrokkohfYpaHMw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Walked in needing SNS redone. (Tourist from Australia) SNS technician had gone home so chose Shellac. Have thin nails but had been growing long with SNS. Older gentleman started on my nails, used both electric sander and sanding block. Made my nails so thin they were bending even with Shellac on. Within a couple of days my nails were breaking and Shellac was peeling of the ends like rubber. Should be hard. Have had to cut nails right back and all chipped on ends and only been a week. Cost more than having done in Australia too. Can't recommend.",
+            "time": 1559222766
+        },
+        {
+            "author_name": "Carolyn Cuellar",
+            "author_url": "https://www.google.com/maps/contrib/113271770317503877114/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-IEi1QaydMH0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd3jMZZg2Azmjq31AodZsHyVAq6pA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Horrible, horrible service I received today. The girl was super rough and rude. Then, I hair got on my pedicure and I asked her to fix it; she rolled her eyes!! I didn\u2019t even get that few second back massage they give you while your nails dry. So, so disappointed.",
+            "time": 1557607639
+        },
+        {
+            "author_name": "Stephanie Simone Accinni",
+            "author_url": "https://www.google.com/maps/contrib/102891407436227418216/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wZGDX69Sv6Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcOYExjQRxEqUQf75D1P0rOr_GKoQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "I went here once and probably will never be back. I called at lunch time to make an after work appointment... no problem!  I get to the salon for a full set. It look the woman almost THREE HOURS to do. Towards the end she told me \u201cdon\u2019t come back on this day of the week for full set\u201d. I would have appreciated that if she told me on the phone when I had originally called. On top of that this place is VERY expensive... I was charged $120 for the full set and that didn\u2019t include the tip I didn\u2019t want to leave.",
+            "time": 1545582700
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "spa",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7117619394602486074",
+    "user_ratings_total": 34,
+    "utc_offset": -240,
+    "vicinity": "1 Main Street Suite A, Edgewater",
+    "website": "http://www.tuttispa.com/"
+}

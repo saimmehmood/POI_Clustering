@@ -1,0 +1,137 @@
+{
+    "address_components": [
+        {
+            "long_name": "119",
+            "short_name": "119",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">119 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "119 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(646) 596-9607",
+    "geometry": {
+        "location": {
+            "lat": 40.8025724,
+            "lng": -73.9505908
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80386148029149,
+                "lng": -73.9492861197085
+            },
+            "southwest": {
+                "lat": 40.8011635197085,
+                "lng": -73.95198408029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f3961b7558b6732fbc8fe0816db2970af7db9220",
+    "international_phone_number": "+1 646-596-9607",
+    "name": "Daru Salam Halal Meat & Fish Market",
+    "place_id": "ChIJjUwVqhH2wokRU1CcH7E14fA",
+    "plus_code": {
+        "compound_code": "R23X+2Q New York, United States",
+        "global_code": "87G8R23X+2Q"
+    },
+    "rating": 2.3,
+    "reference": "ChIJjUwVqhH2wokRU1CcH7E14fA",
+    "reviews": [
+        {
+            "author_name": "Houda El Azmi",
+            "author_url": "https://www.google.com/maps/contrib/112688134563767019581/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yDUb-uCEuVY/AAAAAAAAAAI/AAAAAAAAALQ/7TSOsLjaJc8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Seriously it\u2019s a shame to open such a place to public. A smell of rot, the black rot meat, the dirty shelves... all that was missing is the rat for the little cliche.\nIt really upset me. They are literally the only halal store in Manhattan. Instead of taking advantage of that and thrive, they open something disgusting. I can\u2019t picture anyone that would like to buy something in that store! \nPlease put some effort! And don\u2019t be surprised if you close your doors!!!!",
+            "time": 1520832131
+        },
+        {
+            "author_name": "Maty Cariaga",
+            "author_url": "https://www.google.com/maps/contrib/115301692614112069707/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-h7NQGRdBvp0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfrzpcdDbu1cMstAEWHLjAgc8Lqbg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1506236470
+        },
+        {
+            "author_name": "rafique ahmad",
+            "author_url": "https://www.google.com/maps/contrib/105645074780347031677/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5YDNYco_ZmU/AAAAAAAAAAI/AAAAAAAADD4/22YHAL9G380/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1502321654
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17357213473718423635",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "119 West 116th Street, New York"
+}

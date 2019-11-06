@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10023",
+            "short_name": "10023",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10023, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.77291,
+            "lng": -73.98936599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77428383029149,
+                "lng": -73.98807561970848
+            },
+            "southwest": {
+                "lat": 40.7715858697085,
+                "lng": -73.99077358029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "591bec7271f8960057cb97bdd45bc54bc0480f56",
+    "name": "West End Av/W 61 St",
+    "place_id": "ChIJG8HBLlxYwokRFtPRUEihZnc",
+    "plus_code": {
+        "compound_code": "Q2F6+57 New York, United States",
+        "global_code": "87G8Q2F6+57"
+    },
+    "reference": "ChIJG8HBLlxYwokRFtPRUEihZnc",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8603741470103556886",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

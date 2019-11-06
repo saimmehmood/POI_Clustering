@@ -1,0 +1,129 @@
+{
+    "address_components": [
+        {
+            "long_name": "21",
+            "short_name": "21",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Central Park North",
+            "short_name": "Central Park N",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Central Park N #21</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "15 Central Park N #21, New York, NY 10026, USA",
+    "formatted_phone_number": "(347) 855-5428",
+    "geometry": {
+        "location": {
+            "lat": 40.7974008,
+            "lng": -73.95013329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7986975302915,
+                "lng": -73.94882281970848
+            },
+            "southwest": {
+                "lat": 40.7959995697085,
+                "lng": -73.95152078029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad21a8822cc0c416e5cd8df42bc8728c39737775",
+    "international_phone_number": "+1 347-855-5428",
+    "name": "Gay Web Channel",
+    "photos": [
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110549644679185647148/photos\">Gay Web Channel</a>"
+            ],
+            "photo_reference": "CmRaAAAA8yxEWf09uGTXuIFibzShrt00E7EIv4wGJGQpfjOLvHwjcDDz8skkpwWWFM5l_nlbCLY8XGZUeKNq1UbgMVDeZuZfReYai61Vid6fFiOJqM9dc1Qhwxds6KGKfohruv8zEhAkliAsdo51JKAwAmZd4HVYGhQqlYmCZ_JvIyLrjTY-Eale1sSL6A",
+            "width": 500
+        },
+        {
+            "height": 255,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110549644679185647148/photos\">Gay Web Channel</a>"
+            ],
+            "photo_reference": "CmRaAAAAEtmRfSw3IB5t2yCTxyN8yis8Wz4wnUl1B1mUqAIZGVtHSyk_JctO587IBc9vvEBgLCSZPjPxv3CF7h0bAiNN1g_zo_NJMRXeVLQh6YPz9yLBdnDNbgW3avZt7FEMujSBEhAM8T7MRN4cPf2nj2pSWi_aGhScO-XiH4wC7WaM8VYLTdoNyd5jSA",
+            "width": 382
+        }
+    ],
+    "place_id": "ChIJRw2XNxr2wokRHN6KJTqOdnQ",
+    "plus_code": {
+        "compound_code": "Q2WX+XW New York, United States",
+        "global_code": "87G8Q2WX+XW"
+    },
+    "reference": "ChIJRw2XNxr2wokRHN6KJTqOdnQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8392051336040603164",
+    "utc_offset": -240,
+    "vicinity": "15 Central Park North #21, New York",
+    "website": "http://www.gaywebchannel.com/"
+}

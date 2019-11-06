@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8195474,
+            "lng": -73.9518762
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8208810302915,
+                "lng": -73.95049061970849
+            },
+            "southwest": {
+                "lat": 40.8181830697085,
+                "lng": -73.95318858029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "5c7c3244b7fbca857b82b2182e9ccae236363396",
+    "name": "Amsterdam Av/W 136 St",
+    "place_id": "ChIJhXZFYW_2wokRriyzRubldrA",
+    "plus_code": {
+        "compound_code": "R29X+R6 New York, United States",
+        "global_code": "87G8R29X+R6"
+    },
+    "reference": "ChIJhXZFYW_2wokRriyzRubldrA",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12715603375118560430",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

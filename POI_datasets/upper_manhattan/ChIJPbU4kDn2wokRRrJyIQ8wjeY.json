@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Henry Hudson Parkway",
+            "short_name": "NY-9A",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">NY-9A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "NY-9A, New York, NY 10025, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.808077,
+            "lng": -73.9690227
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81381095000005,
+                "lng": -73.96517159999999
+            },
+            "southwest": {
+                "lat": 40.80245314999996,
+                "lng": -73.9731468
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "6d58b7621fb613ce6810ce8f44ce5d191ee27528",
+    "name": "Henry Hudson Parkway",
+    "place_id": "ChIJPbU4kDn2wokRRrJyIQ8wjeY",
+    "reference": "ChIJPbU4kDn2wokRRrJyIQ8wjeY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=NY-9A,+New+York,+NY+10025,+USA&ftid=0x89c2f6399038b53d:0xe68d300f2172b246",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

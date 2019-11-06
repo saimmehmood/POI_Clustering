@@ -1,0 +1,208 @@
+{
+    "address_components": [
+        {
+            "long_name": "242",
+            "short_name": "242",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 20th Street",
+            "short_name": "W 20th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3595",
+            "short_name": "3595",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">242 W 20th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011-3595</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "242 W 20th St, New York, NY 10011, USA",
+    "formatted_phone_number": "(212) 989-1320",
+    "geometry": {
+        "location": {
+            "lat": 40.742949,
+            "lng": -73.99904389999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443505802915,
+                "lng": -73.99765646970849
+            },
+            "southwest": {
+                "lat": 40.7416526197085,
+                "lng": -74.0003544302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "86b5ef05e725ae4c4834032714cf03c5177ee181",
+    "international_phone_number": "+1 212-989-1320",
+    "name": "Ashland Plumbing Corporation",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 5:00 PM",
+            "Tuesday: 6:30 AM \u2013 5:00 PM",
+            "Wednesday: 6:00 AM \u2013 5:00 PM",
+            "Thursday: 6:00 AM \u2013 5:00 PM",
+            "Friday: 6:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ666YjLtZwokRAbSwWM_6E98",
+    "plus_code": {
+        "compound_code": "P2V2+59 New York, United States",
+        "global_code": "87G8P2V2+59"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ666YjLtZwokRAbSwWM_6E98",
+    "reviews": [
+        {
+            "author_name": "Danielle Palumbo",
+            "author_url": "https://www.google.com/maps/contrib/113787295292996435031/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-uAtEjKE3UGw/AAAAAAAAAAI/AAAAAAAAeSA/GUiugilucUc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1513524901
+        },
+        {
+            "author_name": "Justin Simmons",
+            "author_url": "https://www.google.com/maps/contrib/105385733541373910837/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MwSEIQIiW4U/AAAAAAAAAAI/AAAAAAAABQc/yym3a4kLNaI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1507906810
+        },
+        {
+            "author_name": "Sfgadv91",
+            "author_url": "https://www.google.com/maps/contrib/105122030694056223582/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TwpNnhqJoRI/AAAAAAAAAAI/AAAAAAAAMWI/vErvcCJYyPE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1414095231
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "plumber",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16074467263468581889",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "242 West 20th Street, New York"
+}

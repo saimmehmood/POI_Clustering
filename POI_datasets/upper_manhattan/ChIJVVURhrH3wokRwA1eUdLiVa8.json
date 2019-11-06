@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "556",
+            "short_name": "556",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Anderson Avenue",
+            "short_name": "Anderson Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Cliffside Park",
+            "short_name": "Cliffside Park",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07010",
+            "short_name": "07010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">556 Anderson Ave</span>, <span class=\"locality\">Cliffside Park</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "556 Anderson Ave, Cliffside Park, NJ 07010, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8231845,
+            "lng": -73.9891782
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82458553029149,
+                "lng": -73.9879473697085
+            },
+            "southwest": {
+                "lat": 40.82188756970849,
+                "lng": -73.9906453302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2112a0d7341143b6ab21b1cb6b9d56a8fa07a65b",
+    "name": "Presto Wine Usa Llc",
+    "place_id": "ChIJVVURhrH3wokRwA1eUdLiVa8",
+    "plus_code": {
+        "compound_code": "R2F6+78 Cliffside Park, New Jersey, United States",
+        "global_code": "87G8R2F6+78"
+    },
+    "reference": "ChIJVVURhrH3wokRwA1eUdLiVa8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12634253722593922496",
+    "utc_offset": -240,
+    "vicinity": "556 Anderson Avenue, Cliffside Park"
+}

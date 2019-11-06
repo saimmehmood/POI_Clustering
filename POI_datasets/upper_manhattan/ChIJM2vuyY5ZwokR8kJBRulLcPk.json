@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "96",
+            "short_name": "96",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spring Street",
+            "short_name": "Spring St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3923",
+            "short_name": "3923",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">96 Spring St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-3923</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "96 Spring St, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 925-0600",
+    "geometry": {
+        "location": {
+            "lat": 40.7231662,
+            "lng": -73.9994947
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7245883302915,
+                "lng": -73.99808736970849
+            },
+            "southwest": {
+                "lat": 40.7218903697085,
+                "lng": -74.00078533029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "551d7edd062b833e64ccd429f1e80b20c6e1d047",
+    "international_phone_number": "+1 212-925-0600",
+    "name": "Gallery Revel Inc",
+    "photos": [
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117347306167444317912/photos\">revel gallery</a>"
+            ],
+            "photo_reference": "CmRaAAAAI3X2iElsO-54h_0vY7rzbwO9M8jQCWTjdmfNHW7I6-YD7fd8mb5SRralpCSC4ffvkErlOn-AyhRsW0CDcwdzz3vgukYnst5afq7uq7qNlUR5FGNAS0n8Y-uPKmB8QkxqEhAOYqz4AwdD1vOm4mgPQrg9GhToNGbrqXVcX9oWYOmPlXbsykW_GA",
+            "width": 1936
+        },
+        {
+            "height": 673,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117347306167444317912/photos\">revel gallery</a>"
+            ],
+            "photo_reference": "CmRaAAAAlOW8tFq0yvqWQyQ-NnQkX5WUO73oQpW_6z0CPpI8S7ATnMlsDJVIaCtervcmGURoZjCfSgkegcnI5_LsK0TBhV8Jt809I2cHsPJUWKSe-HzxZhiZaNL-f1ltM7aK50mQEhAJriMpQErrxPjBQVZlGWryGhQ3R-HVxGx4IrglGtme6-_RFnApRQ",
+            "width": 2225
+        }
+    ],
+    "place_id": "ChIJM2vuyY5ZwokR8kJBRulLcPk",
+    "plus_code": {
+        "compound_code": "P2F2+76 New York, United States",
+        "global_code": "87G8P2F2+76"
+    },
+    "rating": 5,
+    "reference": "ChIJM2vuyY5ZwokR8kJBRulLcPk",
+    "reviews": [
+        {
+            "author_name": "revel gallery",
+            "author_url": "https://www.google.com/maps/contrib/117347306167444317912/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BvpmouIAr8s/AAAAAAAAAAI/AAAAAAAAABI/uBXFIOSMbj4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1484351543
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17973949578113794802",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "96 Spring Street, New York",
+    "website": "https://galleryrevel.com/"
+}

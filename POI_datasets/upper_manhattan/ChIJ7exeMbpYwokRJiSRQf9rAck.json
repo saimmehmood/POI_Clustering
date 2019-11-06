@@ -1,0 +1,280 @@
+{
+    "address_components": [
+        {
+            "long_name": "1623",
+            "short_name": "1623",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4304",
+            "short_name": "4304",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1623 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4304</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1623 1st Avenue, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 628-5580",
+    "geometry": {
+        "location": {
+            "lat": 40.77599610000001,
+            "lng": -73.9503052
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7772946802915,
+                "lng": -73.94884181970849
+            },
+            "southwest": {
+                "lat": 40.77459671970851,
+                "lng": -73.95153978029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a1762071d2b0f4ebb03800b26a7283fe18388c36",
+    "international_phone_number": "+1 212-628-5580",
+    "name": "Animal Clinic of New York",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 12:00 PM, 3:00 \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 12:00 PM, 3:00 \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 2:00 PM",
+            "Thursday: 9:00 AM \u2013 12:00 PM, 3:00 \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 12:00 PM, 3:00 \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ7exeMbpYwokRJiSRQf9rAck",
+    "plus_code": {
+        "compound_code": "Q2GX+9V New York, United States",
+        "global_code": "87G8Q2GX+9V"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ7exeMbpYwokRJiSRQf9rAck",
+    "reviews": [
+        {
+            "author_name": "Shana Cosentino",
+            "author_url": "https://www.google.com/maps/contrib/109308512352672713104/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-UUl-jfgP0bw/AAAAAAAAAAI/AAAAAAAAW90/aHPcLHldTwI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "I have been taking my dog to Dr. Doloroso since 2017 when I had an issue with another money-hungry vet within the 3 block radius. I decided to switch vets now because I've only gone to her a few times. This last time I went for a heart worm test plus dhpp vaccination. She wanted to charge more than what most vets charge for the vaccination but it would have to be repeated annually. I've had my dog since he was 8 weeks old and he's now 10 years old. I have never had to repeat the dhpp annually and for $60. She said it's also the same dose as it would be for the 3-year vaccination which didn't make sense to me. She over vaccinates animal to make extra money. She said it's her way to make sure people come in for their annual exams. That's the poorest excuse I've ever heard. I told her to her face that is just a way to make extra money and she could only say he is due for his exam soon if you want to do that today. I said no and she was like I guess we aren't doing anything today. I only had his heart worm test done since he was out of his Heartgard plus and then I left. She only cares about money. She sold me a shampoo at the second visit that I never used and then brushed off the fact that my dog had ear infections. I just found out from his new vet that his ear infections have been ongoing and he said she probably didn't want to deal with it so sold me a cream that barely worked. I warn everyone to stay away cause she is a snake and is only after money. It's scary to think she over vaccinates animals to make an extra buck. I just paid $40 per vaccination at the new vet and he repeats the dhpp every 3 years as it should be. Very happy to finally have found an honest vet somewhere else not in the neighborhood.",
+            "time": 1561658548
+        },
+        {
+            "author_name": "Heather Reynolds",
+            "author_url": "https://www.google.com/maps/contrib/115383724983943544345/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-D9K16F_yMUA/AAAAAAAAAAI/AAAAAAAAW-8/TLQFJZRE2XU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I found them in a difficult situation with my cat of 9 years. He became very sick and they helped me treat him and keep him comfortable in his last months to have more time and I even thought he\u2019d live, but when it was time to say, \u201cgoodbye\u201d... they were great with us again. \nI\u2019ve referred people to them and now that I\u2019ve just adopted a new kitten, I\u2019ll be bringing him here, as well as my older cat. \n\nThey really care about the well being of your pets, the prices are good and the staff is kind and respectful.",
+            "time": 1537094183
+        },
+        {
+            "author_name": "bonnie singer",
+            "author_url": "https://www.google.com/maps/contrib/104902986027846875904/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yCnKZTFrSrw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdruoMmWaHTdWlAhQdlYsSryb530A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The vet and staff were very caring and informative. They called me the day after my cat\u2019s dental to see how he was feeling. And he was feeling great, thankfully \ud83d\ude00",
+            "time": 1540568502
+        },
+        {
+            "author_name": "desen fommen",
+            "author_url": "https://www.google.com/maps/contrib/107063909644226465025/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-cP-jijufFl8/AAAAAAAAAAI/AAAAAAAAAAc/RUCZy_UiiGs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Taking care of pets is not an easy task. My 2 months jenny was about to die when I visited this pet care clinic. I would really like to thank them because they saved my jenny.",
+            "time": 1537968976
+        },
+        {
+            "author_name": "edieeverson",
+            "author_url": "https://www.google.com/maps/contrib/110864972493781161895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BN9soXF6d5M/AAAAAAAAAAI/AAAAAAAAKGc/Vjm-hAQu_so/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I used to live on the upper east side and after moving to Hamilton Heights, I wasn't able to find a vet I liked as Dr Lily. She saved my elderly cat's life when he became constipated. Now she treats both my cats!",
+            "time": 1526930037
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "veterinary_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14483976620661089318",
+    "user_ratings_total": 12,
+    "utc_offset": -240,
+    "vicinity": "1623 1st Avenue, New York",
+    "website": "http://www.theanimalclinicofnewyork.com/"
+}

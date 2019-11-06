@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "715",
+            "short_name": "715",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 5th Street",
+            "short_name": "E 5th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10009",
+            "short_name": "10009",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">715 E 5th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "715 E 5th St, New York, NY 10009, USA",
+    "formatted_phone_number": "(917) 710-7415",
+    "geometry": {
+        "location": {
+            "lat": 40.7226979,
+            "lng": -73.9789177
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.72399278029149,
+                "lng": -73.97760846970849
+            },
+            "southwest": {
+                "lat": 40.7212948197085,
+                "lng": -73.98030643029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "401f4a26db8c66d34ed016889b489dc017619a0f",
+    "international_phone_number": "+1 917-710-7415",
+    "name": "Daniel Vater Fine Catering",
+    "place_id": "ChIJP39XoXlZwokRgbNe6ZCLFQQ",
+    "plus_code": {
+        "compound_code": "P2FC+3C New York, United States",
+        "global_code": "87G8P2FC+3C"
+    },
+    "reference": "ChIJP39XoXlZwokRgbNe6ZCLFQQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=294294805169484673",
+    "utc_offset": -240,
+    "vicinity": "715 East 5th Street, New York",
+    "website": "https://www.danielvater.com/"
+}

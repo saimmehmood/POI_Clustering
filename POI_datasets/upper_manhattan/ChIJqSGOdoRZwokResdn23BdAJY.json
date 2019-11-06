@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "151-165",
+            "short_name": "151-165",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East Houston Street",
+            "short_name": "E Houston St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1004",
+            "short_name": "1004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">151-165 E Houston St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-1004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "151-165 E Houston St, New York, NY 10002, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7230137,
+            "lng": -73.9891183
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.72436323029149,
+                "lng": -73.9877690197085
+            },
+            "southwest": {
+                "lat": 40.7216652697085,
+                "lng": -73.9904669802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "b2c9b0eb4b14ed818f3a5b4dcbd37de5cc252f8e",
+    "name": "151-165 E Houston St",
+    "place_id": "ChIJqSGOdoRZwokResdn23BdAJY",
+    "reference": "ChIJqSGOdoRZwokResdn23BdAJY",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=151-165+E+Houston+St,+New+York,+NY+10002,+USA&ftid=0x89c25984768e21a9:0x96005d70db67c77a",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

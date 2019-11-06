@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "2r",
+            "short_name": "2r",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "108East",
+            "short_name": "108East",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "East 97th Street",
+            "short_name": "E 97th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"extended-address\">108East</span>, <span class=\"street-address\">E 97th St #2r</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "108East, E 97th St #2r, New York, NY 10029, USA",
+    "formatted_phone_number": "(917) 775-6716",
+    "geometry": {
+        "location": {
+            "lat": 40.786742,
+            "lng": -73.951435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78817713029151,
+                "lng": -73.95002211970849
+            },
+            "southwest": {
+                "lat": 40.78547916970851,
+                "lng": -73.95272008029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aa6cd73df8c5b49882c58a2eedd6f65cb1345f92",
+    "international_phone_number": "+1 917-775-6716",
+    "name": "Dust 2 Clean Services",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ-UjBeCNZwokRJGxxpLSF4jk",
+    "plus_code": {
+        "compound_code": "Q2PX+MC New York, United States",
+        "global_code": "87G8Q2PX+MC"
+    },
+    "rating": 5,
+    "reference": "ChIJ-UjBeCNZwokRJGxxpLSF4jk",
+    "reviews": [
+        {
+            "author_name": "Blake WILSON",
+            "author_url": "https://www.google.com/maps/contrib/115166751676510640833/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-szXxOsGEld0/AAAAAAAAAAI/AAAAAAAAAcE/JJp6rrgrvKk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Rush B",
+            "time": 1553506552
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4171043215798004772",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "108East, East 97th Street #2r, New York",
+    "website": "http://www.dust2clean.net/"
+}

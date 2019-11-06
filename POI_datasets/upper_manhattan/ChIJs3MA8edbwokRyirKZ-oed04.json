@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "145",
+            "short_name": "145",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hewes Street",
+            "short_name": "Hewes St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">145 Hewes St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "145 Hewes St, Brooklyn, NY 11211, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.703038,
+            "lng": -73.958945
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7043122802915,
+                "lng": -73.9575104197085
+            },
+            "southwest": {
+                "lat": 40.7016143197085,
+                "lng": -73.9602083802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3f6d1d175e41c3602c77059a66859eaf1bd0261a",
+    "name": "J & S Appraisals Of Ny Inc.",
+    "place_id": "ChIJs3MA8edbwokRyirKZ-oed04",
+    "plus_code": {
+        "compound_code": "P23R+6C New York, United States",
+        "global_code": "87G8P23R+6C"
+    },
+    "reference": "ChIJs3MA8edbwokRyirKZ-oed04",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5654021849299430090",
+    "utc_offset": -240,
+    "vicinity": "145 Hewes Street, Brooklyn"
+}

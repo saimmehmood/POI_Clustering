@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "212-246",
+            "short_name": "212-246",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 90th Street",
+            "short_name": "E 90th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">212-246 E 90th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "212-246 E 90th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7809378,
+            "lng": -73.9510524
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7822867802915,
+                "lng": -73.9497034697085
+            },
+            "southwest": {
+                "lat": 40.7795888197085,
+                "lng": -73.9524014302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "954558d1937092bdaba8790567769d91cd7690e6",
+    "name": "212-246 E 90th St",
+    "place_id": "ChIJPc4m2qRYwokRpgpx6dAAP40",
+    "reference": "ChIJPc4m2qRYwokRpgpx6dAAP40",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=212-246+E+90th+St,+New+York,+NY+10128,+USA&ftid=0x89c258a4da26ce3d:0x8d3f00d0e9710aa6",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

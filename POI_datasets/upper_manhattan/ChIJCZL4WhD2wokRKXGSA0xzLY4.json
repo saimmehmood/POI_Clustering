@@ -1,0 +1,240 @@
+{
+    "address_components": [
+        {
+            "long_name": "103",
+            "short_name": "103",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2506",
+            "short_name": "2506",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">103 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2506</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "103 Malcolm X Blvd, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 864-2571",
+    "geometry": {
+        "location": {
+            "lat": 40.8016383,
+            "lng": -73.9504248
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8029291302915,
+                "lng": -73.9489321197085
+            },
+            "southwest": {
+                "lat": 40.8002311697085,
+                "lng": -73.95163008029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "01def34fb77863d9820cc008ed6acf67a845ec1e",
+    "international_phone_number": "+1 212-864-2571",
+    "name": "DryClean NYC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 7:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJCZL4WhD2wokRKXGSA0xzLY4",
+    "plus_code": {
+        "compound_code": "R22X+MR New York, United States",
+        "global_code": "87G8R22X+MR"
+    },
+    "rating": 3.7,
+    "reference": "ChIJCZL4WhD2wokRKXGSA0xzLY4",
+    "reviews": [
+        {
+            "author_name": "Bryan Hern\u00e1ndez",
+            "author_url": "https://www.google.com/maps/contrib/117522674987657619056/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-j-3VrRlgXyU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcnx25WNM9hOo7lU6uYpUARd-QVmQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Very quick service friendly helpful",
+            "time": 1543347813
+        },
+        {
+            "author_name": "Helene Alonso",
+            "author_url": "https://www.google.com/maps/contrib/117733400104400062204/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-PmqoT0lj1OA/AAAAAAAAAAI/AAAAAAAAAAA/W4xQJfiRnPQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "They take forever to clean your clothes. An average of a week. Miss the deadline every single time. On top of that, they confuse the delivery status constantly so you have to go and pick your clothes up. Aside from that, the clothes are clean and they have only lost a batch once (six shirts though).",
+            "time": 1529577465
+        },
+        {
+            "author_name": "William Antozzi",
+            "author_url": "https://www.google.com/maps/contrib/118394755488322733533/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JaN2ZVnQ6-Y/AAAAAAAAAAI/AAAAAAAC5jw/bp4g7sCb_qQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "I went to this dry cleaner a few times with no problems, but on my 4th visit they ended up losing my clothing at the outsourced cleaners because the lady that took my clothes didn't tag them correctly. \nOver the next two months i called repeatedly, and walked in, only to be told that no progress had been made in the attempt to find my clothes and the lady at the desk kept saying she would just write me a check. but I could not understand because tracking people's clothes is your primary job. I ended up having to get in contact with the manager who attempted to help but took him several attempts and more of my obnoxious calling to get an effort in the end. after two months of trying persistently I finally got my clothes back. If it wasn't for one of the shirts being one of my favorites, I probably would've gave up along time ago. even those the closest drycleaner to my apartment, I'll never use them again.",
+            "time": 1510852009
+        },
+        {
+            "author_name": "Steven F",
+            "author_url": "https://www.google.com/maps/contrib/115438598359009218926/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HQEE9-ZYCjc/AAAAAAAAAAI/AAAAAAAACAU/3gbb9dILUVc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best service in the area! ",
+            "time": 1466389769
+        },
+        {
+            "author_name": "Xavier M",
+            "author_url": "https://www.google.com/maps/contrib/115457143422110312979/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-AHP-1KFvTNM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re3wWzLEMgbpli889kpgj7AhSKAZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 years ago",
+            "text": "Okay.",
+            "time": 1459091724
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10244971497652384041",
+    "user_ratings_total": 10,
+    "utc_offset": -240,
+    "vicinity": "103 Malcolm X Boulevard, New York",
+    "website": "https://drycleannyc.com/"
+}

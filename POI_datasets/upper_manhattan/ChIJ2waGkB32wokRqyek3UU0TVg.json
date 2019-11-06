@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "1481",
+            "short_name": "1481",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6510",
+            "short_name": "6510",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1481 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-6510</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1481 Madison Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 707-3346",
+    "geometry": {
+        "location": {
+            "lat": 40.7906179,
+            "lng": -73.95129730000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7920269802915,
+                "lng": -73.9500934197085
+            },
+            "southwest": {
+                "lat": 40.7893290197085,
+                "lng": -73.9527913802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bb8552a44baf943df8943fa4f3cf30efbb53e97c",
+    "international_phone_number": "+1 646-707-3346",
+    "name": "Carver Houses Tenant",
+    "place_id": "ChIJ2waGkB32wokRqyek3UU0TVg",
+    "plus_code": {
+        "compound_code": "Q2RX+6F New York, United States",
+        "global_code": "87G8Q2RX+6F"
+    },
+    "reference": "ChIJ2waGkB32wokRqyek3UU0TVg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6362799323220289451",
+    "utc_offset": -240,
+    "vicinity": "1481 Madison Avenue, New York"
+}

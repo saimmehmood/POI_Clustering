@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "298-200",
+            "short_name": "298-200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 123rd Street",
+            "short_name": "W 123rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">298-200 W 123rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "298-200 W 123rd St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8082943,
+            "lng": -73.9507442
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8096432802915,
+                "lng": -73.94798639999999
+            },
+            "southwest": {
+                "lat": 40.8069453197085,
+                "lng": -73.95350200000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "31d89bfc5357b038f97fa13e3ef75679b9f51b0a",
+    "name": "298-200 W 123rd St",
+    "place_id": "ChIJzc_i4RL2wokRYOI_a5ikpag",
+    "reference": "ChIJzc_i4RL2wokRYOI_a5ikpag",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=298-200+W+123rd+St,+New+York,+NY+10027,+USA&ftid=0x89c2f612e1e2cfcd:0xa8a5a4986b3fe260",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

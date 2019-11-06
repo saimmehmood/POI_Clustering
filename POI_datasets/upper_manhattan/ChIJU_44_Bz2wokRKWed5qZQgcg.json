@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1541-1545",
+            "short_name": "1541-1545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1541-1545 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1541-1545 Madison Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7927155,
+            "lng": -73.950154
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7940644302915,
+                "lng": -73.94880496970849
+            },
+            "southwest": {
+                "lat": 40.7913664697085,
+                "lng": -73.9515029302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d0749a78fac177a9a7a033c102c7d05439b383f8",
+    "name": "1541-1545 Madison Ave",
+    "place_id": "ChIJU_44_Bz2wokRKWed5qZQgcg",
+    "reference": "ChIJU_44_Bz2wokRKWed5qZQgcg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1541-1545+Madison+Ave,+New+York,+NY+10029,+USA&ftid=0x89c2f61cfc38fe53:0xc88150a6e69d6729",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

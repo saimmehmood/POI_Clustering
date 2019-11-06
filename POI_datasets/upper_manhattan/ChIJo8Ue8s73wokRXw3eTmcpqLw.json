@@ -1,0 +1,159 @@
+{
+    "address_components": [
+        {
+            "long_name": "1200",
+            "short_name": "1200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Avenue at Port Imperial",
+            "short_name": "Ave at Port Imperial",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Weehawken",
+            "short_name": "Weehawken",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07086",
+            "short_name": "07086",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1200 Ave at Port Imperial</span>, <span class=\"locality\">Weehawken</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07086</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1200 Ave at Port Imperial, Weehawken, NJ 07086, USA",
+    "formatted_phone_number": "(201) 313-8899",
+    "geometry": {
+        "location": {
+            "lat": 40.7735276,
+            "lng": -74.0115577
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7749708302915,
+                "lng": -74.01041746970849
+            },
+            "southwest": {
+                "lat": 40.7722728697085,
+                "lng": -74.01311543029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "12b2ad29edec6bb06f85213c917793ce7acf3582",
+    "international_phone_number": "+1 201-313-8899",
+    "name": "Fort Lee Med Spa",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJo8Ue8s73wokRXw3eTmcpqLw",
+    "plus_code": {
+        "compound_code": "QXFQ+C9 Weehawken, New Jersey, United States",
+        "global_code": "87G7QXFQ+C9"
+    },
+    "reference": "ChIJo8Ue8s73wokRXw3eTmcpqLw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13594160998899387743",
+    "utc_offset": -240,
+    "vicinity": "1200 Avenue at Port Imperial, Weehawken",
+    "website": "http://fortleemedspa.com/"
+}

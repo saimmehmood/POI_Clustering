@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "159-159",
+            "short_name": "159-159",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 118th Street",
+            "short_name": "W 118th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">159-159 W 118th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "159-159 W 118th St, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.80455599999999,
+            "lng": -73.9510196
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8058078802915,
+                "lng": -73.94974196970848
+            },
+            "southwest": {
+                "lat": 40.8031099197085,
+                "lng": -73.9524399302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bf27674ed5d55aabc59f2901a3e967556c57a027",
+    "name": "The Morellino",
+    "place_id": "ChIJS1JTeRH2wokRu-VrpUcYPn4",
+    "plus_code": {
+        "compound_code": "R23X+RH New York, United States",
+        "global_code": "87G8R23X+RH"
+    },
+    "reference": "ChIJS1JTeRH2wokRu-VrpUcYPn4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9096734993332037051",
+    "utc_offset": -240,
+    "vicinity": "159-159 West 118th Street, New York"
+}

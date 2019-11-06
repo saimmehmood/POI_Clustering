@@ -1,0 +1,88 @@
+{
+    "address_components": [
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.826742,
+            "lng": -73.950222
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.82807238029149,
+                "lng": -73.9488298197085
+            },
+            "southwest": {
+                "lat": 40.8253744197085,
+                "lng": -73.9515277802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "adbed21fccced3942c3522fe7bd7367f8c1de8b8",
+    "name": "Broadway/w 145 St",
+    "place_id": "ChIJ67DAA2P2wokR-trS3TjpmBE",
+    "plus_code": {
+        "compound_code": "R2GX+MW New York, United States",
+        "global_code": "87G8R2GX+MW"
+    },
+    "reference": "ChIJ67DAA2P2wokR-trS3TjpmBE",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1268019725553818362",
+    "utc_offset": -240,
+    "vicinity": "United States"
+}

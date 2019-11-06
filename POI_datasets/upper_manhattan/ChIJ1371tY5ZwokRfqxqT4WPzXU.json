@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "77",
+            "short_name": "77",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bleecker Street",
+            "short_name": "Bleecker St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">77 Bleecker St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "77 Bleecker St, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 431-2663",
+    "geometry": {
+        "location": {
+            "lat": 40.7230343,
+            "lng": -73.9991738
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7244509302915,
+                "lng": -73.99777086970849
+            },
+            "southwest": {
+                "lat": 40.7217529697085,
+                "lng": -74.00046883029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3460ffa224116d0fe1db0393dd9ab1a802549f44",
+    "international_phone_number": "+1 212-431-2663",
+    "name": "Janis Donnaud & Associates",
+    "place_id": "ChIJ1371tY5ZwokRfqxqT4WPzXU",
+    "plus_code": {
+        "compound_code": "P2F2+68 New York, United States",
+        "global_code": "87G8P2F2+68"
+    },
+    "reference": "ChIJ1371tY5ZwokRfqxqT4WPzXU",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8488598675389066366",
+    "utc_offset": -240,
+    "vicinity": "77 Bleecker Street, New York"
+}

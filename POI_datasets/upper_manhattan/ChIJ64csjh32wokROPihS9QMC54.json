@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1488-1468",
+            "short_name": "1488-1468",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6542",
+            "short_name": "6542",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1488-1468 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029-6542</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1488-1468 Madison Ave, New York, NY 10029, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7907348,
+            "lng": -73.95159
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79208373029149,
+                "lng": -73.95024096970849
+            },
+            "southwest": {
+                "lat": 40.7893857697085,
+                "lng": -73.9529389302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a1f6ec412dbaadb47cfd4da63d59b3c0229d5424",
+    "name": "1488-1468 Madison Ave",
+    "place_id": "ChIJ64csjh32wokROPihS9QMC54",
+    "reference": "ChIJ64csjh32wokROPihS9QMC54",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1488-1468+Madison+Ave,+New+York,+NY+10029,+USA&ftid=0x89c2f61d8e2c87eb:0x9e0b0cd44ba1f838",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

@@ -1,0 +1,136 @@
+{
+    "address_components": [
+        {
+            "long_name": "Apt 3",
+            "short_name": "Apt 3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "133",
+            "short_name": "133",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 95th Street",
+            "short_name": "W 95th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">133 W 95th St Apt 3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "133 W 95th St Apt 3, New York, NY 10025, USA",
+    "formatted_phone_number": "(917) 689-2092",
+    "geometry": {
+        "location": {
+            "lat": 40.7928538,
+            "lng": -73.9691462
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7941296302915,
+                "lng": -73.96785066970848
+            },
+            "southwest": {
+                "lat": 40.7914316697085,
+                "lng": -73.9705486302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "482d18768c3ae9a73132407141d2903d5a0f5cc0",
+    "international_phone_number": "+1 917-689-2092",
+    "name": "White Sage Acupuncture",
+    "place_id": "ChIJkw7riCf2wokRtEY-8cv7H5w",
+    "plus_code": {
+        "compound_code": "Q2VJ+48 New York, United States",
+        "global_code": "87G8Q2VJ+48"
+    },
+    "rating": 5,
+    "reference": "ChIJkw7riCf2wokRtEY-8cv7H5w",
+    "reviews": [
+        {
+            "author_name": "Bruce Clarke",
+            "author_url": "https://www.google.com/maps/contrib/100777724880581308794/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xsR4bk0iRN0/AAAAAAAAAAI/AAAAAAAADC8/pLKKnmRFHP8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I first started seeing Janna because of a terrible bout of insomnia and unusual chest pains. My cardiologist suggested it was stress related.  I always thought acupuncture might be a bit woo woo but I was a bit desperate. After just 2 sessions my insomnia improved dramatically. Within by the 4th session my chest pains almost disappeared entirely. Now 5 months later I still go for treatment once or twice a month and haven't felt this good in a long time. \n\nEven got to use my FSA card:)",
+            "time": 1551155174
+        },
+        {
+            "author_name": "Victoria Segal",
+            "author_url": "https://www.google.com/maps/contrib/100497674745108462627/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-C9VSHzBqnVo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdHu2OSK5G-7JL80qW3CihQuTsKXA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I\u2019ve been a patient of Janna\u2019s for several years and over that time her acupuncture and herbal treatments have been instrumental in helping me successfully resolve various health issues from back pain to hormonal imbalances to stress. \n\nJanna is a gifted, capable, thoughtful, and intuitive practitioner and I am a happier and healthier person thanks to her treatments. Her approach is the antithesis of cookie-cutter: she makes sure to really understand your situation and custom-tailors her treatments to individual circumstances and needs with rare discernment, insight and precision. \n\nI continue to see Janna regularly for maintenance, and look forward to each and every treatment. I\u2019ve experienced acupuncture with excellent practitioners before, and yet I consider myself extremely lucky to be in her care and would absolutely recommend Janna and White Sage Acupuncture to those who consider their physical as well as emotional health a priority.",
+            "time": 1519223813
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11249987247539111604",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "133 West 95th Street Apt 3, New York",
+    "website": "http://whitesageacupuncture.com/"
+}

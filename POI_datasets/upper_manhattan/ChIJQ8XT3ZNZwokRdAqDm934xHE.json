@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "320",
+            "short_name": "320",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10014",
+            "short_name": "10014",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">320 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "320 6th Ave, New York, NY 10014, USA",
+    "formatted_phone_number": "(212) 639-9675",
+    "geometry": {
+        "location": {
+            "lat": 40.7311824,
+            "lng": -74.00100669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7325878302915,
+                "lng": -73.99979221970848
+            },
+            "southwest": {
+                "lat": 40.7298898697085,
+                "lng": -74.0024901802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f51288fa435a73d3fe0bac2daf5c37f822804a8e",
+    "international_phone_number": "+1 212-639-9675",
+    "name": "The Cage",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 9:00 PM",
+            "Tuesday: 6:00 AM \u2013 9:00 PM",
+            "Wednesday: 6:00 AM \u2013 9:00 PM",
+            "Thursday: 6:00 AM \u2013 9:00 PM",
+            "Friday: 6:00 AM \u2013 9:00 PM",
+            "Saturday: 6:00 AM \u2013 9:00 PM",
+            "Sunday: 6:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3096,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118023003569717281823/photos\">Orlando Gorriti Cherubini</a>"
+            ],
+            "photo_reference": "CmRaAAAADyyyJb9zLchuzaTnJxZ3PTzaxy-C-oGDn6D5kDqRo5IRBUIS_0Q29fa1lr-eMODeNbUqImwerUETt3rAM3ReU4jwfayMr2nXsqplaqfIawNgHhWTC2_jeuLdj4yXCPmQEhBHZEkXvJ_iEDhzsaebv_e8GhT5MXSCnHPdSBbHrSeTZoVoy1PAKw",
+            "width": 4128
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110147921622048114824/photos\">Luca Zappa</a>"
+            ],
+            "photo_reference": "CmRaAAAAdqRw1L-bnqkBFiJl2urDWR9o5-Th1O6o3LlpMyRwE_XXKHVKdu6qQL5HjL_BTZ5hEHdEts9wi03B7s8B5JFGm0kiR7hXGnU78972qFVeO3K94YR8NBbElHbUWTIuYli3EhCcKPS8Fnwi-hNmlYNLFE7pGhSfXlqFsWYU6yVAmtSW7sATR3jLBA",
+            "width": 2448
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103223437481514067736/photos\">Nicky Wang</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Qvzn9rAUGnmb10ZZ09nzvmedsztlIwbQ9m5VDcavHwKIlfqg75zUik1W-bp-lazkYJwcV7BYbloZp0Uvwg4_oUge8GxiQus_HMCbm4beLVT2ZwT2IsrVkvxiJQMzOSwEhDPcCbKlyXDK7WTuK1SiD5-GhTLOZueX3xW-45dd6VTm5uOrRgKNQ",
+            "width": 3264
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105944563332349320547/photos\">Silvano Crespi</a>"
+            ],
+            "photo_reference": "CmRaAAAAp_odq5Rr57KRWnMr4Jg0I8dRYsl3jyw6HKB-JJKjR8z1EKXjozfogHhVlvo-Hzlfyk6yKEzXR9lvxrQf92AmFa8Kn13TZmVl6-cYA9XFoiyU8PXFO5cIc-57L0iZWIOEEhAZ-tLEIzTT0iOByBqMM3dhGhSgnSfKeULXC_ebAsHK4GyYkcRmXg",
+            "width": 5312
+        },
+        {
+            "height": 3968,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106872057076135202718/photos\">the.deb00n</a>"
+            ],
+            "photo_reference": "CmRaAAAAgbVKyEuHL6-ZNA_6XuvVviVprsqzAZF4NdR2v7ebV-w-9iaAsvxtOOiiSNkV_0mlLcau9szDQeXIFeQmMapbInqOj9Le96U1fX1b_HKjNgLfuHH2wydtbZKQu0ufj8Y-EhAVDTKZ-lJUGH5VRxPix4FMGhQzsxknnTtdQoT-fp4qitxTmT0BkQ",
+            "width": 2976
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110147921622048114824/photos\">Luca Zappa</a>"
+            ],
+            "photo_reference": "CmRaAAAAs8P_FPrnFG1CmniYvIxYI88lPnCVBa8yZ-K4nv7OHMjU6CZLOQj-2MHCUlMQmF0OMKKWN2pEA0l6mdtP_Qejq1pHyqRbjW45dSYvxizZhAKw8l2X9-LpFTRz2-SetssiEhA16Ye-mh1GhZ3I2y5KYOjNGhTKNvAqHtgDR4QQXGvbZQeFd6Pe_g",
+            "width": 3264
+        },
+        {
+            "height": 2346,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102213894582187622847/photos\">Davide Renna</a>"
+            ],
+            "photo_reference": "CmRaAAAAy5fysYxNG8HswdwDY8Xp530G27pBoSGIkENHWSt329FcR4GqZb-oRdAJl5EWJ8dnRYXhvLsmVn1cBN3TnPv5CVYFRjhTyaLU8DMPR3H3GZ9LnBmQ5u6Se1JSq3nWQzxaEhDSJid9KlRPa3JhOmjcp7lUGhShS0Y733iyQjO25xcUsVdcX3KuBQ",
+            "width": 2393
+        },
+        {
+            "height": 1397,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113976399303212120612/photos\">Oyster Shell</a>"
+            ],
+            "photo_reference": "CmRaAAAAhqEhOxg6ehIgzZXL6_pVq3_D8-g8RUxwZxv4U4RixnmmOBqmGgjIFPPe4yKaS01_JIQbzKGKfUHyENIGu_-nhBQmmEH8nIKInjBvplm4mR-gdJFtECZSeZYzkvIDs7YOEhBMgTX0NiJJHa2ySPFnCOo_GhR5oGex3eezOH1AuuTi7Cr1cqnwKw",
+            "width": 1397
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106185169272497829529/photos\">Shammgod From Uptown</a>"
+            ],
+            "photo_reference": "CmRaAAAAvuaZhm8HTCXGiIoVvWjpa1veYeZunXVmVzSFNElf4NXkVbwNs0__174jTsyEGE12cfohkJD9XBh4m9QSiBK5R6u2N5I_vC1Z-ZUtiIANbcgBpRFlUOR_g1EMLGl1QuzqEhBZ31KUq_E7QnEMMddLbBk6GhSGvA09DjVRtzwIoxqnHGqAbpQNvg",
+            "width": 2448
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110147921622048114824/photos\">Luca Zappa</a>"
+            ],
+            "photo_reference": "CmRaAAAAVJEkjpmFOQVRKefn5c9cQTlGZr9STkRIMGgL7HB-ZTSs7NPxmgFXvBAhShkS6enNiWKeDW-o4P_S8UjTGf5-Gt7LeuN9r6AbPo-WTQVVEodBnHBvaN6P2ogtpWAwM9hhEhDHOPswgmrD1CpUZdG_wxRPGhSOD7lEHi6yd9f8KYR6WOxgUONHpQ",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJQ8XT3ZNZwokRdAqDm934xHE",
+    "plus_code": {
+        "compound_code": "PXJX+FH New York, United States",
+        "global_code": "87G7PXJX+FH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJQ8XT3ZNZwokRdAqDm934xHE",
+    "reviews": [
+        {
+            "author_name": "jermaine tracey",
+            "author_url": "https://www.google.com/maps/contrib/112415764872688234146/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-J9yeLTWBsZ8/AAAAAAAAAAI/AAAAAAAABoM/RuugvepI25o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Great place to watch amateur athletes",
+            "time": 1542909328
+        },
+        {
+            "author_name": "John Ryan",
+            "author_url": "https://www.google.com/maps/contrib/100733264095383499676/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-UwnyHr4RZ-U/AAAAAAAAAAI/AAAAAAAAAQs/bNhoxqFbDsA/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Good clean sporting fun venue for amateur basketball fans and genuine supporters alike. Well managed. Well maintained. Well impressed\ud83d\ude0a\ud83d\ude0a",
+            "time": 1501039117
+        },
+        {
+            "author_name": "EU Car Hire",
+            "author_url": "https://www.google.com/maps/contrib/106757645210303970690/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-M-tnoFGAvfI/AAAAAAAAAAI/AAAAAAAAABQ/cLbo-YI-YI4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Basketball court. That's it. That's all.\n@PlanetaNba liked though. \ud83c\udfb6",
+            "time": 1510002754
+        },
+        {
+            "author_name": "Luca Brogi",
+            "author_url": "https://www.google.com/maps/contrib/105489377384105010750/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4GkVvbK61gk/AAAAAAAAAAI/AAAAAAAAALE/BAz-iwCWPcs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Beautiful place, New York is fantastic",
+            "time": 1541522305
+        },
+        {
+            "author_name": "Giulia Venturi",
+            "author_url": "https://www.google.com/maps/contrib/111451755324912679774/reviews",
+            "language": "it",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_4DbMqj0Ngc/AAAAAAAAAAI/AAAAAAAAACU/yc42Q1rBvLc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Per chi ama il basket, un angolo di New York da non perdere. Troverete il playground attivo praticamente a qualsiasi ora. Non si sa mai che tra quelle reti si aggiri la prossima stella NBA...",
+            "time": 1556020092
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8197950852401662580",
+    "user_ratings_total": 28,
+    "utc_offset": -240,
+    "vicinity": "320 6th Avenue, New York",
+    "website": "https://www.nycgovparks.org/parks/west-4th-street-courts/facilities/basketball"
+}

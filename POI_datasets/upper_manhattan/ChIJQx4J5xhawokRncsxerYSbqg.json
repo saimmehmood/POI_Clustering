@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "103",
+            "short_name": "103",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Church Street",
+            "short_name": "Church St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "08901",
+            "short_name": "08901",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">103 Church St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">08901</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "103 Church St, New York, NY 08901, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7129533,
+            "lng": -74.0089124
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7143846802915,
+                "lng": -74.00780071970848
+            },
+            "southwest": {
+                "lat": 40.7116867197085,
+                "lng": -74.0104986802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "96e30cfdefee31fc5d5e5607fa9a17819e9ec6f8",
+    "name": "Stephanie Beauty Salon",
+    "place_id": "ChIJQx4J5xhawokRncsxerYSbqg",
+    "plus_code": {
+        "compound_code": "PX7R+5C New York, United States",
+        "global_code": "87G7PX7R+5C"
+    },
+    "reference": "ChIJQx4J5xhawokRncsxerYSbqg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12136658620753496989",
+    "utc_offset": -240,
+    "vicinity": "103 Church Street, New York"
+}

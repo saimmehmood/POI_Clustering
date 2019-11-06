@@ -108,7 +108,7 @@ def main(args):
 
 	walks = []
 	walk = []
-	with open("random_walks_10.txt") as file:
+	with open("shuffled_walks.txt") as file:
 
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")

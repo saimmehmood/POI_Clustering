@@ -1,0 +1,135 @@
+{
+    "address_components": [
+        {
+            "long_name": "161",
+            "short_name": "161",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East Houston Street",
+            "short_name": "E Houston St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1004",
+            "short_name": "1004",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">161 E Houston St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-1004</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "161 E Houston St, New York, NY 10002, USA",
+    "formatted_phone_number": "(212) 639-9675",
+    "geometry": {
+        "location": {
+            "lat": 40.7227803,
+            "lng": -73.9890863
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7242234802915,
+                "lng": -73.9876840697085
+            },
+            "southwest": {
+                "lat": 40.7215255197085,
+                "lng": -73.9903820302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "48f85bf70e6c3bf801fd39ea17a94f88ed9dbda7",
+    "international_phone_number": "+1 212-639-9675",
+    "name": "Allen Malls",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\">Ruwan J.</a>"
+            ],
+            "photo_reference": "CmRaAAAAT0JFaYYYrAP1ToGNj8m_aaoTZ15t6kgwGFovIWJImZyHSAJduqD0QgYMlznIYbPwpcDLk7OadoF6pzDYEq4qKruvxy1FuLudM_tJfG9CoLN3Y-bj-GafaZF3V7HHgDgGEhAYc3K-Up7TEWJPKhpgFqqOGhQQWm1xCT1QrhjegpWP7-9s42_RcQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJIyvTi4NZwokRiV4nV_IWMdE",
+    "plus_code": {
+        "compound_code": "P2F6+49 New York, United States",
+        "global_code": "87G8P2F6+49"
+    },
+    "rating": 3,
+    "reference": "ChIJIyvTi4NZwokRiV4nV_IWMdE",
+    "reviews": [
+        {
+            "author_name": "Trent Squnque",
+            "author_url": "https://www.google.com/maps/contrib/114342152375405226649/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zdOhNmMhlA4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSNMdVx8DYGgE4bOxNl0YSZi0A5w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1477536639
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15073854657885855369",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "161 East Houston Street, New York",
+    "website": "http://www.nycgovparks.org/parks/allen-mall-one"
+}

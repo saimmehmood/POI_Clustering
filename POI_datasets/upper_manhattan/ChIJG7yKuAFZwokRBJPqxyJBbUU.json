@@ -1,0 +1,105 @@
+{
+    "address_components": [
+        {
+            "long_name": "330",
+            "short_name": "330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "330 Madison Ave, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 796-4067",
+    "geometry": {
+        "location": {
+            "lat": 40.75324639999999,
+            "lng": -73.9793054
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545372302915,
+                "lng": -73.9778132697085
+            },
+            "southwest": {
+                "lat": 40.7518392697085,
+                "lng": -73.98051123029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8e98b9e90f6d3682544c1e4595daee183d1aeb82",
+    "international_phone_number": "+1 212-796-4067",
+    "name": "Cians Analytics",
+    "place_id": "ChIJG7yKuAFZwokRBJPqxyJBbUU",
+    "plus_code": {
+        "compound_code": "Q23C+77 New York, United States",
+        "global_code": "87G8Q23C+77"
+    },
+    "reference": "ChIJG7yKuAFZwokRBJPqxyJBbUU",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5002726378717221636",
+    "utc_offset": -240,
+    "vicinity": "330 Madison Avenue, New York",
+    "website": "http://www.ciansanalytics.com/"
+}

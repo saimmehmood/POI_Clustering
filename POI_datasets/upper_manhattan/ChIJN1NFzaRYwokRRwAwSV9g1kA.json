@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "299-201",
+            "short_name": "299-201",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 89th Street",
+            "short_name": "E 89th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">299-201 E 89th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "299-201 E 89th St, New York, NY 10128, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.78028440000001,
+            "lng": -73.9514614
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.78163338029151,
+                "lng": -73.949213
+            },
+            "southwest": {
+                "lat": 40.77893541970851,
+                "lng": -73.9537098
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "5ac55c69e08c952d4789755e64ba62585a556690",
+    "name": "299-201 E 89th St",
+    "place_id": "ChIJN1NFzaRYwokRRwAwSV9g1kA",
+    "reference": "ChIJN1NFzaRYwokRRwAwSV9g1kA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=299-201+E+89th+St,+New+York,+NY+10128,+USA&ftid=0x89c258a4cd455337:0x40d6605f49300047",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

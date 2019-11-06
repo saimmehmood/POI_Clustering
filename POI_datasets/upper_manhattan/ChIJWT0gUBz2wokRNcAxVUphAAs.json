@@ -1,0 +1,305 @@
+{
+    "address_components": [
+        {
+            "long_name": "1230",
+            "short_name": "1230",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "5th Avenue",
+            "short_name": "5th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1230 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1230 5th Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 831-7272",
+    "geometry": {
+        "location": {
+            "lat": 40.7931183,
+            "lng": -73.9514063
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79454828029149,
+                "lng": -73.9502381197085
+            },
+            "southwest": {
+                "lat": 40.7918503197085,
+                "lng": -73.95293608029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+    "id": "3338287f17aff95e8f784bdb419cd3d262308733",
+    "international_phone_number": "+1 212-831-7272",
+    "name": "El Museo del Barrio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM \u2013 6:00 PM",
+            "Thursday: 11:00 AM \u2013 6:00 PM",
+            "Friday: 11:00 AM \u2013 6:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115361829575265961966/photos\">Walkertwentyone NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAb5SmZhQLPbBcJtY6vSAIwgpSE4V-IbXMSBjmklTqSdS7XD1JvPAL7b3eoe9UT6rSo69qfuBvY5MufRe3tUJ3smPPWX4BPWQ9zG_8rausANk7Lf3g7kT7XJhLQnRH9OSIEhBcSF7QSEXCWzZFyb8AcnWKGhT1aXMACKEeIK8dSHWS0EnwDOoN8w",
+            "width": 1152
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107384152713509812838/photos\">Stephen Nilsen</a>"
+            ],
+            "photo_reference": "CmRaAAAAnVuos2ionpZjH3GQDHfZ3SX4A-_HaUylj7wCyC9k43MUJ-bz87xtf2DzwthtIcG2Fkd67mz_-6xbB0T2e0ynbNXjc--jJCuiZ4X6eSf4JImtw57vd6lHFyTxs0S43zveEhBIwMppB8WyzstCWXsBcF-LGhRgZJLMNwW_CIZ-jWWB15aw3ak22Q",
+            "width": 2560
+        },
+        {
+            "height": 3968,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101149221739717950540/photos\">Bree Oke</a>"
+            ],
+            "photo_reference": "CmRaAAAAiNyb_PtIbvtAk6u6lfthuhP1ffs9w0lLM6RQvGf0Uj6CShi-RgEBqYuKCM0j6y7TbL5pItgZzjQHIPcs_N93ZQyHx_Ovy9Q6QfCL_9kFUzD4ujyJU8lzBTRnWvaAF86mEhA3NfKE75BXODMkFwtbKbN5GhSLScAqoW4w70nCrEpyASLOYrLHUQ",
+            "width": 2976
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112217588666543712079/photos\">Paulina Lee Collazo Navarro</a>"
+            ],
+            "photo_reference": "CmRaAAAAazCOd0_vlMVDenxkzg1GZM7fh1n-Y3P_kxvSbIe1Ok8o5P0rW0se1PxABlVDQRRsKCoJYjQFa_apdidyweDFvLpb4vSA-Lmt69aqZY9sqer1srGzGAgmGphlwiudFJLAEhDd2xMY1I7I8IHvVYw6s_i0GhTeJOZnggV7T60y1CI0xRr_XsNbqw",
+            "width": 3024
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108377666701460622667/photos\">ra bunch rj</a>"
+            ],
+            "photo_reference": "CmRaAAAAkxzhBdjV0tyhZO3hEt261M8MfO4SugftsuO3Q8npL7uvRLtGwtYI6nHU9PPfxrNxMc_bhpEN9cejypuULLwAQkz_ORSbD8sW_bgdhEZss0LeNHlssR6t9M3nfllkHeNJEhA72qUiwZo3Gj-8tJ0VBmwRGhRG-bMHUgLOTRdt419mHEc3Jmw3BQ",
+            "width": 3264
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100597540829758108423/photos\">Santiago Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAAT9MyoDP4BTjkSHuDIG6yUJhj3TmZR30EJDMvhJh2LExmJI1tE02_Hv4OVImYbsUdUT-7OxUNuD734UKC1ySdgFhnbfOpk0VlmVndw6rnCZyauw6f7lVJ_nTSm8-zdgzkEhBWg2UFKV0IeqE7nZZD9KV6GhR9Ie6JegKkidtHjKgH8ScdtaYxDQ",
+            "width": 4032
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102186817815630576842/photos\">Adrian Williamson</a>"
+            ],
+            "photo_reference": "CmRaAAAA-gTFA-JLTPUB1Ruyt2nOd7x-LCNgav1PrJjdhtaF29yZih73mkdPOg1RiHNtRzeCp-Vg5eG1oTQfmE7HW8KLal5PXtgb4GknQeV6CWmUcBQo4FhJBc5fsHkrP8j98WeIEhAXAEe-Qx_ZE2Q4P2awwnihGhTFE6Gziw7pcpXZ87MNLF8myQhxwQ",
+            "width": 3120
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101935514203752336020/photos\">sonnie brown</a>"
+            ],
+            "photo_reference": "CmRaAAAAETw-ZU7f4sRyrMWTDBCA7PBiLhb-hrxxcyP_N-n-1oVmikqenqbVPNqRdIMhngfmDEN4_af_crSiEXM7jw-RA5P4QHDD8dySQSXy-6Q00hPg4_BZot6JPhF0_sZXd5RpEhBia3yRXvL7-ARlFCbLr4DjGhTAhLTGrqpjfi3DOhBORhrfeVk_sQ",
+            "width": 3024
+        },
+        {
+            "height": 2976,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100491508883020546536/photos\">Carlos Jauquicoa</a>"
+            ],
+            "photo_reference": "CmRaAAAAslTPaZnyjT9_P9_cmtFZDx7RSii8t0ULbxfVaiTFNCrngFGWafZFwxCpAP7w_f-t2qvgYFcL58yV9IQ4k2fyyaRCwwkoIl9f9e0ml08_WguXJG4248reEDVwIOTy2flHEhAhT8cDEw6EK1tGleeSAIHKGhShcgzhA6eIvQiFDOJHAlAGQuN87Q",
+            "width": 3968
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117773942325502763831/photos\">Peggy P</a>"
+            ],
+            "photo_reference": "CmRaAAAACh7SEEQh_UU3gg-tQnBcPPUmD0Q_BWESuErAqhRLS-jb9Z8TrDatjctUf5yZruz5p_UE6POk5dnL_qwRUp_T11b8D8HAJwm9SuOtrOx5EDaDL3_dRgsO46dV2smK67b6EhDwc6vKy49H9-JrAH4bIFuFGhTBSA4iZdctHYtR5MAjZbYXwc8pjg",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJWT0gUBz2wokRNcAxVUphAAs",
+    "plus_code": {
+        "compound_code": "Q2VX+6C New York, United States",
+        "global_code": "87G8Q2VX+6C"
+    },
+    "rating": 4.3,
+    "reference": "ChIJWT0gUBz2wokRNcAxVUphAAs",
+    "reviews": [
+        {
+            "author_name": "La LOCAARTE",
+            "author_url": "https://www.google.com/maps/contrib/104816663313766934941/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OU0MqQ8tv_I/AAAAAAAAAAI/AAAAAAAAF-0/IpaHaLUt5aw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Love going here. Museum part is small but take a look at their calendar for events. Events are so much fun. They also have a place to eat that is absolutely delicious.",
+            "time": 1560649302
+        },
+        {
+            "author_name": "Janice Tucker",
+            "author_url": "https://www.google.com/maps/contrib/110481292634491010321/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ExtlkH1Bt5k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcpzSElIGLhj8x4SundARJWDOWleg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Only took a lunch break here but am planning to return since museum is highly recommended.  Lunch was very good-gave us sustenance to go through Central Park Conservatory Gardens.",
+            "time": 1561147285
+        },
+        {
+            "author_name": "Astrid Lamas",
+            "author_url": "https://www.google.com/maps/contrib/108069395391841922225/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HPD_Y82On0U/AAAAAAAAAAI/AAAAAAAAC5g/j3cpNjuXzdk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Great museum full of diaspora art. Worth seeing if you\u2019re interested in Latin culture. The staff has a good vibe.",
+            "time": 1560304567
+        },
+        {
+            "author_name": "CAROLINA GONZALEZ GOMEZ",
+            "author_url": "https://www.google.com/maps/contrib/108665074735948798346/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QeNdSppVYgU/AAAAAAAAAAI/AAAAAAAAITk/2pw8aqOwUok/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "I really appreciate their work and mission, but I didn't like the exhibition that was going on when I visited it. I'll give it another shot. But if you are visiting NY a d have limited time, you can skip this museum.",
+            "time": 1557665998
+        },
+        {
+            "author_name": "Kyuwon Lee",
+            "author_url": "https://www.google.com/maps/contrib/110778779454043925617/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-TcshRin2eJE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcWfBzA2RI653DwnZ8OeusRiWKjdQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Despite its somewhat small scale to be called \"museum,\" exhibitions here are presented and managed very well. To me, the exhibitions evoked fundamental questions of diasporic communities which are not complete but continuing--regarding identity, cultural transformation and daily life. There is no doubt it's a worth visit but allow me to note that the entrance fee is a bit over-priced (compared to other museums/galleries/institutions).",
+            "time": 1555039210
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=792740506302005301",
+    "user_ratings_total": 453,
+    "utc_offset": -240,
+    "vicinity": "1230 5th Avenue, New York",
+    "website": "http://www.elmuseo.org/"
+}

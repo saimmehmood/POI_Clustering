@@ -1,0 +1,110 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 126th Street",
+            "short_name": "W 126th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">W 126th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "W 126th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(646) 407-0332",
+    "geometry": {
+        "location": {
+            "lat": 40.810843,
+            "lng": -73.95067999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8122194302915,
+                "lng": -73.94931061970848
+            },
+            "southwest": {
+                "lat": 40.8095214697085,
+                "lng": -73.95200858029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6ad72d5bbe909891167e09b73afc24814c588576",
+    "international_phone_number": "+1 646-407-0332",
+    "name": "Kiner Enterprises Inc.",
+    "place_id": "ChIJd4WA32z2wokRQUV-GEnwJF8",
+    "plus_code": {
+        "compound_code": "R26X+8P New York, United States",
+        "global_code": "87G8R26X+8P"
+    },
+    "rating": 3,
+    "reference": "ChIJd4WA32z2wokRQUV-GEnwJF8",
+    "reviews": [
+        {
+            "author_name": "clairmonte bend",
+            "author_url": "https://www.google.com/maps/contrib/116860656951559587941/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qemR_rTawik/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rflUpXyDjzHrs2vtIBXWZy4BR3lTw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1427362354
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6855868729498944833",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "West 126th Street, New York",
+    "website": "http://kinerenterprises.com/"
+}

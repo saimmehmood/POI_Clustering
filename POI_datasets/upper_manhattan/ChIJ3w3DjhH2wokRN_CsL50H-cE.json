@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "2009",
+            "short_name": "2009",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "6202",
+            "short_name": "6202",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2009 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-6202</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2009 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-6773",
+    "geometry": {
+        "location": {
+            "lat": 40.8059109,
+            "lng": -73.9501033
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8073183302915,
+                "lng": -73.94889351970849
+            },
+            "southwest": {
+                "lat": 40.8046203697085,
+                "lng": -73.9515914802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "68eb3550d1a70dd6c2872f0c888a77f1a9da7780",
+    "international_phone_number": "+1 212-222-6773",
+    "name": "Mount Pleasant Christian Academy",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108057443702623876885/photos\">Soray Dorsey</a>"
+            ],
+            "photo_reference": "CmRaAAAAXbP6QeTzsnQlZ3SotNxKV14gxDKmykI7felJRZGEEVFtWijTIBOXL1BvC1g_IuzROdvZeAUbVejVLl5uRLrLNU3pVp-h71xFU_BrM8JlFw89UMKbb0IGZxMtQBSQbpY3EhB0ON4tdfEOdth9-lsHw038GhSIQc_XqDlqyIQFMHrvpBXEqT8oTQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ3w3DjhH2wokRN_CsL50H-cE",
+    "plus_code": {
+        "compound_code": "R24X+9X New York, United States",
+        "global_code": "87G8R24X+9X"
+    },
+    "rating": 5,
+    "reference": "ChIJ3w3DjhH2wokRN_CsL50H-cE",
+    "reviews": [
+        {
+            "author_name": "beryl hinton",
+            "author_url": "https://www.google.com/maps/contrib/102525207253237121930/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4-PnbO7DkPc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfLYMq3GDlJhMR7OI8wn8n7ISasGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1559165784
+        },
+        {
+            "author_name": "Ahmad Rouse",
+            "author_url": "https://www.google.com/maps/contrib/102407869118799086308/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PhMzFzQooQo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc3vmWqF0YxJggk3BA8T4eXpGC30w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1554445754
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13977211290212167735",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "2009 Adam Clayton Powell Junior Boulevard, New York"
+}

@@ -1,0 +1,94 @@
+{
+    "address_components": [
+        {
+            "long_name": "1599-1501",
+            "short_name": "1599-1501",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "91st Street",
+            "short_name": "91st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "North Bergen",
+            "short_name": "North Bergen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07047",
+            "short_name": "07047",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4424",
+            "short_name": "4424",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1599-1501 91st St</span>, <span class=\"locality\">North Bergen</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07047-4424</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1599-1501 91st St, North Bergen, NJ 07047, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8130087,
+            "lng": -74.0093263
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81435773029149,
+                "lng": -74.0079772697085
+            },
+            "southwest": {
+                "lat": 40.8116597697085,
+                "lng": -74.01067523029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fb2021a3e0e8c686806e4fe9b84e75515d7a90f0",
+    "name": "1599-1501 91st St",
+    "place_id": "ChIJ0ylVgOn3wokR5i0llOCUeO0",
+    "reference": "ChIJ0ylVgOn3wokR5i0llOCUeO0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1599-1501+91st+St,+North+Bergen,+NJ+07047,+USA&ftid=0x89c2f7e9805529d3:0xed7894e094252de6",
+    "utc_offset": -240,
+    "vicinity": "North Bergen"
+}

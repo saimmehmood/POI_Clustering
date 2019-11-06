@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2nd Floor",
+            "short_name": "2nd Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1345",
+            "short_name": "1345",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "6th Avenue",
+            "short_name": "6th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10105",
+            "short_name": "10105",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1345 6th Ave 2nd Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1345 6th Ave 2nd Floor, New York, NY 10105, USA",
+    "formatted_phone_number": "(212) 421-5353",
+    "geometry": {
+        "location": {
+            "lat": 40.762989,
+            "lng": -73.979067
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76419633029149,
+                "lng": -73.9773751197085
+            },
+            "southwest": {
+                "lat": 40.76149836970849,
+                "lng": -73.98007308029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6d8d62e213768694987c4a20df33c774282d90a4",
+    "international_phone_number": "+1 212-421-5353",
+    "name": "Sterling Resources International",
+    "place_id": "ChIJpzIwwPpYwokRlavobZ4N_QI",
+    "plus_code": {
+        "compound_code": "Q27C+59 New York, United States",
+        "global_code": "87G8Q27C+59"
+    },
+    "reference": "ChIJpzIwwPpYwokRlavobZ4N_QI",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=215343331283610517",
+    "utc_offset": -240,
+    "vicinity": "1345 6th Avenue 2nd Floor, New York",
+    "website": "http://sterlri.com/"
+}

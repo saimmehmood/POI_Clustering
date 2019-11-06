@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "698-600",
+            "short_name": "698-600",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 44th Street",
+            "short_name": "W 44th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10036",
+            "short_name": "10036",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">698-600 W 44th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "698-600 W 44th St, New York, NY 10036, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.76259909999999,
+            "lng": -73.99849309999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7639493802915,
+                "lng": -73.9962849
+            },
+            "southwest": {
+                "lat": 40.7612514197085,
+                "lng": -74.0006993
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a7c0b110323e7bb7a2340f82332c2a32f386c493",
+    "name": "698-600 W 44th St",
+    "place_id": "ChIJt5UNm05YwokRRPiFF6KiF_g",
+    "reference": "ChIJt5UNm05YwokRRPiFF6KiF_g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=698-600+W+44th+St,+New+York,+NY+10036,+USA&ftid=0x89c2584e9b0d95b7:0xf817a2a21785f844",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

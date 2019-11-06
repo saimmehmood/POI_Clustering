@@ -1,0 +1,327 @@
+{
+    "address_components": [
+        {
+            "long_name": "311",
+            "short_name": "311",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 127th Street",
+            "short_name": "W 127th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">311 W 127th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "311 W 127th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 222-1099",
+    "geometry": {
+        "location": {
+            "lat": 40.81199709999999,
+            "lng": -73.95120589999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8133059802915,
+                "lng": -73.94988626970849
+            },
+            "southwest": {
+                "lat": 40.8106080197085,
+                "lng": -73.9525842302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "ee94d5d02633381744b3fc759f4e417757af124d",
+    "international_phone_number": "+1 212-222-1099",
+    "name": "BTL Harlem",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 10:00 PM",
+            "Tuesday: 12:00 \u2013 10:00 PM",
+            "Wednesday: 12:00 \u2013 11:00 PM",
+            "Thursday: 12:00 \u2013 11:00 PM",
+            "Friday: 12:00 \u2013 11:00 PM",
+            "Saturday: 12:00 \u2013 11:00 PM",
+            "Sunday: 12:00 \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2670,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113442145726263128921/photos\">BTL Harlem</a>"
+            ],
+            "photo_reference": "CmRaAAAAkEW7YBrxACxGEOAe_y-tI1tCanILvst3ut7DTH_Q91sNjHzA89UDJqmvWrf9AAwN4-P8V9n_PKBCuqLfVCG4k6j1Jb8_2bDPudrKXxoSVY03_KsD9yQh7dbuw4OG9kiLEhCQD0MyQz-1EbTWKl5SYVGOGhThwEhC3z4Wrrcma_1cAiLdoM7g2w",
+            "width": 4000
+        },
+        {
+            "height": 1068,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113442145726263128921/photos\">BTL Harlem</a>"
+            ],
+            "photo_reference": "CmRaAAAASH2GDTq2MmYayc4KPfpike-56FrPiFD1QL7M8ysB5hUZIN76CsOvplh2b-d6sHHTGRFQqfpVROYyUUWDqi6iEuOcBqvl8kP8Rw6K_lOlRrftwTZY0ye9AVrf4jtMeljsEhBLRDZfTjP7O-q6NWadWXoQGhR45tKoA5oIZzuk99KLVMcb48bYag",
+            "width": 1600
+        },
+        {
+            "height": 1731,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113442145726263128921/photos\">BTL Harlem</a>"
+            ],
+            "photo_reference": "CmRaAAAAwd7UXpCXcGZvMcl-PMFWw0mq6oH89lKgZeZ-nCCBtil8pJauk89RWzClofXBGh9Z94yz49zxiRAxBxApX9j7gvmjcwaxMeAhk0e9bihdufo2InK36Ip7NTX1dWwtFe-QEhCBDDt7Np4kCmlH9cM3uoVkGhSalm-_ThBrQI9F4hJ_tUvQBthdpg",
+            "width": 2000
+        },
+        {
+            "height": 1068,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113442145726263128921/photos\">BTL Harlem</a>"
+            ],
+            "photo_reference": "CmRaAAAA4IyqTIkuajNZ5083f2m-d03LYP7YpVa_xKPlJhQtEcI9EYzQOpzXz0hy8pk0u1YBWNC0JsDLPF2fjrIgtaJ3sQc1SGbLp6NznhEuVKHEaoG37EcFdusawks8MwJrUVYDEhD7McXaoQ1wvoF3SVVDxaA8GhSFaVxxMJGBnJMrThRzcJWfl1FmGg",
+            "width": 1600
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113203538833440935908/photos\">Jason Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAA3GQNuJI7QPa0eaMN8M-ZCPP4CSqUDDAbpf1z6Fhvgjn8_0wKbKtpcwJFmk0-aWTYKETTwtNDJg81bAeW8Tv4dAA9kPtsMG_U_Eii7UfpWVZ-R5ZMAleHEPj5sTAFSrnaEhBURKM7ICOA1qxsHdw6QZUdGhTfWGLx8uvPqmOt1r2aBJaWvcloxw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113203538833440935908/photos\">Jason Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAAQHDp_n9VOurbb2m-Yq1hnzsQcUPHBim672zOX8F83miPwXHSymGi4-jggShwqdDIadS-SOCs8E9JnkRj1wZh0P7WclXf8yJ3HAQlaJ6rSied1dIwKiluSdhiiixmlTWiEhDdvhmJHTzuWJnSJ3gBhka8GhSstqXfmQBRfoyfGabWeXuFyTmA4Q",
+            "width": 3024
+        },
+        {
+            "height": 1068,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113442145726263128921/photos\">BTL Harlem</a>"
+            ],
+            "photo_reference": "CmRaAAAAZPkEB1OcsJig7XU1jMFQh4Btt86Cgi-nl-a9WvAcIsU4UlB3quIJk9Uff7GwQX0CYMYZH63ib5_KxvJs1j5CqJ0H7mSBR5sW98_8fNDGAt84N6nZgruaC6wTm5ZIgAz6EhDFD3NTNQZGybbsrl4vmtShGhTKUXZjmL3C4YpElksGJjyfYptnIQ",
+            "width": 1600
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113203538833440935908/photos\">Jason Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAATfnQ6DwkPWlWNqVOb6NzrmeMLOdNWZTCrdoYpMjdHVPvFWnshxP6adDdLmnlv6DkK8x6OjP5aFWKjFdI8PaHJnOWE29HFxqp03rjA0Axj2f4B6XslP7nsJnybNagpP_KEhAAOnBXn-2zbsLXH2nTo67xGhRgXff2GKMOSDjin_C12O8iFYApKg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113203538833440935908/photos\">Jason Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAAUZICP3TeML7Hw_6BSS7vDI4QZZ53lQboxwKj6T1FA8gjUbAIIClg4fi3PakoNNaDiBnQZfnXvkuqUJNgLL7h39hEZnDOPvz8F72vSL0sfSvVQMQiB60GngmCdTk6reW6EhD_K0wBGh_9bV9Q5hzKTKUDGhRdHCrWd3EKFwRQhbaHNe3qSQC98Q",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113203538833440935908/photos\">Jason Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAANGfAR8ITmdGW72FZzK7PTUxFQ5-TRJLqYEdulJrWWPxJgHaC6dnbqdvw5RsqgacHubsYI8zSEok8vemJ5ucexth7Z5ingKjxh3WyjdrjJrEw9RgtWlPvEQK4v_a6EJcOEhCfrMX5GP6rkLd65wD58bjCGhQ-VXIKcCj92jfskPmsY3BDn3DPyQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJFR-E_mz2wokRAhYe4nz7zQs",
+    "plus_code": {
+        "compound_code": "R26X+QG New York, United States",
+        "global_code": "87G8R26X+QG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJFR-E_mz2wokRAhYe4nz7zQs",
+    "reviews": [
+        {
+            "author_name": "Victoria Fong",
+            "author_url": "https://www.google.com/maps/contrib/103235452111526277920/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qe5cwqErSNo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdINNowEFPQSPSYRFMv75xFaXncbQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Just had a bizarre experience. Been a customer here for 2 years now, has always been decent, and customer service amazing! Until now. Immediately felt unwelcome. Came in when the man behind the counter was on the phone, which is fine. But he had an angry conversation, hung up the phone, and shouted something which I won\u2019t repeat here. Completely inappropriate. Should\u2019ve taken place in the back. Then seemed annoyed to have to help me after. Everyone else here has been amazing. Idk, maybe another lesson in customer service will do him well.",
+            "time": 1562198658
+        },
+        {
+            "author_name": "Stanislav Sotnikov",
+            "author_url": "https://www.google.com/maps/contrib/113367482469032992496/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NCmV3X_LLjA/AAAAAAAAAAI/AAAAAAAAABE/52_0Kt7jSvQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "My favorite wine store! I could just go there to get lectured on wine by the knowledgeable staff. They have unique and delicious wine. You might find it a little pricey, but you are definitely paying for what you\u2019re getting here.",
+            "time": 1544827033
+        },
+        {
+            "author_name": "Swetha Peace",
+            "author_url": "https://www.google.com/maps/contrib/102109883935531597570/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ykNVIpZzfIQ/AAAAAAAAAAI/AAAAAAAAgbA/svX0ygBMCiw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I miss this wine place. Wine getting delivered is the best and having app to choose your wine and have it ready for pick up is great too. They also have wine tasting! @omsatyayoga",
+            "time": 1544660168
+        },
+        {
+            "author_name": "Maiysha Campbell",
+            "author_url": "https://www.google.com/maps/contrib/112077893300312467149/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-soRevI0g6CU/AAAAAAAAAAI/AAAAAAAACgI/j0JLd_X5pk8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great staff and selection!",
+            "time": 1557068981
+        },
+        {
+            "author_name": "renee eubanks",
+            "author_url": "https://www.google.com/maps/contrib/104424303136648840369/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-G0fR-D82lA4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc4x214BcJpK7D3LO6WAbBza7112g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "I sent my mom out to this store with a piece of paper stating that she needed to buy a cabernet sauvingnon or a pinot noir. Wine was for drinking and cooking. A rude staffer decided to give her a Tempranillo. When I spoke with the staffer because my mom realized the wine was not what I asked for, I was rudely told she was given the Tempranillo because it was cheaper, i.e $9 and it was fine to drink (note to clerk its not fine when I want to drink a Cab or a Pinot).  Also, I didn't ask for the cheapest red wine, I was looking for something specific.  After far too much discussion and rudeness I settled on a $14 Cab.  Lesson to clerk, don't assume anyone's wallet and give them what's cheap. Show them what they're asking for and they will let you know what's in or out of their price range.",
+            "time": 1543079990
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "liquor_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=850612418431030786",
+    "user_ratings_total": 45,
+    "utc_offset": -240,
+    "vicinity": "311 West 127th Street, New York",
+    "website": "http://www.btlharlem.com/"
+}

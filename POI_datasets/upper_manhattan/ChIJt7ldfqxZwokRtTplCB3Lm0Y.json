@@ -1,0 +1,151 @@
+{
+    "address_components": [
+        {
+            "long_name": "41st Floor",
+            "short_name": "41st Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "512",
+            "short_name": "512",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "7th Avenue",
+            "short_name": "7th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">512 7th Ave 41st Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "512 7th Ave 41st Floor, New York, NY 10018, USA",
+    "formatted_phone_number": "(212) 414-9000",
+    "geometry": {
+        "location": {
+            "lat": 40.753207,
+            "lng": -73.989233
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7545222302915,
+                "lng": -73.9878062197085
+            },
+            "southwest": {
+                "lat": 40.7518242697085,
+                "lng": -73.99050418029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e7335fc27d644d86873be37cb5b465837c0d89d0",
+    "international_phone_number": "+1 212-414-9000",
+    "name": "KWG",
+    "photos": [
+        {
+            "height": 1768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104764630746259247115/photos\">KWG</a>"
+            ],
+            "photo_reference": "CmRaAAAAOwmgtEAPG679MtrB7phvmvuyBsjpnpekeweKhx-lxC9Pj-2jWDaj6dbKHj4GDrsnHR5ZGVHw14UWUmcTYN6a-Ezr0Br0ywvqK360_9diLAacfjr0hXpipmqEDZKhxBPTEhBXroLoZMglzxOkoTQJr5GCGhSlT5bgwStDXrKNgtL64ezE-BEXgQ",
+            "width": 1768
+        },
+        {
+            "height": 756,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104764630746259247115/photos\">KWG</a>"
+            ],
+            "photo_reference": "CmRaAAAA8moERDiQRbI5oO2-jrVuijGJWPojaAMrJ__nS-CeARJIV9uOGyQ6g20IpHhcaiyf5bcaM2H6mys2YFOiAPAutUuA6FBDGyViYtp0J3CtKBwwh9ds8_eZXRKmvHqMNWWyEhALWuPc9LbYTVwXuJnQEWqZGhRkSNmoIvdyqnqplQYQKeqIWifKTA",
+            "width": 756
+        }
+    ],
+    "place_id": "ChIJt7ldfqxZwokRtTplCB3Lm0Y",
+    "plus_code": {
+        "compound_code": "Q236+78 New York, United States",
+        "global_code": "87G8Q236+78"
+    },
+    "rating": 4,
+    "reference": "ChIJt7ldfqxZwokRtTplCB3Lm0Y",
+    "reviews": [
+        {
+            "author_name": "Nick Agel",
+            "author_url": "https://www.google.com/maps/contrib/116159571026191371369/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-omc663p29pE/AAAAAAAAAAI/AAAAAAAAAFU/jYJp3-pFCO8/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1548358612
+        },
+        {
+            "author_name": "KEILYS ROL",
+            "author_url": "https://www.google.com/maps/contrib/116105035363006116182/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-GJyfd3rTFrc/AAAAAAAAAAI/AAAAAAAACSE/ei0jIRUsX90/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1516000180
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5087883529600449205",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "512 7th Avenue 41st Floor, New York",
+    "website": "http://www.kwgadv.com/"
+}

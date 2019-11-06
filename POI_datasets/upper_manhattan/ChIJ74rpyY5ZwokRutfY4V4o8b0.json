@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "96-92",
+            "short_name": "96-92",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spring Street",
+            "short_name": "Spring St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3923",
+            "short_name": "3923",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">96-92 Spring St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-3923</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "96-92 Spring St, New York, NY 10012, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7231771,
+            "lng": -73.9990822
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7245260302915,
+                "lng": -73.9977332197085
+            },
+            "southwest": {
+                "lat": 40.7218280697085,
+                "lng": -74.0004311802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3972d13af0df2681673c4b5bd1ef094edbd366c2",
+    "name": "96-92 Spring St",
+    "place_id": "ChIJ74rpyY5ZwokRutfY4V4o8b0",
+    "reference": "ChIJ74rpyY5ZwokRutfY4V4o8b0",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=96-92+Spring+St,+New+York,+NY+10012,+USA&ftid=0x89c2598ec9e98aef:0xbdf1285ee1d8d7ba",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

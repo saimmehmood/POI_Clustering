@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "96",
+            "short_name": "96",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spring Street",
+            "short_name": "Spring St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10012",
+            "short_name": "10012",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3923",
+            "short_name": "3923",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">96 Spring St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-3923</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "96 Spring St, New York, NY 10012, USA",
+    "formatted_phone_number": "(212) 219-0879",
+    "geometry": {
+        "location": {
+            "lat": 40.72319409999999,
+            "lng": -73.999472
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7246022302915,
+                "lng": -73.9980758197085
+            },
+            "southwest": {
+                "lat": 40.7219042697085,
+                "lng": -74.00077378029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1219e5cdfa0478fdb521bc5d6e5881ab57d5acdb",
+    "international_phone_number": "+1 212-219-0879",
+    "name": "H Co LLC",
+    "place_id": "ChIJd-SWto5ZwokR-9GqclufH90",
+    "plus_code": {
+        "compound_code": "P2F2+76 New York, United States",
+        "global_code": "87G8P2F2+76"
+    },
+    "reference": "ChIJd-SWto5ZwokR-9GqclufH90",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15933629221774742011",
+    "utc_offset": -240,
+    "vicinity": "96 Spring Street, New York"
+}

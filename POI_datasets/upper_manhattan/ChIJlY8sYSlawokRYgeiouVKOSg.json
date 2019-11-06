@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "213",
+            "short_name": "213",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Street",
+            "short_name": "Madison St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10002",
+            "short_name": "10002",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7505",
+            "short_name": "7505",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">213 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-7505</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "213 Madison St, New York, NY 10002, USA",
+    "formatted_phone_number": "(646) 450-9853",
+    "geometry": {
+        "location": {
+            "lat": 40.71291799999999,
+            "lng": -73.989238
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71416843029149,
+                "lng": -73.9878758697085
+            },
+            "southwest": {
+                "lat": 40.7114704697085,
+                "lng": -73.99057383029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "b79f67b4699fb8c17768f52764e7a9bcb0de383b",
+    "international_phone_number": "+1 646-450-9853",
+    "name": "Actors Federal Credit Union - ATM",
+    "place_id": "ChIJlY8sYSlawokRYgeiouVKOSg",
+    "plus_code": {
+        "compound_code": "P276+58 New York, United States",
+        "global_code": "87G8P276+58"
+    },
+    "reference": "ChIJlY8sYSlawokRYgeiouVKOSg",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2898430185326118754",
+    "utc_offset": -240,
+    "vicinity": "213 Madison Street, New York",
+    "website": "http://www.actorsfcu.com/"
+}

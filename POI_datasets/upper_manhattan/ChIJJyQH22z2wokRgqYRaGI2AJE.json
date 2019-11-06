@@ -1,0 +1,126 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">301 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "301 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(800) 262-5689",
+    "geometry": {
+        "location": {
+            "lat": 40.810593,
+            "lng": -73.9514003
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.81182203029149,
+                "lng": -73.9501350697085
+            },
+            "southwest": {
+                "lat": 40.8091240697085,
+                "lng": -73.9528330302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "742debdceb398e550d726641bb7311bc9ae46266",
+    "international_phone_number": "+1 800-262-5689",
+    "name": "Capital One ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJJyQH22z2wokRgqYRaGI2AJE",
+    "plus_code": {
+        "compound_code": "R26X+6C New York, United States",
+        "global_code": "87G8R26X+6C"
+    },
+    "reference": "ChIJJyQH22z2wokRgqYRaGI2AJE",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10448410931780232834",
+    "utc_offset": -240,
+    "vicinity": "301 West 125th Street, New York",
+    "website": "https://locations.capitalone.com/location/atm_A040?external_id=ENTSOC_YX_YextRetail_Profile_0101"
+}

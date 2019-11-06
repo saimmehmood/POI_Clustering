@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "307",
+            "short_name": "307",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3607",
+            "short_name": "3607",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">307 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-3607</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "307 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 749-2289",
+    "geometry": {
+        "location": {
+            "lat": 40.81066000000001,
+            "lng": -73.951594
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8118931302915,
+                "lng": -73.95032591970849
+            },
+            "southwest": {
+                "lat": 40.8091951697085,
+                "lng": -73.95302388029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "34b602ddc65de39155b5b878f2cd1ba8e5eb857e",
+    "international_phone_number": "+1 212-749-2289",
+    "name": "Keur",
+    "place_id": "ChIJ2RqTxWz2wokRVEd-I7jlDPY",
+    "plus_code": {
+        "compound_code": "R26X+79 New York, United States",
+        "global_code": "87G8R26X+79"
+    },
+    "reference": "ChIJ2RqTxWz2wokRVEd-I7jlDPY",
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17729798412083021652",
+    "utc_offset": -240,
+    "vicinity": "307 West 125th Street, New York"
+}

@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "Ste 10D",
+            "short_name": "Ste 10D",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 84th Street",
+            "short_name": "E 84th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 E 84th St Ste 10D</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "351 E 84th St Ste 10D, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 369-4080",
+    "geometry": {
+        "location": {
+            "lat": 40.7757268,
+            "lng": -73.9506902
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77708888029149,
+                "lng": -73.94933156970849
+            },
+            "southwest": {
+                "lat": 40.7743909197085,
+                "lng": -73.9520295302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "96526d3c901c164a76c4b0ee132d9ce1da8f4bac",
+    "international_phone_number": "+1 212-369-4080",
+    "name": "Dr. Gerald N. Epstein, MD",
+    "place_id": "ChIJbzHlO6FYwokRCAK1_rmVsOU",
+    "plus_code": {
+        "compound_code": "Q2GX+7P New York, United States",
+        "global_code": "87G8Q2GX+7P"
+    },
+    "reference": "ChIJbzHlO6FYwokRCAK1_rmVsOU",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16550893256661336584",
+    "utc_offset": -240,
+    "vicinity": "351 East 84th Street Ste 10D, New York",
+    "website": "http://drjerryepstein.org/"
+}

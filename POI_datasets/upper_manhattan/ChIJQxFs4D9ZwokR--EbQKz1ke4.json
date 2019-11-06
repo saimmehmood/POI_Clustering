@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "64",
+            "short_name": "64",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5889",
+            "short_name": "5889",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">64 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222-5889</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "64 Green St, Brooklyn, NY 11222, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7331599,
+            "lng": -73.95938319999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73458583029149,
+                "lng": -73.95804641970848
+            },
+            "southwest": {
+                "lat": 40.73188786970849,
+                "lng": -73.96074438029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9f50bfdd87df52199acbc11464167e612f5a950b",
+    "name": "Hudson Chiropractic",
+    "place_id": "ChIJQxFs4D9ZwokR--EbQKz1ke4",
+    "plus_code": {
+        "compound_code": "P2MR+76 New York, United States",
+        "global_code": "87G8P2MR+76"
+    },
+    "reference": "ChIJQxFs4D9ZwokR--EbQKz1ke4",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17190791372808643067",
+    "utc_offset": -240,
+    "vicinity": "64 Green Street, Brooklyn"
+}

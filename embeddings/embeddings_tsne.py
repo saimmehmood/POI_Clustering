@@ -15,19 +15,7 @@ df = pd.read_csv('cells_ny.csv')
 cell_names = df['cell_names']
 cell_ids = df['cell_id']
 
-# list_of_names = []
-# saved_col_id = []
-#
-# for i in range(len(cell_id)):
-#
-#     # specifying specific grid id to take cell ids from
-#     if(grid_id[i] == 1225):
-#         saved_col_id.append(cell_id[i])
-#         # storing cell names to get max row and max col
-#         list_of_names.append(cell_names[i])
-#
-# # sorting id's to avoid issues while creating edges between cells
-# sorted_ids = sorted(saved_col_id)
+
 graph = nx.Graph()
 
 

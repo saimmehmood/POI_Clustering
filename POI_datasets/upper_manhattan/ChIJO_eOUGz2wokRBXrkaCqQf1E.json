@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "West 128th Street",
+            "short_name": "W 128th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">W 128th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "W 128th St, New York, NY 10027, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8127244,
+            "lng": -73.95137799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8140931302915,
+                "lng": -73.95002356970848
+            },
+            "southwest": {
+                "lat": 40.8113951697085,
+                "lng": -73.9527215302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ec964ea4daaf9a3107ac66e244d2f2217850ffeb",
+    "name": "West 128th Street",
+    "place_id": "ChIJO_eOUGz2wokRBXrkaCqQf1E",
+    "reference": "ChIJO_eOUGz2wokRBXrkaCqQf1E",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=W+128th+St,+New+York,+NY+10027,+USA&ftid=0x89c2f66c508ef73b:0x517f902a68e47a05",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

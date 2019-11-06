@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "1506",
+            "short_name": "1506",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lexington Avenue",
+            "short_name": "Lexington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1506 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1506 Lexington Ave, New York, NY 10029, USA",
+    "formatted_phone_number": "(212) 410-7070",
+    "geometry": {
+        "location": {
+            "lat": 40.7867403,
+            "lng": -73.9506085
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7880388802915,
+                "lng": -73.9491402697085
+            },
+            "southwest": {
+                "lat": 40.7853409197085,
+                "lng": -73.9518382302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d7ee6d16fed7f53c7f1187daab5d4152fa917bd8",
+    "international_phone_number": "+1 212-410-7070",
+    "name": "Steep Rock Bouldering",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 11:00 PM",
+            "Tuesday: 8:00 AM \u2013 11:00 PM",
+            "Wednesday: 8:00 AM \u2013 11:00 PM",
+            "Thursday: 8:00 AM \u2013 11:00 PM",
+            "Friday: 8:00 AM \u2013 11:00 PM",
+            "Saturday: 9:00 AM \u2013 10:00 PM",
+            "Sunday: 9:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108336454716281089385/photos\">Luis Ortiz</a>"
+            ],
+            "photo_reference": "CmRaAAAAE_XHjqYeMQ0l7PNew2YtL-NqrmBGuqvb3GOh9V8Br3LBmGpEA2ewMhNqnBIAtrawXHuTUaJJFwIW-YSYa8t9wXj5jKFDnqk4oaUvXim3f4PGc0UHeDjSKUjOI0HoNXbuEhCD8X_0IDgr3HBtLMipwZy4GhT6GD3vjeFLiZdLRTviYNlvMbYd_g",
+            "width": 3024
+        },
+        {
+            "height": 1333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107729470047503995753/photos\">Steep Rock Bouldering</a>"
+            ],
+            "photo_reference": "CmRaAAAAS5_2AzZsQo3wbwEjJ6iFXvoCcRkNhWRHn0OodAVPG28VQFYN-ZMXDGljmhvVA71KAPub4hgEcEEoVk--pzDcROb0-2GBuvD4nR9-rBxEhfTC_RGi09FKMAus3YM8WJiNEhCYnfZoQ69aULQcKSr52LDQGhToSYARFBUEygnGACL6ApDMBnBpkQ",
+            "width": 2000
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107729470047503995753/photos\">Steep Rock Bouldering</a>"
+            ],
+            "photo_reference": "CmRaAAAAVMMuioJk9EQvXUM2b5djmtr6TCGKx4qWzla-Wgj4QWdTCIs3RY2NieDlJ9rY_pLiVoc-s4HIkQHdeaaeTaIqD-F0p2RSqsLbGqeIb6DgPTU6gjJO7mKxq_vzt_eEqeOKEhA-ViMjWK238YpHRywj0qvlGhTchbyzV3lqqipr8Oz63DKd51-VhQ",
+            "width": 3888
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107729470047503995753/photos\">Steep Rock Bouldering</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ2QvS0894nj1iJZ2EiOuObMso_-Nz3ggc-LSn-0oe4Qrovw_sYDIDv9nyVPA28wnXqV_onBRkB2heXoBOBAEYN-dMg1oDSSfZECCZzlil50Kmjvol13osJSBTTedIMxdEhCEvkrfjEwyESPdeqrhe77EGhTkMwB-oHl0c_C9ymOUHNlAV8FX5A",
+            "width": 3888
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102395071673090899873/photos\">Bob Yu</a>"
+            ],
+            "photo_reference": "CmRaAAAADvO34zisP_Cl-qTdfgr9Gl_2HD4kCN9w5W4zeTvQ7nzcEmO1ogb_1vBtDYaPZBWPF8zr9TLDrkaiW05QidIfy-e-MxAc-_XfwOI4SAUaI-X6ECvsHTEsID9tBUkzD9RdEhD4Oc4lICZqv_4FLaVjojc3GhRY7oAqHwB8aArEArT4houfnyWE6w",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116278027682182455100/photos\">Yusuke Iima</a>"
+            ],
+            "photo_reference": "CmRaAAAAdayC8pNdCCSzQE0YszGM1tQ4G0HAU81M12fGIjFydwSLBDn2Fek8OwqSgORMAHiq49ScoCrbXOvU5GPpBeSjIrz-eT9sGYWYSMm5jVX3sjCstpRPJykxdhF6n89p26KREhCNtSJh3i1ym5tW4FOx-MtBGhS39cN86tPXYQ1_1VJizX7vgL_dxw",
+            "width": 3024
+        },
+        {
+            "height": 3712,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101697718774753736432/photos\">Keara Tanella</a>"
+            ],
+            "photo_reference": "CmRaAAAAXtXJrYIri1npgObHTGnT5o4E-g8K31GKFAM9xyTLjPuuTDg_fnWrA-Of1bY8H_pw-XSjg0iS9n0k0tnU7LaS4Bv_wB9QdduRZ1wDmBa2aLzO6SeVko_QP93Wtutg60X4EhBBXUHDzoHPsKOVyjk5mQAvGhRbXWnP1b5-ZyH3835bAQdYIfaBfw",
+            "width": 12768
+        },
+        {
+            "height": 1597,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107729470047503995753/photos\">Steep Rock Bouldering</a>"
+            ],
+            "photo_reference": "CmRaAAAAtnrhVayfm4QDevxo99MM6bdX7hhuaP_-NMe3seKqn4VIiuWAllVkjzcwTOv_tugpcQqg7HAcBOvPlXOwAmFGPTlPxT-wJSOS3lH08Jg0aDkxQdGIM-gF44exrPn86_i8EhC72IsklYHGGfTvoL6ktUJKGhQgfvnyeumrGGqREUJ47OBVv72jKQ",
+            "width": 2048
+        },
+        {
+            "height": 3705,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107729470047503995753/photos\">Steep Rock Bouldering</a>"
+            ],
+            "photo_reference": "CmRaAAAAxl3XhLnAC9IafDT39iVH2r9y5mhMFB44eCWGIdbM5nqNKYcFVaNcfRXs2Hwafr7BUcZkogjt2jY3f3zaP2rCc2R1NqjJIfsocnXpeiCNhKiN6o-llWiNNjcbY1wbD1eZEhAFfrypIvJk8QzOU8mX1ivhGhTTR-_Vp6nwKqjqiBOu5R71F33ZIQ",
+            "width": 2574
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106810991053484007717/photos\">Patrice Brathwaite</a>"
+            ],
+            "photo_reference": "CmRaAAAA5tVJMQx3UAawVFqE59mrGWOGo6FhV3vqALceeu6zrGybSvv3TFcHDPBV94Y5uXH4zxezGxVg729pRDz7Ps3VeGLegZzuzN6xjYAe1k2Lk5_NoheYb3AnZv5BX21HfktmEhCyDHqI9peUKZ8BjOUbuClkGhSM-e9s69imViBt-1SlCwHD6hD-5Q",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJo6ZrWKZYwokRkD7bSeBWSgw",
+    "plus_code": {
+        "compound_code": "Q2PX+MQ New York, United States",
+        "global_code": "87G8Q2PX+MQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJo6ZrWKZYwokRkD7bSeBWSgw",
+    "reviews": [
+        {
+            "author_name": "albert lam",
+            "author_url": "https://www.google.com/maps/contrib/102025658189849524097/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FWYr06bhrts/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdtg1Jn3Vgvd70aWs339WJ3w3f6aw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Really nice place. Routes change frequently, friendly staff and patrons, clean environment. It's a bit small but not always crowded, so good for climbing.",
+            "time": 1562205904
+        },
+        {
+            "author_name": "Ov Pollak",
+            "author_url": "https://www.google.com/maps/contrib/101563221957593836162/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WqHy-YlJSCo/AAAAAAAAAAI/AAAAAAAAADg/HS5PZtKK-hs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place, great staff, I am no longer a member but that is because I wanted to start back up at a regular gym, lift heavy things and put them down, play with cardio equipment...\nSteep rock is a good place, good climbing routes, fun members.\n\nEdit: when I cancelled my membership everything went smoothly and easily, good people",
+            "time": 1550013216
+        },
+        {
+            "author_name": "Natasha Coppola-Shalom",
+            "author_url": "https://www.google.com/maps/contrib/101972543314635760918/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wnm7Lh5PhM0/AAAAAAAAAAI/AAAAAAAARjw/eFdIvNr2KYM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "LOVE it here!!!!\nThey change one of the walls every few weeks, so there are always new challenges.",
+            "time": 1559660820
+        },
+        {
+            "author_name": "Jacklyn Liu",
+            "author_url": "https://www.google.com/maps/contrib/117451519297891995431/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fO_7xNcreaI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rec_UW1l0wdpn72FGCWp-a49hgYyQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place with a lot of route varieties. The staff is very nice and the climbers are really helpful. I wish I lived closer so I could go more often.",
+            "time": 1550612670
+        },
+        {
+            "author_name": "Kasey Stonehill",
+            "author_url": "https://www.google.com/maps/contrib/101352714015731447997/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-iBG0eD2CzEc/AAAAAAAAAAI/AAAAAAAAAeo/d9hpE8HN_V4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "I love that I have a climbing gym around the corner from my apartment; it means I can use it just like anyone else would go to a typical gym multiple times a week no problem. But I wish it weren't so expensive for the size and crowdedness. I mean...it's Manhattan, I guess you can't expect more, place has gotta pay the rent. But it's still a hard pill to swallow, especially when it's not really an option for me to visit the West Side gym that (they claim) makes the membership so \"worth it\". \n\nGood routes (though the grading is all over the place) , reset monthly. Decent variation of walls for the limited space. Often half the gym is closed on weekends for bday parties, so plan around them. The staff and regulars keep the place friendly and lively. It's my neighborhood bouldering wall, so I'm making good use of it!",
+            "time": 1546750798
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=885615798043491984",
+    "user_ratings_total": 137,
+    "utc_offset": -240,
+    "vicinity": "1506 Lexington Avenue, New York",
+    "website": "http://www.srbnyc.com/"
+}

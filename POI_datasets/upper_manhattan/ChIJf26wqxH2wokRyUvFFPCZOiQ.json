@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2676",
+            "short_name": "2676",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 W 116th St #2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2676</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "115 W 116th St #2, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 961-5740",
+    "geometry": {
+        "location": {
+            "lat": 40.8025107,
+            "lng": -73.9504287
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8037970802915,
+                "lng": -73.94912596970849
+            },
+            "southwest": {
+                "lat": 40.8010991197085,
+                "lng": -73.95182393029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0c7fcbad6add712a544a4a434f3e27979e2df0f8",
+    "international_phone_number": "+1 212-961-5740",
+    "name": "Lenox Avenue Health Center: Anderson Beverly A MD",
+    "place_id": "ChIJf26wqxH2wokRyUvFFPCZOiQ",
+    "plus_code": {
+        "compound_code": "R23X+2R New York, United States",
+        "global_code": "87G8R23X+2R"
+    },
+    "reference": "ChIJf26wqxH2wokRyUvFFPCZOiQ",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2610568190434298825",
+    "utc_offset": -240,
+    "vicinity": "115 West 116th Street #2, New York"
+}

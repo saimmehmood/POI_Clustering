@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "150-198",
+            "short_name": "150-198",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 77th Street",
+            "short_name": "E 77th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10075",
+            "short_name": "10075",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">150-198 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "150-198 E 77th St, New York, NY 10075, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7733108,
+            "lng": -73.9590616
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77465978029149,
+                "lng": -73.95747080000001
+            },
+            "southwest": {
+                "lat": 40.77196181970849,
+                "lng": -73.9606524
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "7070b340a9c95c6f1f2584825e099f97b75efbf6",
+    "name": "150-198 E 77th St",
+    "place_id": "ChIJH0in0L9YwokR3Dw1vxwzEJE",
+    "reference": "ChIJH0in0L9YwokR3Dw1vxwzEJE",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=150-198+E+77th+St,+New+York,+NY+10075,+USA&ftid=0x89c258bfd0a7481f:0x9110331cbf353cdc",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

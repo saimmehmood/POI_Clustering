@@ -1,0 +1,140 @@
+{
+    "address_components": [
+        {
+            "long_name": "A",
+            "short_name": "A",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1581",
+            "short_name": "1581",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4204",
+            "short_name": "4204",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1581 1st Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028-4204</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1581 1st Avenue A, New York, NY 10028, USA",
+    "formatted_phone_number": "(212) 861-1202",
+    "geometry": {
+        "location": {
+            "lat": 40.7745457,
+            "lng": -73.9512969
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7758587302915,
+                "lng": -73.9498646197085
+            },
+            "southwest": {
+                "lat": 40.7731607697085,
+                "lng": -73.95256258029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "9f4a5ac4b532aa961a8ba74e97c772a72bf57c87",
+    "international_phone_number": "+1 212-861-1202",
+    "name": "Teamo Candy Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJCf9EcLlYwokRKIpI2Z4xPIw",
+    "plus_code": {
+        "compound_code": "Q2FX+RF New York, United States",
+        "global_code": "87G8Q2FX+RF"
+    },
+    "reference": "ChIJCf9EcLlYwokRKIpI2Z4xPIw",
+    "scope": "GOOGLE",
+    "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10105006222232554024",
+    "utc_offset": -240,
+    "vicinity": "1581 1st Avenue A, New York"
+}

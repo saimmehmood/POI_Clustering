@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "402",
+            "short_name": "402",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 65th Street",
+            "short_name": "E 65th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10065",
+            "short_name": "10065",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7115",
+            "short_name": "7115",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">402 E 65th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10065-7115</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "402 E 65th St, New York, NY 10065, USA",
+    "formatted_phone_number": "(212) 628-5221",
+    "geometry": {
+        "location": {
+            "lat": 40.7631007,
+            "lng": -73.95895639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76450588029149,
+                "lng": -73.95756601970848
+            },
+            "southwest": {
+                "lat": 40.7618079197085,
+                "lng": -73.9602639802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e523f56481587eaa13281dddd2463c71906163ff",
+    "international_phone_number": "+1 212-628-5221",
+    "name": "Brandy Parfums Ltd",
+    "place_id": "ChIJfUagm8JYwokRXYkq3NXIUoo",
+    "plus_code": {
+        "compound_code": "Q27R+6C New York, United States",
+        "global_code": "87G8Q27R+6C"
+    },
+    "reference": "ChIJfUagm8JYwokRXYkq3NXIUoo",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9967249746171693405",
+    "utc_offset": -240,
+    "vicinity": "402 East 65th Street, New York",
+    "website": "https://brandyparfums.com/"
+}

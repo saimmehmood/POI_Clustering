@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "183-123",
+            "short_name": "183-123",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hewes Street",
+            "short_name": "Hewes St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">183-123 Hewes St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "183-123 Hewes St, Brooklyn, NY 11211, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7030863,
+            "lng": -73.95847359999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70443523029149,
+                "lng": -73.9567615
+            },
+            "southwest": {
+                "lat": 40.70173726970849,
+                "lng": -73.9601855
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e42c902cb00ec460016956b25abaec7fde851fb6",
+    "name": "183-123 Hewes St",
+    "place_id": "ChIJRyCj7udbwokR6oU_7TaGM3o",
+    "reference": "ChIJRyCj7udbwokR6oU_7TaGM3o",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=183-123+Hewes+St,+Brooklyn,+NY+11211,+USA&ftid=0x89c25be7eea32047:0x7a338636ed3f85ea",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

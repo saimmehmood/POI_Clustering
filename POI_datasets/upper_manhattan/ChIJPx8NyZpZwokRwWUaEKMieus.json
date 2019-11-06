@@ -1,0 +1,171 @@
+{
+    "address_components": [
+        {
+            "long_name": "1 C",
+            "short_name": "1 C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "119 E. 100th St. #, <span class=\"street-address\">1 C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "119 E. 100th St. #, 1 C, New York, NY 10029, USA",
+    "formatted_phone_number": "(646) 389-5706",
+    "geometry": {
+        "location": {
+            "lat": 40.78883349999999,
+            "lng": -73.9495982
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79011883029149,
+                "lng": -73.9482965697085
+            },
+            "southwest": {
+                "lat": 40.7874208697085,
+                "lng": -73.95099453029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eec7c79e116562cdfcc1a2f2f709256cad48fd04",
+    "international_phone_number": "+1 646-389-5706",
+    "name": "Small Fish Media Group - Website Design and SEO",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118011487170068589095/photos\">Small Fish Media Group - Website Design and SEO</a>"
+            ],
+            "photo_reference": "CmRaAAAAEPAsgExb8h29kBSQCItKG1K0qRo3s2HDS62ZW6Trq_TWryy51GbQVeRMyz3NqJC4Of1CsyNv-SQC_hefIQvJP_Jy2BdnKaDpaVgQEbYIXhj51DjZqz2mhuOH0Z33HwgDEhDpNfEsa6Qib45KiVE8BJzkGhS_jNXb2-0fpvYy0wlun2WhKquQeA",
+            "width": 820
+        }
+    ],
+    "place_id": "ChIJPx8NyZpZwokRwWUaEKMieus",
+    "plus_code": {
+        "compound_code": "Q3Q2+G5 New York, United States",
+        "global_code": "87G8Q3Q2+G5"
+    },
+    "reference": "ChIJPx8NyZpZwokRwWUaEKMieus",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16967912629816944065",
+    "utc_offset": -240,
+    "vicinity": "119 E. 100th St. #, 1 C, New York",
+    "website": "http://smallfishmediagroup.com/office-locations/manhattan-ny/"
+}

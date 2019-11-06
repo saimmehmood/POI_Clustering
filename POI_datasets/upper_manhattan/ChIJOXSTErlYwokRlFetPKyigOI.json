@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1560-1576",
+            "short_name": "1560-1576",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1560-1576 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1560-1576 1st Avenue, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.77397910000001,
+            "lng": -73.9514934
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.77532808029149,
+                "lng": -73.95014436970848
+            },
+            "southwest": {
+                "lat": 40.7726301197085,
+                "lng": -73.95284233029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3e414816b2fad5b77c7c261b679494da4dcad119",
+    "name": "1560-1576 1st Avenue",
+    "place_id": "ChIJOXSTErlYwokRlFetPKyigOI",
+    "reference": "ChIJOXSTErlYwokRlFetPKyigOI",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1560-1576+1st+Avenue,+New+York,+NY+10028,+USA&ftid=0x89c258b912937439:0xe280a2ac3cad5794",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

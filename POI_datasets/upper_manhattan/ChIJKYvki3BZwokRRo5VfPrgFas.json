@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10014",
+            "short_name": "10014",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10014, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7310884,
+            "lng": -74.00136049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7324403302915,
+                "lng": -74.00002001970849
+            },
+            "southwest": {
+                "lat": 40.7297423697085,
+                "lng": -74.00271798029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "76657c6020b4a4db74e45077f145af03c91f07b5",
+    "name": "King\u2019s Halal food",
+    "place_id": "ChIJKYvki3BZwokRRo5VfPrgFas",
+    "plus_code": {
+        "compound_code": "PXJX+CF New York, United States",
+        "global_code": "87G7PXJX+CF"
+    },
+    "rating": 5,
+    "reference": "ChIJKYvki3BZwokRRo5VfPrgFas",
+    "reviews": [
+        {
+            "author_name": "Tironsivjeter Shehu",
+            "author_url": "https://www.google.com/maps/contrib/101645643443899205337/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iTIwJBeEvwc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdgdTUUq7U4MH_d_HPEGRk6o49pzw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Mostly I brown-bag my lunch, but when I eat out I always try to go for halal food. This cart is in the top 10 percentile. Clean, fast, tasty, and (above all) very tangy white sauce. Like it very much. I highly recommend it.",
+            "time": 1542651133
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12328006921429028422",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

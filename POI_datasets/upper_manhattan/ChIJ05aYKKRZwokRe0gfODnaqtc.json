@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1100",
+            "short_name": "1100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1100 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1100 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(347) 386-9616",
+    "geometry": {
+        "location": {
+            "lat": 40.7430266,
+            "lng": -73.98915149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443587302915,
+                "lng": -73.98781481970849
+            },
+            "southwest": {
+                "lat": 40.7416607697085,
+                "lng": -73.9905127802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2318ee6566b5a13edf850e4120db6c9894fca46a",
+    "international_phone_number": "+1 347-386-9616",
+    "name": "Abadie Associates",
+    "place_id": "ChIJ05aYKKRZwokRe0gfODnaqtc",
+    "plus_code": {
+        "compound_code": "P2V6+68 New York, United States",
+        "global_code": "87G8P2V6+68"
+    },
+    "reference": "ChIJ05aYKKRZwokRe0gfODnaqtc",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15540473403484883067",
+    "utc_offset": -240,
+    "vicinity": "1100 Broadway, New York"
+}

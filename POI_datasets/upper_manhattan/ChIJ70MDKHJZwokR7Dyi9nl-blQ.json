@@ -1,0 +1,255 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Kent Avenue",
+            "short_name": "Kent Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11249",
+            "short_name": "11249",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Kent Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11249</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "50 Kent Ave, Brooklyn, NY 11249, USA",
+    "formatted_phone_number": "(212) 639-9675",
+    "geometry": {
+        "location": {
+            "lat": 40.7230468,
+            "lng": -73.95944250000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.72426863029149,
+                "lng": -73.95788531970851
+            },
+            "southwest": {
+                "lat": 40.7215706697085,
+                "lng": -73.96058328029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "9b142b45561af35b88025aa97f59978e971b1aef",
+    "international_phone_number": "+1 212-639-9675",
+    "name": "Bushwick Inlet Pop-Up Park",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103228421102113105378/photos\">Bushwick Inlet Pop-Up Park</a>"
+            ],
+            "photo_reference": "CmRaAAAAJyON2NLELJ4F9euG6FnyQM19bmgWjaa-E9eySJDLNlylL4rpPQanB0wj4qkFh3DtdDhnfvUyoGdwpYgLzdsMbsDNOpukrKVl-iOxsVjBOBEnJ1eFPsj-iIyZF8chg2svEhAMnPyhzPurTdy_AcgvXexqGhR9aNo_qP3IDH-Go3JcHsEKhC3EZQ",
+            "width": 2704
+        },
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103228421102113105378/photos\">Bushwick Inlet Pop-Up Park</a>"
+            ],
+            "photo_reference": "CmRaAAAAwasKlWIFjSnVsUu725D-SC-FKNwXnzAMUHRJNVoahCEMmSn69KWVv0ykKcQpoRqj1Qys0gSG4j9z9w4lm0xC_gQoqtU9vNlB3_pWt3UWf8IYjjljW0_PPquoV_Qxj3mdEhCOj-5rWJHdcURks0rCL_b5GhTOYW6hrbyipmqB6mIbm0EMQZuJgg",
+            "width": 2704
+        },
+        {
+            "height": 1788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103228421102113105378/photos\">Bushwick Inlet Pop-Up Park</a>"
+            ],
+            "photo_reference": "CmRaAAAAIOwro07fANZUQffg4hBfGY1_igmw2reAm-izGuKNXFpJjxXm64Ibgjkba-bP4s84OB8A-zFBtQ9AHMYrbRPIeYjMQZ6-XTBmnULm9b_3frysy-eWTZ1N_ODL62zxih7OEhAplQfyjKHeCbPEJm7FPl3KGhRU9wIBk0J2Mjb2O2sspD7aZm0D7Q",
+            "width": 2696
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565/photos\">Elvis Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAQVocV8eaqFLzZpCZRPDuP8jhKlUJ0ZO6uuIg3p8_mTEnmzSL4MS9_mxZuHmx4CqoBpWqvp4DHrGeN8FXuzu0NYlOcz2ksTAd_gj-4DGrKp5V8LYnzJ1npJwt5rym-adHEhAzIH64OhWZZjJ7-PVbkBH7GhSw6Nq2lIU_7t1WjL4Sooiul08LiA",
+            "width": 1960
+        },
+        {
+            "height": 3945,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111735457748892062484/photos\">Max Guliani</a>"
+            ],
+            "photo_reference": "CmRaAAAATfwuYADRnyEtMoIPsrSs7B38AzFA1N4FbCNj7KmS-IEUTJozvADaXMnxgTZGhlgGWwNZkaJ1DY9j7tuCn0c9ofAkQKBVa5hfJnfKOglV41zgcK2O7UAiGfa9ZyV_lNbHEhDKqV05RwAwwvL-19mwVGmQGhQiFQTfFi8ATgvWXkChfTG0iAqguA",
+            "width": 5917
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565/photos\">Elvis Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAyDp6VGIw56ICXPOwia8P6N0cyj_DCUHaQElWgZZ4OXXAn1kLBII0uH4uKOa6EfJB2yO71qqURi5GNJSRGtxLxtrH-Z2Pbm6h2b-uPfaWwAbD4OoT9j77bB9Jp2WLhKb3EhD6Yb2-8EMAgSuX84ZaonF-GhTHGNQ0vip8SWz0KkEaGtX_P05bqw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106044759427515073114/photos\">Miguel Galeano</a>"
+            ],
+            "photo_reference": "CmRaAAAAn1jdy7FjNpzdcXbib13XFbGDOGi0WKTFf1vv3nzskSPWCnaWQnuyyzKIN_lqKpWiyrRPnFQ-DBD9X1AGHjWwRJ9IQm0NyS6ypWAuA_U4EG1n6Zyy6C4KtWnt9iyQlc2ZEhCkb8CHaeJa1KaGLp6CnG_EGhQ-BunZ8ihpQYE4gL5SXEkP4yJxdw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106044759427515073114/photos\">Miguel Galeano</a>"
+            ],
+            "photo_reference": "CmRaAAAATNZA4B8DpBy3o6exAxZbfr0d9cIvEw3gXIJw3G1sZV9Gu8hEcRS_x4oHYHPFUgkPTKkumdl543GZoUP0yg_6Az0VArRYrqORKWGlrz1P8mvmrg94ALMi7JSjcx0JERqfEhDtu6BAz2SkFOp373PO_D60GhTW2O8DvH1F5C6a25c1k19WBI66Qg",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565/photos\">Elvis Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAIGEgIk0TMeaT-_V5w6ahO8t8jamIMTye5X3cbm_CtbZfP-fwoF-4m566I5slQ2zKMRyPPLrbT11-nVvLZ8jcm2hWPFN60QBaCLVkzvyJJPFG9nSLUngocVhA4jVyDu6dEhBii68SfJSwG_-ckCuT_nEcGhTGOujHv8EAYC_AUcT9SqM7Ewxd1Q",
+            "width": 1960
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565/photos\">Elvis Jimenez</a>"
+            ],
+            "photo_reference": "CmRaAAAAVf1nm82BVIBbvmqoJyIw4piYgRumRWaCqTnWXcgIJdA5Xyl_cIpXmaZ4C3QYiJKAITjhVTHVGRAxG3K4ZepEWhbRSSCwsR_tjE1iTpb2-8cJJ-xZOLMdDGFPH30Sb_0pEhDlJhnkhxqLUSanoI8BYVOkGhSMhsGzY9NHOCZc2irRQbBmletLKg",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ70MDKHJZwokR7Dyi9nl-blQ",
+    "plus_code": {
+        "compound_code": "P2FR+66 Brooklyn, New York, United States",
+        "global_code": "87G8P2FR+66"
+    },
+    "rating": 5,
+    "reference": "ChIJ70MDKHJZwokR7Dyi9nl-blQ",
+    "reviews": [
+        {
+            "author_name": "Elvis Jimenez",
+            "author_url": "https://www.google.com/maps/contrib/114339123323154895565/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cT2boA7_tHI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reRwrVeQjEsp512ybOx_uaEdaSuCw/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "The great lawn of williamaburg",
+            "time": 1560619556
+        },
+        {
+            "author_name": "Miguel Galeano",
+            "author_url": "https://www.google.com/maps/contrib/106044759427515073114/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ahyX26_5uDA/AAAAAAAAAAI/AAAAAAAAHlg/FZ80K-OjAUA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Nice new park to come enjoy the sunset or sunrise.",
+            "time": 1541739282
+        },
+        {
+            "author_name": "Max Guliani",
+            "author_url": "https://www.google.com/maps/contrib/111735457748892062484/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0hMKIimUOdo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfkHeLIPYSgc-LMvmdCCwgt3__IGg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "It a great open green space on the Brooklyn waterfront!",
+            "time": 1537454211
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6083939208918088940",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "50 Kent Avenue, Brooklyn",
+    "website": "https://www.nycgovparks.org/parks/bushwick-inlet-park/"
+}

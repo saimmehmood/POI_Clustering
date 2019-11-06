@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "451",
+            "short_name": "451",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwich Street",
+            "short_name": "Greenwich St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10013",
+            "short_name": "10013",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1757",
+            "short_name": "1757",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">451 Greenwich St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-1757</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "451 Greenwich St, New York, NY 10013, USA",
+    "formatted_phone_number": "(212) 609-9333",
+    "geometry": {
+        "location": {
+            "lat": 40.72321189999999,
+            "lng": -74.0094592
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.72456718029149,
+                "lng": -74.0081699197085
+            },
+            "southwest": {
+                "lat": 40.72186921970849,
+                "lng": -74.0108678802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6bcb523e213d8811128608d2718b4358dce6c8d3",
+    "international_phone_number": "+1 212-609-9333",
+    "name": "Agency",
+    "place_id": "ChIJJwHZYfRZwokRhqSjVqsi4Zg",
+    "plus_code": {
+        "compound_code": "PXFR+76 New York, United States",
+        "global_code": "87G7PXFR+76"
+    },
+    "reference": "ChIJJwHZYfRZwokRhqSjVqsi4Zg",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11016124282813260934",
+    "utc_offset": -240,
+    "vicinity": "451 Greenwich Street, New York"
+}

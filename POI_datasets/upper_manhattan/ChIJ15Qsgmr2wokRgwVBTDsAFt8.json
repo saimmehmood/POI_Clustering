@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "6",
+            "short_name": "6",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "100",
+            "short_name": "100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "La Salle Street",
+            "short_name": "La Salle St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "6, <span class=\"street-address\">100 La Salle St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "6, 100 La Salle St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 666-0180",
+    "geometry": {
+        "location": {
+            "lat": 40.8131157,
+            "lng": -73.9593168
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8146075302915,
+                "lng": -73.95786061970848
+            },
+            "southwest": {
+                "lat": 40.8119095697085,
+                "lng": -73.9605585802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "afe31dad80b9d794ff524858ccf0d2dc300df0eb",
+    "international_phone_number": "+1 212-666-0180",
+    "name": "Aardvarchitecture",
+    "place_id": "ChIJ15Qsgmr2wokRgwVBTDsAFt8",
+    "plus_code": {
+        "compound_code": "R27R+67 New York, United States",
+        "global_code": "87G8R27R+67"
+    },
+    "reference": "ChIJ15Qsgmr2wokRgwVBTDsAFt8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16075036174627964291",
+    "utc_offset": -240,
+    "vicinity": "6, 100 La Salle Street, New York",
+    "website": "http://aardvarchi.com/"
+}

@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "111",
+            "short_name": "111",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Malcolm X Boulevard",
+            "short_name": "Malcolm X Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">111 Malcolm X Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "111 Malcolm X Blvd, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8017884,
+            "lng": -73.95018619999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8031000802915,
+                "lng": -73.9487450697085
+            },
+            "southwest": {
+                "lat": 40.8004021197085,
+                "lng": -73.9514430302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "0249d4cb1ab3523cde021c5ace1501d0afab04ec",
+    "name": "Timeless Fashions",
+    "place_id": "ChIJP1LkUBD2wokReyVbYUplcLU",
+    "plus_code": {
+        "compound_code": "R22X+PW New York, United States",
+        "global_code": "87G8R22X+PW"
+    },
+    "rating": 5,
+    "reference": "ChIJP1LkUBD2wokReyVbYUplcLU",
+    "reviews": [
+        {
+            "author_name": "Joe M",
+            "author_url": "https://www.google.com/maps/contrib/106212374268203350857/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-PLjXvhouOl4/AAAAAAAAAAI/AAAAAAAAAL0/zvoFKW-TFIw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Classic Harlem style! Great places to buy quality men\u2019s clothing, I even found a nice Italian suit and leather shoes.",
+            "time": 1540155886
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13074061088391898491",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "111 Malcolm X Boulevard, New York"
+}

@@ -1,0 +1,260 @@
+{
+    "address_components": [
+        {
+            "long_name": "1200",
+            "short_name": "1200",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "1st Avenue",
+            "short_name": "1st Avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10065",
+            "short_name": "10065",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "7105",
+            "short_name": "7105",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1200 1st Avenue</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10065-7105</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1200 1st Avenue, New York, NY 10065, USA",
+    "formatted_phone_number": "(212) 734-6998",
+    "geometry": {
+        "location": {
+            "lat": 40.7631864,
+            "lng": -73.9591097
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7645761802915,
+                "lng": -73.9578612197085
+            },
+            "southwest": {
+                "lat": 40.7618782197085,
+                "lng": -73.96055918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f9dfbfd669372c755122e0427c0f4e02936433ba",
+    "international_phone_number": "+1 212-734-6998",
+    "name": "Goldberger's Pharmacy",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 9:00 PM",
+            "Tuesday: 8:30 AM \u2013 9:00 PM",
+            "Wednesday: 8:30 AM \u2013 9:00 PM",
+            "Thursday: 8:30 AM \u2013 9:00 PM",
+            "Friday: 8:30 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112088500016535248430/photos\">Gisele Kauer</a>"
+            ],
+            "photo_reference": "CmRaAAAAFuFGlpW3s9UjTZ1P7YrVh48cP-zvY3LgjOsQGIWVWQct7N5Lkfn-M9ztLRjumSBWMnrYKF2QcNP7Jv9S1gVr4-MKVquTl5rkvnRycfd_9_BhhsiZe0ZFB65omaOhnrDxEhCzcgs_nqGwEpxN9hUpvhOLGhTAHpdUC5WOR2ESbWnHQ3pdJvT5QA",
+            "width": 4032
+        },
+        {
+            "height": 2581,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113816940528446301194/photos\">Steven Buchbinder</a>"
+            ],
+            "photo_reference": "CmRaAAAA-aAxcy7Dn637nwWbp0doKs8Y6Pr3b5UEpFoDFjlmB5BSL-EBGZROaX2bm37TIfBk2wMujkE7DvfAK00UPIPTWgadGFaAjqKdoBk8_Bdpj9kefl_CUCIGQyWkVws3b33lEhCy_PKyD0n8QwY8woWFwVtfGhRBZqDJQGicUUpfaWzGnkbJ-w9AMg",
+            "width": 3872
+        }
+    ],
+    "place_id": "ChIJwwj5nMJYwokR3WxENzXN3Nw",
+    "plus_code": {
+        "compound_code": "Q27R+79 New York, United States",
+        "global_code": "87G8Q27R+79"
+    },
+    "rating": 4.8,
+    "reference": "ChIJwwj5nMJYwokR3WxENzXN3Nw",
+    "reviews": [
+        {
+            "author_name": "Andre Dalberto",
+            "author_url": "https://www.google.com/maps/contrib/106904372830456520829/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3sbL99BcVN8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfof13xyJAxxeY8D8xsXs4LkEL8bw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "You can certainly find what you're looking for at Goldberger's. I just had a little bit of a problem finding my way around. It's a small place with lots of stuff. However,  the staff is always available to help you.",
+            "time": 1542330893
+        },
+        {
+            "author_name": "Mark van Raaij",
+            "author_url": "https://www.google.com/maps/contrib/100546961190866732102/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0Ru5anW_Txo/AAAAAAAAAAI/AAAAAAAAIMI/xmMvAkBpY8s/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Friendly and helpful staff. Recommendable.",
+            "time": 1541717218
+        },
+        {
+            "author_name": "Serkan Akcan",
+            "author_url": "https://www.google.com/maps/contrib/115472816992145658564/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-32TFtckoiBw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf9GlkAgTkkDGigiY1dCfMbHIDE_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "They are really nice thanks",
+            "time": 1532727270
+        },
+        {
+            "author_name": "morganj1060",
+            "author_url": "https://www.google.com/maps/contrib/102736650109939469019/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-i2xNtmbDKL8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc4r2P6p7SNfmn3O_l6RJPsrv0NDw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I've used them for years.  I changed pharmacy's because I moved and ended up changing back because I am use to having the excellent service and low prices that I get here. I travel from Brooklyn.",
+            "time": 1454610982
+        },
+        {
+            "author_name": "Jeremy Cota",
+            "author_url": "https://www.google.com/maps/contrib/110962805286334040737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NrwU0723GVc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reJuUHgAtRHB2SEn8mjtK8MhzFzwg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "A1 pharmacy in NYC",
+            "time": 1542057233
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15914820811664682205",
+    "user_ratings_total": 12,
+    "utc_offset": -240,
+    "vicinity": "1200 1st Avenue, New York",
+    "website": "http://www.goldbergerspharmacy.com/"
+}

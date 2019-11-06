@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "409",
+            "short_name": "409",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 83rd Street",
+            "short_name": "E 83rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10028",
+            "short_name": "10028",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">409 E 83rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "409 E 83rd St, New York, NY 10028, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7747384,
+            "lng": -73.95030369999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7761022802915,
+                "lng": -73.94894376970849
+            },
+            "southwest": {
+                "lat": 40.7734043197085,
+                "lng": -73.9516417302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "708a16753459fd109cd3ae9b9779e2a269fe7f96",
+    "name": "Zipcar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 499,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100895309097169370209/photos\">Zipcar</a>"
+            ],
+            "photo_reference": "CmRaAAAAUgh5ce83_hxm82N7g8GiZsVDhvkWi8GuGpHZ1GcBh0kUHHAbYF7FWAzMGPlAAcbU59SPSHw1yzR9hOO3z1yq1ixTsKD1ConyeH3jmnJDH_gCCX78WAIybMkwg7lRdxwdEhDKp8i-33V2g61zviEVWLViGhTsvh7-IKnhZX7qfs3IZCUCoJQfcg",
+            "width": 499
+        }
+    ],
+    "place_id": "ChIJg3R2hLlYwokRUFMTnJ-HANY",
+    "plus_code": {
+        "compound_code": "Q2FX+VV New York, United States",
+        "global_code": "87G8Q2FX+VV"
+    },
+    "reference": "ChIJg3R2hLlYwokRUFMTnJ-HANY",
+    "scope": "GOOGLE",
+    "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15420474243704640336",
+    "utc_offset": -240,
+    "vicinity": "409 East 83rd Street, New York",
+    "website": "http://www.zipcar.com/"
+}

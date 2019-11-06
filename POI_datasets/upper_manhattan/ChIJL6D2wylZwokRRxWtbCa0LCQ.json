@@ -1,0 +1,185 @@
+{
+    "address_components": [
+        {
+            "long_name": "#3R",
+            "short_name": "#3R",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "242",
+            "short_name": "242",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 20th Street",
+            "short_name": "W 20th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10011",
+            "short_name": "10011",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">242 W 20th St #3R</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "242 W 20th St #3R, New York, NY 10011, USA",
+    "formatted_phone_number": "(212) 470-8915",
+    "geometry": {
+        "location": {
+            "lat": 40.74292459999999,
+            "lng": -73.9990562
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443375302915,
+                "lng": -73.99766046970849
+            },
+            "southwest": {
+                "lat": 40.7416395697085,
+                "lng": -74.0003584302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "cae566a613a4fe9ee5ebae6d34023727b85b00a7",
+    "international_phone_number": "+1 212-470-8915",
+    "name": "Empire Domestic",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 700,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103217138260934954070/photos\">Empire Domestic</a>"
+            ],
+            "photo_reference": "CmRaAAAA8pPKJvFF9-RGkxbxMbCP-8Ez8Xgk1arwMOBtzLRut5D9PN7q-IeVUY1qwB0iRPW1ic7TUoOVtsUrlIrrU7GGhO-cJMj0o-69gfiJVVdLYdf2AdSutoA-Z-QlFxOrUyqREhCYHhWF41qFcRFmmE-DLQTJGhQlFjOS1OM5a9ZO6ZkBQQ96cUUX5A",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJL6D2wylZwokRRxWtbCa0LCQ",
+    "plus_code": {
+        "compound_code": "P2V2+59 New York, United States",
+        "global_code": "87G8P2V2+59"
+    },
+    "reference": "ChIJL6D2wylZwokRRxWtbCa0LCQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2606656361465713991",
+    "utc_offset": -240,
+    "vicinity": "242 West 20th Street #3R, New York",
+    "website": "http://empiredomestic.com/"
+}

@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "501",
+            "short_name": "501",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "451",
+            "short_name": "451",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Greenwich Street",
+            "short_name": "Greenwich St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10013",
+            "short_name": "10013",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">451 Greenwich St #501</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "451 Greenwich St #501, New York, NY 10013, USA",
+    "formatted_phone_number": "(212) 343-3500",
+    "geometry": {
+        "location": {
+            "lat": 40.72322630000001,
+            "lng": -74.00945039999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7245818802915,
+                "lng": -74.0081641697085
+            },
+            "southwest": {
+                "lat": 40.7218839197085,
+                "lng": -74.0108621302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "43d60faf53c787b00f2d0fa434af3f2855329296",
+    "international_phone_number": "+1 212-343-3500",
+    "name": "Nixon Anne Architect",
+    "place_id": "ChIJJwHZYfRZwokR5JM3VXFnPr8",
+    "plus_code": {
+        "compound_code": "PXFR+76 New York, United States",
+        "global_code": "87G7PXFR+76"
+    },
+    "reference": "ChIJJwHZYfRZwokR5JM3VXFnPr8",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13780565646258967524",
+    "utc_offset": -240,
+    "vicinity": "451 Greenwich Street #501, New York",
+    "website": "http://www.brooklynoffice.com/"
+}

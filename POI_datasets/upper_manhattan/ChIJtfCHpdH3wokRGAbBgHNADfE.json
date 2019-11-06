@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Main Street",
+            "short_name": "Main St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Edgewater",
+            "short_name": "Edgewater",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07020",
+            "short_name": "07020",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 Main St</span>, <span class=\"locality\">Edgewater</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07020</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "2 Main St, Edgewater, NJ 07020, USA",
+    "formatted_phone_number": "(201) 840-8898",
+    "geometry": {
+        "location": {
+            "lat": 40.803582,
+            "lng": -73.99108199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8049463802915,
+                "lng": -73.9897227697085
+            },
+            "southwest": {
+                "lat": 40.8022484197085,
+                "lng": -73.9924207302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "aa523cd06d7d607558d0ab4015719b8840d1b984",
+    "international_phone_number": "+1 201-840-8898",
+    "name": "Lois Fein and John Schwartz",
+    "place_id": "ChIJtfCHpdH3wokRGAbBgHNADfE",
+    "plus_code": {
+        "compound_code": "R235+CH Edgewater, New Jersey, United States",
+        "global_code": "87G8R235+CH"
+    },
+    "reference": "ChIJtfCHpdH3wokRGAbBgHNADfE",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17369610202663421464",
+    "utc_offset": -240,
+    "vicinity": "2 Main Street, Edgewater",
+    "website": "http://thepearledgewaternj.com/"
+}

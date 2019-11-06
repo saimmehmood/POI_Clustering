@@ -1,0 +1,104 @@
+{
+    "address_components": [
+        {
+            "long_name": "393",
+            "short_name": "393",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 49th Street",
+            "short_name": "W 49th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">393 W 49th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "393 W 49th St, New York, NY 10019, USA",
+    "formatted_phone_number": "(202) 460-9274",
+    "geometry": {
+        "location": {
+            "lat": 40.7628326,
+            "lng": -73.9889523
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7641210802915,
+                "lng": -73.98764721970849
+            },
+            "southwest": {
+                "lat": 40.7614231197085,
+                "lng": -73.9903451802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "575a265319cfbf87e25f54022cf2e1f69f4fb520",
+    "international_phone_number": "+1 202-460-9274",
+    "name": "yasaman hoorazar",
+    "place_id": "ChIJXRo8LVFYwokRlMg_KyBDSuY",
+    "plus_code": {
+        "compound_code": "Q276+4C New York, United States",
+        "global_code": "87G8Q276+4C"
+    },
+    "reference": "ChIJXRo8LVFYwokRlMg_KyBDSuY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16594149582443628692",
+    "utc_offset": -240,
+    "vicinity": "393 West 49th Street, New York",
+    "website": "http://www.hoorazar.com/002-stabm.swf"
+}

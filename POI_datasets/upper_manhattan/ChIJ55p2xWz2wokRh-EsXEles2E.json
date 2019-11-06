@@ -1,0 +1,216 @@
+{
+    "address_components": [
+        {
+            "long_name": "at Blink Fitness",
+            "short_name": "at Blink Fitness",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3616",
+            "short_name": "3616",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"extended-address\">at Blink Fitness</span>, <span class=\"street-address\">301 W 125th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-3616</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "at Blink Fitness, 301 W 125th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(877) 346-6244",
+    "geometry": {
+        "location": {
+            "lat": 40.810553,
+            "lng": -73.951581
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8118259302915,
+                "lng": -73.95028511970848
+            },
+            "southwest": {
+                "lat": 40.8091279697085,
+                "lng": -73.95298308029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "545724c63f460662bd75fcb2422083faadb0546a",
+    "international_phone_number": "+1 877-346-6244",
+    "name": "Amazon Locker - Crystal",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 11:00 PM",
+            "Tuesday: 5:00 AM \u2013 11:00 PM",
+            "Wednesday: 5:00 AM \u2013 11:00 PM",
+            "Thursday: 5:00 AM \u2013 11:00 PM",
+            "Friday: 5:00 AM \u2013 10:00 PM",
+            "Saturday: 7:00 AM \u2013 7:00 PM",
+            "Sunday: 7:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "place_id": "ChIJ55p2xWz2wokRh-EsXEles2E",
+    "plus_code": {
+        "compound_code": "R26X+69 New York, United States",
+        "global_code": "87G8R26X+69"
+    },
+    "rating": 1,
+    "reference": "ChIJ55p2xWz2wokRh-EsXEles2E",
+    "reviews": [
+        {
+            "author_name": "Myktybek Azhimatov",
+            "author_url": "https://www.google.com/maps/contrib/103540049568856801631/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PrsQ6qmVIYE/AAAAAAAAAAI/AAAAAAAAFas/4TYr8kuhmOk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "My delivery was attempted, they do not have enough lockers in there, better order to residential address.",
+            "time": 1507232452
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7040074311682285959",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "at Blink Fitness, 301 West 125th Street, New York"
+}

@@ -81,7 +81,7 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
     print(i)
     print(m)
 
-    f_cos_sim = open("cos_sim.csv", "w")
+    f_cos_sim = open("cos_sim_ten_10.csv", "w")
     f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
 
 
@@ -152,5 +152,5 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
 
 
 
-getting_vector_cosine_sim('null_nodes.emb', 'real_nodes.emb')
+getting_vector_cosine_sim('intermediate_nodes.emb', 'real_nodes.emb')
 

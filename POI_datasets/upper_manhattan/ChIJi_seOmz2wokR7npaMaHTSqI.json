@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "41",
+            "short_name": "41",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Saint Nicholas Terrace",
+            "short_name": "St Nicholas Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">41 St Nicholas Terrace</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "41 St Nicholas Terrace, New York, NY 10027, USA",
+    "formatted_phone_number": "(917) 318-8943",
+    "geometry": {
+        "location": {
+            "lat": 40.8136791,
+            "lng": -73.9514032
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8150000802915,
+                "lng": -73.9499867697085
+            },
+            "southwest": {
+                "lat": 40.81230211970851,
+                "lng": -73.95268473029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad840d1d09648b404180e6528e008c4a1463f52b",
+    "international_phone_number": "+1 917-318-8943",
+    "name": "Ceremony of a Lifetime | Tulis McCall",
+    "place_id": "ChIJi_seOmz2wokR7npaMaHTSqI",
+    "plus_code": {
+        "compound_code": "R27X+FC New York, United States",
+        "global_code": "87G8R27X+FC"
+    },
+    "rating": 5,
+    "reference": "ChIJi_seOmz2wokR7npaMaHTSqI",
+    "reviews": [
+        {
+            "author_name": "Ethan Farmer",
+            "author_url": "https://www.google.com/maps/contrib/102490231835755833279/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-CsqOOY_7abg/AAAAAAAAAAI/AAAAAAAAaSw/YsBOXuD7k_4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Tulis has been extremely helpful as I plan for my wedding and has answered all of my (many) questions!",
+            "time": 1550454309
+        },
+        {
+            "author_name": "Todd Bessette",
+            "author_url": "https://www.google.com/maps/contrib/100347891468503212867/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zRMHGmjDQIs/AAAAAAAAAAI/AAAAAAAAABM/ZAiSrh2oX8s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1550455890
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11694392071692122862",
+    "user_ratings_total": 2,
+    "utc_offset": -240,
+    "vicinity": "41 Saint Nicholas Terrace, New York",
+    "website": "https://ceremonyofalifetime.com/"
+}

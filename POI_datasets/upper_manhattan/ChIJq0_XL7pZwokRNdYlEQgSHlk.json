@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "APT 1C",
+            "short_name": "APT 1C",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "109",
+            "short_name": "109",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 100th Street",
+            "short_name": "E 100th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10029",
+            "short_name": "10029",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">109 E 100th St APT 1C</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "109 E 100th St APT 1C, New York, NY 10029, USA",
+    "formatted_phone_number": "(864) 713-1632",
+    "geometry": {
+        "location": {
+            "lat": 40.78903529999999,
+            "lng": -73.95
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7903090302915,
+                "lng": -73.9487069697085
+            },
+            "southwest": {
+                "lat": 40.7876110697085,
+                "lng": -73.9514049302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "134dc82324d13999b7e5d4e9a876ea534b519f74",
+    "international_phone_number": "+1 864-713-1632",
+    "name": "Sams potshop and deli",
+    "place_id": "ChIJq0_XL7pZwokRNdYlEQgSHlk",
+    "plus_code": {
+        "compound_code": "Q2QX+JX New York, United States",
+        "global_code": "87G8Q2QX+JX"
+    },
+    "reference": "ChIJq0_XL7pZwokRNdYlEQgSHlk",
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6421589944533636661",
+    "utc_offset": -240,
+    "vicinity": "109 East 100th Street APT 1C, New York"
+}

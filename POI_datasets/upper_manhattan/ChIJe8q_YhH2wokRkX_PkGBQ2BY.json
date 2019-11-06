@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "1964",
+            "short_name": "1964",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adam Clayton Powell Junior Boulevard",
+            "short_name": "Adam Clayton Powell Jr Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "1726",
+            "short_name": "1726",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1964 Adam Clayton Powell Jr Blvd</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-1726</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1964 Adam Clayton Powell Jr Blvd, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8048165,
+            "lng": -73.9515126
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80617598029149,
+                "lng": -73.9501874197085
+            },
+            "southwest": {
+                "lat": 40.80347801970849,
+                "lng": -73.9528853802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b8c31c25d87a36fa883eec1e622ac9c47c956587",
+    "name": "Unified Reformist Democratic",
+    "place_id": "ChIJe8q_YhH2wokRkX_PkGBQ2BY",
+    "plus_code": {
+        "compound_code": "R23X+W9 New York, United States",
+        "global_code": "87G8R23X+W9"
+    },
+    "reference": "ChIJe8q_YhH2wokRkX_PkGBQ2BY",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1646154039480516497",
+    "utc_offset": -240,
+    "vicinity": "1964 Adam Clayton Powell Junior Boulevard, New York"
+}

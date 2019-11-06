@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Lenox Avenue",
+            "short_name": "Lenox Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "Lenox Ave, New York, NY 10026, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7991354,
+            "lng": -73.9517272
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.80048438029149,
+                "lng": -73.9503781697085
+            },
+            "southwest": {
+                "lat": 40.79778641970849,
+                "lng": -73.9530761302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "08456d0087119cd147dd75feb20e4a4156de7336",
+    "name": "Lenox Avenue",
+    "place_id": "ChIJjyYdbBr2wokRTVxJhrVJAg4",
+    "reference": "ChIJjyYdbBr2wokRTVxJhrVJAg4",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Lenox+Ave,+New+York,+NY+10026,+USA&ftid=0x89c2f61a6c1d268f:0xe0249b586495c4d",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

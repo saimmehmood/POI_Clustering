@@ -1,0 +1,146 @@
+{
+    "address_components": [
+        {
+            "long_name": "66",
+            "short_name": "66",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Green Street",
+            "short_name": "Green St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "66 Green St, Brooklyn, NY 11222, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.733104,
+            "lng": -73.959279
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.73456218029149,
+                "lng": -73.9579473197085
+            },
+            "southwest": {
+                "lat": 40.7318642197085,
+                "lng": -73.9606452802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1982847adf4412db816ce3d9b793191665c388f9",
+    "name": "Erick Gorgeous",
+    "place_id": "ChIJ6VzIzlRYwokRMXWQoDt_Asg",
+    "plus_code": {
+        "compound_code": "P2MR+67 Brooklyn, New York, United States",
+        "global_code": "87G8P2MR+67"
+    },
+    "rating": 5,
+    "reference": "ChIJ6VzIzlRYwokRMXWQoDt_Asg",
+    "reviews": [
+        {
+            "author_name": "Clari Perez",
+            "author_url": "https://www.google.com/maps/contrib/101109993430007715157/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1CKXoBSLF9Y/AAAAAAAAAAI/AAAAAAAAANY/QUuKHpiAY44/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Cool ",
+            "time": 1513271579
+        },
+        {
+            "author_name": "Vevo",
+            "author_url": "https://www.google.com/maps/contrib/109327562530647715519/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kn3U5J17C7k/AAAAAAAAAAI/AAAAAAAAAAc/D4bSPMefZbg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing!",
+            "time": 1513207472
+        },
+        {
+            "author_name": "Janix Mendez",
+            "author_url": "https://www.google.com/maps/contrib/110922318053236716640/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-vhAIEljOY74/AAAAAAAAAAI/AAAAAAAAAq0/KD8cx8uKsa8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1550004907
+        },
+        {
+            "author_name": "erick morera",
+            "author_url": "https://www.google.com/maps/contrib/109860033132914342384/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-66u7RUFcCIk/AAAAAAAAAAI/AAAAAAAAABI/DaiNqrfWqcY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1513208567
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14412221651612628273",
+    "user_ratings_total": 4,
+    "utc_offset": -240,
+    "vicinity": "66 Green Street, Brooklyn"
+}

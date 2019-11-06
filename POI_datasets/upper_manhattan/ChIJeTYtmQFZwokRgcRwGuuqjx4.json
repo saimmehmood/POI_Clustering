@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "# 3500",
+            "short_name": "# 3500",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "330",
+            "short_name": "330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Madison Avenue",
+            "short_name": "Madison Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10017",
+            "short_name": "10017",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5001",
+            "short_name": "5001",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Madison Ave # 3500</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017-5001</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "330 Madison Ave # 3500, New York, NY 10017, USA",
+    "formatted_phone_number": "(212) 557-7700",
+    "geometry": {
+        "location": {
+            "lat": 40.75315459999999,
+            "lng": -73.9793758
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75443953029149,
+                "lng": -73.97788896970849
+            },
+            "southwest": {
+                "lat": 40.7517415697085,
+                "lng": -73.9805869302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "22f96414c93ee42c377fdbcc1345743a6a84dc77",
+    "international_phone_number": "+1 212-557-7700",
+    "name": "Geist Carol Berg",
+    "place_id": "ChIJeTYtmQFZwokRgcRwGuuqjx4",
+    "plus_code": {
+        "compound_code": "Q23C+76 New York, United States",
+        "global_code": "87G8Q23C+76"
+    },
+    "reference": "ChIJeTYtmQFZwokRgcRwGuuqjx4",
+    "scope": "GOOGLE",
+    "types": [
+        "lawyer",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2202166669545096321",
+    "utc_offset": -240,
+    "vicinity": "330 Madison Avenue # 3500, New York"
+}

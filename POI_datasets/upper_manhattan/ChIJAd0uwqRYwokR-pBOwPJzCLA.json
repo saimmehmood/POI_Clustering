@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "New York, NY 10128, USA",
+    "formatted_phone_number": "(212) 996-1319",
+    "geometry": {
+        "location": {
+            "lat": 40.7814468,
+            "lng": -73.9514236
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7826640802915,
+                "lng": -73.95017341970849
+            },
+            "southwest": {
+                "lat": 40.7799661197085,
+                "lng": -73.9528713802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8f71847a8204d7f878e316c3c3bf1dd508a578e3",
+    "international_phone_number": "+1 212-996-1319",
+    "name": "Eileen R. Horn, LCSW",
+    "place_id": "ChIJAd0uwqRYwokR-pBOwPJzCLA",
+    "plus_code": {
+        "compound_code": "Q2JX+HC New York, United States",
+        "global_code": "87G8Q2JX+HC"
+    },
+    "reference": "ChIJAd0uwqRYwokR-pBOwPJzCLA",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12684515836934656250",
+    "utc_offset": -240,
+    "vicinity": "New York"
+}

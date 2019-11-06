@@ -1,0 +1,269 @@
+{
+    "address_components": [
+        {
+            "long_name": "3515",
+            "short_name": "3515",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3515 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "3515 Broadway, New York, NY 10031, USA",
+    "formatted_phone_number": "(212) 690-5310",
+    "geometry": {
+        "location": {
+            "lat": 40.825795,
+            "lng": -73.951403
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8270873302915,
+                "lng": -73.9499196197085
+            },
+            "southwest": {
+                "lat": 40.8243893697085,
+                "lng": -73.95261758029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "b9a4f081debf484e61493e935be911d73cc7e154",
+    "international_phone_number": "+1 212-690-5310",
+    "name": "Chase Bank",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1266,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112254112505896982829/photos\">Chase Bank</a>"
+            ],
+            "photo_reference": "CmRaAAAAoDabCZ5vPv6B52x_y-SRpYJekgtk5e46QBUlkzsUOUIh9RaEnaCmuDjqyeDThD8GRWWdSuYFx0WeFBIbuAZllJcvjQYOKAqOselOHXSGKElN0er5xksVgJFnTOK4d2FjEhDVpM22LfODmUoApd4wsU36GhQ6NETWPbAyRwbLs0zRMywF7_X9Tg",
+            "width": 1900
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103057848880958808266/photos\">Eve c</a>"
+            ],
+            "photo_reference": "CmRaAAAAIpcb8Ekv4oCfqXemcmnbzfzBsNi8LSXXTaflRSVooG-aODc8suyKZhym_Jk43NGN0AsAsuyWmfnkn-LAADq54-LOFb59FXJbxwUTRYIdYXuBnh11HslC9HEkSZL8bv4SEhBbdMQ5Qc2zF6QrNLaElVyXGhQ8-gGBzsf1swwp2AIs5HP3tneVZg",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103057848880958808266/photos\">Eve c</a>"
+            ],
+            "photo_reference": "CmRaAAAAEsT9xS40-HxkM17Ogsd0dWHz-PItS1x1RHrzQ7qOo6Qnbmenh6WEPdyOquHW1dul3zWjHRq256_rLoOoggatfUa8vpnfNj5pEfi8-zEDt2UDg6tyk63kHmgc4k3KSGMSEhBOa4SBwMuWky-fNqxNEizvGhSggAIPetvEvGbIIH4byi0cxHaduw",
+            "width": 2448
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112254112505896982829/photos\">Chase Bank</a>"
+            ],
+            "photo_reference": "CmRaAAAAXl9K7Engwc4ROk_VH1PJ4ndSWOZtLIlE_J6CZg-Ln_Ow3kcrb9ceSStE_PK8dluxA0LIzRXJU8-Z05Mqj99imjv5IzAeEYB__5jYOX_OAeIFee8BD7jc5z0ivuG3YRGcEhDrSK6AQ7KrdeYzXlJjCiH2GhQpIUYFF_im6CFvWhzPrby-n3xubA",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJH0Wik2P2wokReaoLiZuVxiE",
+    "plus_code": {
+        "compound_code": "R2GX+8C New York, United States",
+        "global_code": "87G8R2GX+8C"
+    },
+    "rating": 2.1,
+    "reference": "ChIJH0Wik2P2wokReaoLiZuVxiE",
+    "reviews": [
+        {
+            "author_name": "Ziomara Velazquez",
+            "author_url": "https://www.google.com/maps/contrib/104777224178294542910/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-lO8hJfyPROk/AAAAAAAAAAI/AAAAAAAAGEo/hBg1WmSRMzI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "The wait to see a banker might be slightly long at times, but the banker we deal with is worth the wait. He's extreamly thorough and very curtious. He tends to our every banking need and makes sure to thoroughly explain and answer any questions we have! Excellent service!!",
+            "time": 1539021331
+        },
+        {
+            "author_name": "Tanesha Gooding",
+            "author_url": "https://www.google.com/maps/contrib/112628974991825341431/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-l41wwwyubGg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3retMUYXiCoz4T-P66QwVCFmKhUlag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "This Chase is the absolute WORST!!!! The customer service here sucks and the bankers are rude and not very helpful. I came into this branch to open an account for my daughter. I sat and waited 1hr 1/2 before being called. Once I was called the banker proceeded to tell me I couldnt not open my daughters account because I didnt have my green card with me even though I was already a customer of Chase and I've been with them for years. She even mentioned if I called the 1800 number they would tell me the same thing. So I went ahead and called and the reps there told me that is not one of their policies and they weren't aware of this. I then went back to the banker and explained to her what was told to me. She continued to insist that the reps at the 1800 number dont know what they are talking about and she cannot open the account. I no longer felt like fighting with them so I said ok and left.  Today I went to Chase on 55th St and 8th Ave and the banker there opened the account with no issues not once was I asked for my green card. They Staff at 55th and 8th Ave are very pleasant and patient. So thank you to the Chase  staff at 55th and 8th. I would never step foot in Chase at 144th and Broadway again even though it's a few blocks away from my house. They refuse to help the customers especially if it's near time to closing even if you were in the branch way before closing time. It's always long lines and they move like snails in peanut butter.",
+            "time": 1542816708
+        },
+        {
+            "author_name": "Maritza Melendrez",
+            "author_url": "https://www.google.com/maps/contrib/107820297904151217259/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-c0Ac29gjq08/AAAAAAAAAAI/AAAAAAAAAgg/hg3rG-SZX2M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "I go to this bank because it's close to my home.  I will say the staff is friendly but has no sense of organization and order.  They have a list that you must sign to see a banker but totally disregard it.  They will service a familiar face instead of honoring the sign in sheet that they themselves have placed.  It is very rude and disrespectful. I suggest that the branch manager give a class on customer service skills and the importance of honoring rules and regulations.",
+            "time": 1480427100
+        },
+        {
+            "author_name": "ccny lax",
+            "author_url": "https://www.google.com/maps/contrib/103197358662946315159/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-A74NCbDnHyo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfzHCs3_f4jWsD8YFdgDH6NZ8GPvw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Lost my wallet with cards and ID, the manager at this bank refused to verify me, when I told her the chase down the block let me take out money by verifying me she told me to go there and when she realized I was right she sent me upstairs to wait to be verified and never came. Won't go back until there is a new manager, very unprofessional when I was more than polite.",
+            "time": 1482441869
+        },
+        {
+            "author_name": "Manny V",
+            "author_url": "https://www.google.com/maps/contrib/107502580386499582019/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-TSKlzFw9JX4/AAAAAAAAAAI/AAAAAAAAAXY/AWXnWIL0InY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Nobody trained the unrepentantly unhelpful employees at this location that you shouldn't judge a book by its cover. I go into the branch wearing sweatpants and hardly get acknowledged. I'll be ending my banking relationship with these insufferably inattentive people.",
+            "time": 1501623088
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2433797143892044409",
+    "user_ratings_total": 23,
+    "utc_offset": -240,
+    "vicinity": "3515 Broadway, New York",
+    "website": "https://locator.chase.com/ny/new-york/3515-broadway?jp_cmp=rb/LocalListings/aff/branch/na"
+}

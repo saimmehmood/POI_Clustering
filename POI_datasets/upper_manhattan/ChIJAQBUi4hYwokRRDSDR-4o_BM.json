@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "223",
+            "short_name": "223",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 78th Street",
+            "short_name": "W 78th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10032",
+            "short_name": "10032",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">223 W 78th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10032</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "223 W 78th St, New York, NY 10032, USA",
+    "formatted_phone_number": "(844) 903-6333",
+    "geometry": {
+        "location": {
+            "lat": 40.7830485,
+            "lng": -73.9797201
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7843193802915,
+                "lng": -73.9784285697085
+            },
+            "southwest": {
+                "lat": 40.7816214197085,
+                "lng": -73.9811265302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f55b38313d0fa08cd14dd653ff5cccfbc2572d35",
+    "international_phone_number": "+1 844-903-6333",
+    "name": "Office setup",
+    "place_id": "ChIJAQBUi4hYwokRRDSDR-4o_BM",
+    "plus_code": {
+        "compound_code": "Q2MC+64 New York, United States",
+        "global_code": "87G8Q2MC+64"
+    },
+    "reference": "ChIJAQBUi4hYwokRRDSDR-4o_BM",
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1440070984718824516",
+    "utc_offset": -240,
+    "vicinity": "223 West 78th Street, New York",
+    "website": "http://officesetup-install.com/"
+}

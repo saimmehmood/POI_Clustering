@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1330",
+            "short_name": "1330",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Park Avenue",
+            "short_name": "Park Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10019",
+            "short_name": "10019",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1330 Park Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1330 Park Ave, New York, NY 10019, USA",
+    "formatted_phone_number": "(347) 674-4909",
+    "geometry": {
+        "location": {
+            "lat": 40.7896867,
+            "lng": -73.95086239999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.79096573029149,
+                "lng": -73.94934571970849
+            },
+            "southwest": {
+                "lat": 40.7882677697085,
+                "lng": -73.95204368029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d53b1bb49394d8f73235775fcc559783041d9679",
+    "international_phone_number": "+1 347-674-4909",
+    "name": "seaguesthotelvillas",
+    "place_id": "ChIJY_kneadYwokRughiXj0XO7o",
+    "plus_code": {
+        "compound_code": "Q2QX+VM New York, United States",
+        "global_code": "87G8Q2QX+VM"
+    },
+    "reference": "ChIJY_kneadYwokRughiXj0XO7o",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13419345067024451770",
+    "utc_offset": -240,
+    "vicinity": "1330 Park Avenue, New York"
+}

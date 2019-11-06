@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "137",
+            "short_name": "137",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2532",
+            "short_name": "2532",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">137 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2532</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "137 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 222-2507",
+    "geometry": {
+        "location": {
+            "lat": 40.80295,
+            "lng": -73.951155
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8041863302915,
+                "lng": -73.94988931970849
+            },
+            "southwest": {
+                "lat": 40.8014883697085,
+                "lng": -73.9525872802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "90c727268667bc035607e1fde01db64b065a26d7",
+    "international_phone_number": "+1 212-222-2507",
+    "name": "Doreatha Beauty Salon",
+    "place_id": "ChIJf_pXBBH2wokRK9c2QXtJ920",
+    "plus_code": {
+        "compound_code": "R23X+5G New York, United States",
+        "global_code": "87G8R23X+5G"
+    },
+    "reference": "ChIJf_pXBBH2wokRK9c2QXtJ920",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7923882863105595179",
+    "utc_offset": -240,
+    "vicinity": "137 West 116th Street, New York"
+}

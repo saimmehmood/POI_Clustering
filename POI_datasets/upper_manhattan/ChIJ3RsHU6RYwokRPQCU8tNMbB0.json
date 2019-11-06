@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "1651",
+            "short_name": "1651",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10128",
+            "short_name": "10128",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3679",
+            "short_name": "3679",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1651 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10128-3679</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1651 3rd Ave, New York, NY 10128, USA",
+    "formatted_phone_number": "(347) 668-4987",
+    "geometry": {
+        "location": {
+            "lat": 40.7828033,
+            "lng": -73.95072329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7842089302915,
+                "lng": -73.9495100197085
+            },
+            "southwest": {
+                "lat": 40.7815109697085,
+                "lng": -73.9522079802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "10365918befae798661be6622576b99a2aa19e3b",
+    "international_phone_number": "+1 347-668-4987",
+    "name": "Eugene J. Flynn, LCSW",
+    "place_id": "ChIJ3RsHU6RYwokRPQCU8tNMbB0",
+    "plus_code": {
+        "compound_code": "Q2MX+4P New York, United States",
+        "global_code": "87G8Q2MX+4P"
+    },
+    "reference": "ChIJ3RsHU6RYwokRPQCU8tNMbB0",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2120153997776257085",
+    "utc_offset": -240,
+    "vicinity": "1651 3rd Avenue, New York"
+}

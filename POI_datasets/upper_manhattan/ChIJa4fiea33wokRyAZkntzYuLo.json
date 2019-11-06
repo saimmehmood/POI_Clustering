@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 209",
+            "short_name": "Suite 209",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "One",
+            "short_name": "One",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "Marine Plaza",
+            "short_name": "Marine Plaza",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "North Bergen",
+            "short_name": "North Bergen",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Hudson County",
+            "short_name": "Hudson County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07047",
+            "short_name": "07047",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"extended-address\">One</span>, <span class=\"street-address\">Marine Plaza Suite 209</span>, <span class=\"locality\">North Bergen</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07047</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "One, Marine Plaza Suite 209, North Bergen, NJ 07047, USA",
+    "formatted_phone_number": "(201) 755-7344",
+    "geometry": {
+        "location": {
+            "lat": 40.8053731,
+            "lng": -74.0241367
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8066574802915,
+                "lng": -74.02283191970851
+            },
+            "southwest": {
+                "lat": 40.8039595197085,
+                "lng": -74.02552988029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d832c61b44662d2553d1ff1766d2e5ebc1d5c531",
+    "international_phone_number": "+1 201-755-7344",
+    "name": "http://www.casamare.us",
+    "place_id": "ChIJa4fiea33wokRyAZkntzYuLo",
+    "plus_code": {
+        "compound_code": "RX4G+48 North Bergen, New Jersey, United States",
+        "global_code": "87G7RX4G+48"
+    },
+    "reference": "ChIJa4fiea33wokRyAZkntzYuLo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13454742328831117000",
+    "utc_offset": -240,
+    "vicinity": "One, Marine Plaza Suite 209, North Bergen",
+    "website": "http://www.casamare.us/"
+}

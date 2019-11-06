@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "598-510",
+            "short_name": "598-510",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 143rd Street",
+            "short_name": "W 143rd St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">598-510 W 143rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10031</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "598-510 W 143rd St, New York, NY 10031, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8247821,
+            "lng": -73.95052199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8261311302915,
+                "lng": -73.94900759999999
+            },
+            "southwest": {
+                "lat": 40.8234331697085,
+                "lng": -73.95203640000001
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "15a307cec6e6a220daf9a39c0256cc077793c6e0",
+    "name": "598-510 W 143rd St",
+    "place_id": "ChIJF_Ujf2P2wokRj4ghbiwh1Eg",
+    "reference": "ChIJF_Ujf2P2wokRj4ghbiwh1Eg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=598-510+W+143rd+St,+New+York,+NY+10031,+USA&ftid=0x89c2f6637f23f517:0x48d4212c6e21888f",
+    "utc_offset": -240,
+    "vicinity": "Manhattan"
+}

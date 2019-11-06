@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "1044",
+            "short_name": "1044",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1-50",
+            "short_name": "1-50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "50th Avenue",
+            "short_name": "50th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-50 50th Ave #1044</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-50 50th Ave #1044, Long Island City, NY 11101, USA",
+    "formatted_phone_number": "(718) 706-8466",
+    "geometry": {
+        "location": {
+            "lat": 40.7432785,
+            "lng": -73.9590347
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7448189802915,
+                "lng": -73.95762091970849
+            },
+            "southwest": {
+                "lat": 40.7421210197085,
+                "lng": -73.9603188802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "677fbd741dece7b2f433a0db8a5c43422d413e1c",
+    "international_phone_number": "+1 718-706-8466",
+    "name": "United Stages Inc.",
+    "place_id": "ChIJVVUVmSJZwokR6dXq5DOZjfQ",
+    "plus_code": {
+        "compound_code": "P2VR+89 New York, United States",
+        "global_code": "87G8P2VR+89"
+    },
+    "reference": "ChIJVVUVmSJZwokR6dXq5DOZjfQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17621909365133596137",
+    "utc_offset": -240,
+    "vicinity": "1-50 50th Avenue #1044, Long Island City",
+    "website": "http://unitedstagesplaybills.com/"
+}

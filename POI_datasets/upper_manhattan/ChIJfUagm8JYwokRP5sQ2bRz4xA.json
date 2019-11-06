@@ -1,0 +1,193 @@
+{
+    "address_components": [
+        {
+            "long_name": "402",
+            "short_name": "402",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "East 65th Street",
+            "short_name": "E 65th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10065",
+            "short_name": "10065",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">402 E 65th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10065</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "402 E 65th St, New York, NY 10065, USA",
+    "formatted_phone_number": "(212) 744-0588",
+    "geometry": {
+        "location": {
+            "lat": 40.7631007,
+            "lng": -73.95895639999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.76450588029149,
+                "lng": -73.95756601970848
+            },
+            "southwest": {
+                "lat": 40.7618079197085,
+                "lng": -73.9602639802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f910568f9027b570d0c96a3f5e7146a7359d5881",
+    "international_phone_number": "+1 212-744-0588",
+    "name": "Foxman Michael K DDS",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 6:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:30 AM \u2013 6:00 PM",
+            "Thursday: 9:30 AM \u2013 6:00 PM",
+            "Friday: 9:30 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJfUagm8JYwokRP5sQ2bRz4xA",
+    "plus_code": {
+        "compound_code": "Q27R+6C New York, United States",
+        "global_code": "87G8Q27R+6C"
+    },
+    "rating": 5,
+    "reference": "ChIJfUagm8JYwokRP5sQ2bRz4xA",
+    "reviews": [
+        {
+            "author_name": "Bojana Tomic",
+            "author_url": "https://www.google.com/maps/contrib/117506698913436326239/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UYRDlIzxiZs/AAAAAAAAAAI/AAAAAAAAABQ/xhHSu0NiAaE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "My absolutely favorite dentist! Dr. Foxman is very honest, professional and knowledgeable about what he is doing! Staff is very friendly and helful. Doctor likes to tell jokes which makes atmosphere pleasant!\nLove coming back for checkups! I recommend this office to everyone!",
+            "time": 1545674156
+        },
+        {
+            "author_name": "Akina Nolan",
+            "author_url": "https://www.google.com/maps/contrib/105915960349593984919/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-R3QqPlJMu28/AAAAAAAAAAI/AAAAAAAAAAc/zLEnRFJz95M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Wonderful customer service from the receptionist to Dr.Foxman himself. 10/10 would recommend!",
+            "time": 1498312556
+        },
+        {
+            "author_name": "Josh Ringel",
+            "author_url": "https://www.google.com/maps/contrib/103812493153590012513/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HfJuScCtL0Q/AAAAAAAAAAI/AAAAAAAAMak/UXvSyv2gpUM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best dentist. Very personal service ",
+            "time": 1453438161
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1216943544893217599",
+    "user_ratings_total": 3,
+    "utc_offset": -240,
+    "vicinity": "402 East 65th Street, New York"
+}

@@ -1,0 +1,125 @@
+{
+    "address_components": [
+        {
+            "long_name": "352",
+            "short_name": "352",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Riverside Drive",
+            "short_name": "Riverside Dr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10025",
+            "short_name": "10025",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2731",
+            "short_name": "2731",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">352 Riverside Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-2731</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "352 Riverside Dr, New York, NY 10025, USA",
+    "formatted_phone_number": "(212) 316-0393",
+    "geometry": {
+        "location": {
+            "lat": 40.8031099,
+            "lng": -73.969117
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8045108302915,
+                "lng": -73.9678963697085
+            },
+            "southwest": {
+                "lat": 40.8018128697085,
+                "lng": -73.9705943302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a8314863819f9494f255981b1a3d9a454c3a1f9d",
+    "international_phone_number": "+1 212-316-0393",
+    "name": "Rogers Holdings",
+    "place_id": "ChIJPzL0zzr2wokRFWI5LQQdHPQ",
+    "plus_code": {
+        "compound_code": "R23J+69 New York, United States",
+        "global_code": "87G8R23J+69"
+    },
+    "rating": 3,
+    "reference": "ChIJPzL0zzr2wokRFWI5LQQdHPQ",
+    "reviews": [
+        {
+            "author_name": "John Goberman",
+            "author_url": "https://www.google.com/maps/contrib/101844885735766870273/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-vdD0k-mDB1w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdxbCqP3T1Fblk890y9bvtn7dLl0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1475794133
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17589966148378124821",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "352 Riverside Drive, New York",
+    "website": "http://www.jimrogers.com/"
+}

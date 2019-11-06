@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "115",
+            "short_name": "115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 116th Street",
+            "short_name": "W 116th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10026",
+            "short_name": "10026",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "2676",
+            "short_name": "2676",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">115 W 116th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10026-2676</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "115 W 116th St, New York, NY 10026, USA",
+    "formatted_phone_number": "(212) 961-5736",
+    "geometry": {
+        "location": {
+            "lat": 40.8025601,
+            "lng": -73.9502641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8038011302915,
+                "lng": -73.9489949197085
+            },
+            "southwest": {
+                "lat": 40.8011031697085,
+                "lng": -73.95169288029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "46c2d3b6c7f47fb2eec5dadd267169d7a3e6d820",
+    "international_phone_number": "+1 212-961-5736",
+    "name": "Lynda J. Felder, SLP",
+    "place_id": "ChIJf26wqxH2wokRCk6xZNL-vKU",
+    "plus_code": {
+        "compound_code": "R23X+2V New York, United States",
+        "global_code": "87G8R23X+2V"
+    },
+    "reference": "ChIJf26wqxH2wokRCk6xZNL-vKU",
+    "scope": "GOOGLE",
+    "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11942700491465641482",
+    "utc_offset": -240,
+    "vicinity": "115 West 116th Street, New York"
+}

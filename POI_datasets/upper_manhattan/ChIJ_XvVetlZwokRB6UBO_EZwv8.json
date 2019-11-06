@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "1-50",
+            "short_name": "1-50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "50th Avenue",
+            "short_name": "50th Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Long Island City",
+            "short_name": "LIC",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11101",
+            "short_name": "11101",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1-50 50th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1-50 50th Ave, Long Island City, NY 11101, USA",
+    "formatted_phone_number": "(877) 768-2265",
+    "geometry": {
+        "location": {
+            "lat": 40.7432785,
+            "lng": -73.9590348
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74481898029151,
+                "lng": -73.95762101970848
+            },
+            "southwest": {
+                "lat": 40.74212101970851,
+                "lng": -73.96031898029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "3f8d26b3011e48c31514cd51a52a141f764974ac",
+    "international_phone_number": "+1 877-768-2265",
+    "name": "Santander Bank ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 8:00 AM \u2013 9:00 PM",
+            "Sunday: 8:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2326,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100056483391742299144/photos\">Santander Bank ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAAPiBtPDJI9SaRLHGl8xI8asD3x1cUQz7cjMUHM3g_oWbYrkQinmCWcTTZuDgh4m32zgHG9qe9KljK6orSVNQ2WCWX20CEulcmmSlYn61mC5CIouqbpoIt6QwKwF-P-CDGEhC8g1ZkqmOFlIpwPDlUxLMdGhSqYrHwkmzxF9mO57NaUQ6URsptGg",
+            "width": 2326
+        }
+    ],
+    "place_id": "ChIJ_XvVetlZwokRB6UBO_EZwv8",
+    "plus_code": {
+        "compound_code": "P2VR+89 Long Island City, Queens, NY, United States",
+        "global_code": "87G8P2VR+89"
+    },
+    "reference": "ChIJ_XvVetlZwokRB6UBO_EZwv8",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "insurance_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18429321149021267207",
+    "utc_offset": -240,
+    "vicinity": "1-50 50th Avenue, Long Island City",
+    "website": "https://locations.santanderbank.com/ny/long-island-city/1-50-50th-ave.html?utm_source=Yext&utm_medium=Local&utm_content=297832&utm_campaign=URL"
+}

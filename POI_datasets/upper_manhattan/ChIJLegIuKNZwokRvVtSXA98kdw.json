@@ -1,0 +1,183 @@
+{
+    "address_components": [
+        {
+            "long_name": "1115",
+            "short_name": "1115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1115 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1115 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(646) 481-5228",
+    "geometry": {
+        "location": {
+            "lat": 40.7429677,
+            "lng": -73.9892584
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7443134302915,
+                "lng": -73.9878760197085
+            },
+            "southwest": {
+                "lat": 40.7416154697085,
+                "lng": -73.99057398029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d03bb1551826ae62018673a05e8ec73d641a783a",
+    "international_phone_number": "+1 646-481-5228",
+    "name": "Art Therapy & Psychotherapy in NYC",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 534,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116781939798124785403/photos\">Art Therapy &amp; Psychotherapy in NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAQcapD-S8pgnyGI7rGt2ANVfsfSVDZLZzVjmCJbbxib7Wn01ekNZVGKkyScp2XLrC0EbTAYXE6fx5VDNHPJEV0N1apX0DSQwSYHZNkK2hToqnORiG_21UoinooaQz3d5YEhArPPSMOraKcoLzW2UmS3JuGhTvwBhJFejKuhUQ5y4Qp4yvyexMzQ",
+            "width": 800
+        },
+        {
+            "height": 1201,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116781939798124785403/photos\">Art Therapy &amp; Psychotherapy in NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAFPHn0kkCL9JPE3kNg2Vj3HC4q6eIyRagXrfrZReZt5oRnEkc22D_LWd12ZLZk-J29nyLgibXuWHaGq9_KCrypS7Nq4ZLP9Arubw-i-gUQ-pcYqUhitcbQctxwxmE_FBCEhDV12wQA32LcUv9-w1qu6HPGhT6Z1Wm3zG-32FaZhkKVVHM7VwmSA",
+            "width": 2000
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116781939798124785403/photos\">Art Therapy &amp; Psychotherapy in NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAA5rQQ6OI7xCn3s0Pes1knzJ67yjLan0lyM6yAAfVS2byZzTPj5wYWFcV5qKLdruCOJiLj8KDmYjv6O2vsafzT_BbnIfH59qkhZLL-Ixa21FzTCEvVc1o_27IGIE6rgHCtEhAP9dX9lfW54oyVE6fq0NVxGhQLQo21j1r22dPPUU5ulaX524b6PA",
+            "width": 800
+        },
+        {
+            "height": 404,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116781939798124785403/photos\">Art Therapy &amp; Psychotherapy in NYC</a>"
+            ],
+            "photo_reference": "CmRaAAAAwHLX_PvGoiBi5gUmHM9d6F9uTvF1uCqEl3NW7eYAxZOZPMSkfM4Z5zgLdMnpfZ6upZtlgMEqmJs91wZsPZlioSFgvW0YnspuXjS1PmoGHLmLzSRxCmNxCI4tRXerX4cNEhDocWGZpyB9FjcrA8hFnNqSGhQJfzM12rn-XgTDBJYC6WuFRfTerw",
+            "width": 405
+        }
+    ],
+    "place_id": "ChIJLegIuKNZwokRvVtSXA98kdw",
+    "plus_code": {
+        "compound_code": "P2V6+57 New York, United States",
+        "global_code": "87G8P2V6+57"
+    },
+    "reference": "ChIJLegIuKNZwokRvVtSXA98kdw",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15893620965382446013",
+    "utc_offset": -240,
+    "vicinity": "1115 Broadway, New York",
+    "website": "https://artpsychotherapynyc.com/"
+}

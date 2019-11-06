@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "West Street",
+            "short_name": "West St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Brooklyn Navy Yard",
+            "short_name": "Brooklyn Navy Yard",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">West St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "West St, Brooklyn, NY 11201, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.70345349999999,
+            "lng": -73.9796738
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.70479628029149,
+                "lng": -73.9782277197085
+            },
+            "southwest": {
+                "lat": 40.70209831970849,
+                "lng": -73.9809256802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d539a48c4978f2df14ea4c5367715f78ae780b4c",
+    "name": "West Street",
+    "place_id": "ChIJQwimpc1bwokRjnuX1ipJGio",
+    "reference": "ChIJQwimpc1bwokRjnuX1ipJGio",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=West+St,+Brooklyn,+NY+11201,+USA&ftid=0x89c25bcda5a60843:0x2a1a492ad6977b8e",
+    "utc_offset": -240,
+    "vicinity": "Brooklyn"
+}

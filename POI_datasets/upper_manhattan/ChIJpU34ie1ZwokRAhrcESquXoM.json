@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "176",
+            "short_name": "176",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West Street",
+            "short_name": "West St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Greenpoint",
+            "short_name": "Greenpoint",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11222",
+            "short_name": "11222",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">176 West St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "176 West St, Brooklyn, NY 11222, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.7330768,
+            "lng": -73.9596128
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7344180302915,
+                "lng": -73.9583525697085
+            },
+            "southwest": {
+                "lat": 40.7317200697085,
+                "lng": -73.9610505302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "30c6ae0080519a9fbeb0883933a1a3c19588d088",
+    "name": "Gem Mechanical Llc",
+    "place_id": "ChIJpU34ie1ZwokRAhrcESquXoM",
+    "plus_code": {
+        "compound_code": "P2MR+65 New York, United States",
+        "global_code": "87G8P2MR+65"
+    },
+    "reference": "ChIJpU34ie1ZwokRAhrcESquXoM",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9466194962490857986",
+    "utc_offset": -240,
+    "vicinity": "176 West Street, Brooklyn"
+}

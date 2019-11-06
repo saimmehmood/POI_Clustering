@@ -1,0 +1,87 @@
+{
+    "address_components": [
+        {
+            "long_name": "371-367",
+            "short_name": "371-367",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "South Bergen Boulevard",
+            "short_name": "NJ-63",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Fairview",
+            "short_name": "Fairview",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Bergen County",
+            "short_name": "Bergen County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New Jersey",
+            "short_name": "NJ",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "07022",
+            "short_name": "07022",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">371-367 NJ-63</span>, <span class=\"locality\">Fairview</span>, <span class=\"region\">NJ</span> <span class=\"postal-code\">07022</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "371-367 NJ-63, Fairview, NJ 07022, USA",
+    "geometry": {
+        "location": {
+            "lat": 40.8224147,
+            "lng": -73.9988264
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8237636802915,
+                "lng": -73.99747736970849
+            },
+            "southwest": {
+                "lat": 40.8210657197085,
+                "lng": -74.0001753302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f4b88e8e43439a0da0995065ed8417b86464c6d0",
+    "name": "371-367 NJ-63",
+    "place_id": "ChIJ07wExLv3wokRGKXj_bYZAMM",
+    "reference": "ChIJ07wExLv3wokRGKXj_bYZAMM",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=371-367+NJ-63,+Fairview,+NJ+07022,+USA&ftid=0x89c2f7bbc404bcd3:0xc30019b6fde3a518",
+    "utc_offset": -240,
+    "vicinity": "Fairview"
+}

@@ -1,0 +1,404 @@
+{
+    "address_components": [
+        {
+            "long_name": "225",
+            "short_name": "225",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "South 1st Street",
+            "short_name": "S 1st St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Williamsburg",
+            "short_name": "Williamsburg",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "11211",
+            "short_name": "11211",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "4311",
+            "short_name": "4311",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">225 S 1st St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211-4311</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "225 S 1st St, Brooklyn, NY 11211, USA",
+    "formatted_phone_number": "(929) 295-0147",
+    "geometry": {
+        "location": {
+            "lat": 40.7130051,
+            "lng": -73.9589373
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.71431068029149,
+                "lng": -73.95761586970849
+            },
+            "southwest": {
+                "lat": 40.7116127197085,
+                "lng": -73.96031383029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "acc5308368961b5ec2d735f2d8fba6413a69b831",
+    "international_phone_number": "+1 929-295-0147",
+    "name": "Juanchi's Burger",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1630"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1630"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 4:00 PM, 4:30 \u2013 10:00 PM",
+            "Tuesday: 12:00 \u2013 4:00 PM, 4:30 \u2013 10:00 PM",
+            "Wednesday: 12:00 \u2013 4:00 PM, 4:30 \u2013 10:00 PM",
+            "Thursday: 12:00 \u2013 4:00 PM, 4:30 \u2013 10:00 PM",
+            "Friday: 12:00 \u2013 4:00 PM, 4:30 \u2013 11:00 PM",
+            "Saturday: 12:00 \u2013 4:00 PM, 4:30 \u2013 11:00 PM",
+            "Sunday: 12:00 \u2013 4:00 PM, 4:30 \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113934067600337025375/photos\">Porter Yates</a>"
+            ],
+            "photo_reference": "CmRaAAAA_xndW2o78_BNWfkcrBZh4IAb2rsf7flLScqnZFjsAOUgERJWeo7Z_263jWqaXV7GzO_nxdT9L82z92VjkIOw4Na4gZxbJIbpbkGnrsu8QPzUBBQXr496N5Gx49uQEOmiEhCSXuMZL83TTiWG_QHCrRNBGhRCNmJUvfnuHL3_g5CIDbcyCWePZw",
+            "width": 3024
+        },
+        {
+            "height": 1123,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105431744997684740650/photos\">Juanchi&#39;s Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAACWt_MH1PBtpTKQxQLY7mJDl1ZODN1gVG_tbfQrOwdDAjUjUm9MO0GtMkXsxeuA5jf7d1vBPu9l5Px68CXpH74aZCIO1dG3lB4gznTr-epiO6MuROqA5cUb8Azlr2GHFEhAdXDb2jrcM7KV9EMIK3YVnGhRKepCYIpQTT-FB64btBt_XwS21qg",
+            "width": 1123
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106593718054446443221/photos\">Antonio Gomez</a>"
+            ],
+            "photo_reference": "CmRaAAAAfeaQGsreM_jiT1Q80G10YubFP_meVJx6ONxmYM_PIsMA3bz_fJUQtf0C562xM_PKEVm6tjnv36sg180S3hz5mXS2Cn2KvToC3KjW0Ob5jTM8jIOUa8jUQo6acY0HH9YxEhAfeB_fZphd4Ijstg4LNSpAGhRCsVjET4QmX3sGJGQzzTzVbIBFdg",
+            "width": 4032
+        },
+        {
+            "height": 1270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105431744997684740650/photos\">Juanchi&#39;s Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAA1VsSM1nqKeEjmf6L9mb9j7_rc2yBaDfD1WYEA8WgQxhivCr6naIdCAJfDKEqM9dh-SpD3bXJfYuiFV897vlyWPG9Vau2h6NR8b9sEojKoZDwnHqVrCQOYPMbOAx51uY2EhCpclXL-Q-mp8Ze2NJ5v29qGhS4f535AK5ySrQcvUAUuzM2R-zLjg",
+            "width": 1270
+        },
+        {
+            "height": 936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105431744997684740650/photos\">Juanchi&#39;s Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAA4h28s8_Em17rNVon7wMKIOEAlmX50PlP6ZjZ3KU77ssR-PWOCR_y4VlGAkWn4UaH-w9cRG3PCnDSDeiL2fzx_OhEYIdwCVUPpDT5ohfdKuduP-h7TDum7w4Y7T4saZ91EhB2K4MbYK2VeIo4CIfWIlWiGhSlNBaxKFByhoRm6AAQ0TdQkycJzg",
+            "width": 936
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100716009984118683855/photos\">Catherine Safiejko</a>"
+            ],
+            "photo_reference": "CmRaAAAANmywiVfBc8cdvmlJckC11kBC72vT9xWwc-HRxokfYlKjvun5sauoJd4bqxDOT5UgiSZsTj7u3IBOm_nyFh_PmPz4cn6YcbKQ1947RqfyJeWaYdmvJlE3Xhh9IqVDR-ofEhDih1B2UvFQtQ0cjWtIUy4YGhS11Vhk9YYfXRI5Od6D3vZ4fi9l1Q",
+            "width": 3024
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113491407182356458442/photos\">Luciana Marins</a>"
+            ],
+            "photo_reference": "CmRaAAAAL3z3wOazzMrx-m5r75mOko1vBHuL0qI7iZiZ46lLp2KBY1u5HOLlTgBDb8TkzR-Iej8dcgE7D_pEG2IyHXBnI9PzyWyQx9qr6jPDdE_zXipUZr6vKbxNRAA2hquwjn6eEhDcZLftLWG9SOcqaRydIyvwGhR-ErDH1Xjff3m5Nqqj4x_H5fQsdg",
+            "width": 3000
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105431744997684740650/photos\">Juanchi&#39;s Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAKvn_2pNm-DPPQmdOlFbkccKovpvElkhOFy-cflR6AGnr1oQXAk2Vo_z62MX6dgIUNdXxt7hMoqfB9INKfSsufHcGdazZ8WRzrsRuYw-XwCFNqzGxepi0A5reBhqWvFvlEhDZ9-PjOOVqcxXHhKUVIMJEGhTLTUIkHy2posqDybIrT3f9kSS7hQ",
+            "width": 1280
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105431744997684740650/photos\">Juanchi&#39;s Burger</a>"
+            ],
+            "photo_reference": "CmRaAAAAcq7ZOqwS_GyldRn_2tvITytgYTPqfidqWCTZwSGm_R7gxGoq_spQS9djAa1524yNxB_w1_9cSzfG4lDXit8oUg75mdl3S55Si2W7ZxpXlV1UicXG6uHa4kmvi_86Qtn3EhATwyugh7fo08pySp43NIEIGhTFk_z1MNk0Gq1i2w6lWf68u_pofw",
+            "width": 1280
+        },
+        {
+            "height": 650,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111419326936123221540/photos\">Keith Cross</a>"
+            ],
+            "photo_reference": "CmRaAAAATSJHlayeYt550UHUx8fB6jcKgH0zugOy3nSO8agTxZsRiykhlKxHjFaBPOxKPg1OCi6jDbGioGKGuz4L11D7o81izGwuVW5DvFNa0sTWuI1aZ9m1gihwFeodXgMP12oVEhCZ3mBEH9lXgMQaHYStgVaCGhQceSiV1e7tmV-QdJ4WQdLk7P3RqQ",
+            "width": 640
+        }
+    ],
+    "place_id": "ChIJ59_K5V9ZwokRtzTMm9ONQJc",
+    "plus_code": {
+        "compound_code": "P27R+6C Brooklyn, New York, United States",
+        "global_code": "87G8P27R+6C"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ59_K5V9ZwokRtzTMm9ONQJc",
+    "reviews": [
+        {
+            "author_name": "Ask Imee",
+            "author_url": "https://www.google.com/maps/contrib/101668421025566153940/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BqWNcov5s_E/AAAAAAAAAAI/AAAAAAAADhE/UR3H4rEFQcE/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "I love this place period. I tried their sliders for 5.00 each and it was awesome! I like the rustic decor and great vibes. The server was super accommodating. Will definitely eat here again\u2764\ufe0f",
+            "time": 1562151691
+        },
+        {
+            "author_name": "Joel Simmons",
+            "author_url": "https://www.google.com/maps/contrib/100055381805027964397/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-gb_zj9d0Phw/AAAAAAAAAAI/AAAAAAAAADA/lkq5E1Uwn9w/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "This is a real solid place with good burgers. We popped in on a weekday after noon. The place is chill which is nice. I'd recommend going.",
+            "time": 1560008691
+        },
+        {
+            "author_name": "Aldo Reyes",
+            "author_url": "https://www.google.com/maps/contrib/101875875443631237037/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-REUCE43NNfQ/AAAAAAAAAAI/AAAAAAAAHlM/AmNPgB8ZkB0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This is a must go restaurant. The place embodies the energy of a bohemian meal and environment, specially if you\u2019re eating outside or by the windows. The food was great and the customer service on point\ud83d\ude42",
+            "time": 1560304272
+        },
+        {
+            "author_name": "Life Andrews",
+            "author_url": "https://www.google.com/maps/contrib/102716603916448524427/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7A4f5irMlhw/AAAAAAAAAAI/AAAAAAAAAH0/ns-O3tVGgTU/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The burger was delicious.  I went there on a cheat day of my diet. Definitely a good pick. It was so good I will be back this weekend. I'm going to try the heart attack or the burger. I cant wait. Cheated and got some school work done all at once.",
+            "time": 1561126069
+        },
+        {
+            "author_name": "ali vann",
+            "author_url": "https://www.google.com/maps/contrib/109347370803658435742/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/--SIb2iVLWHo/AAAAAAAAAAI/AAAAAAAANyw/0XeLcylQVmM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had burger to go from this place and i must say , it was very delicious.  Excellent flavors clean beef well made. And I will certainly be back for a second round.",
+            "time": 1558839720
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10898867038228067511",
+    "user_ratings_total": 302,
+    "utc_offset": -240,
+    "vicinity": "225 South 1st Street, Brooklyn",
+    "website": "http://www.juanchisburgersbk.com/"
+}

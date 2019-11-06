@@ -1,0 +1,111 @@
+{
+    "address_components": [
+        {
+            "long_name": "1115",
+            "short_name": "1115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "3452",
+            "short_name": "3452",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1115 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010-3452</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "1115 Broadway, New York, NY 10010, USA",
+    "formatted_phone_number": "(212) 979-9810",
+    "geometry": {
+        "location": {
+            "lat": 40.7429309,
+            "lng": -73.9893329
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.7442735802915,
+                "lng": -73.98791266970849
+            },
+            "southwest": {
+                "lat": 40.7415756197085,
+                "lng": -73.9906106302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "626e8c5c16ecb84fe279b1670ab58afcc1d40d81",
+    "international_phone_number": "+1 212-979-9810",
+    "name": "Eileen Haubenstock & Associates",
+    "place_id": "ChIJ3f5LXaFZwokRsOlvINnbfeo",
+    "plus_code": {
+        "compound_code": "P2V6+57 New York, United States",
+        "global_code": "87G8P2V6+57"
+    },
+    "reference": "ChIJ3f5LXaFZwokRsOlvINnbfeo",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16896903102562560432",
+    "utc_offset": -240,
+    "vicinity": "1115 Broadway, New York",
+    "website": "http://www.haubenstock.com/"
+}

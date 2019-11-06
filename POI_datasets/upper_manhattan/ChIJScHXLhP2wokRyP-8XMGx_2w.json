@@ -1,0 +1,124 @@
+{
+    "address_components": [
+        {
+            "long_name": "267",
+            "short_name": "267",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West 124th Street",
+            "short_name": "W 124th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "long_name": "5727",
+            "short_name": "5727",
+            "types": [
+                "postal_code_suffix"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">267 W 124th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027-5727</span>, <span class=\"country-name\">USA</span>",
+    "formatted_address": "267 W 124th St, New York, NY 10027, USA",
+    "formatted_phone_number": "(212) 662-8016",
+    "geometry": {
+        "location": {
+            "lat": 40.809456,
+            "lng": -73.95096699999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.8107064302915,
+                "lng": -73.94968981970848
+            },
+            "southwest": {
+                "lat": 40.8080084697085,
+                "lng": -73.95238778029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "776fa20317ba32f0bf1086892e25aed3dfe3d6de",
+    "international_phone_number": "+1 212-662-8016",
+    "name": "Soho North",
+    "place_id": "ChIJScHXLhP2wokRyP-8XMGx_2w",
+    "plus_code": {
+        "compound_code": "R25X+QJ New York, United States",
+        "global_code": "87G8R25X+QJ"
+    },
+    "rating": 5,
+    "reference": "ChIJScHXLhP2wokRyP-8XMGx_2w",
+    "reviews": [
+        {
+            "author_name": "terence davies",
+            "author_url": "https://www.google.com/maps/contrib/100017468829397083647/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-wuUEhfH-E3Q/AAAAAAAAAAI/AAAAAAAAAB4/UwIitjJAGnQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1406838270
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7854191719200128968",
+    "user_ratings_total": 1,
+    "utc_offset": -240,
+    "vicinity": "267 West 124th Street, New York"
+}
