@@ -130,7 +130,7 @@ def intermediate_model():
 
 # This function returns average of real walks.
 def average_of_cell_walks():
-    with open("..\\walks_fast.txt") as file:
+    with open("..\\walks_porto.txt") as file:
         walks = file.readlines()
 
     sum_of_walks_size = 0

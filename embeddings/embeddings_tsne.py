@@ -10,7 +10,7 @@ import numpy as np
 
 
 
-df = pd.read_csv('cells_ny.csv')
+df = pd.read_csv('cells_porto.csv')
 
 cell_names = df['cell_names']
 cell_ids = df['cell_id']

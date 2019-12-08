@@ -129,7 +129,34 @@ select cell_id, st_astext(coordinates)
 from cells_new_york 
 where cell_id = 1729
 
+-- the above query for traj_as_cells shows multiple cell_ids for trajectory self intersection
 
+--  for avoiding repetitions of grid cells which contains self intersections of a trajectory
+
+WITH t1 AS (
+  SELECT tr.traj_id, ce.cell_id,
+  ST_LineLocatePoint(
+      tr.traj_path,
+      ST_CENTROID(
+          (ST_DUMP(
+              ST_Intersection(ce.coordinates, tr.traj_path)
+          )).geom
+      )
+  ) AS distance
+  FROM cells_porto ce, porto_traj_1000 tr
+	where tr.traj_id = 860
+),
+
+t2 AS (
+  SELECT t1.traj_id, t1.cell_id,
+  COALESCE(LEAD(t1.cell_id) OVER(ORDER BY t1.traj_id, t1.distance), -1) AS next_cell_id
+  FROM t1
+)
+
+SELECT t2.traj_id, t2.cell_id
+FROM t2
+WHERE t2.cell_id <> t2.next_cell_id
+;
 
 
 

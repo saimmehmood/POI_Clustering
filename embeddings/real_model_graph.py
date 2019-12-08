@@ -5,10 +5,9 @@
 
 import numpy as np
 import pandas as pd
-import time
 from collections import defaultdict
 
-df = pd.read_csv('traj_as_cells_ny_sample_10000.csv')
+df = pd.read_csv('traj_as_cells_porto_1000.csv')
 
 traj_id = df['traj_id']
 cell_id = df['cell_id']
@@ -19,8 +18,18 @@ cell_id = df['cell_id']
 # against a single traj id i.e., the cells through
 # which trajectory has passed.
 
+
 arr = np.array(traj_id)
-output = np.unique(arr)
+
+# output = np.unique(arr)
+#
+# for i in range(len(output)):
+#     print(output[i])
+output = []
+
+for x in traj_id:
+    if x not in output:
+        output.append(x)
 
 data_dict = defaultdict(list)
 
@@ -28,13 +37,16 @@ for i in range(len(traj_id)):
 
     data_dict[int(traj_id[i])].append(int(cell_id[i]))
 
-f_walk = open("walks_fast.txt", "w")
+#print(data_dict)
+
+f_walk = open("walks_porto.txt", "w")
 
 for i in range(len(output)):
 
     if int(output[i]) in data_dict:
 
         f_walk.write(str(data_dict[int(output[i])]) + "\n")
+        print(output[i])
 
 f_walk.close()
 

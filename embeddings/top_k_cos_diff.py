@@ -5,10 +5,10 @@ import csv
 
 
 def top_k():
-    df = pd.read_csv('cos_sim.csv')
+
+    df = pd.read_csv('cos_sim_10_walks.csv')
 
     # fetching all the columns from file.
-
     diff = df['diff']
     node1 = df['node1']
     node2 = df['node2']
@@ -16,24 +16,25 @@ def top_k():
     real_cos = df['real_cos_sim']
     null_cos = df['null_cos_sim']
 
-    # f = open("real_cos.txt", "w")
+    f = open("diff_10.txt", "w")
 
-    # cleaned = []
-
-    for i in range(len(null_cos)):
-
-        if (null_cos[i] == "less"):
-            print(i)
+    cleaned = []
+    #
+    # for i in range(len(null_cos)):
+    #
+    #     if (null_cos[i] == "less"):
+    #         print(i)
 
     #     if (null_cos[i] != "less") and (null_cos[i] != "infinite"):
     #         cleaned.append(float(null_cos[i]))
 
     # start = time.time()
 
-    # for i in range(len(diff)):
-    #
-    #     if (diff[i] != "less") and (diff[i] != "infinite"):
-    #         cleaned.append(float(diff[i]))
+    for i in range(len(diff)):
+
+        if (diff[i] != "less") and (diff[i] != "infinite"):
+            cleaned.append(float(diff[i]))
+
 
     # for i in range(len(real_cos)):
     #
@@ -41,18 +42,18 @@ def top_k():
     #         cleaned.append(float(real_cos[i]))
     #
     # # reverse sorting to show the plot from highest to lowest.
-    # cleaned = sorted(cleaned, reverse=True)
+    cleaned = sorted(cleaned, reverse=True)
     #
-    # for i in range(len(cleaned)):
-    #     f.write(str(cleaned[i]) + "\n")
-    #
-    # f.close()
+    for i in range(len(cleaned)):
+        f.write(str(cleaned[i]) + "\n")
+
+    f.close()
 
 #top_k()
 
 def sample_nodes():
 
-    df_real_null = pd.read_csv("cos_sim_ten.csv")
+    df_real_null = pd.read_csv("cos_sim.csv")
 
     real_cos = df_real_null['real_cos_sim']
     node1_null = df_real_null['node1']
@@ -71,7 +72,7 @@ def sample_nodes():
 
     file_nodes.close()
 
-#sample_nodes()
+# sample_nodes()
 
 # This function creates a file
 # to store only cosine similarities
@@ -86,8 +87,8 @@ def sample_cos():
     node2 = df_nodes['node2']
 
     # reading through cosine similarity comparison between real, intermediate and null models.
-    df_null = pd.read_csv("cos_sim_ten.csv")
-    df_inter = pd.read_csv("cos_sim_ten_10.csv")
+    df_null = pd.read_csv("cos_sim.csv")
+    df_inter = pd.read_csv("cos_sim_10_walks.csv")
 
     # Taking columns from real_inter model
     # value
@@ -117,7 +118,7 @@ def sample_cos():
 
     file_plot = open("plot_nodes.csv", "w")
     file_plot.write("node1,node2,real_cos,inter_cos,null_cos\n")
-    #
+
     for i in range(len(node1)):
 
         # storing the nodes from intermediate and null cosine similarities which are part of real model.
@@ -127,7 +128,7 @@ def sample_cos():
 
 
     file_plot.close()
-#sample_cos()
+# sample_cos()
 
 # we remove the nodes that contains infinite or less values for nodes
 def clean_plots():
@@ -149,11 +150,36 @@ def clean_plots():
                 print(row)
 
             else:
-                file_clean.write(str(row).replace("[", "").replace("]", "").replace("'", "").replace(" ","") + "\n")
+                file_clean.write(str(row).replace("[", "").replace("]", "").replace("'", "").replace(" ","").replace("\"", "").replace("(","").replace(")","") + "\n")
 
     file_clean.close()
 
 #clean_plots()
+
+# finding how many pair of nodes has
+# higher cosine similarity in real than null model
+def higher_cos_sim():
+
+    df_clean = pd.read_csv("clean_plots.csv")
+
+
+    real_cos = df_clean['real_cos']
+    null_cos = df_clean['null_cos']
+
+    higher = 0
+
+    for i in range(len(real_cos)):
+
+        if real_cos[i] > null_cos[i]:
+            higher = higher + 1
+
+
+    print(len(real_cos))
+    print(higher)
+    print((higher / (len(real_cos))) * 100)
+
+
+#higher_cos_sim()
 
 
 
