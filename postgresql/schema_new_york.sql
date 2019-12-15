@@ -158,7 +158,31 @@ FROM t2
 WHERE t2.cell_id <> t2.next_cell_id
 ;
 
+-- for all trajectories
+WITH t1 AS (
+  SELECT tr.traj_id, ce.cell_id,
+  ST_LineLocatePoint(
+      tr.traj_path,
+      ST_CENTROID(
+          (ST_DUMP(
+              ST_Intersection(ce.coordinates, tr.traj_path)
+          )).geom
+      )
+  ) AS distance
+  FROM cells_porto ce, porto_traj_1000 tr
+-- 	where tr.traj_id = 860
+),
 
+t2 AS (
+  SELECT t1.traj_id, t1.cell_id,
+  COALESCE(LEAD(t1.cell_id) OVER(ORDER BY t1.traj_id, t1.distance), -1) AS next_cell_id
+  FROM t1
+)
+
+SELECT t2.traj_id, t2.cell_id into table traj_as_cells_porto
+FROM t2
+WHERE t2.cell_id <> t2.next_cell_id
+;
 
 
 

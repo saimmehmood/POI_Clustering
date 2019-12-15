@@ -27,7 +27,7 @@ def parse_args():
 	parser.add_argument('--dimensions', type=int, default=128,
 	                    help='Number of dimensions. Default is 128.')
 
-	parser.add_argument('--walk-length', type=int, default=24,
+	parser.add_argument('--walk-length', type=int, default=18,
 	                    help='Length of walk per source. Default is 80.')
 
 	parser.add_argument('--num-walks', type=int, default=10,
@@ -108,7 +108,7 @@ def main(args):
 
 	walks = []
 	walk = []
-	with open("random_walks_10.txt") as file:
+	with open("walks_porto_inter_ten.txt") as file:
 
 		for line in file:
 			tmp = line.strip("\n").replace("[", "").replace("]", "").replace("'", "").replace(",", "")

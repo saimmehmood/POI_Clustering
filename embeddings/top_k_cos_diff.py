@@ -3,44 +3,25 @@ import pandas as pd
 import time
 import csv
 
+# storing cosine similarity difference
+# between real, intermediate and null model
 
-def top_k():
+def cos_sim_diff():
 
-    df = pd.read_csv('cos_sim_10_walks.csv')
+    df = pd.read_csv('cos_sim_porto_ten_10.csv')
 
     # fetching all the columns from file.
     diff = df['diff']
-    node1 = df['node1']
-    node2 = df['node2']
 
-    real_cos = df['real_cos_sim']
-    null_cos = df['null_cos_sim']
-
-    f = open("diff_10.txt", "w")
+    f = open("diff_porto_ten_10.txt", "w")
 
     cleaned = []
-    #
-    # for i in range(len(null_cos)):
-    #
-    #     if (null_cos[i] == "less"):
-    #         print(i)
-
-    #     if (null_cos[i] != "less") and (null_cos[i] != "infinite"):
-    #         cleaned.append(float(null_cos[i]))
-
-    # start = time.time()
 
     for i in range(len(diff)):
 
         if (diff[i] != "less") and (diff[i] != "infinite"):
             cleaned.append(float(diff[i]))
 
-
-    # for i in range(len(real_cos)):
-    #
-    #     if (real_cos[i] != "infinite") and (real_cos[i] != "less"):
-    #         cleaned.append(float(real_cos[i]))
-    #
     # # reverse sorting to show the plot from highest to lowest.
     cleaned = sorted(cleaned, reverse=True)
     #
@@ -49,11 +30,13 @@ def top_k():
 
     f.close()
 
-#top_k()
+cos_sim_diff()
 
+# sampling real nodes that are not infinite i.e., node pair doesn't exist
+# and also not less i.e., cosine similarity less than zero.
 def sample_nodes():
 
-    df_real_null = pd.read_csv("cos_sim.csv")
+    df_real_null = pd.read_csv("cos_sim_porto_ten.csv")
 
     real_cos = df_real_null['real_cos_sim']
     node1_null = df_real_null['node1']
@@ -87,8 +70,8 @@ def sample_cos():
     node2 = df_nodes['node2']
 
     # reading through cosine similarity comparison between real, intermediate and null models.
-    df_null = pd.read_csv("cos_sim.csv")
-    df_inter = pd.read_csv("cos_sim_10_walks.csv")
+    df_null = pd.read_csv("cos_sim_porto_ten.csv")
+    df_inter = pd.read_csv("cos_sim_porto_ten_10.csv")
 
     # Taking columns from real_inter model
     # value
@@ -115,13 +98,13 @@ def sample_cos():
     dict_null = pd.Series(null.values, index=list(zip(node1_null,node2_null))).to_dict()
 
 
-
     file_plot = open("plot_nodes.csv", "w")
     file_plot.write("node1,node2,real_cos,inter_cos,null_cos\n")
 
     for i in range(len(node1)):
 
         # storing the nodes from intermediate and null cosine similarities which are part of real model.
+        # looking into dict_inter only because dict_null contains all the nodes.
         if tuple((node1[i],node2[i])) in dict_inter:
 
             file_plot.write(str(node1[i]) + "," + str(node2[i]) + "," + str(dict_inter[tuple((node1[i],node2[i]))]) + "," + str(dict_null[tuple((node1[i],node2[i]))])  +"\n")
@@ -133,7 +116,7 @@ def sample_cos():
 # we remove the nodes that contains infinite or less values for nodes
 def clean_plots():
 
-    file_clean = open("clean_plots.csv", 'w')
+    file_clean = open("clean_plots_porto.csv", 'w')
 
     with open("plot_nodes.csv","r") as csvFile:
 
@@ -154,7 +137,7 @@ def clean_plots():
 
     file_clean.close()
 
-#clean_plots()
+# clean_plots()
 
 # finding how many pair of nodes has
 # higher cosine similarity in real than null model

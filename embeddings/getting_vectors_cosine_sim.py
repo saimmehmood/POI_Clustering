@@ -75,15 +75,21 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
 
 
 
-    i = int(min(labels_array_01))
-    m = int(max(labels_array_01))
+    i = min(labels_array_01)
+
+    if i > int(min(labels_array_02)):
+        i = int(min(labels_array_02))
+
+    m = max(labels_array_01)
+
+    if m < int(max(labels_array_02)):
+        m = int(max(labels_array_02))
 
     print(i)
     print(m)
 
-    f_cos_sim = open("cos_sim_ten_10.csv", "w")
+    f_cos_sim = open("cos_sim_porto_ten_10.csv", "w")
     f_cos_sim.write("node1,node2,null_cos_sim,real_cos_sim,diff\n")
-
 
 
     start = time.time()
@@ -124,7 +130,7 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
 
             # writing infinite if the nodes doesn't exist.
             else:
-                
+
                 f_cos_sim.write("infinite,")
 
             if (i in null_dict) and (j in null_dict) and (i in real_dict) and (j in real_dict):
@@ -151,6 +157,5 @@ def getting_vector_cosine_sim(vector_file_01, vector_file_02): # null_nodes, rea
     print(end - start)
 
 
-
-getting_vector_cosine_sim('intermediate_nodes.emb', 'real_nodes.emb')
+getting_vector_cosine_sim('inter_porto_ten.emb', 'real_porto_10.emb')
 
