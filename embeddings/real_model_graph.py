@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from collections import defaultdict
 
-df = pd.read_csv('traj_as_cells_ny_sample_1000.csv')
+df = pd.read_csv('traj_as_cells_ny_sample_10000.csv')
 
 traj_id = df['traj_id']
 cell_id = df['cell_id']
@@ -31,7 +31,7 @@ for i in range(len(traj_id)):
 
 #print(data_dict)
 
-f_walk = open("walks_fast.txt", "w")
+f_walk = open("walks_ten.txt", "w")
 
 for i in range(len(output)):
 

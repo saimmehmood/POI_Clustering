@@ -5,7 +5,7 @@ import numpy as np
 
 def intermediate_model():
     # Reading entire grid cells.
-    df = pd.read_csv('..\\cells_porto.csv')
+    df = pd.read_csv('..\\cells_ny.csv')
 
     # storing individual columns
 
@@ -32,14 +32,14 @@ def intermediate_model():
     arr = np.array(cell_ids).reshape(max_row + 1, max_col + 1)
 
     # Reading original walks.
-    with open("..\\walks_porto_ten.txt") as file:
+    with open("..\\walks_ten.txt") as file:
 
         walks = file.readlines()
 
     # Creating walks for Intermediate Model which keeps
     # first node same as real model and rest of the nodes
     # are picked uniformly randomly from the current node.
-    s_walk = open("..\\walks_porto_inter_ten.txt", "w")
+    s_walk = open("..\\walks_inter_10.txt", "w")
 
     store_dict = {}
 
@@ -73,7 +73,7 @@ def intermediate_model():
             col = int(val[1])
 
         # range = avg - average of real walks
-        for i in range(18):
+        for i in range(15):
 
             row_pos = row
             col_pos = col
@@ -130,7 +130,7 @@ def intermediate_model():
 
 # This function returns average of real walks.
 def average_of_cell_walks():
-    with open("..\\walks_porto.txt") as file:
+    with open("..\\walks_ten.txt") as file:
         walks = file.readlines()
 
     sum_of_walks_size = 0
@@ -149,11 +149,11 @@ def average_of_cell_walks():
 # We take real walks and add (k=9) perturbations for each walk.
 
 def k_walk_perturbations():
-    with open("..\\random_walks.txt") as file:
+    with open("..\\walks_ten.txt") as file:
 
         walks = file.readlines()
 
-    s_walk = open("..\\random_walks_10.txt", "w")
+    s_walk = open("..\\walks_ten_10.txt", "w")
 
     walk = []
 
