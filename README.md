@@ -1,5 +1,5 @@
-# Point-of-Interest (POI) Clustering Based on Trajectory Mining 
-A set of tools to find POI-POI correlation and visualize them, based on the trajectory of moving objects. 
+# Learning Semantic Relations of Geographic Areas based on Trajectories 
+A set of tools to understand semantic and geographical proximity between different geographical regions. 
 
 ## Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
