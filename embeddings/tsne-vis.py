@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
 
 def tsne_plot(vectors, label):
-    "Creates and TSNE model and plots it"
+    "Creates TSNE model and plots it"
+    
     labels = label
     tokens = vectors
     
@@ -22,15 +23,18 @@ def tsne_plot(vectors, label):
         x.append(value[0])
         y.append(value[1])
         
-    plt.figure(figsize=(16, 16)) 
+    plt.figure(figsize=(24, 24)) 
+    plt.xticks(fontsize=24)
+    plt.yticks(fontsize=24)
+
     for i in range(len(x)):
         plt.scatter(x[i],y[i])
-        plt.annotate(labels[i],
-                     xy=(x[i], y[i]),
-                     xytext=(5, 2),
-                     textcoords='offset points',
-                     ha='right',
-                     va='bottom')
+        # plt.annotate(labels[i],
+        #              xy=(x[i], y[i]),
+        #              xytext=(5, 2),
+        #              textcoords='offset points',
+        #              ha='right',
+        #              va='bottom')
     plt.show()
 
 
@@ -49,4 +53,4 @@ def build_word_vector_matrix(vector_file, n_words):
     return np.array(numpy_arrays[1:]), np.array(labels_array[1:])
 
 
-tsne_plot(*build_word_vector_matrix('walks_inter_10.emb', 1085))
+tsne_plot(*build_word_vector_matrix('real_nodes_ten_10.emb', 844))
