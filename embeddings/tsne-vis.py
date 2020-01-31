@@ -24,8 +24,8 @@ def tsne_plot(vectors, label):
         y.append(value[1])
         
     plt.figure(figsize=(24, 24)) 
-    plt.xticks(fontsize=24)
-    plt.yticks(fontsize=24)
+    plt.xticks(fontsize=35)
+    plt.yticks(fontsize=35)
 
     for i in range(len(x)):
         plt.scatter(x[i],y[i])

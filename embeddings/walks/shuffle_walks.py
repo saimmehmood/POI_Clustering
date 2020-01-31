@@ -119,8 +119,8 @@ def intermediate_model():
 
         # creating k perturbations for every shuffled walk
         for k in range(9):
+            
             random.shuffle(shuffle_all)
-
             s_walk.write(str(shuffle_all) + "\n")
 
         shuffle_all.clear()
@@ -159,14 +159,13 @@ def k_walk_perturbations():
 
     for i in range(len(walks)):
 
-        walk = list(
-            walks[i].replace("[", "").replace("]", "").replace(" ", "").replace("\n", "").split(","))
+        walk = list(walks[i].replace("[", "").replace("]", "").replace(" ", "").replace("\n", "").split(","))
 
         s_walk.write(str(walk) + "\n")
 
         for k in range(9):
-            random.shuffle(walk)
 
+            random.shuffle(walk)
             s_walk.write(str(walk) + "\n")
 
     s_walk.close()
