@@ -1,5 +1,6 @@
-# Learning Semantic Relations of Geographic Areas based on Trajectories 
+# Learning Semantic Relationships of Geographic Areas based on Trajectories 
 A set of tools to understand semantic and geographical proximity between different geographical regions. 
+#### submitted research track paper for IEEE Mobile Data Management 2020
 
 ## Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
