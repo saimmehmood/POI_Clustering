@@ -1,3 +1,4 @@
+
 import math
 
 # Dividing geographical area into grids cells.
@@ -16,7 +17,7 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     cell_height = height/grid_y
 
 
-    f = open("area_cells.csv", "w")
+    f = open("slides_photo.csv", "w")
     f.write("grid_id,name,coordinates\n")
 
 
@@ -56,6 +57,6 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
 
 
-grid_trajectories(35, 35, 41.204026, -8.708979, 41.108322, -8.522302) # (no of rows, no of cols, lat1, long1, lat2, long2)
+grid_trajectories(10, 7, 40.769274, -73.885077, 40.715813, -73.822609) # (no of rows, no of cols, lat1, long1, lat2, long2)
 
 
