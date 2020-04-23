@@ -73,7 +73,7 @@ def trajectory():
 
     gmap.plot(list_of_lists_x[70], list_of_lists_y[70], 'red', edge_width=3)
 
-# coordinates()
+coordinates()
 trajectory()
 
 # Draw
